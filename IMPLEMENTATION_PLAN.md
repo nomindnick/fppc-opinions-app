@@ -130,7 +130,7 @@ The implementation is organized into five phases: foundation and search engine i
   - `GET /api/search?q=...&topic=...&statute=...&year_start=...&year_end=...&page=1&per_page=20`
   - Calls the search engine with the query, then applies post-hoc filters (topic, statute, date range) on the results
   - Returns paginated `SearchResponse`
-  - If `q` is empty but filters are provided, return filtered browse results (sorted by date descending)
+  - If `q` is empty, return an empty result set (browse-without-query deferred to v2)
 - [ ] Create `backend/routers/opinions.py`:
   - `GET /api/opinions/{opinion_id}` — loads the full JSON file and returns `OpinionDetail`
   - Handle 404 gracefully if opinion ID doesn't exist
@@ -230,7 +230,7 @@ The implementation is organized into five phases: foundation and search engine i
 - Setting a date range excludes opinions outside that range
 - All filter values are reflected in the URL; refreshing preserves filters
 - "Clear all" resets filters and shows unfiltered results
-- Filters work both with and without a search query (browse mode)
+- Filters require an active search query (browse-without-query deferred to v2)
 
 **Sprint Update:**
 > _[To be completed by Claude Code]_

@@ -42,7 +42,7 @@ Three optional filters narrow the search scope:
 - **Statute section filter:** Input or dropdown for Government Code sections (e.g., "1090", "87100", "84308"). Leverages the existing citation index.
 - **Date range filter:** Start year / end year selectors spanning 1975–2025.
 
-Filters apply as AND conditions on top of the search query. If no query is entered, filters alone can browse the corpus.
+Filters apply as AND conditions on top of the search query. A search query is required — filters alone cannot browse the corpus in v1. (Browse-without-query is deferred to v2.)
 
 ### Results Display
 
