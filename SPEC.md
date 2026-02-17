@@ -95,16 +95,17 @@ Single-service architecture: a FastAPI backend serves both the REST API and the 
 │  └──────┬──────┘                                     │
 │         │                                             │
 │  ┌──────▼──────────────────────┐                     │
-│  │  Indexes    │  Opinion JSON  │                    │
-│  │  (pkl files)│  (14K files)   │                    │
-│  └─────────────┴────────────────┘                     │
+│  │  In-memory   │  Opinion JSON  │                    │
+│  │  indexes     │  (14K files)   │                    │
+│  └──────────────┴────────────────┘                     │
 └─────────────────────────────────────────────────────┘
          │
-         ▼ (PDF download links)
-┌─────────────────┐
-│  Cloudflare R2  │
-│   (~7GB PDFs)   │
-└─────────────────┘
+         ▼ (PDF links + index download at startup)
+┌──────────────────────┐
+│    Cloudflare R2     │
+│  (~7GB PDFs +        │
+│   ~162MB indexes)    │
+└──────────────────────┘
 ```
 
 ### Technology Stack
@@ -116,7 +117,7 @@ Single-service architecture: a FastAPI backend serves both the REST API and the 
 - **Search engine:** Ported from `fppc-opinions-search-lab` repo, experiment 009 (citation_score_fusion.py)
 - **Key Python dependencies:** `rank-bm25`, `openai`, `numpy`, `python-dotenv`, `fastapi`, `uvicorn`
 - **Key JS dependencies:** `react`, `react-router-dom`, `tailwindcss`, `vite`
-- **Static file hosting:** PDFs on Cloudflare R2
+- **Static file hosting:** PDFs and pre-built search indexes on Cloudflare R2
 - **Deployment:** Railway (single service)
 
 ### Data Model
@@ -124,7 +125,7 @@ Single-service architecture: a FastAPI backend serves both the REST API and the 
 No database. All data is file-based:
 
 - **Opinion corpus:** ~14,100 JSON files in `data/extracted/{year}/{id}.json`. Each contains structured fields: `opinion_number`, `date`, `question`, `conclusion`, `facts`, `analysis`, `qa_text`, `full_text`, `topic_primary`, `topic_secondary`, `government_code_sections`, `prior_opinions`, and more.
-- **Search indexes:** Three pre-built pickle files (~162MB total): BM25 full-text index, OpenAI text-embedding-3-small qa_text embeddings, and citation index mapping statute sections to opinion IDs.
+- **Search indexes:** Three pre-built pickle files (~162MB total) hosted on Cloudflare R2 and downloaded at app startup: BM25 full-text index, OpenAI text-embedding-3-small qa_text embeddings, and citation index mapping statute sections to opinion IDs.
 - **Metadata index:** At startup, the app loads a lightweight metadata index (opinion number, date, question, conclusion, topics, statutes) for fast results rendering without reading individual JSON files. This should be built as a startup task or pre-built artifact.
 
 ### Key Design Decisions
@@ -133,9 +134,9 @@ No database. All data is file-based:
 
 2. **Single Railway service:** FastAPI serves both the API and the React build output. Avoids the complexity of coordinating two services and keeps the free/cheap tier viable.
 
-3. **Cloudflare R2 for PDFs:** Railway's ephemeral filesystem can't reliably serve 7GB of static files. R2's zero-egress pricing and 10GB free tier make it the obvious choice. PDFs are immutable so caching is trivial.
+3. **Cloudflare R2 for PDFs and indexes:** Railway's ephemeral filesystem can't reliably serve 7GB of static files. R2's zero-egress pricing and 10GB free tier make it the obvious choice. PDFs are immutable so caching is trivial. The pre-built search indexes (~162MB) are also stored on R2 alongside the PDFs, keeping the git repo small and using the same infrastructure.
 
-4. **Pre-built indexes shipped with the app:** The BM25 and embedding indexes are built once in the search lab and committed to the repo (or stored as release artifacts if too large for git). The app loads them at startup rather than rebuilding. This means zero index-build time on deploy and no OpenAI API calls for indexing in production.
+4. **Pre-built indexes downloaded from R2 at startup:** The BM25 and embedding indexes are built once in the search lab and uploaded to Cloudflare R2. The app downloads them at startup and loads them into memory. This means zero index-build time on deploy, no OpenAI API calls for indexing in production, and no need for Git LFS or large files in the repo.
 
 5. **No authentication for v1:** The app is public-facing. The only per-query API cost is one OpenAI embedding call for citation-path queries (~$0.0001 per query). At expected traffic levels (<100 queries/day), this is negligible. Auth can be added later if needed.
 
@@ -145,9 +146,8 @@ No database. All data is file-based:
 
 ### Known Challenges
 
-- **Index file size:** The three pickle files total ~162MB. These need to be either committed to the repo (fine for private repos, awkward for public), stored as Git LFS objects, or downloaded at build/startup time. Railway's build step can handle this, but the approach should be decided early.
-- **Startup time:** Loading 162MB of indexes plus building a metadata index from 14K JSON files will take several seconds. The app should handle this gracefully (health check endpoint that reports ready only after indexes are loaded, loading state on the frontend if the first request arrives before indexes are ready).
-- **Railway ephemeral storage:** The JSON corpus and indexes need to be part of the deployed image (included in the repo or downloaded during build). They won't persist across redeploys if written at runtime.
+- **Startup time:** Downloading ~162MB of indexes from R2 plus building a metadata index from 14K JSON files will take several seconds. The app should handle this gracefully (health check endpoint that reports ready only after indexes are loaded, loading state on the frontend if the first request arrives before indexes are ready).
+- **Railway ephemeral storage:** The JSON corpus needs to be part of the deployed image (included in the repo). Search indexes are downloaded from R2 at startup on each deploy. They won't persist across redeploys but the download adds only ~10-30 seconds to startup.
 - **OpenAI API dependency:** Citation-path queries require an embedding API call. If OpenAI is down or the API key expires, the citation path fails. The engine should fall back gracefully to BM25-only for those queries rather than returning an error.
 
 ### Out of Scope for V1
@@ -217,7 +217,7 @@ Three pickle files must be available at the paths the engine expects:
 - `indexes/embeddings_text-embedding-3-small_qa_text.pkl` (~87MB)
 - `indexes/BM25CitationBoost_citation_index.pkl` (~784KB)
 
-These are committed to the repo (or managed via Git LFS if the repo is public). They are loaded once at app startup.
+These are hosted on Cloudflare R2 (same bucket/infrastructure as the PDFs) and downloaded to the local `indexes/` directory at app startup. They are gitignored — the repo stays small and R2 is the single source of truth for both PDFs and indexes.
 
 ### Metadata Index
 
@@ -231,6 +231,7 @@ The React app is built with Vite. The production build outputs to a directory (e
 
 - `OPENAI_API_KEY` — Required for citation-path embedding queries
 - `R2_PDF_BASE_URL` — Base URL for Cloudflare R2 PDF bucket (e.g., `https://fppc-pdfs.r2.dev`)
+- `R2_INDEX_BASE_URL` — Base URL for downloading search index pickle files from R2 (may be the same bucket as PDFs with an `/indexes/` prefix, or a separate bucket)
 - `PORT` — Railway sets this automatically
 - `ENV` — `development` or `production` (controls static file serving behavior)
 

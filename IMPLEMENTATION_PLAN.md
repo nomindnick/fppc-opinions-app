@@ -39,7 +39,7 @@ The implementation is organized into five phases: foundation and search engine i
   │   └── (empty for now)
   ├── data/
   │   └── extracted/            (opinion JSON corpus — gitignored, symlinked or copied)
-  ├── indexes/                  (pre-built pickle files — gitignored or LFS)
+  ├── indexes/                  (pre-built pickle files — gitignored, downloaded from R2 at startup)
   ├── .env.example
   ├── .gitignore
   ├── SPEC.md
@@ -63,7 +63,7 @@ The implementation is organized into five phases: foundation and search engine i
 > - All three index files present locally (155MB total): BM25 full-text (71M), embeddings (83M), citation index (768K)
 > - Index files and `data/extracted/` are gitignored; 14,096 opinion JSON files confirmed present
 > - Evaluation dataset (65 queries) included in `eval/dataset.json`
-> - Git LFS not yet configured for indexes — decision deferred (indexes are gitignored for now, will need a deployment strategy in Sprint 5.2)
+> - Indexes are gitignored and will be hosted on Cloudflare R2 (same infrastructure as PDFs). The app will download them at startup. Upload script and startup download logic to be implemented in Sprint 5.2.
 
 ---
 
@@ -394,9 +394,11 @@ The implementation is organized into five phases: foundation and search engine i
   - Write a simple upload script (`scripts/upload_pdfs.py`) using the AWS S3-compatible API (R2 is S3-compatible) or `rclone`
   - Verify a PDF is accessible at the expected public URL
   - Set `R2_PDF_BASE_URL` in the app config
-- [ ] **Handle large index files for deployment:**
-  - If indexes are too large for git (>100MB), configure Git LFS or create a build step that downloads them from R2 (store indexes in a separate R2 bucket or the same one in an `/indexes/` prefix)
-  - Ensure Railway's build step has access to the index files
+- [ ] **Upload index files to R2 and configure startup download:**
+  - Upload the three pickle files to R2 (same bucket as PDFs, under an `/indexes/` prefix, or a dedicated bucket)
+  - Write a download script/function that the app calls at startup to fetch indexes from R2 into the local `indexes/` directory (skip download if files already exist locally, e.g., in development)
+  - Set `R2_INDEX_BASE_URL` environment variable in Railway
+  - Verify Railway startup downloads indexes and the engine loads them successfully
 - [ ] **Railway deployment:**
   - Create a Railway project, connect to the GitHub repo
   - Set environment variables: `OPENAI_API_KEY`, `R2_PDF_BASE_URL`, `ENV=production`
@@ -440,12 +442,14 @@ Sprints within each phase are sequential. Cross-phase dependencies:
 
 ### Index File Strategy
 
-The three pickle index files total ~162MB. Options in order of preference:
-1. **Git LFS:** If the repo is on GitHub with LFS enabled, track `.pkl` files with LFS. Railway supports LFS in builds.
-2. **R2 download at build time:** Store indexes in R2, download them during the Railway build step. Adds ~30 seconds to builds but keeps the repo small.
-3. **Direct commit:** If the repo is private and <250MB total, just commit them. Simplest approach.
+**Decision: Cloudflare R2 download at startup.**
 
-Choose the approach in Sprint 1.1 and document the decision in the sprint update.
+The three pickle index files total ~162MB. They are hosted on Cloudflare R2 (same infrastructure as the PDFs) and downloaded at app startup. This keeps the git repo small, avoids Git LFS complexity, and uses infrastructure we already have.
+
+- Indexes are gitignored locally and in the repo
+- In production (Railway), the app downloads them from R2 on each deploy/restart (~10-30 seconds)
+- In development, the files are already present locally in `indexes/` — the download is skipped if files exist
+- Upload script (`scripts/upload_indexes.py` or similar) handles pushing updated indexes to R2 when they're rebuilt in the search lab
 
 ### Definition of Done
 

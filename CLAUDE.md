@@ -27,7 +27,7 @@ frontend/
     pages/SearchPage.jsx, OpinionPage.jsx
     components/        # SearchBar, ResultCard, FilterBar, OpinionBody, etc.
 data/extracted/        # ~14,100 opinion JSON files organized by year (gitignored)
-indexes/               # Pre-built pickle files for search engine (gitignored or LFS)
+indexes/               # Pre-built pickle files for search engine (gitignored, downloaded from R2 at startup)
 ```
 
 ## Commands
@@ -73,6 +73,7 @@ No database. All data is file-based:
 
 - `OPENAI_API_KEY` — required for citation-path embedding queries
 - `R2_PDF_BASE_URL` — Cloudflare R2 base URL for PDF downloads
+- `R2_INDEX_BASE_URL` — Cloudflare R2 base URL for downloading search index pickle files at startup
 - `PORT` — set by Railway
 - `ENV` — `development` or `production` (controls static file serving)
 
