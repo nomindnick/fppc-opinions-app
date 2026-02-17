@@ -2,34 +2,56 @@
 
 import logging
 import time
+from contextlib import asynccontextmanager
 
 from fastapi import FastAPI, Request
 
+from backend.exceptions import register_exception_handlers
 from backend.metadata import build_metadata_index
+from backend.middleware import RequestLoggingMiddleware
 from backend.routers import filters, opinions, search
 from backend.search.engine import CitationScoreFusion
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-app = FastAPI(title="FPPC Opinions Search")
+
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    t0 = time.monotonic()
+
+    app.state.engine = CitationScoreFusion()
+    engine = app.state.engine
+    logger.info("Search engine loaded: %s", engine.name())
+
+    app.state.metadata = build_metadata_index()
+    meta = app.state.metadata
+    logger.info(
+        "Corpus: %d opinions, %d topics, %d statutes, years %d–%d",
+        meta.total_opinions,
+        len(meta.topic_counts),
+        len(meta.statute_counts),
+        meta.year_min,
+        meta.year_max,
+    )
+
+    openai_available = bool(getattr(engine, "_client", None))
+    logger.info("OpenAI available: %s", openai_available)
+
+    elapsed = time.monotonic() - t0
+    logger.info("Startup completed in %.1fs", elapsed)
+
+    yield
+
+
+app = FastAPI(title="FPPC Opinions Search", lifespan=lifespan)
+
+register_exception_handlers(app)
+app.add_middleware(RequestLoggingMiddleware)
 
 app.include_router(search.router)
 app.include_router(opinions.router)
 app.include_router(filters.router)
-
-
-@app.on_event("startup")
-async def startup():
-    t0 = time.time()
-    app.state.engine = CitationScoreFusion()
-    engine_elapsed = time.time() - t0
-    logger.info("Search engine loaded in %.1fs", engine_elapsed)
-
-    t1 = time.time()
-    app.state.metadata = build_metadata_index()
-    meta_elapsed = time.time() - t1
-    logger.info("Metadata index built in %.1fs", meta_elapsed)
 
 
 @app.get("/api/health")

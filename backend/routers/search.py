@@ -2,9 +2,15 @@
 
 from __future__ import annotations
 
-from fastapi import APIRouter, Query, Request
+import logging
+import time
 
+from fastapi import APIRouter, Depends, Query, Request
+
+from backend.middleware import check_rate_limit
 from backend.models import SearchResponse, SearchResult
+
+logger = logging.getLogger(__name__)
 
 router = APIRouter(prefix="/api", tags=["search"])
 
@@ -20,7 +26,7 @@ def _truncate(text: str | None, max_len: int = 300) -> str | None:
     return truncated + "..."
 
 
-@router.get("/search", response_model=SearchResponse)
+@router.get("/search", response_model=SearchResponse, dependencies=[Depends(check_rate_limit)])
 async def search(
     request: Request,
     q: str = Query("", description="Search query"),
@@ -55,8 +61,14 @@ async def search(
     engine = request.app.state.engine
     metadata = request.app.state.metadata
 
-    # Over-fetch for post-hoc filtering
-    result_ids = engine.search(query, top_k=200)
+    t0 = time.monotonic()
+
+    # Search with graceful degradation on engine error
+    try:
+        result_ids = engine.search(query, top_k=200)
+    except Exception:
+        logger.exception("Search engine error for query: %s", query)
+        result_ids = []
 
     # Look up metadata and apply filters
     filtered = []
@@ -105,6 +117,9 @@ async def search(
                 document_type=meta["document_type"],
             )
         )
+
+    elapsed_ms = (time.monotonic() - t0) * 1000
+    logger.info("query=%r total_results=%d elapsed_ms=%.0f", query, total_results, elapsed_ms)
 
     return SearchResponse(
         query=q,

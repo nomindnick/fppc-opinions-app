@@ -70,3 +70,8 @@ class FiltersResponse(BaseModel):
     year_min: int
     year_max: int
     total_opinions: int
+
+
+class ErrorResponse(BaseModel):
+    error: str
+    detail: str | None = None
