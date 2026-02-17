@@ -16,11 +16,9 @@ import pickle
 import sys
 
 import numpy as np
-from dotenv import load_dotenv
 from openai import OpenAI
 
-load_dotenv(override=True)
-
+from backend.config import settings
 from backend.search.interface import SearchEngine
 from backend.search.utils import tokenize, parse_query_citations
 
@@ -70,7 +68,7 @@ class CitationScoreFusion(SearchEngine):
         self._w_sem = w_sem
 
         # OpenAI client for query embedding
-        api_key = os.environ.get("OPENAI_API_KEY")
+        api_key = settings.openai_api_key
         self._openai_available = bool(api_key)
         if api_key:
             self._client = OpenAI(api_key=api_key)
