@@ -168,12 +168,12 @@ The implementation is organized into five phases: foundation and search engine i
 **Objective:** Production-harden the API with graceful error handling, rate limiting on the search endpoint, and automatic BM25 fallback when OpenAI is unavailable.
 
 **Tasks:**
-- [ ] Add OpenAI fallback to the search engine: wrap the embedding call in a try/except. If it fails (timeout, auth error, rate limit), log a warning and fall back to BM25-only results for that query. The user should never see a 500 error because OpenAI is down.
-- [ ] Add basic rate limiting middleware to FastAPI: 60 requests/minute per IP on the `/api/search` endpoint. Use a simple in-memory token bucket (no Redis needed at this scale). Return 429 with a clear message if exceeded.
-- [ ] Add structured error responses: all API errors return `{"error": "message", "detail": "..."}` with appropriate HTTP status codes
-- [ ] Add request logging: log each search query (anonymized — no IP) with response time and result count, for future analytics
-- [ ] Add a startup event that logs engine load time, corpus size, and index sizes
-- [ ] Test error scenarios: invalid query params, missing opinion ID, simulated OpenAI failure
+- [x] Add OpenAI fallback to the search engine: wrap the embedding call in a try/except. If it fails (timeout, auth error, rate limit), log a warning and fall back to BM25-only results for that query. The user should never see a 500 error because OpenAI is down.
+- [x] Add basic rate limiting middleware to FastAPI: 60 requests/minute per IP on the `/api/search` endpoint. Use a simple in-memory token bucket (no Redis needed at this scale). Return 429 with a clear message if exceeded.
+- [x] Add structured error responses: all API errors return `{"error": "message", "detail": "..."}` with appropriate HTTP status codes
+- [x] Add request logging: log each search query (anonymized — no IP) with response time and result count, for future analytics
+- [x] Add a startup event that logs engine load time, corpus size, and index sizes
+- [x] Test error scenarios: invalid query params, missing opinion ID, simulated OpenAI failure
 
 **Acceptance Criteria:**
 - Simulating OpenAI failure (bad API key) still returns search results (BM25-only) with no 500 error
@@ -182,7 +182,14 @@ The implementation is organized into five phases: foundation and search engine i
 - Startup logs show engine initialization details
 
 **Sprint Update:**
-> _[To be completed by Claude Code]_
+> - OpenAI fallback already existed inside `engine.py` (lines 179-188) — no engine modifications needed. Router-level try/except added around `engine.search()` for graceful degradation on unexpected errors (returns 0 results instead of 500).
+> - Token bucket rate limiter: capacity=60 burst, 1 token/sec refill, keyed by client IP. Applied only to `/api/search` via FastAPI `Depends()`. Returns 429 with structured error.
+> - Three exception handlers registered: `StarletteHTTPException` (normalizes all HTTP errors), `RequestValidationError` (readable 422 for bad params like `?page=abc`), catch-all `Exception` (logs traceback, returns generic 500 — no traceback leaked).
+> - `RequestLoggingMiddleware` (BaseHTTPMiddleware) logs `METHOD /path STATUS elapsed_ms` for all `/api/` routes. Search endpoint additionally logs query, result count, and timing.
+> - Converted deprecated `@app.on_event("startup")` to `lifespan` async context manager. Startup logs: engine name, corpus stats (opinion count, topic/statute counts, year range), OpenAI availability, total startup time.
+> - `ErrorResponse` Pydantic model added (`error: str, detail: str | None`).
+> - 11 pytest tests in `backend/tests/test_api.py` with shared fixtures in `conftest.py`: mock engine, mock metadata backed by temp JSON files, autouse rate limiter reset. Covers search results, empty query, invalid params (422), engine error degradation, opinion found/not found/file error, rate limiting, health, and filters.
+> - Code review fixes: use `engine._openai_available` instead of private `_client`, stringify `exc.detail` for non-string safety, wrap `call_next` in try-except in logging middleware, restore over-fetch comment, clarify rate limiter docstring.
 
 ---
 
