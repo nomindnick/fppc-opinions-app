@@ -1,0 +1,19 @@
+# Data / indexes (too large for git)
+data/extracted/
+indexes/
+
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+
+# Node / Frontend
+frontend/node_modules/
+frontend/dist/
+
+# OS
+.DS_Store
