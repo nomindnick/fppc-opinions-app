@@ -73,11 +73,11 @@ The implementation is organized into five phases: foundation and search engine i
 **Objective:** Initialize the React frontend with Vite, configure Tailwind CSS, set up the dev proxy to the FastAPI backend, and verify the full-stack dev workflow.
 
 **Tasks:**
-- [ ] Initialize React app in `frontend/` using Vite: `npm create vite@latest frontend -- --template react`
-- [ ] Install and configure Tailwind CSS (follow Vite + Tailwind docs)
-- [ ] Install `react-router-dom` for client-side routing
-- [ ] Configure Vite dev server to proxy `/api/*` requests to `http://localhost:8000` (the FastAPI backend)
-- [ ] Create minimal app structure:
+- [x] Initialize React app in `frontend/` using Vite: `npm create vite@latest frontend -- --template react`
+- [x] Install and configure Tailwind CSS (follow Vite + Tailwind docs)
+- [x] Install `react-router-dom` for client-side routing
+- [x] Configure Vite dev server to proxy `/api/*` requests to `http://localhost:8000` (the FastAPI backend)
+- [x] Create minimal app structure:
   ```
   frontend/src/
   ├── App.jsx            (router with two placeholder routes: / and /opinion/:id)
@@ -89,9 +89,9 @@ The implementation is organized into five phases: foundation and search engine i
   └── components/
       └── Layout.jsx       (shared layout wrapper)
   ```
-- [ ] Add Google Fonts: Inter (sans-serif) and Lora or Source Serif 4 (serif) via CSS import or `<link>` tag
-- [ ] Configure Tailwind `theme.extend` with the custom font families and color palette from the SPEC (warm neutrals, accent color)
-- [ ] Verify full-stack dev workflow: start FastAPI (`uvicorn backend.main:app --reload`), start Vite (`cd frontend && npm run dev`), confirm the React app loads and can hit the `/health` endpoint through the proxy
+- [x] Add Google Fonts: Inter (sans-serif) and Lora or Source Serif 4 (serif) via CSS import or `<link>` tag
+- [x] Configure Tailwind `theme.extend` with the custom font families and color palette from the SPEC (warm neutrals, accent color)
+- [x] Verify full-stack dev workflow: start FastAPI (`uvicorn backend.main:app --reload`), start Vite (`cd frontend && npm run dev`), confirm the React app loads and can hit the `/health` endpoint through the proxy
 
 **Acceptance Criteria:**
 - `npm run dev` serves the React app with hot reload
@@ -101,7 +101,13 @@ The implementation is organized into five phases: foundation and search engine i
 - React Router navigates between the two placeholder pages
 
 **Sprint Update:**
-> _[To be completed by Claude Code]_
+> - Scaffolded with Vite + React 19 (latest from `create-vite` template)
+> - Tailwind CSS v4 used instead of v3 — uses `@tailwindcss/vite` plugin and `@theme` block in CSS rather than `tailwind.config.js` / `theme.extend`. No `postcss.config.js` needed.
+> - Source Serif 4 chosen as the serif font (user confirmed). Loaded via Google Fonts CSS `@import` in `index.css` alongside Inter.
+> - Design tokens defined as CSS custom properties in `@theme`: warm neutral palette (`#FAFAF8` bg, warm grays), muted teal accent (`#2B6B5E`)
+> - Vite dev proxy configured: `/api` → `localhost:8000`
+> - Placeholder SearchPage fetches `/api/health` to verify full-stack connectivity through the proxy
+> - `npm run build` produces `frontend/dist/` cleanly (231KB JS + 9KB CSS gzipped)
 
 ---
 
