@@ -1,61 +1,113 @@
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useRef } from 'react'
+import { useSearchParams } from 'react-router-dom'
+import SearchBar from '../components/SearchBar'
+import SearchLanding from '../components/SearchLanding'
+import ResultsList from '../components/ResultsList'
+import Pagination from '../components/Pagination'
+
+const PER_PAGE = 20
 
 export default function SearchPage() {
-  const [health, setHealth] = useState(null)
-  const [error, setError] = useState(null)
+  const [searchParams, setSearchParams] = useSearchParams()
+  const query = searchParams.get('q') || ''
+  const page = parseInt(searchParams.get('page') || '1', 10)
 
+  const [results, setResults] = useState(null)
+  const [totalResults, setTotalResults] = useState(0)
+  const [loading, setLoading] = useState(false)
+  const [error, setError] = useState(null)
+  const [totalOpinions, setTotalOpinions] = useState(null)
+  const abortRef = useRef(null)
+
+  // Fetch filter metadata once on mount
   useEffect(() => {
-    fetch('/api/health')
-      .then(res => res.json())
-      .then(setHealth)
-      .catch(err => setError(err.message))
+    fetch('/api/filters')
+      .then((res) => res.json())
+      .then((data) => setTotalOpinions(data.total_opinions))
+      .catch(() => {})
   }, [])
+
+  // Fetch search results when query or page changes
+  useEffect(() => {
+    if (!query) {
+      setResults(null)
+      setTotalResults(0)
+      setError(null)
+      return
+    }
+
+    if (abortRef.current) {
+      abortRef.current.abort()
+    }
+    const controller = new AbortController()
+    abortRef.current = controller
+
+    const params = new URLSearchParams({ q: query, page, per_page: PER_PAGE })
+
+    setLoading(true)
+    setError(null)
+
+    fetch(`/api/search?${params}`, { signal: controller.signal })
+      .then((res) => {
+        if (!res.ok) throw new Error(`Search failed (${res.status})`)
+        return res.json()
+      })
+      .then((data) => {
+        setResults(data.results)
+        setTotalResults(data.total_results)
+        setLoading(false)
+      })
+      .catch((err) => {
+        if (err.name === 'AbortError') return
+        setError('Something went wrong. Please try again.')
+        setLoading(false)
+      })
+
+    window.scrollTo(0, 0)
+
+    return () => controller.abort()
+  }, [query, page])
+
+  function handleSearch(q) {
+    setSearchParams({ q, page: 1 })
+  }
+
+  function handlePageChange(newPage) {
+    setSearchParams({ q: query, page: newPage })
+  }
+
+  function handleExampleClick(q) {
+    setSearchParams({ q, page: 1 })
+  }
 
   return (
     <div>
-      <div className="mb-10">
-        <h1 className="text-3xl font-bold text-text-primary mb-2">
-          FPPC Advisory Opinions
-        </h1>
-        <p className="text-text-secondary text-lg">
-          Search ~14,100 advisory opinion letters from 1975–2025
-        </p>
+      <div className="mb-8">
+        <SearchBar value={query} onSearch={handleSearch} />
       </div>
 
-      <div className="mb-10">
-        <input
-          type="text"
-          disabled
-          placeholder="Search opinions… (coming soon)"
-          className="w-full px-4 py-3 rounded-lg border border-border bg-surface text-text-primary placeholder:text-text-muted shadow-sm"
+      {!query ? (
+        <SearchLanding
+          totalOpinions={totalOpinions}
+          onExampleClick={handleExampleClick}
         />
-      </div>
-
-      <div className="mb-10">
-        <h2 className="text-sm font-medium text-text-muted uppercase tracking-wide mb-3">
-          Typography Preview
-        </h2>
-        <p className="font-serif text-lg leading-relaxed text-text-primary">
-          The Political Reform Act requires every candidate and committee to file
-          campaign statements reporting contributions and expenditures. This serif
-          text previews how opinion body content will render using Source Serif 4.
-        </p>
-      </div>
-
-      <div className="p-4 rounded-lg border border-border bg-surface">
-        <h2 className="text-sm font-medium text-text-muted uppercase tracking-wide mb-2">
-          Backend Status
-        </h2>
-        {error && <p className="text-red-600 text-sm">Error: {error}</p>}
-        {health && (
-          <pre className="text-sm text-text-secondary whitespace-pre-wrap">
-            {JSON.stringify(health, null, 2)}
-          </pre>
-        )}
-        {!health && !error && (
-          <p className="text-sm text-text-muted">Loading…</p>
-        )}
-      </div>
+      ) : error ? (
+        <div className="text-center py-16">
+          <p className="text-red-600">{error}</p>
+        </div>
+      ) : (
+        <>
+          <ResultsList results={results} loading={loading} query={query} />
+          {!loading && results && results.length > 0 && (
+            <Pagination
+              page={page}
+              totalResults={totalResults}
+              perPage={PER_PAGE}
+              onPageChange={handlePageChange}
+            />
+          )}
+        </>
+      )}
     </div>
   )
 }
