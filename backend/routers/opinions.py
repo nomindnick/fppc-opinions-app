@@ -14,7 +14,7 @@ router = APIRouter(prefix="/api", tags=["opinions"])
 
 
 @router.get("/opinions/{opinion_id}", response_model=OpinionDetail)
-async def get_opinion(opinion_id: str, request: Request):
+def get_opinion(opinion_id: str, request: Request):
     metadata = request.app.state.metadata
     meta = metadata.opinions.get(opinion_id)
     if meta is None:
