@@ -121,22 +121,22 @@ The implementation is organized into five phases: foundation and search engine i
 **Objective:** Build a metadata index for fast results rendering, create the search API endpoint, and create the opinion detail endpoint.
 
 **Tasks:**
-- [ ] Create `backend/metadata.py`: On startup, iterate all opinion JSON files and build an in-memory dict mapping opinion ID → `{opinion_number, date, question, conclusion, topic_primary, topic_secondary, government_code_sections, prior_opinions, year, file_path}`. Log the build time. Consider pre-building this as a pickle/JSON artifact if startup time exceeds 10 seconds.
-- [ ] Create Pydantic response models in `backend/models.py`:
+- [x] Create `backend/metadata.py`: On startup, iterate all opinion JSON files and build an in-memory dict mapping opinion ID → `{opinion_number, date, question, conclusion, topic_primary, topic_secondary, government_code_sections, prior_opinions, year, file_path}`. Log the build time. Consider pre-building this as a pickle/JSON artifact if startup time exceeds 10 seconds.
+- [x] Create Pydantic response models in `backend/models.py`:
   - `SearchResult`: opinion_id, opinion_number, date, question, conclusion (truncated to ~300 chars), topics (list), statutes (list), relevance_score
   - `SearchResponse`: query, total_results, results (list of SearchResult), filters_applied
   - `OpinionDetail`: all structured fields from the JSON, plus a `pdf_url` field constructed from the R2 base URL, plus `cited_opinions` as a list of {opinion_number, opinion_id} for clickable links
-- [ ] Create `backend/routers/search.py`:
+- [x] Create `backend/routers/search.py`:
   - `GET /api/search?q=...&topic=...&statute=...&year_start=...&year_end=...&page=1&per_page=20`
   - Calls the search engine with the query, then applies post-hoc filters (topic, statute, date range) on the results
   - Returns paginated `SearchResponse`
   - If `q` is empty, return an empty result set (browse-without-query deferred to v2)
-- [ ] Create `backend/routers/opinions.py`:
+- [x] Create `backend/routers/opinions.py`:
   - `GET /api/opinions/{opinion_id}` — loads the full JSON file and returns `OpinionDetail`
   - Handle 404 gracefully if opinion ID doesn't exist
-- [ ] Create `backend/routers/filters.py`:
+- [x] Create `backend/routers/filters.py`:
   - `GET /api/filters` — returns available filter values: list of topics (with counts), list of statute sections (with counts), year range. Built from the metadata index.
-- [ ] Wire all routers into `main.py`
+- [x] Wire all routers into `main.py`
 
 **Acceptance Criteria:**
 - `GET /api/search?q=conflict+of+interest` returns a well-structured JSON response with ranked results including question/conclusion previews
@@ -147,7 +147,18 @@ The implementation is organized into five phases: foundation and search engine i
 - API responses are fast: search < 2 seconds, opinion detail < 200ms, filters < 200ms
 
 **Sprint Update:**
-> _[To be completed by Claude Code]_
+> - Metadata index walks ~14K JSON files at startup in ~1.2s — well under the 10s threshold, no pickle pre-build needed
+> - `MetadataIndex` dataclass holds opinions dict, pre-computed topic/statute counts (via Counter), and year range for instant `/api/filters` responses
+> - Question/conclusion use fallback logic: `sections.question` → `sections.question_synthetic` for older opinions with poor OCR
+> - Search uses over-fetch strategy: `engine.search(query, top_k=200)` then post-hoc AND filtering (topic, statute, year range), then paginate. 200 is generous enough that filtering rarely exhausts the pool.
+> - Engine returns only IDs (no scores), so results include a 1-based `rank` field instead of `relevance_score`
+> - Conclusions truncated to ~300 chars at last word boundary in search results
+> - Opinion detail constructs R2 PDF URLs with `urllib.parse.quote(path, safe='/')` for filenames with spaces/parens; falls back to FPPC website URL
+> - `CitedOpinion` model includes `exists_in_corpus` flag checked against metadata index for prior_opinions and cited_by
+> - Refactored `main.py`: replaced module-level `engine` global with `app.state.engine` + `app.state.metadata`; routers access via `request.app.state`
+> - `get_opinion` endpoint uses plain `def` (not `async def`) so FastAPI runs the synchronous file I/O in a threadpool automatically
+> - 14,095 opinions indexed (one fewer than the 14,096 in Sprint 1.1 notes — likely a malformed file skipped by the try/except)
+> - Corpus stats: 5 topics (conflicts_of_interest: 6,797, campaign_finance: 2,395, other: 1,064, gifts_honoraria: 764, lobbying: 180), 2,896 uncategorized, 1,207 unique statute sections, years 1975–2025
 
 ---
 
