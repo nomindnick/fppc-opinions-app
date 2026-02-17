@@ -35,7 +35,7 @@ async def lifespan(app: FastAPI):
         meta.year_max,
     )
 
-    openai_available = bool(getattr(engine, "_client", None))
+    openai_available = getattr(engine, "_openai_available", False)
     logger.info("OpenAI available: %s", openai_available)
 
     elapsed = time.monotonic() - t0

@@ -13,7 +13,12 @@ logger = logging.getLogger(__name__)
 
 
 class RateLimiter:
-    """In-memory token bucket rate limiter, keyed by client IP."""
+    """In-memory token bucket rate limiter, keyed by client IP.
+
+    Args:
+        capacity: Burst capacity (max tokens that can accumulate).
+        refill_rate: Tokens added per second (steady-state throughput).
+    """
 
     def __init__(self, capacity: int = 60, refill_rate: float = 1.0):
         self.capacity = capacity
@@ -52,7 +57,12 @@ class RequestLoggingMiddleware(BaseHTTPMiddleware):
             return await call_next(request)
 
         t0 = time.monotonic()
-        response = await call_next(request)
+        try:
+            response = await call_next(request)
+        except Exception:
+            elapsed_ms = (time.monotonic() - t0) * 1000
+            logger.info("%s %s 500 %.0fms", request.method, request.url.path, elapsed_ms)
+            raise
         elapsed_ms = (time.monotonic() - t0) * 1000
 
         logger.info(

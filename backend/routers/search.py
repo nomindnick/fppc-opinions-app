@@ -63,7 +63,7 @@ async def search(
 
     t0 = time.monotonic()
 
-    # Search with graceful degradation on engine error
+    # Over-fetch for post-hoc filtering; engine handles OpenAI fallback internally
     try:
         result_ids = engine.search(query, top_k=200)
     except Exception:

@@ -14,9 +14,10 @@ logger = logging.getLogger(__name__)
 
 
 async def http_exception_handler(request: Request, exc: StarletteHTTPException) -> JSONResponse:
+    detail = str(exc.detail) if exc.detail is not None else "Request error"
     return JSONResponse(
         status_code=exc.status_code,
-        content={"error": exc.detail or "Request error", "detail": None},
+        content={"error": detail, "detail": None},
     )
 
 
