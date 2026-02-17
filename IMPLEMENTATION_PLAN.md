@@ -20,7 +20,7 @@ The implementation is organized into five phases: foundation and search engine i
 **Objective:** Set up the monorepo structure, port the search engine from the search lab, and verify it initializes and runs a query.
 
 **Tasks:**
-- [ ] Create project directory structure:
+- [x] Create project directory structure:
   ```
   fppc-opinions/
   ├── backend/
@@ -45,11 +45,11 @@ The implementation is organized into five phases: foundation and search engine i
   ├── SPEC.md
   └── IMPLEMENTATION_PLAN.md
   ```
-- [ ] Port search engine files: copy `interface.py` as-is, refactor `citation_score_fusion.py` into `engine.py` with imports adjusted to pull `tokenize()` and `parse_query_citations()` from the new `utils.py` instead of sibling engine files
-- [ ] Update engine constructor defaults to match new directory layout (`corpus_path="data/extracted"`, `index_dir="indexes"`)
-- [ ] Create `requirements.txt` with: `fastapi`, `uvicorn[standard]`, `rank-bm25`, `openai`, `numpy`, `python-dotenv`, `pydantic-settings`, `httpx` (for testing)
-- [ ] Create minimal `main.py`: FastAPI app with a `/health` endpoint that reports whether the search engine is loaded
-- [ ] Write a `backend/test_engine.py` script that instantiates the engine and runs 3 test queries, printing results to stdout — verifies the port didn't break anything
+- [x] Port search engine files: copy `interface.py` as-is, refactor `citation_score_fusion.py` into `engine.py` with imports adjusted to pull `tokenize()` and `parse_query_citations()` from the new `utils.py` instead of sibling engine files
+- [x] Update engine constructor defaults to match new directory layout (`corpus_path="data/extracted"`, `index_dir="indexes"`)
+- [x] Create `requirements.txt` with: `fastapi`, `uvicorn[standard]`, `rank-bm25`, `openai`, `numpy`, `python-dotenv`, `pydantic-settings`, `httpx` (for testing)
+- [x] Create minimal `main.py`: FastAPI app with a `/health` endpoint that reports whether the search engine is loaded
+- [x] Write a `backend/test_engine.py` script that instantiates the engine and runs 3 test queries, printing results to stdout — verifies the port didn't break anything
 
 **Acceptance Criteria:**
 - `python backend/test_engine.py` runs 3 queries and returns ranked results matching expected output from the search lab
@@ -57,7 +57,13 @@ The implementation is organized into five phases: foundation and search engine i
 - No import errors; all search engine dependencies resolve
 
 **Sprint Update:**
-> _[To be completed by Claude Code]_
+> - Engine ported from experiment 009 with minimal modifications
+> - Path computation uses `os.path.dirname` chain from `__file__` for absolute paths to indexes — avoids breaking when the working directory differs from the project root
+> - OpenAI API key read from centralized `config.settings` (pydantic-settings) rather than module-level `load_dotenv()` — prevents `.env` from overwriting Railway production env vars
+> - All three index files present locally (155MB total): BM25 full-text (71M), embeddings (83M), citation index (768K)
+> - Index files and `data/extracted/` are gitignored; 14,096 opinion JSON files confirmed present
+> - Evaluation dataset (65 queries) included in `eval/dataset.json`
+> - Git LFS not yet configured for indexes — decision deferred (indexes are gitignored for now, will need a deployment strategy in Sprint 5.2)
 
 ---
 
