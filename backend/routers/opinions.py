@@ -3,12 +3,15 @@
 from __future__ import annotations
 
 import json
+import logging
 import urllib.parse
 
 from fastapi import APIRouter, HTTPException, Request
 
 from backend.config import settings
 from backend.models import CitedOpinion, OpinionDetail
+
+logger = logging.getLogger(__name__)
 
 router = APIRouter(prefix="/api", tags=["opinions"])
 
@@ -21,8 +24,12 @@ def get_opinion(opinion_id: str, request: Request):
         raise HTTPException(status_code=404, detail="Opinion not found")
 
     # Load full JSON
-    with open(meta["file_path"], "r") as f:
-        data = json.load(f)
+    try:
+        with open(meta["file_path"], "r") as f:
+            data = json.load(f)
+    except (OSError, json.JSONDecodeError):
+        logger.exception("Failed to load opinion file: %s", meta["file_path"])
+        raise HTTPException(status_code=500, detail="Failed to load opinion data")
 
     sections = data.get("sections", {})
     citations = data.get("citations", {})
