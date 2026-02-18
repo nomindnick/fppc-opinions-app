@@ -16,7 +16,7 @@ function LoadingSkeleton() {
           <div className="h-5 w-24 bg-border rounded-full" />
         </div>
       </div>
-      <div className="flex flex-col lg:flex-row gap-10">
+      <div className="flex flex-col lg:flex-row gap-8 md:gap-10 lg:gap-12">
         <div className="flex-1 min-w-0 max-w-[720px]">
           <div className="h-3 w-16 bg-border rounded mb-4" />
           <div className="space-y-3">
@@ -52,6 +52,7 @@ export default function OpinionPage() {
   const [loading, setLoading] = useState(true)
   const [notFound, setNotFound] = useState(false)
   const [error, setError] = useState(null)
+  const [retryKey, setRetryKey] = useState(0)
 
   useEffect(() => {
     const controller = new AbortController()
@@ -85,7 +86,7 @@ export default function OpinionPage() {
       })
 
     return () => controller.abort()
-  }, [id])
+  }, [id, retryKey])
 
   if (loading) {
     return <LoadingSkeleton />
@@ -93,16 +94,21 @@ export default function OpinionPage() {
 
   if (notFound) {
     return (
-      <div className="text-center py-20">
+      <div className="animate-fade-in text-center py-20">
+        <div className="inline-flex items-center justify-center w-14 h-14 rounded-full bg-border-light mb-5">
+          <svg className="w-6 h-6 text-text-muted" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+          </svg>
+        </div>
         <h2 className="text-xl font-semibold text-text-primary mb-2">
           Opinion not found
         </h2>
         <p className="text-text-secondary mb-6">
-          No opinion exists with ID "{id}".
+          No opinion exists with ID &ldquo;{id}&rdquo;.
         </p>
         <button
           onClick={() => navigate(-1)}
-          className="text-accent hover:text-accent-hover text-sm font-medium"
+          className="inline-flex items-center gap-1.5 text-accent hover:text-accent-hover text-sm font-medium transition-colors"
         >
           &larr; Go back
         </button>
@@ -112,20 +118,30 @@ export default function OpinionPage() {
 
   if (error) {
     return (
-      <div className="text-center py-20">
-        <p className="text-red-600 mb-4">{error}</p>
+      <div className="animate-fade-in text-center py-20">
+        <div className="inline-flex items-center justify-center w-14 h-14 rounded-full bg-border-light mb-5">
+          <svg className="w-6 h-6 text-text-muted" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-2.5L13.732 4.5c-.77-.833-2.694-.833-3.464 0L3.34 16.5c-.77.833.192 2.5 1.732 2.5z" />
+          </svg>
+        </div>
+        <h2 className="text-lg font-semibold text-text-primary mb-2">
+          Something went wrong
+        </h2>
+        <p className="text-text-secondary text-sm mb-6 max-w-md mx-auto">
+          An unexpected error occurred while loading this opinion. Please try again.
+        </p>
         <button
-          onClick={() => navigate(-1)}
-          className="text-accent hover:text-accent-hover text-sm font-medium"
+          onClick={() => setRetryKey((k) => k + 1)}
+          className="inline-flex items-center gap-1.5 px-4 py-2 text-sm font-medium text-accent border border-accent rounded-lg hover:bg-accent-light transition-colors"
         >
-          &larr; Go back
+          Retry
         </button>
       </div>
     )
   }
 
   return (
-    <div>
+    <div className="animate-fade-in">
       <button
         onClick={() => navigate(-1)}
         className="text-accent hover:text-accent-hover text-sm font-medium no-underline mb-8 inline-flex items-center gap-1.5 transition-colors"
@@ -135,7 +151,7 @@ export default function OpinionPage() {
 
       <OpinionHeader opinion={opinion} />
 
-      <div className="flex flex-col lg:flex-row gap-10">
+      <div className="flex flex-col lg:flex-row gap-8 md:gap-10 lg:gap-12">
         <div className="flex-1 min-w-0 max-w-[720px]">
           <OpinionBody opinion={opinion} />
         </div>

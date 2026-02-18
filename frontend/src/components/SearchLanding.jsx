@@ -5,7 +5,7 @@ const EXAMPLE_QUERIES = [
 
 export default function SearchLanding({ totalOpinions, onExampleClick }) {
   return (
-    <div className="text-center py-24 sm:py-32">
+    <div className="animate-fade-in text-center py-16 sm:py-24 md:py-32">
       <h1 className="font-serif text-4xl sm:text-5xl font-semibold tracking-tight text-text-heading mb-3">
         FPPC Advisory Opinions
       </h1>

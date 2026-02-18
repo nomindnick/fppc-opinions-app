@@ -63,7 +63,7 @@ export default function FilterBar({
         className={`grid transition-all duration-200 ease-in-out ${open ? 'grid-rows-[1fr] opacity-100 mt-4' : 'grid-rows-[0fr] opacity-0'}`}
       >
         <div className="overflow-hidden">
-          <div className="flex flex-wrap items-end gap-x-5 gap-y-3">
+          <div className="flex flex-wrap items-end gap-x-4 md:gap-x-5 gap-y-3">
             <div className="w-full sm:w-auto sm:min-w-[200px]">
               <TopicFilter
                 topics={filterData.topics}

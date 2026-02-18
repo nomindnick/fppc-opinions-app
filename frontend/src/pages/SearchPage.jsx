@@ -26,7 +26,9 @@ export default function SearchPage() {
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState(null)
   const [filterData, setFilterData] = useState(null)
+  const [retryKey, setRetryKey] = useState(0)
   const abortRef = useRef(null)
+  const prevQueryRef = useRef(query)
 
   const totalOpinions = filterData?.total_opinions ?? null
   const hasFilters = !!(topics.length > 0 || statute || yearStart || yearEnd)
@@ -69,8 +71,15 @@ export default function SearchPage() {
       setResults(null)
       setTotalResults(0)
       setError(null)
+      prevQueryRef.current = query
       return
     }
+
+    // Clear results for new queries (show skeletons); keep results for filter/page changes (dim effect)
+    if (query !== prevQueryRef.current) {
+      setResults(null)
+    }
+    prevQueryRef.current = query
 
     if (abortRef.current) {
       abortRef.current.abort()
@@ -99,14 +108,15 @@ export default function SearchPage() {
       })
       .catch((err) => {
         if (err.name === 'AbortError') return
-        setError('Something went wrong. Please try again.')
+        const isNetwork = err instanceof TypeError || err.message?.includes('fetch')
+        setError(isNetwork ? 'network' : 'error')
         setLoading(false)
       })
 
     window.scrollTo(0, 0)
 
     return () => controller.abort()
-  }, [query, page, topics.join(','), statute, yearStart, yearEnd])
+  }, [query, page, topics.join(','), statute, yearStart, yearEnd, retryKey])
 
   function handleSearch(q) {
     setSearchParams(buildParams({ q, page: 1 }))
@@ -136,8 +146,13 @@ export default function SearchPage() {
     setSearchParams(buildParams({ topics: [], statute: null, year_start: null, year_end: null }))
   }
 
+  function handleRetry() {
+    setRetryKey((k) => k + 1)
+  }
+
   return (
     <div>
+      <h1 className="sr-only">FPPC Opinions Search</h1>
       <div className="mb-10">
         <SearchBar value={query} onSearch={handleSearch} />
       </div>
@@ -148,11 +163,29 @@ export default function SearchPage() {
           onExampleClick={handleExampleClick}
         />
       ) : error ? (
-        <div className="text-center py-16">
-          <p className="text-red-600">{error}</p>
+        <div className="animate-fade-in text-center py-16">
+          <div className="inline-flex items-center justify-center w-14 h-14 rounded-full bg-border-light mb-5">
+            <svg className="w-6 h-6 text-text-muted" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-2.5L13.732 4.5c-.77-.833-2.694-.833-3.464 0L3.34 16.5c-.77.833.192 2.5 1.732 2.5z" />
+            </svg>
+          </div>
+          <h2 className="text-lg font-semibold text-text-primary mb-2">
+            {error === 'network' ? 'Search engine is warming up' : 'Something went wrong'}
+          </h2>
+          <p className="text-text-secondary text-sm mb-6 max-w-md mx-auto">
+            {error === 'network'
+              ? 'The search engine is starting up. This usually takes a moment — please try again shortly.'
+              : 'An unexpected error occurred while searching. Please try again.'}
+          </p>
+          <button
+            onClick={handleRetry}
+            className="inline-flex items-center gap-1.5 px-4 py-2 text-sm font-medium text-accent border border-accent rounded-lg hover:bg-accent-light transition-colors"
+          >
+            Retry search
+          </button>
         </div>
       ) : (
-        <>
+        <div className={loading && results ? 'results-loading' : 'results-ready'}>
           {filterData && (
             <div className="mb-8">
               <FilterBar
@@ -168,7 +201,7 @@ export default function SearchPage() {
               />
             </div>
           )}
-          <ResultsList results={results} loading={loading} query={query} hasFilters={hasFilters} />
+          <ResultsList results={results} loading={loading && !results} query={query} hasFilters={hasFilters} />
           {!loading && results && results.length > 0 && (
             <Pagination
               page={page}
@@ -177,7 +210,7 @@ export default function SearchPage() {
               onPageChange={handlePageChange}
             />
           )}
-        </>
+        </div>
       )}
     </div>
   )

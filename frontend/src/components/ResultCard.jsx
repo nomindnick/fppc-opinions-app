@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom'
 import { formatDate, formatTopic } from '../utils'
 
-export default function ResultCard({ result }) {
+export default function ResultCard({ result, index = 0 }) {
   const {
     opinion_id,
     opinion_number,
@@ -22,7 +22,7 @@ export default function ResultCard({ result }) {
   return (
     <Link
       to={`/opinion/${opinion_id}`}
-      className="block rounded-lg border border-border-light bg-surface p-6 card-shadow transition-all hover:-translate-y-px duration-200 no-underline"
+      className={`block rounded-lg border border-border-light bg-surface p-4 sm:p-5 md:p-6 card-shadow transition-all hover:-translate-y-px duration-200 no-underline animate-fade-in-up stagger-${Math.min(index + 1, 10)}`}
     >
       <div className="text-xs font-medium tracking-wide uppercase text-text-muted mb-2">
         {opinion_number}
