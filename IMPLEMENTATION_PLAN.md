@@ -243,12 +243,12 @@ The implementation is organized into five phases: foundation and search engine i
 **Objective:** Add topic, statute, and date range filters to the search page, synced with URL parameters and the backend API.
 
 **Tasks:**
-- [ ] Build `TopicFilter` component: dropdown or set of clickable pills showing available topics. Loads options from `/api/filters`. Single-select or multi-select (decide based on what feels natural — single-select is simpler and probably sufficient).
-- [ ] Build `StatuteFilter` component: text input with autocomplete/suggestions from the available statute sections in the filters endpoint. Attorneys should be able to type "1090" and see matching sections.
-- [ ] Build `DateRangeFilter` component: two dropdown selects (start year, end year) spanning the corpus range. Defaults to full range.
-- [ ] Build `FilterBar` component: composes the three filters in a horizontal row (desktop) or stacked (mobile). Include a "Clear all filters" action.
-- [ ] Integrate filters with search: filter values are synced to URL params (`?topic=conflicts&statute=1090&year_start=2010`). Changing a filter re-triggers the search API call with the new parameters.
-- [ ] Integrate with `SearchPage`: filters appear below the search bar. Results update when filters change.
+- [x] Build `TopicFilter` component: dropdown or set of clickable pills showing available topics. Loads options from `/api/filters`. Single-select or multi-select (decide based on what feels natural — single-select is simpler and probably sufficient).
+- [x] Build `StatuteFilter` component: text input with autocomplete/suggestions from the available statute sections in the filters endpoint. Attorneys should be able to type "1090" and see matching sections.
+- [x] Build `DateRangeFilter` component: two dropdown selects (start year, end year) spanning the corpus range. Defaults to full range.
+- [x] Build `FilterBar` component: composes the three filters in a horizontal row (desktop) or stacked (mobile). Include a "Clear all filters" action.
+- [x] Integrate filters with search: filter values are synced to URL params (`?topic=conflicts&statute=1090&year_start=2010`). Changing a filter re-triggers the search API call with the new parameters.
+- [x] Integrate with `SearchPage`: filters appear below the search bar. Results update when filters change.
 
 **Acceptance Criteria:**
 - Selecting a topic filter narrows search results to that topic
@@ -259,7 +259,12 @@ The implementation is organized into five phases: foundation and search engine i
 - Filters require an active search query (browse-without-query deferred to v2)
 
 **Sprint Update:**
-> _[To be completed by Claude Code]_
+> - Three filter components: `TopicFilter` (native `<select>` for ~5 topic categories with counts), `StatuteFilter` (custom combobox with autocomplete over ~1,207 statutes, keyboard navigation, ARIA roles, click-outside-to-close), `DateRangeFilter` (two year `<select>` dropdowns with cross-validation).
+> - `FilterBar` composes all three with responsive layout and "Clear filters" button. Collapses behind a toggle button with active-filter count badge on mobile.
+> - `SearchPage` updated with `buildParams()` helper that preserves all active filters across search, pagination, and filter changes while always resetting to page 1 on filter change.
+> - All filter state lives in URL params (`?topic=...&statute=...&year_start=...&year_end=...`) for bookmarkability and back/forward support.
+> - `ResultsList` shows filter-aware empty state messaging.
+> - Follow-up: Topic filter converted from single-select dropdown to multi-select checkbox dropdown. Backend updated to accept repeated `topic` query params with AND filtering. Tests added for single and multi-topic search.
 
 ---
 
@@ -269,13 +274,13 @@ The implementation is organized into five phases: foundation and search engine i
 **Objective:** Build the full opinion detail view with formatted sections, cited opinion links, and PDF download.
 
 **Tasks:**
-- [ ] Build `OpinionHeader` component: opinion number, date, topic tags, statute tags. Prominent but not overwhelming.
-- [ ] Build `OpinionBody` component: renders Facts, Question, Analysis, and Conclusion sections with clear section headings. Use the serif font for body text. Handle cases where some sections may be empty/missing in the JSON.
-- [ ] Build `CitedOpinions` component: list of opinions cited by this one (from the `prior_opinions` field in the JSON). Each is a clickable link to `/opinion/{id}` if that opinion exists in the corpus. Show opinion number as the link text. If the cited opinion isn't in the corpus (e.g., it references an opinion not in the dataset), show it as plain text.
-- [ ] Build `PdfDownloadButton` component: prominent button that links to the R2 PDF URL. Opens in new tab. Include a PDF icon.
-- [ ] Build `OpinionPage`: fetches opinion data from `/api/opinions/{id}`, composes the above components. Handle loading state (skeleton) and 404 (opinion not found page).
-- [ ] Add a "Back to results" link/button that returns to the search results page (preserving the previous query and filters via URL params)
-- [ ] Reading experience: set max-width on the text column (~720px), generous line-height, comfortable font size for the body text
+- [x] Build `OpinionHeader` component: opinion number, date, topic tags, statute tags. Prominent but not overwhelming.
+- [x] Build `OpinionBody` component: renders Facts, Question, Analysis, and Conclusion sections with clear section headings. Use the serif font for body text. Handle cases where some sections may be empty/missing in the JSON.
+- [x] Build `CitedOpinions` component: list of opinions cited by this one (from the `prior_opinions` field in the JSON). Each is a clickable link to `/opinion/{id}` if that opinion exists in the corpus. Show opinion number as the link text. If the cited opinion isn't in the corpus (e.g., it references an opinion not in the dataset), show it as plain text.
+- [x] Build `PdfDownloadButton` component: prominent button that links to the R2 PDF URL. Opens in new tab. Include a PDF icon.
+- [x] Build `OpinionPage`: fetches opinion data from `/api/opinions/{id}`, composes the above components. Handle loading state (skeleton) and 404 (opinion not found page).
+- [x] Add a "Back to results" link/button that returns to the search results page (preserving the previous query and filters via URL params)
+- [x] Reading experience: set max-width on the text column (~720px), generous line-height, comfortable font size for the body text
 
 **Acceptance Criteria:**
 - Navigating to `/opinion/{valid_id}` shows the full formatted opinion
@@ -287,7 +292,15 @@ The implementation is organized into five phases: foundation and search engine i
 - Opinion body text uses serif font with comfortable reading layout
 
 **Sprint Update:**
-> _[To be completed by Claude Code]_
+> - Three new components: `OpinionHeader` (metadata, topic/statute pills, PDF download button), `OpinionBody` (Question → Facts → Analysis → Conclusion sections), `OpinionSidebar` (citation graph with in-corpus links + document metadata).
+> - `CitedOpinions` implemented as part of `OpinionSidebar` rather than a standalone component — sidebar card shows "Cites" (prior_opinions) and "Cited By" lists. In-corpus opinions render as clickable `<Link>` in accent color; out-of-corpus as muted plain text.
+> - PDF download button integrated into `OpinionHeader` (top-right on desktop) rather than a separate component — cleaner layout.
+> - `OpinionPage` fully rewritten: `useEffect` with `AbortController` cleanup, four states (loading skeleton, 404, error, success), two-column responsive layout (`flex-1 max-w-[720px]` main + `w-72 sticky` sidebar).
+> - Back navigation uses `navigate(-1)` (browser history) to preserve search query and filters when returning from an opinion.
+> - Shared utilities extracted: `formatDate` and `formatTopic` moved from `ResultCard.jsx` to `utils.js` for reuse in `OpinionHeader`.
+> - Legal typography via custom CSS in `index.css`: Source Serif 4 at 17px, 1.72 line-height, OpenType features (kerning, ligatures, oldstyle numerals), `text-rendering: optimizeLegibility`. Section breaks use hairline rules (law-review style). Section headings are quiet 11px letterspaced uppercase labels in Inter.
+> - Null-safe throughout: all fields except `opinion_number` and `year` can be null. Sections, requestor, topics, statutes, citations, PDF button all gracefully omit when data is missing. OCR disclaimer shown when `has_standard_format === false`.
+> - Bug fix during code review: `opinion-section-first` class was applied by SECTIONS array index, not rendered index — caused unwanted top border when `question` was null (~20% of opinions). Fixed by filtering to present sections before mapping.
 
 ---
 
