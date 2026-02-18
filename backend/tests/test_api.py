@@ -94,6 +94,25 @@ def test_health_endpoint(client):
     assert data["opinions_indexed"] == 3
 
 
+def test_search_filter_single_topic(client):
+    resp = client.get("/api/search?q=test&topic=conflicts_of_interest")
+    assert resp.status_code == 200
+    data = resp.json()
+    assert data["total_results"] == 1
+    assert data["results"][0]["opinion_id"] == "A-24-001"
+    assert data["filters_applied"]["topic"] == ["conflicts_of_interest"]
+
+
+def test_search_filter_multi_topic(client):
+    resp = client.get("/api/search?q=test&topic=conflicts_of_interest&topic=gifts")
+    assert resp.status_code == 200
+    data = resp.json()
+    assert data["total_results"] == 2
+    ids = {r["opinion_id"] for r in data["results"]}
+    assert ids == {"A-24-001", "A-22-100"}
+    assert len(data["filters_applied"]["topic"]) == 2
+
+
 def test_filters_endpoint(client):
     resp = client.get("/api/filters")
     assert resp.status_code == 200

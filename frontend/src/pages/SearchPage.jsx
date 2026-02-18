@@ -12,7 +12,7 @@ export default function SearchPage() {
   const [searchParams, setSearchParams] = useSearchParams()
   const query = searchParams.get('q') || ''
   const page = parseInt(searchParams.get('page') || '1', 10)
-  const topic = searchParams.get('topic') || null
+  const topics = searchParams.getAll('topic')
   const statute = searchParams.get('statute') || null
   const yearStart = searchParams.get('year_start')
     ? parseInt(searchParams.get('year_start'), 10)
@@ -29,23 +29,27 @@ export default function SearchPage() {
   const abortRef = useRef(null)
 
   const totalOpinions = filterData?.total_opinions ?? null
-  const hasFilters = !!(topic || statute || yearStart || yearEnd)
+  const hasFilters = !!(topics.length > 0 || statute || yearStart || yearEnd)
 
   // Build URL params with overrides; always resets page to 1 unless explicit
   function buildParams(overrides = {}) {
     const merged = {
       q: query,
-      topic,
+      topics,
       statute,
       year_start: yearStart,
       year_end: yearEnd,
       page: 1,
       ...overrides,
     }
-    const params = {}
+    const params = new URLSearchParams()
     for (const [key, val] of Object.entries(merged)) {
-      if (val != null && val !== '') {
-        params[key] = String(val)
+      if (key === 'topics') {
+        for (const t of val) {
+          params.append('topic', t)
+        }
+      } else if (val != null && val !== '') {
+        params.set(key, String(val))
       }
     }
     return params
@@ -75,7 +79,7 @@ export default function SearchPage() {
     abortRef.current = controller
 
     const params = new URLSearchParams({ q: query, page, per_page: PER_PAGE })
-    if (topic) params.set('topic', topic)
+    for (const t of topics) params.append('topic', t)
     if (statute) params.set('statute', statute)
     if (yearStart) params.set('year_start', yearStart)
     if (yearEnd) params.set('year_end', yearEnd)
@@ -102,7 +106,7 @@ export default function SearchPage() {
     window.scrollTo(0, 0)
 
     return () => controller.abort()
-  }, [query, page, topic, statute, yearStart, yearEnd])
+  }, [query, page, topics.join(','), statute, yearStart, yearEnd])
 
   function handleSearch(q) {
     setSearchParams(buildParams({ q, page: 1 }))
@@ -113,11 +117,11 @@ export default function SearchPage() {
   }
 
   function handleExampleClick(q) {
-    setSearchParams(buildParams({ q, topic: null, statute: null, year_start: null, year_end: null, page: 1 }))
+    setSearchParams(buildParams({ q, topics: [], statute: null, year_start: null, year_end: null, page: 1 }))
   }
 
-  function handleTopicChange(val) {
-    setSearchParams(buildParams({ topic: val }))
+  function handleTopicChange(newTopics) {
+    setSearchParams(buildParams({ topics: newTopics }))
   }
 
   function handleStatuteChange(val) {
@@ -129,7 +133,7 @@ export default function SearchPage() {
   }
 
   function handleClearFilters() {
-    setSearchParams(buildParams({ topic: null, statute: null, year_start: null, year_end: null }))
+    setSearchParams(buildParams({ topics: [], statute: null, year_start: null, year_end: null }))
   }
 
   return (
@@ -153,7 +157,7 @@ export default function SearchPage() {
             <div className="mb-6">
               <FilterBar
                 filterData={filterData}
-                topic={topic}
+                topics={topics}
                 statute={statute}
                 yearStart={yearStart}
                 yearEnd={yearEnd}
