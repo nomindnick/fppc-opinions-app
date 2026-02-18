@@ -32,18 +32,14 @@ export default function OpinionBody({ opinion }) {
         </p>
       )}
 
-      {SECTIONS.map(({ key, label }, idx) => {
-        const text = opinion[key]
-        if (!text) return null
-        return (
-          <section key={key} className={idx > 0 ? 'opinion-section' : 'opinion-section opinion-section-first'}>
-            <h2 className="opinion-heading">
-              {label}
-            </h2>
-            {renderText(text)}
-          </section>
-        )
-      })}
+      {SECTIONS.filter(({ key }) => opinion[key]).map(({ key, label }, idx) => (
+        <section key={key} className={idx > 0 ? 'opinion-section' : 'opinion-section opinion-section-first'}>
+          <h2 className="opinion-heading">
+            {label}
+          </h2>
+          {renderText(opinion[key])}
+        </section>
+      ))}
     </div>
   )
 }
