@@ -3,7 +3,7 @@ import { Link, Outlet } from 'react-router-dom'
 export default function Layout() {
   return (
     <div className="min-h-screen">
-      <header className="border-b border-border bg-surface/80 backdrop-blur-sm py-4 px-6">
+      <header className="border-b border-border bg-surface/80 backdrop-blur-sm py-4">
         <div className="max-w-6xl mx-auto px-6 flex items-center gap-3">
           <Link to="/" className="flex items-baseline gap-1.5 no-underline hover:text-accent">
             <span className="text-lg font-semibold tracking-wide text-text-primary">FPPC</span>

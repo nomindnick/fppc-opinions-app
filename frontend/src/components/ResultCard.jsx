@@ -22,7 +22,7 @@ export default function ResultCard({ result }) {
   return (
     <Link
       to={`/opinion/${opinion_id}`}
-      className="block rounded-lg border border-border-light bg-surface p-6 card-shadow transition-all hover:card-shadow-hover hover:-translate-y-px duration-200 no-underline"
+      className="block rounded-lg border border-border-light bg-surface p-6 card-shadow transition-all hover:-translate-y-px duration-200 no-underline"
     >
       <div className="text-xs font-medium tracking-wide uppercase text-text-muted mb-2">
         {opinion_number}

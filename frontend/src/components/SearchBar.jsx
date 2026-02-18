@@ -35,7 +35,7 @@ export default function SearchBar({ value, onSearch }) {
         value={inputValue}
         onChange={(e) => setInputValue(e.target.value)}
         placeholder="Search opinions..."
-        className="w-full pl-12 pr-5 py-3.5 text-base rounded-xl border border-border bg-surface text-text-primary placeholder:text-text-muted search-input focus:outline-none focus:border-accent focus:ring-2 focus:ring-accent-light"
+        className="w-full pl-12 pr-5 py-3.5 text-base rounded-xl border border-border bg-surface text-text-primary placeholder:text-text-muted search-input focus:outline-none focus:border-accent"
       />
     </form>
   )
