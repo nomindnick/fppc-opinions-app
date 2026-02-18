@@ -203,17 +203,17 @@ The implementation is organized into five phases: foundation and search engine i
 **Objective:** Build the search page with a functional search bar and results list displaying opinion cards with question/answer previews.
 
 **Tasks:**
-- [ ] Build `SearchBar` component: text input with search icon, debounced (300ms) or submit-on-enter. The query should be reflected in the URL as a query parameter (`?q=...`) so searches are bookmarkable/shareable.
-- [ ] Build `ResultCard` component displaying:
+- [x] Build `SearchBar` component: text input with search icon, debounced (300ms) or submit-on-enter. The query should be reflected in the URL as a query parameter (`?q=...`) so searches are bookmarkable/shareable.
+- [x] Build `ResultCard` component displaying:
   - Opinion number + date (small, muted text, top line)
   - Question (bold, primary text — the main thing attorneys scan)
   - Conclusion/answer preview (regular weight, truncated to ~2-3 lines with ellipsis)
   - Topic and statute pills/tags (small, subtle colored badges)
   - Entire card is clickable, navigates to `/opinion/{id}`
-- [ ] Build `ResultsList` component: renders list of `ResultCard` components, handles empty state ("No results found" with helpful message), handles loading state (skeleton cards)
-- [ ] Build `Pagination` component: page numbers or prev/next with current page indicator. Syncs with URL params (`?page=2`)
-- [ ] Wire `SearchPage` together: on mount (or URL change), read query params, call `/api/search`, display results
-- [ ] Handle the initial empty state (no query yet): show a welcome message with corpus description, total opinion count, and perhaps a few example queries attorneys can click to try
+- [x] Build `ResultsList` component: renders list of `ResultCard` components, handles empty state ("No results found" with helpful message), handles loading state (skeleton cards)
+- [x] Build `Pagination` component: page numbers or prev/next with current page indicator. Syncs with URL params (`?page=2`)
+- [x] Wire `SearchPage` together: on mount (or URL change), read query params, call `/api/search`, display results
+- [x] Handle the initial empty state (no query yet): show a welcome message with corpus description, total opinion count, and perhaps a few example queries attorneys can click to try
 
 **Acceptance Criteria:**
 - Typing a query and pressing Enter (or after debounce) fetches results and displays them as cards
@@ -225,7 +225,15 @@ The implementation is organized into five phases: foundation and search engine i
 - No-results state shows a helpful message
 
 **Sprint Update:**
-> _[To be completed by Claude Code]_
+> - Submit-on-enter chosen over debounce — avoids unnecessary API calls during typing and feels more intentional for legal research workflows.
+> - `useSearchParams()` is the single source of truth for `q` and `page` — URL is always bookmarkable/shareable, browser back/forward works natively.
+> - `SearchBar` syncs input from URL state via `useEffect` (handles example query clicks and back/forward navigation).
+> - `ResultCard` uses serif font (`Source Serif 4`) for the question field to visually distinguish opinion content from UI chrome. Handles `question: null` on older opinions by falling back to conclusion as primary text. Statute pills capped at 3 with "+N more" overflow.
+> - `ResultsList` has three render states: 5 skeleton cards (`animate-pulse`), no-results message with search suggestions, or result card list.
+> - `Pagination` uses ellipsis windowing (current ±1, always show first/last) for large result sets. Hidden when single page.
+> - `SearchLanding` fetches total opinion count from `/api/filters` on mount. Two example query pills: one statutory/keyword, one natural language.
+> - `AbortController` in the search effect prevents race conditions on rapid query/page changes. Cleanup function aborts in-flight requests.
+> - API params built with `URLSearchParams` object — easy to extend with filter params in Sprint 3.2.
 
 ---
 

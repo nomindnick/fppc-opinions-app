@@ -16,7 +16,7 @@ function SkeletonCard() {
   )
 }
 
-export default function ResultsList({ results, loading, query }) {
+export default function ResultsList({ results, loading, query, hasFilters }) {
   if (loading) {
     return (
       <div className="flex flex-col gap-3">
@@ -32,10 +32,12 @@ export default function ResultsList({ results, loading, query }) {
       <div className="text-center py-16">
         <p className="text-text-secondary text-lg mb-2">
           No results found for &ldquo;{query}&rdquo;
+          {hasFilters && ' with the current filters'}
         </p>
         <p className="text-text-muted text-sm">
-          Try different keywords, a statute number (e.g. &ldquo;Section 87100&rdquo;),
-          or a broader search term.
+          {hasFilters
+            ? 'Try broadening your search or removing some filters.'
+            : 'Try different keywords, a statute number (e.g. \u201cSection 87100\u201d), or a broader search term.'}
         </p>
       </div>
     )
