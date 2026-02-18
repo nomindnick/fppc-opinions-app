@@ -30,7 +30,7 @@ def _truncate(text: str | None, max_len: int = 300) -> str | None:
 async def search(
     request: Request,
     q: str = Query("", description="Search query"),
-    topic: str | None = Query(None, description="Filter by topic_primary"),
+    topic: list[str] | None = Query(None, description="Filter by topic_primary (repeatable)"),
     statute: str | None = Query(None, description="Filter by government code section"),
     year_start: int | None = Query(None, description="Filter by minimum year"),
     year_end: int | None = Query(None, description="Filter by maximum year"),
@@ -78,7 +78,7 @@ async def search(
             continue
 
         # Post-hoc filters (AND-combined)
-        if topic and meta["topic_primary"] != topic:
+        if topic and meta["topic_primary"] not in topic:
             continue
         if statute and statute not in meta["government_code_sections"]:
             continue

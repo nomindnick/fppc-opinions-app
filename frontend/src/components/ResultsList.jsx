@@ -43,6 +43,8 @@ export default function ResultsList({ results, loading, query, hasFilters }) {
     )
   }
 
+  if (!results) return null
+
   return (
     <div className="flex flex-col gap-3">
       {results.map((result) => (
