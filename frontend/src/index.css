@@ -74,7 +74,7 @@ body {
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.1em;
-  color: #7A786E;
+  color: var(--color-text-muted);
   margin: 0 0 1.25rem;
   line-height: 1;
 }

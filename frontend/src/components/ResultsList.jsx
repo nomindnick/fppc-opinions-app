@@ -51,7 +51,7 @@ export default function ResultsList({ results, loading, query, hasFilters }) {
   if (!results) return null
 
   return (
-    <div className="flex flex-col gap-4" key={results[0]?.opinion_id}>
+    <div className="flex flex-col gap-4">
       <h2 className="sr-only">Search results</h2>
       {results.map((result, index) => (
         <ResultCard key={result.opinion_id} result={result} index={index} />
