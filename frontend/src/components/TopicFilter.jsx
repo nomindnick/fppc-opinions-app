@@ -31,13 +31,13 @@ export default function TopicFilter({ topics, value, onChange }) {
 
   return (
     <div ref={containerRef} className="relative">
-      <label className="block text-xs font-medium text-text-secondary mb-1">
+      <label className="filter-label">
         Topic
       </label>
       <button
         type="button"
         onClick={() => setOpen((o) => !o)}
-        className="w-full border border-border bg-surface rounded-md text-sm px-3 py-2 text-left text-text-primary focus:outline-none focus:border-accent focus:ring-1 focus:ring-accent flex items-center justify-between"
+        className="w-full border border-border bg-surface rounded-lg text-sm px-3 py-2 text-left text-text-primary focus:outline-none focus:border-accent focus:ring-2 focus:ring-accent-light transition-all duration-150 flex items-center justify-between"
       >
         <span className={value.length === 0 ? 'text-text-muted' : ''}>
           {label}
@@ -52,7 +52,7 @@ export default function TopicFilter({ topics, value, onChange }) {
         </svg>
       </button>
       {open && (
-        <ul className="absolute z-10 mt-1 w-full bg-surface border border-border rounded-md shadow-lg max-h-60 overflow-auto">
+        <ul className="absolute z-10 mt-1 w-full bg-surface border border-border rounded-lg dropdown-shadow max-h-60 overflow-auto">
           {topics.map((t) => (
             <li
               key={t.value}
@@ -60,7 +60,7 @@ export default function TopicFilter({ topics, value, onChange }) {
                 e.preventDefault()
                 handleToggle(t.value)
               }}
-              className="flex items-center gap-2 px-3 py-2 text-sm cursor-pointer hover:bg-accent-light"
+              className="flex items-center gap-2 px-3 py-2 text-sm cursor-pointer hover:bg-accent-light/60"
             >
               <span
                 className={`w-4 h-4 rounded border shrink-0 flex items-center justify-center ${

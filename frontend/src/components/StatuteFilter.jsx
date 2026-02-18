@@ -88,7 +88,7 @@ export default function StatuteFilter({ statutes, value, onChange }) {
 
   return (
     <div ref={containerRef} className="relative">
-      <label className="block text-xs font-medium text-text-secondary mb-1">
+      <label className="filter-label">
         Statute
       </label>
       <div className="relative">
@@ -103,7 +103,7 @@ export default function StatuteFilter({ statutes, value, onChange }) {
           aria-expanded={open}
           aria-controls="statute-listbox"
           aria-autocomplete="list"
-          className="w-full border border-border bg-surface rounded-md text-sm pl-3 pr-8 py-2 text-text-primary placeholder:text-text-muted focus:outline-none focus:border-accent focus:ring-1 focus:ring-accent"
+          className="w-full border border-border bg-surface rounded-lg text-sm pl-3 pr-8 py-2 text-text-primary placeholder:text-text-muted focus:outline-none focus:border-accent focus:ring-2 focus:ring-accent-light transition-all duration-150"
         />
         {selectedItem && (
           <button
@@ -123,7 +123,7 @@ export default function StatuteFilter({ statutes, value, onChange }) {
           id="statute-listbox"
           ref={listRef}
           role="listbox"
-          className="absolute z-10 mt-1 w-full bg-surface border border-border rounded-md shadow-lg max-h-60 overflow-auto"
+          className="absolute z-10 mt-1 w-full bg-surface border border-border rounded-lg dropdown-shadow max-h-60 overflow-auto"
         >
           {filtered.map((s, i) => (
             <li
@@ -133,7 +133,7 @@ export default function StatuteFilter({ statutes, value, onChange }) {
               onMouseDown={() => handleSelect(s)}
               onMouseEnter={() => setHighlightIndex(i)}
               className={`flex items-center justify-between px-3 py-2 text-sm cursor-pointer ${
-                i === highlightIndex ? 'bg-accent-light' : ''
+                i === highlightIndex ? 'bg-accent-light/60' : ''
               }`}
             >
               <span className="text-text-primary">{s.label}</span>

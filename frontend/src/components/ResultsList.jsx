@@ -2,7 +2,7 @@ import ResultCard from './ResultCard'
 
 function SkeletonCard() {
   return (
-    <div className="rounded-lg border border-border bg-surface p-5 animate-pulse">
+    <div className="rounded-lg border border-border-light bg-surface p-6 card-shadow animate-pulse">
       <div className="h-4 w-48 bg-border/60 rounded mb-3" />
       <div className="h-5 w-full bg-border/60 rounded mb-2" />
       <div className="h-5 w-3/4 bg-border/60 rounded mb-2" />
@@ -19,7 +19,7 @@ function SkeletonCard() {
 export default function ResultsList({ results, loading, query, hasFilters }) {
   if (loading) {
     return (
-      <div className="flex flex-col gap-3">
+      <div className="flex flex-col gap-4">
         {Array.from({ length: 5 }, (_, i) => (
           <SkeletonCard key={i} />
         ))}
@@ -29,7 +29,7 @@ export default function ResultsList({ results, loading, query, hasFilters }) {
 
   if (results && results.length === 0) {
     return (
-      <div className="text-center py-16">
+      <div className="text-center py-20">
         <p className="text-text-secondary text-lg mb-2">
           No results found for &ldquo;{query}&rdquo;
           {hasFilters && ' with the current filters'}
@@ -46,7 +46,7 @@ export default function ResultsList({ results, loading, query, hasFilters }) {
   if (!results) return null
 
   return (
-    <div className="flex flex-col gap-3">
+    <div className="flex flex-col gap-4">
       {results.map((result) => (
         <ResultCard key={result.opinion_id} result={result} />
       ))}

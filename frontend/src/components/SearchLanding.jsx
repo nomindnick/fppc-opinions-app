@@ -5,11 +5,11 @@ const EXAMPLE_QUERIES = [
 
 export default function SearchLanding({ totalOpinions, onExampleClick }) {
   return (
-    <div className="text-center py-20">
-      <h1 className="text-3xl font-bold text-text-primary mb-3">
+    <div className="text-center py-24 sm:py-32">
+      <h1 className="font-serif text-4xl sm:text-5xl font-semibold tracking-tight text-text-heading mb-3">
         FPPC Advisory Opinions
       </h1>
-      <p className="text-text-secondary text-lg mb-10 max-w-xl mx-auto">
+      <p className="text-text-secondary text-lg mb-14 max-w-lg mx-auto">
         Search{' '}
         {totalOpinions
           ? `${totalOpinions.toLocaleString()} advisory`
@@ -18,12 +18,12 @@ export default function SearchLanding({ totalOpinions, onExampleClick }) {
         spanning 1975 to 2025.
       </p>
 
-      <div className="flex flex-wrap justify-center gap-2">
+      <div className="flex flex-wrap justify-center gap-3">
         {EXAMPLE_QUERIES.map((query) => (
           <button
             key={query}
             onClick={() => onExampleClick(query)}
-            className="px-4 py-2 text-sm text-text-secondary bg-surface border border-border rounded-full hover:border-accent/40 hover:text-accent transition-colors"
+            className="px-5 py-2.5 text-sm text-text-secondary bg-surface border border-border rounded-full hover:border-accent/40 hover:text-accent hover:shadow-sm transition-all duration-200"
           >
             &ldquo;{query}&rdquo;
           </button>

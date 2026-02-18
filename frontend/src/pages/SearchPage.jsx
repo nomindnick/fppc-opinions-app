@@ -138,7 +138,7 @@ export default function SearchPage() {
 
   return (
     <div>
-      <div className="mb-8">
+      <div className="mb-10">
         <SearchBar value={query} onSearch={handleSearch} />
       </div>
 
@@ -154,7 +154,7 @@ export default function SearchPage() {
       ) : (
         <>
           {filterData && (
-            <div className="mb-6">
+            <div className="mb-8">
               <FilterBar
                 filterData={filterData}
                 topics={topics}

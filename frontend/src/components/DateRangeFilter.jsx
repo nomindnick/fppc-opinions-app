@@ -23,14 +23,14 @@ export default function DateRangeFilter({ yearMin, yearMax, yearStart, yearEnd, 
   }
 
   const selectClass =
-    'w-full border border-border bg-surface rounded-md text-sm px-3 py-2 text-text-primary focus:outline-none focus:border-accent focus:ring-1 focus:ring-accent'
+    'w-full border border-border bg-surface rounded-lg text-sm px-3 py-2 text-text-primary focus:outline-none focus:border-accent focus:ring-2 focus:ring-accent-light transition-all duration-150'
 
   return (
     <div>
-      <label className="block text-xs font-medium text-text-secondary mb-1">
+      <label className="filter-label">
         Date range
       </label>
-      <div className="flex gap-2">
+      <div className="flex gap-3">
         <div className="flex-1">
           <select
             value={yearStart ?? ''}
