@@ -28,8 +28,8 @@ export default function Pagination({ page, totalResults, perPage, onPageChange }
   const pageNumbers = getPageNumbers()
 
   return (
-    <div className="flex items-center justify-between mt-8">
-      <p className="text-sm text-text-muted">
+    <div className="flex items-center justify-between mt-10 pt-6 border-t border-border-light">
+      <p className="text-xs text-text-muted tabular-nums">
         {totalResults.toLocaleString()} result{totalResults !== 1 ? 's' : ''}
       </p>
 
@@ -37,7 +37,7 @@ export default function Pagination({ page, totalResults, perPage, onPageChange }
         <button
           onClick={() => onPageChange(page - 1)}
           disabled={page <= 1}
-          className="px-3 py-1.5 text-sm rounded-md border border-border bg-surface text-text-secondary hover:bg-bg disabled:opacity-40 disabled:cursor-not-allowed transition-colors"
+          className="px-3 py-1.5 text-sm rounded-lg border border-border bg-surface text-text-secondary hover:bg-bg disabled:opacity-30 disabled:cursor-not-allowed transition-colors"
         >
           Prev
         </button>
@@ -51,9 +51,9 @@ export default function Pagination({ page, totalResults, perPage, onPageChange }
             <button
               key={p}
               onClick={() => onPageChange(p)}
-              className={`px-3 py-1.5 text-sm rounded-md border transition-colors ${
+              className={`px-3 py-1.5 text-sm rounded-lg border transition-colors ${
                 p === page
-                  ? 'border-accent bg-accent text-white font-medium'
+                  ? 'border-accent bg-accent text-white font-medium shadow-sm'
                   : 'border-border bg-surface text-text-secondary hover:bg-bg'
               }`}
             >
@@ -65,13 +65,13 @@ export default function Pagination({ page, totalResults, perPage, onPageChange }
         <button
           onClick={() => onPageChange(page + 1)}
           disabled={page >= totalPages}
-          className="px-3 py-1.5 text-sm rounded-md border border-border bg-surface text-text-secondary hover:bg-bg disabled:opacity-40 disabled:cursor-not-allowed transition-colors"
+          className="px-3 py-1.5 text-sm rounded-lg border border-border bg-surface text-text-secondary hover:bg-bg disabled:opacity-30 disabled:cursor-not-allowed transition-colors"
         >
           Next
         </button>
       </div>
 
-      <div className="w-24" />
+      <div className="w-24 hidden sm:block" />
     </div>
   )
 }

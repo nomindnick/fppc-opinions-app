@@ -39,10 +39,10 @@ export default function OpinionHeader({ opinion }) {
   const requestorLine = requestorParts.length > 0 ? requestorParts.join(', ') : null
 
   return (
-    <div className="border-b border-border pb-6 mb-8">
+    <div className="border-b border-border pb-8 mb-10">
       <div className="flex justify-between items-start gap-4">
         <div className="min-w-0">
-          <div className="text-sm text-text-muted mb-1">
+          <div className="text-xs font-medium tracking-wide uppercase text-text-muted mb-1">
             {opinion_number}
             {formattedDate && <span> &middot; {formattedDate}</span>}
           </div>
@@ -54,13 +54,13 @@ export default function OpinionHeader({ opinion }) {
           )}
 
           {requestorLine && (
-            <div className="text-sm text-text-secondary mb-3">
+            <div className="text-sm text-text-secondary mb-4">
               Requested by {requestorLine}
             </div>
           )}
 
           {(topics.length > 0 || statutes.length > 0) && (
-            <div className="flex flex-wrap gap-1.5">
+            <div className="flex flex-wrap gap-2">
               {topics.map((topic) => (
                 <span
                   key={topic}
@@ -86,7 +86,7 @@ export default function OpinionHeader({ opinion }) {
             href={pdf_url}
             target="_blank"
             rel="noopener noreferrer"
-            className="shrink-0 inline-flex items-center gap-2 px-4 py-2 bg-accent text-white text-sm font-medium rounded-lg hover:bg-accent-hover transition-colors no-underline"
+            className="shrink-0 inline-flex items-center gap-2 px-4 py-2.5 bg-accent text-white text-sm font-medium rounded-lg shadow-sm hover:bg-accent-hover hover:shadow-md transition-all duration-200 no-underline"
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"

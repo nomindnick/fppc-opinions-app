@@ -37,18 +37,18 @@ export default function OpinionSidebar({ opinion }) {
   if (!hasCitations && !hasMetadata) return null
 
   return (
-    <div className="rounded-lg border border-border bg-surface p-5">
+    <div className="rounded-lg border border-border-light bg-surface p-6 card-shadow">
       {hasCitations && (
         <div className="mb-6 last:mb-0">
           <div className="mb-4">
-            <h3 className="text-xs font-semibold uppercase tracking-wide text-text-muted mb-2">
+            <h3 className="text-[11px] font-semibold uppercase tracking-wider text-text-muted mb-2">
               Cites
             </h3>
             <CitationList items={prior_opinions} />
           </div>
 
           <div>
-            <h3 className="text-xs font-semibold uppercase tracking-wide text-text-muted mb-2">
+            <h3 className="text-[11px] font-semibold uppercase tracking-wider text-text-muted mb-2">
               Cited By
             </h3>
             <CitationList items={cited_by} />
@@ -57,10 +57,10 @@ export default function OpinionSidebar({ opinion }) {
       )}
 
       {hasMetadata && (
-        <div className={hasCitations ? 'border-t border-border pt-4' : ''}>
+        <div className={hasCitations ? 'border-t border-border pt-5' : ''}>
           {page_count != null && (
             <div className="mb-2">
-              <div className="text-xs uppercase tracking-wide text-text-muted">
+              <div className="text-[11px] uppercase tracking-wider text-text-muted">
                 Pages
               </div>
               <div className="text-sm text-text-secondary">{page_count}</div>
@@ -68,7 +68,7 @@ export default function OpinionSidebar({ opinion }) {
           )}
           {word_count != null && (
             <div>
-              <div className="text-xs uppercase tracking-wide text-text-muted">
+              <div className="text-[11px] uppercase tracking-wider text-text-muted">
                 Words
               </div>
               <div className="text-sm text-text-secondary">

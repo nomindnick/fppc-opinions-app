@@ -18,7 +18,7 @@ export default function SearchBar({ value, onSearch }) {
   return (
     <form onSubmit={handleSubmit} className="relative">
       <svg
-        className="absolute left-3.5 top-1/2 -translate-y-1/2 w-5 h-5 text-text-muted pointer-events-none"
+        className="absolute left-4 top-1/2 -translate-y-1/2 w-5 h-5 text-text-muted pointer-events-none"
         fill="none"
         stroke="currentColor"
         viewBox="0 0 24 24"
@@ -35,7 +35,7 @@ export default function SearchBar({ value, onSearch }) {
         value={inputValue}
         onChange={(e) => setInputValue(e.target.value)}
         placeholder="Search opinions..."
-        className="w-full pl-11 pr-4 py-3 rounded-lg border border-border bg-surface text-text-primary placeholder:text-text-muted shadow-sm focus:outline-none focus:border-accent focus:ring-1 focus:ring-accent"
+        className="w-full pl-12 pr-5 py-3.5 text-base rounded-xl border border-border bg-surface text-text-primary placeholder:text-text-muted search-input focus:outline-none focus:border-accent"
       />
     </form>
   )

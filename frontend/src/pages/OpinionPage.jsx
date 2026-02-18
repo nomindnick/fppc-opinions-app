@@ -7,8 +7,8 @@ import OpinionSidebar from '../components/OpinionSidebar'
 function LoadingSkeleton() {
   return (
     <div className="animate-pulse">
-      <div className="h-4 w-24 bg-border rounded mb-6" />
-      <div className="border-b border-border pb-6 mb-8">
+      <div className="h-4 w-24 bg-border rounded mb-8" />
+      <div className="border-b border-border pb-8 mb-10">
         <div className="h-3 w-48 bg-border rounded mb-3" />
         <div className="h-3 w-32 bg-border rounded mb-4" />
         <div className="flex gap-2">
@@ -16,7 +16,7 @@ function LoadingSkeleton() {
           <div className="h-5 w-24 bg-border rounded-full" />
         </div>
       </div>
-      <div className="flex flex-col lg:flex-row gap-8">
+      <div className="flex flex-col lg:flex-row gap-10">
         <div className="flex-1 min-w-0 max-w-[720px]">
           <div className="h-3 w-16 bg-border rounded mb-4" />
           <div className="space-y-3">
@@ -34,7 +34,7 @@ function LoadingSkeleton() {
           </div>
         </div>
         <div className="w-full lg:w-72 shrink-0">
-          <div className="rounded-lg border border-border bg-surface p-5">
+          <div className="rounded-lg border border-border-light bg-surface p-6 card-shadow">
             <div className="h-3 w-12 bg-border rounded mb-3" />
             <div className="h-3 w-24 bg-border rounded mb-2" />
             <div className="h-3 w-20 bg-border rounded" />
@@ -128,14 +128,14 @@ export default function OpinionPage() {
     <div>
       <button
         onClick={() => navigate(-1)}
-        className="text-accent hover:text-accent-hover text-sm font-medium no-underline mb-6 inline-block"
+        className="text-accent hover:text-accent-hover text-sm font-medium no-underline mb-8 inline-flex items-center gap-1.5 transition-colors"
       >
         &larr; Back
       </button>
 
       <OpinionHeader opinion={opinion} />
 
-      <div className="flex flex-col lg:flex-row gap-8">
+      <div className="flex flex-col lg:flex-row gap-10">
         <div className="flex-1 min-w-0 max-w-[720px]">
           <OpinionBody opinion={opinion} />
         </div>
