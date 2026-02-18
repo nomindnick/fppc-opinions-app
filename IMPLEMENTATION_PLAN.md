@@ -365,25 +365,25 @@ The implementation is organized into five phases: foundation and search engine i
 **Objective:** Add interaction polish (loading states, transitions, hover effects) and ensure the app works well on mobile devices.
 
 **Tasks:**
-- [ ] Loading states:
+- [x] Loading states:
   - Search results: skeleton cards (gray animated placeholders matching the card layout)
   - Opinion detail: skeleton blocks for each section
   - Initial app load / engine warming: a subtle loading indicator if the first search hits before the engine is ready
-- [ ] Transitions:
+- [x] Transitions:
   - Results appearing: subtle fade-in or slide-up animation on result cards (staggered, not all at once)
   - Page transitions: smooth transition between search and detail views (CSS transition or lightweight library)
   - Filter changes: results area fades briefly while new results load
-- [ ] Hover/interaction states:
+- [x] Hover/interaction states:
   - Result cards: subtle lift or border change on hover
   - Buttons: clear hover and active states
   - Links: clear hover state, consistent with accent color
   - Filter pills: clear selected/unselected states
-- [ ] Responsive design:
+- [x] Responsive design:
   - Mobile (< 768px): full-width search bar, stacked filters, full-width result cards, opinion body fills screen width with appropriate padding
   - Tablet (768-1024px): similar to mobile but with more whitespace
   - Desktop (> 1024px): centered content with max-width, filters in a row, comfortable reading width
-- [ ] Empty/error states: style the no-results message, the 404 page, and any error states to match the design system
-- [ ] Accessibility basics: proper heading hierarchy, sufficient color contrast, focus indicators on interactive elements, semantic HTML
+- [x] Empty/error states: style the no-results message, the 404 page, and any error states to match the design system
+- [x] Accessibility basics: proper heading hierarchy, sufficient color contrast, focus indicators on interactive elements, semantic HTML
 
 **Acceptance Criteria:**
 - Loading states are visible and match the design system (no white flashes or layout jumps)
@@ -394,7 +394,18 @@ The implementation is organized into five phases: foundation and search engine i
 - No accessibility red flags (contrast, focus visibility, heading structure)
 
 **Sprint Update:**
-> _[To be completed by Claude Code]_
+> - All CSS-only — no new dependencies. Animations, transitions, and focus styles defined as custom CSS keyframes and utility classes in `index.css`.
+> - Two keyframe animations: `fade-in-up` (opacity 0→1, translateY 8→0, 0.3s ease-out) for result card entrance, `fade-in` (opacity 0→1, 0.25s) for page-level content transitions. Stagger delays `.stagger-1` through `.stagger-10` at 50ms increments for result card cascade.
+> - Smart loading states: new queries clear results and show skeleton cards; filter/page changes keep existing results visible and dim them via `.results-loading` (opacity 0.55, pointer-events none) until new results arrive (`.results-ready`). Achieved via `prevQueryRef` tracking in `SearchPage` — `setResults(null)` only fires when `query` actually changes.
+> - Content fade-in (`animate-fade-in`) applied to: `OpinionPage` loaded content, 404 state, error state; `SearchLanding` outer div; `SearchPage` error state; `ResultsList` empty state.
+> - Styled error states replace plain red text: warning icon in circular `bg-border-light` background, heading ("Something went wrong" or "Search engine is warming up" for network errors), descriptive text, accent-outlined "Retry" button. Network error detection via `instanceof TypeError` check in fetch catch. Retry uses `retryKey` state increment added to effect dependencies.
+> - `NotFoundPage.jsx` added as catch-all route (`<Route path="*">`) — 404 badge, heading, back-to-search link.
+> - `OpinionPage` 404 restyled with document icon in circular bg, `inline-flex items-center gap-1.5` back link. Error state gets warning icon and retry button.
+> - `ResultsList` empty state: search icon in circular bg above the existing no-results message.
+> - Responsive padding unified: `Layout` header and main use `px-4 sm:px-6 md:px-8`, main gets `py-8 md:py-10`. `ResultCard` padding `p-4 sm:p-5 md:p-6`. `SearchLanding` vertical padding `py-16 sm:py-24 md:py-32`. `Pagination` stacks vertically on mobile (`flex-col sm:flex-row`) with reordered elements. `OpinionHeader` stacks PDF button below metadata on phones (`flex-col sm:flex-row`). `OpinionPage` column gap `gap-8 md:gap-10 lg:gap-12`. `FilterBar` gap `gap-x-4 md:gap-x-5`.
+> - Accessibility: `--color-text-muted` darkened from `#9C998F` to `#7A786E` (WCAG AA 4.5:1 on `#FAFAF8`). `.opinion-heading` updated to use `var(--color-text-muted)` instead of hardcoded hex. Global `:focus-visible` outline (2px solid accent, 2px offset). `.search-input:focus-visible` override (outline: none — custom box-shadow focus indicator already exists). `button:active:not(:disabled)` scale(0.98) press feedback. `@media (prefers-reduced-motion: reduce)` disables all animations and transitions. Skip-to-content link in `Layout` (`sr-only focus:not-sr-only`). `id="main-content"` on `<main>`. Screen-reader headings: `<h1 className="sr-only">` on SearchPage, `<h2 className="sr-only">` on results list.
+> - Code review fix: removed `key={results[0]?.opinion_id}` from `ResultsList` container div — it forced full DOM remount on every result change (including filter/page changes), replaying stagger animations when only the dim/un-dim effect was intended. Without the key, new queries still animate naturally (component unmounts via `setResults(null)` then remounts fresh), while filter/page changes reconcile in-place.
+> - 12 frontend files modified (11 edited + 1 new). No backend, routing, or API changes.
 
 ---
 
