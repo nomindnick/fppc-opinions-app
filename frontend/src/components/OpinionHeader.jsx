@@ -40,7 +40,7 @@ export default function OpinionHeader({ opinion }) {
 
   return (
     <div className="border-b border-border pb-8 mb-10">
-      <div className="flex justify-between items-start gap-4">
+      <div className="flex flex-col sm:flex-row justify-between items-start gap-4">
         <div className="min-w-0">
           <div className="text-xs font-medium tracking-wide uppercase text-text-muted mb-1">
             {opinion_number}

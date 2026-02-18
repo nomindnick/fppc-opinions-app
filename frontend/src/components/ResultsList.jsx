@@ -2,7 +2,7 @@ import ResultCard from './ResultCard'
 
 function SkeletonCard() {
   return (
-    <div className="rounded-lg border border-border-light bg-surface p-6 card-shadow animate-pulse">
+    <div className="rounded-lg border border-border-light bg-surface p-4 sm:p-5 md:p-6 card-shadow animate-pulse">
       <div className="h-4 w-48 bg-border/60 rounded mb-3" />
       <div className="h-5 w-full bg-border/60 rounded mb-2" />
       <div className="h-5 w-3/4 bg-border/60 rounded mb-2" />
@@ -29,7 +29,12 @@ export default function ResultsList({ results, loading, query, hasFilters }) {
 
   if (results && results.length === 0) {
     return (
-      <div className="text-center py-20">
+      <div className="animate-fade-in text-center py-20">
+        <div className="inline-flex items-center justify-center w-14 h-14 rounded-full bg-border-light mb-5">
+          <svg className="w-6 h-6 text-text-muted" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+          </svg>
+        </div>
         <p className="text-text-secondary text-lg mb-2">
           No results found for &ldquo;{query}&rdquo;
           {hasFilters && ' with the current filters'}
@@ -46,9 +51,10 @@ export default function ResultsList({ results, loading, query, hasFilters }) {
   if (!results) return null
 
   return (
-    <div className="flex flex-col gap-4">
-      {results.map((result) => (
-        <ResultCard key={result.opinion_id} result={result} />
+    <div className="flex flex-col gap-4" key={results[0]?.opinion_id}>
+      <h2 className="sr-only">Search results</h2>
+      {results.map((result, index) => (
+        <ResultCard key={result.opinion_id} result={result} index={index} />
       ))}
     </div>
   )

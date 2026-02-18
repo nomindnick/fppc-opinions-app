@@ -10,7 +10,7 @@
   --color-border: #E8E6E1;
   --color-text-primary: #2D2D2A;
   --color-text-secondary: #6B695F;
-  --color-text-muted: #9C998F;
+  --color-text-muted: #7A786E;
   --color-accent: #2B6B5E;
   --color-accent-hover: #234F45;
   --color-accent-light: #E8F0EE;
@@ -74,7 +74,7 @@ body {
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.1em;
-  color: #9C998F;
+  color: #7A786E;
   margin: 0 0 1.25rem;
   line-height: 1;
 }
@@ -111,4 +111,81 @@ body {
   letter-spacing: 0.05em;
   color: var(--color-text-muted);
   margin-bottom: 0.375rem;
+}
+
+/* ── Animations ──────────────────────────────────────────── */
+
+@keyframes fade-in-up {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fade-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+.animate-fade-in-up {
+  animation: fade-in-up 0.3s ease-out both;
+}
+
+.animate-fade-in {
+  animation: fade-in 0.25s ease-out both;
+}
+
+.stagger-1  { animation-delay: 50ms; }
+.stagger-2  { animation-delay: 100ms; }
+.stagger-3  { animation-delay: 150ms; }
+.stagger-4  { animation-delay: 200ms; }
+.stagger-5  { animation-delay: 250ms; }
+.stagger-6  { animation-delay: 300ms; }
+.stagger-7  { animation-delay: 350ms; }
+.stagger-8  { animation-delay: 400ms; }
+.stagger-9  { animation-delay: 450ms; }
+.stagger-10 { animation-delay: 500ms; }
+
+/* Results fade during refetch */
+.results-loading {
+  opacity: 0.55;
+  pointer-events: none;
+  transition: opacity 0.15s ease;
+}
+
+.results-ready {
+  opacity: 1;
+  transition: opacity 0.2s ease;
+}
+
+/* ── Accessibility ───────────────────────────────────────── */
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-fade-in-up,
+  .animate-fade-in {
+    animation: none;
+  }
+  .results-loading {
+    transition: none;
+  }
+  .results-ready {
+    transition: none;
+  }
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 2px;
+}
+
+.search-input:focus-visible {
+  outline: none;
+}
+
+button:active:not(:disabled) {
+  transform: scale(0.98);
 }

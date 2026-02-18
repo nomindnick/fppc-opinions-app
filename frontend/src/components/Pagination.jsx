@@ -28,12 +28,12 @@ export default function Pagination({ page, totalResults, perPage, onPageChange }
   const pageNumbers = getPageNumbers()
 
   return (
-    <div className="flex items-center justify-between mt-10 pt-6 border-t border-border-light">
-      <p className="text-xs text-text-muted tabular-nums">
+    <div className="flex flex-col sm:flex-row items-center justify-between mt-8 md:mt-10 pt-6 border-t border-border-light gap-4">
+      <p className="text-xs text-text-muted tabular-nums order-2 sm:order-1">
         {totalResults.toLocaleString()} result{totalResults !== 1 ? 's' : ''}
       </p>
 
-      <div className="flex items-center gap-1">
+      <div className="flex items-center gap-1 order-1 sm:order-2">
         <button
           onClick={() => onPageChange(page - 1)}
           disabled={page <= 1}
@@ -71,7 +71,7 @@ export default function Pagination({ page, totalResults, perPage, onPageChange }
         </button>
       </div>
 
-      <div className="w-24 hidden sm:block" />
+      <div className="w-24 hidden sm:block order-3" />
     </div>
   )
 }

@@ -314,23 +314,23 @@ The implementation is organized into five phases: foundation and search engine i
 **Objective:** Implement the complete visual design system: color palette, typography scale, component styling, and overall layout polish.
 
 **Tasks:**
-- [ ] Implement color palette across the app:
+- [x] Implement color palette across the app:
   - Background: warm off-white (`#FAFAF8` or similar)
   - Primary text: warm dark gray (not pure black)
   - Secondary/muted text: medium gray
   - Accent color: muted teal or deep blue for interactive elements (links, buttons, active filters)
   - Subtle borders and dividers using light warm grays
   - Result card backgrounds: white with subtle shadow or border
-- [ ] Typography system:
+- [x] Typography system:
   - Sans-serif (Inter) for: navigation, filters, buttons, metadata, opinion number/date, tags
   - Serif (Lora/Source Serif 4) for: opinion body text in the detail view, question text in result cards
   - Establish a type scale: consistent heading sizes, body sizes, caption sizes
   - Line heights: 1.5 for UI text, 1.7 for opinion body reading text
-- [ ] Search bar styling: make it the hero element on the landing page. Generous padding, subtle shadow or border, rounded corners. Search icon inside the input.
-- [ ] Result card styling: clean card design with clear visual hierarchy. Question text should be the dominant visual element. Subtle hover state. Tags should be small pills with muted colored backgrounds.
-- [ ] Filter bar styling: clean, unobtrusive. Filters should feel like refinement tools, not a complex form.
-- [ ] Overall layout: generous whitespace throughout. Content max-width on large screens. The app should feel spacious, not cramped.
-- [ ] Header/navigation: minimal. App name/logo (text is fine — "FPPC Opinions" in a nice weight), maybe a subtle tagline. No complex nav — there are only two pages.
+- [x] Search bar styling: make it the hero element on the landing page. Generous padding, subtle shadow or border, rounded corners. Search icon inside the input.
+- [x] Result card styling: clean card design with clear visual hierarchy. Question text should be the dominant visual element. Subtle hover state. Tags should be small pills with muted colored backgrounds.
+- [x] Filter bar styling: clean, unobtrusive. Filters should feel like refinement tools, not a complex form.
+- [x] Overall layout: generous whitespace throughout. Content max-width on large screens. The app should feel spacious, not cramped.
+- [x] Header/navigation: minimal. App name/logo (text is fine — "FPPC Opinions" in a nice weight), maybe a subtle tagline. No complex nav — there are only two pages.
 
 **Acceptance Criteria:**
 - The app has a cohesive, professional visual identity
@@ -342,7 +342,20 @@ The implementation is organized into five phases: foundation and search engine i
 - The overall impression is "this was designed by someone who cares"
 
 **Sprint Update:**
-> _[To be completed by Claude Code]_
+> - Design tokens added to `index.css` `@theme` block: `--color-border-light: #EDEBE6` (lighter card borders) and `--color-text-heading: #1A1A18` (deeper heading color).
+> - New CSS utility classes: `.card-shadow` / `.card-shadow:hover` (layered box-shadow system replacing border-dominant cards), `.search-input` / `.search-input:focus` (hero search bar shadow that deepens on focus), `.dropdown-shadow` (filter dropdowns), `.filter-label` (11px uppercase tracked labels reused across all filter components).
+> - Landing page heading uses Source Serif 4 at `text-4xl sm:text-5xl` with tight tracking — connects to the legal content the tool serves. More generous whitespace (`py-24 sm:py-32`).
+> - Header wordmark redesigned: "FPPC" (semibold tracking-wide) + "Opinions" (normal weight, secondary color) + "Advisory Opinion Search" descriptor (hidden on mobile). Frosted glass effect via `bg-surface/80 backdrop-blur-sm`.
+> - Content width unified to `max-w-6xl` across header and main.
+> - Search bar: larger padding (`py-3.5`), `rounded-xl`, layered CSS shadow focus state (custom `.search-input` class instead of Tailwind ring utilities to avoid box-shadow conflicts).
+> - Result cards: shadow-based (`card-shadow` class with `:hover` elevation in CSS), lift on hover (`hover:-translate-y-px`), hairline rule above pill tags, uppercase tracked meta line, `text-[11px]` pills.
+> - Filters: all labels use shared `.filter-label` CSS class, `rounded-lg` corners, `dropdown-shadow` on menus, softer focus rings, `transition-all duration-150`.
+> - Filter toggle: uppercase tracked style, smaller badge (`w-[18px] h-[18px] text-[10px]`), `ease-in-out` grid animation.
+> - Pagination: hairline separator (`border-t border-border-light`), `text-xs tabular-nums` result count, `rounded-lg` buttons, `shadow-sm` on active page, spacer hidden on mobile.
+> - Opinion detail: generous spacing (`gap-10`, `pb-8 mb-10`), uppercase tracked opinion number/date, PDF button with `shadow-sm hover:shadow-md`, back button with `inline-flex items-center gap-1.5`.
+> - Sidebar card: `border-border-light`, `p-6`, `card-shadow`, `text-[11px] tracking-wider` section headings.
+> - Code review caught 3 issues, all fixed: (1) `hover:card-shadow-hover` Tailwind variant on custom CSS class silently failed — moved to `.card-shadow:hover` in CSS; (2) double `px-6` on header + inner div — removed from header element; (3) `.search-input:focus` box-shadow conflicted with Tailwind `focus:ring-*` — removed ring utilities.
+> - 15 files modified, purely visual class and CSS updates. No functional, routing, or API changes. Opinion body typography (`.opinion-body`, `.opinion-section`, `.opinion-heading`) untouched.
 
 ---
 
