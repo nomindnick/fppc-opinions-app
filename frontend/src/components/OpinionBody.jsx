@@ -11,9 +11,9 @@ function renderText(text) {
 
 const SECTIONS = [
   { key: 'question', label: 'Question' },
+  { key: 'conclusion', label: 'Conclusion' },
   { key: 'facts', label: 'Facts' },
   { key: 'analysis', label: 'Analysis' },
-  { key: 'conclusion', label: 'Conclusion' },
 ]
 
 export default function OpinionBody({ opinion }) {
