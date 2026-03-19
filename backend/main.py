@@ -130,11 +130,16 @@ app.include_router(search.router)
 app.include_router(opinions.router)
 app.include_router(filters.router)
 
-# Mount MCP ASGI handler at /mcp
+# MCP ASGI handler — session_manager is set during lifespan
 from mcp.server.fastmcp.server import StreamableHTTPASGIApp
+from starlette.routing import Route
 
-_mcp_asgi_app = StreamableHTTPASGIApp(None)  # session_manager set in lifespan
-app.mount("/mcp", _mcp_asgi_app)
+_mcp_asgi_app = StreamableHTTPASGIApp(None)
+
+# Add MCP as a Starlette route directly on the FastAPI router so both
+# /mcp and /mcp/ work (app.mount only handles /mcp/ with trailing slash)
+app.router.routes.append(Route("/mcp", endpoint=_mcp_asgi_app))
+app.router.routes.append(Route("/mcp/", endpoint=_mcp_asgi_app))
 
 
 @app.get("/api/health")
