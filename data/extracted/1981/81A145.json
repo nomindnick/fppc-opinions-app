@@ -1,0 +1,71 @@
+{
+  "id": "81A145",
+  "year": 1981,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1981/81A145.PDF",
+  "pdf_sha256": "9ad08118abc65183d42d421baea236b56c10465e5db1cd356910f7f633ef44c5",
+  "local_pdf_path": "raw_pdfs/1981/81A145.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1981 Advice Letter # 81A145",
+    "tags": [
+      "Advice Letter",
+      "1981"
+    ],
+    "scraped_at": "2026-01-31 15:29:26",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1981&tagCount=1&page=19"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:02.222039Z",
+    "page_count": 1,
+    "word_count": 186,
+    "char_count": 1199,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 186
+  },
+  "content": {
+    "full_text": "State of California \nMemorandum \nTo \n: All Opinion Request Participants \nDate \nMarch 26, 1981 \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nLynn \nSub~~ TA & A question posed by Jeanne at the March 26, 1981 Opinion \nRequest meeting \nQ. \nA recipient committee is formed primarily to support a \ncity ballot measure that would restrict certain types \nof development within the city. \nAfter the election \nthe committee decides to remain active with the expec-\ntation that other ballot measures will arise dealing \nwith approximately the same subject matter. \nIs the com-\nmittee still primarily formed, for the purposes of where \nto file ,campaign statements, or does it now become a \ngeneral purpose committee? \nA. \nUsing similar reasoning to that used to determine that \na slate committee supporting a slate of different can-\ndidates (from one election year to another) for the \nsame local offices is not considered a general purpose \ncommittee (see Rich's me:mo dated March 4, 1981), the \nabove described recipient committee supporting or \nopposing city ballot measures in future city elections \nthat deal with approximately the same subject matter \nwould not be considered a general purpose committee. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1981-03-26",
+    "date_raw": "March 26, 1981",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "A recipient committee is formed primarily to support a city ballot measure that would restrict certain types of development within the city. After the election the committee decides to remain active with the expectation that other ballot measures will arise dealing with approximately the same subject matter. Is the committee still primarily formed, for the purposes of where to file ,campaign statements, or does it now become a general purpose committee?",
+    "conclusion": "Using similar reasoning to that used to determine that a slate committee supporting a slate of different candidates (from one election year to another) for the same local offices is not considered a general purpose committee (see Rich's me:mo dated March 4, 1981), the above described recipient committee supporting or opposing city ballot measures in future city elections that deal with approximately the same subject matter would not be considered a general purpose committee.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a recipient committee formed to support a specific city ballot measure remains a recipient committee (rather than becoming a general purpose committee) after the election if it continues operations to support future ballot measures on similar subject matter.",
+    "conclusion_synthetic": "A recipient committee that remains active after its initial election to support future ballot measures dealing with approximately the same subject matter does not become a general purpose committee, applying the same reasoning used for slate committees supporting candidates for the same offices across election years.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is formatted as internal FPPC memorandum from an Opinion Request meeting. Q and A sections clearly marked. Minor OCR artifact ('me:mo' instead of 'memo'). No formal CONCLUSION heading but A: section serves as conclusion."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:02.222039Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: A recipient committee is formed primarily to support a city ballot measure that would restrict certain types of development within the city. After the election the committee decides to remain active with the expectation that other ballot measures will arise dealing with approximately the same subject matter. Is the committee still primarily formed, for the purposes of where to file ,campaign statements, or does it now become a general purpose committee?\n\nCONCLUSION: Using similar reasoning to that used to determine that a slate committee supporting a slate of different candidates (from one election year to another) for the same local offices is not considered a general purpose committee (see Rich's me:mo dated March 4, 1981), the above described recipient committee supporting or opposing city ballot measures in future city elections that deal with approximately the same subject matter would not be considered a general purpose committee.",
+    "qa_source": "mixed",
+    "first_500_words": "State of California Memorandum To : All Opinion Request Participants Date March 26, 1981 From FAIR POLITICAL PRACTICES COMMISSION Lynn Sub~~ TA & A question posed by Jeanne at the March 26, 1981 Opinion Request meeting Q. A recipient committee is formed primarily to support a city ballot measure that would restrict certain types of development within the city. After the election the committee decides to remain active with the expec- tation that other ballot measures will arise dealing with approximately the same subject matter. Is the com- mittee still primarily formed, for the purposes of where to file ,campaign statements, or does it now become a general purpose committee? A. Using similar reasoning to that used to determine that a slate committee supporting a slate of different can- didates (from one election year to another) for the same local offices is not considered a general purpose committee (see Rich's me:mo dated March 4, 1981), the above described recipient committee supporting or opposing city ballot measures in future city elections that deal with approximately the same subject matter would not be considered a general purpose committee.",
+    "summary": "FPPC memo responding to a question about whether a recipient committee formed to support a specific city ballot measure becomes a general purpose committee if it remains active to support future similar ballot measures. The FPPC concludes it remains a recipient committee under reasoning similar to slate committee analysis."
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "17-044-1090W",
+  "year": 2017,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2017/17-044-1090W.pdf",
+  "pdf_sha256": "439fcf9c9cf74ee4425b004671ac496cc313dd5904ec8eef790d91b8ce3f2264",
+  "local_pdf_path": "raw_pdfs/2017/17-044-1090W.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2017 Advice Letter # 17-044-1090W",
+    "tags": [
+      "Advice Letter",
+      "2017"
+    ],
+    "scraped_at": "2026-01-31 15:02:43",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2017&tagCount=1&page=13"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:33:13.125656Z",
+    "page_count": 1,
+    "word_count": 310,
+    "char_count": 2037,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 310
+  },
+  "content": {
+    "full_text": "STATE OF CALIFORNIA \n: FAIR POLITICAL PRACTICES COMMISSION \nI 428 ,J Street• Suite 620 • Sacramento, CA 95814-2329 \n(916) 322-5660 • Fax (916) 322-0886 \nCharles Grace \nGrace Environmental Services, LLC \n2060 D East A venida De Los Arboles \nThousand Oaks, CA 91362 \nRe: \nYour Request for Advice \nOur File No. W-17-044 \nDear Mr. Grace: \nApril l 0, 2017 \nThis letter responds to your request for advice regarding the conflict of interest provisions of \nthe Political Reform Act (the \"Act\"). 1 The Act requires the Commission to provide written advice \nto any person whose duties under the Act are in question. (Section 83114 (b); Regulation 18329(a).) \nAs I indicated in previous correspondence to you, the Commission may decline to provide advice \nwhere the advice would relate to past conduct. (Regulation l8329(b)(8)(A).) Moreover, the \nCommission is statutorily prohibited from rendering advice related to past conduct in connection \nwith the conflict of interest provisions under Government Code section 1090, et seq. (Section \n1097.1 (c)(2).)2 \nIt is clear from the facts in this matter that any advice we provide relating to a potential \nconflict of interest would relate to past conduct. Therefore, we consider your request for advice \nwithdrawn. \nJW:jgl \nIf you have other questions on this matter, please contact me at (916) 322-5660. \nBy: \nSincerely, \nHyla P. Wagner \nGeneral Counsel \noodside \nCounsel, Legal Division \n1 The Political Refonn Act is contained in Government Code Sections 81000 through 91014. All statutory \nreferences are to the Government Code, unless otherwise indicated. The regulations of the Fair Political Practices \nCommission are contained in Sections 18110 through 18997 of Title 2 of the California Code of Regulations. All \nregulatory references are to Title 2, Division 6 of the California Code of Regulations, unless otherwise indicated. \n2 Section 1090 generally prohibits public officers, while acting in their official capacities, from making \ncontracts in which they are financially interested. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": "Grace",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "It is clear from the facts in this matter that any advice we provide relating to a potential conflict of interest would relate to past conduct. Therefore, we consider your request for advice withdrawn.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requester asked for advice regarding potential conflict of interest provisions under the Political Reform Act, specifically related to Government Code section 1090.",
+    "conclusion_synthetic": "The FPPC declined to provide advice because the requested guidance would relate to past conduct, which is prohibited by Regulation 18329(b)(8)(A) and Government Code section 1097.1(c)(2).",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Withdrawal letter with no explicit QUESTION or CONCLUSION section headers. The question and conclusion were extracted from the body text. Document clearly indicates the request is withdrawn due to past conduct prohibition."
+  },
+  "citations": {
+    "government_code": [
+      "1090",
+      "1097",
+      "81000",
+      "83114(b)"
+    ],
+    "regulations": [
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:33:13.125656Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The requester asked for advice regarding potential conflict of interest provisions under the Political Reform Act, specifically related to Government Code section 1090.\n\nCONCLUSION: It is clear from the facts in this matter that any advice we provide relating to a potential conflict of interest would relate to past conduct. Therefore, we consider your request for advice withdrawn.",
+    "qa_source": "mixed",
+    "first_500_words": "STATE OF CALIFORNIA : FAIR POLITICAL PRACTICES COMMISSION I 428 ,J Street• Suite 620 • Sacramento, CA 95814-2329 (916) 322-5660 • Fax (916) 322-0886 Charles Grace Grace Environmental Services, LLC 2060 D East A venida De Los Arboles Thousand Oaks, CA 91362 Re: Your Request for Advice Our File No. W-17-044 Dear Mr. Grace: April l 0, 2017 This letter responds to your request for advice regarding the conflict of interest provisions of the Political Reform Act (the \"Act\"). 1 The Act requires the Commission to provide written advice to any person whose duties under the Act are in question. (Section 83114 (b); Regulation 18329(a).) As I indicated in previous correspondence to you, the Commission may decline to provide advice where the advice would relate to past conduct. (Regulation l8329(b)(8)(A).) Moreover, the Commission is statutorily prohibited from rendering advice related to past conduct in connection with the conflict of interest provisions under Government Code section 1090, et seq. (Section 1097.1 (c)(2).)2 It is clear from the facts in this matter that any advice we provide relating to a potential conflict of interest would relate to past conduct. Therefore, we consider your request for advice withdrawn. JW:jgl If you have other questions on this matter, please contact me at (916) 322-5660. By: Sincerely, Hyla P. Wagner General Counsel oodside Counsel, Legal Division 1 The Political Refonn Act is contained in Government Code Sections 81000 through 91014. All statutory references are to the Government Code, unless otherwise indicated. The regulations of the Fair Political Practices Commission are contained in Sections 18110 through 18997 of Title 2 of the California Code of Regulations. All regulatory references are to Title 2, Division 6 of the California Code of Regulations, unless otherwise indicated. 2 Section 1090 generally prohibits public officers, while acting in their official capacities, from making contracts in which they are financially interested.",
+    "summary": "The FPPC withdrew the advice request from Charles Grace regarding potential conflicts of interest under the Political Reform Act because the Commission is statutorily prohibited from rendering advice related to past conduct in connection with conflict of interest provisions."
+  }
+}

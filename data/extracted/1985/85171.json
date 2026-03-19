@@ -1,0 +1,73 @@
+{
+  "id": "85171",
+  "year": 1985,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1985/fppc-advice/85171.PDF",
+  "pdf_sha256": "29d4b4691d4c66c8ad0a5cfcc205f70bdcf8bce41bda58cb58b0bc716e64e39c",
+  "local_pdf_path": "raw_pdfs/1985/85171.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1985 Advice Letter # 85171",
+    "tags": [
+      "Advice Letter",
+      "1985"
+    ],
+    "scraped_at": "2026-01-31 15:36:30",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1985&tagCount=1&page=12"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:40.340402Z",
+    "page_count": 1,
+    "word_count": 120,
+    "char_count": 767,
+    "quality_score": 0.5125,
+    "olmocr_cost": null,
+    "native_word_count": 120
+  },
+  "content": {
+    "full_text": "M-\n-/ \nState of California \n1 \nMemorandum \nt\" \nTo \nBarbara Milman \nChief counsel \n?PPc \nJUl 25 \n~ 45 AH ~iS \nJuly 22, 1985 \nFrom \nGovernor's Office/Vance Raye \nThis memorandum will confirm our conversation of July 15, \n1985 regarding the applicability of Government Code Section 84309 \nto campaign contributions mailed to the Governor's Office. \nYou \nindicated that Section 84309 has been construed by the Commission \nas not applying to contributions received by mail in a public \nbuilding. \nTherefore, contributions to the Governor or to any other \nofficial or in support of any cause, and received by mail in the \nGovernor's Office may be forwarded to the appropriate campaign \ncommittee without violating Section 84309. \nThank you for your advice on this matter. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1985-07-22",
+    "date_raw": "July 22, 1985",
+    "requestor_name": null,
+    "requestor_title": "Chief counsel",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether Government Code Section 84309 applies to campaign contributions mailed to the Governor's Office.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.65,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an incoming memorandum from Governor's Office to FPPC, not an FPPC advice letter. References a prior conversation where FPPC indicated Section 84309 does not apply to mail-in contributions at public buildings. No formal Q/C sections present. Low confidence due to document being incoming correspondence rather than FPPC's formal advice letter response."
+  },
+  "citations": {
+    "government_code": [
+      "84309"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:36:40.340402Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether Government Code Section 84309 applies to campaign contributions mailed to the Governor's Office.",
+    "qa_source": "synthetic",
+    "first_500_words": "M- -/ State of California 1 Memorandum t\" To Barbara Milman Chief counsel ?PPc JUl 25 ~ 45 AH ~iS July 22, 1985 From Governor's Office/Vance Raye This memorandum will confirm our conversation of July 15, 1985 regarding the applicability of Government Code Section 84309 to campaign contributions mailed to the Governor's Office. You indicated that Section 84309 has been construed by the Commission as not applying to contributions received by mail in a public building. Therefore, contributions to the Governor or to any other official or in support of any cause, and received by mail in the Governor's Office may be forwarded to the appropriate campaign committee without violating Section 84309. Thank you for your advice on this matter.",
+    "summary": "A memorandum from the Governor's Office to FPPC Chief Counsel Barbara Milman confirming a prior conversation regarding the applicability of Government Code Section 84309 to contributions received by mail at the Governor's Office."
+  }
+}

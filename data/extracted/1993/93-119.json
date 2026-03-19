@@ -1,0 +1,74 @@
+{
+  "id": "93-119",
+  "year": 1993,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1993/93-119.pdf",
+  "pdf_sha256": "2ef74d3e0c3d62851a2ad46fb9d2214e0ef418f59bffa633ea6e6e42845c123c",
+  "local_pdf_path": "raw_pdfs/1993/93-119.pdf",
+  "source_metadata": {
+    "title_raw": ", Kvasager Year: 1993 Advice Letter # 93-119",
+    "tags": [
+      "1993",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:31:00",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1993&tagCount=1"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:05.241278Z",
+    "page_count": 1,
+    "word_count": 276,
+    "char_count": 1712,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 276
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\nJudith Sproul Davis,\nESq.\nNielsen, Merksamer, Parrinello,\nMueller\n& Naylor\n770\nL Street, Suite 800\nSacramento,\nCA\n95814\nDear Ms. Davis:\nRE:\nYour Request For\nInformal Assistance\nOur File No.\n1-93-119\nYou have requested confirmation of telephone advice provided\nto you concerning the campaign disclosure provisions of the\nPolitical Reform Act (the “Act”).l/\nBecause your letter does not\nidentify the person with duties under the Act on whose behalf you\nare writing,\nwe are treating your request as one for informal\nassistance. 2/\nYour letter of March 26,\n1993, correctly summarizes my advice\nthat a payment made by a hotel in settlement of a law suit filed\nagainst it by a candidate’s controlled committee is not a\ncontribution under the Act so long as the settlement is not made\nfor political purposes and is of the type that would be made by\nthe hotel in resolving any law suit brought against the hotel by\nany hotel customer.\nIf you have additional questions concerning this matter,\nplease give me a call at 916/322—5662.\nSincerely,\n1/ Government Code Sections 81000-91015.\nAll statutory references\nare to the Government Code unless otherwise indicated.\nCommission\nregulations appear at 2 California Code of Regulations Section\n18000,\ng.\nAll references to regulations are to Title 2,\nDivision\n6 of the California Code of Regulations.\n2/ Informal assistance does not provide the requestor with the\nimmunity provided by an opinion or formal written advice.\n(Government Code Section 83114;\n2 Cal.\nCode of Regs. Sections\n18329(c) (3).)\nApril 15,\n1993\nMary\nPolitical Reform Consultant\n428 J Street, Suite 800 •\nP.O. Box 807 •\nSacramento, CA\n95804-0807 •\n(916) 322-5660\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1993-03-26",
+    "date_raw": "March 26,\n1993",
+    "requestor_name": "Davis",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "informal_advice"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "Your letter of March 26, 1993, correctly summarizes my advice that a payment made by a hotel in settlement of a law suit filed against it by a candidate's controlled committee is not a contribution under the Act so long as the settlement is not made for political purposes and is of the type that would be made by the hotel in resolving any law suit brought against the hotel by any hotel customer.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a payment made by a hotel in settlement of a lawsuit filed against it by a candidate's controlled committee constitutes a contribution under the Political Reform Act.",
+    "conclusion_synthetic": "A settlement payment made by a hotel to resolve a lawsuit filed by a candidate's controlled committee is not a contribution under the Political Reform Act if the payment is not made for political purposes and is of the type the hotel would make in resolving any similar lawsuit.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: No formal question/conclusion sections present; document is confirmation of prior telephone advice. Informal assistance letter, not formal written advice (no immunity provided per footnote 2)."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "83114"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "gifts_honoraria",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:35:05.241278Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether a payment made by a hotel in settlement of a lawsuit filed against it by a candidate's controlled committee constitutes a contribution under the Political Reform Act.\n\nCONCLUSION: Your letter of March 26, 1993, correctly summarizes my advice that a payment made by a hotel in settlement of a law suit filed against it by a candidate's controlled committee is not a contribution under the Act so long as the settlement is not made for political purposes and is of the type that would be made by the hotel in resolving any law suit brought against the hotel by any hotel customer.",
+    "qa_source": "mixed",
+    "first_500_words": "California Fair Political Practices Commission Judith Sproul Davis, ESq. Nielsen, Merksamer, Parrinello, Mueller & Naylor 770 L Street, Suite 800 Sacramento, CA 95814 Dear Ms. Davis: RE: Your Request For Informal Assistance Our File No. 1-93-119 You have requested confirmation of telephone advice provided to you concerning the campaign disclosure provisions of the Political Reform Act (the “Act”).l/ Because your letter does not identify the person with duties under the Act on whose behalf you are writing, we are treating your request as one for informal assistance. 2/ Your letter of March 26, 1993, correctly summarizes my advice that a payment made by a hotel in settlement of a law suit filed against it by a candidate’s controlled committee is not a contribution under the Act so long as the settlement is not made for political purposes and is of the type that would be made by the hotel in resolving any law suit brought against the hotel by any hotel customer. If you have additional questions concerning this matter, please give me a call at 916/322—5662. Sincerely, 1/ Government Code Sections 81000-91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations Section 18000, g. All references to regulations are to Title 2, Division 6 of the California Code of Regulations. 2/ Informal assistance does not provide the requestor with the immunity provided by an opinion or formal written advice. (Government Code Section 83114; 2 Cal. Code of Regs. Sections 18329(c) (3).) April 15, 1993 Mary Political Reform Consultant 428 J Street, Suite 800 • P.O. Box 807 • Sacramento, CA 95804-0807 • (916) 322-5660",
+    "summary": "FPPC confirms informal telephone advice that a hotel's settlement payment to a candidate's controlled committee in a lawsuit is not a contribution under the Political Reform Act, provided the settlement is not made for political purposes and is consistent with how the hotel would settle similar lawsuits."
+  }
+}

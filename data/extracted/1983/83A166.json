@@ -1,0 +1,73 @@
+{
+  "id": "83A166",
+  "year": 1983,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1983/83A166.PDF",
+  "pdf_sha256": "7acd7509bbc2ee2484d2d10972ee607a57cbc4df21d6a78888293c81ee2a2b09",
+  "local_pdf_path": "raw_pdfs/1983/83A166.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1983 Advice Letter # 83A166",
+    "tags": [
+      "1983",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:32:51",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1983&tagCount=1&page=19"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:53.307869Z",
+    "page_count": 1,
+    "word_count": 281,
+    "char_count": 1702,
+    "quality_score": 0.8,
+    "olmocr_cost": null,
+    "native_word_count": 281
+  },
+  "content": {
+    "full_text": "Memorandum \nTo \nAdvice Request Meeting Participants \nDote \n6/23/83 \n. I \nFrom \n: \nFAIR POLITICAL PRACTICES COMMISSION \nJeanne \nSubiect: \n\"Period covered\" by the first report filed by a lobbyist \nI would like to discuss whether we should consider \na change to our determination that the first report filed \nby a lobbyist \" ••• shall cover all the activities of the \nlobbyist during the month in which he or she first registered \nor qualified-\" \nSee Gov. Code Section 82046(a); 2 Cal. Adm. \nCode Section l86IO; and Atlantic-Richfield Opinion, 1 FPPC 147 \n(No. 75-07 8-A) • \nThe regulation and opinion interpreting Section \n82046(a) were written prior to the time quarterly filing \nby lobbyists went into effect, and there may be a reason \nto change the period covered by the first report from \n\"the beginning of the month ..... \" to \"the beginning of the \ncalendar quarter ..• \" \nCONCLUSION \nIt was decided at the Advice Request Meeting on \nJune 30, 1983, that Regulation 2 Cal \nAdm. Code Section l86l6(q) \nwill be amended to change the period covered by the first \nreport filed by a newly-registered lobbyist from, \" ••• shall \ncover all the activities of the lobbyist during the month in \nwhich he or she first registered or qualified\" \nto \"\". \nshall \ncover all the activities of the lobbyist during the calendar \nquarter in which he or she first registered or qualified.\" \nSince this question was initiated by filers who \nhave received letters from the Secretary of State requesting \nthat their first report cover from the beginning of the \ncalendar quarter, I have advised the SOS that they should \ncontinue advising filers that the period covered begins with \nthe beginning of the calendar quarter \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1983-06-30",
+    "date_raw": "June 30, 1983",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Whether we should consider a change to our determination that the first report filed by a lobbyist \"... shall cover all the activities of the lobbyist during the month in which he or she first registered or qualified.\"",
+    "conclusion": "It was decided at the Advice Request Meeting on \nJune 30, 1983, that Regulation 2 Cal \nAdm. Code Section l86l6(q) \nwill be amended to change the period covered by the first \nreport filed by a newly-registered lobbyist from, \" ••• shall \ncover all the activities of the lobbyist during the month in \nwhich he or she first registered or qualified\" \nto \"\". \nshall \ncover all the activities of the lobbyist during the calendar \nquarter in which he or she first registered or qualified.\" \nSince this question was initiated by filers who \nhave received letters from the Secretary of State requesting \nthat their first report cover from the beginning of the \ncalendar quarter, I have advised the SOS that they should \ncontinue advising filers that the period covered begins with \nthe beginning of the calendar quarter",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Should the FPPC change the period covered by a newly-registered lobbyist's first report from the calendar month of registration to the calendar quarter of registration?",
+    "conclusion_synthetic": "The FPPC decided to amend Regulation 2 Cal. Adm. Code Section 18616(q) to change the reporting period for newly-registered lobbyists' first reports from the calendar month of registration to the calendar quarter of registration. The Secretary of State was advised to continue directing filers to use the calendar quarter as the reporting period.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern; LLM: Internal FPPC memorandum documenting an advice request meeting decision. Conclusion section explicitly labeled. Question synthesized from the subject line and opening discussion rather than a formal Q&A format. Document contains some minor OCR artifacts but content is clear."
+  },
+  "citations": {
+    "government_code": [
+      "82046(a)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:36:53.307869Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether we should consider a change to our determination that the first report filed by a lobbyist \"... shall cover all the activities of the lobbyist during the month in which he or she first registered or qualified.\"\n\nCONCLUSION: It was decided at the Advice Request Meeting on \nJune 30, 1983, that Regulation 2 Cal \nAdm. Code Section l86l6(q) \nwill be amended to change the period covered by the first \nreport filed by a newly-registered lobbyist from, \" ••• shall \ncover all the activities of the lobbyist during the month in \nwhich he or she first registered or qualified\" \nto \"\". \nshall \ncover all the activities of the lobbyist during the calendar \nquarter in which he or she first registered or qualified.\" \nSince this question was initiated by filers who \nhave received letters from the Secretary of State requesting \nthat their first report cover from the beginning of the \ncalendar quarter, I have advised the SOS that they should \ncontinue advising filers that the period covered begins with \nthe beginning of the calendar quarter",
+    "qa_source": "mixed",
+    "first_500_words": "Memorandum To Advice Request Meeting Participants Dote 6/23/83 . I From : FAIR POLITICAL PRACTICES COMMISSION Jeanne Subiect: \"Period covered\" by the first report filed by a lobbyist I would like to discuss whether we should consider a change to our determination that the first report filed by a lobbyist \" ••• shall cover all the activities of the lobbyist during the month in which he or she first registered or qualified-\" See Gov. Code Section 82046(a); 2 Cal. Adm. Code Section l86IO; and Atlantic-Richfield Opinion, 1 FPPC 147 (No. 75-07 8-A) • The regulation and opinion interpreting Section 82046(a) were written prior to the time quarterly filing by lobbyists went into effect, and there may be a reason to change the period covered by the first report from \"the beginning of the month ..... \" to \"the beginning of the calendar quarter ..• \" CONCLUSION It was decided at the Advice Request Meeting on June 30, 1983, that Regulation 2 Cal Adm. Code Section l86l6(q) will be amended to change the period covered by the first report filed by a newly-registered lobbyist from, \" ••• shall cover all the activities of the lobbyist during the month in which he or she first registered or qualified\" to \"\". shall cover all the activities of the lobbyist during the calendar quarter in which he or she first registered or qualified.\" Since this question was initiated by filers who have received letters from the Secretary of State requesting that their first report cover from the beginning of the calendar quarter, I have advised the SOS that they should continue advising filers that the period covered begins with the beginning of the calendar quarter",
+    "summary": "This FPPC memorandum discusses and concludes on whether to change the regulatory requirement for the period covered by a newly-registered lobbyist's first report from the calendar month to the calendar quarter of registration. The amendment was approved at the June 30, 1983 Advice Request Meeting."
+  }
+}

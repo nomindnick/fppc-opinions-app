@@ -1,0 +1,71 @@
+{
+  "id": "01-262",
+  "year": 2001,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2001/01-262.pdf",
+  "pdf_sha256": "8f558f5e37c615da449c854030001105bd67e544b8999a654c21d2afc8a309b4",
+  "local_pdf_path": "raw_pdfs/2001/01-262.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2001 Advice Letter # 01-262",
+    "tags": [
+      "2001",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:53:14",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2001&tagCount=1&page=29"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T22:14:04.485247Z",
+    "page_count": 1,
+    "word_count": 93,
+    "char_count": 599,
+    "quality_score": 0.8148443840201464,
+    "olmocr_cost": 0.00251206,
+    "native_word_count": 113
+  },
+  "content": {
+    "full_text": "May 16, 2002\n\nAsh Pirayou\nPirayou Law Offices\n125 South Market Street, Suite 1160\nSan Jose, CA 95113\n\nRe: Your Request for Advice\nOur File No. W-01-262\n\nDear Mr. Pirayou:\n\nPursuant to our telephone conversation of May 10, 2002, this letter is to confirm that you have withdrawn your letter seeking general assistance regarding the campaign provisions of the Political Reform Act.\n\nIf you have any additional questions, please feel free to call our office toll-free at (866) 275-3772.\n\nSincerely,\n\nLuisa Menchaca\nGeneral Counsel\n\nBy: [signature]\nNatalie Bocanegra\nStaff Counsel, Legal Division\n\nNB:jg",
+    "full_text_markdown": "May 16, 2002\n\nAsh Pirayou\nPirayou Law Offices\n125 South Market Street, Suite 1160\nSan Jose, CA 95113\n\nRe: Your Request for Advice\nOur File No. W-01-262\n\nDear Mr. Pirayou:\n\nPursuant to our telephone conversation of May 10, 2002, this letter is to confirm that you have withdrawn your letter seeking general assistance regarding the campaign provisions of the Political Reform Act.\n\nIf you have any additional questions, please feel free to call our office toll-free at (866) 275-3772.\n\nSincerely,\n\nLuisa Menchaca\nGeneral Counsel\n\nBy: [signature]\nNatalie Bocanegra\nStaff Counsel, Legal Division\n\nNB:jg"
+  },
+  "parsed": {
+    "date": "2002-05-16",
+    "date_raw": "May 16, 2002",
+    "requestor_name": "Pirayou",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T22:14:04.485247Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "May 16, 2002 Ash Pirayou Pirayou Law Offices 125 South Market Street, Suite 1160 San Jose, CA 95113 Re: Your Request for Advice Our File No. W-01-262 Dear Mr. Pirayou: Pursuant to our telephone conversation of May 10, 2002, this letter is to confirm that you have withdrawn your letter seeking general assistance regarding the campaign provisions of the Political Reform Act. If you have any additional questions, please feel free to call our office toll-free at (866) 275-3772. Sincerely, Luisa Menchaca General Counsel By: [signature] Natalie Bocanegra Staff Counsel, Legal Division NB:jg",
+    "qa_source": "extracted",
+    "first_500_words": "May 16, 2002 Ash Pirayou Pirayou Law Offices 125 South Market Street, Suite 1160 San Jose, CA 95113 Re: Your Request for Advice Our File No. W-01-262 Dear Mr. Pirayou: Pursuant to our telephone conversation of May 10, 2002, this letter is to confirm that you have withdrawn your letter seeking general assistance regarding the campaign provisions of the Political Reform Act. If you have any additional questions, please feel free to call our office toll-free at (866) 275-3772. Sincerely, Luisa Menchaca General Counsel By: [signature] Natalie Bocanegra Staff Counsel, Legal Division NB:jg",
+    "summary": null
+  }
+}

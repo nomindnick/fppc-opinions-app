@@ -1,0 +1,74 @@
+{
+  "id": "84193",
+  "year": 1984,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1984/fppc-advice/84193.PDF",
+  "pdf_sha256": "67d72016d52f5a141dd36463dd437a2f149c081549651683537263cfd0c9b250",
+  "local_pdf_path": "raw_pdfs/1984/84193.PDF",
+  "source_metadata": {
+    "title_raw": "HUNTER, MALCOLM Year: 1984 Advice Letter # 84193",
+    "tags": [
+      "1984",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:34:27",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1984&tagCount=1&page=14"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:47.161958Z",
+    "page_count": 2,
+    "word_count": 403,
+    "char_count": 2654,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 403
+  },
+  "content": {
+    "full_text": "P.O. BOX 807 • SACRAMENTO, 95804 ••• 1100 K STREET BUILDING, SACRAMENTO, 95814 \nMalcolm B. Hunter \nCity Attorney \nCity of Richmond \n330 City Hall \nRichmond, CA \n94804 \nDear Mr. Hunter: \nTechnical Assistance \n(916) 322-5662 \nAdministration \n322-5660 \nJuly 27, 1984 \nExecutive/legal \n322-5901 \nEnforcement \n322-6441 \nRe: \nOur Telephone Conversation \nFile No. A-84-l93 \nThis letter is sent to confirm our telephone conversation of \nJuly 23, 1984, in which you requested advice and information \nconcerning the conflict of interest provisions of the Political \nReform Act. \nYou stated that there was a decision pending before \nthe Richmond City Council concerning the utility user tax and, \nin particular, its application to a very large corporation. \nThe \ncorporation would be subject to a different tax rate than others \nbecause of a \"cap\" provision which would affect only the \ncorporation. \nOne of the councilmembers has an investment of \nmore than $1,000 in this corporation. \nThe possible financial \neffect of the Council decision on the corporation was $1 million \nto $2 million. \nI advised you that, based on these facts, the \ncouncilmember had a conflict of interest within the meaning of \nGovernment Code Sections 87100 and 87103 and Commission \nregulations, 2 Cal. Adm. Code Sections 18700 and 18702. \nHe \nshould abstain from all participation in this matter. \nWe also generally discussed the potential for conflicts of \ninterest in city taxing decisions. \nI explained to you that the \nunique circumstances of each situation must be analyzed. \nIn \nsome cases, the \"public generally\" exception contained in \nGovernment Code Section 87103 may apply,ll but, in most taxing \n11 \nSection 87103 provides that where the foreseeable, \nmaterial financial effect of a governmental decision on an \nofficial's financial interest is indistinguishable from the \neffect of the decision on the public generally, the official is \nnot prohibited from participating in the decision. \nWe often \ncall this the public generally exception to disqualification. \n\n\nMalcolm B. Hunter \nJuly 27, 1984 \nPage 2 \ndecisions, there are questions of rate structure where the \npublic generally exception clearly would not apply. \nFor your further information, I have enclosed a copy of a \nstaff advice letter and a copy of the stipulation in the recent \nCommission proceeding against Mayor Thomas J. Corcoran which \ndiscusses the utility user tax imposed last fall (see \nspecifically pp. 16-18). \nIf I can be of further assistance, \nplease feel free to contact me at (916) 322-5901. \nDMF:plh \nEnclosures \nSincerely, \ncf1~ C,) rL ~'4LL \nDiane Maura Fishburn \nCounsel \nLegal Division \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1984-07-27",
+    "date_raw": "July 27, 1984",
+    "requestor_name": "Hunter",
+    "requestor_title": "City Attorney",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Does a city councilmember with an investment in a corporation subject to a utility user tax decision have a conflict of interest that requires abstention from voting?",
+    "conclusion_synthetic": "Yes, the councilmember has a conflict of interest under Government Code Sections 87100 and 87103 because they have a financial interest exceeding $1,000 in the corporation and the decision would have a material financial effect ($1-2 million). The councilmember must abstain from all participation. The 'public generally' exception typically does not apply to rate structure questions in taxing decisions.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: No formal QUESTION and CONCLUSION sections present; advice provided via telephone conversation and confirmed in letter format. Synthetic question and conclusion derived from body text. Includes footnote explanation of 'public generally' exception under Government Code Section 87103."
+  },
+  "citations": {
+    "government_code": [
+      "87100",
+      "87103"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:36:47.161958Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Does a city councilmember with an investment in a corporation subject to a utility user tax decision have a conflict of interest that requires abstention from voting?\n\nCONCLUSION: Yes, the councilmember has a conflict of interest under Government Code Sections 87100 and 87103 because they have a financial interest exceeding $1,000 in the corporation and the decision would have a material financial effect ($1-2 million). The councilmember must abstain from all participation. The 'public generally' exception typically does not apply to rate structure questions in taxing decisions.",
+    "qa_source": "synthetic",
+    "first_500_words": "P.O. BOX 807 • SACRAMENTO, 95804 ••• 1100 K STREET BUILDING, SACRAMENTO, 95814 Malcolm B. Hunter City Attorney City of Richmond 330 City Hall Richmond, CA 94804 Dear Mr. Hunter: Technical Assistance (916) 322-5662 Administration 322-5660 July 27, 1984 Executive/legal 322-5901 Enforcement 322-6441 Re: Our Telephone Conversation File No. A-84-l93 This letter is sent to confirm our telephone conversation of July 23, 1984, in which you requested advice and information concerning the conflict of interest provisions of the Political Reform Act. You stated that there was a decision pending before the Richmond City Council concerning the utility user tax and, in particular, its application to a very large corporation. The corporation would be subject to a different tax rate than others because of a \"cap\" provision which would affect only the corporation. One of the councilmembers has an investment of more than $1,000 in this corporation. The possible financial effect of the Council decision on the corporation was $1 million to $2 million. I advised you that, based on these facts, the councilmember had a conflict of interest within the meaning of Government Code Sections 87100 and 87103 and Commission regulations, 2 Cal. Adm. Code Sections 18700 and 18702. He should abstain from all participation in this matter. We also generally discussed the potential for conflicts of interest in city taxing decisions. I explained to you that the unique circumstances of each situation must be analyzed. In some cases, the \"public generally\" exception contained in Government Code Section 87103 may apply,ll but, in most taxing 11 Section 87103 provides that where the foreseeable, material financial effect of a governmental decision on an official's financial interest is indistinguishable from the effect of the decision on the public generally, the official is not prohibited from participating in the decision. We often call this the public generally exception to disqualification. Malcolm B. Hunter July 27, 1984 Page 2 decisions, there are questions of rate structure where the public generally exception clearly would not apply. For your further information, I have enclosed a copy of a staff advice letter and a copy of the stipulation in the recent Commission proceeding against Mayor Thomas J. Corcoran which discusses the utility user tax imposed last fall (see specifically pp. 16-18). If I can be of further assistance, please feel free to contact me at (916) 322-5901. DMF:plh Enclosures Sincerely, cf1~ C,) rL ~'4LL Diane Maura Fishburn Counsel Legal Division",
+    "summary": "FPPC counsel confirms telephone advice to the City Attorney of Richmond regarding a councilmember's conflict of interest in a utility user tax decision affecting a corporation in which the councilmember held over $1,000 in investments. The FPPC advised mandatory abstention based on the material financial effect of the decision."
+  }
+}

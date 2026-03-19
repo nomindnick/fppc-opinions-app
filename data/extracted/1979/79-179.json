@@ -1,0 +1,71 @@
+{
+  "id": "79-179",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-179.PDF",
+  "pdf_sha256": "2428cdd76ff8b8e35730b263f3c1f52b0ed8040c7c194eae587129e476a34e5b",
+  "local_pdf_path": "raw_pdfs/1979/79-179.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1979 Advice Letter # 79-179",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:25:47",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=6"
+  },
+  "extraction": {
+    "method": "native+olmocr",
+    "extracted_at": "2026-02-07T16:46:44.350680Z",
+    "page_count": 1,
+    "word_count": 25,
+    "char_count": 135,
+    "quality_score": 0.33999999999999997,
+    "olmocr_cost": 0.00237704,
+    "native_word_count": 25
+  },
+  "content": {
+    "full_text": "market va \nas income. \nReporting Real Proper \nOnly the equi \nvalue in real \nI \nneed be disclo \nLoans must \n82033 \nI not the \ndis \nsed \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The document addresses reporting requirements for real property and loans, specifically regarding what equity value must be disclosed for real property holdings.",
+    "conclusion_synthetic": "Only the equity value in real property need be disclosed, and loans must be reported (with specific reference to a loan amount of 82033, though the full context is unclear due to document fragmentation).",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.35,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document text is heavily fragmented and partially illegible. No clear question or conclusion sections are present. The extracted information is based on fragmentary text discussing 'Reporting Real Property,' equity value disclosure, and loan reporting requirements. High uncertainty due to poor document quality and missing contextual information."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T16:46:44.350680Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The document addresses reporting requirements for real property and loans, specifically regarding what equity value must be disclosed for real property holdings.\n\nCONCLUSION: Only the equity value in real property need be disclosed, and loans must be reported (with specific reference to a loan amount of 82033, though the full context is unclear due to document fragmentation).",
+    "qa_source": "synthetic",
+    "first_500_words": "market va as income. Reporting Real Proper Only the equi value in real I need be disclo Loans must 82033 I not the dis sed",
+    "summary": "This FPPC advice letter addresses the disclosure requirements for real property equity and loan reporting under California political finance regulations."
+  }
+}

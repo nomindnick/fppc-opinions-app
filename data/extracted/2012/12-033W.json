@@ -1,0 +1,75 @@
+{
+  "id": "12-033W",
+  "year": 2012,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2012/12-033W.pdf",
+  "pdf_sha256": "c085a45ee68f65b3ad474a5b0485274f38724ee502170335cd9a5f312006fc16",
+  "local_pdf_path": "raw_pdfs/2012/12-033W.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2012 Advice Letter # 12-033W",
+    "tags": [
+      "2012",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:55:23",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2012&tagCount=1&page=14"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:33:43.284829Z",
+    "page_count": 1,
+    "word_count": 145,
+    "char_count": 940,
+    "quality_score": 0.5475,
+    "olmocr_cost": null,
+    "native_word_count": 145
+  },
+  "content": {
+    "full_text": "FAIR POLITICAL PRACTICES COMMISSION \n428 J Street • Suite 620 • Sacramento. CA 95814-2329 \n(916) 322-5660 • Fa:-< (916) 322-0886 \nKenneth Moser \n11280 Spica Drive \nSan Diego, CA 92126 \nRe: Your Request for Advice \nOur File No. W-12-033 \nDear Mr. Moser: \nFebruary 15, 2012 \nThis letter is in response to your request for written advice of February 13, 2012. Your \ninquiry primarily presents issues which are outside the purview of the Political Reform Act \n(\"Act\") . The Commission does not advise on the Public Records Act. You may want to contact \nprivate counsel or the Attorney General's Office for advice. \nShould you have any additional questions regarding this matter, please contact the \nCommission at (916) 322-5660. \nSincerely, \n0--, \u0002 \nZackery P. Morazzini \nGeneral Counsel \nZPM:jww \n1 Government Code sections 81000-91014. Commis:ion regulations appear at title 2, sections 18109; \n18996, of the California code of Regulations. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2012-02-15",
+    "date_raw": "February 15, 2012",
+    "requestor_name": "Moser",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requestor asked for FPPC advice on matters related to the Public Records Act, which falls outside the Political Reform Act's scope.",
+    "conclusion_synthetic": "The FPPC declines to provide advice because the inquiry presents issues outside the purview of the Political Reform Act, and recommends the requestor contact private counsel or the Attorney General's Office instead.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is a declination letter, not a standard advice letter with question and conclusion sections. The document lacks verbatim Q/C sections but clearly indicates the FPPC is declining jurisdiction. File number format is W-12-033 (likely indicating a withdrawal or declination case)."
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [
+      "18109"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:33:43.284829Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The requestor asked for FPPC advice on matters related to the Public Records Act, which falls outside the Political Reform Act's scope.\n\nCONCLUSION: The FPPC declines to provide advice because the inquiry presents issues outside the purview of the Political Reform Act, and recommends the requestor contact private counsel or the Attorney General's Office instead.",
+    "qa_source": "synthetic",
+    "first_500_words": "FAIR POLITICAL PRACTICES COMMISSION 428 J Street • Suite 620 • Sacramento. CA 95814-2329 (916) 322-5660 • Fa:-< (916) 322-0886 Kenneth Moser 11280 Spica Drive San Diego, CA 92126 Re: Your Request for Advice Our File No. W-12-033 Dear Mr. Moser: February 15, 2012 This letter is in response to your request for written advice of February 13, 2012. Your inquiry primarily presents issues which are outside the purview of the Political Reform Act (\"Act\") . The Commission does not advise on the Public Records Act. You may want to contact private counsel or the Attorney General's Office for advice. Should you have any additional questions regarding this matter, please contact the Commission at (916) 322-5660. Sincerely, 0--, \u0002 Zackery P. Morazzini General Counsel ZPM:jww 1 Government Code sections 81000-91014. Commis:ion regulations appear at title 2, sections 18109; 18996, of the California code of Regulations.",
+    "summary": "The FPPC declines to provide written advice to Kenneth Moser on his February 13, 2012 inquiry, determining that his questions regarding the Public Records Act fall outside the jurisdiction of the Political Reform Act."
+  }
+}

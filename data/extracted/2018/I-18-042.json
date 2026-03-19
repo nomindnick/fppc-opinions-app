@@ -1,0 +1,75 @@
+{
+  "id": "I-18-042",
+  "year": 2018,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2018/18042pdf.pdf",
+  "pdf_sha256": "a9cf70a952c216219ff4e1087e998d406636fb8119a689a85f4e06d30d3492dd",
+  "local_pdf_path": "raw_pdfs/2018/18042pdf.pdf",
+  "source_metadata": {
+    "title_raw": "Anthony Rhoades - I-18-042 - April 25, 2018 - Hesperia",
+    "tags": [
+      "2018",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:04:23",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2018&tagCount=1&page=10"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:33:07.142963Z",
+    "page_count": 2,
+    "word_count": 450,
+    "char_count": 2946,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 450
+  },
+  "content": {
+    "full_text": "STATE OF CALIFORNIA \n1 FAIR POLITICAL PRACTICES COMMISSION \n• \n1102 Q Street• Suite 3000 • Sacramento, CA 9581 t \n(916) 322-5660 • Fax (916) 322-0886 \nAnthony Rhoades \n11404 Balsam Avenue \nHesperia, CA 92345 \nApril25,2018 \nRe: \nYour Request for Infonnal Assistance \nOur File No. 1-18-042 \nDear Mr. Rhoades: \nThis letter is in response to your request for advice regarding the campaign finance \nprovisions of the Political Refonn Act (the \"Act\"). 1 Because your question is general in nature, we \nare treating your inquiry as a request for infonnal assistance. 2 \nYou are a resident of the City of Hesperia and are considering a run for Hesperia City \nCouncil either in 2018 or 2020. You confinned during our telephone conversation on April 6, 2018, \nthat you have not yet filed a Fonn 50 I - Candidate Intention Statement qr fonned a committee for \nan election scheduled in either year. Should you open an account to run for office in 2020 but later \ndecide to run for office in 2018, you ask whether you may transfer funds between your 2020 \ncommittee and 2018 committee. \nIn general, the Act does not restrict local candidates from transferring funds between their \ncontrolled committees if the committees are organized for future local el~ctions.3 However, \ncandidates are required to file a Fonn 501 before soliciting or receiving campaign contributions via \ntransfer or otherwise. (Section 85200.) A Fonn 501 must be filed for each election in which the \ncandidate intends to participate. Instructions for filing a Fonn 501 can be found on the \nCommission's website: http://www.fupc.ca.Qov/content/dam/fppc/NS-\nDocumentsff AD/Campaign%20Forms/50 l .pdf. \nAlso, please note that local campaign finance laws may restrict transfers between a \ncandidate's controlled committees. To ensure compliance with local rules, we recommend that you \ncontact your local election officials or private counsel to confirm whether any local restrictions \nwould apply before making such transfers. \n1 The Political Reform Act is contained in Government Code Sections 81000 through 91014. All statutory \nreferences are to the Government Code, unless otherwise indicated. The regulations of the Fair Political Practices \nCommission are contained in Sections 18110 through 18997 of Title 2 of the California Code of Regulations. All \nregulatory references are to Title 2, Division 6 of the California Code of Regulations, unless otherwise indicated. \n2 Informal assistance does not provide the requestor with the immunity provided by an opinion or fonnal \nwritten advice. (Section 83114; Regulation I 8329(c)(3).) \n3 Please note that the Act does place restrictions on certain post-election controlled committee transfers. \n\n\nFile No. 1-18-042 \nPage No. 2 \nIf you have any further questions or require clarification, please contact me at (916) 322-\n5660. \nAES:jgl \nSincerely, \nBrian G. Lau \nAssistant General Counsel \nBy: Adam E. Silver \nCounsel, Legal Division \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2018-04-25",
+    "date_raw": "April25,2018",
+    "requestor_name": "Rhoades",
+    "requestor_title": "General Counsel",
+    "requestor_city": "Hesperia",
+    "document_type": "informal_advice"
+  },
+  "sections": {
+    "question": "Should you open an account to run for office in 2020 but later decide to run for office in 2018, you ask whether you may transfer funds between your 2020 committee and 2018 committee.",
+    "conclusion": "In general, the Act does not restrict local candidates from transferring funds between their controlled committees if the committees are organized for future local elections. However, candidates are required to file a Form 501 before soliciting or receiving campaign contributions via transfer or otherwise. Local campaign finance laws may also restrict transfers between a candidate's controlled committees.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Can a local candidate transfer funds between controlled committees organized for elections in different years (2020 to 2018)?",
+    "conclusion_synthetic": "The Political Reform Act generally permits transfers between controlled committees for future local elections, but Form 501 must be filed for each election and local laws may impose additional restrictions.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Informal advice letter marked as non-binding. Clear question and answer sections present. Document references footnote restriction on post-election transfers. No formal opinion immunity provided due to informal nature."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "83114",
+      "85200"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.3333333333333333,
+    "classified_at": "2026-02-06T18:33:07.142963Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Should you open an account to run for office in 2020 but later decide to run for office in 2018, you ask whether you may transfer funds between your 2020 committee and 2018 committee.\n\nCONCLUSION: In general, the Act does not restrict local candidates from transferring funds between their controlled committees if the committees are organized for future local elections. However, candidates are required to file a Form 501 before soliciting or receiving campaign contributions via transfer or otherwise. Local campaign finance laws may also restrict transfers between a candidate's controlled committees.",
+    "qa_source": "mixed",
+    "first_500_words": "STATE OF CALIFORNIA 1 FAIR POLITICAL PRACTICES COMMISSION • 1102 Q Street• Suite 3000 • Sacramento, CA 9581 t (916) 322-5660 • Fax (916) 322-0886 Anthony Rhoades 11404 Balsam Avenue Hesperia, CA 92345 April25,2018 Re: Your Request for Infonnal Assistance Our File No. 1-18-042 Dear Mr. Rhoades: This letter is in response to your request for advice regarding the campaign finance provisions of the Political Refonn Act (the \"Act\"). 1 Because your question is general in nature, we are treating your inquiry as a request for infonnal assistance. 2 You are a resident of the City of Hesperia and are considering a run for Hesperia City Council either in 2018 or 2020. You confinned during our telephone conversation on April 6, 2018, that you have not yet filed a Fonn 50 I - Candidate Intention Statement qr fonned a committee for an election scheduled in either year. Should you open an account to run for office in 2020 but later decide to run for office in 2018, you ask whether you may transfer funds between your 2020 committee and 2018 committee. In general, the Act does not restrict local candidates from transferring funds between their controlled committees if the committees are organized for future local el~ctions.3 However, candidates are required to file a Fonn 501 before soliciting or receiving campaign contributions via transfer or otherwise. (Section 85200.) A Fonn 501 must be filed for each election in which the candidate intends to participate. Instructions for filing a Fonn 501 can be found on the Commission's website: http://www.fupc.ca.Qov/content/dam/fppc/NS- Documentsff AD/Campaign%20Forms/50 l .pdf. Also, please note that local campaign finance laws may restrict transfers between a candidate's controlled committees. To ensure compliance with local rules, we recommend that you contact your local election officials or private counsel to confirm whether any local restrictions would apply before making such transfers. 1 The Political Reform Act is contained in Government Code Sections 81000 through 91014. All statutory references are to the Government Code, unless otherwise indicated. The regulations of the Fair Political Practices Commission are contained in Sections 18110 through 18997 of Title 2 of the California Code of Regulations. All regulatory references are to Title 2, Division 6 of the California Code of Regulations, unless otherwise indicated. 2 Informal assistance does not provide the requestor with the immunity provided by an opinion or fonnal written advice. (Section 83114; Regulation I 8329(c)(3).) 3 Please note that the Act does place restrictions on certain post-election controlled committee transfers. File No. 1-18-042 Page No. 2 If you have any further questions or require clarification, please contact me at (916) 322- 5660. AES:jgl Sincerely, Brian G. Lau Assistant General Counsel By: Adam E. Silver Counsel, Legal Division",
+    "summary": "FPPC responds to Anthony Rhoades' request regarding whether he may transfer campaign funds between committees established for 2020 and 2018 city council races. The response explains that state law generally permits such transfers but requires Form 501 filing and notes that local restrictions may apply."
+  }
+}

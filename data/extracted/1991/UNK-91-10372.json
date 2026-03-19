@@ -1,0 +1,71 @@
+{
+  "id": "UNK-91-10372",
+  "year": 1991,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1991/91181.pdf",
+  "pdf_sha256": "a020ee2888fae7d8a72ad3e429cbccafa1fbffc341d890f0893075d54c7024a9",
+  "local_pdf_path": "raw_pdfs/1991/91181.pdf",
+  "source_metadata": {
+    "title_raw": "1991-91181-Bauer, David",
+    "tags": [
+      "1991",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:19:37",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1991&tagCount=1&page=53"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T21:45:58.770964Z",
+    "page_count": 1,
+    "word_count": 103,
+    "char_count": 655,
+    "quality_score": 0.8805539644012945,
+    "olmocr_cost": 0.00247336,
+    "native_word_count": 129
+  },
+  "content": {
+    "full_text": "March 20, 1991\n\nFair Political Practices Commission\n428 J St., 8th Floor\nSacramento CA 95814\n\nRe: Recipient committee bank accounts\n\nWhat financial products may a recipient committee use to temporarily store unneeded funds? For instance, may funds be put into a certificate of deposit in order to earn a higher rate of interest than is available from a money market checking account? May a committee purchase U.S. Treasury instruments through a stock broker? Are corporate bonds acceptable investments if purchased through a broker? Do the funds have to be insured by an official government agency?\n\nThank you for your assistance.\n\nSincerely,\n\nDavid Bauer",
+    "full_text_markdown": "March 20, 1991\n\nFair Political Practices Commission\n428 J St., 8th Floor\nSacramento CA 95814\n\nRe: Recipient committee bank accounts\n\nWhat financial products may a recipient committee use to temporarily store unneeded funds? For instance, may funds be put into a certificate of deposit in order to earn a higher rate of interest than is available from a money market checking account? May a committee purchase U.S. Treasury instruments through a stock broker? Are corporate bonds acceptable investments if purchased through a broker? Do the funds have to be insured by an official government agency?\n\nThank you for your assistance.\n\nSincerely,\n\nDavid Bauer"
+  },
+  "parsed": {
+    "date": "1991-03-20",
+    "date_raw": "March 20, 1991",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T21:45:58.770964Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "March 20, 1991 Fair Political Practices Commission 428 J St., 8th Floor Sacramento CA 95814 Re: Recipient committee bank accounts What financial products may a recipient committee use to temporarily store unneeded funds? For instance, may funds be put into a certificate of deposit in order to earn a higher rate of interest than is available from a money market checking account? May a committee purchase U.S. Treasury instruments through a stock broker? Are corporate bonds acceptable investments if purchased through a broker? Do the funds have to be insured by an official government agency? Thank you for your assistance. Sincerely, David Bauer",
+    "qa_source": "extracted",
+    "first_500_words": "March 20, 1991 Fair Political Practices Commission 428 J St., 8th Floor Sacramento CA 95814 Re: Recipient committee bank accounts What financial products may a recipient committee use to temporarily store unneeded funds? For instance, may funds be put into a certificate of deposit in order to earn a higher rate of interest than is available from a money market checking account? May a committee purchase U.S. Treasury instruments through a stock broker? Are corporate bonds acceptable investments if purchased through a broker? Do the funds have to be insured by an official government agency? Thank you for your assistance. Sincerely, David Bauer",
+    "summary": null
+  }
+}

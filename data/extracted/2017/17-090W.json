@@ -1,0 +1,75 @@
+{
+  "id": "17-090W",
+  "year": 2017,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2017/17-090W.pdf",
+  "pdf_sha256": "2d5f54aa068887cdb90b811bc3563cdbc5d62a40ffa0e80b80d9819369c677e0",
+  "local_pdf_path": "raw_pdfs/2017/17-090W.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2017 Advice Letter # 17-090W",
+    "tags": [
+      "Advice Letter",
+      "2017"
+    ],
+    "scraped_at": "2026-01-31 15:02:52",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2017&tagCount=1&page=15"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:33:13.736738Z",
+    "page_count": 1,
+    "word_count": 205,
+    "char_count": 1331,
+    "quality_score": 0.8,
+    "olmocr_cost": null,
+    "native_word_count": 205
+  },
+  "content": {
+    "full_text": "STATE OF CALIFORNIA \nFAIR POLITICAL PRACTICES COMMISSION \n• \n428 J Street • Suite 620 • Sacramento, CA 95814-2329 \n(916) 322-5660 • Fax (916) 322-0886 \nTim Chapa \nCity Manager \nCity of Sanger \n1700 7th Street \nSanger, CA 93657-2804 \nRE: Your Request for Advice \nOur File No. W-17-090 \nDear Mr. Chapa: \nApril 7, 2017 \nThis letter confirms receipt of your request for advice regarding your duties as \nSanger City Manager under the conflict-of-interest provisions of the Political Reform Act \n(the \"Act\").1 \nFormal written advice is the application of law to a given set of facts provided by \nthe requestor and has the purpose of conferring immunity to the requester regarding \nprospective conduct. (Section 83 l l 4(b ).) After a careful review of the facts you provided, \nwe decline to provide written advice to you because your current question involves \nanalysis of conduct that has already occurred. Therefore, we decline your request for \nadvice since that would amount to advice on past conduct. (See, Regulation \n18329(b)(8)(A).) \nIf you have other questions on this matter, please contact me at (916) 322-5660. \nSincerely, \n.,Wallace \nAssistan.t General Counsel \nLegal Division \n1 Government Code sections 81000- 91014. Commission regulations appear al Title 2. sections \n18109-18997. of lhe California Code of Regulations. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2017-04-07",
+    "date_raw": "April 7, 2017",
+    "requestor_name": "Chapa",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "Formal written advice is declined because the request involves analysis of conduct that has already occurred. The Commission declines to provide written advice since that would amount to advice on past conduct, which is not within the scope of prospective advice covered by Section 83114(b).",
+    "facts": null,
+    "analysis": "of conduct that has already occurred. Therefore, we decline your request for \nadvice since that would amount to advice on past conduct. (See, Regulation \n18329(b)(8)(A).)",
+    "question_synthetic": "Does the City Manager of Sanger have conflicts of interest under the Political Reform Act regarding certain duties or conduct?",
+    "conclusion_synthetic": "The FPPC declined to provide written advice because the requestor's question involved analysis of past conduct rather than prospective conduct, which falls outside the scope of formal written advice immunity under the Political Reform Act.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "Format: ocr; LLM: Declination letter (W-17-090). Document lacks explicit QUESTION and CONCLUSION sections but contains substantive analysis of why advice is declined. Reference to Regulation 18329(b)(8)(A) supports declination basis. No verbatim question provided by requestor in this correspondence."
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:33:13.736738Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Does the City Manager of Sanger have conflicts of interest under the Political Reform Act regarding certain duties or conduct?\n\nCONCLUSION: Formal written advice is declined because the request involves analysis of conduct that has already occurred. The Commission declines to provide written advice since that would amount to advice on past conduct, which is not within the scope of prospective advice covered by Section 83114(b).",
+    "qa_source": "mixed",
+    "first_500_words": "STATE OF CALIFORNIA FAIR POLITICAL PRACTICES COMMISSION • 428 J Street • Suite 620 • Sacramento, CA 95814-2329 (916) 322-5660 • Fax (916) 322-0886 Tim Chapa City Manager City of Sanger 1700 7th Street Sanger, CA 93657-2804 RE: Your Request for Advice Our File No. W-17-090 Dear Mr. Chapa: April 7, 2017 This letter confirms receipt of your request for advice regarding your duties as Sanger City Manager under the conflict-of-interest provisions of the Political Reform Act (the \"Act\").1 Formal written advice is the application of law to a given set of facts provided by the requestor and has the purpose of conferring immunity to the requester regarding prospective conduct. (Section 83 l l 4(b ).) After a careful review of the facts you provided, we decline to provide written advice to you because your current question involves analysis of conduct that has already occurred. Therefore, we decline your request for advice since that would amount to advice on past conduct. (See, Regulation 18329(b)(8)(A).) If you have other questions on this matter, please contact me at (916) 322-5660. Sincerely, .,Wallace Assistan.t General Counsel Legal Division 1 Government Code sections 81000- 91014. Commission regulations appear al Title 2. sections 18109-18997. of lhe California Code of Regulations.",
+    "summary": "The FPPC declined a request for formal written advice from the City Manager of Sanger regarding conflict-of-interest duties under the Political Reform Act, citing that the question involved analysis of past conduct rather than prospective conduct."
+  }
+}

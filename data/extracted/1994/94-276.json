@@ -1,0 +1,78 @@
+{
+  "id": "94-276",
+  "year": 1994,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1994/94-276.pdf",
+  "pdf_sha256": "87c37d13bc0c1b8544244ba20b06c6407adb8cb9539d6f2ed9255af45bb27cea",
+  "local_pdf_path": "raw_pdfs/1994/94-276.pdf",
+  "source_metadata": {
+    "title_raw": "Bowler, Larry Year: 1994 Advice Letter # 94-276",
+    "tags": [
+      "1994",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:35:45",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1994&tagCount=1&page=23"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:03.492922Z",
+    "page_count": 2,
+    "word_count": 393,
+    "char_count": 2579,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 393
+  },
+  "content": {
+    "full_text": "California\n1.\n•\n1\nSUPERSEDED BY 1998\nFair Poiiticai\nAMENDMENTS TO\nPractices Commission\nREGULATION 18530\nSeptember 9,\n1994\nHon. Larry Bowler\nAssemblyman,\n10th District\nP.O.\nBox 942849\nSacramento,\nCA 94249—0001\nRe:\nYour Request for Advice\nOur File No.\nA—94—276\nDear Assemblyman Bowler:\nWe write to confirm the telephone advice given by this agency\nto Ms. Kelli Norton of the Assembly Republican Caucus regarding\nthe public expenditure prohibitions of the Political Reform Act\n(the “Act”) •1\nMs. Norton inquired whether or not Section 85300 of the Act\nprohibited a member of the legislature from distributing, at\npolitical events,\ninformational brochures and copies of the public\nservice directory,\nboth of which are published at state expense.\nMs.\nNorton indicated that these items are regularly published by\nthe legislature for distribution by its members to their\nconstituents.\nSection 85300 prohibits the expenditure of public money for\nany campaign for elective office..\nUnder Section 85300, both the\nexpenditure by a public official,\nand the acceptance by a\ncandidate of a contribution of public funds, are prohibited.\nTherefore,\nwhen public funds are expended to advocate or promote a\ncandidate’s election to public office, the Act is violated.\nHowever, Section 85300 does not prohibit every government\nexpenditure which indirectiybenefits a candidatefor election.\nBecause the information a-nd materials described by Ms. Norton\nare published for distribution to the public,\nand their\npublication is unconnected to any campaign for elective office,\nthe mere distribution during a political event sponsored by a\ncandidate for election does not violate Section 85300.\nThis\nadvice is,\nof course,\nlimited to the situation described herein\nand would not extend to any situation where such materials were\n1\nGovernment Code Sections 81000—9 1015.\nAll statutory references\nare to the Government Code unless otherwise indicated.\nCommission\nregulations appear at\n2 California Code of Regulations,\nSections\n18000-18954.\nAll references to regulations are to Title 2,\nDivision\n6 of the California Code of Regulations.\n428 J Street, Suite 800 •\nP.O. Box 807 •\nSacramento, CA\n95804-0807 •\n(916) 322-5660\n\n\nFile No.\nA—94—276\nPage\n2\nsold to finance a campaign,\nor distributed solely to contributors\nas a quid pro quo for a contribution.\nWe trust that this confirmation adequately addresses your\nconcerns.\nShould you have any questions, please feel free to\ncontact the undersigned at\n(916)\n322-5901.\nSincerely,\nSteven G.\nChurchwell\nGeneral Counsel\nBy:\nDaniel E.\nMuallem\nCounsel,\nLegal Division\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1994-09-09",
+    "date_raw": "September 9,\n1994",
+    "requestor_name": "Bowler",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Whether or not Section 85300 of the Act prohibited a member of the legislature from distributing, at political events, informational brochures and copies of the public service directory, both of which are published at state expense.",
+    "conclusion": "Section 85300 does not prohibit every government expenditure which indirectly benefits a candidate for election. Because the information and materials described are published for distribution to the public, and their publication is unconnected to any campaign for elective office, the mere distribution during a political event sponsored by a candidate for election does not violate Section 85300. This advice is limited to the situation described and would not extend to any situation where such materials were sold to finance a campaign, or distributed solely to contributors as a quid pro quo for a contribution.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Does Section 85300 of the Political Reform Act prohibit legislators from distributing state-funded informational brochures and public service directories at political campaign events?",
+    "conclusion_synthetic": "Distribution of state-published informational materials at political events does not violate Section 85300 because the materials are published for general public distribution and are unconnected to any campaign. However, this advice does not permit selling such materials to finance a campaign or distributing them solely to contributors as quid pro quo.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document marked as 'SUPERSEDED BY 1998 AMENDMENTS TO REGULATION 18530'. Clear question and conclusion sections present. Telephone advice was confirmed in writing."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "85300"
+    ],
+    "regulations": [
+      "18530"
+    ],
+    "prior_opinions": [],
+    "cited_by": [
+      "95-280"
+    ],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:35:03.492922Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether or not Section 85300 of the Act prohibited a member of the legislature from distributing, at political events, informational brochures and copies of the public service directory, both of which are published at state expense.\n\nCONCLUSION: Section 85300 does not prohibit every government expenditure which indirectly benefits a candidate for election. Because the information and materials described are published for distribution to the public, and their publication is unconnected to any campaign for elective office, the mere distribution during a political event sponsored by a candidate for election does not violate Section 85300. This advice is limited to the situation described and would not extend to any situation where such materials were sold to finance a campaign, or distributed solely to contributors as a quid pro quo for a contribution.",
+    "qa_source": "mixed",
+    "first_500_words": "California 1. • 1 SUPERSEDED BY 1998 Fair Poiiticai AMENDMENTS TO Practices Commission REGULATION 18530 September 9, 1994 Hon. Larry Bowler Assemblyman, 10th District P.O. Box 942849 Sacramento, CA 94249—0001 Re: Your Request for Advice Our File No. A—94—276 Dear Assemblyman Bowler: We write to confirm the telephone advice given by this agency to Ms. Kelli Norton of the Assembly Republican Caucus regarding the public expenditure prohibitions of the Political Reform Act (the “Act”) •1 Ms. Norton inquired whether or not Section 85300 of the Act prohibited a member of the legislature from distributing, at political events, informational brochures and copies of the public service directory, both of which are published at state expense. Ms. Norton indicated that these items are regularly published by the legislature for distribution by its members to their constituents. Section 85300 prohibits the expenditure of public money for any campaign for elective office.. Under Section 85300, both the expenditure by a public official, and the acceptance by a candidate of a contribution of public funds, are prohibited. Therefore, when public funds are expended to advocate or promote a candidate’s election to public office, the Act is violated. However, Section 85300 does not prohibit every government expenditure which indirectiybenefits a candidatefor election. Because the information a-nd materials described by Ms. Norton are published for distribution to the public, and their publication is unconnected to any campaign for elective office, the mere distribution during a political event sponsored by a candidate for election does not violate Section 85300. This advice is, of course, limited to the situation described herein and would not extend to any situation where such materials were 1 Government Code Sections 81000—9 1015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations, Sections 18000-18954. All references to regulations are to Title 2, Division 6 of the California Code of Regulations. 428 J Street, Suite 800 • P.O. Box 807 • Sacramento, CA 95804-0807 • (916) 322-5660 File No. A—94—276 Page 2 sold to finance a campaign, or distributed solely to contributors as a quid pro quo for a contribution. We trust that this confirmation adequately addresses your concerns. Should you have any questions, please feel free to contact the undersigned at (916) 322-5901. Sincerely, Steven G. Churchwell General Counsel By: Daniel E. Muallem Counsel, Legal Division",
+    "summary": "The FPPC advised Assemblyman Larry Bowler that legislators may distribute state-funded informational brochures and public service directories at political events without violating Section 85300's public expenditure prohibitions, provided the distribution is incidental and not designed to finance campaigns or reward contributors."
+  }
+}

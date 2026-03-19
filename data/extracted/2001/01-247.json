@@ -1,0 +1,75 @@
+{
+  "id": "01-247",
+  "year": 2001,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2001/01-247.pdf",
+  "pdf_sha256": "a7ed7eff942b6f6f426630addc0d2ac37593b0157650f855c0a37f1605956f93",
+  "local_pdf_path": "raw_pdfs/2001/01-247.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2001 Advice Letter # 01-247",
+    "tags": [
+      "2001",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:53:06",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2001&tagCount=1&page=27"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T22:15:37.178521Z",
+    "page_count": 1,
+    "word_count": 104,
+    "char_count": 710,
+    "quality_score": 0.8528657988995929,
+    "olmocr_cost": 0.00253528,
+    "native_word_count": 127
+  },
+  "content": {
+    "full_text": "March 4, 2002\n\nPhilip B. Avila\nAttorney at Law\n920 Fifteenth Street\nModesto, CA 95354\n\nRe: Your Request for Advice\nOur File No. W-01-247\n\nDear Mr. Avila:\n\nThis correspondence confirms our telephone conversation that your request for written advice of October 9, 2001, under the provisions of the Political Reform Act¹ has been withdrawn.\n\nShould you have any additional questions regarding this matter, please contact me at (916) 322-5660.\n\nSincerely,\n\nLuisa Menchaca\nGeneral Counsel\n\n[signature]\nBy: Lawrence T. Woodlock\nSenior Staff Counsel, Legal Division\n\nLTW:jg\n\n¹ Government Code sections 81000-91014. Commission regulations appear at Title 2, sections 18109-18997, of the California Code of Regulations.",
+    "full_text_markdown": "March 4, 2002\n\nPhilip B. Avila\nAttorney at Law\n920 Fifteenth Street\nModesto, CA 95354\n\nRe: Your Request for Advice\nOur File No. W-01-247\n\nDear Mr. Avila:\n\nThis correspondence confirms our telephone conversation that your request for written advice of October 9, 2001, under the provisions of the Political Reform Act¹ has been withdrawn.\n\nShould you have any additional questions regarding this matter, please contact me at (916) 322-5660.\n\nSincerely,\n\nLuisa Menchaca\nGeneral Counsel\n\n[signature]\nBy: Lawrence T. Woodlock\nSenior Staff Counsel, Legal Division\n\nLTW:jg\n\n¹ Government Code sections 81000-91014. Commission regulations appear at Title 2, sections 18109-18997, of the California Code of Regulations."
+  },
+  "parsed": {
+    "date": "2002-03-04",
+    "date_raw": "March 4, 2002",
+    "requestor_name": "Avila",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [
+      "18109"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-19T22:15:37.178521Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "March 4, 2002 Philip B. Avila Attorney at Law 920 Fifteenth Street Modesto, CA 95354 Re: Your Request for Advice Our File No. W-01-247 Dear Mr. Avila: This correspondence confirms our telephone conversation that your request for written advice of October 9, 2001, under the provisions of the Political Reform Act¹ has been withdrawn. Should you have any additional questions regarding this matter, please contact me at (916) 322-5660. Sincerely, Luisa Menchaca General Counsel [signature] By: Lawrence T. Woodlock Senior Staff Counsel, Legal Division LTW:jg ¹ Government Code sections 81000-91014. Commission regulations appear at Title 2, sections 18109-18997, of the California Code of Regulations.",
+    "qa_source": "extracted",
+    "first_500_words": "March 4, 2002 Philip B. Avila Attorney at Law 920 Fifteenth Street Modesto, CA 95354 Re: Your Request for Advice Our File No. W-01-247 Dear Mr. Avila: This correspondence confirms our telephone conversation that your request for written advice of October 9, 2001, under the provisions of the Political Reform Act¹ has been withdrawn. Should you have any additional questions regarding this matter, please contact me at (916) 322-5660. Sincerely, Luisa Menchaca General Counsel [signature] By: Lawrence T. Woodlock Senior Staff Counsel, Legal Division LTW:jg ¹ Government Code sections 81000-91014. Commission regulations appear at Title 2, sections 18109-18997, of the California Code of Regulations.",
+    "summary": null
+  }
+}

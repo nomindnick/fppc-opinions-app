@@ -1,0 +1,73 @@
+{
+  "id": "A-82-024",
+  "year": 1982,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1982/82A024.PDF",
+  "pdf_sha256": "d1c1109956c59cdf9fd78a780ab89b3d57dfe55fc7bc49d545a107270af77042",
+  "local_pdf_path": "raw_pdfs/1982/82A024.PDF",
+  "source_metadata": {
+    "title_raw": "Judge Redmon - A-82-024 - February 2, 1982 - Shasta County",
+    "tags": [
+      "1982",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:29:52",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1982&tagCount=1&page=4"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:55.471647Z",
+    "page_count": 2,
+    "word_count": 138,
+    "char_count": 901,
+    "quality_score": 0.5075,
+    "olmocr_cost": null,
+    "native_word_count": 138
+  },
+  "content": {
+    "full_text": "\n\n({bambers of tbe ~uperior ((ourt \n&f)asta (lCount!' \nJOSEPH H. REDMON, JUDGE \n1ltbbtng, I!alifornta \nFebruary 9, 1982 \nFair Political Practices Commission \nP. O. Box 807 \nSacramento, CA \n95804 \nAttention: \nMs. Alice Hughes \nLegal Documents Examiner \nDear Ms. Hughes: \nThank you for talking to me today. \nThe three investments that I currently have under \nthe State of California Deferred Compensation Plan are \nGreat Western Savings, T. Rowe Price Growth Fund, and \nthe Rowe Price Net Income Fund. \nIf you wish additional information concerning the \nState of California Deferred Compensation Plan, I would \nsuggest you contact the Department of General Services, \n926 J Street, Sacramento, CA \n95814. \nIt would be appreciated if you could advise as to \nwhether these investments are of a nature that must be \nreported in my Statement of Economi- Interests, Form \n721. \nJHR:kc \nJ \nJ \nSuperior Court \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1982-02-09",
+    "date_raw": "February 9, 1982",
+    "requestor_name": "Hughes",
+    "requestor_title": null,
+    "requestor_city": "Shasta County",
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "It would be appreciated if you could advise as to whether these investments are of a nature that must be reported in my Statement of Economic Interests, Form 721.",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "A California Superior Court judge seeks guidance on whether three specific investments held under the State Deferred Compensation Plan (Great Western Savings, T. Rowe Price Growth Fund, and T. Rowe Price Net Income Fund) must be reported on Form 721, the Statement of Economic Interests.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an incoming request/inquiry letter from a public official to FPPC, not an FPPC response letter. No formal QUESTION or CONCLUSION sections are present. Document is dated February 9, 1982 and references Document ID A-82-024. The actual question is embedded in the closing paragraph."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [
+      "89-320"
+    ],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:36:55.471647Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: It would be appreciated if you could advise as to whether these investments are of a nature that must be reported in my Statement of Economic Interests, Form 721.",
+    "qa_source": "mixed",
+    "first_500_words": "({bambers of tbe ~uperior ((ourt &f)asta (lCount!' JOSEPH H. REDMON, JUDGE 1ltbbtng, I!alifornta February 9, 1982 Fair Political Practices Commission P. O. Box 807 Sacramento, CA 95804 Attention: Ms. Alice Hughes Legal Documents Examiner Dear Ms. Hughes: Thank you for talking to me today. The three investments that I currently have under the State of California Deferred Compensation Plan are Great Western Savings, T. Rowe Price Growth Fund, and the Rowe Price Net Income Fund. If you wish additional information concerning the State of California Deferred Compensation Plan, I would suggest you contact the Department of General Services, 926 J Street, Sacramento, CA 95814. It would be appreciated if you could advise as to whether these investments are of a nature that must be reported in my Statement of Economi- Interests, Form 721. JHR:kc J J Superior Court",
+    "summary": "Judge Joseph H. Redmon writes to the FPPC requesting advice on whether three investments held under the State of California Deferred Compensation Plan require reporting on Form 721 (Statement of Economic Interests)."
+  }
+}

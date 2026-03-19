@@ -1,0 +1,71 @@
+{
+  "id": "79-055",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-055.PDF",
+  "pdf_sha256": "c2d4225244497698d6c835921d282e3009ad7f1eb5bc3389679d03dc6351c233",
+  "local_pdf_path": "raw_pdfs/1979/79-055.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1979 Advice Letter # 79-055",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:26:35",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=17"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:07.299085Z",
+    "page_count": 1,
+    "word_count": 155,
+    "char_count": 1042,
+    "quality_score": 0.7150000000000001,
+    "olmocr_cost": null,
+    "native_word_count": 155
+  },
+  "content": {
+    "full_text": "State of California \nMemorandum \nTo \nGovernment Code Sectlon 82039 \nDate \nJanuary 12, 1979 \nFrom \nFAIR POLITICAL PRZAT \n:.E.5 COMMISSION \nRich Eichman \n\\ iA-j \n\\M~l\\'w \nSubject: Volunteer Lobbying \nFacts: \n• \nA registered lobbyist becomes ill and cannot perform his/her \nlobbying duties. \n• \nOther registered lobbyists volunteer to lobby on behalf of \nthe ill lobbyist. \n• \nThese lobbyists will not receive compensation from the ill \nlobbyist or his/her employer. \nQuestion: \nWhat is the reporting obligation of a lobbyist who performs \nvolunteer lobbying on behalf of the ill lobbyist? \nResponse: \n• \nThe lobbyist is required to disclose on his/her Lobbyist \nReport all legislative or administrative action he/she \nattempts to influence on behalf of the ill lobbyist. \n• \nThe lobbyist is required to disclose all payments made ln \nconnection with lobbying activity on behalf of the ill \nlobbyist. \n• \nThe lobbyist is not required to amend his/her registration \nstatement or disclose the ill lobbyist's employer on his/her \nLobbyist Report. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1979-01-12",
+    "date_raw": "January 12, 1979",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "What is the reporting obligation of a lobbyist who performs \nvolunteer lobbying on behalf of the ill lobbyist? \nResponse: \n• \nThe lobbyist is required to disclose on his/her Lobbyist \nReport all legislative or administrative action he/she \nattempts to influence on behalf of the ill lobbyist. \n• \nThe lobbyist is required to disclose all payments made ln \nconnection with lobbying activity on behalf of the ill \nlobbyist. \n• \nThe lobbyist is not required to amend his/her registration \nstatement or disclose the ill lobbyist's employer on his/her \nLobbyist Report.",
+    "conclusion": "The lobbyist is required to disclose on his/her Lobbyist Report all legislative or administrative action he/she attempts to influence on behalf of the ill lobbyist. The lobbyist is required to disclose all payments made in connection with lobbying activity on behalf of the ill lobbyist. The lobbyist is not required to amend his/her registration statement or disclose the ill lobbyist's employer on his/her Lobbyist Report.",
+    "facts": "• \nA registered lobbyist becomes ill and cannot perform his/her \nlobbying duties. \n• \nOther registered lobbyists volunteer to lobby on behalf of \nthe ill lobbyist. \n• \nThese lobbyists will not receive compensation from the ill \nlobbyist or his/her employer.",
+    "analysis": null,
+    "question_synthetic": "A registered lobbyist asks what reporting obligations apply when other registered lobbyists volunteer to perform lobbying duties on behalf of an ill lobbyist without compensation.",
+    "conclusion_synthetic": "Volunteer lobbyists must disclose all legislative or administrative actions they attempt to influence and any payments related to the volunteer lobbying on their Lobbyist Report, but they are not required to amend their registration or disclose the ill lobbyist's employer.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern; LLM: Document is a formal FPPC memorandum response with clear Question and Response sections. Uses \"Response\" rather than \"Conclusion\" but functions as advice letter format. No ambiguities in extraction."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:07.299085Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: What is the reporting obligation of a lobbyist who performs \nvolunteer lobbying on behalf of the ill lobbyist? \nResponse: \n• \nThe lobbyist is required to disclose on his/her Lobbyist \nReport all legislative or administrative action he/she \nattempts to influence on behalf of the ill lobbyist. \n• \nThe lobbyist is required to disclose all payments made ln \nconnection with lobbying activity on behalf of the ill \nlobbyist. \n• \nThe lobbyist is not required to amend his/her registration \nstatement or disclose the ill lobbyist's employer on his/her \nLobbyist Report.\n\nCONCLUSION: The lobbyist is required to disclose on his/her Lobbyist Report all legislative or administrative action he/she attempts to influence on behalf of the ill lobbyist. The lobbyist is required to disclose all payments made in connection with lobbying activity on behalf of the ill lobbyist. The lobbyist is not required to amend his/her registration statement or disclose the ill lobbyist's employer on his/her Lobbyist Report.",
+    "qa_source": "mixed",
+    "first_500_words": "State of California Memorandum To Government Code Sectlon 82039 Date January 12, 1979 From FAIR POLITICAL PRZAT :.E.5 COMMISSION Rich Eichman \\ iA-j \\M~l\\'w Subject: Volunteer Lobbying Facts: • A registered lobbyist becomes ill and cannot perform his/her lobbying duties. • Other registered lobbyists volunteer to lobby on behalf of the ill lobbyist. • These lobbyists will not receive compensation from the ill lobbyist or his/her employer. Question: What is the reporting obligation of a lobbyist who performs volunteer lobbying on behalf of the ill lobbyist? Response: • The lobbyist is required to disclose on his/her Lobbyist Report all legislative or administrative action he/she attempts to influence on behalf of the ill lobbyist. • The lobbyist is required to disclose all payments made ln connection with lobbying activity on behalf of the ill lobbyist. • The lobbyist is not required to amend his/her registration statement or disclose the ill lobbyist's employer on his/her Lobbyist Report.",
+    "summary": "The FPPC addresses the reporting obligations of registered lobbyists who volunteer to perform lobbying duties on behalf of an ill lobbyist without compensation. Volunteer lobbyists must disclose their lobbying activities and related payments but need not amend registration or identify the ill lobbyist's employer."
+  }
+}

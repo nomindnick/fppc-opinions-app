@@ -1,0 +1,72 @@
+{
+  "id": "80A150",
+  "year": 1980,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1980/80A150.PDF",
+  "pdf_sha256": "2c75dbbdd032e0909b38b10293befdc46b4665da2225698a8f1ebf10e592635c",
+  "local_pdf_path": "raw_pdfs/1980/80A150.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1980 Advice Letter # 80A150",
+    "tags": [
+      "1980",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:27:41",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1980&tagCount=1&page=11"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-27T17:43:39.933178Z",
+    "page_count": 2,
+    "word_count": 368,
+    "char_count": 2409,
+    "quality_score": 0.9206111202207097,
+    "olmocr_cost": 0.00509808,
+    "native_word_count": 161,
+    "haiku_cost": 0.005016
+  },
+  "content": {
+    "full_text": "State of California\n\nFair Political Practices Commission\n\nP.O. BOX 867 • SACRAMENTO, 95804 • 1109 K STREET BUILDING, SACRAMENTO, 95814\n10 SOUTH BROADWAY • SUITE 957 • LOS ANGELES, 90012\n\nOctober 27, 1980\n\nMr. Alan Shubin\nSilicon Road\n2555 Roeding Boulevard\nSalinas, California 93901\n\nDear Mr. Shubin:\n\nThis letter is to confirm our telephone conversation last\nweek on October 21 and October 23, 1980.\n\nOn October 21st, you asked how a major donor reported to\nthe FPPC must made directly to a candidate for State\nDi Division for State Senate campaign, which is in the\nprocess of being \"loaned\" to a candidates committee, and\nwhat the treatment of such loan is reported since the\nmajor donor will be equal in 1980?\n\nI advised that one major donor reports the amount\nto the vendor as an expenditure affected a brief memorandum to\nthe candidate serving [illegible] and only add [illegible]\nthat statement that the payment is to be reported\nas a loan to the [illegible] campaign or entity.\n\nWhen the Dnid [illegible] reports the major d [illegible]\none cannot [illegible] will be reported as Section [illegible]\nform 901 as a [illegible] loan.\n\nOn Wednesday, October 23, you asked whether or not\na major donor must report a \"loan\" by a candidate. The\nposition is that the major in question is to be reported as\na loan by a candidate with reference to the amount over\npaid to the major donor.\n\nI advised you that the amount involved the major\ndonor is not reportable because a major donor does not\nowe money for political purposes. Therefore, a\nmajor donor does not report [illegible] loaned.\n\n[illegible] shall not [illegible]\n\nA-SO-150\n\nAlan Stobin\nPage 2 & 3                                    October 27, 1989\n\n\nFinally, you asked if a major donor should be listed on a form to a committee\nwhen the committee repairs with the IRS and interest accrues to the major donor? I want to\nknow if you are any insurance can be purchased to protect the\nmajor donor in Section 'B' of this Bill.\n\nI hope this information has been helpful. If you\nplease do not hesitate to contact me regarding any\nadditional assistance.\n\n                                            Sincerely,\n\n\n                                            [signature]\n                                            Alan P. Arnold\n                                            Political Reform\n                                            Operational\n\n\n[illegible]",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1980-10-17",
+    "date_raw": "October 17, 1980",
+    "requestor_name": "Skobin",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The letter addresses three questions regarding how major donors report payments made on behalf of campaigns, refunds received from campaigns, and interest earned on loans to campaign committees.",
+    "conclusion_synthetic": "Major donors must report direct vendor payments as expenditures (with loan notation if applicable) and repayments/interest as reportable items on Form 461 Section III, but refunds received are not reportable since major donors do not raise money for political purposes.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.75,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is a confirmation letter of prior oral advice rather than a response to a written request. Contains three distinct advisory questions answered sequentially. Date discrepancy noted (letter dated October 17, 1980 but references October 21-22 conversations and October 27, 1986 signature line). No formal QUESTION or CONCLUSION sections present."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T16:39:24.037579Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The letter addresses three questions regarding how major donors report payments made on behalf of campaigns, refunds received from campaigns, and interest earned on loans to campaign committees.\n\nCONCLUSION: Major donors must report direct vendor payments as expenditures (with loan notation if applicable) and repayments/interest as reportable items on Form 461 Section III, but refunds received are not reportable since major donors do not raise money for political purposes.",
+    "qa_source": "synthetic",
+    "first_500_words": "October 17, 1980 Mr. Alan Skobin Selma Ford 15505 Rosecr Boulevard San Leandro, California 94577 Dear Mr. Skobin: This letter is to confirm my advice to you last week on October 21 and October 22, 1980. On October 21st, you asked how a major donor reports a payment made directly to a vendor in behalf of the Ed Davis for State Senate campaign, which is to be considered a \"loan\" by the campaign committee; and, how is the repayment of such loan reported since the major donor will be repaid in 1980? I advised that the major donor reports the payment to the vendor as an expenditure with a brief description of the goods or services rendered and any additional language indicating that the payment is to be considered as a loan to the Davis campaign may be added. When the Davis campaign repays the major donor, the repaid \"loan\" will be reported on Section III of Form 461 as a repaid loan. On Wednesday, October 22, you asked whether or not a major donor must report a \"refund\" by a campaign. The situation is that the major donor over paid for a fundraiser and the campaign was refunding the amount over-paid to the major donor. I advised you that the amount refunded the major donor is not reportable because a major donor does not raise money for political purposes. Therefore, a major donor does not report monies received. Alan Skobin Page 7 of 8 October 27, 1986 Finally, you asked if a major donor had to report the interest earned on a loan to a campaign committee when the committee repaid both the loan and interest earned to the major donor? I explained that both the repaid loan and any interest earned is reportable by the major donor in Section III of Form 461. I hope this information has been helpful to you. Please do not hesitate to contact our office for any additional assistance. Sincerely, [signature] Helen P. Arriola Political Reform Consultant HPA:jv",
+    "summary": "FPPC confirms prior telephone advice regarding reporting obligations for major donors under various scenarios: vendor payments treated as campaign loans, refunds from overpaid fundraiser events, and interest earned on campaign loans."
+  }
+}

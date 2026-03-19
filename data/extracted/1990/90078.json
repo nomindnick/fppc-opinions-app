@@ -1,0 +1,72 @@
+{
+  "id": "90078",
+  "year": 1990,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1990/90078.pdf",
+  "pdf_sha256": "32a22bfd0e99287cda29ca6795169821985e2761aed3b6727c6b33618fdb4ee3",
+  "local_pdf_path": "raw_pdfs/1990/90078.pdf",
+  "source_metadata": {
+    "title_raw": "Wagner, Robert Year: 1990 Advice Letter # 90078",
+    "tags": [
+      "1990",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:10:35",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1990&tagCount=1&page=63"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-25T22:50:52.778421Z",
+    "page_count": 2,
+    "word_count": 159,
+    "char_count": 885,
+    "quality_score": 0.8007446216166569,
+    "olmocr_cost": 0.00492952,
+    "native_word_count": 112,
+    "haiku_cost": 0.0038144000000000003
+  },
+  "content": {
+    "full_text": "1/17/90\n\nFPPC\nJAN 22 9:10 AM '90\n\nKathryn Donavan\nGeneral, F.P.P.C\nP.O. 807\nSacramento, Calif 95804\n\nAs per phone conversation with miss Blanca\nBreeze, atty, F.P.P.C. I would like confirmation\nof my phone call 1/17/90 - 3:30 P.m.\n\nMy request is for usage of comm. to\nRobert Bob Wagner to City Council and to state\nin letter form that I am seeking to be reelected\nto a 2 nd term.\n\nIn South Pasadena I served as city council\nmember from 1984-1988 and have decided to\nrun again in 1990.\n\nMany thanks for your cooperation.\n\nVery truly yours,\nRobert Wagner\nP.D 425\nSouth Pasadena Ca. 91031\n(818) 441-2251\n\n[The image appears to be a mostly blank page with very faint text or markings that are not clearly legible. There appears to be some faint horizontal lines and possibly some text on the right side that looks like it might say \"type\" but it is too faint to transcribe with confidence.]",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1990-01-17",
+    "date_raw": "January 17, 1990",
+    "requestor_name": "Wagner",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "My request is for usage of comm. to reelect Bob Wagner to City Council and to state in letter form that I am seeking to be reelected to a 2nd term.",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Robert Wagner seeks confirmation regarding the permissibility of using communications to promote his reelection to South Pasadena City Council for a second term.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.65,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Incoming request letter from candidate, not FPPC response. No formal QUESTION or CONCLUSION sections present. Phone conversation reference suggests this may be follow-up to verbal guidance. Document quality is poor, which may affect accuracy of extraction."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T16:21:10.474183Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: My request is for usage of comm. to reelect Bob Wagner to City Council and to state in letter form that I am seeking to be reelected to a 2nd term.",
+    "qa_source": "mixed",
+    "first_500_words": "January 17, 1990 Kathryn Donovan General, F.P.P.C. P.O. 807 Sacramento, Calif 95804 As per phone conversation with Miss Blanca Breeze, atty, F.P.P.C. I would like confirmation of my phone call 1/17/90 - 3:30 p.m. My request is for usage of comm. to reelect Bob Wagner to City Council and to state in letter form that I am seeking to be reelected to a 2nd term. In South Pasadena I served as City Council member from 1984-1988 and have decided to run again in 1990. Many thanks for your cooperation. Very truly yours, Robert Wagner P.O. 425 South Pasadena, Ca. 91031 (818) 441-2651 The image is extremely bright and mostly white, with very little visible detail. It appears to be an overexposed photograph or scan, making it difficult to discern any specific content or text. If you have another page or a higher quality scan, please provide it for better results.",
+    "summary": "Robert Wagner writes to the FPPC seeking confirmation of a phone conversation with FPPC attorney Blanca Breeze regarding his ability to use communications to promote his reelection to South Pasadena City Council for a second term (having previously served 1984-1988)."
+  }
+}

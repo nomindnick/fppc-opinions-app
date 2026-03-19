@@ -1,0 +1,79 @@
+{
+  "id": "95-297",
+  "year": 1995,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/1995/95-297.pdf",
+  "pdf_sha256": "c63853e18b10d353bb6a8625a9b98039a72eed952ba2522e8a6f1ce1640fe667",
+  "local_pdf_path": "raw_pdfs/1995/95-297.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 1995 Advice Letter # 95-297",
+    "tags": [
+      "1995",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:38:16",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1995&tagCount=1&page=21"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:59.277048Z",
+    "page_count": 2,
+    "word_count": 300,
+    "char_count": 2111,
+    "quality_score": 0.8,
+    "olmocr_cost": null,
+    "native_word_count": 300
+  },
+  "content": {
+    "full_text": "RAy! MEHTA\nCHAIRMAN\nFAIR POLITICAL PRACTICES COMMISSION\nSeptember 20,\n1995\nHonorable Tim Leslie\nSenator, First District\nState Capitol\nSacramento,\nCA\n95814\nRe:\nYour Request for Informal Assistance\nOur FileNo.\n1-95-297\nDear\nSenator Leslie:\nThis is in response to your letter requesting advice\nregarding the campaign provisions of the Political Reform Act\n(the\n“Act”) 1\nSince your advice request is general in nature,\nwe are\ntreating your request as one for informal assistance.\n2\nQUESTION\nDoes the Act prohibit corporations from making campaign\ncontributions to the candidate controlled committees of state\nlegislative candidates?\nCONCLUSION\nThe Act does not prohibit corpOrate contributions,\nnor does\nit treat corporate contributions any differently than\ncontributions from individuals.\nDISCUSSION\nSection 89510 -provides:\n-\n(a)\nA candidate may only accept contributions\nfrom persons, political committees, broad based\n1\nGovernment Code Sections 81000-91015.\nAll statutory references\n—\nare to the Government Code unless otherwise indicated.\n2\nInformal assistance does not provide the requestor with the\nimmunity provided by an opinion or formal written advice.\n(Section\n83114; Regulation 18329(c) (3).)\n428 1 STREET, SUITE 800, SACRAMENTO, CALIFORNIA 95814\n(916) 322-5660\n\n\nOur File No.\n1—95—297\nPage\n2\npolitical committees,\nand political parties and\nonly in the amounts specified in Article\n3\n(commencing with Section 85300).\nA candidate shall\nnot accept contributions from any other source.\nSection 82047 defines “person” as individuals,\nproprietorships, firms, partnerships\n1 joint ventures, syndicates,\nbusiness trusts,\ncompanies, corporations, associations,\ncommittees,\nand any other organizations or groups of persons\nacting in concert.\nThus,\nthe Act expressly permits corporate contributions to\nstate and local candidates.\nWith respect to federal candidates,\nthe Federal Election Campaign Act controls.\nIf you have any further questions regarding this matter,\nplease feel free to contact me at\n(916)\n322—5660.\nSincerely,\nSteven G.\nChurchwell\nGeneral Counsel\nBy:\nJohn W. Wallace\n() Counsel,\nLegal Division\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1995-09-20",
+    "date_raw": "September 20,\n1995",
+    "requestor_name": null,
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "informal_advice"
+  },
+  "sections": {
+    "question": "Does the Act prohibit corporations from making campaign\ncontributions to the candidate controlled committees of state\nlegislative candidates?",
+    "conclusion": "The Act does not prohibit corpOrate contributions,\nnor does\nit treat corporate contributions any differently than\ncontributions from individuals.",
+    "facts": null,
+    "analysis": "Section 89510 -provides:\n-\n(a)\nA candidate may only accept contributions\nfrom persons, political committees, broad based\n2\nInformal assistance does not provide the requestor with the\nimmunity provided by an opinion or formal written advice.\n(Section\n83114; Regulation 18329(c) (3).)\n428 1 STREET, SUITE 800, SACRAMENTO, CALIFORNIA 95814\n(916) 322-5660\n\n\nOur File No.\n1—95—297\npolitical committees,\nand political parties and\nonly in the amounts specified in Article\n3\n(commencing with Section 85300).\nA candidate shall\nnot accept contributions from any other source.\nSection 82047 defines “person” as individuals,\nproprietorships, firms, partnerships\n1 joint ventures, syndicates,\nbusiness trusts,\ncompanies, corporations, associations,\ncommittees,\nand any other organizations or groups of persons\nacting in concert.\nThus,\nthe Act expressly permits corporate contributions to\nstate and local candidates.\nWith respect to federal candidates,\nthe Federal Election Campaign Act controls.",
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.85,
+    "has_standard_format": true,
+    "parsing_notes": "Mixed formats: modern, old"
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "82047",
+      "83114",
+      "85300",
+      "89510"
+    ],
+    "regulations": [
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "gifts_honoraria",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.4,
+    "classified_at": "2026-02-06T18:34:59.277048Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Does the Act prohibit corporations from making campaign\ncontributions to the candidate controlled committees of state\nlegislative candidates?\n\nCONCLUSION: The Act does not prohibit corpOrate contributions,\nnor does\nit treat corporate contributions any differently than\ncontributions from individuals.",
+    "qa_source": "extracted",
+    "first_500_words": "RAy! MEHTA CHAIRMAN FAIR POLITICAL PRACTICES COMMISSION September 20, 1995 Honorable Tim Leslie Senator, First District State Capitol Sacramento, CA 95814 Re: Your Request for Informal Assistance Our FileNo. 1-95-297 Dear Senator Leslie: This is in response to your letter requesting advice regarding the campaign provisions of the Political Reform Act (the “Act”) 1 Since your advice request is general in nature, we are treating your request as one for informal assistance. 2 QUESTION Does the Act prohibit corporations from making campaign contributions to the candidate controlled committees of state legislative candidates? CONCLUSION The Act does not prohibit corpOrate contributions, nor does it treat corporate contributions any differently than contributions from individuals. DISCUSSION Section 89510 -provides: - (a) A candidate may only accept contributions from persons, political committees, broad based 1 Government Code Sections 81000-91015. All statutory references — are to the Government Code unless otherwise indicated. 2 Informal assistance does not provide the requestor with the immunity provided by an opinion or formal written advice. (Section 83114; Regulation 18329(c) (3).) 428 1 STREET, SUITE 800, SACRAMENTO, CALIFORNIA 95814 (916) 322-5660 Our File No. 1—95—297 Page 2 political committees, and political parties and only in the amounts specified in Article 3 (commencing with Section 85300). A candidate shall not accept contributions from any other source. Section 82047 defines “person” as individuals, proprietorships, firms, partnerships 1 joint ventures, syndicates, business trusts, companies, corporations, associations, committees, and any other organizations or groups of persons acting in concert. Thus, the Act expressly permits corporate contributions to state and local candidates. With respect to federal candidates, the Federal Election Campaign Act controls. If you have any further questions regarding this matter, please feel free to contact me at (916) 322—5660. Sincerely, Steven G. Churchwell General Counsel By: John W. Wallace () Counsel, Legal Division",
+    "summary": null
+  }
+}

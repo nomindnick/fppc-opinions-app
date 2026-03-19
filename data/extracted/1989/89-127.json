@@ -1,0 +1,79 @@
+{
+  "id": "89-127",
+  "year": 1989,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1989/fppc-advice/89-127.PDF",
+  "pdf_sha256": "385bdf0f933f98df61f5b443414abd801e58bee9367536810477c07c7944736c",
+  "local_pdf_path": "raw_pdfs/1989/89-127.PDF",
+  "source_metadata": {
+    "title_raw": "BOURBEAU, LUCILLE Year: 1989 Advice Letter # 89-127",
+    "tags": [
+      "Advice Letter",
+      "1989"
+    ],
+    "scraped_at": "2026-01-31 16:01:38",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1989&tagCount=1&page=10"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:47.929890Z",
+    "page_count": 5,
+    "word_count": 393,
+    "char_count": 2505,
+    "quality_score": 0.5075,
+    "olmocr_cost": null,
+    "native_word_count": 393
+  },
+  "content": {
+    "full_text": "California \nFair Political \nPractices Commission \nLucille Bourbeau \n925 Sonoma Avenue \nModesto, CA 95355 \nDear Ms. Bourbeau: \nMarch 8, 1989 \nRe: Your Request for Advice \nOur File No. I-89-127 \nYou have written requesting information regarding disclosure \nrequirements for candidates for the Grand Jury. \nSince you have \nnot requested advice on your behalf or at the request of an \nofficial with duties under the Political Reform Act (the IIAct\"1 1/ \nwe are treating your request as one for informal assistance. \n/ \nUnder the provisions of the Act, local agencies are required \nto promulgate conflict of interest codes. \n(section 87300.) \nThe \nconflict of interest codes must enumerate the positions within the \nagency which may materially affect financial interests. \nFinancial \ndisclosure requirements for said positions must also be \nenumerated. \n(See Section 87300(a) and Regulation 18730, copies \nenclosed. ) \nGrand juries are local government agencies and are therefore \nsubject to the disclosure requirements of the Act. \n(See \nWhittington Advice Letter, No. A-85-185, copy enclosed.) \nCode Sections 81000-91015. \nGovernment Code \nat 2 \n428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804¢0807 • (916) 322-5660 \n\n\nLucille Bourbeau \nMarch 8, 1989 \nPage 2 \nPlease do not hesitate to call me at (916) 322-5901 if you \nhave further questions. \nDMG:BMB:ld \nEnclosure \nVery truly yours, \nDiane M. Griffiths \nGeneral Counsel \nrcA.. \nBy: \nBlanca M. Breeze \nCounsel, Legal Division \n\n\nChairman \nC \nasion \nDear Sir: \nLate last year a friend of \nwas a eandidat \nGrand Jury of Stanislaus County. \nThis \noutraged about forms which required disclosure \nand business \nactions. \nThis person asked me to inquire about the \nere \nI wrote a \nletter to our Board of Supervisors. \nIt took \ne and then \nI had a call from our County Attorney. \nI \nd acc \nhis \nexplanation exe \nt for one thing. \nThat was that this type \nof inquiring was started at the behest of the Fair Political \nPractices Commission. \nI cannot see the connection. \nThe Grand Jury should not be \npolitical, the powers that be would insist that it is not, \nso where do you fit in and why? \nMy friend refused to complete the process. \nI been a \ncandidate, I also would have refused. \nSincerely, \nLucille Bourbeau \n\n\nn \nu \nDiane Griffiths \nDate \n'February 6, 1989 \nJohn H. Larson \nPRACTICES COMMISSION , \nLetter received from Lucille Bourbeau \nAttached hereto is a letter from Lucille Bourbeau. \nCould you \nplease prepare a response. \nAttachment \n\n\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1989-03-08",
+    "date_raw": "March 8, 1989",
+    "requestor_name": "Bourbeau",
+    "requestor_title": "County Attorney",
+    "requestor_city": null,
+    "document_type": "informal_advice"
+  },
+  "sections": {
+    "question": "You have written requesting information regarding disclosure requirements for candidates for the Grand Jury.",
+    "conclusion": "Grand juries are local government agencies and are therefore subject to the disclosure requirements of the Act. Local agencies are required to promulgate conflict of interest codes that enumerate positions which may materially affect financial interests and specify financial disclosure requirements for those positions.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "What are the disclosure requirements for candidates for the Grand Jury under the Political Reform Act?",
+    "conclusion_synthetic": "Grand Juries are local government agencies subject to the Political Reform Act's disclosure requirements, including conflict of interest codes that specify which positions require financial disclosures.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document contains both incoming request letter (dated February 6, 1989) and FPPC response letter (dated March 8, 1989). Response is informal advice, not formal advice letter. Incoming request expresses concern about political implications of disclosure requirements for Grand Jury candidates."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "87300",
+      "87300(a)"
+    ],
+    "regulations": [
+      "18730"
+    ],
+    "prior_opinions": [
+      "A-85-185"
+    ],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.6666666666666666,
+    "classified_at": "2026-02-06T18:35:47.929890Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: You have written requesting information regarding disclosure requirements for candidates for the Grand Jury.\n\nCONCLUSION: Grand juries are local government agencies and are therefore subject to the disclosure requirements of the Act. Local agencies are required to promulgate conflict of interest codes that enumerate positions which may materially affect financial interests and specify financial disclosure requirements for those positions.",
+    "qa_source": "mixed",
+    "first_500_words": "California Fair Political Practices Commission Lucille Bourbeau 925 Sonoma Avenue Modesto, CA 95355 Dear Ms. Bourbeau: March 8, 1989 Re: Your Request for Advice Our File No. I-89-127 You have written requesting information regarding disclosure requirements for candidates for the Grand Jury. Since you have not requested advice on your behalf or at the request of an official with duties under the Political Reform Act (the IIAct\"1 1/ we are treating your request as one for informal assistance. / Under the provisions of the Act, local agencies are required to promulgate conflict of interest codes. (section 87300.) The conflict of interest codes must enumerate the positions within the agency which may materially affect financial interests. Financial disclosure requirements for said positions must also be enumerated. (See Section 87300(a) and Regulation 18730, copies enclosed. ) Grand juries are local government agencies and are therefore subject to the disclosure requirements of the Act. (See Whittington Advice Letter, No. A-85-185, copy enclosed.) Code Sections 81000-91015. Government Code at 2 428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804¢0807 • (916) 322-5660 Lucille Bourbeau March 8, 1989 Page 2 Please do not hesitate to call me at (916) 322-5901 if you have further questions. DMG:BMB:ld Enclosure Very truly yours, Diane M. Griffiths General Counsel rcA.. By: Blanca M. Breeze Counsel, Legal Division Chairman C asion Dear Sir: Late last year a friend of was a eandidat Grand Jury of Stanislaus County. This outraged about forms which required disclosure and business actions. This person asked me to inquire about the ere I wrote a letter to our Board of Supervisors. It took e and then I had a call from our County Attorney. I d acc his explanation exe t for one thing. That was that this type of inquiring was started at the behest of the Fair Political Practices Commission. I cannot see the connection. The Grand Jury should not be political, the powers that be would insist that it is not, so where do you fit in and why? My friend refused to complete the process. I been a candidate, I also would have refused. Sincerely, Lucille Bourbeau n u Diane Griffiths Date 'February 6, 1989 John H. Larson PRACTICES COMMISSION , Letter received from Lucille Bourbeau Attached hereto is a letter from Lucille Bourbeau. Could you please prepare a response. Attachment",
+    "summary": "FPPC General Counsel Diane Griffiths responds to Lucille Bourbeau's informal request for information about disclosure requirements for Grand Jury candidates, explaining that Grand Juries are local agencies subject to the Act's conflict of interest code and financial disclosure provisions."
+  }
+}

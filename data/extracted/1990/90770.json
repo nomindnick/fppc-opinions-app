@@ -1,0 +1,71 @@
+{
+  "id": "90770",
+  "year": 1990,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1990/90770.pdf",
+  "pdf_sha256": "8e0f428f9e05ee1816c3950a7a7934522b3327de9c68bf608b35cc1e58fad32e",
+  "local_pdf_path": "raw_pdfs/1990/90770.pdf",
+  "source_metadata": {
+    "title_raw": "Miller, Phillip Year: 1990 Advice Letter # 90770",
+    "tags": [
+      "1990",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:06:06",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1990&tagCount=1&page=4"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:31.297476Z",
+    "page_count": 1,
+    "word_count": 228,
+    "char_count": 1449,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 228
+  },
+  "content": {
+    "full_text": "Phillio M. Miller\n424 West Commonwealth, Fulle'rton, California 92632 : (?14) 990-2918\n0rc iij i s5 Pii'S\nDecember 17, 1990\nMr. Scott Hallibrin\nGeneral Counsel\nFair Political Practices Commission\n428'J' Street, Suite 800\nSacramento, California 95814\nDear Mr. Hallibrin:\nI am Assemblyman Ross Johnson's district Administrative Assistant. ln addi-\ntion, outside normal working hours, I am a professional speaker and a stand-\nup comic.\nl'm concerned about my outside activities being affected by the new ethics\nregulations.\nMy activities are in three areas:\nProfessional Speaker: I speak to corporations, associations and man-\nagement clubs on management and interpersonal communication skills.\nl'm paid from $500 to $2,000 per speech. I never speak on political\nsubjects or anything dealing in any way with my work for Ross. I\nnever tell a client that I work for the legislature.\nStand-up comic: lwork as a comic in comedy clubs. None of my em-\nployers know that I work for the legislature. l'm paid from $50 to $200\nper a ppearance.\nCommunity Services classes at community colleges: lteach classes at\nseveral Southern California community colleges on interpersonal\ncommunications. ln obtaining the jobs I never indicate that I work for\nthe legislature; some colleges have since discovered my position with\nBoss. I average about $200 per class.\nPlease tell me if these activities conflict with the new regulations.\nThank you for your help.\nSincerely.\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1990-12-17",
+    "date_raw": "December 17, 1990",
+    "requestor_name": "Hallibrin",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "Please tell me if these activities conflict with the new regulations.",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requestor, an Assemblyman's district administrative assistant, seeks guidance on whether his outside professional activities as a speaker, stand-up comic, and community college instructor conflict with new ethics regulations.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an incoming request letter, not an FPPC response. The document contains detailed descriptions of three outside activities and a direct question seeking ethics guidance. No formal conclusion section is present as this is correspondence from a member of the public to FPPC counsel. Document ID 90770 appears to be the request identifier assigned by FPPC."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:35:31.297476Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Please tell me if these activities conflict with the new regulations.",
+    "qa_source": "mixed",
+    "first_500_words": "Phillio M. Miller 424 West Commonwealth, Fulle'rton, California 92632 : (?14) 990-2918 0rc iij i s5 Pii'S December 17, 1990 Mr. Scott Hallibrin General Counsel Fair Political Practices Commission 428'J' Street, Suite 800 Sacramento, California 95814 Dear Mr. Hallibrin: I am Assemblyman Ross Johnson's district Administrative Assistant. ln addi- tion, outside normal working hours, I am a professional speaker and a stand- up comic. l'm concerned about my outside activities being affected by the new ethics regulations. My activities are in three areas: Professional Speaker: I speak to corporations, associations and man- agement clubs on management and interpersonal communication skills. l'm paid from $500 to $2,000 per speech. I never speak on political subjects or anything dealing in any way with my work for Ross. I never tell a client that I work for the legislature. Stand-up comic: lwork as a comic in comedy clubs. None of my em- ployers know that I work for the legislature. l'm paid from $50 to $200 per a ppearance. Community Services classes at community colleges: lteach classes at several Southern California community colleges on interpersonal communications. ln obtaining the jobs I never indicate that I work for the legislature; some colleges have since discovered my position with Boss. I average about $200 per class. Please tell me if these activities conflict with the new regulations. Thank you for your help. Sincerely.",
+    "summary": "Phillio M. Miller, district administrative assistant to Assemblyman Ross Johnson, inquires whether his outside professional activities (professional speaking, stand-up comedy, and community college teaching) violate new ethics regulations."
+  }
+}

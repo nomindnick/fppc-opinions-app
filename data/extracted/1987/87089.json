@@ -1,0 +1,73 @@
+{
+  "id": "87089",
+  "year": 1987,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1987/fppc-advice/87089.PDF",
+  "pdf_sha256": "cc971434aa49403fbaa08953974120271a574267f1cba1c3b07c7ffd0b2e205f",
+  "local_pdf_path": "raw_pdfs/1987/87089.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1987 Advice Letter # 87089",
+    "tags": [
+      "1987",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:41:29",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1987&tagCount=1&page=23"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:27.087614Z",
+    "page_count": 1,
+    "word_count": 206,
+    "char_count": 1234,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 206
+  },
+  "content": {
+    "full_text": "State of California \nMemorandum \nTo \n: Chairman Larson \nDate \nMarch 16, 1987 \nFile No. M-87-089 \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nBob Leidi~i:25 \nSubject: Reporting of Country Club Golfing Passes Under New Gift \nRegulations \nYou have inquired regarding the correct method for valuing \nand reporting gift passes received from private country clubs \nfor golfing privileges. \nAs I understand the facts, the country \nclub issues an annual pass to the public official. \nThe \nofficial may then utilize the pass for golfing at no charge. \nThe country club keeps a record of the usage and reports the \nvalue of the actual usage to the public official at the end of \nthe year. \nUnder newly adopted Regulation 18726.3, the value is the \nactual use made of the pass by the official any any guests he \nbrings in under the pass, plus any possible use by anyone to \nwhom he transfers (loans) the pass. \nAs I understand it, here there was no transfer. \nHence, the \nvalue reported by the country club should accurately reflect \nthe value of the gift received. \nIf that value is $50 or more, \nit must be reported on the official's annual statement of \neconomic interests. \nIf the value was less than $50, no \nreporting is required. \nBL:plh \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1987-03-16",
+    "date_raw": "March 16, 1987",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "You have inquired regarding the correct method for valuing and reporting gift passes received from private country clubs for golfing privileges.",
+    "conclusion": "Under newly adopted Regulation 18726.3, the value is the actual use made of the pass by the official and any guests he brings in under the pass, plus any possible use by anyone to whom he transfers (loans) the pass. If that value is $50 or more, it must be reported on the official's annual statement of economic interests. If the value was less than $50, no reporting is required.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "How should public officials value and report gift passes from private country clubs used for golfing under the new gift regulations?",
+    "conclusion_synthetic": "The value of a country club golfing pass is determined by actual usage of the pass by the official and any guests, and must be reported on the annual statement of economic interests if the value is $50 or more.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Memorandum format rather than traditional advice letter format, but contains clear question and conclusion sections. No formal section headers but content clearly distinguishes inquiry from response."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [
+      "18726.3"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:36:27.087614Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: You have inquired regarding the correct method for valuing and reporting gift passes received from private country clubs for golfing privileges.\n\nCONCLUSION: Under newly adopted Regulation 18726.3, the value is the actual use made of the pass by the official and any guests he brings in under the pass, plus any possible use by anyone to whom he transfers (loans) the pass. If that value is $50 or more, it must be reported on the official's annual statement of economic interests. If the value was less than $50, no reporting is required.",
+    "qa_source": "mixed",
+    "first_500_words": "State of California Memorandum To : Chairman Larson Date March 16, 1987 File No. M-87-089 From FAIR POLITICAL PRACTICES COMMISSION Bob Leidi~i:25 Subject: Reporting of Country Club Golfing Passes Under New Gift Regulations You have inquired regarding the correct method for valuing and reporting gift passes received from private country clubs for golfing privileges. As I understand the facts, the country club issues an annual pass to the public official. The official may then utilize the pass for golfing at no charge. The country club keeps a record of the usage and reports the value of the actual usage to the public official at the end of the year. Under newly adopted Regulation 18726.3, the value is the actual use made of the pass by the official any any guests he brings in under the pass, plus any possible use by anyone to whom he transfers (loans) the pass. As I understand it, here there was no transfer. Hence, the value reported by the country club should accurately reflect the value of the gift received. If that value is $50 or more, it must be reported on the official's annual statement of economic interests. If the value was less than $50, no reporting is required. BL:plh",
+    "summary": "FPPC advice on valuing and reporting gift country club golfing passes under new Regulation 18726.3, based on actual usage with a $50 reporting threshold."
+  }
+}

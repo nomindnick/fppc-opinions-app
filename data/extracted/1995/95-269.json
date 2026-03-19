@@ -1,0 +1,76 @@
+{
+  "id": "95-269",
+  "year": 1995,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/1995/95-269.pdf",
+  "pdf_sha256": "e0b21b523bedf2563eb0ebd561f553154c831ec13e3f3eb876c72b81164ec98e",
+  "local_pdf_path": "raw_pdfs/1995/95-269.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 1995 Advice Letter # 95-269",
+    "tags": [
+      "1995",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:38:20",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1995&tagCount=1&page=22"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:59.447274Z",
+    "page_count": 2,
+    "word_count": 418,
+    "char_count": 2527,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 418
+  },
+  "content": {
+    "full_text": "RAVI MEUTA\nCHAIRMAN\nFAIR POLITICAL PRACTICES COMMISSION\nSeptember 1,\n1995\nGary L. Wolfe\nVance, Thrift and Biller\n181 South Ash Street\nP.O.\nBox 1268\nVentura,\nCA\n93002\nRe:\nYour Request for Advice\nOur File No. A-95-269\nDear Mr. Wolfe:\nThis is in response to your letter requesting confirmation of\ntelephone advice provided to Sherry Lions on behalf of the\nCommittee to Elect Larry Carpenter Sheriff under the Political\nReform Act\n(the htAct).L\nPlease note that this letter is based on\nthe facts presented to us.\nThe Commission does not act as the\nfinder of fact in providing advice.\n(In re Oglesbv\n(1975)\n1 FPPC\nOps.\n71.)\nThis letter confirms that your letter dated August 14,\n1995,\naccurately summarizes the advice I provided to you on that date.\nYou asked whether a candidate could give up to $250 dollars each\nto two campaign workers who were also husband and wife.\nYou\nstated that the gift was intended to honor their 50th wedding\nanniversary.\nAs we discussed Section 89513(f) (1) provides:\nCampaign funds shall not be used to make\npersonal gifts unless the gift is directly related\n1\nGovernment Code Sections 81000—91015.\nAll statutory references\nare to the Government Code unless otherwise indicated.\nCommission\nregulations appear at\n2 California Code of Regulations,\nSections\n18000-18995.\nAll references to regulations are to Title 2,\nDivision\n6 of the California Code of Regulations.\n428 1 STREET, SUITE 800, SACRAMENTO, CALIFORNIA 95814\n(916) 322-5660\n\n\nOur File No.\nA—95—269\nPage\n2\nto a political, legislative,\nor governmental\npurpose.\n***\n[Gjifts with a total cwaulative value of less\nthan two hundred fifty dollars\n($250)\nin a single\nyear made to an individual employee,\na committee\nworker,\nor an employee of the elected officer’s\nagency, are considered to be directly related to a\npolitical, legislative,\nor governmental purpose.\nFor purposes of this paragraph,\na gift to a member\nof a person’s immediate family shall be deemed to\nbe a gift to that person.\nSince each of the intended recipients are campaign workers in\ntheir own right, the sheriff may give a gift of up to $250 to each\nin a calendar year..\nIf you have any further questions regarding this matter,\nplease feel free to contact me at\n(916)\n322_5660.2\nSincerely\nSteven G.\nChurchwell\nal Counsel\nJohn W. Wallace\nCounsel, Legal Division\n2\nCopies of Commission -regulations and Opinions are available in\nmany law libraries.\nAlternatively, copies of these materials and\nCommission advice letters may be obtained from the Commission at a\ncost of\n1Oc per page.\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1995-09-01",
+    "date_raw": "September 1,\n1995",
+    "requestor_name": "Wolfe",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "You asked whether a candidate could give up to $250 dollars each to two campaign workers who were also husband and wife. You stated that the gift was intended to honor their 50th wedding anniversary.",
+    "conclusion": "Since each of the intended recipients are campaign workers in their own right, the sheriff may give a gift of up to $250 to each in a calendar year.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a candidate may use campaign funds to give gifts of up to $250 each to two campaign workers (a married couple) as a gift honoring their 50th wedding anniversary.",
+    "conclusion_synthetic": "The sheriff may give gifts of up to $250 to each campaign worker in a calendar year, as gifts under $250 in total cumulative value to individual committee workers are deemed directly related to a political, legislative, or governmental purpose under Government Code Section 89513(f)(1).",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is confirmation letter of prior telephone advice. Contains clear question and conclusion sections. Document dated September 1, 1995; File No. A-95-269."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "89513(f)(1)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": [
+      "In re Oglesbv(1975)1 FPPC Ops. 71"
+    ]
+  },
+  "classification": {
+    "topic_primary": "gifts_honoraria",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:34:59.447274Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: You asked whether a candidate could give up to $250 dollars each to two campaign workers who were also husband and wife. You stated that the gift was intended to honor their 50th wedding anniversary.\n\nCONCLUSION: Since each of the intended recipients are campaign workers in their own right, the sheriff may give a gift of up to $250 to each in a calendar year.",
+    "qa_source": "mixed",
+    "first_500_words": "RAVI MEUTA CHAIRMAN FAIR POLITICAL PRACTICES COMMISSION September 1, 1995 Gary L. Wolfe Vance, Thrift and Biller 181 South Ash Street P.O. Box 1268 Ventura, CA 93002 Re: Your Request for Advice Our File No. A-95-269 Dear Mr. Wolfe: This is in response to your letter requesting confirmation of telephone advice provided to Sherry Lions on behalf of the Committee to Elect Larry Carpenter Sheriff under the Political Reform Act (the htAct).L Please note that this letter is based on the facts presented to us. The Commission does not act as the finder of fact in providing advice. (In re Oglesbv (1975) 1 FPPC Ops. 71.) This letter confirms that your letter dated August 14, 1995, accurately summarizes the advice I provided to you on that date. You asked whether a candidate could give up to $250 dollars each to two campaign workers who were also husband and wife. You stated that the gift was intended to honor their 50th wedding anniversary. As we discussed Section 89513(f) (1) provides: Campaign funds shall not be used to make personal gifts unless the gift is directly related 1 Government Code Sections 81000—91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations, Sections 18000-18995. All references to regulations are to Title 2, Division 6 of the California Code of Regulations. 428 1 STREET, SUITE 800, SACRAMENTO, CALIFORNIA 95814 (916) 322-5660 Our File No. A—95—269 Page 2 to a political, legislative, or governmental purpose. *** [Gjifts with a total cwaulative value of less than two hundred fifty dollars ($250) in a single year made to an individual employee, a committee worker, or an employee of the elected officer’s agency, are considered to be directly related to a political, legislative, or governmental purpose. For purposes of this paragraph, a gift to a member of a person’s immediate family shall be deemed to be a gift to that person. Since each of the intended recipients are campaign workers in their own right, the sheriff may give a gift of up to $250 to each in a calendar year.. If you have any further questions regarding this matter, please feel free to contact me at (916) 322_5660.2 Sincerely Steven G. Churchwell al Counsel John W. Wallace Counsel, Legal Division 2 Copies of Commission -regulations and Opinions are available in many law libraries. Alternatively, copies of these materials and Commission advice letters may be obtained from the Commission at a cost of 1Oc per page.",
+    "summary": "FPPC confirms advice that a candidate may give up to $250 gifts to each of two campaign workers (married couple) to honor their 50th wedding anniversary, as such gifts are permissible under Government Code Section 89513(f)(1) when recipients are campaign workers."
+  }
+}

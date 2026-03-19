@@ -1,0 +1,73 @@
+{
+  "id": "78ADV-78-174",
+  "year": 1978,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1978/78ADV-78-174.PDF",
+  "pdf_sha256": "a44a554b9ddf83b2bf4a79bf38c4f9142755cc34a5432ae3dc165517bd340079",
+  "local_pdf_path": "raw_pdfs/1978/78ADV-78-174.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1978ADV Advice Letter # 78ADV-78-174",
+    "tags": [
+      "Advice Letter",
+      "1978"
+    ],
+    "scraped_at": "2026-01-31 15:23:42",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=12"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:09.452440Z",
+    "page_count": 2,
+    "word_count": 337,
+    "char_count": 2097,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 337
+  },
+  "content": {
+    "full_text": "State of California \nMemorandum \nTo \nFile \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nBarbara Campbell \nSubject: \nGovernment Code Section 84204 \nDate \nNov. 2, 1978 \nKirk Pessner called on Tuesday, October 31, 1978, to ask \nif someone has an obligation to file a campaign statement as \na proponent of a statewide ballot measure. \nAn individual paid an attorney to draft an initiative \nstatute. \nThe statute was submitted to the Attorney General's \nOffice for title and summary. \nElections Code Section 3502. \nThe \nindividual paid the $200 fee required by Elections Code Section \n3503. \nThe individual has now changed his mind and does not \nwant to proceed with the initiative. \nDoes the individual have \nto file a proponent's campaign statement? \n\"Proponent\" is not defined in the Political Reform Act. \nIt is, however, defined in Elections Code Section 22710 as: \n... the person or persons who submit a draft \nof a petition proposing the measure to the \nAttorney General with a request that he \nprepare a title and summary of the chief \npurposes and points of the proposed measure. \nGovernment Code Section 84204 requires a proponent of a state-\nwide ballot measure to file a campaign statement by a certain \ndate which is defined by the time period for circulation of an \ninitiative. \nA proponent's campaign statement is due 35 days \nafter either the deadline for filing petitions or the date of \nnotification the measure either qualified or failed to qualify, \nwhichever date is earlier. \nSince the title and summary have not been completed by \nthe Attorney General, no \"official summary date\" has been \ndesignated nor has a filing deadline been established. \nElections Code Section 3513. \nNo petitions can be circulated \nuntil the official summary date. \n\n\nFile \nNov. 2, 1978 \nPage Two \nUnder those circumstances, I advised Kirk Pessner that the \nindividual did not have an obligation to file a proponent's \ncampaign statement. \nI suggested that a copy of the letter to \nthe Attorney General withdrawing the petition be sent to the \nSecretary of State. \nBC:plh \ncc: \nTed P. \nLee R. \nGina S-K. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1978-10-31",
+    "date_raw": "October 31, 1978",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Does the individual have to file a proponent's campaign statement?",
+    "conclusion": "Under those circumstances, I advised Kirk Pessner that the individual did not have an obligation to file a proponent's campaign statement. I suggested that a copy of the letter to the Attorney General withdrawing the petition be sent to the Secretary of State.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether an individual who paid to have an initiative statute drafted and submitted to the Attorney General for title and summary, but who has now changed their mind and withdrawn, has an obligation to file a proponent's campaign statement under Government Code Section 84204.",
+    "conclusion_synthetic": "The individual does not have an obligation to file a proponent's campaign statement because no official summary date has been designated and no filing deadline has been established by the Attorney General. The individual should send a copy of the withdrawal letter to the Secretary of State.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Memorandum format rather than traditional letter format. Document includes analysis of Elections Code Sections 3502, 3503, 3513, and 22710, and Government Code Section 84204. Clear question and conclusion sections present."
+  },
+  "citations": {
+    "government_code": [
+      "84204"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:37:09.452440Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Does the individual have to file a proponent's campaign statement?\n\nCONCLUSION: Under those circumstances, I advised Kirk Pessner that the individual did not have an obligation to file a proponent's campaign statement. I suggested that a copy of the letter to the Attorney General withdrawing the petition be sent to the Secretary of State.",
+    "qa_source": "mixed",
+    "first_500_words": "State of California Memorandum To File From FAIR POLITICAL PRACTICES COMMISSION Barbara Campbell Subject: Government Code Section 84204 Date Nov. 2, 1978 Kirk Pessner called on Tuesday, October 31, 1978, to ask if someone has an obligation to file a campaign statement as a proponent of a statewide ballot measure. An individual paid an attorney to draft an initiative statute. The statute was submitted to the Attorney General's Office for title and summary. Elections Code Section 3502. The individual paid the $200 fee required by Elections Code Section 3503. The individual has now changed his mind and does not want to proceed with the initiative. Does the individual have to file a proponent's campaign statement? \"Proponent\" is not defined in the Political Reform Act. It is, however, defined in Elections Code Section 22710 as: ... the person or persons who submit a draft of a petition proposing the measure to the Attorney General with a request that he prepare a title and summary of the chief purposes and points of the proposed measure. Government Code Section 84204 requires a proponent of a state- wide ballot measure to file a campaign statement by a certain date which is defined by the time period for circulation of an initiative. A proponent's campaign statement is due 35 days after either the deadline for filing petitions or the date of notification the measure either qualified or failed to qualify, whichever date is earlier. Since the title and summary have not been completed by the Attorney General, no \"official summary date\" has been designated nor has a filing deadline been established. Elections Code Section 3513. No petitions can be circulated until the official summary date. File Nov. 2, 1978 Page Two Under those circumstances, I advised Kirk Pessner that the individual did not have an obligation to file a proponent's campaign statement. I suggested that a copy of the letter to the Attorney General withdrawing the petition be sent to the Secretary of State. BC:plh cc: Ted P. Lee R. Gina S-K.",
+    "summary": "FPPC advises that an individual who withdrew an initiative petition before the Attorney General completed the title and summary is not required to file a proponent's campaign statement under Government Code Section 84204, since no official summary date or filing deadline has been established."
+  }
+}

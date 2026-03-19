@@ -1,0 +1,71 @@
+{
+  "id": "77ADV-77-002",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-002.PDF",
+  "pdf_sha256": "dc908a678fc69a23b57896b575776159ff121b495875acf48fe1b415fd6adccf",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-002.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-002",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:21:04",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=29"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-07T17:10:31.886783Z",
+    "page_count": 1,
+    "word_count": 184,
+    "char_count": 1077,
+    "quality_score": 0.8797043165467625,
+    "olmocr_cost": 0.00255678,
+    "native_word_count": 9
+  },
+  "content": {
+    "full_text": "Memorandum\n\nTo: File\n\nDate: Mar. 7, 1977\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION  \nKen Finney\n\nSubject: Returning checks to avoid reporting them as contributions.\n\nI spoke to Bob Stern today about whether we have ever had a policy with respect to a committee or candidate returning a check in order to avoid disclosing a contribution. Bob stated that we do have a policy which he thinks Nan Emmerson may have committed to a memorandum.\n\nThe policy is that if three criteria are satisfied, the check need not be reported as a contribution. The three criteria are as follows: 1) the check must not have been solicited by the committee or candidate; 2) the check must not have been cashed; and 3) the check must be returned prior to the closing date for the campaign statement covering the period during which the check was received. If all three of these criteria are satisfied, no contribution has been received and, hence, no reporting obligation results from the receipt of the check.\n\nI intend to call Steve Reinhardt to inform him of this policy.\n\nKF:jo\n\ncc: Ted Prim",
+    "full_text_markdown": "Memorandum\n\nTo: File\n\nDate: Mar. 7, 1977\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION  \nKen Finney\n\nSubject: Returning checks to avoid reporting them as contributions.\n\nI spoke to Bob Stern today about whether we have ever had a policy with respect to a committee or candidate returning a check in order to avoid disclosing a contribution. Bob stated that we do have a policy which he thinks Nan Emmerson may have committed to a memorandum.\n\nThe policy is that if three criteria are satisfied, the check need not be reported as a contribution. The three criteria are as follows: 1) the check must not have been solicited by the committee or candidate; 2) the check must not have been cashed; and 3) the check must be returned prior to the closing date for the campaign statement covering the period during which the check was received. If all three of these criteria are satisfied, no contribution has been received and, hence, no reporting obligation results from the receipt of the check.\n\nI intend to call Steve Reinhardt to inform him of this policy.\n\nKF:jo\n\ncc: Ted Prim"
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "If three criteria are satisfied, the check need not be reported as a contribution: 1) the check must not have been solicited by the committee or candidate; 2) the check must not have been cashed; and 3) the check must be returned prior to the closing date for the campaign statement covering the period during which the check was received. If all three of these criteria are satisfied, no contribution has been received and, hence, no reporting obligation results from the receipt of the check.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Under what circumstances may a committee or candidate return a check to avoid reporting it as a contribution?",
+    "conclusion_synthetic": "The FPPC has a policy that unsolicited checks that have not been cashed and are returned before the campaign statement closing date need not be reported as contributions, as no contribution is deemed to have been received.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Internal memorandum rather than formal advice letter; no question-answer format present, but contains policy statement. Confidence lowered slightly due to informal structure."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T17:10:31.886783Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Under what circumstances may a committee or candidate return a check to avoid reporting it as a contribution?\n\nCONCLUSION: If three criteria are satisfied, the check need not be reported as a contribution: 1) the check must not have been solicited by the committee or candidate; 2) the check must not have been cashed; and 3) the check must be returned prior to the closing date for the campaign statement covering the period during which the check was received. If all three of these criteria are satisfied, no contribution has been received and, hence, no reporting obligation results from the receipt of the check.",
+    "qa_source": "mixed",
+    "first_500_words": "**Memorandum** To: File Date: Mar. 7, 1977 From: FAIR POLITICAL PRACTICES COMMISSION Ken Finney Subject: Returning checks to avoid reporting them as contributions. I spoke to Bob Stern today about whether we have ever had a policy with respect to a committee or candidate returning a check in order to avoid disclosing a contribution. Bob stated that we do have a policy which he thinks Nan Emmerson may have committed to a memorandum. The policy is that if three criteria are satisfied, the check need not be reported as a contribution. The three criteria are as follows: 1) the check must not have been solicited by the committee or candidate; 2) the check must not have been cashed; and 3) the check must be returned prior to the closing date for the campaign statement covering the period during which the check was received. If all three of these criteria are satisfied, no contribution has been received and, hence, no reporting obligation results from the receipt of the check. I intend to call Steve Reinhardt to inform him of this policy. KF:jo cc: Ted Prim",
+    "summary": "An internal FPPC memorandum documenting the Commission's policy on returning checks to avoid contribution reporting obligations. The policy establishes three criteria under which returned checks need not be disclosed."
+  }
+}

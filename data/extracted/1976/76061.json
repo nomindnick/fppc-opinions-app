@@ -1,0 +1,72 @@
+{
+  "id": "76061",
+  "year": 1976,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1976/76061.PDF",
+  "pdf_sha256": "e4cdf130420887855da42a20e342d6616f939ea904ce674659e8b38ea13aa50e",
+  "local_pdf_path": "raw_pdfs/1976/76061.PDF",
+  "source_metadata": {
+    "title_raw": "CORREIA, J. Year: 1976 Advice Letter # 76061",
+    "tags": [
+      "1976",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:16:52",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1976&tagCount=1&page=31"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T03:50:21.936381Z",
+    "page_count": 2,
+    "word_count": 237,
+    "char_count": 1468,
+    "quality_score": 0.8688642958097444,
+    "olmocr_cost": 0.00499918,
+    "native_word_count": 74,
+    "haiku_cost": 0.004252
+  },
+  "content": {
+    "full_text": "J. P. CORREIA\nLARRY C. BACON\nROBERT F. KASTER II\n\nCORREIA, BACON & KASTER\nATTORNEYS AT LAW\n701 FOURTH STREET\nYREKA, CALIF. 96097\n\nJune 14, 1976\n\nAREA CODE 916\nTELEPHONE 842-4193\nPOST OFFICE BOX 510\n\nDelbert Spurlock\nFair Political Practices\nCommission\n1100 K Street\nSacramento, California 95814\n\nDear Mr. Spurlock:\n\nIn respect of the proposed action of the City of Weed\nagainst Mobil Oil Corporation, this will restate the problem\npresented.\n\nI own stock of Mobil Oil Corporation of a value of in excess\nof $1,000 and am City Attorney of the City of Weed. The\nCity of Weed proposes to sue Mobil Oil Corporation to abate\na nuisance, namely a tall oil company sign with plastic\nfaces which have become deteriorated as a result of buffeting by the high winds and cold temperatures. As a result of\nthe deterioration, large segments of plastic materials fall\nand may cause personal injury or death and may cause property damage. The question presented is whether or not the\nownership of the stock in question is sufficient to preclude\nme from proceeding with the litigation on behalf of the\nCity.\n\nIt is requested that you render an opinion on the subject.\n\nVery truly yours,\n\n[signature]\nCORREIA,\nCity Attorney\nCity of Weed\n\nJPC:cw\n\nDelbert Spurlock                    -2-                    June 14, 1976\n\n\n     PS: The stock owned by me does not exceed $13,000\nin value and the annual income therefrom does not exceed\n$1,000.\n\n                                        JPC",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1976-06-14",
+    "date_raw": "June 14, 1976",
+    "requestor_name": "Spurlock",
+    "requestor_title": "City Attorney",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "The question presented is whether or not the ownership of the stock in question is sufficient to preclude me from proceeding with the litigation on behalf of the City.",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a City Attorney's ownership of Mobil Oil Corporation stock valued between $1,000 and $13,000 creates a conflict of interest that would preclude the attorney from representing the city in litigation against Mobil Oil Corporation.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an incoming request letter to FPPC, not an FPPC response. No FPPC conclusion or advice is provided in this document. The letter is from an attorney (Correia) requesting an FPPC opinion. Document contains clear question section but no conclusion/short answer section."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T17:17:14.414091Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The question presented is whether or not the ownership of the stock in question is sufficient to preclude me from proceeding with the litigation on behalf of the City.",
+    "qa_source": "mixed",
+    "first_500_words": "This is a letter from CORREIA, BACON & KASTER, Attorneys at Law, to Delbert Spurlock of the Fair Political Practices Commission in Sacramento, California. The letter discusses the proposed action of the City of Weed against Mobil Oil Corporation and presents a legal question regarding ownership of stock. The letter states: Delbert Spurlock Fair Political Practices Commission 1100 K Street Sacramento, California 95814 Dear Mr. Spurlock: In respect of the proposed action of the City of Weed against Mobil Oil Corporation, this will restate the problem presented. I own stock of Mobil Oil Corporation of a value of in excess of $1,000 and am City Attorney of the City of Weed. The City of Weed proposes to sue Mobil Oil Corporation to abate a nuisance, namely a tall oil company sign with plastic faces which have become deteriorated as a result of buffeting by the high winds and cold temperatures. As a result of the deterioration, large segments of plastic materials fall and may cause personal injury or death and may cause property damage. The question presented is whether or not the ownership of the stock in question is sufficient to preclude me from proceeding with the litigation on behalf of the City. It is requested that you render an opinion on the subject. Very truly yours, [signature] CORREIA, City Attorney City of Weed Delbert Spurlock June 14, 1976 PS: The stock owned by me does not exceed $13,000 in value and the annual income therefrom does not exceed $1,000. JPC",
+    "summary": "City Attorney Correia requests FPPC advice on whether his personal ownership of Mobil Oil Corporation stock (valued between $1,000-$13,000 with annual income under $1,000) creates a conflict of interest that would prevent him from representing the City of Weed in litigation against Mobil Oil to abate a deteriorated company sign."
+  }
+}

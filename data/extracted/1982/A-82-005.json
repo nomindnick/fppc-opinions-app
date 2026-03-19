@@ -1,0 +1,75 @@
+{
+  "id": "A-82-005",
+  "year": 1982,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1982/82A005.PDF",
+  "pdf_sha256": "b37c29b16e273a3b6b49d2dda7074951bd03fa4e37cdd144ebd6a8a5af33af5d",
+  "local_pdf_path": "raw_pdfs/1982/82A005.PDF",
+  "source_metadata": {
+    "title_raw": "Melinda Luedtke -  A-82-005 - December 21, 1981 - Sacramento",
+    "tags": [
+      "1982",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:29:39",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1982&tagCount=1"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T16:23:36.734439Z",
+    "page_count": 1,
+    "word_count": 282,
+    "char_count": 1786,
+    "quality_score": 0.9249707142248187,
+    "olmocr_cost": 0.00264622,
+    "native_word_count": 50,
+    "haiku_cost": 0.0031320000000000002
+  },
+  "content": {
+    "full_text": "State of California Fair Political Practices Commission\n\nP.O. BOX 807 • SACRAMENTO, 95804 • • • 1100 K STREET BUILDING, SACRAMENTO, 95814\n\nTechnical Assistance • • Administration • • Executive/Legal • • Enforcement • • Statements of Economic Interest\n(916) 322-5662          322-5660          322-5901          322-6441          322-6444\n\nDecember 21, 1981\n\nMelinda Luedtke\nDirector\nDepartment of Economic\nand Business Development\n1030 13th Street\nSacramento, CA 95814\n\nDear Melinda:\n\nIn response to your questions: If an out-of-state trip\nfor the director of your office of international trade is paid\nfor by a group of businesses, he or she would have to report\nsuch a trip as a gift or income received from such businesses\non his or her annual Statement of Economic Interests. If a\nforeign government pays for such a trip that too would have to be\ndisclosed as a gift or income. See Sections 87207, 87300, and\n87313 of the Government Code, copies attached.\n\nIn addition, if the trip is worth $250 or more, then the\ndirector of the international trade office would be required to\ndisqualify himself or herself from participating in any decision\nwhich would have a material financial effect -- distinguishable\nfrom the public generally -- on the businesses or foreign government involved. For example, he or she could not participate\nin negotiations which would lead to higher quotas, less shipping\nexpenses, higher prices, etc. for the commodity produced by the\ncompanies involved in the gift. See Government Code Sections 87100\nand 87103 and 2 Cal. Adm. Code Section 18702, copies attached.\n\nI hope this information is helpful. You may also wish to\nconsult the guidelines for out-of-state travel promulgated by\nthe Department of Finance.\n\nSincerely,\n\nTom K. Houston\nChairman\n\nTKH:nrw",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1981-12-21",
+    "date_raw": "December 21, 1981",
+    "requestor_name": "Melinda Luedtke",
+    "requestor_title": null,
+    "requestor_city": "Sacramento",
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Must a state director disclose and separately report out-of-state trips paid for by business groups or foreign governments, and what are the conflict of interest implications of accepting such trips?",
+    "conclusion_synthetic": "Yes, such trips must be reported as gifts or income on the Statement of Economic Interests. If the trip is worth $250 or more, the recipient must disqualify themselves from participating in decisions with material financial effects on the donors. Specific Government Code sections (87207, 87300, 87313, 87100, 87103) and administrative code apply.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document lacks formal QUESTION and CONCLUSION section headers but contains clear Q&A structure. Letter format dated 1981 (file references 1982). No explicit section headers identified. Content structured as informal advice with legal citations."
+  },
+  "citations": {
+    "government_code": [
+      "87100",
+      "87207"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T16:25:20.081264Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Must a state director disclose and separately report out-of-state trips paid for by business groups or foreign governments, and what are the conflict of interest implications of accepting such trips?\n\nCONCLUSION: Yes, such trips must be reported as gifts or income on the Statement of Economic Interests. If the trip is worth $250 or more, the recipient must disqualify themselves from participating in decisions with material financial effects on the donors. Specific Government Code sections (87207, 87300, 87313, 87100, 87103) and administrative code apply.",
+    "qa_source": "synthetic",
+    "first_500_words": "December 21, 1981 Melinda Luedtke Director Department of Economic and Business Development 1030 13th Street Sacramento, CA 95814 Dear Melinda: In response to your questions: If an out-of-state trip for the director of your office of international trade is paid for by a group of businesses, he or she would have to report such a trip as a gift or income received from such businesses on his or her annual Statement of Economic Interests. If a foreign government pays for such a trip that too would have to be disclosed as a gift or income. See Sections 87207, 87300, and 87313 of the Government Code, copies attached. In addition, if the trip is worth $250 or more, then the director of the international trade office would be required to disqualify himself or herself from participating in any decision which would have a material financial effect -- distinguishable from the public generally -- on the businesses or foreign government involved. For example, he or she could not participate in negotiations which would lead to higher quotas, less shipping expenses, higher prices, etc. for the commodity produced by the companies involved in the gift. See Government Code Sections 87100 and 87103 and 2 Cal. Adm. Code Section 18702, copies attached. I hope this information is helpful. You may also wish to consult the guidelines for out-of-state travel promulgated by the Department of Finance. Sincerely, Tom K. Houston Chairman",
+    "summary": "FPPC advises that out-of-state trips for a state director paid for by business groups or foreign governments must be disclosed as gifts or income, and trips valued at $250+ trigger mandatory disqualification from decisions benefiting the donors."
+  }
+}

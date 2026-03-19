@@ -1,0 +1,71 @@
+{
+  "id": "87325",
+  "year": 1987,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1987/fppc-advice/87325.PDF",
+  "pdf_sha256": "7770af095cce3668e9f245055745d6ca2ecfc62bd3757db70cfe1afe17944c2a",
+  "local_pdf_path": "raw_pdfs/1987/87325.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1987 Advice Letter # 87325",
+    "tags": [
+      "1987",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:40:01",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1987&tagCount=1&page=3"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:20.345831Z",
+    "page_count": 1,
+    "word_count": 152,
+    "char_count": 911,
+    "quality_score": 0.6675,
+    "olmocr_cost": null,
+    "native_word_count": 152
+  },
+  "content": {
+    "full_text": "California \nFair Political \nPractices Commission \nDiane C. Yu \nGeneral Counsel \nThe state Bar of California \n555 Franklin street \nAugust 31, 1988 \nSan Francisco, CA \n94102-4498 \nDear Ms. Yu: \nRe: \nYour Request for Advice \nOur File No. 1-87-325 \nI am writing to confirm the substance of our telephone \nconversation' of August 15, 1988. \nAt that time, you advised me you would be sending us a \nletter withdrawing your advice request. \nI have not received a \n·copy of the letter so I am writing to confirm that you have \nwithdrawn your request. \nPlease let me know immediately if you disagree with the \ncontents of this letter. \nDMG:MA:aa \nSincerely, \nDiane M. Griffiths \nGe)leral counsel \n\"'\\ \n/ \n/ \nIi \n.J, ('(k \n. \n:1 l,.f \n..\" \n~ \n, \n\" \n1//; {I'1~ \nt:.....~// ~.ILUA~ \nBY~ \\ Margarita Altamirano \n'~j Counsel, Legal Division \n428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804*0807 • (916) 322*5660 \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1988-08-31",
+    "date_raw": "August 31, 1988",
+    "requestor_name": "Yu",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether an advice request from the State Bar of California (File No. 1-87-325) should be withdrawn.",
+    "conclusion_synthetic": "The FPPC confirms the withdrawal of the advice request, as discussed in a telephone conversation on August 15, 1988, and requests confirmation of disagreement if any exists.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is a withdrawal confirmation letter. No formal QUESTION or CONCLUSION sections present. Document dated August 31, 1988 (one year after the file number year 1987). The request itself is not included; this letter merely confirms the withdrawal discussed by phone."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:36:20.345831Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether an advice request from the State Bar of California () should be withdrawn.\n\nCONCLUSION: The FPPC confirms the withdrawal of the advice request, as discussed in a telephone conversation on August 15, 1988, and requests confirmation of disagreement if any exists.",
+    "qa_source": "synthetic",
+    "first_500_words": "California Fair Political Practices Commission Diane C. Yu General Counsel The state Bar of California 555 Franklin street August 31, 1988 San Francisco, CA 94102-4498 Dear Ms. Yu: Re: Your Request for Advice Our File No. 1-87-325 I am writing to confirm the substance of our telephone conversation' of August 15, 1988. At that time, you advised me you would be sending us a letter withdrawing your advice request. I have not received a ·copy of the letter so I am writing to confirm that you have withdrawn your request. Please let me know immediately if you disagree with the contents of this letter. DMG:MA:aa Sincerely, Diane M. Griffiths Ge)leral counsel \"'\\ / / Ii .J, ('(k . :1 l,.f ..\" ~ , \" 1//; {I'1~ t:.....~// ~.ILUA~ BY~ \\ Margarita Altamirano '~j Counsel, Legal Division 428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804*0807 • (916) 322*5660",
+    "summary": "FPPC General Counsel Diane M. Griffiths confirms via letter to the State Bar of California that an advice request (File No. 1-87-325) has been withdrawn following a telephone conversation on August 15, 1988."
+  }
+}

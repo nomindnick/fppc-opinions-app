@@ -1,0 +1,76 @@
+{
+  "id": "90-279",
+  "year": 1990,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1990/90-279.pdf",
+  "pdf_sha256": "9601c3a153e57f9b3dd0a456fd05a4d35cfdb0c512efc2bfc177eb43ffda2221",
+  "local_pdf_path": "raw_pdfs/1990/90-279.pdf",
+  "source_metadata": {
+    "title_raw": "Kivi, John Year: 1990 Advice Letter # 90-279",
+    "tags": [
+      "1990",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:14:58",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1990&tagCount=1&page=121"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:43.328055Z",
+    "page_count": 2,
+    "word_count": 338,
+    "char_count": 2235,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 338
+  },
+  "content": {
+    "full_text": "California\nFair POlitical\nPractices Cornrnission\nMay 2, 1990\nJohn P. Kivi\n4529 Cahuengo Court\nFair Oaks, CA 95628\nRe: Your Request\nAss i stance\nour FiIe No.\nfor Infornal\nr-9 0-27 9\nDear Mr. Kivi:\nYou have requested advice concerning the lobbying disclosure\nobligations of the American Federation of Musicians Local l-2 und.er\nthe PoliticaL Reform Act.l, During our teLephone conversation of\nApril 23, L99O, you stated that you are not authorized by the\nAmerican Federation of Musicians Local 12 to seek this advice. In\nthat case, v/e must decline to issue advice to you because the\nCommission is prohibited fron providing advice to a third party\nabout the duties or obligations of another person or entity.\n(Section 83114 r' Regulation f8329, copy enclosed.) However, I hope\nthe following general inforrnation will be of assistance.\nThe term trlobbyist\" is defined in Section 82039 as follows:\nrrLobbyistrr means any individual who is employed or contracts\nfor econonic consideration, other than reimbursement for\nreasonable travel expenses, to cornmunicate directly or\nthrough his or her agents with any el.ective state official,\nagency official \nor legislative official \nfor the purpose of\ninfluencing legislative or adrninistrative action, if a\nsubstantial or reqular portion of the activities \nfor which he\nor she receives consideration is for the purpose of\ninfluencinq leqislative or adninistrative action.\n1 Government code section 8100o-9101-5. AIl statutory references\nare to the Government code unless otherwise indicated. \nConrnission\nregutations appear at 2 california code of Regulations Section\n18ooo, et seq. AI1 references to regulations are to Title 2,\nDivision 5 of the California code of Regulations.\n428 J Street, Suite 8OO o P.O. Box 8O7 O Sacramento CA 95804-0807 o (916) lll-5660\n\n\nJohn Kivi\npage 2\nFurther clarification \nof this definition is provided in\nRegulation 18239 (copy enclosed). AIso enclosed is the FPPC\nInformation Manual on Lobbvincr Disclosure Provisions of the\nPolitical \nReform Act which explains the registration and reporting\nrequirements for lobbyists and lobbyist employers.\nsincerely,\nKathryn E. Donovan\nceneral counsel\nQ's%'h'2\"-\nby: CoIleen Mccee-\nPolitical Reform consultant\nEnc losures\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1990-05-02",
+    "date_raw": "May 2, 1990",
+    "requestor_name": "Kivi",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "What are the lobbying disclosure obligations of the American Federation of Musicians Local 12 under the Political Reform Act?",
+    "conclusion_synthetic": "The FPPC declines to issue formal advice because the requester is not authorized by the organization to seek advice, as the Commission cannot provide advice to third parties about the duties of another entity. General informational materials about lobbyist definitions and disclosure requirements are provided.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is a declination letter (informal advice request declined). No formal QUESTION and CONCLUSION sections present; content is embedded in letter body. Provides general informational guidance despite declining formal advice."
+  },
+  "citations": {
+    "government_code": [
+      "82039",
+      "83114"
+    ],
+    "regulations": [
+      "18239"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:35:43.328055Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: What are the lobbying disclosure obligations of the American Federation of Musicians Local 12 under the Political Reform Act?\n\nCONCLUSION: The FPPC declines to issue formal advice because the requester is not authorized by the organization to seek advice, as the Commission cannot provide advice to third parties about the duties of another entity. General informational materials about lobbyist definitions and disclosure requirements are provided.",
+    "qa_source": "synthetic",
+    "first_500_words": "California Fair POlitical Practices Cornrnission May 2, 1990 John P. Kivi 4529 Cahuengo Court Fair Oaks, CA 95628 Re: Your Request Ass i stance our FiIe No. for Infornal r-9 0-27 9 Dear Mr. Kivi: You have requested advice concerning the lobbying disclosure obligations of the American Federation of Musicians Local l-2 und.er the PoliticaL Reform Act.l, During our teLephone conversation of April 23, L99O, you stated that you are not authorized by the American Federation of Musicians Local 12 to seek this advice. In that case, v/e must decline to issue advice to you because the Commission is prohibited fron providing advice to a third party about the duties or obligations of another person or entity. (Section 83114 r' Regulation f8329, copy enclosed.) However, I hope the following general inforrnation will be of assistance. The term trlobbyist\" is defined in Section 82039 as follows: rrLobbyistrr means any individual who is employed or contracts for econonic consideration, other than reimbursement for reasonable travel expenses, to cornmunicate directly or through his or her agents with any el.ective state official, agency official or legislative official for the purpose of influencing legislative or adrninistrative action, if a substantial or reqular portion of the activities for which he or she receives consideration is for the purpose of influencinq leqislative or adninistrative action. 1 Government code section 8100o-9101-5. AIl statutory references are to the Government code unless otherwise indicated. Conrnission regutations appear at 2 california code of Regulations Section 18ooo, et seq. AI1 references to regulations are to Title 2, Division 5 of the California code of Regulations. 428 J Street, Suite 8OO o P.O. Box 8O7 O Sacramento CA 95804-0807 o (916) lll-5660 John Kivi page 2 Further clarification of this definition is provided in Regulation 18239 (copy enclosed). AIso enclosed is the FPPC Information Manual on Lobbvincr Disclosure Provisions of the Political Reform Act which explains the registration and reporting requirements for lobbyists and lobbyist employers. sincerely, Kathryn E. Donovan ceneral counsel Q's%'h'2\"- by: CoIleen Mccee- Political Reform consultant Enc losures",
+    "summary": "The FPPC declines John Kivi's request for informal advice regarding lobbying disclosure obligations of the American Federation of Musicians Local 12, explaining that it cannot advise third parties about another entity's obligations, but provides general information about lobbyist definitions and regulatory requirements."
+  }
+}

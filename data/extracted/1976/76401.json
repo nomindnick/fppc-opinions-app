@@ -1,0 +1,75 @@
+{
+  "id": "76401",
+  "year": 1976,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1976/76401.pdf",
+  "pdf_sha256": "ab71b07037435293d5b4c2a0e45355a705476876c075b230685fcb4f73e2fe4f",
+  "local_pdf_path": "raw_pdfs/1976/76401.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 1976 Advice Letter # 76401",
+    "tags": [
+      "1976",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:15:10",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1976&tagCount=1&page=8"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-27T00:26:51.743032Z",
+    "page_count": 2,
+    "word_count": 285,
+    "char_count": 2073,
+    "quality_score": 0.8880456778814125,
+    "olmocr_cost": 0.00505766,
+    "native_word_count": 243,
+    "haiku_cost": 0.0045504000000000005
+  },
+  "content": {
+    "full_text": "State of California\n\nMemorandum\n\nDate : 1/5/76\n\nTo : Telephone Memo\n\nFrom : FAIR POLITICAL PRACTICES COMMISSION\n     Natalie West\n\nSubject: JIM HEALY, LOBBYIST FOR THE SAN FRANCISCO UNIFIED\n         SCHOOL DISTRICT (12/31/75)\n\nHe is a registered lobbyist and, pursuant to Section 86107,\nfiles statements including a \"specific description of the\nlegislative or administrative action\" that he has influenced\nor attempted to influence. 86107(f). In addition, his\nemployer (the San Francisco Unified School District) files\nreports including a \"specific description of legislative or\nadministrative action which the person making the report\nhas attempted to influence.\" Section 86109(g).\n\nQuestion: How specifically does the employer report\n          describe the activities of other employees\n          of the School District, who are not lobbyists,\n          but who contact administrative officials with\n          regard to pending regulations, etc.? §86109(g).\n\nAnswer:   Apparently we have no clear guidelines on this\n          topic. I advised him that even if the employer\n          does not have to report compensation paid to the\n          employee as \"payments to influence\" because the\n          employee spends less than 10% of his/her time\n          communicating with administrative officials\n          (2 Cal.Adm. Code Section 18620(a)(4)), the\n          employer should still list the actions which\n          the employee attempted to influence, i.e.,\n          regulations pertaining to textbook acquisition,\n          etc. I told him not to report every conversa-\n          tion, and not to report communications which\n          are informational and don't constitute attempt-\n          ing to influence administrative action.\n\nOkay?\n\n\nNEW:PVP\n\nThe image appears to be mostly blank or heavily faded, with only some very faint marks or shadows visible at the top of the page. The content is not legible enough to transcribe accurately. The page appears to be either blank, severely degraded, or the scan quality is too poor to read any text that may be present.",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1976-01-05",
+    "date_raw": "1/5/76",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "How specifically does the employer report describe the activities of other employees of the School District, who are not lobbyists, but who contact administrative officials with regard to pending regulations, etc.? §86109(g).\n\nAnswer: Apparently we have no clear guidelines on this topic. I advised him that even if the employer does not have to report compensation paid to the employee as \"payments to influence\" because the employee spends less than 10% of his/her time communicating with administrative officials (2 Cal.Adm. Code Section 18620(a)(4)), the employer should still list the actions which the employee attempted to influence, i.e., regulations pertaining to textbook acquisition, etc. I told him not to report every conversation, and not to report communications which are informational and don't constitute attempting to influence administrative action.\n\nOkay?\n\nNEW: pvp\n\nThe image you provided is mostly blank, with only two small circular objects in the upper left and upper right corners. There is no visible text or additional content to transcribe or analyze further. If you have another page or another section of this document that you would like me to help with, please provide it.",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.44999999999999996,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern"
+  },
+  "citations": {
+    "government_code": [
+      "86107",
+      "86109(g)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "lobbying",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-19T21:28:38.898910Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: How specifically does the employer report describe the activities of other employees of the School District, who are not lobbyists, but who contact administrative officials with regard to pending regulations, etc.? §86109(g).\n\nAnswer: Apparently we have no clear guidelines on this topic. I advised him that even if the employer does not have to report compensation paid to the employee as \"payments to influence\" because the employee spends less than 10% of his/her time communicating with administrative officials (2 Cal.Adm. Code Section 18620(a)(4)), the employer should still list the actions which the employee attempted to influence, i.e., regulations pertaining to textbook acquisition, etc. I told him not to report every conversation, and not to report communications which are informational and don't constitute attempting to influence administrative action.\n\nOkay?\n\nNEW: pvp\n\nThe image you provided is mostly blank, with only two small circular objects in the upper left and upper right corners. There is no visible text or additional content to transcribe or analyze further. If you have another page or another section of this document that you would like me to help with, please provide it.",
+    "qa_source": "extracted",
+    "first_500_words": "**Memorandum** **State of California** **To:** Telephone Memo **Date:** 1/5/76 **From:** FAIR POLITICAL PRACTICES COMMISSION Natalie West **Subject:** JIM HEALY, LOBBYIST FOR THE SAN FRANCISCO UNIFIED SCHOOL DISTRICT (12/31/75) He is a registered lobbyist and, pursuant to Section 86107, files statements including a \"specific description of the legislative or administrative action\" that he has influenced or attempted to influence. 86107(f). In addition, his employer (the San Francisco Unified School District) files reports including a \"specific description of legislative or administrative action which the person making the report has attempted to influence.\" Section 86109(g). Question: How specifically does the employer report describe the activities of other employees of the School District, who are not lobbyists, but who contact administrative officials with regard to pending regulations, etc.? §86109(g). Answer: Apparently we have no clear guidelines on this topic. I advised him that even if the employer does not have to report compensation paid to the employee as \"payments to influence\" because the employee spends less than 10% of his/her time communicating with administrative officials (2 Cal.Adm. Code Section 18620(a)(4)), the employer should still list the actions which the employee attempted to influence, i.e., regulations pertaining to textbook acquisition, etc. I told him not to report every conversation, and not to report communications which are informational and don't constitute attempting to influence administrative action. Okay? NEW: pvp The image you provided is mostly blank, with only two small circular objects in the upper left and upper right corners. There is no visible text or additional content to transcribe or analyze further. If you have another page or another section of this document that you would like me to help with, please provide it.",
+    "summary": null
+  }
+}

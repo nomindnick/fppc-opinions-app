@@ -1,0 +1,78 @@
+{
+  "id": "84295",
+  "year": 1984,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1984/fppc-advice/84295.PDF",
+  "pdf_sha256": "181d8565c71fd6f03336e1383d1fd79ea134ae194e8435edbc4985bb4d92a37a",
+  "local_pdf_path": "raw_pdfs/1984/84295.PDF",
+  "source_metadata": {
+    "title_raw": "SMITH, HENRY Year: 1984 Advice Letter # 84295",
+    "tags": [
+      "1984",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:34:14",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1984&tagCount=1&page=11"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:46.872473Z",
+    "page_count": 2,
+    "word_count": 335,
+    "char_count": 2137,
+    "quality_score": 0.6325000000000001,
+    "olmocr_cost": null,
+    "native_word_count": 335
+  },
+  "content": {
+    "full_text": "Technical Assistance \n(916) 322·5662 \nAdministration \n322·5660 \nExecutive/Legal \n322·5901 \nEnforcement \n322-6«1 \nNovember 30, 1984 \nCouncilmember Henry B. Smith \nCity of Imperial Beach \n825 Imperial Beach Boulevard \nImperial Beach, CA \n92032 \nStatements of Economic tnterest \n322-6444 \nRe: \nAdvice Letter No. A-84-295 \nDear Mr. Smith: \nThis letter is sent to confirm our telephone conversation. \nI previously advised you in a letter to Clifton E. Reed, City \nAttorney of Imperial Beach, that you should not participate in \nthe City Council's decisions on the Seacoast District Specific \nPlan because of your ownership of a second deed of trust on real \nproperty located with the Seacoast District at 142 Daisy \nAvenue. \nAdvice Letter A-84-226. \nYou informed me in our \nconversation that you sold the second deed of trust to an \nindividual wno has no other financial interests in Imperial \nBeach, and you asked me whether you must still refrain from \nparticipating in Council decisions on the Specific Plan. \nI advised you that, since you no longer had an interest in \nreal property within the meaning of Government Code Section \n87103(b) ,1/ the only possible basis for disqualification would \nbe the fact that the present holder of the deed of trust is now \na source of income to you. \nIf the City decisions on the \nSpecific Plan could significantly and directly affect the value \nof the deed of trust, then you would have a financial interest \nunder Section 87103 requiring disqualification. \nHowever, absent \nvery unusual circumstances, it seems clear that the decisions on \nthe Specific Plan, while they may affect the value of the \nunderlying property, will not affect the value of the deed of \ntrust. \nAccordingly, you may participate in the City Council \ndecisions on the Specific Plan. \n1/ All statutory references are to the Government Code \nunless otherwise specified. \n\n\nCouncilmember Henry B. Smith \nNovember 30, 1984 \nPage 2 \nIf I can be of further assistance, please feel free to \ncontact me at (916) 322-5901. \nDMF:plh \ncc: \nClifton E. Reed \nSin~er~ ,_ \n,.-\n~LLlt~0~~ \nDiane Maull Fishburn \nStaff Counsel \nLegal Division \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1984-11-30",
+    "date_raw": "November 30, 1984",
+    "requestor_name": "Smith",
+    "requestor_title": "City \nAttorney",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Whether the Councilmember must refrain from participating in City Council decisions on the Seacoast District Specific Plan after selling a second deed of trust on real property within the District.",
+    "conclusion": "Accordingly, you may participate in the City Council decisions on the Specific Plan.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "After selling his second deed of trust on property within the Seacoast District, can Councilmember Smith participate in City Council decisions regarding the Seacoast District Specific Plan, or does the fact that the buyer is now a source of income require disqualification under Government Code Section 87103?",
+    "conclusion_synthetic": "The Councilmember may participate in the Specific Plan decisions because, although the deed of trust holder is now a source of income, the Specific Plan decisions would not significantly and directly affect the value of the deed of trust itself (only the underlying property), so no financial interest requiring disqualification exists under Section 87103.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is a follow-up confirmation letter referencing a prior advice letter (A-84-226). Contains clear question implicit in narrative and explicit conclusion. Minor OCR artifacts present in signature line."
+  },
+  "citations": {
+    "government_code": [
+      "87103",
+      "87103(b)"
+    ],
+    "regulations": [],
+    "prior_opinions": [
+      "A-84-226"
+    ],
+    "cited_by": [
+      "84226"
+    ],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:36:46.872473Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether the Councilmember must refrain from participating in City Council decisions on the Seacoast District Specific Plan after selling a second deed of trust on real property within the District.\n\nCONCLUSION: Accordingly, you may participate in the City Council decisions on the Specific Plan.",
+    "qa_source": "mixed",
+    "first_500_words": "Technical Assistance (916) 322·5662 Administration 322·5660 Executive/Legal 322·5901 Enforcement 322-6«1 November 30, 1984 Councilmember Henry B. Smith City of Imperial Beach 825 Imperial Beach Boulevard Imperial Beach, CA 92032 Statements of Economic tnterest 322-6444 Re: Advice Letter No. A-84-295 Dear Mr. Smith: This letter is sent to confirm our telephone conversation. I previously advised you in a letter to Clifton E. Reed, City Attorney of Imperial Beach, that you should not participate in the City Council's decisions on the Seacoast District Specific Plan because of your ownership of a second deed of trust on real property located with the Seacoast District at 142 Daisy Avenue. Advice Letter A-84-226. You informed me in our conversation that you sold the second deed of trust to an individual wno has no other financial interests in Imperial Beach, and you asked me whether you must still refrain from participating in Council decisions on the Specific Plan. I advised you that, since you no longer had an interest in real property within the meaning of Government Code Section 87103(b) ,1/ the only possible basis for disqualification would be the fact that the present holder of the deed of trust is now a source of income to you. If the City decisions on the Specific Plan could significantly and directly affect the value of the deed of trust, then you would have a financial interest under Section 87103 requiring disqualification. However, absent very unusual circumstances, it seems clear that the decisions on the Specific Plan, while they may affect the value of the underlying property, will not affect the value of the deed of trust. Accordingly, you may participate in the City Council decisions on the Specific Plan. 1/ All statutory references are to the Government Code unless otherwise specified. Councilmember Henry B. Smith November 30, 1984 Page 2 If I can be of further assistance, please feel free to contact me at (916) 322-5901. DMF:plh cc: Clifton E. Reed Sin~er~ ,_ ,.- ~LLlt~0~~ Diane Maull Fishburn Staff Counsel Legal Division",
+    "summary": "FPPC confirms that Councilmember Smith may participate in City Council decisions on the Seacoast District Specific Plan after selling his second deed of trust, since the Plan would not significantly affect the deed of trust's value despite being the source of his income."
+  }
+}

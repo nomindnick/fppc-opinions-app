@@ -1,0 +1,73 @@
+{
+  "id": "12-058W",
+  "year": 2012,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2012/12-058W.pdf",
+  "pdf_sha256": "5a6685d2afbc06c0a6e9d931b168f69c1c1b5a13b245a3dd00fdc67659de16a3",
+  "local_pdf_path": "raw_pdfs/2012/12-058W.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2012 Advice Letter # 12-058W",
+    "tags": [
+      "2012",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:55:19",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2012&tagCount=1&page=13"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:33:42.982883Z",
+    "page_count": 1,
+    "word_count": 207,
+    "char_count": 1270,
+    "quality_score": 0.75,
+    "olmocr_cost": null,
+    "native_word_count": 207
+  },
+  "content": {
+    "full_text": "FAIR POLITICAL PRACTICES COM MISSION \n428 J S1ree1 • Suite 620 • Sacramento, CA 95814-2329 \n(916) 322-5660 • Fax (916) 3:!2-0886 \nSteven T. Mattas \nOffice of the City Attorney \nCity Hall - 400 Grand Avenue \nSouth San Francisco, CA 94083 \nRe: \nYour Request for Advice \nOur File No. W-12-058 \nDear Mr. Mattas: \nApril 11, 2012 \nThis letter responds to your request for advice regarding the conflict-of-interest \nprovisions of the Political Reform Act (the \"Act\"). The Act requires the Commission to provide \nwritten advice to any person whose duties under the Act are in question (Gov. Code, §83114, \nsubd. (b); Cal. Code Regs., tit. 3, §18329, subd. (a)), the Commission may decline to provide \nadvice where, as here, the advice would relate to past conduct. (Id., §18329, subd. (b)(8)(A).) \nAfter a careful review of lite facts provided in your letter dated April 2, 2012, we decline \nto provide written advice to you at this time. It is plain from the letter that the events relevant to \nyour question transpired in 2006, and advice at this time would therefore relate to past conduct. \nJW:jgl \nIf you have other questions concerning this matter, please contact me at (916) 322-5660. \nBy: \nSincerely, \nZackery P. Morazzini \nGeneral Counsel \nior Counsel. Legal Division \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2012-04-11",
+    "date_raw": "April 11, 2012",
+    "requestor_name": "Mattas",
+    "requestor_title": "City Attorney",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "After a careful review of the facts provided in your letter dated April 2, 2012, we decline to provide written advice to you at this time. It is plain from the letter that the events relevant to your question transpired in 2006, and advice at this time would therefore relate to past conduct.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requestor sought advice regarding conflict-of-interest provisions of the Political Reform Act, but the specific details of the question are not provided in this declination letter.",
+    "conclusion_synthetic": "The FPPC declines to provide written advice because the request relates to past conduct from 2006, which falls outside the scope of advice the Commission may provide under Government Code Section 83114 and California Code of Regulations Title 3, Section 18329(b)(8)(A).",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Declination letter with no formal QUESTION or CONCLUSION sections. W-prefix on file number indicates withdrawal/declination. Request date April 2, 2012; response date April 11, 2012. Specific legal question not detailed in document."
+  },
+  "citations": {
+    "government_code": [
+      "83114"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "gifts_honoraria",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:33:42.982883Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The requestor sought advice regarding conflict-of-interest provisions of the Political Reform Act, but the specific details of the question are not provided in this declination letter.\n\nCONCLUSION: After a careful review of the facts provided in your letter dated April 2, 2012, we decline to provide written advice to you at this time. It is plain from the letter that the events relevant to your question transpired in 2006, and advice at this time would therefore relate to past conduct.",
+    "qa_source": "mixed",
+    "first_500_words": "FAIR POLITICAL PRACTICES COM MISSION 428 J S1ree1 • Suite 620 • Sacramento, CA 95814-2329 (916) 322-5660 • Fax (916) 3:!2-0886 Steven T. Mattas Office of the City Attorney City Hall - 400 Grand Avenue South San Francisco, CA 94083 Re: Your Request for Advice Our File No. W-12-058 Dear Mr. Mattas: April 11, 2012 This letter responds to your request for advice regarding the conflict-of-interest provisions of the Political Reform Act (the \"Act\"). The Act requires the Commission to provide written advice to any person whose duties under the Act are in question (Gov. Code, §83114, subd. (b); Cal. Code Regs., tit. 3, §18329, subd. (a)), the Commission may decline to provide advice where, as here, the advice would relate to past conduct. (Id., §18329, subd. (b)(8)(A).) After a careful review of lite facts provided in your letter dated April 2, 2012, we decline to provide written advice to you at this time. It is plain from the letter that the events relevant to your question transpired in 2006, and advice at this time would therefore relate to past conduct. JW:jgl If you have other questions concerning this matter, please contact me at (916) 322-5660. By: Sincerely, Zackery P. Morazzini General Counsel ior Counsel. Legal Division",
+    "summary": "The FPPC declines to provide written advice to the City Attorney of South San Francisco regarding conflict-of-interest provisions because the underlying events occurred in 2006 and would constitute advice on past conduct."
+  }
+}

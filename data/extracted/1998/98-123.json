@@ -1,0 +1,76 @@
+{
+  "id": "98-123",
+  "year": 1998,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/1998/98-123.pdf",
+  "pdf_sha256": "230882cacd29b6199028fd52cdcd3ff05c4e42fe648136d66b2431bf6be2dc64",
+  "local_pdf_path": "raw_pdfs/1998/98-123.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 1998 Advice Letter # 98-123",
+    "tags": [
+      "1998",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:46:21",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1998&tagCount=1&page=14"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:44.024788Z",
+    "page_count": 1,
+    "word_count": 187,
+    "char_count": 1252,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 187
+  },
+  "content": {
+    "full_text": "FAIR POLITICAL PRACTICES COiv1MISSION\nP.O. Box 807\n• 428 J Street\n• Sacramento, CA 958 12-0807\n(916) 322-5660\n• Fax (916) 322-0886\nMay 12, 1998\nVigo G. Nielsen, Jr.\nNielsen, Merksamer, Parrinello,\nMueller & Naylor, LLP\n591 Redwood Highway\nMill Valley, CA 94941\nRe:\nYour Request for Advice\nOur File No. G-98-123\nDear Mr. Nielsen:\nYou have requested advice concerning the campaign disclosure provisions of the Political\nReform Act (the “Act”).’ Specifically, you have requested clarification of the Commission’s\nadvice that candidates and committees may file “estimated” late contribution reports pursuant to\nSection 84206 covering the entire late contribution reporting period and must amend those\nreports if the actual amount of contributions differs substantially from the estimate.\nThis is to inform you that staff will present a proposed regulation addressing this issue to\nthe Commission at its August meeting.\nIf you have any questions concerning this letter, please contact me at (916) 322-5660.\nSincerely,\nSteven G. Churchwell\nGeneral Counsel\nJ& L\nBy:\nCarla Wardlow\nChief, Technical Assistance Division\nGovernment Code sections 81000-91014. Commission regulations appear at title 2, sections 18109-\n18995, of the California Code of Regulations.\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1998-05-12",
+    "date_raw": "May 12, 1998",
+    "requestor_name": "Nielsen",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether candidates and committees may file estimated late contribution reports under Section 84206 and must amend those reports if actual contributions differ substantially from estimates.",
+    "conclusion_synthetic": "The FPPC staff will present a proposed regulation addressing the issue of estimated late contribution reports to the Commission at its August meeting, but does not provide a definitive answer in this letter.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document contains no formal QUESTION or CONCLUSION/SHORT ANSWER sections. The actual legal question is embedded in the body text. This appears to be a procedural response deferring the substantive answer to a future regulatory proposal rather than providing direct advice. The document_type matches the provided input."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "84206"
+    ],
+    "regulations": [
+      "18109"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:34:44.024788Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether candidates and committees may file estimated late contribution reports under Section 84206 and must amend those reports if actual contributions differ substantially from estimates.\n\nCONCLUSION: The FPPC staff will present a proposed regulation addressing the issue of estimated late contribution reports to the Commission at its August meeting, but does not provide a definitive answer in this letter.",
+    "qa_source": "synthetic",
+    "first_500_words": "FAIR POLITICAL PRACTICES COiv1MISSION P.O. Box 807 • 428 J Street • Sacramento, CA 958 12-0807 (916) 322-5660 • Fax (916) 322-0886 May 12, 1998 Vigo G. Nielsen, Jr. Nielsen, Merksamer, Parrinello, Mueller & Naylor, LLP 591 Redwood Highway Mill Valley, CA 94941 Re: Your Request for Advice Our File No. G-98-123 Dear Mr. Nielsen: You have requested advice concerning the campaign disclosure provisions of the Political Reform Act (the “Act”).’ Specifically, you have requested clarification of the Commission’s advice that candidates and committees may file “estimated” late contribution reports pursuant to Section 84206 covering the entire late contribution reporting period and must amend those reports if the actual amount of contributions differs substantially from the estimate. This is to inform you that staff will present a proposed regulation addressing this issue to the Commission at its August meeting. If you have any questions concerning this letter, please contact me at (916) 322-5660. Sincerely, Steven G. Churchwell General Counsel J& L By: Carla Wardlow Chief, Technical Assistance Division Government Code sections 81000-91014. Commission regulations appear at title 2, sections 18109- 18995, of the California Code of Regulations.",
+    "summary": "The FPPC responds to an attorney's request for clarification regarding estimated late contribution reporting under Section 84206 of the Political Reform Act, indicating that staff will present a proposed regulation to address this issue at the August Commission meeting."
+  }
+}

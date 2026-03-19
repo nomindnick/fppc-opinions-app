@@ -1,0 +1,73 @@
+{
+  "id": "78ADV-78-245",
+  "year": 1978,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1978/78ADV-78-245.PDF",
+  "pdf_sha256": "67c043688d36e9996473977b0ce30d056de223d67fccbb0570e45a694d46e36c",
+  "local_pdf_path": "raw_pdfs/1978/78ADV-78-245.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1978ADV Advice Letter # 78ADV-78-245",
+    "tags": [
+      "Advice Letter",
+      "1978"
+    ],
+    "scraped_at": "2026-01-31 15:23:47",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=13"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:09.649842Z",
+    "page_count": 1,
+    "word_count": 69,
+    "char_count": 475,
+    "quality_score": 0.425,
+    "olmocr_cost": null,
+    "native_word_count": 69
+  },
+  "content": {
+    "full_text": "State of California \nMemorandum \nTo \nFile \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nLee Rosenthal \nSubject: \nGovernment Code Section 86202 \nDate \nNov. 14, 1978 \n/11-\nSection 86202 prohibits lobbyists from making, \narranging for or acting as agent or intermediary for \ncontributions. \nThat section prohibits a lobbyist from \ndelivering a contribution from his employer to a legislator \neven when the lobbyist plays no other role in the making \nof the contribution. \nLR:plh \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "Section 86202 prohibits lobbyists from making, arranging for or acting as agent or intermediary for contributions. That section prohibits a lobbyist from delivering a contribution from his employer to a legislator even when the lobbyist plays no other role in the making of the contribution.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a lobbyist may deliver a contribution from their employer to a legislator under California Government Code Section 86202.",
+    "conclusion_synthetic": "Government Code Section 86202 prohibits lobbyists from making, arranging for, or acting as agent or intermediary for contributions, including delivering contributions from their employer to legislators regardless of the lobbyist's other involvement.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Internal FPPC memorandum to file by Lee Rosenthal interpreting Section 86202. No formal question/conclusion sections, but substance clearly presents legal interpretation and conclusion."
+  },
+  "citations": {
+    "government_code": [
+      "86202"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "lobbying",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:37:09.649842Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether a lobbyist may deliver a contribution from their employer to a legislator under California Government Code Section 86202.\n\nCONCLUSION: Section 86202 prohibits lobbyists from making, arranging for or acting as agent or intermediary for contributions. That section prohibits a lobbyist from delivering a contribution from his employer to a legislator even when the lobbyist plays no other role in the making of the contribution.",
+    "qa_source": "mixed",
+    "first_500_words": "State of California Memorandum To File From FAIR POLITICAL PRACTICES COMMISSION Lee Rosenthal Subject: Government Code Section 86202 Date Nov. 14, 1978 /11- Section 86202 prohibits lobbyists from making, arranging for or acting as agent or intermediary for contributions. That section prohibits a lobbyist from delivering a contribution from his employer to a legislator even when the lobbyist plays no other role in the making of the contribution. LR:plh",
+    "summary": "FPPC memorandum clarifying that Section 86202 prohibits lobbyists from delivering contributions from their employer to legislators, even if the lobbyist has no other role in the contribution."
+  }
+}

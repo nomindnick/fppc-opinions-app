@@ -1,0 +1,75 @@
+{
+  "id": "79-182",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-182.PDF",
+  "pdf_sha256": "ffadcc7a11f750bb9ec721ff5eb79c08afbb5932aa50a5fae53b09d6d7eafb0b",
+  "local_pdf_path": "raw_pdfs/1979/79-182.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1979 Advice Letter # 79-182",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:25:24",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-07T16:40:39.249582Z",
+    "page_count": 2,
+    "word_count": 347,
+    "char_count": 2137,
+    "quality_score": 0.635,
+    "olmocr_cost": 0.00510668,
+    "native_word_count": 345
+  },
+  "content": {
+    "full_text": "Mother is an 87200 filer and, along with her husband, has a life estate for the shorter life in a trust, remainder to her children. What assets of the trust must the mother disclose?\n\nSection 82029 provides:\n\nImmediate Family. \"Immediate family\" means the spouse and dependent children. Whenever disclosure of investments or interests in real property is required by this title, investments and interest in real property of members of the immediate family shall also be disclosed.\n\nIn addition, Section 82034 provides that an investment of an individual includes a pro rata share of investments of any trust in which the individual or spouse owns directly, indirectly or beneficially a ten percent (10%) interest or greater. For the purpose of disclosure under the Political Reform Act, both the life estate and the remainder are viewed as one hundred percent ownership interests. In the instant case, both the mother and her spouse each own a fifty percent (50%) interest which is a one hundred percent (100%) interest pursuant to Section 82034. Accordingly, the mother must disclose all investments of the trust of one thousand dollars ($1,000.00) or more. Pursuant to Section 82029, the mother would have to reveal all of the investments of the trust by virtue of her children's one hundred percent (100%) remainder interest even if she and her husband had no interest in the life estate. However, in terms of reporting income, she must only report her fifty percent (50%) separate property share pursuant to Section 82030.\n\nInstead of remainder to the children assume that there are three remaindermen, none of whom is related to Mother. Assume further that each of the remaindermen has a one-third remainder interest in\n\nthe trust. Since the remainder interest is viewed as a one hundred percent (100%) ownership interest in the trust, each remainderman would have a 33% interest in the trust. Accordingly, a remainderman who was an official would be required to disclose all investments held by the trust of $3,000 or more.\n\nThe above calculations would remain constant regardless of whether the trust was revocable or irrevocable.",
+    "full_text_markdown": "Mother is an 87200 filer and, along with her husband, has a life estate for the shorter life in a trust, remainder to her children. What assets of the trust must the mother disclose?\n\nSection 82029 provides:\n\nImmediate Family. \"Immediate family\" means the spouse and dependent children. Whenever disclosure of investments or interests in real property is required by this title, investments and interest in real property of members of the immediate family shall also be disclosed.\n\nIn addition, Section 82034 provides that an investment of an individual includes a pro rata share of investments of any trust in which the individual or spouse owns directly, indirectly or beneficially a ten percent (10%) interest or greater. For the purpose of disclosure under the Political Reform Act, both the life estate and the remainder are viewed as one hundred percent ownership interests. In the instant case, both the mother and her spouse each own a fifty percent (50%) interest which is a one hundred percent (100%) interest pursuant to Section 82034. Accordingly, the mother must disclose all investments of the trust of one thousand dollars ($1,000.00) or more. Pursuant to Section 82029, the mother would have to reveal all of the investments of the trust by virtue of her children's one hundred percent (100%) remainder interest even if she and her husband had no interest in the life estate. However, in terms of reporting income, she must only report her fifty percent (50%) separate property share pursuant to Section 82030.\n\nInstead of remainder to the children assume that there are three remaindermen, none of whom is related to Mother. Assume further that each of the remaindermen has a one-third remainder interest in\n\nthe trust. Since the remainder interest is viewed as a one hundred percent (100%) ownership interest in the trust, each remainderman would have a 33% interest in the trust. Accordingly, a remainderman who was an official would be required to disclose all investments held by the trust of $3,000 or more.\n\nThe above calculations would remain constant regardless of whether the trust was revocable or irrevocable."
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Mother is an 87200 filer and, along with her husband, has a life estate for the shorter life in a trust, remainder to her children. What assets of the trust must the mother disclose?",
+    "conclusion": "In the instant case, both the mother and her spouse each own a fifty percent (50%) interest which is a one hundred percent (100%) interest pursuant to Section 82034. Accordingly, the mother must disclose all investments of the trust of one thousand dollars ($1,000.00) or more. Pursuant to Section 82029, the mother would have to reveal all of the investments of the trust by virtue of her children's one hundred percent (100%) remainder interest even if she and her husband had no interest in the life estate. However, in terms of reporting income, she must only report her fifty percent (50%) separate property share pursuant to Section 82030.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "An 87200 filer who holds a life estate (jointly with spouse) in a trust with remainder to her children seeks clarification on which trust assets must be disclosed under the Political Reform Act.",
+    "conclusion_synthetic": "The mother must disclose all trust investments of $1,000 or more under Section 82034 because she and her spouse collectively hold a 100% interest (50% each) through the life estate. Additionally, under Section 82029, she must disclose all trust investments by virtue of her children's remainder interest, regardless of whether the life estate existed. For income reporting purposes, she reports only her 50% separate property share.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document lacks traditional section headers (QUESTION, CONCLUSION) but clearly presents question at beginning and conclusion in middle paragraphs. Document ID 79-182 from 1979. Includes hypothetical scenario regarding unrelated remaindermen for comparative analysis. No formal closure statement present."
+  },
+  "citations": {
+    "government_code": [
+      "82029",
+      "82030",
+      "82034"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T16:40:39.249582Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Mother is an 87200 filer and, along with her husband, has a life estate for the shorter life in a trust, remainder to her children. What assets of the trust must the mother disclose?\n\nCONCLUSION: In the instant case, both the mother and her spouse each own a fifty percent (50%) interest which is a one hundred percent (100%) interest pursuant to Section 82034. Accordingly, the mother must disclose all investments of the trust of one thousand dollars ($1,000.00) or more. Pursuant to Section 82029, the mother would have to reveal all of the investments of the trust by virtue of her children's one hundred percent (100%) remainder interest even if she and her husband had no interest in the life estate. However, in terms of reporting income, she must only report her fifty percent (50%) separate property share pursuant to Section 82030.",
+    "qa_source": "mixed",
+    "first_500_words": "Mother is an 87200 filer and, along with her husband, has a life estate for the shorter life in a trust, remainder to her children. What assets of the trust must the mother disclose? Section 82029 provides: Immediate Family. \"Immediate family\" means the spouse and dependent children. Whenever disclosure of investments or interests in real property is required by this title, investments and interest in real property of members of the immediate family shall also be disclosed. In addition, Section 82034 provides that an investment of an individual includes a pro rata share of investments of any trust in which the individual or spouse owns directly, indirectly or beneficially a ten percent (10%) interest or greater. For the purpose of disclosure under the Political Reform Act, both the life estate and the remainder are viewed as one hundred percent ownership interests. In the instant case, both the mother and her spouse each own a fifty percent (50%) interest which is a one hundred percent (100%) interest pursuant to Section 82034. Accordingly, the mother must disclose all investments of the trust of one thousand dollars ($1,000.00) or more. Pursuant to Section 82029, the mother would have to reveal all of the investments of the trust by virtue of her children's one hundred percent (100%) remainder interest even if she and her husband had no interest in the life estate. However, in terms of reporting income, she must only report her fifty percent (50%) separate property share pursuant to Section 82030. Instead of remainder to the children assume that there are three remaindermen, none of whom is related to Mother. Assume further that each of the remaindermen has a one-third remainder interest in the trust. Since the remainder interest is viewed as a one hundred percent (100%) ownership interest in the trust, each remainderman would have a 33% interest in the trust. Accordingly, a remainderman who was an official would be required to disclose all investments held by the trust of $3,000 or more. The above calculations would remain constant regardless of whether the trust was revocable or irrevocable.",
+    "summary": "FPPC advice letter addressing disclosure obligations for a filer holding a life estate in a trust with remainder to children, establishing that both the life estate and remainder interests are treated as 100% ownership interests requiring full trust asset disclosure above the $1,000 threshold."
+  }
+}

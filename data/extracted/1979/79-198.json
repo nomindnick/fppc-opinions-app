@@ -1,0 +1,71 @@
+{
+  "id": "79-198",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-198.PDF",
+  "pdf_sha256": "a12a2c649b6d9acf2ff3812842a35a93296df11a4e9f118e0044c0840b01cee0",
+  "local_pdf_path": "raw_pdfs/1979/79-198.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1979 Advice Letter # 79-198",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:26:13",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=12"
+  },
+  "extraction": {
+    "method": "native+olmocr",
+    "extracted_at": "2026-02-08T17:10:54.052615Z",
+    "page_count": 1,
+    "word_count": 25,
+    "char_count": 133,
+    "quality_score": 0.33999999999999997,
+    "olmocr_cost": 0.00238822,
+    "native_word_count": 25
+  },
+  "content": {
+    "full_text": "Semi-annual Reports - Judges \nThe term judges as used in 84206 refers to all judges \nnot merely to judges of courts of reco~d. \n/ / \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "The term judges as used in 84206 refers to all judges not merely to judges of courts of record.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether the term 'judges' in California Government Code Section 84206 applies to all judges or only judges of courts of record.",
+    "conclusion_synthetic": "The FPPC advises that Section 84206's reference to 'judges' applies broadly to all judges, not limited to judges of courts of record.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.75,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document appears to be a brief advisory opinion with minimal structure. No formal QUESTION or CONCLUSION sections identified; interpretation based on document content. Missing typical advice letter components like detailed analysis or citations. High confidence in the substantive conclusion but lower confidence in document structure extraction due to minimal formatting."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-08T17:10:54.052615Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether the term 'judges' in California Government Code Section 84206 applies to all judges or only judges of courts of record.\n\nCONCLUSION: The term judges as used in 84206 refers to all judges not merely to judges of courts of record.",
+    "qa_source": "mixed",
+    "first_500_words": "Semi-annual Reports - Judges The term judges as used in 84206 refers to all judges not merely to judges of courts of reco~d. / /",
+    "summary": "FPPC advice letter 79-198 clarifies that the term 'judges' in Section 84206 regarding semi-annual reports applies to all judges, not only those serving on courts of record."
+  }
+}

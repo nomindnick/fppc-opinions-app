@@ -1,0 +1,74 @@
+{
+  "id": "94-292",
+  "year": 1994,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1994/94-292.pdf",
+  "pdf_sha256": "55334f60b12f689ca84f425ee324bfe7c4a2c10bccc29dfbf306a1ac563b1f0e",
+  "local_pdf_path": "raw_pdfs/1994/94-292.pdf",
+  "source_metadata": {
+    "title_raw": "Weggeland, Ted Year: 1994 Advice Letter # 94-292",
+    "tags": [
+      "1994",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:35:45",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1994&tagCount=1&page=23"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:03.499267Z",
+    "page_count": 2,
+    "word_count": 304,
+    "char_count": 2023,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 304
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\nSeptember 28,\n1994\nBarbara Dunham\nV\nChief of Staff\nV\nOffice of Assemblyman Ted Weggeland\nState Capitol\nP.O.\nBox 942849\nSacramento,\nCA 94249-0001\nV\nV\nRe:\nYour Request For Advice\nOur File. No.\nA—94-292\nDear Ms.\nDunham:\nThis letter confirms the telephone advice you received from\nthis office regarding Assemblyman Weggeland’s travel arrangements\nin Japan.\nYou related that Assemblyman Weggeland is presently in Japan\nattending a conference sponsored by agencies of the government of\nJapan.\nThe Assemblyman’s travel and accommodations for this\nconference are paid by those government agencies.\nThe Assemblyman\nhas been asked to attend further conferences with local officials\nin the Osaka prefecture.\nYou inquired whether or notthe\nAssemblyman’s acceptance of this further offer of travel and\naccommodation would be prohibited under the Political Reform Act\n(the “Act”).\n1\nThe Assemblyman’s acceptance of travel and accommodations\nfrom agencies of the government of Japan for the purpose of\ncontinuing his trip to Osaka would not violate .the provisions of\nthe Act.\nSection 89506 exempts this type of travel from the $270\nannual gift limit from any single source.\nNevertheless,\nthe gift\nis still reportable by Assemblyman Wegge1ard on his• annual\nstatement of\neconomic\ninterests.\nWe enclose a copy of the\napplicable regulatory\nprovisions.\n1\nGovernment Code Sections 81000—91015.\nAll statutory references\nare to the Government Code unless otherwise indicated.\nCommission\nregulations appear at\n2 California Code of Regulations, Sections\n18000—18954.\nAll references to regulations are to Title 2,\nDivision\n6 of the California Code of Regulations.\n428 J Street, Suite 800 •\nP.O. Box 807 •\nSacramento, CA\n95804-0807 •\n(916) 322-5660\n\n\nFile No.\nA—94—292\nPage\n2\nIf you have any further questions regarding application of\nthe Act’s provisions to Assemblyman Weggeland, this office remains\navailable to assist you.\nEnclosures\nSincerely,\nSteven G.\nChurchwell\nGeneral\nCounsel, Lgal Division\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1994-09-28",
+    "date_raw": "September 28,\n1994",
+    "requestor_name": "Dunham",
+    "requestor_title": "General\nCounsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Whether or not the Assemblyman's acceptance of travel and accommodation from agencies of the government of Japan for further conferences in Osaka prefecture would be prohibited under the Political Reform Act.",
+    "conclusion": "The Assemblyman's acceptance of travel and accommodations from agencies of the government of Japan for the purpose of continuing his trip to Osaka would not violate the provisions of the Act. Section 89506 exempts this type of travel from the $270 annual gift limit from any single source. Nevertheless, the gift is still reportable by Assemblyman Weggeland on his annual statement of economic interests.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Does acceptance of travel and accommodations from Japanese government agencies for conference attendance violate the Political Reform Act's gift provisions?",
+    "conclusion_synthetic": "The travel and accommodations from Japanese government agencies do not violate the Political Reform Act because Section 89506 exempts them from the $270 annual gift limit, though the gift must still be reported on the Assemblyman's annual statement of economic interests.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Standard FPPC advice letter format with clear question and conclusion sections. Document confirms prior telephone advice. All key statutory references included. Minor formatting irregularities in source document (spacing, line breaks) but content clarity is high."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "89506"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "gifts_honoraria",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:35:03.499267Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether or not the Assemblyman's acceptance of travel and accommodation from agencies of the government of Japan for further conferences in Osaka prefecture would be prohibited under the Political Reform Act.\n\nCONCLUSION: The Assemblyman's acceptance of travel and accommodations from agencies of the government of Japan for the purpose of continuing his trip to Osaka would not violate the provisions of the Act. Section 89506 exempts this type of travel from the $270 annual gift limit from any single source. Nevertheless, the gift is still reportable by Assemblyman Weggeland on his annual statement of economic interests.",
+    "qa_source": "mixed",
+    "first_500_words": "California Fair Political Practices Commission September 28, 1994 Barbara Dunham V Chief of Staff V Office of Assemblyman Ted Weggeland State Capitol P.O. Box 942849 Sacramento, CA 94249-0001 V V Re: Your Request For Advice Our File. No. A—94-292 Dear Ms. Dunham: This letter confirms the telephone advice you received from this office regarding Assemblyman Weggeland’s travel arrangements in Japan. You related that Assemblyman Weggeland is presently in Japan attending a conference sponsored by agencies of the government of Japan. The Assemblyman’s travel and accommodations for this conference are paid by those government agencies. The Assemblyman has been asked to attend further conferences with local officials in the Osaka prefecture. You inquired whether or notthe Assemblyman’s acceptance of this further offer of travel and accommodation would be prohibited under the Political Reform Act (the “Act”). 1 The Assemblyman’s acceptance of travel and accommodations from agencies of the government of Japan for the purpose of continuing his trip to Osaka would not violate .the provisions of the Act. Section 89506 exempts this type of travel from the $270 annual gift limit from any single source. Nevertheless, the gift is still reportable by Assemblyman Wegge1ard on his• annual statement of economic interests. We enclose a copy of the applicable regulatory provisions. 1 Government Code Sections 81000—91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations, Sections 18000—18954. All references to regulations are to Title 2, Division 6 of the California Code of Regulations. 428 J Street, Suite 800 • P.O. Box 807 • Sacramento, CA 95804-0807 • (916) 322-5660 File No. A—94—292 Page 2 If you have any further questions regarding application of the Act’s provisions to Assemblyman Weggeland, this office remains available to assist you. Enclosures Sincerely, Steven G. Churchwell General Counsel, Lgal Division",
+    "summary": "FPPC confirms telephone advice that Assemblyman Weggeland's acceptance of travel and accommodations from Japanese government agencies to attend conferences in Osaka does not violate the Political Reform Act under Section 89506, though such gifts remain reportable on his annual economic interest statement."
+  }
+}

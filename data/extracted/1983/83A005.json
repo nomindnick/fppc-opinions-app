@@ -1,0 +1,73 @@
+{
+  "id": "83A005",
+  "year": 1983,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1983/83A005.PDF",
+  "pdf_sha256": "38bc20dc279e18b76edca877c00674e7408e4275671708cd080ec3646efa6b58",
+  "local_pdf_path": "raw_pdfs/1983/83A005.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1983 Advice Letter # 83A005",
+    "tags": [
+      "1983",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:33:00",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1983&tagCount=1&page=21"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:53.460309Z",
+    "page_count": 1,
+    "word_count": 128,
+    "char_count": 839,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 128
+  },
+  "content": {
+    "full_text": "State of Califomia \nMemorandum \nTO: \nFROM: \nRE: \nDATE: \nNO. : \nFile \nJanuary 13, 1983 \nM-83-00S \nFair Political Practices Commission \nJanis Shank McLean \n84308 - 18438.1 \nI received a telephone call from Natalie West, Berkeley City \nAttorney. \nQuestion: \nWhen a city council serves as the Housing \nAuthority or Redevelopment Agency (separate legal entities) are \nthey exempt from Section 84308? \nAnswer: \nYes. \n2 Cal. Adm. Code Section 18438.1 exempts a \ncity council when it acts in its entirety, as another governing \nbody, or when a subgroup serves as another governing body. \nThis is true regardless of \nlegislative or quasi-judicial. \nas the redevelopment agency or \nretains its exemption, so long \nadded. \nJSM:plh \nwhether its function is \nThus, when the city council \nthe planning commission it \nas no additional members are \nsits \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1983-01-13",
+    "date_raw": "January 13, 1983",
+    "requestor_name": null,
+    "requestor_title": "City \nAttorney",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "When a city council serves as the Housing \nAuthority or Redevelopment Agency (separate legal entities) are \nthey exempt from Section 84308? \nAnswer: \nYes. \n2 Cal. Adm. Code Section 18438.1 exempts a \ncity council when it acts in its entirety, as another governing \nbody, or when a subgroup serves as another governing body. \nThis is true regardless of \nlegislative or quasi-judicial. \nas the redevelopment agency or \nretains its exemption, so long \nadded. \nJSM:plh \nwhether its function is \nThus, when the city council \nthe planning commission it \nas no additional members are \nsits",
+    "conclusion": "Yes. 2 Cal. Adm. Code Section 18438.1 exempts a city council when it acts in its entirety, as another governing body, or when a subgroup serves as another governing body. This is true regardless of whether its function is legislative or quasi-judicial. Thus, when the city council sits as the redevelopment agency or the planning commission it retains its exemption, so long as no additional members are added.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The question asks whether city council members are exempt from FPPC conflict of interest requirements under Section 84308 when the city council serves as a separate governing body such as a Housing Authority or Redevelopment Agency.",
+    "conclusion_synthetic": "Yes, city councils are exempt from Section 84308 when serving as separate governing bodies like Housing Authorities or Redevelopment Agencies under California Administrative Code Section 18438.1, provided no additional members are added to the body.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern; LLM: Standard advice letter format with clear Question and Answer sections. Document ID M-83-005 from January 13, 1983. Straightforward extraction with high confidence."
+  },
+  "citations": {
+    "government_code": [
+      "84308"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:36:53.460309Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: When a city council serves as the Housing \nAuthority or Redevelopment Agency (separate legal entities) are \nthey exempt from Section 84308? \nAnswer: \nYes. \n2 Cal. Adm. Code Section 18438.1 exempts a \ncity council when it acts in its entirety, as another governing \nbody, or when a subgroup serves as another governing body. \nThis is true regardless of \nlegislative or quasi-judicial. \nas the redevelopment agency or \nretains its exemption, so long \nadded. \nJSM:plh \nwhether its function is \nThus, when the city council \nthe planning commission it \nas no additional members are \nsits\n\nCONCLUSION: Yes. 2 Cal. Adm. Code Section 18438.1 exempts a city council when it acts in its entirety, as another governing body, or when a subgroup serves as another governing body. This is true regardless of whether its function is legislative or quasi-judicial. Thus, when the city council sits as the redevelopment agency or the planning commission it retains its exemption, so long as no additional members are added.",
+    "qa_source": "mixed",
+    "first_500_words": "State of Califomia Memorandum TO: FROM: RE: DATE: NO. : File January 13, 1983 M-83-00S Fair Political Practices Commission Janis Shank McLean 84308 - 18438.1 I received a telephone call from Natalie West, Berkeley City Attorney. Question: When a city council serves as the Housing Authority or Redevelopment Agency (separate legal entities) are they exempt from Section 84308? Answer: Yes. 2 Cal. Adm. Code Section 18438.1 exempts a city council when it acts in its entirety, as another governing body, or when a subgroup serves as another governing body. This is true regardless of legislative or quasi-judicial. as the redevelopment agency or retains its exemption, so long added. JSM:plh whether its function is Thus, when the city council the planning commission it as no additional members are sits",
+    "summary": "FPPC advice letter responding to Berkeley City Attorney's inquiry about whether city council members are exempt from conflict of interest requirements when the council serves as a separate governing body such as a Housing Authority or Redevelopment Agency."
+  }
+}

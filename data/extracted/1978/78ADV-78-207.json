@@ -1,0 +1,72 @@
+{
+  "id": "78ADV-78-207",
+  "year": 1978,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1978/78ADV-78-207.PDF",
+  "pdf_sha256": "a7de0866e52af3e72f22271b1d55e4629691036e05586a722b994de55bb37a7b",
+  "local_pdf_path": "raw_pdfs/1978/78ADV-78-207.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1978ADV Advice Letter # 78ADV-78-207",
+    "tags": [
+      "Advice Letter",
+      "1978"
+    ],
+    "scraped_at": "2026-01-31 15:24:04",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=17"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T00:48:53.116114Z",
+    "page_count": 2,
+    "word_count": 160,
+    "char_count": 1083,
+    "quality_score": 0.8811751890858815,
+    "olmocr_cost": 0.0049269399999999994,
+    "native_word_count": 49,
+    "haiku_cost": 0.00376
+  },
+  "content": {
+    "full_text": "State of California\n\nMemorandum\n\nTo : Raymond Eller, Los Angeles - Letter\nof 9/12/78\n\nDate : 10/78\n\nFrom : FAIR POLITICAL PRACTICES COMMISSION\nJay Greenwood\n\nSubject:\n\nAnswered by phone on 9/29/78 - question was moot\nand I provided them with the content of Lee's\nAug. 3, 1978, memo re \"late contributions.\"\n\n78227\n\nFPPC\nSEP 15 11 32 AM '78\n\nSept. 12, 1978\n\n\nFair Political Practices Commission\nTechnical Assistance and Analysis Division\n1100 Kay Street\nSacramento, Ca. 95814\n\nGentlemen or MS's:\n\nIf a political committee received contributions which are\nnot used and ultimately returned to the donors, please\nadvise your recommended handling on reports under following circumstances:\n\nA. Checks returned immediately\n\nB. Checks returned after ten days, or more.\n\nC. Checks banked routinely, and committee checks\n   issued to donors within a few days\n                          ten days\n                          thirty days\n\nThose points do not appear to be covered in your recordkeeping Guidelines.\n\n\nRaymond Miller\n[signature: Raymond Miller]\n\n\n344 So. Serrano Ave.\nLos Angeles 90036",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1978-09-12",
+    "date_raw": "9/12/78",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "If a political committee received contributions which are not used and ultimately returned to the donors, please advise your recommended handling on reports under following circumstances:\n\nA. Checks returned immediately\n\nB. Checks returned after ten Days, or more.\n\nC. Checks banked routinely, and committee checks issued to donors within a few days\n    ten days\n    thirty days\n\nThese points do not appear to be covered in your record-keeping guidelines.",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "What is the proper reporting treatment for political committee contributions that are received but not used and subsequently returned to donors under various timing scenarios (immediate return, delayed return, or banking then issuing refund checks)?",
+    "conclusion_synthetic": "The FPPC answered by phone on 9/29/78, determining the question was moot and provided reference to Lee's August 3, 1978 memo regarding late contributions as guidance for handling.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.65,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is a hybrid document containing both the incoming request letter and a memo indicating FPPC's telephonic response. No formal written conclusion section exists; the response was delivered by phone on 9/29/78. The document lacks traditional Q&A section headers but includes the question text in letter form. Confidence reduced due to lack of explicit formal conclusion/advice in writing."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-08T17:10:53.135981Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: If a political committee received contributions which are not used and ultimately returned to the donors, please advise your recommended handling on reports under following circumstances:\n\nA. Checks returned immediately\n\nB. Checks returned after ten Days, or more.\n\nC. Checks banked routinely, and committee checks issued to donors within a few days\n    ten days\n    thirty days\n\nThese points do not appear to be covered in your record-keeping guidelines.\n\nCONCLUSION: The FPPC answered by phone on 9/29/78, determining the question was moot and provided reference to Lee's August 3, 1978 memo regarding late contributions as guidance for handling.",
+    "qa_source": "mixed",
+    "first_500_words": "State of California Memorandum To: Raymond Eller, Los Angeles - Letter of 9/12/78 Date: 10/78 From: FAIR POLITICAL PRACTICES COMMISSION Jay Greenwood Subject: Answered by phone on 9/29/78 - question was moot and I provided them with the content of Lee's Aug. 3, 1978, memo re \"late contributions.\" Sept. 12, 1978 Fair Political Practices Commission Technical Assistance and Analysis Division 1100 Kay Street Sacramento, Ca. 95814 Gentlemen or MS's: If a political committee received contributions which are not used and ultimately returned to the donors, please advise your recommended handling on reports under following circumstances: A. Checks returned immediately B. Checks returned after ten Days, or more. C. Checks banked routinely, and committee checks issued to donors within a few days ten days thirty days These points do not appear to be covered in your record-keeping guidelines. Raymond Eller 344 So. Serrano Ave. Los Angeles 90030",
+    "summary": "Requestor Raymond Eller inquired about the proper reporting treatment for returned political contributions under various circumstances. The FPPC responded telephonically, determining the question was moot and referred the requestor to existing guidance on late contributions."
+  }
+}

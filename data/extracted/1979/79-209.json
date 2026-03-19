@@ -1,0 +1,71 @@
+{
+  "id": "79-209",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-209.PDF",
+  "pdf_sha256": "465e1c65d2ec6b50424f1b218603712fdf10170a9f306922e1cfa1088d2df7a4",
+  "local_pdf_path": "raw_pdfs/1979/79-209.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1979 Advice Letter # 79-209",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:25:38",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=4"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T15:07:19.571517Z",
+    "page_count": 1,
+    "word_count": 51,
+    "char_count": 293,
+    "quality_score": 0.7459,
+    "olmocr_cost": 0.00240456,
+    "native_word_count": 55
+  },
+  "content": {
+    "full_text": "Lobbyist loans dinner money to official.\n\nLobbyist and official dine together. When the check comes the lobbyist pays for it with a credit card. The lobbyist has not made a gift to the official if the official pays him within the week or the current lobbyist filing period, whichever is later.",
+    "full_text_markdown": "Lobbyist loans dinner money to official.\n\nLobbyist and official dine together. When the check comes the lobbyist pays for it with a credit card. The lobbyist has not made a gift to the official if the official pays him within the week or the current lobbyist filing period, whichever is later."
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-20T15:07:19.571517Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "Lobbyist loans dinner money to official. Lobbyist and official dine together. When the check comes the lobbyist pays for it with a credit card. The lobbyist has not made a gift to the official if the official pays him within the week or the current lobbyist filing period, whichever is later.",
+    "qa_source": "extracted",
+    "first_500_words": "Lobbyist loans dinner money to official. Lobbyist and official dine together. When the check comes the lobbyist pays for it with a credit card. The lobbyist has not made a gift to the official if the official pays him within the week or the current lobbyist filing period, whichever is later.",
+    "summary": null
+  }
+}

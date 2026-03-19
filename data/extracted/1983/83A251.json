@@ -1,0 +1,73 @@
+{
+  "id": "83A251",
+  "year": 1983,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1983/83A251.PDF",
+  "pdf_sha256": "b26719e66cd20a226c73d59dbc5e94afd49978e0f53b516e7e3be88ec7b9712d",
+  "local_pdf_path": "raw_pdfs/1983/83A251.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1983 Advice Letter # 83A251",
+    "tags": [
+      "1983",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:31:32",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1983&tagCount=1"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:50.368508Z",
+    "page_count": 2,
+    "word_count": 146,
+    "char_count": 889,
+    "quality_score": 0.5075,
+    "olmocr_cost": null,
+    "native_word_count": 146
+  },
+  "content": {
+    "full_text": "State of California \nMemorandum \nTo \nFile \nDate \nNovember 7, 1983 \nFrom \n: \nFAIR POLITICAL PRACTICES COMMISSION \nJanis Shank McLean \nSubject: \nReport ing the Repayment of Tr avel Expenses \nSenator Ed Davis went to Canada to speak at a church and \nview a Canadaire product. \nHis campaign fund initially paid for \nthe trip. \nLater, the church reimbursed part of the trip and \nCanadaire paid for the rest. \nHow should this be reported? \n1. \nThe campaign committee reports the payments as \nreimbursements for expenses on its campaign statement; \n2. \nOn Senator Davis' SEl, he'll report a gift from \nCanadaire with the committee as an intermediary on \nSchedule Gj and \n3. \nHe will not report the money received from the church \nbecause it is reimbursement for travel expenses and per \ndiem received from a bona fide charitable \no rganiza tion. \n(Gov. Code Section 82039 (b) (2) • ) \nJSM:plh \n\n\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1983-11-07",
+    "date_raw": "November 7, 1983",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "His campaign fund initially paid for the trip. Later, the church reimbursed part of the trip and Canadaire paid for the rest. How should this be reported?",
+    "conclusion": "1. The campaign committee reports the payments as reimbursements for expenses on its campaign statement; 2. On Senator Davis' SEI, he'll report a gift from Canadaire with the committee as an intermediary on Schedule Gj and 3. He will not report the money received from the church because it is reimbursement for travel expenses and per diem received from a bona fide charitable organization. (Gov. Code Section 82039 (b) (2).)",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "How should Senator Davis report reimbursements for a trip to Canada where his campaign fund initially paid, but the church and Canadaire subsequently reimbursed portions of the expenses?",
+    "conclusion_synthetic": "The campaign committee should report the reimbursements as expenses on its campaign statement; Senator Davis must report the Canadaire payment as a gift on his SEI with the committee as intermediary; and he need not report the church reimbursement as it qualifies as exempt charitable organization reimbursement under Government Code Section 82039(b)(2).",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document lacks formal 'QUESTION' and 'CONCLUSION' section headers but contains clear question and three-part answer. Appears to be internal FPPC memorandum with practical advice on campaign finance reporting requirements."
+  },
+  "citations": {
+    "government_code": [
+      "82039(b)(2)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:36:50.368508Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: His campaign fund initially paid for the trip. Later, the church reimbursed part of the trip and Canadaire paid for the rest. How should this be reported?\n\nCONCLUSION: 1. The campaign committee reports the payments as reimbursements for expenses on its campaign statement; 2. On Senator Davis' SEI, he'll report a gift from Canadaire with the committee as an intermediary on Schedule Gj and 3. He will not report the money received from the church because it is reimbursement for travel expenses and per diem received from a bona fide charitable organization. (Gov. Code Section 82039 (b) (2).)",
+    "qa_source": "mixed",
+    "first_500_words": "State of California Memorandum To File Date November 7, 1983 From : FAIR POLITICAL PRACTICES COMMISSION Janis Shank McLean Subject: Report ing the Repayment of Tr avel Expenses Senator Ed Davis went to Canada to speak at a church and view a Canadaire product. His campaign fund initially paid for the trip. Later, the church reimbursed part of the trip and Canadaire paid for the rest. How should this be reported? 1. The campaign committee reports the payments as reimbursements for expenses on its campaign statement; 2. On Senator Davis' SEl, he'll report a gift from Canadaire with the committee as an intermediary on Schedule Gj and 3. He will not report the money received from the church because it is reimbursement for travel expenses and per diem received from a bona fide charitable o rganiza tion. (Gov. Code Section 82039 (b) (2) • ) JSM:plh",
+    "summary": "FPPC memorandum advising on the proper reporting of travel expense reimbursements for Senator Ed Davis when multiple parties (church and Canadaire) repaid portions of a trip initially funded by his campaign committee."
+  }
+}

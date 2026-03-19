@@ -1,0 +1,79 @@
+{
+  "id": "97-426(a)",
+  "year": 1997,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/1997/97-426(a).pdf",
+  "pdf_sha256": "ad846d70f0220fa226ab14ecb144b98a62b87dda0e257c5858ebf8522c1efede",
+  "local_pdf_path": "raw_pdfs/1997/97-426(a).pdf",
+  "source_metadata": {
+    "title_raw": "Year: 1997 Advice Letter # 97-426(a)",
+    "tags": [
+      "1997",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:44:34",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1997&tagCount=1&page=41"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:50.996860Z",
+    "page_count": 2,
+    "word_count": 371,
+    "char_count": 2324,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 371
+  },
+  "content": {
+    "full_text": "SUPERSEDED BY 1998\nAMENDMENTS TO\nREGULATION 18530\nFAIR POLITICAL PRACTICES COMMISSION\nDecember 1, 1997\nEmma Solden\nCity Clerk, City of Santa Cruz\n809 Center Street, Room 9\nSanta Cruz, California 95060\nRe: Your Request for Advice\nOur File No. A-97-426a\nDear Ms. Solden:\nThis letter is in response to your request for advice regarding the provisions ofthe\nPolitical Reform Act (the “Act”).\n1 You are the city clerk for the City of Santa Cruz and you are\nrequesting advice on behalf ofthe Santa Cruz City Council.\nOn August 7, 1997, you requested an advice letter from the Commission regarding the\nuse ofpublic funds for a candidate brochure. (Solden Advice Letter, No. A-97-426.) Presently,\nyou are requesting the Commission to render another advice letter on the same issue after we\nreview additional material. You have enclosed two letters from your city attorney that set forth\nhis opinion regarding the use ofpublic funds for a candidate brochure.\nUpon reviewing the additional material, we affirm our advice provided in our previous\nletter to you as it pertains to the Political Reform Act. In that letter, we advised the City of Santa\nCruz that it could prepare and distribute a candidate brochure that follows the guidelines of\nElection Code section 13307 without violating sections 85300 and 89001. In addition, we\nadvised the city that it could not place restrictions on a candidate’s inclusion in the brochure that\nwould have the effect of favoring incumbents, such as requiring a candidate to raise a specific\ndollar amount and/or requiring a candidate to collect a specific number of qualified signatures\nbefore including the candidate in the brochure. Finally, we advised the city that it could require\ncandidates to accept voluntary spending limits before including them in the brochure as long as\nthe brochure explicitly stated that only those candidates who accepted the voluntary spending\nlimit were included in the brochure.\nGovernment Code sections 81000 - 91014. Commission regulations appear at title 2, sections 18109 -\n18995, of the California Code of Regulations.\n\n\nFile No. A-97-426\nPage 2\nIf you have any other questions regarding this matter, please contact me at (916) 322-\n5660.\nSincerely,\nSteven G. Churchwell\nGeneral Counsel\nBy:\nJulia Butcher\nGraduate Legal Assistant, Legal Division\nSGC:JB:jlw\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1997-12-01",
+    "date_raw": "December 1, 1997",
+    "requestor_name": "Solden",
+    "requestor_title": "city attorney",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "May a city use public funds to prepare and distribute a candidate brochure under the Political Reform Act, and what restrictions may it place on candidate inclusion?",
+    "conclusion_synthetic": "The FPPC affirmed its previous advice that a city may prepare and distribute a candidate brochure following Election Code section 13307 guidelines without violating the Political Reform Act, may not impose restrictions favoring incumbents (such as fundraising minimums or signature requirements), but may require candidates to accept voluntary spending limits if the brochure discloses this condition.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is a follow-up/supplemental advice letter (marked as superseded by 1998 amendments). No separate QUESTION or CONCLUSION sections with headers; instead advice is provided in narrative paragraphs. Previous advice letter reference (A-97-426) mentioned but full text not provided. Graduate Legal Assistant signed the letter."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "85300"
+    ],
+    "regulations": [
+      "18109",
+      "18530"
+    ],
+    "prior_opinions": [
+      "A-97-426"
+    ],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:34:50.996860Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: May a city use public funds to prepare and distribute a candidate brochure under the Political Reform Act, and what restrictions may it place on candidate inclusion?\n\nCONCLUSION: The FPPC affirmed its previous advice that a city may prepare and distribute a candidate brochure following Election Code section 13307 guidelines without violating the Political Reform Act, may not impose restrictions favoring incumbents (such as fundraising minimums or signature requirements), but may require candidates to accept voluntary spending limits if the brochure discloses this condition.",
+    "qa_source": "synthetic",
+    "first_500_words": "SUPERSEDED BY 1998 AMENDMENTS TO REGULATION 18530 FAIR POLITICAL PRACTICES COMMISSION December 1, 1997 Emma Solden City Clerk, City of Santa Cruz 809 Center Street, Room 9 Santa Cruz, California 95060 Re: Your Request for Advice Our File No. A-97-426a Dear Ms. Solden: This letter is in response to your request for advice regarding the provisions ofthe Political Reform Act (the “Act”). 1 You are the city clerk for the City of Santa Cruz and you are requesting advice on behalf ofthe Santa Cruz City Council. On August 7, 1997, you requested an advice letter from the Commission regarding the use ofpublic funds for a candidate brochure. (Solden Advice Letter, No. A-97-426.) Presently, you are requesting the Commission to render another advice letter on the same issue after we review additional material. You have enclosed two letters from your city attorney that set forth his opinion regarding the use ofpublic funds for a candidate brochure. Upon reviewing the additional material, we affirm our advice provided in our previous letter to you as it pertains to the Political Reform Act. In that letter, we advised the City of Santa Cruz that it could prepare and distribute a candidate brochure that follows the guidelines of Election Code section 13307 without violating sections 85300 and 89001. In addition, we advised the city that it could not place restrictions on a candidate’s inclusion in the brochure that would have the effect of favoring incumbents, such as requiring a candidate to raise a specific dollar amount and/or requiring a candidate to collect a specific number of qualified signatures before including the candidate in the brochure. Finally, we advised the city that it could require candidates to accept voluntary spending limits before including them in the brochure as long as the brochure explicitly stated that only those candidates who accepted the voluntary spending limit were included in the brochure. Government Code sections 81000 - 91014. Commission regulations appear at title 2, sections 18109 - 18995, of the California Code of Regulations. File No. A-97-426 Page 2 If you have any other questions regarding this matter, please contact me at (916) 322- 5660. Sincerely, Steven G. Churchwell General Counsel By: Julia Butcher Graduate Legal Assistant, Legal Division SGC:JB:jlw",
+    "summary": "This is an FPPC follow-up advice letter (97-426(a)) affirming the Commission's previous advice to the City of Santa Cruz regarding the use of public funds for a candidate brochure under the Political Reform Act, confirming permissible guidelines and restrictions."
+  }
+}

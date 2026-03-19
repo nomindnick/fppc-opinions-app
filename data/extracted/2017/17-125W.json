@@ -1,0 +1,75 @@
+{
+  "id": "17-125W",
+  "year": 2017,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2017/17-125W.pdf",
+  "pdf_sha256": "a0cb6a35e1860027742baa05ec38abea75ac7154357df73480e7ff5cc7d01d45",
+  "local_pdf_path": "raw_pdfs/2017/17-125W.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2017 Advice Letter # 17-125W",
+    "tags": [
+      "Advice Letter",
+      "2017"
+    ],
+    "scraped_at": "2026-01-31 15:02:10",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2017&tagCount=1&page=6"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:33:11.186926Z",
+    "page_count": 1,
+    "word_count": 196,
+    "char_count": 1286,
+    "quality_score": 0.6675,
+    "olmocr_cost": null,
+    "native_word_count": 196
+  },
+  "content": {
+    "full_text": "STATE OF CALIFORNIA \nFAIR POLITICAL PRACTICES COMMISSION \n/ 1102 Q Street • Suite 3000 • Sacramento, CA 95811 \n(916) 322-5660 • Fax (916) 322-0886 \nEthan Bertrand \nIsla Vista Community Services District \nclo Santa Barbara Co. \nThird District Supervisor's Office \n105 East Anaparnu Street \nSanta Barbara, CA 93101 \nRe: \nYour Request for Advice \nOur File No. W-17-125 \nDear Mr. Bertrand: \nAugust 24, 2017 \nThis letter is written notification that we have withdrawn the above-captioned request for \nadvice regarding the provisions of the Political Reform Act.1 \nAs explained in our three prior requests via electronic and U.S. mail, we required additional \ninformation to analyze your request for advice. As of the date of this letter, we have not received a \nresponse from you. Therefore, your request has been withdrawn. You may resubmit your request \nfor advice if in the future, you can provide the additional information we requested. \nShould you have any questions, please contact me at (916) 322-5660. \nECR:jgl \nSincerely, \nc:::: /1/ \n11/ \nL:;_;-\u0006-C::::--\u0007\b p. /4\nA\n\u0003.,_, \n// \nBy: \nEmelyn C. Rodriguez \n· \nSenior Counsel, Legal Division \n1 Government Code sections 81000-91014. Commission regulations appear at Title 2, sections 18109-18997 \nof the California Code of Regulations. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2017-08-24",
+    "date_raw": "August 24, 2017",
+    "requestor_name": "Bertrand",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requestor had submitted a question regarding the Political Reform Act, but the specific legal question is not detailed in this withdrawal letter.",
+    "conclusion_synthetic": "The FPPC withdrew the request for advice due to the requestor's failure to provide requested additional information after three prior requests via electronic and U.S. mail.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Withdrawal letter with no Question or Conclusion sections. The letter clearly indicates this is a withdrawal due to lack of response to information requests. The original question cannot be determined from this document."
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [
+      "18109"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:33:11.186926Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The requestor had submitted a question regarding the Political Reform Act, but the specific legal question is not detailed in this withdrawal letter.\n\nCONCLUSION: The FPPC withdrew the request for advice due to the requestor's failure to provide requested additional information after three prior requests via electronic and U.S. mail.",
+    "qa_source": "synthetic",
+    "first_500_words": "STATE OF CALIFORNIA FAIR POLITICAL PRACTICES COMMISSION / 1102 Q Street • Suite 3000 • Sacramento, CA 95811 (916) 322-5660 • Fax (916) 322-0886 Ethan Bertrand Isla Vista Community Services District clo Santa Barbara Co. Third District Supervisor's Office 105 East Anaparnu Street Santa Barbara, CA 93101 Re: Your Request for Advice Our File No. W-17-125 Dear Mr. Bertrand: August 24, 2017 This letter is written notification that we have withdrawn the above-captioned request for advice regarding the provisions of the Political Reform Act.1 As explained in our three prior requests via electronic and U.S. mail, we required additional information to analyze your request for advice. As of the date of this letter, we have not received a response from you. Therefore, your request has been withdrawn. You may resubmit your request for advice if in the future, you can provide the additional information we requested. Should you have any questions, please contact me at (916) 322-5660. ECR:jgl Sincerely, c:::: /1/ 11/ L:;_;-\u0006-C::::--\u0007\b p. /4 A \u0003.,_, // By: Emelyn C. Rodriguez · Senior Counsel, Legal Division 1 Government Code sections 81000-91014. Commission regulations appear at Title 2, sections 18109-18997 of the California Code of Regulations.",
+    "summary": "The FPPC withdrew an advice request (File No. W-17-125) from Ethan Bertrand of Isla Vista Community Services District because the requestor failed to provide additional information required for analysis after three prior requests."
+  }
+}

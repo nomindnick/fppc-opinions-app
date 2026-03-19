@@ -1,0 +1,72 @@
+{
+  "id": "92167",
+  "year": 1992,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1992/92167.pdf",
+  "pdf_sha256": "31ae45f8bda81dd86b0e6c570c8781947f6ce69ef8dada1e06f6b8f2cb4f0362",
+  "local_pdf_path": "raw_pdfs/1992/92167.pdf",
+  "source_metadata": {
+    "title_raw": "Hume, Dan Year: 1992 Advice Letter # 92167",
+    "tags": [
+      "Advice Letter",
+      "1992"
+    ],
+    "scraped_at": "2026-01-31 16:27:25",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1992&tagCount=1&page=62"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-27T23:53:40.830480Z",
+    "page_count": 2,
+    "word_count": 280,
+    "char_count": 1633,
+    "quality_score": 0.807513605442177,
+    "olmocr_cost": 0.00486072,
+    "native_word_count": 228,
+    "haiku_cost": 0.0045264
+  },
+  "content": {
+    "full_text": "Dear SIR,\n\nI AM A REAL PROPERTY APPRAISER WITH THE ASSESSORS OFFICE\nIN ORANGE COUNTY. IN AN EFFORT TO AVOID ANY CONFLICTS OF INTEREST\nI WOULD APPRECIATE IF YOU COULD ADVISE ME ON THE FOLLOWING\nQUESTIONS WHICH ARE PREDICATED ON THE ASSUMPTION THAT DEALING IN\nTHE PURCHASE AND SELLING OF TRUST DEEDS SECURED BY PROPERTY IN\nORANGE COUNTY IS A CONFLICT OF INTEREST. IF THAT IS NOT THE CASE\nPLEASE ADVISE.\n\n1. IF I CONDUCT A BUSINESS IN MY SPARE TIME IN ORANGE\nCOUNTY, THAT BUYS AND SELLS TRUST DEEDS SECURED BY PROPERTY\nOUTSIDE OF ORANGE COUNTY, IS THAT CONSIDERED A CONFLICT OF\nINTEREST?\n\n2. IF THE ABOVE QUESTION IS CONSIDERED A CONFLICT OF INTEREST, MY\n2ND QUESTION IS, IF I MAINTAIN MY BROKERS LICENSE IN AN OFFICE\nOUTSIDE OF ORANGE COUNTY, BUYING AND SELLING THE AFOREMENTIONED TRUST\nDEEDS, WOULD THE PERIODIC USE OF MY HOME OFFICE FOR BUSINESS\nPURPOSES DURING MY HOURS BE CONSIDERED A CONFLICT OF INTEREST?\n\n3. IF I HAVE A PARTNER WHO ALSO LISTS IN ORANGE COUNTY BUT\nIS NOT AN EMPLOYEE OF THE ASSESSOR OFFICE, WOULD HE BE\nPRECLUDED FROM WORKING PART TIME FROM HIS HOME.\n\nThank you for your consideration in this matter. I will\nbe looking forward to hearing from you at your earliest\nconvenience.\n\nSincerely,\n\nDon Home\n\n[illegible stamps/markings at bottom]\n\n[The image appears to be extremely faded or low contrast, making the text nearly illegible. While there appears to be typed text content on the page, I cannot make out the specific words with sufficient clarity to transcribe them accurately without risking significant errors. The document appears to be several paragraphs long, but the text is too faint to read reliably.]",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": "Hume",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "1. If I conduct a business in my spare time in Orange County, that buys and sells trust deeds secured by property outside of Orange County, is that considered a conflict of interest?\n\n2. If the above question is considered a conflict of interest, my 2nd question is, if I maintain my brokers license in an office outside of Orange County, buying and selling the aforementioned trust deeds, would the periodic use of my home phone for business purposes during off hours be considered a conflict of interest?\n\n3. If I have a partner who also lives in Orange County but is not an employee of the Assessors Office, would he be precluded from working part time from his home?",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "A real property appraiser in Orange County's Assessor's Office seeks advice on whether buying and selling trust deeds (both within and outside Orange County) constitutes a conflict of interest, and whether conducting such business outside office hours from home or through an out-of-county office would mitigate any conflicts.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an incoming request letter, not an FPPC response. No formal QUESTION or CONCLUSION sections with headers present. Document ID 92167 from 1992. Second page appears faint/blank in transmission."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T16:17:07.942878Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: 1. If I conduct a business in my spare time in Orange County, that buys and sells trust deeds secured by property outside of Orange County, is that considered a conflict of interest?\n\n2. If the above question is considered a conflict of interest, my 2nd question is, if I maintain my brokers license in an office outside of Orange County, buying and selling the aforementioned trust deeds, would the periodic use of my home phone for business purposes during off hours be considered a conflict of interest?\n\n3. If I have a partner who also lives in Orange County but is not an employee of the Assessors Office, would he be precluded from working part time from his home?",
+    "qa_source": "mixed",
+    "first_500_words": "Dear Sirs, I am a real property appraiser with the Assessors Office in Orange County. In an effort to avoid any conflicts of interest I would appreciate if you could advise me on the following questions which are predicated on the assumption that dealing in the purchase and selling of trust deeds secured by property in Orange County is a conflict of interest. If that is not the case please advise. 1. If I conduct a business in my spare time in Orange County, that buys and sells trust deeds secured by property outside of Orange County, is that considered a conflict of interest? 2. If the above question is considered a conflict of interest, my 2nd question is, if I maintain my brokers license in an office outside of Orange County, buying and selling the aforementioned trust deeds, would the periodic use of my home phone for business purposes during off hours be considered a conflict of interest? 3. If I have a partner who also lives in Orange County but is not an employee of the Assessors Office, would he be precluded from working part time from his home? Thank you for your consideration in this matter. I will be looking forward to hearing from you at your earliest convenience. Sincerely, Dan Howe The image is extremely faint and mostly white, with very little visible detail. It appears to be mostly blank or nearly blank, making it difficult to provide any specific content or context. If you have another image or a different page, please provide it for better results.",
+    "summary": "Incoming request from Dan Howe, a real property appraiser with Orange County Assessor's Office, asking whether his spare-time business activities involving purchase and sale of trust deeds create conflicts of interest, with follow-up questions about conducting business outside work hours and through external office locations."
+  }
+}

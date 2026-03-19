@@ -1,0 +1,74 @@
+{
+  "id": "90291",
+  "year": 1990,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1990/90291.pdf",
+  "pdf_sha256": "c2496f67cac4f5d1714556f32fb363579215a5fd26a3552b47c3ff767b05afba",
+  "local_pdf_path": "raw_pdfs/1990/90291.pdf",
+  "source_metadata": {
+    "title_raw": "Edward, Parker Year: 1990 Advice Letter # 90291",
+    "tags": [
+      "1990",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:09:52",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1990&tagCount=1&page=54"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-27T21:44:52.227115Z",
+    "page_count": 2,
+    "word_count": 307,
+    "char_count": 2301,
+    "quality_score": 0.8433022235417561,
+    "olmocr_cost": 0.00924844,
+    "native_word_count": 88,
+    "hallucination_truncated": true,
+    "hallucination_words_removed": 1396,
+    "haiku_cost": 0.0055312
+  },
+  "content": {
+    "full_text": "Edward S. Parker\nP.O. Box 140\nTurlock, Ca. 95384\n\nFPPC\nAPR 20 11:30 AM '90\n\nFair Political Practices Commission\n428 J. St., Suite 900\nP.O. Box 807\nSacramento, Ca. 95804\n\nDear Sir:\n\nI am writing to request information about the laws governing the county elections of non-partisan offices. Assemblyman [illegible] office told me to contact you requesting this information. I am considering running for County office. In the future, I was concerned that I do not violate any laws or regulations.\n\nIf you have any brochures or bulletins concerning this matter, I would appreciate receiving them.\n\nI am interested in knowing among everything else:\n1. How far in advance of the election can I start raising campaign funds?\n2. After I in advance can a candidate start campaigning?\n3. Campaign funds and other income reporting. Forms needed?\n4. Proper use of campaign funds.\n\nI thank you for your help and assurance in this matter — and wish you good day.\n\nSincerely, Edward S. Parker\n\n[illegible] & [illegible]\n\n[illegible] O.M. [illegible] O\n\n[illegible] O [illegible]\n\n[illegible] [illegible] [illegible] [illegible]\n\n[illegible] [illegible] [illegible] [illegible] [illegible] [illegible] [illegible]\n\n[illegible] [illegible] [illegible] [illegible] [illegible] [illegible]\n\n[illegible] [illegible] [illegible] [illegible] [illegible] [illegible]\n\nand all cold photographs [illegible] at good in no & [illegible] [illegible] in & [illegible] [illegible] [illegible] [illegible] [illegible] [illegible] [illegible] at on [illegible] at one left night [illegible] [illegible]\n\n& prime & [illegible] me & [illegible] [illegible] [illegible] [illegible]\n\n& [illegible] [illegible] & [illegible] [illegible] & [illegible] other [illegible] [illegible] [illegible] [illegible] & such [illegible] & [illegible] [illegible] [illegible] [illegible] [illegible] [illegible] & [illegible] [illegible] [illegible] [illegible] [illegible] [illegible] [illegible] in ink with\n\n[illegible] [illegible]\n\n[illegible] & [illegible] & [illegible] & [illegible] [illegible] & of [illegible]\n\n[illegible] & [illegible] [illegible] with [illegible] [illegible]\n\n[illegible] [illegible] & our [illegible] &\n\n[illegible] [illegible] [illegible] [illegible] [illegible] [illegible]\n\n[illegible] [illegible] [illegible] [illegible]",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": "Edward",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "1; How far in advance of the election can I start raising campaign funds?\n2; How far in advance can a candidate starting campaigning?\n3; Campaign funds and other income reporting. Forms needed?\n4; Proper use of campaign funds.",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requester seeks general information about California campaign finance and election laws for non-partisan county offices, including timing requirements for fundraising and campaigning, reporting requirements and forms, and proper use of campaign funds.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.75,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an incoming request letter from a constituent to FPPC, not an FPPC response/advice letter. The document contains extraneous handwritten Danish text at the end that is unrelated to the FPPC inquiry and appears to be scanning error or document concatenation issue. No formal CONCLUSION section exists. Confidence reduced due to document quality issues and mixed content."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T16:20:54.814743Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: 1; How far in advance of the election can I start raising campaign funds?\n2; How far in advance can a candidate starting campaigning?\n3; Campaign funds and other income reporting. Forms needed?\n4; Proper use of campaign funds.",
+    "qa_source": "mixed",
+    "first_500_words": "APR 20 1130 AM '90 Edward D. Parker P.O. Box 140 Twain, La., 95984 Fair Political Practices Commission 428 J. St., Suite 800 P.O. Box 807 Sacramento, Ca., 95804 Dear Sirs: I am writing to request information about the laws governing the County elections of non-partisan offices. Assemblyman Stallman's office told me to contact you requesting this information. I am considering running for County office; in the future, I was concerned that I do not violate any law or regulations. If you have any brochures or booklets concerning this matter, I would appreciate receiving them. I am interested in knowing, among everything else: 1; How far in advance of the election can I start raising campaign funds? 2; How far in advance can a candidate starting campaigning? 3; Campaign funds and other income reporting. Forms needed? 4; Proper use of campaign funds. I thank you for your help and assistance in this matter—and wish you good day. Sincerely, Edward D. Parker The handwritten text on this page is in Danish and appears to be a personal or business note. Due to the quality and style of handwriting, some words may not be fully legible, but here is what can be reliably transcribed: --- Kjære F. S. Knudsen OPI 100 60.59 HØP P. 9, Tønder mineral væske og kalksalje 008 stikk. kl. t. 854 508 af. 0.9 HØP P. 102, Stavnsal end næb end elt træls naturafgivning og pristier og b eneste visiting nav de omvælde gitter i ett gummiaf uge tønner ot en kilt riffs dæmthok noglekner ekspanser gribere og b. avatenspise med gummien b. kalt kurserer over b. erutte ett ad ekseptival natulger og mal zue et hitt han 26 povrane, tehlod se samhord for nach og fl mult pionner até ogg bloe b. retten eller i sale pionner pone, fremadtil bestemmel i me b pionner tente b nas mitrale utly somate ni nep mot! Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions Kommissions",
+    "summary": "Edward D. Parker requests information about campaign finance and election laws for potential California county office candidacy, asking about fundraising timelines, campaign commencement timing, reporting requirements, and proper fund usage."
+  }
+}

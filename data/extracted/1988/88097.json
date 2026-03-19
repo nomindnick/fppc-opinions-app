@@ -1,0 +1,75 @@
+{
+  "id": "88097",
+  "year": 1988,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1988/fppc-advice/88097.PDF",
+  "pdf_sha256": "9b779bdd5be9d46b01c097ea09745e1390adfefcf7b39a3d8083a1ac089986a3",
+  "local_pdf_path": "raw_pdfs/1988/88097.PDF",
+  "source_metadata": {
+    "title_raw": "FARHA, JIM Year: 1988 Advice Letter # 88097",
+    "tags": [
+      "1988",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:58:08",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1988&tagCount=1&page=7"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:06.007989Z",
+    "page_count": 2,
+    "word_count": 483,
+    "char_count": 3208,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 483
+  },
+  "content": {
+    "full_text": "California \nFair Political \nPractices Commission \nMarch 15, 1988 \nJim Farha \nPresident/Chairman of the Board \nVacaville Chamber of Commerce \n400 East Monte vista Avenue \nVacaville, CA 95688 \nRe: \nOur File No. I-88-097 \nDear Mr. Farha: \nWe have received your letter suggesting a modification of the \nconflict-of-interest provisions of the Political Reform Act.1I \nPresently, a public official is prohibited from participating in a \ngovernmental decision in which the official has a financial \ninterest. \n(Section 87100.) \nAn official has a financial interest in \na decision if it will have a reasonably foreseeable material \nfinancial effect on a source of income to the official of $250 or \nmore in the 12 months before the decision. \n(Section 87103.) \nYour organization has suggested that the $250 threshold is too \nlow. \nYou have asked the Commission to increase the threshold to \n$1,000. \nHowever, the Commission has no authority to modify the \nthreshold because it is a part of the statute. \nAny change in the \nthreshold will require legislation. \nAccordingly, your suggestion \nwould be more appropriately addressed to your elected \nrepresentatives in the Legislature. \nIf you have any questions, please contact me at (916) 322-5901. \nDMG:JGM:jaj \nSincerely, \nDiane M. Griffiths \nGeneral Counsel \nBy: cE:G~~~ ~ \nCounsel, Legal Division \n11 \nGovernment Code sections 81000-91015. \nAll statutory \nreferences are to the Government Code unless otherwise indicated. \n428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804,0807 • (916) 322,5660 \n\n\nMarch 3, 1988 \nState Fair Political Practices Commission \nLegal Division \n428 \n\"J\" Street \nSuite 800 \nSacramento, California 95814 \nAttention: \nJeanette Turvill \nThe Vacaville Chamber of Commerce Legislative Action Committee and \nthe Board of Directors have reviewed the FPPC's rules and regulations \nas they deal with the \"Conflict of Interest\", specifically with city \nelected or appointed officials. \nAs we understand this particular section, a public official must \nabstain from any debate or vote which could significantly affect their \nfinancial interest. \nThe financial interests include business invest-\nments and real property holdings. \nIn fact, any source of income or \ngifts of $250 or more within the past twelve months. \nWe certainly agree, if a significant financial enhancement is to be \nrealized by voting either \"yea\" or \"nay\", the elected or appointed \nofficial must declare that interest. \nHowever, it is our belief that \nthe amount adopted in 1974 of $250 as it relates to \"Conflict of \nInterest\" is totally unrealistic in today's financial world. \nThere-\nfore, we urge the FPPC to increase the threshold of $250 to $1,000 \nas it relates to city elected and appointed officials. \nAnd, furthermore, \nthe $1,000 (real dollar amount) be adjusted annually to coincide with \nthe State of California index when determining the cost of living \npercentages. \nThank you for considering our request, and we look forward to hearing \nfrom you. \nJIM FARHA \nPresident/Chairman of the Board \nVacaville Chamber of Commerce \nJF:nam \nVacaville Chamber of Commerce \n400 East Monte Vista Ave. \n• \nVacaville, California 95688 \n• \nTelephone (707) 448-6424 \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1988-03-15",
+    "date_raw": "March 15, 1988",
+    "requestor_name": "Farha",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Your organization has suggested that the $250 threshold is too low. You have asked the Commission to increase the threshold to $1,000.",
+    "conclusion": "However, the Commission has no authority to modify the threshold because it is a part of the statute. Any change in the threshold will require legislation. Accordingly, your suggestion would be more appropriately addressed to your elected representatives in the Legislature.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Should the FPPC increase the financial interest threshold for conflict-of-interest provisions from $250 to $1,000 for city elected and appointed officials, with annual cost-of-living adjustments?",
+    "conclusion_synthetic": "The FPPC lacks authority to modify the $250 threshold as it is statutory and can only be changed through legislation. The requestor should direct this suggestion to their elected representatives in the Legislature.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document contains both the incoming request letter (dated March 3, 1988) and the FPPC response letter (dated March 15, 1988). Question and conclusion extracted from FPPC response. Clear structure with identifiable Q/A sections."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "87100",
+      "87103"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.6666666666666666,
+    "classified_at": "2026-02-06T18:36:06.007989Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Your organization has suggested that the $250 threshold is too low. You have asked the Commission to increase the threshold to $1,000.\n\nCONCLUSION: However, the Commission has no authority to modify the threshold because it is a part of the statute. Any change in the threshold will require legislation. Accordingly, your suggestion would be more appropriately addressed to your elected representatives in the Legislature.",
+    "qa_source": "mixed",
+    "first_500_words": "California Fair Political Practices Commission March 15, 1988 Jim Farha President/Chairman of the Board Vacaville Chamber of Commerce 400 East Monte vista Avenue Vacaville, CA 95688 Re: Our File No. I-88-097 Dear Mr. Farha: We have received your letter suggesting a modification of the conflict-of-interest provisions of the Political Reform Act.1I Presently, a public official is prohibited from participating in a governmental decision in which the official has a financial interest. (Section 87100.) An official has a financial interest in a decision if it will have a reasonably foreseeable material financial effect on a source of income to the official of $250 or more in the 12 months before the decision. (Section 87103.) Your organization has suggested that the $250 threshold is too low. You have asked the Commission to increase the threshold to $1,000. However, the Commission has no authority to modify the threshold because it is a part of the statute. Any change in the threshold will require legislation. Accordingly, your suggestion would be more appropriately addressed to your elected representatives in the Legislature. If you have any questions, please contact me at (916) 322-5901. DMG:JGM:jaj Sincerely, Diane M. Griffiths General Counsel By: cE:G~~~ ~ Counsel, Legal Division 11 Government Code sections 81000-91015. All statutory references are to the Government Code unless otherwise indicated. 428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804,0807 • (916) 322,5660 March 3, 1988 State Fair Political Practices Commission Legal Division 428 \"J\" Street Suite 800 Sacramento, California 95814 Attention: Jeanette Turvill The Vacaville Chamber of Commerce Legislative Action Committee and the Board of Directors have reviewed the FPPC's rules and regulations as they deal with the \"Conflict of Interest\", specifically with city elected or appointed officials. As we understand this particular section, a public official must abstain from any debate or vote which could significantly affect their financial interest. The financial interests include business invest- ments and real property holdings. In fact, any source of income or gifts of $250 or more within the past twelve months. We certainly agree, if a significant financial enhancement is to be realized by voting either \"yea\" or \"nay\", the elected or appointed official must declare that interest. However, it is our belief that the amount adopted in 1974 of $250 as it relates to \"Conflict of Interest\" is totally unrealistic in today's financial world. There- fore, we urge the FPPC to increase the threshold of $250 to $1,000 as it relates to city elected and appointed officials. And, furthermore, the $1,000 (real dollar amount) be adjusted annually to coincide with the State of California index when determining the cost of living percentages. Thank you for considering our request, and we look forward to hearing from you. JIM FARHA President/Chairman of the Board Vacaville Chamber of Commerce JF:nam Vacaville Chamber of Commerce 400 East Monte Vista Ave. • Vacaville, California 95688 • Telephone (707) 448-6424",
+    "summary": "The Vacaville Chamber of Commerce requested that the FPPC increase the conflict-of-interest financial interest threshold from $250 to $1,000. The FPPC responded that it has no authority to make this change as the threshold is set by statute and would require legislative action."
+  }
+}

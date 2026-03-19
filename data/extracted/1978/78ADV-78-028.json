@@ -1,0 +1,71 @@
+{
+  "id": "78ADV-78-028",
+  "year": 1978,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1978/78ADV-78-028.PDF",
+  "pdf_sha256": "a7762f0ac3da10e4ec067c1ec725b0fb4b49e42684da28cd0c2cbf9a591aa419",
+  "local_pdf_path": "raw_pdfs/1978/78ADV-78-028.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1978ADV Advice Letter # 78ADV-78-028",
+    "tags": [
+      "Advice Letter",
+      "1978"
+    ],
+    "scraped_at": "2026-01-31 15:22:54",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:08.342815Z",
+    "page_count": 2,
+    "word_count": 145,
+    "char_count": 875,
+    "quality_score": 0.5075,
+    "olmocr_cost": null,
+    "native_word_count": 145
+  },
+  "content": {
+    "full_text": "State of California \nMemorandum \nTo \nFile \nDate \nMay 6, 1978 \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nGina S-K \nSubject: \nAgenda item at opinion request meeting of April 14, 1978 \nIs the Berkeley city council making an expenditure when it \nspends money advocating a \"No\" vote on Proposition 13 \n(Jarvis-Gann)? \nAnswer: \nDue to Suitt decision (the legislatur~ is not \na person, etc.) we do not believe we may require a city \nto file as a committee. \nSuggested city attorney, district \nattorney or attorney general might want to investigate \nre misuse of public funds. \n\n\nState of California \nMemorandum \nTo \nNatalie \nFrom \nI \nFAIR POLITICAL PRAClICES COMMISSION \nRegina \nSubject: \nItem for d scuss \nat the \nCl \nof Berke \nn on \n1 \nich is opposing \nreport ci \nmon \npent \nI \nt \nj \n~ \ni \nt \nApril 14, 1978 \nt Meeting \nor not the \n-Gann Initiative \nis effort. \nwhich \nbe faced \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1978-05-06",
+    "date_raw": "May 6, 1978",
+    "requestor_name": null,
+    "requestor_title": "city attorney",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Is the Berkeley city council making an expenditure when it spends money advocating a \"No\" vote on Proposition 13 (Jarvis-Gann)?",
+    "conclusion": "Due to Suitt decision (the legislature is not a person, etc.) we do not believe we may require a city to file as a committee. Suggested city attorney, district attorney or attorney general might want to investigate re misuse of public funds.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether Berkeley city council's spending on advocacy against Proposition 13 (Jarvis-Gann) constitutes a reportable expenditure under campaign finance law.",
+    "conclusion_synthetic": "The FPPC concluded it cannot require a city to file as a committee based on the Suitt decision, but suggested that city, district, or state attorneys may wish to investigate potential misuse of public funds.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document consists of two memoranda discussing the same issue. Second memorandum is partially illegible/degraded. Both address Berkeley's Proposition 13 advocacy spending. Document formatted as internal FPPC memoranda rather than formal opinion letter. Date of April 14, 1978 referenced as meeting date."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:08.342815Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Is the Berkeley city council making an expenditure when it spends money advocating a \"No\" vote on Proposition 13 (Jarvis-Gann)?\n\nCONCLUSION: Due to Suitt decision (the legislature is not a person, etc.) we do not believe we may require a city to file as a committee. Suggested city attorney, district attorney or attorney general might want to investigate re misuse of public funds.",
+    "qa_source": "mixed",
+    "first_500_words": "State of California Memorandum To File Date May 6, 1978 From FAIR POLITICAL PRACTICES COMMISSION Gina S-K Subject: Agenda item at opinion request meeting of April 14, 1978 Is the Berkeley city council making an expenditure when it spends money advocating a \"No\" vote on Proposition 13 (Jarvis-Gann)? Answer: Due to Suitt decision (the legislatur~ is not a person, etc.) we do not believe we may require a city to file as a committee. Suggested city attorney, district attorney or attorney general might want to investigate re misuse of public funds. State of California Memorandum To Natalie From I FAIR POLITICAL PRAClICES COMMISSION Regina Subject: Item for d scuss at the Cl of Berke n on 1 ich is opposing report ci mon pent I t j ~ i t April 14, 1978 t Meeting or not the -Gann Initiative is effort. which be faced",
+    "summary": "FPPC memorandum addressing whether Berkeley city council's expenditures opposing Proposition 13 constitute reportable campaign activity. The FPPC determined it lacks authority to require city filing as a committee under the Suitt precedent but recommended further investigation by other authorities regarding potential misuse of public funds."
+  }
+}

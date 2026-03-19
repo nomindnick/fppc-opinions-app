@@ -1,0 +1,73 @@
+{
+  "id": "92480",
+  "year": 1992,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1992/92480.pdf",
+  "pdf_sha256": "feb276070174d5d2f84e2e23ff7c280f10a7b1be9f35458f8668952faeba864e",
+  "local_pdf_path": "raw_pdfs/1992/92480.pdf",
+  "source_metadata": {
+    "title_raw": "Oliva, Lou Year: 1992 Advice Letter # 92480",
+    "tags": [
+      "Advice Letter",
+      "1992"
+    ],
+    "scraped_at": "2026-01-31 16:30:27",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1992&tagCount=1&page=102"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T22:10:24.532095Z",
+    "page_count": 1,
+    "word_count": 143,
+    "char_count": 875,
+    "quality_score": 0.8954275531072701,
+    "olmocr_cost": 0.00252582,
+    "native_word_count": 189
+  },
+  "content": {
+    "full_text": "August 28, 1992\n\nFair Political Practices Commission\nTechnical Assistance\nP.O. Box 807\nSacramento, Ca 95804\n\nDear Sirs:\n\nEnclosed is a copy of the Norco News, a newspaper published in our City and owned and operated by a Council Candidate, Lou Oliva.\n\nI recently had a phone conversation with Alice Hughes regarding filing obligations for expenditures for this candidate and I was to receive Regulation 18225 regarding expenditures. To date I have not received this regulation.\n\nAs you can see in this paper there is an article regarding her candidacy, soliciting donations, and referring to a committee, as yet I have received no committee filing information.\n\nPlease let me know if there is any problems with this activity, as other candidates are asking me regarding her using the paper in this manner.\n\nSincerely Yours,\n\nDianna M. Higdon, CMC\nCity Clerk\nCity of Norco\n\ndh",
+    "full_text_markdown": "August 28, 1992\n\nFair Political Practices Commission\nTechnical Assistance\nP.O. Box 807\nSacramento, Ca 95804\n\nDear Sirs:\n\nEnclosed is a copy of the Norco News, a newspaper published in our City and owned and operated by a Council Candidate, Lou Oliva.\n\nI recently had a phone conversation with Alice Hughes regarding filing obligations for expenditures for this candidate and I was to receive Regulation 18225 regarding expenditures. To date I have not received this regulation.\n\nAs you can see in this paper there is an article regarding her candidacy, soliciting donations, and referring to a committee, as yet I have received no committee filing information.\n\nPlease let me know if there is any problems with this activity, as other candidates are asking me regarding her using the paper in this manner.\n\nSincerely Yours,\n\nDianna M. Higdon, CMC\nCity Clerk\nCity of Norco\n\ndh"
+  },
+  "parsed": {
+    "date": "1992-08-28",
+    "date_raw": "August 28, 1992",
+    "requestor_name": "Oliva",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [
+      "18225"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T22:10:24.532095Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "August 28, 1992 Fair Political Practices Commission Technical Assistance P.O. Box 807 Sacramento, Ca 95804 Dear Sirs: Enclosed is a copy of the Norco News, a newspaper published in our City and owned and operated by a Council Candidate, Lou Oliva. I recently had a phone conversation with Alice Hughes regarding filing obligations for expenditures for this candidate and I was to receive Regulation 18225 regarding expenditures. To date I have not received this regulation. As you can see in this paper there is an article regarding her candidacy, soliciting donations, and referring to a committee, as yet I have received no committee filing information. Please let me know if there is any problems with this activity, as other candidates are asking me regarding her using the paper in this manner. Sincerely Yours, Dianna M. Higdon, CMC City Clerk City of Norco dh",
+    "qa_source": "extracted",
+    "first_500_words": "August 28, 1992 Fair Political Practices Commission Technical Assistance P.O. Box 807 Sacramento, Ca 95804 Dear Sirs: Enclosed is a copy of the Norco News, a newspaper published in our City and owned and operated by a Council Candidate, Lou Oliva. I recently had a phone conversation with Alice Hughes regarding filing obligations for expenditures for this candidate and I was to receive Regulation 18225 regarding expenditures. To date I have not received this regulation. As you can see in this paper there is an article regarding her candidacy, soliciting donations, and referring to a committee, as yet I have received no committee filing information. Please let me know if there is any problems with this activity, as other candidates are asking me regarding her using the paper in this manner. Sincerely Yours, Dianna M. Higdon, CMC City Clerk City of Norco dh",
+    "summary": null
+  }
+}

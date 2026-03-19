@@ -1,0 +1,74 @@
+{
+  "id": "79-024",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-024.PDF",
+  "pdf_sha256": "99744bcb52121dbe003e1866b9eb48a185f31a2bd69e857a4250e1ecfe6d8537",
+  "local_pdf_path": "raw_pdfs/1979/79-024.PDF",
+  "source_metadata": {
+    "title_raw": "PESSNER, KIRK Year: 1979 Advice Letter # 79-024",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:25:24",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:04.981627Z",
+    "page_count": 4,
+    "word_count": 300,
+    "char_count": 1751,
+    "quality_score": 0.5075,
+    "olmocr_cost": null,
+    "native_word_count": 300
+  },
+  "content": {
+    "full_text": "\n\n\n\nDOBBS & NIELSEN \nSUITE 2500, THE ALCOA BUILDING \nONE MARITIME PLAZA \nSAN FRANCISCO, CA 94111 \nTELEPHONE (415) 362-1940 \nFebruary 6, 1979 \nMs. Regina Siciliano-Kutchins \nFair Political Practices Commission \nP. O. Box 807 \nSacramento, CA \n95807 \nRe: \nMajor Donor Threshold \nDear Gina: \nI would appreciate your written response to \nthe following questions: \n1. \nIs it true that a major donor filer in \n1978, need not file any major donor or abbreviated \nstatements in 1979 until major donor status is reached \neven if over $250 is given to a local candidate prior \nto reaching $5,000. \n2. \nIf a major donor in 1978 made a loan to \na campaign committee in that year, but forgives that \nloan in 1979, while not having yet reached major donor \nstatus for 1979, are they required to file major donor \nstatements for 1979 as a result of the forgiveness of \nthe loan? \nInasmuch as the loan was used in 1978 to reach \nmajor donor status and the forgiveness of the loan does \nnot affect the cumulative totals for the previous or \npresent year nor, according to the advice you gave me \nlast week, does it count toward the $5,000 threshold in \n1979, and the campaign committee to whom the loan was \nforgiven would be reporting it as such on its next \ncampaign filing, there seems to be no reason for the \nmajor donor to file beyond the end of the calendar year \n1978. \nBut if the commission requires a report in 1979 \nbecause of this forgiveness, when no other report \nI when \nled and who are \nling \nofficers? \nSACRAMENTO OFFICE - SUITE 550, 1225 EIGHTH STREET, SACRAMENTO, CA 95814 \n• \n(916) 446-6752 \n\n\nMs. Regina Sic \niano-Kutchins \nPage Two \nFebruary 6, 1979 \nThank you for your prompt attention to this \nmatter. \nI look forward to your response. \nKAP:la \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1979-02-06",
+    "date_raw": "February 6, 1979",
+    "requestor_name": "PESSNER",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "1. Is it true that a major donor filer in 1978, need not file any major donor or abbreviated statements in 1979 until major donor status is reached even if over $250 is given to a local candidate prior to reaching $5,000. 2. If a major donor in 1978 made a loan to a campaign committee in that year, but forgives that loan in 1979, while not having yet reached major donor status for 1979, are they required to file major donor statements for 1979 as a result of the forgiveness of the loan?",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requester asks whether a 1978 major donor must file statements in 1979 before reaching the $5,000 threshold, and whether forgiving a loan made in 1978 triggers major donor filing requirements in 1979 even if the forgiveness does not count toward the current year's threshold.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an incoming request letter, not an FPPC response. No conclusion or advice section present. Document contains two specific numbered questions about major donor threshold and loan forgiveness treatment. Document is partially cut off at the bottom of page two."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [
+      "87150",
+      "88160"
+    ],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:04.981627Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: 1. Is it true that a major donor filer in 1978, need not file any major donor or abbreviated statements in 1979 until major donor status is reached even if over $250 is given to a local candidate prior to reaching $5,000. 2. If a major donor in 1978 made a loan to a campaign committee in that year, but forgives that loan in 1979, while not having yet reached major donor status for 1979, are they required to file major donor statements for 1979 as a result of the forgiveness of the loan?",
+    "qa_source": "mixed",
+    "first_500_words": "DOBBS & NIELSEN SUITE 2500, THE ALCOA BUILDING ONE MARITIME PLAZA SAN FRANCISCO, CA 94111 TELEPHONE (415) 362-1940 February 6, 1979 Ms. Regina Siciliano-Kutchins Fair Political Practices Commission P. O. Box 807 Sacramento, CA 95807 Re: Major Donor Threshold Dear Gina: I would appreciate your written response to the following questions: 1. Is it true that a major donor filer in 1978, need not file any major donor or abbreviated statements in 1979 until major donor status is reached even if over $250 is given to a local candidate prior to reaching $5,000. 2. If a major donor in 1978 made a loan to a campaign committee in that year, but forgives that loan in 1979, while not having yet reached major donor status for 1979, are they required to file major donor statements for 1979 as a result of the forgiveness of the loan? Inasmuch as the loan was used in 1978 to reach major donor status and the forgiveness of the loan does not affect the cumulative totals for the previous or present year nor, according to the advice you gave me last week, does it count toward the $5,000 threshold in 1979, and the campaign committee to whom the loan was forgiven would be reporting it as such on its next campaign filing, there seems to be no reason for the major donor to file beyond the end of the calendar year 1978. But if the commission requires a report in 1979 because of this forgiveness, when no other report I when led and who are ling officers? SACRAMENTO OFFICE - SUITE 550, 1225 EIGHTH STREET, SACRAMENTO, CA 95814 • (916) 446-6752 Ms. Regina Sic iano-Kutchins Page Two February 6, 1979 Thank you for your prompt attention to this matter. I look forward to your response. KAP:la",
+    "summary": "An attorney at Dobbs & Nielsen seeks written FPPC guidance on major donor filing requirements for 1979, specifically regarding threshold triggers and the treatment of loan forgiveness from prior-year contributions."
+  }
+}

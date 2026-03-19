@@ -1,0 +1,74 @@
+{
+  "id": "79-176",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-176.PDF",
+  "pdf_sha256": "24f03983c593031a62da43967176dd5d86f86c3be4d7e5b89decf1b821d27acb",
+  "local_pdf_path": "raw_pdfs/1979/79-176.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1979 Advice Letter # 79-176",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:25:47",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=6"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:05.904757Z",
+    "page_count": 1,
+    "word_count": 72,
+    "char_count": 383,
+    "quality_score": 0.33999999999999997,
+    "olmocr_cost": null,
+    "native_word_count": 72
+  },
+  "content": {
+    "full_text": "tiLU.5U\"\"' \n87207 (b) (2) \nThe term \"pro rata s \nof any income of any \nbusiness entity\" as us \nin the last sentence of Section \n82030( \nre \nr \nto \no r \nshare of \nnet income \nof any business entity. \nThe term \nfees\" as used in Section \n87207 (b) (2) I \nhowever I refers to \nss \ns. \nThis interpretation was agreed upon by the staff \nduring discussions re \nng to Frank ZO in's letter. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "The term \"pro rata share\" as used in the last sentence of Section 82030 refers to the proportionate share of net income of any business entity. The term \"fees\" as used in Section 87207(b)(2) refers to gross receipts.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The document addresses the interpretation of 'pro rata share' of net income and 'fees' under California Political Reform Act Sections 82030 and 87207(b)(2).",
+    "conclusion_synthetic": "The FPPC clarifies that 'pro rata share' means the proportionate share of net income of a business entity, while 'fees' under Section 87207(b)(2) refers to gross receipts rather than net income.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.65,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document text is heavily degraded with OCR errors and missing content. No clear question section header identified. Conclusion section partially reconstructed from fragmented text. Confidence is moderate due to significant text quality issues and inability to verify full context."
+  },
+  "citations": {
+    "government_code": [
+      "82030",
+      "87207(b)(2)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:37:05.904757Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The document addresses the interpretation of 'pro rata share' of net income and 'fees' under California Political Reform Act Sections 82030 and 87207(b)(2).\n\nCONCLUSION: The term \"pro rata share\" as used in the last sentence of Section 82030 refers to the proportionate share of net income of any business entity. The term \"fees\" as used in Section 87207(b)(2) refers to gross receipts.",
+    "qa_source": "mixed",
+    "first_500_words": "tiLU.5U\"\"' 87207 (b) (2) The term \"pro rata s of any income of any business entity\" as us in the last sentence of Section 82030( re r to o r share of net income of any business entity. The term fees\" as used in Section 87207 (b) (2) I however I refers to ss s. This interpretation was agreed upon by the staff during discussions re ng to Frank ZO in's letter.",
+    "summary": "FPPC advice letter 79-176 provides regulatory interpretation of key terms in the Political Reform Act, specifically defining 'pro rata share' and 'fees' as used in Sections 82030 and 87207(b)(2). The interpretation was agreed upon by FPPC staff during discussions regarding Frank Zorn's letter."
+  }
+}

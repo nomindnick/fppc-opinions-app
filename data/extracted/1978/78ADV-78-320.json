@@ -1,0 +1,73 @@
+{
+  "id": "78ADV-78-320",
+  "year": 1978,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1978/78ADV-78-320.PDF",
+  "pdf_sha256": "a9e5b33b7ba5d6145d6c2884fd987339fcd7baebc88714d08c7e74b12876de9f",
+  "local_pdf_path": "raw_pdfs/1978/78ADV-78-320.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1978ADV Advice Letter # 78ADV-78-320",
+    "tags": [
+      "Advice Letter",
+      "1978"
+    ],
+    "scraped_at": "2026-01-31 15:24:52",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=28"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-07T17:00:27.217949Z",
+    "page_count": 1,
+    "word_count": 105,
+    "char_count": 699,
+    "quality_score": 0.8699107142857143,
+    "olmocr_cost": 0.00249314,
+    "native_word_count": 9
+  },
+  "content": {
+    "full_text": "Memorandum\n\nTo: File\n\nDate: April 13, 1978\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION  \nDwight Dickerson\n\nSubject:\n\nSection 82030(b)(2) does not apply to salaries and reimbursements for expenses paid by the League of California Cities to public officials serving as board members. Section 82030(b)(2) applies to funds received by the official in connection with duties performed in his official capacity. The public official is not performing such duties when working in the employ of the League of California Cities. This analysis applies in spite of the fact that the League is supported entirely by funds from the various chartered cities who are members of the League.\n\nDD:qb",
+    "full_text_markdown": "Memorandum\n\nTo: File\n\nDate: April 13, 1978\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION  \nDwight Dickerson\n\nSubject:\n\nSection 82030(b)(2) does not apply to salaries and reimbursements for expenses paid by the League of California Cities to public officials serving as board members. Section 82030(b)(2) applies to funds received by the official in connection with duties performed in his official capacity. The public official is not performing such duties when working in the employ of the League of California Cities. This analysis applies in spite of the fact that the League is supported entirely by funds from the various chartered cities who are members of the League.\n\nDD:qb"
+  },
+  "parsed": {
+    "date": "1978-04-13",
+    "date_raw": "April 13, 1978",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "Section 82030(b)(2) does not apply to salaries and reimbursements for expenses paid by the League of California Cities to public officials serving as board members. Section 82030(b)(2) applies to funds received by the official in connection with duties performed in his official capacity. The public official is not performing such duties when working in the employ of the League of California Cities. This analysis applies in spite of the fact that the League is supported entirely by funds from the various chartered cities who are members of the League.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether Section 82030(b)(2) applies to salaries and reimbursements for expenses paid by the League of California Cities to public officials serving as board members.",
+    "conclusion_synthetic": "Section 82030(b)(2) does not apply to salaries and reimbursements paid by the League of California Cities to public officials serving as board members, because such compensation is not received in connection with the official's duties in their official capacity.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Memorandum format without formal Q/C sections. Conclusion and reasoning integrated into body text. Clear FPPC response interpreting statute application."
+  },
+  "citations": {
+    "government_code": [
+      "82030(b)(2)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T17:00:27.217949Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether Section 82030(b)(2) applies to salaries and reimbursements for expenses paid by the League of California Cities to public officials serving as board members.\n\nCONCLUSION: Section 82030(b)(2) does not apply to salaries and reimbursements for expenses paid by the League of California Cities to public officials serving as board members. Section 82030(b)(2) applies to funds received by the official in connection with duties performed in his official capacity. The public official is not performing such duties when working in the employ of the League of California Cities. This analysis applies in spite of the fact that the League is supported entirely by funds from the various chartered cities who are members of the League.",
+    "qa_source": "mixed",
+    "first_500_words": "**Memorandum** **To:** File **Date:** April 13, 1978 **From:** FAIR POLITICAL PRACTICES COMMISSION Dwight Dickerson **Subject:** Section 82030(b)(2) does not apply to salaries and reimbursements for expenses paid by the League of California Cities to public officials serving as board members. Section 82030(b)(2) applies to funds received by the official in connection with duties performed in his official capacity. The public official is not performing such duties when working in the employ of the League of California Cities. This analysis applies in spite of the fact that the League is supported entirely by funds from the various chartered cities who are members of the League. DD:qb",
+    "summary": "FPPC memorandum concluding that Section 82030(b)(2) does not apply to compensation paid by the League of California Cities to public officials serving as board members, as such work is not performed in their official capacity."
+  }
+}

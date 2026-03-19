@@ -1,0 +1,75 @@
+{
+  "id": "83A021",
+  "year": 1983,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1983/83A021.PDF",
+  "pdf_sha256": "7debc485a455133f4386e69613866a9437800b7560274efd1a2e74160a1c5c93",
+  "local_pdf_path": "raw_pdfs/1983/83A021.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1983 Advice Letter # 83A021",
+    "tags": [
+      "1983",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:31:33",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1983&tagCount=1"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T00:04:02.174614Z",
+    "page_count": 1,
+    "word_count": 58,
+    "char_count": 394,
+    "quality_score": 0.7478055268850837,
+    "olmocr_cost": 0.00246132,
+    "native_word_count": 58
+  },
+  "content": {
+    "full_text": "Memorandum\n\nTo: File No. M-83-021\n\nDate: Feb. 2, 1983\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION  \nBarbara A. Milman\n\nSubject: Telephone Advice to Wendy Julepp, Baldwin Park 1/27/83\n\nA city council acting as the redevelopment agency is exempt from Section 84308. (Reg. 18438.1)\n\nAn individual councilman who is appointed to sanitation district board is not exempt in that capacity.\n\nBAM:plh",
+    "full_text_markdown": "Memorandum\n\nTo: File No. M-83-021\n\nDate: Feb. 2, 1983\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION  \nBarbara A. Milman\n\nSubject: Telephone Advice to Wendy Julepp, Baldwin Park 1/27/83\n\nA city council acting as the redevelopment agency is exempt from Section 84308. (Reg. 18438.1)\n\nAn individual councilman who is appointed to sanitation district board is not exempt in that capacity.\n\nBAM:plh"
+  },
+  "parsed": {
+    "date": "1983-01-27",
+    "date_raw": "1/27/83",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [
+      "84308"
+    ],
+    "regulations": [],
+    "prior_opinions": [
+      "M-83-021"
+    ],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-20T00:04:02.174614Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "**Memorandum** To: File No. M-83-021 Date: Feb. 2, 1983 From: FAIR POLITICAL PRACTICES COMMISSION Barbara A. Milman Subject: Telephone Advice to Wendy Julepp, Baldwin Park 1/27/83 A city council acting as the redevelopment agency is exempt from Section 84308. (Reg. 18438.1) An individual councilman who is appointed to sanitation district board is not exempt in that capacity. BAM:plh",
+    "qa_source": "extracted",
+    "first_500_words": "**Memorandum** To: File No. M-83-021 Date: Feb. 2, 1983 From: FAIR POLITICAL PRACTICES COMMISSION Barbara A. Milman Subject: Telephone Advice to Wendy Julepp, Baldwin Park 1/27/83 A city council acting as the redevelopment agency is exempt from Section 84308. (Reg. 18438.1) An individual councilman who is appointed to sanitation district board is not exempt in that capacity. BAM:plh",
+    "summary": null
+  }
+}

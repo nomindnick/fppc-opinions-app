@@ -1,0 +1,76 @@
+{
+  "id": "82A014",
+  "year": 1982,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1982/82A014.PDF",
+  "pdf_sha256": "64c4783c891515ccffdd7310bb1c1023fb7d5a1d989bc033f9fa363e2af68a95",
+  "local_pdf_path": "raw_pdfs/1982/82A014.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1982 Advice Letter # 82A014",
+    "tags": [
+      "1982",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:30:36",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1982&tagCount=1&page=14"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T16:25:37.430142Z",
+    "page_count": 2,
+    "word_count": 486,
+    "char_count": 2985,
+    "quality_score": 0.9039651643308168,
+    "olmocr_cost": 0.005241699999999999,
+    "native_word_count": 140,
+    "haiku_cost": 0.005647999999999999
+  },
+  "content": {
+    "full_text": "State of California\nFair Political Practices Commission\nP.O. BOX 807 • SACRAMENTO, 95804 • • • 1100 K STREET BUILDING, SACRAMENTO, 95814\n\nTechnical Assistance     Administration       Executive/Legal     Enforcement       Statements of Economic Interest\n(916) 322-5660         322-5660             322-5901            322-6441           322-6444\n\nFebruary 10, 1982\n\n\nHarvey Levine, City Attorney\nCity of Pleasanton\nP.O. Box 520\nPleasanton, CA  94566\n\nDear Mr. Levine:\n\n     I am writing in response to your question to Alice Hughes\nregarding the reportability of a loan to a business entity.¹\nThe staff has reviewed this question, and has determined that\nthe name of a lender to a business entity must be reported on an\nofficial's Statement of Economic Interests if:\n\n     (1)  The official has a direct or indirect interest of\n10 percent or more in the business entity; and\n\n     (2)  The official's pro rata share of the loan is\n$10,000 or more.\n\n     Under the Political Reform Act, the term income includes\nall payments received, including loans.  In addition, the pro rata\nshare of any income of a business entity in which an official\nhas a 10 percent or greater interest is income to the official,²\nwithin the meaning of the Act.  Government Code Section 82030.²\nThus a pro rata share both of the total gross income of a busi-\nness entity in which an official has a 10 percent or greater\ninterest, and of any loan or other payment to the business entity,\nis income to the official.\n\n\n     An official has to report his or her pro rata share of\nincome to a business entity in two ways.  First, the official\nhas to report a pro rata share of the total gross income (including\n\n_______________________________\n  1/If the official is filing under a conflict of interest\ncode, I am assuming that investments in and income from this\ntype of business entity is reportable under the Code.\n\n  2/All statutory references are to the Government Code unless\notherwise stated.\n\nHarvey Levine, City Attorney\nFebruary 10, 1982\nPage Two\n\n\nloans) of the business entity as income on Schedule D.  Second,\nunder Section 87207(b), the official has to report the name of\neach person who makes payment to a business entity if the official's\npro rata share of the payment is $10,000 or more.  Since the\nterm \"payment\" is explicitly defined to include a loan, Section\n82030, and since the term \"person\" includes institutions, such\nas banks, which make loans, Section 82047, an official has to\nreport a loan to a business entity under this section if his or\nher pro rata share of the loan is $10,000 or more.  This should\nbe reported on Schedule H by officials filing Form 721, and on\nSchedule G by officials filing Form 730.\n\nI hope this answers your questions.  If you have any further\nquestions about the disclosure requirements of the Act, please\nfeel free to contact either Ms. Hughes (916/322-6444) or me\n(916/322-5901) for advice.\n\nVery truly yours,\n\nBarbara A. Milman\nChief\nLegal Division\n\nBAM:plh",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1982-02-10",
+    "date_raw": "February 10, 1982",
+    "requestor_name": "Levine",
+    "requestor_title": "City Attorney",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Must an official report the name of a lender to a business entity on their Statement of Economic Interests, and under what conditions?",
+    "conclusion_synthetic": "An official must report a lender's name on their Statement of Economic Interests if the official has a direct or indirect interest of 10% or more in the business entity AND the official's pro rata share of the loan is $10,000 or more. The loan should be reported on Schedule H (Form 721) or Schedule G (Form 730), and the pro rata share of the loan income must also be reported on Schedule D.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: No formal QUESTION or CONCLUSION section headers present; question and conclusion extracted from letter body. Document dated February 10, 1982, responding to inquiry forwarded by Alice Hughes. References Government Code sections 82030, 82047, and 87207(b). Includes footnotes regarding conflict of interest codes and statutory references."
+  },
+  "citations": {
+    "government_code": [
+      "82030",
+      "82047",
+      "87207(b)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T16:30:35.216519Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Must an official report the name of a lender to a business entity on their Statement of Economic Interests, and under what conditions?\n\nCONCLUSION: An official must report a lender's name on their Statement of Economic Interests if the official has a direct or indirect interest of 10% or more in the business entity AND the official's pro rata share of the loan is $10,000 or more. The loan should be reported on Schedule H (Form 721) or Schedule G (Form 730), and the pro rata share of the loan income must also be reported on Schedule D.",
+    "qa_source": "synthetic",
+    "first_500_words": "February 10, 1982 Harvey Levine, City Attorney City of Pleasanton P.O. Box 520 Pleasanton, CA 94566 Dear Mr. Levine: I am writing in response to your question to Alice Hughes regarding the reportability of a loan to a business entity. The staff has reviewed this question, and has determined that the name of a lender to a business entity must be reported on an official's Statement of Economic Interests if: (1) The official has a direct or indirect interest of 10 percent or more in the business entity; and (2) The official's pro rata share of the loan is $10,000 or more. Under the Political Reform Act, the term income includes all payments received, including loans. In addition, the pro rata share of any income of a business entity in which an official has a 10 percent or greater interest is income to the official within the meaning of the Act. Government Code Section 82030. Thus a pro rata share both of the total gross income of a business entity in which an official has a 10 percent or greater interest, and of any loan or other payment to the business entity, is income to the official. An official has to report his or her pro rata share of income to a business entity in two ways. First, the official has to report a pro rata share of the total gross income (including 1/ If the official is filing under a conflict of interest code, I am assuming that investments in and income from this type of business entity is reportable under the Code. 2/ All statutory references are to the Government Code unless otherwise stated. loans) of the business entity as income on Schedule D. Second, under Section 87207(b), the official has to report the name of each person who makes payment to a business entity if the official's pro rata share of the payment is $10,000 or more. Since the term \"payment\" is explicitly defined to include a loan, Section 82030, and since the term \"person\" includes institutions, such as banks, which make loans, Section 82047, an official has to report a loan to a business entity under this section if his or her pro rata share of the loan is $10,000 or more. This should be reported on Schedule H by officials filing Form 721, and on Schedule G by officials filing Form 730. I hope this answers your questions. If you have any further questions about the disclosure requirements of the Act, please feel free to contact either Ms. Hughes (916/322-6444) or me (916/322-5901) for advice. Very truly yours, Barbara A. Milman Chief Legal Division BAM:plh",
+    "summary": "FPPC Chief Milman responds to City Attorney Levine regarding reportability of loans to business entities, clarifying that lender names and pro rata shares of loans must be reported when an official has a 10%+ interest and their share exceeds $10,000."
+  }
+}

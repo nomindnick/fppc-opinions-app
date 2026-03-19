@@ -1,0 +1,73 @@
+{
+  "id": "76ADV-247",
+  "year": 1976,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1976/76ADV-247.PDF",
+  "pdf_sha256": "392b68eaa1ae81fbb07d8ecf77dbd0a565a2d2d122f8c53717b7f12b0ce3963c",
+  "local_pdf_path": "raw_pdfs/1976/76ADV-247.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1976ADV Advice Letter # 76ADV-247",
+    "tags": [
+      "1976",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:17:32",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1976&tagCount=1&page=40"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:21.355917Z",
+    "page_count": 3,
+    "word_count": 417,
+    "char_count": 2724,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 417
+  },
+  "content": {
+    "full_text": "of CaliforIlia \nir Political \n'actices Commissioll \n••• 1100 K STREET BUILDING, SACRAMENTO, 95814 \nSeptember 28, 1976 \nMr. Robert W. Kelly \nDeputy City Attorney \nCity of San Bernardino \n300 North \"0\" Street \nSan Bernardino, California 92418 \nDear Mr. Kelly: \nThank you for your letter of September 1, 1976, inquiring \nabout the development of Conflict of Interest Codes for city \nagencies and the appropriate Code reviewing body for the \"Civic \nCenter Authori ty\" • \nA package of materials outlining various model Codes and \ninstructions for developing Conflict of Interest Codes will be \nled to you shortly, including materials explaining recent \nCommission actions regarding development of Conflict of Interest \nCodes. \nThe Commission has not undertaken any projects toward \ndeveloping specific Codes for various City departments; \nhowever, the methods of categorizing various designated \nemployees will be set forth in each of the model Codes \ntransmitted in the package of materials your City will \nsoon be receiving. \nYou ask, in addition, who is the Code reviewing body for \nthe Civic Center Authority, which is created and \ntered \nby a joint powers agreement between the City of San Bernardino, \nthe Redevelopment Agency of \nCity of San \nthe \nCounty of San Bernardino. \nGovernment Code §82011 provides: \n82011. \n\"Code \nII means: \n(b) The Board of \nto the Conflict \nSupervisors, with respect \nCode of any county \nof Supervisors, \n, other \nly \nthin \n\n\nRobert W. Kelly \nSeptember 28, 1976 \nPage Two \nBased upon this portion of the Government Code, it is \nclear that the Conflict of Interest Code of the San Bernar-\ndino Civic Center Authority will be reviewed by the Board \nof Supervisors. \nIf I may be of further assistance to you in any regard, \nplease feel free to call me at 916/322-6444. \nDLS:gb \nSincerely, \nDelbert L. Spurlock, Jr., Chief \nConflicts of Interest Division \n\n\nRALPH H. PRINCE \nCITY ATTORNEY \nSeptember I, 1976 \n11.54 \nFair Political Practices Commission \n926 \"J\" Street, Suite 522 \nSacramento, California \n95814 \nRe: \nConflict of Interest Code \nGentlemen: \nIt would be appreciated if you would forward proposed \nConflict of Interest Codes for various city departments. \nWe are especially interested in methods of categorizing \nthe various \"designated employees\". \nAdditionally, \nCity of San Bernardino, the Redevelop-\nment Agency of the City of San Bernardino \nthe County \nof San Bernardino have entered into a joint powers agree-\nment creating the San Bernardino Civic Center Authority. \nThat body has acquired, constructed and leased public \nbuildings. \nvJho is the Code Revievling Body for the Civic \nCenter Authority? \nRWK:ld \nVery truly yours, \n~W.l<~ \nROBERT \n~V. KELLY \nDeputy City Attorney \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1976-09-28",
+    "date_raw": "September 28, 1976",
+    "requestor_name": "Kelly",
+    "requestor_title": "City Attorney",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "It would be appreciated if you would forward proposed Conflict of Interest Codes for various city departments. We are especially interested in methods of categorizing the various \"designated employees\". Additionally, City of San Bernardino, the Redevelopment Agency of the City of San Bernardino and the County of San Bernardino have entered into a joint powers agreement creating the San Bernardino Civic Center Authority. That body has acquired, constructed and leased public buildings. Who is the Code Reviewing Body for the Civic Center Authority?",
+    "conclusion": "Based upon this portion of the Government Code, it is clear that the Conflict of Interest Code of the San Bernardino Civic Center Authority will be reviewed by the Board of Supervisors.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The Deputy City Attorney of San Bernardino requests FPPC model Conflict of Interest Codes with guidance on categorizing designated employees, and asks which body should review the Conflict of Interest Code for a Civic Center Authority created by joint powers agreement between the city, redevelopment agency, and county.",
+    "conclusion_synthetic": "The FPPC determined that the Board of Supervisors is the appropriate Code reviewing body for the Civic Center Authority, as established by Government Code §82011. The FPPC also committed to sending model Conflict of Interest Codes and materials explaining methods of categorizing designated employees.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document includes both the incoming request letter (dated September 1, 1976) and FPPC response (dated September 28, 1976). QUESTION and CONCLUSION sections were extracted verbatim from the incoming request and response respectively. Document uses government code citation and formal advice format typical of FPPC letters."
+  },
+  "citations": {
+    "government_code": [
+      "82011"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:37:21.355917Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: It would be appreciated if you would forward proposed Conflict of Interest Codes for various city departments. We are especially interested in methods of categorizing the various \"designated employees\". Additionally, City of San Bernardino, the Redevelopment Agency of the City of San Bernardino and the County of San Bernardino have entered into a joint powers agreement creating the San Bernardino Civic Center Authority. That body has acquired, constructed and leased public buildings. Who is the Code Reviewing Body for the Civic Center Authority?\n\nCONCLUSION: Based upon this portion of the Government Code, it is clear that the Conflict of Interest Code of the San Bernardino Civic Center Authority will be reviewed by the Board of Supervisors.",
+    "qa_source": "mixed",
+    "first_500_words": "of CaliforIlia ir Political 'actices Commissioll ••• 1100 K STREET BUILDING, SACRAMENTO, 95814 September 28, 1976 Mr. Robert W. Kelly Deputy City Attorney City of San Bernardino 300 North \"0\" Street San Bernardino, California 92418 Dear Mr. Kelly: Thank you for your letter of September 1, 1976, inquiring about the development of Conflict of Interest Codes for city agencies and the appropriate Code reviewing body for the \"Civic Center Authori ty\" • A package of materials outlining various model Codes and instructions for developing Conflict of Interest Codes will be led to you shortly, including materials explaining recent Commission actions regarding development of Conflict of Interest Codes. The Commission has not undertaken any projects toward developing specific Codes for various City departments; however, the methods of categorizing various designated employees will be set forth in each of the model Codes transmitted in the package of materials your City will soon be receiving. You ask, in addition, who is the Code reviewing body for the Civic Center Authority, which is created and tered by a joint powers agreement between the City of San Bernardino, the Redevelopment Agency of City of San the County of San Bernardino. Government Code §82011 provides: 82011. \"Code II means: (b) The Board of to the Conflict Supervisors, with respect Code of any county of Supervisors, , other ly thin Robert W. Kelly September 28, 1976 Page Two Based upon this portion of the Government Code, it is clear that the Conflict of Interest Code of the San Bernar- dino Civic Center Authority will be reviewed by the Board of Supervisors. If I may be of further assistance to you in any regard, please feel free to call me at 916/322-6444. DLS:gb Sincerely, Delbert L. Spurlock, Jr., Chief Conflicts of Interest Division RALPH H. PRINCE CITY ATTORNEY September I, 1976 11.54 Fair Political Practices Commission 926 \"J\" Street, Suite 522 Sacramento, California 95814 Re: Conflict of Interest Code Gentlemen: It would be appreciated if you would forward proposed Conflict of Interest Codes for various city departments. We are especially interested in methods of categorizing the various \"designated employees\". Additionally, City of San Bernardino, the Redevelop- ment Agency of the City of San Bernardino the County of San Bernardino have entered into a joint powers agree- ment creating the San Bernardino Civic Center Authority. That body has acquired, constructed and leased public buildings. vJho is the Code Revievling Body for the Civic Center Authority? RWK:ld Very truly yours, ~W.l<~ ROBERT ~V. KELLY Deputy City Attorney",
+    "summary": "FPPC Chief Delbert L. Spurlock, Jr. responded to San Bernardino's Deputy City Attorney regarding Conflict of Interest Code development and identified the Board of Supervisors as the appropriate reviewing body for the Civic Center Authority created by joint powers agreement. The FPPC also committed to providing model Codes and categorization guidance materials."
+  }
+}

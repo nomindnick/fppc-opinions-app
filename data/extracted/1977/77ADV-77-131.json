@@ -1,0 +1,77 @@
+{
+  "id": "77ADV-77-131",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-131.PDF",
+  "pdf_sha256": "c9a05069d02b2134512620a8036b912f2fd6a0dd4adb9fb846546fc3bbf145d8",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-131.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-131",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:21:35",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=36"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T12:34:20.530378Z",
+    "page_count": 2,
+    "word_count": 490,
+    "char_count": 2981,
+    "quality_score": 0.9858284811187249,
+    "olmocr_cost": 0.00920286,
+    "native_word_count": 530,
+    "haiku_cost": 0.0054832
+  },
+  "content": {
+    "full_text": "State of California\nFair Political Practices Commission\nPO BOX 607 · SACRAMENTO, 95804 · · 1100 K STREET BUILDING, SACRAMENTO, 95814\n\nNov 12, 1977\n\nMs. Marilyn Mayer\nc/o Office of the Attorney General\n3580 Wilshire Boulevard\nLos Angeles, California 90010\n\nDear Ms. Mayer:\n\nThis letter is in further reference to our telephone conversation\nof May 10. Enclosed please find opinion request #77-010 which involves\nthe use of a blind trust to avoid the necessity of disqualification of\na public official under the Political Reform Act of 1974 and a conflict\nof interest code promulgated pursuant to that Act. As we discussed,\nthere are several possible conclusions the Commission might arrive at\nin analyzing the subject, to wit: that blind trusts can never negate\nthe provisions of Government Code Section 87100; that they do in all\ncircumstances; or that they is a middle ground with certain guidelines\nbeing enunciated. At any rate, the question is an open one and the\nstaff would certainly appreciate your views or comments on the matter.\nI will keep you informed of the progress of the opinion request. You\nmight also wish to consider submitting an opinion request yourself to the\nextent you anticipate the actual matter materially differing from the facts\npresented in the attached materials.\n\nWe also discussed the Moody opinion about pension plans. I have\nreviewed the opinion and in the context relevant to our discussion\nwe discussed. It held that receipt of retirement benefits from a county\nretirement system did not prevent a retired member of the system from\nacting as a member of an agency dealing with administration of the system.\nThe payments were found to be an expansion of the employee's \"salary\"\nand hence defined not to be \"income\" within the meaning of the Political\nReform Act. See, Government Code Section 82016(1)(2).\n\nThe opinion, nor any advice previously issued by the Commission, did\nnot discuss the effect of contributions to a pension fund as opposed to\nreceipt of payments from such a fund. Government Code Section 82030\ndoes, however, define as \"income\", \"contribution to an insurance or pension\nprogram paid by any person other than an employer (emphasis supplied).\nThe implication clearly is that if the employer pays such contributions\nthey are not income to the employee. Thus, the question of who is the\nstewards employer may be crucial. If you request an opinion or advice on\nthat question, you should be prepared to submit to the Commission as much\ninformation as possible to consider that problem.\n\np. 31\n\nTECHNICAL ASSISTANCE ADMINISTRATION 916 ·· 95\n\nMs. Marilyn Mayer\nMay 12, 1977\npage two\n\nIn light of the unresolved state of these issues, you may desire to\nrequest an opinion and/or advice of the Commission pursuant to Government\nCode Section 83114. If I can be of assistance in that or any matter, please\ncall me at (916) 322-6444.\n\nSincerely,\n\nKenneth W. Godwin\nResearch Specialist III\nConflicts of Interest Division\n\nKWG:mfa\nenclosure",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1977-05-12",
+    "date_raw": "May 12, 1977",
+    "requestor_name": "Mayer",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The document discusses issues related to blind trusts and whether they can negate disqualification requirements under the Political Reform Act, and whether employer-paid pension contributions constitute 'income' under Government Code Section 82030.",
+    "conclusion_synthetic": "The FPPC staff indicates the blind trust question remains open with multiple possible outcomes, notes that prior Moore opinion regarding pension benefits is distinguishable because it addressed receipt of retirement benefits (not contributions), and clarifies that Government Code Section 82030 defines employer-paid pension contributions as not income, leaving the determination of employer status as crucial.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.75,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is correspondence rather than formal advice letter response; no formal QUESTION or CONCLUSION sections present; letter references an enclosed opinion request and discusses potential legal positions without issuing final binding advice; tone is consultative rather than advisory"
+  },
+  "citations": {
+    "government_code": [
+      "82030",
+      "82030(b)(2)",
+      "83114",
+      "87100"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.75,
+    "classified_at": "2026-02-07T17:11:17.970227Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The document discusses issues related to blind trusts and whether they can negate disqualification requirements under the Political Reform Act, and whether employer-paid pension contributions constitute 'income' under Government Code Section 82030.\n\nCONCLUSION: The FPPC staff indicates the blind trust question remains open with multiple possible outcomes, notes that prior Moore opinion regarding pension benefits is distinguishable because it addressed receipt of retirement benefits (not contributions), and clarifies that Government Code Section 82030 defines employer-paid pension contributions as not income, leaving the determination of employer status as crucial.",
+    "qa_source": "synthetic",
+    "first_500_words": "May 12, 1977 Ms. Marilyn Mayer c/o Office of the Attorney General 3580 Wilshire Boulevard Los Angeles, California 90010 Dear Ms. Mayer: This letter is in further reference to our telephone conversation of May 10. Enclosed please find opinion request #77-010 which involves the use of a blind trust to avoid the necessity of disqualification of a public official under the Political Reform Act of 1974 and a conflict of interest code promulgated pursuant to that Act. As we discussed, there are several possible conclusions the Commission might arrive at in analyzing the subject, to wit: that blind trusts can never negate the provisions of Government Code Section 87100; that they do in all circumstances; or that there is a middle ground with certain guidelines being enunciated. At any rate, the question is an open one and the staff would certainly appreciate your views or comments on the matter. I will keep you informed of the progress of the opinion request. You might also wish to consider submitting an opinion request yourself to the extent you anticipate the CHIRB matter materially differing from the facts presented in the attached materials. We also discussed the Moore opinion about pension plans. I have reviewed that opinion and it does not appear relevant to the circumstances we discussed. It held that receipt of retirement benefits from a county retirement system did not prevent a retired member of the system from acting as a member of an agency dealing with administration of the system. The payments were found to be an extension of the employee's \"salary\" and hence defined not to be \"income\" within the meaning of the Political Reform Act. See, Government Code Section 82030(b)(2). The opinion, nor any advice previously issued by the Commission, did not discuss the effect of contributions to a pension fund as opposed to receipt of payments from such a fund. Government Code Section 82030 does, however, define as \"income\", \"contribution to an insurance or pension program paid by any person other than an employer (emphasis supplied). The implication clearly is that if the employer pays such contributions they are not income to the employee. Thus, the question of who is the stewards employer may be crucial. If you request an opinion or advice on that question, you should be prepared to submit to the Commission as much information as possible concerning that problem. Ms. Marilyn Mayer May 12, 1977 page two In light of the unresolved state of these issues, you may desire to request an opinion and/or advice of the Commission pursuant to Government Code Section 83114. If I can be of assistant in that or any matter, please call me at (916) 322-6444. Sincerely, Kenneth W. Goshorn Research Specialist III Conflicts of Interest Division KWG:mfa enclosure",
+    "summary": "This is a follow-up letter from FPPC Research Specialist Kenneth Goshorn to Ms. Marilyn Mayer regarding ongoing analysis of opinion request #77-010 concerning blind trusts and conflict of interest disqualification under the Political Reform Act, along with discussion of pension contributions and income definitions."
+  }
+}

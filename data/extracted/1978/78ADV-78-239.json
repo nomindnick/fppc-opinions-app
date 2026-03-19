@@ -1,0 +1,73 @@
+{
+  "id": "78ADV-78-239",
+  "year": 1978,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1978/78ADV-78-239.PDF",
+  "pdf_sha256": "46651ba03dacc2f6bdebbbbe6ed0ab14c2b89e9617a818d3589601e29324096a",
+  "local_pdf_path": "raw_pdfs/1978/78ADV-78-239.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1978ADV Advice Letter # 78ADV-78-239",
+    "tags": [
+      "Advice Letter",
+      "1978"
+    ],
+    "scraped_at": "2026-01-31 15:23:08",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=4"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-07T16:55:29.285080Z",
+    "page_count": 1,
+    "word_count": 131,
+    "char_count": 823,
+    "quality_score": 0.5975,
+    "olmocr_cost": 0.0025241,
+    "native_word_count": 9
+  },
+  "content": {
+    "full_text": "August 28, 1978\n\nMr. James Morton Gass  \nCalifornia Association of Independent Business, Inc.  \nPost Office Box 1304  \nOntario, California 91762\n\nDear Mr. Gass:\n\nThank you for your letter of August 19, 1978. In that letter you asked whether the Political Reform Act contained any restrictions which would prevent you, as a registered lobbyist, from being appointed to a board or bureau within the Department of Consumer Affairs.\n\nThe Act contains no provisions which would preclude a registered lobbyist from becoming a member of a state board or bureau. However, a lobbyist would remain subject to the prohibitions in Sections 86200 through 86205 of the Act while a member of a state board or bureau.\n\nIf I can be of further assistance please contact me.\n\nSincerely,\n\nJ. Richard Eichman  \nCompliance Representative\n\nJRE:bw",
+    "full_text_markdown": "August 28, 1978\n\nMr. James Morton Gass  \nCalifornia Association of Independent Business, Inc.  \nPost Office Box 1304  \nOntario, California 91762\n\nDear Mr. Gass:\n\nThank you for your letter of August 19, 1978. In that letter you asked whether the Political Reform Act contained any restrictions which would prevent you, as a registered lobbyist, from being appointed to a board or bureau within the Department of Consumer Affairs.\n\nThe Act contains no provisions which would preclude a registered lobbyist from becoming a member of a state board or bureau. However, a lobbyist would remain subject to the prohibitions in Sections 86200 through 86205 of the Act while a member of a state board or bureau.\n\nIf I can be of further assistance please contact me.\n\nSincerely,\n\nJ. Richard Eichman  \nCompliance Representative\n\nJRE:bw"
+  },
+  "parsed": {
+    "date": "1978-08-28",
+    "date_raw": "August 28, 1978",
+    "requestor_name": "Gass",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Whether the Political Reform Act contained any restrictions which would prevent you, as a registered lobbyist, from being appointed to a board or bureau within the Department of Consumer Affairs.",
+    "conclusion": "The Act contains no provisions which would preclude a registered lobbyist from becoming a member of a state board or bureau. However, a lobbyist would remain subject to the prohibitions in Sections 86200 through 86205 of the Act while a member of a state board or bureau.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Does the California Political Reform Act prohibit a registered lobbyist from being appointed to a state board or bureau within the Department of Consumer Affairs?",
+    "conclusion_synthetic": "The Political Reform Act does not prohibit a registered lobbyist from serving on a state board or bureau, but such a person would remain subject to the restrictions in Sections 86200-86205 of the Act.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Standard advice letter format with clear question and conclusion. Document lacks formal section headers but contains identifiable Q/C content in body paragraphs."
+  },
+  "citations": {
+    "government_code": [
+      "86200"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "lobbying",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T16:55:29.285080Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether the Political Reform Act contained any restrictions which would prevent you, as a registered lobbyist, from being appointed to a board or bureau within the Department of Consumer Affairs.\n\nCONCLUSION: The Act contains no provisions which would preclude a registered lobbyist from becoming a member of a state board or bureau. However, a lobbyist would remain subject to the prohibitions in Sections 86200 through 86205 of the Act while a member of a state board or bureau.",
+    "qa_source": "mixed",
+    "first_500_words": "August 28, 1978 Mr. James Morton Gass California Association of Independent Business, Inc. Post Office Box 1304 Ontario, California 91762 Dear Mr. Gass: Thank you for your letter of August 19, 1978. In that letter you asked whether the Political Reform Act contained any restrictions which would prevent you, as a registered lobbyist, from being appointed to a board or bureau within the Department of Consumer Affairs. The Act contains no provisions which would preclude a registered lobbyist from becoming a member of a state board or bureau. However, a lobbyist would remain subject to the prohibitions in Sections 86200 through 86205 of the Act while a member of a state board or bureau. If I can be of further assistance please contact me. Sincerely, J. Richard Eichman Compliance Representative JRE:bw",
+    "summary": "FPPC advises that the Political Reform Act contains no provisions precluding a registered lobbyist from being appointed to a state board or bureau, though such a person would remain subject to specified restrictions in the Act."
+  }
+}

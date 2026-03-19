@@ -1,0 +1,76 @@
+{
+  "id": "01-259",
+  "year": 2001,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2001/01-259.pdf",
+  "pdf_sha256": "9a2de4f527682dc426e692765e08d70055c9cd1c547737481c725fb3eb59dd14",
+  "local_pdf_path": "raw_pdfs/2001/01-259.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2001 Advice Letter # 01-259",
+    "tags": [
+      "2001",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:53:14",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2001&tagCount=1&page=29"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T14:32:13.575916Z",
+    "page_count": 1,
+    "word_count": 138,
+    "char_count": 929,
+    "quality_score": 0.8637726700984489,
+    "olmocr_cost": 0.0025791399999999997,
+    "native_word_count": 162
+  },
+  "content": {
+    "full_text": "November 1, 2001\n\nMonika Hudson\nCity of East Palo Alto\nCity Manager/City Clerk\n2415 University Ave.\nEast Palo Alto, CA 94303\n\nRe: Your Request for Advice\nOur File No. W-01-259\n\nDear Ms. Hudson:\n\nThis correspondence is written confirmation that you have requested, through the city attorney for East Palo Alto, that the Fair Political Practices Commission (\"FPPC\") withdraw your October 26, 2001 request for advice under the provisions of the Political Reform Act.¹\n\nEnclosed is a copy of Regulation 18329 for your information. Should you have any additional questions regarding this matter, please contact me at (916) 322-5660.\n\nSincerely,\n\nLuisa Menchaca\nGeneral Counsel\n\nBy: William L. Williams, Jr.\nStaff Counsel, Legal Division\n\nWLW:jg\ncc: Michael Lawson, City Attorney\n\nEnclosure\n\n1. Government Code sections 81000-91014. Commission regulations appear at Title 2, sections 18109-18997, of the California Code of Regulations.",
+    "full_text_markdown": "November 1, 2001\n\nMonika Hudson\nCity of East Palo Alto\nCity Manager/City Clerk\n2415 University Ave.\nEast Palo Alto, CA 94303\n\nRe: Your Request for Advice\nOur File No. W-01-259\n\nDear Ms. Hudson:\n\nThis correspondence is written confirmation that you have requested, through the city attorney for East Palo Alto, that the Fair Political Practices Commission (\"FPPC\") withdraw your October 26, 2001 request for advice under the provisions of the Political Reform Act.¹\n\nEnclosed is a copy of Regulation 18329 for your information. Should you have any additional questions regarding this matter, please contact me at (916) 322-5660.\n\nSincerely,\n\nLuisa Menchaca\nGeneral Counsel\n\nBy: William L. Williams, Jr.\nStaff Counsel, Legal Division\n\nWLW:jg\ncc: Michael Lawson, City Attorney\n\nEnclosure\n\n1. Government Code sections 81000-91014. Commission regulations appear at Title 2, sections 18109-18997, of the California Code of Regulations."
+  },
+  "parsed": {
+    "date": "2001-11-01",
+    "date_raw": "November 1, 2001",
+    "requestor_name": "Hudson",
+    "requestor_title": "city attorney",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [
+      "18109",
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-20T14:32:13.575916Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "November 1, 2001 Monika Hudson City of East Palo Alto City Manager/City Clerk 2415 University Ave. East Palo Alto, CA 94303 Re: Your Request for Advice Our File No. W-01-259 Dear Ms. Hudson: This correspondence is written confirmation that you have requested, through the city attorney for East Palo Alto, that the Fair Political Practices Commission (\"FPPC\") withdraw your October 26, 2001 request for advice under the provisions of the Political Reform Act.¹ Enclosed is a copy of Regulation 18329 for your information. Should you have any additional questions regarding this matter, please contact me at (916) 322-5660. Sincerely, Luisa Menchaca General Counsel By: William L. Williams, Jr. Staff Counsel, Legal Division WLW:jg cc: Michael Lawson, City Attorney Enclosure 1. Government Code sections 81000-91014. Commission regulations appear at Title 2, sections 18109-18997, of the California Code of Regulations.",
+    "qa_source": "extracted",
+    "first_500_words": "November 1, 2001 Monika Hudson City of East Palo Alto City Manager/City Clerk 2415 University Ave. East Palo Alto, CA 94303 Re: Your Request for Advice Our File No. W-01-259 Dear Ms. Hudson: This correspondence is written confirmation that you have requested, through the city attorney for East Palo Alto, that the Fair Political Practices Commission (\"FPPC\") withdraw your October 26, 2001 request for advice under the provisions of the Political Reform Act.¹ Enclosed is a copy of Regulation 18329 for your information. Should you have any additional questions regarding this matter, please contact me at (916) 322-5660. Sincerely, Luisa Menchaca General Counsel By: William L. Williams, Jr. Staff Counsel, Legal Division WLW:jg cc: Michael Lawson, City Attorney Enclosure 1. Government Code sections 81000-91014. Commission regulations appear at Title 2, sections 18109-18997, of the California Code of Regulations.",
+    "summary": null
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "76189",
+  "year": 1976,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1976/76189.PDF",
+  "pdf_sha256": "afa1a6014ab2bd43c6388df5082c3f78ced92853fad201d60398ec79a0d9f9b4",
+  "local_pdf_path": "raw_pdfs/1976/76189.PDF",
+  "source_metadata": {
+    "title_raw": "TUNNEY, GENE Year: 1976 Advice Letter # 76189",
+    "tags": [
+      "1976",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:15:24",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1976&tagCount=1&page=11"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-07T17:14:55.213660Z",
+    "page_count": 1,
+    "word_count": 181,
+    "char_count": 1161,
+    "quality_score": 0.6325000000000001,
+    "olmocr_cost": 0.00258602,
+    "native_word_count": 19
+  },
+  "content": {
+    "full_text": "June 7, 1976\n\nMr. Gene L. Tunney  \nDistrict Attorney  \nCounty of Sonoma  \nP.O. Box 1964  \nSanta Rosa, California 95403\n\nDear Mr. Tunney:\n\nThis letter is in response to your inquiry of June 2, 1976, concerning the filing of financial disclosure statements by district attorneys.\n\nThe instruction manuals to which you refer were prepared in January 1976. Since district attorneys were only recently brought under the filing requirements of Government Code Sections 87200, the manuals do not indicate where their reports should be filed. We furnished the manuals to you simply for information concerning your disclosure requirements, which are the same as those of officials listed in the manuals. I'm enclosing a copy of Assembly Bill 809 in which you will note that Section 81005(g) states that all statements required by Chapter 7 (Conflicts of Interest) must be filed with the agency. Our office is interpreting \"agency\" in the case of district attorneys to be the office of the district attorney.\n\nIf we can be of further assistance, please contact our staff.\n\nSincerely,\n\nNAN HAMBLETON  \nSpecial Compliance Representative\n\nNH:mak  \nEnclosure  \n\nbcc: Jeanne-A",
+    "full_text_markdown": "June 7, 1976\n\nMr. Gene L. Tunney  \nDistrict Attorney  \nCounty of Sonoma  \nP.O. Box 1964  \nSanta Rosa, California 95403\n\nDear Mr. Tunney:\n\nThis letter is in response to your inquiry of June 2, 1976, concerning the filing of financial disclosure statements by district attorneys.\n\nThe instruction manuals to which you refer were prepared in January 1976. Since district attorneys were only recently brought under the filing requirements of Government Code Sections 87200, the manuals do not indicate where their reports should be filed. We furnished the manuals to you simply for information concerning your disclosure requirements, which are the same as those of officials listed in the manuals. I'm enclosing a copy of Assembly Bill 809 in which you will note that Section 81005(g) states that all statements required by Chapter 7 (Conflicts of Interest) must be filed with the agency. Our office is interpreting \"agency\" in the case of district attorneys to be the office of the district attorney.\n\nIf we can be of further assistance, please contact our staff.\n\nSincerely,\n\nNAN HAMBLETON  \nSpecial Compliance Representative\n\nNH:mak  \nEnclosure  \n\nbcc: Jeanne-A"
+  },
+  "parsed": {
+    "date": "1976-06-07",
+    "date_raw": "June 7, 1976",
+    "requestor_name": "Tunney",
+    "requestor_title": "District Attorney",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Where should district attorneys file their financial disclosure statements under Government Code Section 87200?",
+    "conclusion_synthetic": "District attorneys must file their financial disclosure statements with their own office (the office of the district attorney), as 'agency' is interpreted to mean the district attorney's office under Section 81005(g) of Assembly Bill 809.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: No formal QUESTION or CONCLUSION sections present; question and conclusion reconstructed from letter body. Document is a formal advice letter response dated June 7, 1976, referencing recent changes to filing requirements under Government Code Sections 87200 and AB 809."
+  },
+  "citations": {
+    "government_code": [
+      "81005(g)",
+      "87200"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-07T17:14:55.213660Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Where should district attorneys file their financial disclosure statements under Government Code Section 87200?\n\nCONCLUSION: District attorneys must file their financial disclosure statements with their own office (the office of the district attorney), as 'agency' is interpreted to mean the district attorney's office under Section 81005(g) of Assembly Bill 809.",
+    "qa_source": "synthetic",
+    "first_500_words": "June 7, 1976 Mr. Gene L. Tunney District Attorney County of Sonoma P.O. Box 1964 Santa Rosa, California 95403 Dear Mr. Tunney: This letter is in response to your inquiry of June 2, 1976, concerning the filing of financial disclosure statements by district attorneys. The instruction manuals to which you refer were prepared in January 1976. Since district attorneys were only recently brought under the filing requirements of Government Code Sections 87200, the manuals do not indicate where their reports should be filed. We furnished the manuals to you simply for information concerning your disclosure requirements, which are the same as those of officials listed in the manuals. I'm enclosing a copy of Assembly Bill 809 in which you will note that Section 81005(g) states that all statements required by Chapter 7 (Conflicts of Interest) must be filed with the agency. Our office is interpreting \"agency\" in the case of district attorneys to be the office of the district attorney. If we can be of further assistance, please contact our staff. Sincerely, NAN HAMBLETON Special Compliance Representative NH:mak Enclosure bcc: Jeanne-A",
+    "summary": "FPPC responds to District Attorney Gene Tunney regarding the filing location for financial disclosure statements by district attorneys, clarifying that statements should be filed with the district attorney's office itself."
+  }
+}

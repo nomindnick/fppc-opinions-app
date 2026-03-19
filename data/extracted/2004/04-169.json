@@ -1,0 +1,75 @@
+{
+  "id": "04-169",
+  "year": 2004,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2004/04-169.pdf",
+  "pdf_sha256": "c17a5888a9ab5130bdfd50409e8a4f17fffe79e35c9f42d6d825c64fd0d5c2c4",
+  "local_pdf_path": "raw_pdfs/2004/04-169.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2004 Advice Letter # 04-169",
+    "tags": [
+      "2004",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:40:13",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2004&tagCount=1&page=3"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:15.883540Z",
+    "page_count": 1,
+    "word_count": 172,
+    "char_count": 1125,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 172
+  },
+  "content": {
+    "full_text": "Fern Polrrrcel PnecrrcEs CouurssroN\n428 J Street o Suite 620 o Sacramento, CA gigl4-2329\n(916) 322-56ffi o Fax (916) 322-0886\nAugust 5,2004\nCharles Wachob, City Attorney\nCity ofAuburn\n1225 Lincoln Way\nAuburn, CA 95603\nRe: Your Request for Advice\nOur File No. \\M-04-169\nDear Mr. Wachob:\nThis letter addresses your request for written advice on the clarification of an\nadvisory letter issued to Mayor Cheryl Maki on the provisions of the political Reform\nAct.r After a careful review of the falts you have rrib*itt\"d, we decline to provide\nwritten advice at this time. Your questions involve analysis of facts which have already\noccurred, such that issuing written advice at this time would relate to past conduct, a\ncircumstance prohibited by regulation 1g329(bXsXA) and (c)(a)(A), copy enclosed.\nShould you have any additional questions on this rnatter, please contact the\nCommission at (916) 322-5660.\nSincerely,\nLuisa Menchaca\nCounsel\nWallace\nGeneral Counsel\nEnclosure\nJWwjg\nI Govemment Code sections 81000-91014. Commission regulations appear at Title 2, sections\n18109-18996, of the Califomia Code of Regulations.\nJ\nAssi\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2004-08-05",
+    "date_raw": "August 5,2004",
+    "requestor_name": "Wachob",
+    "requestor_title": "City Attorney",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "After a careful review of the facts you have submitted, we decline to provide written advice at this time. Your questions involve analysis of facts which have already occurred, such that issuing written advice at this time would relate to past conduct, a circumstance prohibited by regulation 18329(b)(5)(A) and (c)(1)(A).",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The City Attorney requested written advice clarifying a prior advisory letter issued to Mayor Cheryl Maki regarding provisions of the Political Reform Act.",
+    "conclusion_synthetic": "The FPPC declines to issue written advice because the questions concern past conduct, which is prohibited by regulation 18329(b)(5)(A) and (c)(1)(A).",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is a declination letter with no formal QUESTION or CONCLUSION sections. Conclusion text extracted from body paragraph. No section headers found as noted in parsing instructions. Document includes regulatory citations supporting the declination."
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [
+      "18109"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:34:15.883540Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The City Attorney requested written advice clarifying a prior advisory letter issued to Mayor Cheryl Maki regarding provisions of the Political Reform Act.\n\nCONCLUSION: After a careful review of the facts you have submitted, we decline to provide written advice at this time. Your questions involve analysis of facts which have already occurred, such that issuing written advice at this time would relate to past conduct, a circumstance prohibited by regulation 18329(b)(5)(A) and (c)(1)(A).",
+    "qa_source": "mixed",
+    "first_500_words": "Fern Polrrrcel PnecrrcEs CouurssroN 428 J Street o Suite 620 o Sacramento, CA gigl4-2329 (916) 322-56ffi o Fax (916) 322-0886 August 5,2004 Charles Wachob, City Attorney City ofAuburn 1225 Lincoln Way Auburn, CA 95603 Re: Your Request for Advice Our File No. \\M-04-169 Dear Mr. Wachob: This letter addresses your request for written advice on the clarification of an advisory letter issued to Mayor Cheryl Maki on the provisions of the political Reform Act.r After a careful review of the falts you have rrib*itt\"d, we decline to provide written advice at this time. Your questions involve analysis of facts which have already occurred, such that issuing written advice at this time would relate to past conduct, a circumstance prohibited by regulation 1g329(bXsXA) and (c)(a)(A), copy enclosed. Should you have any additional questions on this rnatter, please contact the Commission at (916) 322-5660. Sincerely, Luisa Menchaca Counsel Wallace General Counsel Enclosure JWwjg I Govemment Code sections 81000-91014. Commission regulations appear at Title 2, sections 18109-18996, of the Califomia Code of Regulations. J Assi",
+    "summary": "The FPPC declined a request from the City of Auburn's City Attorney for written advice clarifying a prior advisory letter to Mayor Cheryl Maki regarding the Political Reform Act, citing prohibition against issuing advice on past conduct."
+  }
+}

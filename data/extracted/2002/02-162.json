@@ -1,0 +1,75 @@
+{
+  "id": "02-162",
+  "year": 2002,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2002/02-162.pdf",
+  "pdf_sha256": "6d0b4ee59f4dd9084ed8553b179428170dbccf1885e6d5ea72b78fca476fc0f1",
+  "local_pdf_path": "raw_pdfs/2002/02-162.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2002 Advice Letter # 02-162",
+    "tags": [
+      "Advice Letter",
+      "2002"
+    ],
+    "scraped_at": "2026-01-31 14:36:34",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2002&tagCount=1&page=21"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T23:58:13.885926Z",
+    "page_count": 1,
+    "word_count": 101,
+    "char_count": 675,
+    "quality_score": 0.8152428919670909,
+    "olmocr_cost": 0.00253528,
+    "native_word_count": 120
+  },
+  "content": {
+    "full_text": "October 15, 2002\n\nJames C. Harrison\nRemcho, Johansen & Purcell\n201 Delores Avenue\nSan Leandro, CA 94577\n\nRe: Your Request for Advice\nOur File No. W-02-162\n\nDear Mr. Harrison:\n\nPursuant to our telephone conversation of October 9, 2002, you have withdrawn your pending request for formal advice.\n\nPlease do not hesitate to contact me at (916) 322-5660 if you have additional questions relating to the Political Reform Act.¹\n\nSincerely,\n\nLuisa Menchaca\nGeneral Counsel\n\n[Signature]\nBy:\nHyla P. Wagner\nSenior Commission Counsel\n\nHPW:jg\n\n¹ Government Code sections 81000-91014. Commission regulations appear at Title 2, sections 18109-18997, of the California Code of Regulations.",
+    "full_text_markdown": "October 15, 2002\n\nJames C. Harrison\nRemcho, Johansen & Purcell\n201 Delores Avenue\nSan Leandro, CA 94577\n\nRe: Your Request for Advice\nOur File No. W-02-162\n\nDear Mr. Harrison:\n\nPursuant to our telephone conversation of October 9, 2002, you have withdrawn your pending request for formal advice.\n\nPlease do not hesitate to contact me at (916) 322-5660 if you have additional questions relating to the Political Reform Act.¹\n\nSincerely,\n\nLuisa Menchaca\nGeneral Counsel\n\n[Signature]\nBy:\nHyla P. Wagner\nSenior Commission Counsel\n\nHPW:jg\n\n¹ Government Code sections 81000-91014. Commission regulations appear at Title 2, sections 18109-18997, of the California Code of Regulations."
+  },
+  "parsed": {
+    "date": "2002-10-15",
+    "date_raw": "October 15, 2002",
+    "requestor_name": "Harrison",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [
+      "18109"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-19T23:58:13.885926Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "October 15, 2002 James C. Harrison Remcho, Johansen & Purcell 201 Delores Avenue San Leandro, CA 94577 Re: Your Request for Advice Our File No. W-02-162 Dear Mr. Harrison: Pursuant to our telephone conversation of October 9, 2002, you have withdrawn your pending request for formal advice. Please do not hesitate to contact me at (916) 322-5660 if you have additional questions relating to the Political Reform Act.¹ Sincerely, Luisa Menchaca General Counsel [Signature] By: Hyla P. Wagner Senior Commission Counsel HPW:jg ¹ Government Code sections 81000-91014. Commission regulations appear at Title 2, sections 18109-18997, of the California Code of Regulations.",
+    "qa_source": "extracted",
+    "first_500_words": "October 15, 2002 James C. Harrison Remcho, Johansen & Purcell 201 Delores Avenue San Leandro, CA 94577 Re: Your Request for Advice Our File No. W-02-162 Dear Mr. Harrison: Pursuant to our telephone conversation of October 9, 2002, you have withdrawn your pending request for formal advice. Please do not hesitate to contact me at (916) 322-5660 if you have additional questions relating to the Political Reform Act.¹ Sincerely, Luisa Menchaca General Counsel [Signature] By: Hyla P. Wagner Senior Commission Counsel HPW:jg ¹ Government Code sections 81000-91014. Commission regulations appear at Title 2, sections 18109-18997, of the California Code of Regulations.",
+    "summary": null
+  }
+}

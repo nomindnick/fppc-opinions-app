@@ -1,0 +1,71 @@
+{
+  "id": "76068",
+  "year": 1976,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1976/76068.PDF",
+  "pdf_sha256": "5874bf550b2435b830747401489a564fb601bb577e4327adc9e47565c6cdf4c6",
+  "local_pdf_path": "raw_pdfs/1976/76068.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1976 Advice Letter # 76068",
+    "tags": [
+      "1976",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:15:59",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1976&tagCount=1&page=19"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:19.022056Z",
+    "page_count": 1,
+    "word_count": 93,
+    "char_count": 578,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 93
+  },
+  "content": {
+    "full_text": "State of California \nMemorandum \nTo \nAdvice File \nDate \nJune 24, 1976 \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nN an \n~/fi?:/C.6~r:J y</ \nSubject: \nRepayment of a Loan by a Third Party \nGovernment Code Section 820l3(b) \nAt the oplnlon request meeting on June 21, 1976, the \nstaff determined that since payment of a loan by a \nthird party is not made directly to the candidate or \ncommittee, the person who makes payments totaling \n$500 or more in a calendar year on loans in behalf \nof candidates or campaign committees is an \"expenditure \nCommittee\" under Section 820l3(b). \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1976-06-24",
+    "date_raw": "June 24, 1976",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "Since payment of a loan by a third party is not made directly to the candidate or committee, the person who makes payments totaling $500 or more in a calendar year on loans in behalf of candidates or campaign committees is an 'expenditure Committee' under Section 82013(b).",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a third party who makes loan repayments totaling $500 or more in a calendar year on behalf of candidates or campaign committees constitutes an 'expenditure committee' under Government Code Section 82013(b).",
+    "conclusion_synthetic": "FPPC staff determined that a third party making loan repayments of $500 or more in a calendar year on behalf of candidates or committees qualifies as an 'expenditure committee' under Government Code Section 82013(b), since such payments are not made directly to the candidate or committee.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Internal memorandum format without traditional Q/A sections; conclusion derived from staff determination statement at opinion request meeting; limited context provided"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:19.022056Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether a third party who makes loan repayments totaling $500 or more in a calendar year on behalf of candidates or campaign committees constitutes an 'expenditure committee' under Government Code Section 82013(b).\n\nCONCLUSION: Since payment of a loan by a third party is not made directly to the candidate or committee, the person who makes payments totaling $500 or more in a calendar year on loans in behalf of candidates or campaign committees is an 'expenditure Committee' under Section 82013(b).",
+    "qa_source": "mixed",
+    "first_500_words": "State of California Memorandum To Advice File Date June 24, 1976 From FAIR POLITICAL PRACTICES COMMISSION N an ~/fi?:/C.6~r:J y</ Subject: Repayment of a Loan by a Third Party Government Code Section 820l3(b) At the oplnlon request meeting on June 21, 1976, the staff determined that since payment of a loan by a third party is not made directly to the candidate or committee, the person who makes payments totaling $500 or more in a calendar year on loans in behalf of candidates or campaign committees is an \"expenditure Committee\" under Section 820l3(b).",
+    "summary": "FPPC internal memorandum concluding that third parties making loan repayments totaling $500 or more annually on behalf of candidates or campaign committees constitute 'expenditure committees' under Government Code Section 82013(b)."
+  }
+}

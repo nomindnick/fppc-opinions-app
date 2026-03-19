@@ -1,0 +1,80 @@
+{
+  "id": "88080",
+  "year": 1988,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1988/fppc-advice/88080.PDF",
+  "pdf_sha256": "9c81f542750e8815015a6c88656f4c0af19debc4326bb239ab1d0a4c72691d38",
+  "local_pdf_path": "raw_pdfs/1988/88080.PDF",
+  "source_metadata": {
+    "title_raw": "SHUSTED, MARK Year: 1988 Advice Letter # 88080",
+    "tags": [
+      "1988",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:57:50",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1988&tagCount=1&page=3"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:04.802283Z",
+    "page_count": 2,
+    "word_count": 381,
+    "char_count": 2429,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 381
+  },
+  "content": {
+    "full_text": "California \nFair Political \nPractices Commission \nMark Shusted \nResearch Attorney \nSuperior Court \nCounty of Monterey \nP.O. Box 414 \nSalinas, CA \n93902 \nDear Mr. Shusted: \nMarch 8, 1988 \nRe: \nYour Request for Advice \nOur File No. I-88-080 \nI am writing to confirm the substance of our telephone \nconversations of February 17 and 22, 1988. \nYou wanted to know \nwhether the Commission requires adoption of conflict of \ninterest codes for grand juries and the basis for this \nrequirement. \n. \nGovernment Code section 87300 requires every agency to \nadopt a conflict of interest code. \nAny state or local \ngovernment agency is an \"agency\" for the purposes of the \nPolitical Reform Act.!! (Section 82003.) \nsection 82041 \ndescribes a local government agency as a \"department, division, \nbureau, office, board, commission or other agency of the \nforegoing.\" \nThe California Supreme Court in People v. Superior Court \n(1975) 13 Cal. 3d 430, 438, found a grand jury to be a judicial \nbody that is \"part of the court by which it is convened.\" \nTherefore, because a grand jury is a department or agency of a \ncourt, the grand jury is subject to the provisions of section \n87300. \n!! Government Code sections 81000-91015. \nAll statutory \nreferences are to the Government Code unless otherwise noted. \nCommission regulations appear at 2 California Code of \nRegulations Section 18000, et seq. \nAll references to \nregulations are to Title 2, Division 6 of the California Code \nof Regulations. \n428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804 .. 0807 • (916)322 .. 5660 \n\n\nMr. Shuster \nMarch 8, 1988 \nPage 2 \nThe Commission considered this issue at some length in \n1986. \nI enclose a copy of the Commission's Whittington Advice \nLetter, No. A-85-185, which discusses the Commission's legal \ninterpretation in more detail. \nAt the subsequent Commission \nhearings mentioned in Whittington, the Commission endorsed the \narguments set out in the letter, but also concluded that the \ncounties are in the best position to evaluate the varying \nduties and powers of local grand juries and to assign \nappropriate disclosure categories. \nI hope this clarifies the basis for Commission authority to \nrequire conflict of interest codes for grand juries. \nPlease \ncall me at (916) 322-5901 if you have any questions about this \nletter. \nDMG:MA:mk \nSincerely, \nDiane M. Griffiths \nGeneral Counsel \nargarita Altamirano \nCounsel, Legal Division \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1988-03-08",
+    "date_raw": "March 8, 1988",
+    "requestor_name": "Shusted",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "whether the Commission requires adoption of conflict of interest codes for grand juries and the basis for this requirement",
+    "conclusion": "Government Code section 87300 requires every agency to adopt a conflict of interest code. A grand jury is a department or agency of a court and therefore is subject to the provisions of section 87300.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Does the FPPC require grand juries to adopt conflict of interest codes, and what is the legal basis for such a requirement?",
+    "conclusion_synthetic": "Yes, grand juries must adopt conflict of interest codes because they are departments or agencies of courts, which are subject to Government Code section 87300's requirement that every agency adopt such codes.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Standard FPPC advice letter format with clear question and conclusion. References prior Whittington Advice Letter A-85-185 for additional detail. File number I-88-080 indicates incoming request designation."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "82003",
+      "82041",
+      "87300"
+    ],
+    "regulations": [],
+    "prior_opinions": [
+      "A-85-185"
+    ],
+    "cited_by": [],
+    "external": [
+      "13 Cal. 3d 430"
+    ]
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:36:04.802283Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: whether the Commission requires adoption of conflict of interest codes for grand juries and the basis for this requirement\n\nCONCLUSION: Government Code section 87300 requires every agency to adopt a conflict of interest code. A grand jury is a department or agency of a court and therefore is subject to the provisions of section 87300.",
+    "qa_source": "mixed",
+    "first_500_words": "California Fair Political Practices Commission Mark Shusted Research Attorney Superior Court County of Monterey P.O. Box 414 Salinas, CA 93902 Dear Mr. Shusted: March 8, 1988 Re: Your Request for Advice Our File No. I-88-080 I am writing to confirm the substance of our telephone conversations of February 17 and 22, 1988. You wanted to know whether the Commission requires adoption of conflict of interest codes for grand juries and the basis for this requirement. . Government Code section 87300 requires every agency to adopt a conflict of interest code. Any state or local government agency is an \"agency\" for the purposes of the Political Reform Act.!! (Section 82003.) section 82041 describes a local government agency as a \"department, division, bureau, office, board, commission or other agency of the foregoing.\" The California Supreme Court in People v. Superior Court (1975) 13 Cal. 3d 430, 438, found a grand jury to be a judicial body that is \"part of the court by which it is convened.\" Therefore, because a grand jury is a department or agency of a court, the grand jury is subject to the provisions of section 87300. !! Government Code sections 81000-91015. All statutory references are to the Government Code unless otherwise noted. Commission regulations appear at 2 California Code of Regulations Section 18000, et seq. All references to regulations are to Title 2, Division 6 of the California Code of Regulations. 428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804 .. 0807 • (916)322 .. 5660 Mr. Shuster March 8, 1988 Page 2 The Commission considered this issue at some length in 1986. I enclose a copy of the Commission's Whittington Advice Letter, No. A-85-185, which discusses the Commission's legal interpretation in more detail. At the subsequent Commission hearings mentioned in Whittington, the Commission endorsed the arguments set out in the letter, but also concluded that the counties are in the best position to evaluate the varying duties and powers of local grand juries and to assign appropriate disclosure categories. I hope this clarifies the basis for Commission authority to require conflict of interest codes for grand juries. Please call me at (916) 322-5901 if you have any questions about this letter. DMG:MA:mk Sincerely, Diane M. Griffiths General Counsel argarita Altamirano Counsel, Legal Division",
+    "summary": "The FPPC confirms that grand juries are required to adopt conflict of interest codes pursuant to Government Code section 87300, as grand juries are judicial bodies that constitute departments of courts and thus qualify as agencies under the Political Reform Act."
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "78ADV-78-017",
+  "year": 1978,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1978/78ADV-78-017.PDF",
+  "pdf_sha256": "c2cb97c94ba133553639cd33951d914e3325e2404e746887b84bc40afcf0397a",
+  "local_pdf_path": "raw_pdfs/1978/78ADV-78-017.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1978ADV Advice Letter # 78ADV-78-017",
+    "tags": [
+      "Advice Letter",
+      "1978"
+    ],
+    "scraped_at": "2026-01-31 15:23:34",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=10"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:09.285399Z",
+    "page_count": 3,
+    "word_count": 368,
+    "char_count": 2416,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 368
+  },
+  "content": {
+    "full_text": "To \n. 1 \n1 \n8 \nt \nProblem \n2, 1977, \nre \ni \nAccount \n\n\nRobert C \nSummers \n. 8, 1978 \nTax Board \nLee C. Rosenthal \nYour memo of August 28, 1978 \nThank you for your \nYour December 2, 1977 \nmemo concerning the use of special accounts got lost in \nthe shuffle. \nWe will discuss the issue and provide you \nwith a reply within the next two weeks. \n\n\nFranchise Tax Board \nMemorandum \nTo \nMichael Bennett, Executive Directo! \nFair Political Practices Commission \n1100 K Street \nSacramento, CA 95814 \nDate \nDecember 2, 1977 \nFile No.: \nFrom \nRobert C. Summers \nSubject: \nCampaign Reporting Problem \nThe following described procedure was discovered during the audit of a large \ncentral committee and we would like your advice regarding the propriety of \nthe procedure and whether or not the transactions were properly reported. \nIn an effort to eliminate the need to file detailed campaign statements due \nto special election activity, the central committee organized a controlled \ncommittee titled Special Election Account. \nSmall contributions, sent to the \ncentral committee, were deposited into the Special Election Account and, in \naddition, some funds were transferred from the central committee's account. \nIt is our understanding that the contributions deposited were not earmarked \nfor this special activity. \nMonetary and in-kind contribution expenditures \nwere made, in behalf of the special election candidates, from the Special \nElection Account. \nThe Special Election Account committee reported the detail of the contributions \nreceived by the central committee as though the contributions were received \ndirectly. \nThe transfer of funds and the expendituEes were properly reported. \nIt would seem to me that the controlled committee should disclose that the \ncentral committee is the sole source of its funds, or at leas~ they should \nbe shown as an intermediary. \nAnother problem illustrated by this case is the ease with which some committees \ndeposit contributions in a variety of associated accounts which are not \nspecifically earmarked by the contributor. \nWe have found many instances, \nthrough confirmation letters, where the contributor was under the impression \nthat the gift was to a completely different entity. \nWe would appreciate your advice as to the proper reporting procedure in the \nillustrated case. \nChief, Political Reform Audit Division \ncc: \nD. Converse \nD. Dick \nJ. Turrini \nN. Fuller \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1978-08-28",
+    "date_raw": "August 28, 1978",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "The Franchise Tax Board requests FPPC advice regarding: (1) the propriety of a central committee organizing a controlled committee titled 'Special Election Account' to eliminate filing detailed campaign statements, with contributions and transferred funds deposited into and expenditures made from this account, and whether the transactions were properly reported; (2) whether the controlled committee should disclose that the central committee is the sole source of its funds or show the central committee as an intermediary; and (3) the proper reporting procedure when contributions are deposited into associated accounts not specifically earmarked by the contributor, where contributors may be unaware of which entity received their gift.",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The Franchise Tax Board seeks FPPC guidance on whether a central committee's creation of a controlled 'Special Election Account' committee to avoid detailed filing requirements complies with campaign finance law, and whether such controlled committees must disclose their funding sources and the central committee's intermediary role.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an incoming request from Franchise Tax Board to FPPC, not an FPPC advice letter response. The document includes both the original December 2, 1977 memo from Robert C. Summers and an acknowledgment dated March 8, 1978 from Lee C. Rosenthal. No formal QUESTION/CONCLUSION sections present; question reconstructed from memo content. The response was promised but not included in this document."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:09.285399Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The Franchise Tax Board requests FPPC advice regarding: (1) the propriety of a central committee organizing a controlled committee titled 'Special Election Account' to eliminate filing detailed campaign statements, with contributions and transferred funds deposited into and expenditures made from this account, and whether the transactions were properly reported; (2) whether the controlled committee should disclose that the central committee is the sole source of its funds or show the central committee as an intermediary; and (3) the proper reporting procedure when contributions are deposited into associated accounts not specifically earmarked by the contributor, where contributors may be unaware of which entity received their gift.",
+    "qa_source": "mixed",
+    "first_500_words": "To . 1 1 8 t Problem 2, 1977, re i Account Robert C Summers . 8, 1978 Tax Board Lee C. Rosenthal Your memo of August 28, 1978 Thank you for your Your December 2, 1977 memo concerning the use of special accounts got lost in the shuffle. We will discuss the issue and provide you with a reply within the next two weeks. Franchise Tax Board Memorandum To Michael Bennett, Executive Directo! Fair Political Practices Commission 1100 K Street Sacramento, CA 95814 Date December 2, 1977 File No.: From Robert C. Summers Subject: Campaign Reporting Problem The following described procedure was discovered during the audit of a large central committee and we would like your advice regarding the propriety of the procedure and whether or not the transactions were properly reported. In an effort to eliminate the need to file detailed campaign statements due to special election activity, the central committee organized a controlled committee titled Special Election Account. Small contributions, sent to the central committee, were deposited into the Special Election Account and, in addition, some funds were transferred from the central committee's account. It is our understanding that the contributions deposited were not earmarked for this special activity. Monetary and in-kind contribution expenditures were made, in behalf of the special election candidates, from the Special Election Account. The Special Election Account committee reported the detail of the contributions received by the central committee as though the contributions were received directly. The transfer of funds and the expendituEes were properly reported. It would seem to me that the controlled committee should disclose that the central committee is the sole source of its funds, or at leas~ they should be shown as an intermediary. Another problem illustrated by this case is the ease with which some committees deposit contributions in a variety of associated accounts which are not specifically earmarked by the contributor. We have found many instances, through confirmation letters, where the contributor was under the impression that the gift was to a completely different entity. We would appreciate your advice as to the proper reporting procedure in the illustrated case. Chief, Political Reform Audit Division cc: D. Converse D. Dick J. Turrini N. Fuller",
+    "summary": "This is an incoming request from the California Franchise Tax Board to the FPPC seeking legal advice regarding campaign finance reporting issues discovered during an audit, specifically concerning a central committee's use of a controlled 'Special Election Account' to circumvent filing requirements. The FPPC acknowledged receipt and promised a response within two weeks."
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "79-078",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-078.PDF",
+  "pdf_sha256": "a4d2f2a1005e7fe3bbe2b12ce110c6d15d279e436df8cc29cbf0cf77c3bbde5a",
+  "local_pdf_path": "raw_pdfs/1979/79-078.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1979 Advice Letter # 79-078",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:25:51",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=7"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:05.937029Z",
+    "page_count": 1,
+    "word_count": 66,
+    "char_count": 449,
+    "quality_score": 0.5075,
+    "olmocr_cost": null,
+    "native_word_count": 66
+  },
+  "content": {
+    "full_text": "File -\n84212 \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nBarbara Campbel~ \nFiling of Candidate's Short Form \nDate \nMarch 30, 1979 \nIn determining whether a candidate can file a short \nform campaign statement (Government Code Section 84212) \nthe candidate must consider controlled committees and \nother committees that make independent expenditures in \nsupport of his or her candidacy in determining that not \nmore than $200 has been spent. \nBC:plh \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1979-03-30",
+    "date_raw": "March 30, 1979",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "In determining whether a candidate can file a short form campaign statement (Government Code Section 84212) the candidate must consider controlled committees and other committees that make independent expenditures in support of his or her candidacy in determining that not more than $200 has been spent.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a candidate can file a short form campaign statement under Government Code Section 84212 and what committees must be considered when determining if spending thresholds are met.",
+    "conclusion_synthetic": "Candidates filing a short form campaign statement must consider both controlled committees and committees making independent expenditures on their behalf when determining if spending remains under the $200 threshold.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document lacks explicit QUESTION and CONCLUSION section headers. Content structure suggests question/answer format but without formal section demarcation. Conclusion extracted from body text. Brief advisory letter format."
+  },
+  "citations": {
+    "government_code": [
+      "84212"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:37:05.937029Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether a candidate can file a short form campaign statement under Government Code Section 84212 and what committees must be considered when determining if spending thresholds are met.\n\nCONCLUSION: In determining whether a candidate can file a short form campaign statement (Government Code Section 84212) the candidate must consider controlled committees and other committees that make independent expenditures in support of his or her candidacy in determining that not more than $200 has been spent.",
+    "qa_source": "mixed",
+    "first_500_words": "File - 84212 From FAIR POLITICAL PRACTICES COMMISSION Barbara Campbel~ Filing of Candidate's Short Form Date March 30, 1979 In determining whether a candidate can file a short form campaign statement (Government Code Section 84212) the candidate must consider controlled committees and other committees that make independent expenditures in support of his or her candidacy in determining that not more than $200 has been spent. BC:plh",
+    "summary": "FPPC advice on Government Code Section 84212 regarding candidate eligibility to file short form campaign statements, requiring consideration of controlled committees and independent expenditure committees in the $200 spending calculation."
+  }
+}

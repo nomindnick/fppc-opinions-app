@@ -1,0 +1,74 @@
+{
+  "id": "79-011",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-011.PDF",
+  "pdf_sha256": "40fdf316551bafed3f084d0e2e4b017d05a67393911929de5183fc183576f1be",
+  "local_pdf_path": "raw_pdfs/1979/79-011.PDF",
+  "source_metadata": {
+    "title_raw": "BRODIE, MATT Year: 1979 Advice Letter # 79-011",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:26:26",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=15"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-27T17:18:30.172204Z",
+    "page_count": 2,
+    "word_count": 347,
+    "char_count": 2489,
+    "quality_score": 0.9124450479449042,
+    "olmocr_cost": 0.005072279999999999,
+    "native_word_count": 0,
+    "haiku_cost": 0.00496
+  },
+  "content": {
+    "full_text": "State of California\n\nFair Political Practices Commission\n\nP.O. BOX 867 · SACRAMENTO, 95804 · · · 1100 K STREET BUILDING, SACRAMENTO, 95814\n\nMarch 7, 1979\n\nMr. Matt Brodie\nModesto Board of Realtors\n422 McHenry Avenue\nModesto, California 95354\n\nDear Mr. Brodie:\n\nThis letter is to confirm our telephone conversation\nof February 20, 1979.\n\nYou stated that the Modesto Board of Realtors does\nnot make direct political contributions to candidates\nor committees but does so through an established state\npolitical action committee. You also stated that there\nwas a local ballot measure that the Modesto Board of\nRealtors was very interested in and wanted to become\ninvolved by making a political contribution of approximately\n$500 to $1,00 direct to the ballot measure committee without\ngoing through the state PAC. The monies for this contribution would be allocated from the Board's general fund.\nYou informed me that the Modesto Board of Realtors\nreceived its money from voluntary contributions from its\nmembership and that once a year the members are requested\nto send their political contributions direct to the state\nPAC. You asked what reporting obligation the Modesto\nBoard of Realtors would incur if they made such a\ncontribution to the local ballot measure?\n\nAt the suggestion of Regina Kutchins in our Sacramento\noffice, I spoke with Barbara Campbell, an attorney in our\nLegal department, and I relayed the following information\nto you concerning your question. Our office advised that\nthe Modesto Board of Realtors may not have a filing\nobligation until $5,000 of political contributions are\nmade in this calendar year. Government Code Section 82013.\nHowever, Barbara Campbell did strongly urge that you\nspeak with the state PAC's attorney regarding rules,\nregulations and possible restrictions of the Modesto\nBoard of Realtors to become directly involved with a\npolitical campaign.\n\nTECHNICAL ASSISTANCE/ADMINISTRATION (916) 322 5660 · EXECUTIVE LEGAL 322 5901 · ENFORCEMENT/CONFLICT OF INTEREST 322 6641\n\nMr. Matt Brodie                                          Page Two\nMarch 7, 1979\n\n     If you should have any questions concerning this\nmatter, you may contact Barbara Campbell at (916) 322-5901.\n\n                                        Sincerely,\n\n                                        [signature]\n                                        Helen P. Andino\n                                        Special Compliance\n                                        Representative\n\nHPA:jg",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1979-03-07",
+    "date_raw": "March 7, 1979",
+    "requestor_name": "Brodie",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "You asked what reporting obligation the Modesto Board of Realtors would incur if they made such a contribution to the local ballot measure?",
+    "conclusion": "Our office advised that the Modesto Board of Realtors may not have a filing obligation until $5,000 of political contributions are made in this calendar year. Government Code Section 82013. However, Barbara Campbell did strongly urge that you speak with the state PAC's attorney regarding rules, regulations and possible restrictions of the Modesto Board of Realtors to become directly involved with a political campaign.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "What reporting obligations does the Modesto Board of Realtors have if it makes a direct contribution of $500-$1,000 to a local ballot measure committee from its general fund?",
+    "conclusion_synthetic": "The Modesto Board of Realtors may not have a filing obligation under Government Code Section 82013 until $5,000 in political contributions are made in the calendar year. However, FPPC advised consultation with the state PAC's attorney regarding any restrictions on direct campaign involvement.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: No formal QUESTION or CONCLUSION section headers, but question and conclusion content are clearly present in letter format. Document confirms telephone conversation of February 20, 1979. Contains Government Code citation (82013) referenced in response."
+  },
+  "citations": {
+    "government_code": [
+      "82013"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T16:52:02.925532Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: You asked what reporting obligation the Modesto Board of Realtors would incur if they made such a contribution to the local ballot measure?\n\nCONCLUSION: Our office advised that the Modesto Board of Realtors may not have a filing obligation until $5,000 of political contributions are made in this calendar year. Government Code Section 82013. However, Barbara Campbell did strongly urge that you speak with the state PAC's attorney regarding rules, regulations and possible restrictions of the Modesto Board of Realtors to become directly involved with a political campaign.",
+    "qa_source": "mixed",
+    "first_500_words": "March 7, 1979 Mr. Matt Brodie Modesto Board of Realtors 422 McHenry Avenue Modesto, California 95354 Dear Mr. Brodie: This letter is to confirm our telephone conversation of February 20, 1979. You stated that the Modesto Board of Realtors does not make direct political contributions to candidates or committees but does so through an established state political action committee. You also stated that there was a local ballot measure that the Modesto Board of Realtors was very interested in and wanted to become involved by making a political contribution of approximately $500 to $1,000 direct to the ballot measure committee without going through the state PAC. The monies for this contribution would be allocated from the Board's general fund. You informed me that the Modesto Board of Realtors received its money from voluntary contributions from its membership and that once a year the members are requested to send their political contributions direct to the state PAC. You asked what reporting obligation the Modesto Board of Realtors would incur if they made such a contribution to the local ballot measure? At the suggestion of Regina Kutchins in our Sacramento office, I spoke with Barbara Campbell, an attorney in our Legal department, and I relayed the following information to you concerning your question. Our office advised that the Modesto Board of Realtors may not have a filing obligation until $5,000 of political contributions are made in this calendar year. Government Code Section 82013. However, Barbara Campbell did strongly urge that you speak with the state PAC's attorney regarding rules, regulations and possible restrictions of the Modesto Board of Realtors to become directly involved with a political campaign. Mr. Matt Brodie March 7, 1979 If you should have any questions concerning this matter, you may contact Barbara Campbell at (916) 322-5901. Sincerely, Helen P. Andino Special Compliance Representative HPA:jg",
+    "summary": "FPPC Special Compliance Representative Helen P. Andino responds to the Modesto Board of Realtors' inquiry about reporting obligations for making a direct contribution to a local ballot measure committee, providing guidance on the $5,000 threshold for filing obligations."
+  }
+}

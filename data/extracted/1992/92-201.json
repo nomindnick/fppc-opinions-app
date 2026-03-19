@@ -1,0 +1,76 @@
+{
+  "id": "92-201",
+  "year": 1992,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1992/92-201.pdf",
+  "pdf_sha256": "c5df6ebd61479457d9d18cbdd776127170ba71d4563fcf4c0e93615419b21001",
+  "local_pdf_path": "raw_pdfs/1992/92-201.pdf",
+  "source_metadata": {
+    "title_raw": "Wald, Mark Year: 1992 Advice Letter # 92-201",
+    "tags": [
+      "Advice Letter",
+      "1992"
+    ],
+    "scraped_at": "2026-01-31 16:24:29",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1992&tagCount=1&page=23"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:13.481233Z",
+    "page_count": 2,
+    "word_count": 429,
+    "char_count": 2728,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 429
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\nApril 17,\n1992\nMark P.\nWald\nOffice of the City Attorney\nCity of Oakland\nOne City Hall Plaza\nOakland,\nCA\n94612\nRe:\nYour Request for Informal Assistance\nOur File No.\n1—92—201\nDear Mr.\nWald:\nThis is in response to your request for informal advice\nrelating to the conflict of interest provisions of the Political\nReform Act (the “Act”).\n1\nYou are requesting advice regarding a possible conflict of\ninterest involving Mr. Ronald Mayes,\nhowever, it is not clear that\nthis advice is being requested on his behalf.\nFurthermore, the\nonly prospective activity indicated by your letter relates to\npending decisions as to selection of a base isolation system for\nthe City Hall Earthquake Repair Project.\nYou have not provided\nany information to the effect that Mr.\nMayes will be participating\nas a public official in any of these upcoming decisions.\nAs I indicated to your in our telephone conversation of\nMarch 20,\n1992, the questions posed by your letter involve issues\nof past conduct.\nWe do not provide specific advice regarding past\nconduct, unless the advice or assistance sought is related to\npossible amendment of reports previously filed by the person\nrequesting the advice.\n(Regulation l8329(c)(4)(A).)\nThat does\nnot appear to be the case here.\n1\nGovernment Code Sections 81000-91015.\nAll statutory references\nare to the Government Code unless otherwise indicated.\nCommission\nregulations appear at\n2 California code of Regulations Section\n18000,\n.\nAll references to regulations are to Title 2,\nDivision\n6 of the California Code of Regulations.\nInformal\nassistance does not provide the requestor with the immunity\nprovided by an opinion or formal written advice.\n(Section 83114;\nRegulation 18329(c) (3).)\n428 J Street, Suite 800 • P0. Box 807 • Sacramento CA 95804-0807 •\n(916)322-5660\n\n\nOur File No.\n1-92-201\nPage\n2\nFor your reference, I\nam enclosing the following materials\nwhich I trust will be of some assistance to you should future\nconflict of interest issues arise:\n1.\nConflicts of Interest under the Political Reform Act:\nGeneral Rules.\n2.\nConflicts of Interest under the Political Reform Act:\nPublic Officials:\nConsultants.\n3.\nConflicts of Interest under the Political Reform Act:\nMaking, Participating in Making, or Attempting to Influence a\nGovernmental Decision.\nIf you have any questions, please contact the Commission at\n(916)\n322_5901.2\nSincerely,\nScott Hallabrin,\nActing General Counsel\n2&/\nBy:\nMargaret W. Ellison\nCounsel, Legal Division\nSH:MWE:aa\n2\nCopies of Commission regulations and Opinions are available in\nmany law libraries.\nAlternatively, copies of these materials and\nCommission advice letters may be obtained from the Commission at a\ncost of i0c per page.\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1992-04-17",
+    "date_raw": "April 17,\n1992",
+    "requestor_name": "Wald",
+    "requestor_title": "City Attorney",
+    "requestor_city": null,
+    "document_type": "informal_advice"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Does Ronald Mayes have a conflict of interest regarding his potential involvement in decisions related to the selection of a base isolation system for the City Hall Earthquake Repair Project?",
+    "conclusion_synthetic": "The FPPC declines to provide specific advice because the request involves issues of past conduct rather than prospective activity, and it is unclear whether Mr. Mayes will actually participate as a public official in upcoming decisions. The FPPC notes it does not provide advice on past conduct unless related to amendment of previously filed reports.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is a declination/limitation letter rather than a full advice letter. No formal QUESTION or CONCLUSION sections are present. The substantive analysis of why FPPC is declining to advise is embedded in the body letter. Document references past telephone conversation and indicates this is informal assistance without immunity protections."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "83114"
+    ],
+    "regulations": [
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "gifts_honoraria",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:35:13.481233Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Does Ronald Mayes have a conflict of interest regarding his potential involvement in decisions related to the selection of a base isolation system for the City Hall Earthquake Repair Project?\n\nCONCLUSION: The FPPC declines to provide specific advice because the request involves issues of past conduct rather than prospective activity, and it is unclear whether Mr. Mayes will actually participate as a public official in upcoming decisions. The FPPC notes it does not provide advice on past conduct unless related to amendment of previously filed reports.",
+    "qa_source": "synthetic",
+    "first_500_words": "California Fair Political Practices Commission April 17, 1992 Mark P. Wald Office of the City Attorney City of Oakland One City Hall Plaza Oakland, CA 94612 Re: Your Request for Informal Assistance Our File No. 1—92—201 Dear Mr. Wald: This is in response to your request for informal advice relating to the conflict of interest provisions of the Political Reform Act (the “Act”). 1 You are requesting advice regarding a possible conflict of interest involving Mr. Ronald Mayes, however, it is not clear that this advice is being requested on his behalf. Furthermore, the only prospective activity indicated by your letter relates to pending decisions as to selection of a base isolation system for the City Hall Earthquake Repair Project. You have not provided any information to the effect that Mr. Mayes will be participating as a public official in any of these upcoming decisions. As I indicated to your in our telephone conversation of March 20, 1992, the questions posed by your letter involve issues of past conduct. We do not provide specific advice regarding past conduct, unless the advice or assistance sought is related to possible amendment of reports previously filed by the person requesting the advice. (Regulation l8329(c)(4)(A).) That does not appear to be the case here. 1 Government Code Sections 81000-91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California code of Regulations Section 18000, . All references to regulations are to Title 2, Division 6 of the California Code of Regulations. Informal assistance does not provide the requestor with the immunity provided by an opinion or formal written advice. (Section 83114; Regulation 18329(c) (3).) 428 J Street, Suite 800 • P0. Box 807 • Sacramento CA 95804-0807 • (916)322-5660 Our File No. 1-92-201 Page 2 For your reference, I am enclosing the following materials which I trust will be of some assistance to you should future conflict of interest issues arise: 1. Conflicts of Interest under the Political Reform Act: General Rules. 2. Conflicts of Interest under the Political Reform Act: Public Officials: Consultants. 3. Conflicts of Interest under the Political Reform Act: Making, Participating in Making, or Attempting to Influence a Governmental Decision. If you have any questions, please contact the Commission at (916) 322_5901.2 Sincerely, Scott Hallabrin, Acting General Counsel 2&/ By: Margaret W. Ellison Counsel, Legal Division SH:MWE:aa 2 Copies of Commission regulations and Opinions are available in many law libraries. Alternatively, copies of these materials and Commission advice letters may be obtained from the Commission at a cost of i0c per page.",
+    "summary": "The FPPC responds to a request for informal advice regarding a potential conflict of interest involving Ronald Mayes and City Hall earthquake repair project decisions, but declines to provide specific guidance because the inquiry concerns past conduct and lacks clarity about future official participation."
+  }
+}

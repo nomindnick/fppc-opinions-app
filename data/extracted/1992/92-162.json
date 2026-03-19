@@ -1,0 +1,77 @@
+{
+  "id": "92-162",
+  "year": 1992,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1992/92-162.pdf",
+  "pdf_sha256": "06e1ec8bf5197ffd68403067de1c82712fd715498d3a093c3ba6c35b6ba01cc9",
+  "local_pdf_path": "raw_pdfs/1992/92-162.pdf",
+  "source_metadata": {
+    "title_raw": "Fishburn, Diana Year: 1992 Advice Letter # 92-162",
+    "tags": [
+      "Advice Letter",
+      "1992"
+    ],
+    "scraped_at": "2026-01-31 16:23:30",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1992&tagCount=1&page=10"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:12.165516Z",
+    "page_count": 2,
+    "word_count": 285,
+    "char_count": 1863,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 285
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\nApril 1,\n1992\nDiane M.\nFishburn\nOlson,\nConnelly,\nHagel,\nFong,\n& Leidigh\n300 Capitol Mall Ste.\n350\nSacramento,\nCA 95814\nRe:\nYour Request for Confirmation\nof Telephone Advice\nOur File No.\n1—92—162\nDear Ms.\nFishburn:\nYou have requested confirmation of telephone advice provided\nto you concerning the campaign disclosure provisions of the\nPolitical Reform Act.\n1\nBecause you have not identified the\nofficeholder on whose behalf you are requesting this advice we are\ntreating your request as one for informal assistance pursuant to\nRegulation 18329(c) (3) 2\nYour letter accurately summarizes my advice that a transfer\nof funds between committees controlled by a state senator,\nwho is\nnot up for election in 1992, would not be considered a\ncontribution within the meaning of Section 84200.5.\nTherefore,\na\nfirst preelection statement would not be required,\nso long as none\nof the senator’s controlled committees made contributions or\n1\nGovernment Code Sections 81000-91015.\nAll statutory\nreferences are to-the Government Code unless otherwise indicated.\nCommission regulations appear at\n2 California Code of Regulations\nSection 18000,\n.\nAll references to regulations are to Title\n2,\nDivision\n6 of the California Code of Regulations.\n2\nInformal assistance does not provide the requestor with the\nimmunity provided by an opinion or formal written advice.\n(Government Code Section 83114;\n2 Cal.\nCode of Regs.\nSections\n18329 (c) (3) .)\n428 J Street, Suite 8’O\n•\nP.O. Box 607 • Sacramento CA 9SO4-OS07\n0 .(916) 322-S6\n\n\nPage\n2\nFishburn,\nDiane\nindependent expenditures to support or oppose other candidates or\nconunittees within the first preelection period.\nIf you have additional questions, please contact me at\n(916)\n322—5662.\nSincerely,\nScott Hallabrin\nActing General C\\insel\nBy:\nWaynellP.\nImberi\nPolitical Reform Consultant\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1992-04-01",
+    "date_raw": "April 1,\n1992",
+    "requestor_name": "Fishburn",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "Your letter accurately summarizes my advice that a transfer of funds between committees controlled by a state senator, who is not up for election in 1992, would not be considered a contribution within the meaning of Section 84200.5. Therefore, a first preelection statement would not be required, so long as none of the senator's controlled committees made contributions or independent expenditures to support or oppose other candidates or committees within the first preelection period.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a transfer of funds between committees controlled by a state senator not up for election in 1992 constitutes a contribution requiring a first preelection statement under the Political Reform Act.",
+    "conclusion_synthetic": "Fund transfers between committees controlled by a state senator not up for election in 1992 do not constitute contributions under Section 84200.5, and thus do not require a first preelection statement, provided the committees made no contributions or independent expenditures to other candidates or committees during the preelection period.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is confirmation of telephone advice (informal assistance). No formal QUESTION or CONCLUSION section headers present; extracted text from letter body. Treated as correspondence rather than formal advice letter due to informal nature and lack of immunity provision. Document references Regulation 18329(c)(3) for informal assistance status."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "83114",
+      "84200"
+    ],
+    "regulations": [
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.3333333333333333,
+    "classified_at": "2026-02-06T18:35:12.165516Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether a transfer of funds between committees controlled by a state senator not up for election in 1992 constitutes a contribution requiring a first preelection statement under the Political Reform Act.\n\nCONCLUSION: Your letter accurately summarizes my advice that a transfer of funds between committees controlled by a state senator, who is not up for election in 1992, would not be considered a contribution within the meaning of Section 84200.5. Therefore, a first preelection statement would not be required, so long as none of the senator's controlled committees made contributions or independent expenditures to support or oppose other candidates or committees within the first preelection period.",
+    "qa_source": "mixed",
+    "first_500_words": "California Fair Political Practices Commission April 1, 1992 Diane M. Fishburn Olson, Connelly, Hagel, Fong, & Leidigh 300 Capitol Mall Ste. 350 Sacramento, CA 95814 Re: Your Request for Confirmation of Telephone Advice Our File No. 1—92—162 Dear Ms. Fishburn: You have requested confirmation of telephone advice provided to you concerning the campaign disclosure provisions of the Political Reform Act. 1 Because you have not identified the officeholder on whose behalf you are requesting this advice we are treating your request as one for informal assistance pursuant to Regulation 18329(c) (3) 2 Your letter accurately summarizes my advice that a transfer of funds between committees controlled by a state senator, who is not up for election in 1992, would not be considered a contribution within the meaning of Section 84200.5. Therefore, a first preelection statement would not be required, so long as none of the senator’s controlled committees made contributions or 1 Government Code Sections 81000-91015. All statutory references are to-the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations Section 18000, . All references to regulations are to Title 2, Division 6 of the California Code of Regulations. 2 Informal assistance does not provide the requestor with the immunity provided by an opinion or formal written advice. (Government Code Section 83114; 2 Cal. Code of Regs. Sections 18329 (c) (3) .) 428 J Street, Suite 8’O • P.O. Box 607 • Sacramento CA 9SO4-OS07 0 .(916) 322-S6 Page 2 Fishburn, Diane independent expenditures to support or oppose other candidates or conunittees within the first preelection period. If you have additional questions, please contact me at (916) 322—5662. Sincerely, Scott Hallabrin Acting General C\\insel By: WaynellP. Imberi Political Reform Consultant",
+    "summary": "FPPC responds to a request for confirmation of telephone advice regarding campaign disclosure provisions under the Political Reform Act, specifically whether fund transfers between a state senator's controlled committees trigger contribution reporting requirements."
+  }
+}

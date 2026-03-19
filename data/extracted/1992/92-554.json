@@ -1,0 +1,75 @@
+{
+  "id": "92-554",
+  "year": 1992,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1992/92-554.pdf",
+  "pdf_sha256": "c40c03f7041a6360eb9bdbfe829ded724a7e1c038e7107bfd7fcef5941f215a6",
+  "local_pdf_path": "raw_pdfs/1992/92-554.pdf",
+  "source_metadata": {
+    "title_raw": "Galstan, William Year: 1992 Advice Letter # 92-554",
+    "tags": [
+      "Advice Letter",
+      "1992"
+    ],
+    "scraped_at": "2026-01-31 16:28:06",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1992&tagCount=1&page=71"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:18.144313Z",
+    "page_count": 1,
+    "word_count": 258,
+    "char_count": 1624,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 258
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\nSeptember 1,\n1992\nWilliam Gaistan,\nCity Attorney\nCity of Antioch\nP.O.\nBox 130\nAntioch,\nCA\n94509—0504\nRe:\nYour Request for Advice\nOur File No. A-92-554\nDear Mr.\nGaistan:\nYou have requested advice concerning your reporting\nobligations under the conflict of interest disclosure provisions\nof the Political Reform Act.’!\nAs city attorney for the City of Antioch,\nyou must report on\nyour statement of economic interests\n(Form 721) gifts that\naggregate $50 or more from a single source.\nYou have asked\nwhether you are required to disclose receiving a gift of baseball\ntickets if you reimburse the donor the face value of the tickets.\nRegulation 18726.1(b) (4)\nstates that if an official\nreimburses the donor within 30 days of receipt of a gift, the\nofficial has not received a gift.\nTherefore, if within 30 days of\nreceipt you reimburse the donor for the full price of the baseball\ntickets,\nyou are not required to disclose receipt of the tickets\non your statement of economic interests.\nIf you have any questions or need further assistance, please\ncontact me at\n(916)\n322—5662.\nSincerely,\nScott Hallabrin\nActing General Counsel\nby:\nColleen McGee\nPolitical Reform Consultant\nTechnical Assistance Division\n“Government Code Sections 81000-91015.\nAll statutory references\nare to the Government Code unless otherwise indicated.\nCommission\nregulations appear at\n2 California Code of Regulations Section\n18000,\net\nAll references to regulations are to Title 2,\nDivision\n6 of the California Code of Regulations.\n428 j Street, Suite 800\n•\nP.O. Box 807\n•\nSacramento, CA\n95812\n•\n(916) 322-5660\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1992-09-01",
+    "date_raw": "September 1,\n1992",
+    "requestor_name": "Gaistan",
+    "requestor_title": "City Attorney",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "whether you are required to disclose receiving a gift of baseball tickets if you reimburse the donor the face value of the tickets",
+    "conclusion": "if within 30 days of receipt you reimburse the donor for the full price of the baseball tickets, you are not required to disclose receipt of the tickets on your statement of economic interests",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Must a city attorney disclose receipt of baseball tickets on their statement of economic interests if they reimburse the donor for the full face value of the tickets within 30 days?",
+    "conclusion_synthetic": "No disclosure is required if the official reimburses the donor for the full price of the gift within 30 days of receipt, as Regulation 18726.1(b)(4) states that reimbursement within 30 days means the official has not received a gift.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Standard advice letter format with clear question and conclusion sections. Document addressed to William Gaistan, City Attorney for City of Antioch. Response provided by Scott Hallabrin, Acting General Counsel, with technical assistance from Colleen McGee."
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [
+      "18726.1"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:35:18.144313Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: whether you are required to disclose receiving a gift of baseball tickets if you reimburse the donor the face value of the tickets\n\nCONCLUSION: if within 30 days of receipt you reimburse the donor for the full price of the baseball tickets, you are not required to disclose receipt of the tickets on your statement of economic interests",
+    "qa_source": "mixed",
+    "first_500_words": "California Fair Political Practices Commission September 1, 1992 William Gaistan, City Attorney City of Antioch P.O. Box 130 Antioch, CA 94509—0504 Re: Your Request for Advice Our File No. A-92-554 Dear Mr. Gaistan: You have requested advice concerning your reporting obligations under the conflict of interest disclosure provisions of the Political Reform Act.’! As city attorney for the City of Antioch, you must report on your statement of economic interests (Form 721) gifts that aggregate $50 or more from a single source. You have asked whether you are required to disclose receiving a gift of baseball tickets if you reimburse the donor the face value of the tickets. Regulation 18726.1(b) (4) states that if an official reimburses the donor within 30 days of receipt of a gift, the official has not received a gift. Therefore, if within 30 days of receipt you reimburse the donor for the full price of the baseball tickets, you are not required to disclose receipt of the tickets on your statement of economic interests. If you have any questions or need further assistance, please contact me at (916) 322—5662. Sincerely, Scott Hallabrin Acting General Counsel by: Colleen McGee Political Reform Consultant Technical Assistance Division “Government Code Sections 81000-91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations Section 18000, et All references to regulations are to Title 2, Division 6 of the California Code of Regulations. 428 j Street, Suite 800 • P.O. Box 807 • Sacramento, CA 95812 • (916) 322-5660",
+    "summary": "FPPC advises that a city attorney is not required to disclose baseball tickets on their statement of economic interests if they reimburse the donor for the full face value within 30 days of receipt. This is based on Regulation 18726.1(b)(4), which provides that reimbursement within 30 days means the gift was not received."
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "83A131",
+  "year": 1983,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1983/83A131.PDF",
+  "pdf_sha256": "6e33792b10022685fc16047f96382322836d478a1668247a54e6654c1399f6d8",
+  "local_pdf_path": "raw_pdfs/1983/83A131.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1983 Advice Letter # 83A131",
+    "tags": [
+      "1983",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:31:45",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1983&tagCount=1&page=4"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T01:21:28.598924Z",
+    "page_count": 3,
+    "word_count": 518,
+    "char_count": 3706,
+    "quality_score": 0.9140198236051178,
+    "olmocr_cost": 0.0076798000000000005,
+    "native_word_count": 141,
+    "haiku_cost": 0.007451999999999999
+  },
+  "content": {
+    "full_text": "State of California\n\nMemorandum\n\nTo      :  Advice Request Meeting Participants                    Date  : May 18, 1983\n\n                                                                   No. M-83-131\n\n\nFrom  : FAIR POLITICAL PRACTICES COMMISSION\n        BOD Leidigm[illegible]\n\nSubject: Recap of Decision Regarding Disclosure/Disqualification By\n         Judicial Branch Personnel\n\n\n        At our May 12, 1983, meeting we discussed several memos and\npast Commission policy dealing with disclosure by court\ncommissioners, retired judges, pro tem judges, and referees. We\nalso discussed disclosure and disqualification issues with regard\nto court administrators, etc., who often do purchasing and make\nother governmental decisions which could materially affect\nprivate financial interests.\n\n        We decided that the whole issue of the exemption of the\njudicial branch from the provisions of the Act (Sections 82041\nand 82049) should be looked at carefully and a legislative\nproposal should be drafted for our legislative program next year,\nkeeping in mind the impact upon the State Bar, Judicial Council,\netc.\n\nState of California                                                          Department of Justice\n\n\nMemorandum\n\n\nTo    :  Janis McLean, Legal Counsel                              Date  :  May 12, 1983\n       Fair Political Practices Commission\n       1100 K Street, P.O. Box 807                          File No.:\n       Sacramento, CA  95804\n\n\nFrom  :  Office of the Attorney General  - Steven H. Kaufmann, Deputy Attorney General\n        LOS ANGELES\n\nSubject:  Request for Advice:  Coastal\n          Commissioner Roger D. Slates\n\n\n       Through this office, Coastal Commissioner Roger D.\nSlates requests your advice concerning whether he would have any\nconflict of interest in voting on matters before the Coastal\nCommission involving Chevron USA, Inc. The question arises\nbecause the Coastal Commission, from time to time, is called upon\nto review and vote on various oil and gas exploration and\ndevelopment activities proposed by Chevron USA, Inc., in the\ncoastal zone and in the Outer Continental Shelf off California.\n\n       To assist you, Commissioner Slates has provided us with\nthe following factual background. He is a 50% owner and\nmanaging partner of Seacliff Realty Company, in Huntington Beach,\nCalifornia. Seacliff Realty Company is in the business of\nhandling real estate matters in the City of Huntington Beach and\nOrange County.\n\n       Seacliff Corporation is the other partner of Seacliff\nRealty Company. Seacliff Corporation is a wholly owned\nsubsidiary of the Huntington Beach Company, which is a land\ndevelopment and holding company. Among other things, it is the\nowner of approximately seven to eight oil wells within the City\nof Huntington Beach. None of the directors or officers of\nSeacliff Corporation sit as directors or officers of the\nHuntington Beach Company.\n\n       Chevron USA, Inc., owns 60% of the Huntington Beach\nCompany. Neither Commissioner Slates, Seacliff Corporation,\nSeacliff Realty Company, nor the Huntington Beach Company have\nany ownership interest in Chevron USA, Inc. Neither do they\nderive any income or direct material financial benefit from any\nof Chevron's oil and gas exploration and development activities\nin California or in the Outer Continental Shelf off California.\n\nJanis McLean\nPage 2\nMay 12, 1983\n\n\nYour advice should be forwarded directly to Roger D.\nSlates at the address indicated below.\n\nPlease let us know if there is anything further we can\ndo to assist you in your determination.\n\n\n[signature]\nSTEVEN H. KAUFMANN\nDeputy Attorney General\n\nSHK:gh\n\ncc:  Roger Slates\n     1701 Main Street\n     Huntington Beach, CA  92648",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1983-05-18",
+    "date_raw": "May 18, 1983",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Whether Coastal Commissioner Roger D. Slates would have any conflict of interest in voting on matters before the Coastal Commission involving Chevron USA, Inc., given that he is a 50% owner and managing partner of Seacliff Realty Company, which is partnered with Seacliff Corporation, a wholly owned subsidiary of Huntington Beach Company (which is 60% owned by Chevron USA, Inc.)",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Does Commissioner Roger D. Slates have a conflict of interest under the Political Reform Act in voting on Coastal Commission matters involving Chevron USA, Inc., where his business partner's parent company is majority-owned by Chevron?",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.6,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document appears to be the incoming request from the Attorney General, not the FPPC's advice response itself. The conclusion/advice from FPPC is not included in this document. The first memo indicates internal FPPC decision-making but is not the response to the Slates inquiry. No explicit CONCLUSION section is present in the Slates request memo."
+  },
+  "citations": {
+    "government_code": [
+      "82041"
+    ],
+    "regulations": [],
+    "prior_opinions": [
+      "M-83-131"
+    ],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-08T17:17:54.587373Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether Coastal Commissioner Roger D. Slates would have any conflict of interest in voting on matters before the Coastal Commission involving Chevron USA, Inc., given that he is a 50% owner and managing partner of Seacliff Realty Company, which is partnered with Seacliff Corporation, a wholly owned subsidiary of Huntington Beach Company (which is 60% owned by Chevron USA, Inc.)",
+    "qa_source": "mixed",
+    "first_500_words": "**Memorandum** To: Advice Request Meeting Participants Date: May 18, 1983 No. M-83-131 From: FAIR POLITICAL PRACTICES COMMISSION Bob Leidigh Subject: Recap of Decision Regarding Disclosure/Disqualification By Judicial Branch Personnel At our May 12, 1983, meeting we discussed several memos and past Commission policy dealing with disclosure by court commissioners, retired judges, pro tem judges, and referees. We also discussed disclosure and disqualification issues with regard to court administrators, etc., who often do purchasing and make other governmental decisions which could materially affect private financial interests. We decided that the whole issue of the exemption of the judicial branch from the provisions of the Act (Sections 82041 and 82049) should be looked at carefully and a legislative proposal should be drafted for our legislative program next year, keeping in mind the impact upon the State Bar, Judicial Council, etc. **Memorandum** To: Janis McLean, Legal Counsel Fair Political Practices Commission 1100 K Street, P.O. Box 807 Sacramento, CA 95804 Date: May 12, 1983 From: Office of the Attorney General Los Angeles Steven H. Kaufmann, Deputy Attorney General Subject: Request for Advice: Coastal Commissioner Roger D. Slates Through this office, Coastal Commissioner Roger D. Slates requests your advice concerning whether he would have any conflict of interest in voting on matters before the Coastal Commission involving Chevron USA, Inc. The question arises because the Coastal Commission, from time to time, is called upon to review and vote on various oil and gas exploration and development activities proposed by Chevron USA, Inc., in the coastal zone and in the Outer Continental Shelf off California. To assist you, Commissioner Slates has provided us with the following factual background. He is a 50% owner and managing partner of Seacliff Realty Company, in Huntington Beach, California. Seacliff Realty Company is in the business of handling real estate matters in the City of Huntington Beach and Orange County. Seacliff Corporation is the other partner of Seacliff Realty Company. Seacliff Corporation is a wholly owned subsidiary of the Huntington Beach Company, which is a land development and holding company. Among other things, it is the owner of approximately seven to eight oil wells within the City of Huntington Beach. None of the directors or officers of Seacliff Corporation sit as directors or officers of the Huntington Beach Company. Chevron USA, Inc., owns 60% of the Huntington Beach Company. Neither Commissioner Slates, Seacliff Corporation, Seacliff Realty Company, nor the Huntington Beach Company have any ownership interest in Chevron USA, Inc. Neither do they derive any income or direct material financial benefit from any of Chevron's oil and gas exploration and development activities in California or in the Outer Continental Shelf off California. Janis McLean Page 2 May 12, 1983 Your advice should be forwarded directly to Roger D. Slates at the address indicated below. Please let us know if there is anything further we can do to assist you in your determination. STEVEN H. KAUFMANN Deputy Attorney General SHK:gh cc: Roger Slates 1701 Main Street Huntington Beach, CA 92648",
+    "summary": "This document contains two memoranda: the first is an internal FPPC recap from May 18, 1983 regarding a decision to examine judicial branch exemptions from the Political Reform Act; the second is a request from the Attorney General's office on May 12, 1983 asking the FPPC for conflict of interest advice regarding Coastal Commissioner Roger D. Slates and his potential conflicts regarding Chevron USA, Inc. matters."
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "80A155",
+  "year": 1980,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1980/80A155.PDF",
+  "pdf_sha256": "2786c67137468fa3218151649154de741d88881636fb50f7e565a13039ba8f68",
+  "local_pdf_path": "raw_pdfs/1980/80A155.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1980 Advice Letter # 80A155",
+    "tags": [
+      "1980",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:27:28",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1980&tagCount=1&page=8"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:03.934761Z",
+    "page_count": 1,
+    "word_count": 295,
+    "char_count": 1874,
+    "quality_score": 0.6325000000000001,
+    "olmocr_cost": null,
+    "native_word_count": 295
+  },
+  "content": {
+    "full_text": "Opinion Request Meeting Participants \nMarch 14, 1980 \nJohn Giansello \nItemization Of Expenditures Made By Agents Or Independent \nContractors \nA political committee organized principally to support a \nballot measure has contracted with a campaign management firm \nto run the campaign. \nThe campaign management firm contracts \nwith a production firm to make television commereials support-\ning the measure. \nThe production firm in turn pays the actors \nwho participate in the commercials. \nThe universal practice \nin the industry is to pay actors who participate in commercials \nin cash. \nThe fees of many actors will exceed $100. \nGovernment Code S84303 requires that no expenditure shall \nbe made, other than overhead or normal operating expenses, by \nan agent or independent contractor, including but not limited \nto an advertising agency, on behalf of or for the benefit of \nany candidate or committee unless it is reported by the candi-\ndate or committee as if the expenditure were made directly \nby the candidate or committee, unless the agent or independent \ncontractor files a campaign statment reporting the expenditure. \nThe question is·, how far down the chain of payments over \ndoes this requirement apply? \nMust the committee list the \npayments from the production company to the actors as if they \nwere paid by the committee directly? If so, are such payments \nto the actors then \"expenditures\" within the meaning of the \nAct? \n(They are considered to be made \"directly\" by the commit-\ntee by reason of Govt .• Code §84303. \nAll payments made by a \nprimary purpose committee even if made for full and adequate \nconsideration are \"expenditures\" per 2 Cal. Admin. Code \nS18225 (b) (4» • \nIf the payments to the actors by the production company \nare \"expenditures,\" then is Government Code S84300(a) implicated, \nwhich prohibits cash expenditures of $100 or more? \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1980-03-14",
+    "date_raw": "March 14, 1980",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "The question is, how far down the chain of payments does this requirement apply? Must the committee list the payments from the production company to the actors as if they were paid by the committee directly? If so, are such payments to the actors then \"expenditures\" within the meaning of the Act? If the payments to the actors by the production company are \"expenditures,\" then is Government Code §84300(a) implicated, which prohibits cash expenditures of $100 or more?",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "When a political committee contracts with a campaign management firm, which contracts with a production firm, which pays actors in cash for commercials, must the committee report the actor payments as direct committee expenditures, and would such cash payments violate the $100+ cash expenditure prohibition?",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.65,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This appears to be an opinion request meeting document from 1980 rather than a completed FPPC advice letter response. No CONCLUSION or SHORT ANSWER section is present. The document contains the QUESTION section detailing a multi-level contracting scenario involving political committee expenditures and cash payment restrictions. The document references Government Code §84303 (agent/contractor reporting) and §84300(a) (cash expenditure prohibition) but does not provide FPPC's conclusion or advice."
+  },
+  "citations": {
+    "government_code": [
+      "84303"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:37:03.934761Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The question is, how far down the chain of payments does this requirement apply? Must the committee list the payments from the production company to the actors as if they were paid by the committee directly? If so, are such payments to the actors then \"expenditures\" within the meaning of the Act? If the payments to the actors by the production company are \"expenditures,\" then is Government Code §84300(a) implicated, which prohibits cash expenditures of $100 or more?",
+    "qa_source": "mixed",
+    "first_500_words": "Opinion Request Meeting Participants March 14, 1980 John Giansello Itemization Of Expenditures Made By Agents Or Independent Contractors A political committee organized principally to support a ballot measure has contracted with a campaign management firm to run the campaign. The campaign management firm contracts with a production firm to make television commereials support- ing the measure. The production firm in turn pays the actors who participate in the commercials. The universal practice in the industry is to pay actors who participate in commercials in cash. The fees of many actors will exceed $100. Government Code S84303 requires that no expenditure shall be made, other than overhead or normal operating expenses, by an agent or independent contractor, including but not limited to an advertising agency, on behalf of or for the benefit of any candidate or committee unless it is reported by the candi- date or committee as if the expenditure were made directly by the candidate or committee, unless the agent or independent contractor files a campaign statment reporting the expenditure. The question is·, how far down the chain of payments over does this requirement apply? Must the committee list the payments from the production company to the actors as if they were paid by the committee directly? If so, are such payments to the actors then \"expenditures\" within the meaning of the Act? (They are considered to be made \"directly\" by the commit- tee by reason of Govt .• Code §84303. All payments made by a primary purpose committee even if made for full and adequate consideration are \"expenditures\" per 2 Cal. Admin. Code S18225 (b) (4» • If the payments to the actors by the production company are \"expenditures,\" then is Government Code S84300(a) implicated, which prohibits cash expenditures of $100 or more?",
+    "summary": "FPPC opinion request regarding the itemization and reporting of expenditures made through a chain of contractors (committee > campaign manager > production firm > actors), specifically addressing whether actor payments must be reported as direct committee expenditures and whether they constitute prohibited cash expenditures under Government Code §84300(a)."
+  }
+}

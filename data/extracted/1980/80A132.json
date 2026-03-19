@@ -1,0 +1,75 @@
+{
+  "id": "80A132",
+  "year": 1980,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1980/80A132.PDF",
+  "pdf_sha256": "304cc4df8222d47a2e5526dbf49ba1c4fb40bed50c620c22a7b3c312437c0869",
+  "local_pdf_path": "raw_pdfs/1980/80A132.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1980 Advice Letter # 80A132",
+    "tags": [
+      "1980",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:27:54",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1980&tagCount=1&page=14"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T16:16:52.974305Z",
+    "page_count": 2,
+    "word_count": 410,
+    "char_count": 2670,
+    "quality_score": 0.9324310413992298,
+    "olmocr_cost": 0.00516516,
+    "native_word_count": 82,
+    "haiku_cost": 0.005131999999999999
+  },
+  "content": {
+    "full_text": "State of California\n\nMemorandum\n\nTo : File                                                    Date : June 27, 1980\n\nFrom : FAIR POLITICAL PRACTICES COMMISSION\n        Sarah Cameron\n\nSubject: Letter from Jack Ortega\n\n\n        I called Mr. Ortega today and apologized for the fact that\nwe had not responded earlier to his letter.  I explained that it\nhad become lost in our procedures somewhere.\n\n        I told him that cannot provide advice to third parties and\ntherefore cannot answer his letter as advice.  I asked him if he\nwould like a package of materials from the Enforcement Division\nexplaining how to file a complaint, and he said, \"Yes.\"  I therefore\ngave his name and address to Enforcement.\n\n        I did explain also that the Act in general only addresses\nconflicts of interest arising from financial interests held by an\nofficial, and I told him what Section 87103 said.  He asked if\nreimbursements from his organization would be \"income.\"  I asked\nif they were a bona fide charitable organization, eligible to have\ncontributions to them be deductible.  He said,\"Yes,\" and I told\nhim that reimbursements for per diem and travel expenses were\ntherefore not income under the provisions of Section 82030.\n\nCALEXICO INDUSTRIAL PARK\n\nDIRECTOR JACK ORTEGA • P. O. BOX 789 • CALEXICO, CALIFORNIA 92231 • PHONE (714) 357-6464\n\nFebruary 5, 1980\n\n\nPolitical Practices Commissioner\nConflict of Interest Division\n1100 K St. Building\nSacramento, California 95804\n\nDear Sirs:\n\nThe Chairman of the City of Calexico Planning Commission, Oscar Gonzales, is an expelled, ex-member of this non-profit corporation, the Calexico Community Action Council, Inc., (C.C.A.C.), a community development corporation who project is the development of a 66 acre industrial park. This chairman has expressed through public statement and letters a bias and contempt for our $35,000.00 economic development effort. Over $3,000,000.00 of public funds have been invested in this project.\n\nHis harrassments have included an unauthorized, Sunday entry onto our site located offices to copy records, using a federally funded copying machine and employee for political activity against the project. There is no way we can receive a fair and objective decision on any matter dealing with the Calexico Industrial Park from him.\n\nIn the coming year we will have numerous appearances before this body of decision makers and feel that he will attempt to discourage potential investors with obstacles and ruses. We have asked that he disqualify himself on matters dealing with this industrial park, but he has refused. Please advise us on this situation.\n\nSincerely yours,\n\nJack Ortega\nDirector\n\nJO/nc",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1980-06-27",
+    "date_raw": "June 27, 1980",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "The Chairman of the City of Calexico Planning Commission, Oscar Gonzales, is an expelled, ex-member of this non-profit corporation, the Calexico Community Action Council, Inc., (C.C.A.C.), a community development corporation who project is the development of a 66 acre industrial park. This chairman has expressed through public statement and letters a bias and contempt for our $35,000.00 economic development effort. Over $3,000,000.00 of public funds have been invested in this project. His harassments have included an unauthorized, Sunday entry onto our site located offices to copy records, using a federally funded copying machine and employee for political activity against the project. There is no way we can receive a fair and objective decision on any matter dealing with the Calexico Industrial Park from him. In the coming year we will have numerous appearances before this body of decision makers and feel that he will attempt to discourage potential investors with obstacles and ruses. We have asked that he disqualify himself on matters dealing with this industrial park, but he has refused. Please advise us on this situation.",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether the Chairman of the Calexico Planning Commission should recuse himself from decisions concerning an industrial park project due to his history with and stated bias against the inquirer's non-profit organization that is developing the project.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.75,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is primarily an incoming request/complaint letter with an attached internal FPPC memo documenting the agency's response. The memo indicates FPPC declined to provide formal advice to the third party (Ortega) but provided limited guidance on conflict of interest law and directed him to the Enforcement Division for complaint filing procedures."
+  },
+  "citations": {
+    "government_code": [
+      "82030",
+      "87103"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T16:39:42.551333Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The Chairman of the City of Calexico Planning Commission, Oscar Gonzales, is an expelled, ex-member of this non-profit corporation, the Calexico Community Action Council, Inc., (C.C.A.C.), a community development corporation who project is the development of a 66 acre industrial park. This chairman has expressed through public statement and letters a bias and contempt for our $35,000.00 economic development effort. Over $3,000,000.00 of public funds have been invested in this project. His harassments have included an unauthorized, Sunday entry onto our site located offices to copy records, using a federally funded copying machine and employee for political activity against the project. There is no way we can receive a fair and objective decision on any matter dealing with the Calexico Industrial Park from him. In the coming year we will have numerous appearances before this body of decision makers and feel that he will attempt to discourage potential investors with obstacles and ruses. We have asked that he disqualify himself on matters dealing with this industrial park, but he has refused. Please advise us on this situation.",
+    "qa_source": "mixed",
+    "first_500_words": "State of California Memorandum To: File Date: June 27, 1980 From: FAIR POLITICAL PRACTICES COMMISSION Sarah Cameron Subject: Letter from Jack Ortega I called Mr. Ortega today and apologized for the fact that we had not responded earlier to his letter. I explained that it had become lost in our procedures somewhere. I told him that cannot provide advice to third parties and therefore cannot answer his letter as advice. I asked him if he would like a package of materials from the Enforcement Division explaining how to file a complaint, and he said, \"Yes.\" I therefore gave his name and address to Enforcement. I did explain also that the Act in general only addresses conflicts of interest arising from financial interests held by an official, and I told him what Section 87103 said. He asked if reimbursements from his organization would be \"income.\" I asked if they were a bona fide charitable organization, eligible to have contributions to them be deductible. He said, \"Yes,\" and I told him that reimbursements for per diem and travel expenses were therefore not income under the provisions of Section 82030. February 5, 1980 Political Practices Commissioner Conflict of Interest Division 1100 K St. Building Sacramento, California 95804 Dear Sirs: The Chairman of the City of Calexico Planning Commission, Oscar Gonzales, is an expelled, ex-member of this non-profit corporation, the Calexico Community Action Council, Inc., (C.C.A.C.), a community development corporation who project is the development of a 66 acre industrial park. This chairman has expressed through public statement and letters a bias and contempt for our $35,000.00 economic development effort. Over $3,000,000.00 of public funds have been invested in this project. His harassments have included an unauthorized, Sunday entry onto our site located offices to copy records, using a federally funded copying machine and employee for political activity against the project. There is no way we can receive a fair and objective decision on any matter dealing with the Calexico Industrial Park from him. In the coming year we will have numerous appearances before this body of decision makers and feel that he will attempt to discourage potential investors with obstacles and ruses. We have asked that he disqualify himself on matters dealing with this industrial park, but he has refused. Please advise us on this situation. Sincerely yours, Jack Ortega Director",
+    "summary": "This document contains an incoming complaint letter from Jack Ortega, Director of the Calexico Community Action Council, regarding alleged bias and conflict of interest by Planning Commission Chairman Oscar Gonzales, along with a June 1980 FPPC internal memorandum documenting Sarah Cameron's phone conversation with Ortega explaining FPPC's limited authority to advise third parties."
+  }
+}

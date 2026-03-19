@@ -1,0 +1,81 @@
+{
+  "id": "97-624",
+  "year": 1997,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/1997/97-624.pdf",
+  "pdf_sha256": "9fdfe9a91e7323c5edeb56d0ab068c14ee8e810ddebe43ff0297c76c3b099c7f",
+  "local_pdf_path": "raw_pdfs/1997/97-624.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 1997 Advice Letter # 97-624",
+    "tags": [
+      "1997",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:45:00",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1997&tagCount=1&page=47"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:51.772281Z",
+    "page_count": 2,
+    "word_count": 281,
+    "char_count": 1814,
+    "quality_score": 0.515,
+    "olmocr_cost": null,
+    "native_word_count": 281
+  },
+  "content": {
+    "full_text": "FAIR POLITICAL PRACTICES COMMISSION\nJanuary26, 1998\nL. Rachel Montes\nCity Clerk\nCity ofEl Monte\n11333 Valley Boulevard\nEl Monte, California 9173 1-3293\nRe: Your Request for Advice\nOur File No. 1-97-624\nDear Ms. Montes:\nThis letter is in response to your request for advice regarding the provisions of the\nPolitical Reform Act (the “Act”).\n1 Since your request does not refer to a specific governmental\ndecision, but instead seeks general guidance, we are treating your request as one for informal\nassistance. In addition, your letter does not name a specific official on whose behalfyou are\nrequesting the advice. Informal assistance does not provide the requestor with the immunity\nprovided by an opinion or formal written advice. (Section 83114; Regulation 18329(c)(3).)\nYou have requested advice regarding whether a conflict of interest would arise when a\ncity councilmember holds a position on a water board or other various boards. I have attached\nthree letters that may assist you in this regard. (Jacobson Advice Letter, No. A-97-078; Pandit\nAdvice Letter, No. 1-94-152; and Lynch Advice Letter, No. 1-93-477.)\nAny further questions you may have on this particular matter are more properly addressed\nto either the Office of the Attorney General; the Office of the County Counsel; or the Office of\nthe City Attorney.\nGovernment Code sections 81000\n- 91014. Commission regulations appear at title 2, sections 18109\n-\n18995, of the California Code of Regulations.\n428 J Street, Suite 450, Sacramento, California 95814 (916) 322-5660\n\n\nFile No. 1-97-624\nPage 2\nIf you have any other questions regarding this matter, please contact me at (916) 322-\n5660.\nSincerely,\nSteven G. Churchwell\nGeneral Counsel\nBy:\nLynda Doherty\nPolitical Reform Consultant, Legal Division\nSGC:LD:tls\nEnclosures\nI:\\Advice Ltrs\\97624.wpd\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1998-01-26",
+    "date_raw": "January26, 1998",
+    "requestor_name": "Montes",
+    "requestor_title": "County Counsel",
+    "requestor_city": null,
+    "document_type": "informal_advice"
+  },
+  "sections": {
+    "question": "Whether a conflict of interest would arise when a city councilmember holds a position on a water board or other various boards.",
+    "conclusion": "The FPPC treats this as an informal assistance request (not a formal opinion) because it does not refer to a specific governmental decision and does not name a specific official. Informal assistance does not provide immunity. The FPPC references three prior advice letters (Jacobson A-97-078, Pandit 1-94-152, and Lynch 1-93-477) and recommends directing further questions to the Attorney General, County Counsel, or City Attorney.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requestor seeks guidance on whether holding a position on a water board or other boards creates a conflict of interest for a city councilmember.",
+    "conclusion_synthetic": "The FPPC provides informal guidance by referencing three related prior advice letters but does not issue a formal opinion, and recommends consulting with legal counsel at the state or local level for more definitive guidance.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is informal advice letter without traditional QUESTION and CONCLUSION section headers. The question and conclusion are embedded in narrative form within the body of the letter. File date is January 26, 1998, but document_id references 1997."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "83114"
+    ],
+    "regulations": [
+      "18109",
+      "18329"
+    ],
+    "prior_opinions": [
+      "A-97-078",
+      "I-93-477",
+      "I-94-152"
+    ],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "gifts_honoraria",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:34:51.772281Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether a conflict of interest would arise when a city councilmember holds a position on a water board or other various boards.\n\nCONCLUSION: The FPPC treats this as an informal assistance request (not a formal opinion) because it does not refer to a specific governmental decision and does not name a specific official. Informal assistance does not provide immunity. The FPPC references three prior advice letters (Jacobson A-97-078, Pandit 1-94-152, and Lynch 1-93-477) and recommends directing further questions to the Attorney General, County Counsel, or City Attorney.",
+    "qa_source": "mixed",
+    "first_500_words": "FAIR POLITICAL PRACTICES COMMISSION January26, 1998 L. Rachel Montes City Clerk City ofEl Monte 11333 Valley Boulevard El Monte, California 9173 1-3293 Re: Your Request for Advice Our File No. 1-97-624 Dear Ms. Montes: This letter is in response to your request for advice regarding the provisions of the Political Reform Act (the “Act”). 1 Since your request does not refer to a specific governmental decision, but instead seeks general guidance, we are treating your request as one for informal assistance. In addition, your letter does not name a specific official on whose behalfyou are requesting the advice. Informal assistance does not provide the requestor with the immunity provided by an opinion or formal written advice. (Section 83114; Regulation 18329(c)(3).) You have requested advice regarding whether a conflict of interest would arise when a city councilmember holds a position on a water board or other various boards. I have attached three letters that may assist you in this regard. (Jacobson Advice Letter, No. A-97-078; Pandit Advice Letter, No. 1-94-152; and Lynch Advice Letter, No. 1-93-477.) Any further questions you may have on this particular matter are more properly addressed to either the Office of the Attorney General; the Office of the County Counsel; or the Office of the City Attorney. Government Code sections 81000 - 91014. Commission regulations appear at title 2, sections 18109 - 18995, of the California Code of Regulations. 428 J Street, Suite 450, Sacramento, California 95814 (916) 322-5660 File No. 1-97-624 Page 2 If you have any other questions regarding this matter, please contact me at (916) 322- 5660. Sincerely, Steven G. Churchwell General Counsel By: Lynda Doherty Political Reform Consultant, Legal Division SGC:LD:tls Enclosures I:\\Advice Ltrs\\97624.wpd",
+    "summary": "The City Clerk of El Monte requested informal advice regarding potential conflicts of interest when city councilmembers hold positions on water boards or other boards. The FPPC declined to issue formal advice but provided references to three related prior advice letters and recommended consulting state or local legal counsel."
+  }
+}

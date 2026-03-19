@@ -1,0 +1,71 @@
+{
+  "id": "17-171W",
+  "year": 2017,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2017/17-171W.pdf",
+  "pdf_sha256": "1368b998b741e77977da2c4d447815432557404d107dabce924f4f177a18cc08",
+  "local_pdf_path": "raw_pdfs/2017/17-171W.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2017 Advice Letter # 17-171W",
+    "tags": [
+      "Advice Letter",
+      "2017"
+    ],
+    "scraped_at": "2026-01-31 15:02:52",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2017&tagCount=1&page=15"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:33:13.696012Z",
+    "page_count": 1,
+    "word_count": 200,
+    "char_count": 1222,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 200
+  },
+  "content": {
+    "full_text": "STATE OF CALIFORNIA \nFAIR POLITICAL PRACTICES COMMISSION \n• 1102 Q Street • Suite 3000 • Sacramento, CA 95811 \n(916) 322-5660 • Fax (916) 322-0886 \nRoxanne M. Diaz, Esq. \nNorwalk City Attorney \nRichards Watson Gershon \n355 South Grand Avenue, 40th Floor \nLos Angeles, CA 90071-3101 \nRe: \nYour Request for Advice \nOur File No. W-17-171 \nDear Ms. Diaz: \nNovember 13,2017 \nThis letter is to notify you that we have withdrawn your request for advice on behalf of Vice \nMayor Leonard Shryock and Bing Hyun, Economic Development Manager for the City of Norwalk \nregarding the conflict of interest provisions of the Political Reform Act and Government Code \nSection I 090. \nOn September 7, 2017, we requested additional information from you on behalf of the \nrequestors. We have not received a response to date. As provided in an email on October 19, 2017, \nyour request would be considered withdrawn if we did not receive a response by October 25, 2017. \nPlease contact our office if, at a later date, you wish to renew this request. \nIf you have other questions on this matter, please contact me at (916) 322-5660. \nLKH:jgl \nSincerely, \nBrian G. Lau \nAssistant General Counsel \nBy: \nL. Karen Harrison \nCounsel, Legal Division \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2017-11-13",
+    "date_raw": "November 13,2017",
+    "requestor_name": "Diaz",
+    "requestor_title": "City Attorney",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Vice Mayor Leonard Shryock and Bing Hyun (Economic Development Manager) requested FPPC advice regarding conflict of interest provisions under the Political Reform Act and Government Code Section 1090.",
+    "conclusion_synthetic": "The FPPC withdrew the request for advice because the requestors failed to provide requested additional information by the October 25, 2017 deadline set after an initial request on September 7, 2017.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Withdrawal letter with no traditional Q/C sections. Document contains clear explanation of withdrawal grounds (non-response to information request within deadline). File number W-17-171 indicates withdrawal status."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:33:13.696012Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Vice Mayor Leonard Shryock and Bing Hyun (Economic Development Manager) requested FPPC advice regarding conflict of interest provisions under the Political Reform Act and Government Code Section 1090.\n\nCONCLUSION: The FPPC withdrew the request for advice because the requestors failed to provide requested additional information by the October 25, 2017 deadline set after an initial request on September 7, 2017.",
+    "qa_source": "synthetic",
+    "first_500_words": "STATE OF CALIFORNIA FAIR POLITICAL PRACTICES COMMISSION • 1102 Q Street • Suite 3000 • Sacramento, CA 95811 (916) 322-5660 • Fax (916) 322-0886 Roxanne M. Diaz, Esq. Norwalk City Attorney Richards Watson Gershon 355 South Grand Avenue, 40th Floor Los Angeles, CA 90071-3101 Re: Your Request for Advice Our File No. W-17-171 Dear Ms. Diaz: November 13,2017 This letter is to notify you that we have withdrawn your request for advice on behalf of Vice Mayor Leonard Shryock and Bing Hyun, Economic Development Manager for the City of Norwalk regarding the conflict of interest provisions of the Political Reform Act and Government Code Section I 090. On September 7, 2017, we requested additional information from you on behalf of the requestors. We have not received a response to date. As provided in an email on October 19, 2017, your request would be considered withdrawn if we did not receive a response by October 25, 2017. Please contact our office if, at a later date, you wish to renew this request. If you have other questions on this matter, please contact me at (916) 322-5660. LKH:jgl Sincerely, Brian G. Lau Assistant General Counsel By: L. Karen Harrison Counsel, Legal Division",
+    "summary": "This is a withdrawal letter notifying the requestor (Norwalk City Attorney) that their advice request on behalf of Vice Mayor Leonard Shryock and Bing Hyun regarding conflict of interest provisions has been withdrawn due to failure to provide requested additional information by the specified deadline."
+  }
+}

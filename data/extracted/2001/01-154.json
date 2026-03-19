@@ -1,0 +1,74 @@
+{
+  "id": "01-154",
+  "year": 2001,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2001/01-154.pdf",
+  "pdf_sha256": "900eaa21d4b769a6feed817e0d75e73654c4d4999adc077408b2a7d5b92255a1",
+  "local_pdf_path": "raw_pdfs/2001/01-154.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2001 Advice Letter # 01-154",
+    "tags": [
+      "2001",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:51:59",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2001&tagCount=1&page=12"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T03:28:49.201227Z",
+    "page_count": 1,
+    "word_count": 138,
+    "char_count": 913,
+    "quality_score": 0.8576592421734263,
+    "olmocr_cost": 0.00246218,
+    "native_word_count": 134,
+    "haiku_cost": 0.0024159999999999997
+  },
+  "content": {
+    "full_text": "FAIR POLITICAL PRACTICES COMMISSION\nP.O. Box 807 • 428 J Street • Sacramento, CA 95812-0807\n(916) 322-5660 • Fax (916) 322-0886\n\nJuly 26, 2001\n\n\n\n\nAlan L. Fox\n4220 Cedar Avenue\nLong Beach, CA 90807\n\nRe: Your Request for Advice\nOur File No. W-01-154\n\nDear Mr. Fox:\n\nThis correspondence is written confirmation that at your request, the Fair Political\nPractices Commission (\"FPPC\") has withdrawn your June 15, 2001 request for advice under the\nprovisions of the Political Reform Act.\n\nEnclosed is a copy of Regulation 18329 for your information. Should you have any\nadditional questions regarding this matter, please contact me at (916) 322-5660.\n\nSincerely,\n\nLuisa Menchaca\nGeneral Counsel\n\nBy: William L. Williams, Jr.\nStaff Counsel, Legal Division\n\n\nWLW:jg\nEnclosure\n\n\n1. Government Code sections 81000-91014. Commission regulations appear at Title 2, sections 18109-18997, of\nthe California Code of Regulations.",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2001-06-15",
+    "date_raw": "June 15, 2001",
+    "requestor_name": null,
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-20T14:43:33.454688Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "The letter is from the Fair Political Practices Commission (FPPC) to Alan L. Fox regarding his request for advice under the Political Reform Act. The FPPC has withdrawn Mr. Fox's June 15, 2001 request for advice and enclosed a copy of Regulation 18329 for his information. For any additional questions, Mr. Fox should contact Luisa Menchaca at (916) 322-5660. Sincerely, Luisa Menchaca General Counsel By: William L. Williams, Jr. Staff Counsel, Legal Division",
+    "qa_source": "extracted",
+    "first_500_words": "The letter is from the Fair Political Practices Commission (FPPC) to Alan L. Fox regarding his request for advice under the Political Reform Act. The FPPC has withdrawn Mr. Fox's June 15, 2001 request for advice and enclosed a copy of Regulation 18329 for his information. For any additional questions, Mr. Fox should contact Luisa Menchaca at (916) 322-5660. Sincerely, Luisa Menchaca General Counsel By: William L. Williams, Jr. Staff Counsel, Legal Division",
+    "summary": null
+  }
+}

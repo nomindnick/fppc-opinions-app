@@ -1,0 +1,71 @@
+{
+  "id": "90046",
+  "year": 1990,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1990/90046.pdf",
+  "pdf_sha256": "146ca9eb8cc5d4c3d9d553eba14d0e00ef7b915c56fe28132921ef697dedba56",
+  "local_pdf_path": "raw_pdfs/1990/90046.pdf",
+  "source_metadata": {
+    "title_raw": "Kockinis, Christine Year: 1990 Advice Letter # 90046",
+    "tags": [
+      "1990",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:10:39",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1990&tagCount=1&page=64"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T17:45:35.238008Z",
+    "page_count": 1,
+    "word_count": 69,
+    "char_count": 450,
+    "quality_score": 0.8238693725030997,
+    "olmocr_cost": 0.0024552999999999997,
+    "native_word_count": 119
+  },
+  "content": {
+    "full_text": "January 11, 1990\n\nMr. Jeevan Ahuja  \nLegal Counsel  \nFair Political Practices Commission  \n428 J Street, Suite 800  \nSacramento, CA 95814\n\nDear Mr. Ahuja:\n\nIn response to my question you advised me that Senator Roberti may use campaign funds to host a farewell dinner for Senator Campbell who retired from the Senate on December 1989.\n\nCan you please confirm that this is your opinion?\n\nSincerely,\n\n[Signature]\nCHRISTINE KOCKINIS  \nAssociate Director",
+    "full_text_markdown": "January 11, 1990\n\nMr. Jeevan Ahuja  \nLegal Counsel  \nFair Political Practices Commission  \n428 J Street, Suite 800  \nSacramento, CA 95814\n\nDear Mr. Ahuja:\n\nIn response to my question you advised me that Senator Roberti may use campaign funds to host a farewell dinner for Senator Campbell who retired from the Senate on December 1989.\n\nCan you please confirm that this is your opinion?\n\nSincerely,\n\n[Signature]\nCHRISTINE KOCKINIS  \nAssociate Director"
+  },
+  "parsed": {
+    "date": "1990-01-11",
+    "date_raw": "January 11, 1990",
+    "requestor_name": "Ahuja",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-20T17:45:35.238008Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "January 11, 1990 Mr. Jeevan Ahuja Legal Counsel Fair Political Practices Commission 428 J Street, Suite 800 Sacramento, CA 95814 Dear Mr. Ahuja: In response to my question you advised me that Senator Roberti may use campaign funds to host a farewell dinner for Senator Campbell who retired from the Senate on December 1989. Can you please confirm that this is your opinion? Sincerely, [Signature] CHRISTINE KOCKINIS Associate Director",
+    "qa_source": "extracted",
+    "first_500_words": "January 11, 1990 Mr. Jeevan Ahuja Legal Counsel Fair Political Practices Commission 428 J Street, Suite 800 Sacramento, CA 95814 Dear Mr. Ahuja: In response to my question you advised me that Senator Roberti may use campaign funds to host a farewell dinner for Senator Campbell who retired from the Senate on December 1989. Can you please confirm that this is your opinion? Sincerely, [Signature] CHRISTINE KOCKINIS Associate Director",
+    "summary": null
+  }
+}

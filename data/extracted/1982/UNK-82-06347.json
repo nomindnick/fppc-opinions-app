@@ -1,0 +1,73 @@
+{
+  "id": "UNK-82-06347",
+  "year": 1982,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1982/82A041.PDF",
+  "pdf_sha256": "225fd45bc14ee88d9bc41567979a78d7375b56c2639af231728578c6efde2df3",
+  "local_pdf_path": "raw_pdfs/1982/82A041.PDF",
+  "source_metadata": {
+    "title_raw": "TA-82-041 - File 18225",
+    "tags": [
+      "1982",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:29:43",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1982&tagCount=1&page=2"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T14:25:41.988637Z",
+    "page_count": 1,
+    "word_count": 190,
+    "char_count": 1137,
+    "quality_score": 0.8314295162233265,
+    "olmocr_cost": 0.0025972,
+    "native_word_count": 192
+  },
+  "content": {
+    "full_text": "TO: [X] JEANNE   [X] JAY\n[X] LYNN   [X] BARBARA\n[X] RICH   [X] BOB S.\n[X] HELEN   [ ] OTHER\n\nFROM: Lynn\nDATE:\n\n[X] TELEPHONE ADVICE - SEE BELOW (from seminar)\n[ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT\n(IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY)\n\nFILE LOCATION: 18225\n\nINCLUDE IN ADVICE PACKAGE: YES [ ] NO [X]\n\nCALLER: Unidentified (seminar attendee)\nREPRESENTING:\nPHONE NUMBER:\n\nQUESTION: A ballot measure is placed on the ballot by a city council asking the voters to \"advise\" them regarding a zoning issue. The council members will not be bound by the advisory vote. Are expenditures connection with the advisory measure reportable?\n\nANSWER: Regulation 18225 defines expenditures for political purposes in part as expenditures which attempt to influence the action of the voters for or against the qualification or passage of any measure. No mention is made of whether or not a vote is \"binding\" or as to how the measure is placed on the ballot. Therefore, if expenditures are made in connection with the advisory measure they are expenditures to attempt to influence the action of the voters and would be reportable.",
+    "full_text_markdown": "TO: [X] JEANNE   [X] JAY\n[X] LYNN   [X] BARBARA\n[X] RICH   [X] BOB S.\n[X] HELEN   [ ] OTHER\n\nFROM: Lynn\nDATE:\n\n[X] TELEPHONE ADVICE - SEE BELOW (from seminar)\n[ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT\n(IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY)\n\nFILE LOCATION: 18225\n\nINCLUDE IN ADVICE PACKAGE: YES [ ] NO [X]\n\nCALLER: Unidentified (seminar attendee)\nREPRESENTING:\nPHONE NUMBER:\n\nQUESTION: A ballot measure is placed on the ballot by a city council asking the voters to \"advise\" them regarding a zoning issue. The council members will not be bound by the advisory vote. Are expenditures connection with the advisory measure reportable?\n\nANSWER: Regulation 18225 defines expenditures for political purposes in part as expenditures which attempt to influence the action of the voters for or against the qualification or passage of any measure. No mention is made of whether or not a vote is \"binding\" or as to how the measure is placed on the ballot. Therefore, if expenditures are made in connection with the advisory measure they are expenditures to attempt to influence the action of the voters and would be reportable."
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "A ballot measure is placed on the ballot by a city council asking the voters to \"advise\" them regarding a zoning issue. The council members will not be bound by the advisory vote. Are expenditures connection with the advisory measure reportable?\n\nANSWER: Regulation 18225 defines expenditures for political purposes in part as expenditures which attempt to influence the action of the voters for or against the qualification or passage of any measure. No mention is made of whether or not a vote is \"binding\" or as to how the measure is placed on the ballot. Therefore, if expenditures are made in connection with the advisory measure they are expenditures to attempt to influence the action of the voters and would be reportable.",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.44999999999999996,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [
+      "18225"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-20T14:25:41.988637Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: A ballot measure is placed on the ballot by a city council asking the voters to \"advise\" them regarding a zoning issue. The council members will not be bound by the advisory vote. Are expenditures connection with the advisory measure reportable?\n\nANSWER: Regulation 18225 defines expenditures for political purposes in part as expenditures which attempt to influence the action of the voters for or against the qualification or passage of any measure. No mention is made of whether or not a vote is \"binding\" or as to how the measure is placed on the ballot. Therefore, if expenditures are made in connection with the advisory measure they are expenditures to attempt to influence the action of the voters and would be reportable.",
+    "qa_source": "extracted",
+    "first_500_words": "TO: [X] JEANNE [X] JAY [X] LYNN [X] BARBARA [X] RICH [X] BOB S. [X] HELEN [ ] OTHER FROM: Lynn DATE: [X] TELEPHONE ADVICE - SEE BELOW (from seminar) [ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT (IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY) FILE LOCATION: 18225 INCLUDE IN ADVICE PACKAGE: YES [ ] NO [X] CALLER: Unidentified (seminar attendee) REPRESENTING: PHONE NUMBER: QUESTION: A ballot measure is placed on the ballot by a city council asking the voters to \"advise\" them regarding a zoning issue. The council members will not be bound by the advisory vote. Are expenditures connection with the advisory measure reportable? ANSWER: Regulation 18225 defines expenditures for political purposes in part as expenditures which attempt to influence the action of the voters for or against the qualification or passage of any measure. No mention is made of whether or not a vote is \"binding\" or as to how the measure is placed on the ballot. Therefore, if expenditures are made in connection with the advisory measure they are expenditures to attempt to influence the action of the voters and would be reportable.",
+    "summary": null
+  }
+}

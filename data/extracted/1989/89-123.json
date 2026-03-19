@@ -1,0 +1,71 @@
+{
+  "id": "89-123",
+  "year": 1989,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1989/fppc-advice/89-123.PDF",
+  "pdf_sha256": "6da2d82bde2268f0e634e484373d5f519be6b39f9427defd8591265879b3884e",
+  "local_pdf_path": "raw_pdfs/1989/89-123.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1989 Advice Letter # 89-123",
+    "tags": [
+      "Advice Letter",
+      "1989"
+    ],
+    "scraped_at": "2026-01-31 16:01:56",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1989&tagCount=1&page=14"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:49.197987Z",
+    "page_count": 4,
+    "word_count": 482,
+    "char_count": 3119,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 482
+  },
+  "content": {
+    "full_text": "March 22, 1989 \nMEMO TO FILE \nTechnical Assistance and Analysis Division \nMary Ann Kvasager \nRE: \nTelephone Advice Provided to Barbara Rhomberg, \nCity of Oakland \nT89-1~3 \nThe attached letter dated February 15, 1989 from Barbara Rhomberg, \nAdministrative Assistant, City of Oakland, correctly summarizes \nthe telephone advice I provided to her. \nMs. Rhomberg did not \nrequest written advice. \n\n\nA \nFebruary 15, 1989 \nMs. Marianne Kvaseger \nFair Political Practices Commission \n428 J street, Suite 800 \nSacramento, CA 95814 \nDear Marianne, \nThank you for answering my questions regarding the campaign \ncontribution limits for partnerships and partners under Proposition \n73. \nDespite your clear exposition, I'm anxious to verify that I \nunderstood the limits correctly. \nThis letter will confirm our \nconversation. \nAs I understood it, there are three possible situations regarding \ncontributions from partnerships: \n1. If one partner owns 50% or more of the firm, then any \ncontribution made by the firm will count against that partner's \nlimit. \nIn other words, the sum of the majority partner's \npersonal contribution and the firm's contribution may not exceed \n$1000. \n2. If the partner owns less than 50% of the firm, and does not \ndirect the firm's contribution, then the partner may contribute \nup to $1000 from personal funds without regard to the \ncontribution by the firm. (The firm is also limited to $1000.) \n3. If the partner owns less than 50% of the firm, but does direct \nthe firm's donation, then -- as in the first case -- the total of \nthe partner's personal contribution and the firm's contribution \nmay not exceed $1000. \nI expect no answer to this letter unless my understanding is \nerroneous. \nAgain, I appreciate your help on this aspect of the new \ncontribution limits. \nBarbara Rhomberg \nAdministrative Assi \n\n\n\n\nCalifornia \nFair Political \nPractices Commission \nBarbara Rhomberg \nAdministrative Assistant \nCity of Oakland \nCity Hall \nOne city Hall Plaza \nOakland, CA \n94612 \nFebruary 27, 1989 \nRe: \nLetter No. 89-123 \nDear Ms. Rhomberg: \nWe received your letter requesting confirmation of advice \nunder the Political Reform Act on February 22, 1989. \nYour letter \nhas been assigned to our Technical Assistance and Analysis \nDivision or response. \nIf you have any questions, you may contact \nthem directly at (916) 322-5662. \nIf the letter is appropriate for confirmation without further \nanalysis, we will attempt to expedite our response. \nA confirming \nresponse will be released after it has gone through our approval \nprocess. \nIf the letter is not appropriate for this treatment, the \nstaff person assigned to prepare the response will contact you \nshortly to advise you. \nIn such cases, the normal analysis, review \nand approval process will be followed. \nYou should be aware that your letter and our response are \npublic records which may be disclosed to any interested person \nupon receipt of a proper request for disclosure. \nDMG:plh:confadv1 \nSincerely, \nDiane M. Griffiths \nGeneral Counsel \nl t t,-\n428 J Street. Suite 800 • P.O. Box 807 • Sacramento CA 95804,0807 • (916) 322,5660 \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1989-03-22",
+    "date_raw": "March 22, 1989",
+    "requestor_name": "Rhomberg",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "As I understood it, there are three possible situations regarding contributions from partnerships: 1. If one partner owns 50% or more of the firm, then any contribution made by the firm will count against that partner's limit. In other words, the sum of the majority partner's personal contribution and the firm's contribution may not exceed $1000. 2. If the partner owns less than 50% of the firm, and does not direct the firm's contribution, then the partner may contribute up to $1000 from personal funds without regard to the contribution by the firm. (The firm is also limited to $1000.) 3. If the partner owns less than 50% of the firm, but does direct the firm's donation, then -- as in the first case -- the total of the partner's personal contribution and the firm's contribution may not exceed $1000.",
+    "conclusion": null,
+    "facts": null,
+    "analysis": ", we will attempt to expedite our response. \nA confirming \nresponse will be released after it has gone through our approval \nprocess. \nIf the letter is not appropriate for this treatment, the \nstaff person assigned to prepare the response will contact you \nshortly to advise you. \nIn such cases, the normal analysis, review \nand approval process will be followed. \nYou should be aware that your letter and our response are \npublic records which may be disclosed to any interested person \nupon receipt of a proper request for disclosure. \nDMG:plh:confadv1",
+    "question_synthetic": "How do campaign contribution limits under Proposition 73 apply to partnerships and partners in three different ownership scenarios (majority owner, minority owner not directing contribution, and minority owner directing contribution)?",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.75,
+    "has_standard_format": false,
+    "parsing_notes": "Format: ocr; LLM: Document contains multiple letters: (1) memo to file from FPPC staff, (2) incoming request letter from Barbara Rhomberg seeking confirmation of telephone advice on Proposition 73 partnership contribution limits, and (3) FPPC acknowledgment/routing letter. This appears to be an incoming request rather than a formal FPPC advice response. The memo indicates no written advice was requested. No formal conclusion section present."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:35:49.197987Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: As I understood it, there are three possible situations regarding contributions from partnerships: 1. If one partner owns 50% or more of the firm, then any contribution made by the firm will count against that partner's limit. In other words, the sum of the majority partner's personal contribution and the firm's contribution may not exceed $1000. 2. If the partner owns less than 50% of the firm, and does not direct the firm's contribution, then the partner may contribute up to $1000 from personal funds without regard to the contribution by the firm. (The firm is also limited to $1000.) 3. If the partner owns less than 50% of the firm, but does direct the firm's donation, then -- as in the first case -- the total of the partner's personal contribution and the firm's contribution may not exceed $1000.",
+    "qa_source": "mixed",
+    "first_500_words": "March 22, 1989 MEMO TO FILE Technical Assistance and Analysis Division Mary Ann Kvasager RE: Telephone Advice Provided to Barbara Rhomberg, City of Oakland T89-1~3 The attached letter dated February 15, 1989 from Barbara Rhomberg, Administrative Assistant, City of Oakland, correctly summarizes the telephone advice I provided to her. Ms. Rhomberg did not request written advice. A February 15, 1989 Ms. Marianne Kvaseger Fair Political Practices Commission 428 J street, Suite 800 Sacramento, CA 95814 Dear Marianne, Thank you for answering my questions regarding the campaign contribution limits for partnerships and partners under Proposition 73. Despite your clear exposition, I'm anxious to verify that I understood the limits correctly. This letter will confirm our conversation. As I understood it, there are three possible situations regarding contributions from partnerships: 1. If one partner owns 50% or more of the firm, then any contribution made by the firm will count against that partner's limit. In other words, the sum of the majority partner's personal contribution and the firm's contribution may not exceed $1000. 2. If the partner owns less than 50% of the firm, and does not direct the firm's contribution, then the partner may contribute up to $1000 from personal funds without regard to the contribution by the firm. (The firm is also limited to $1000.) 3. If the partner owns less than 50% of the firm, but does direct the firm's donation, then -- as in the first case -- the total of the partner's personal contribution and the firm's contribution may not exceed $1000. I expect no answer to this letter unless my understanding is erroneous. Again, I appreciate your help on this aspect of the new contribution limits. Barbara Rhomberg Administrative Assi California Fair Political Practices Commission Barbara Rhomberg Administrative Assistant City of Oakland City Hall One city Hall Plaza Oakland, CA 94612 February 27, 1989 Re: Letter No. 89-123 Dear Ms. Rhomberg: We received your letter requesting confirmation of advice under the Political Reform Act on February 22, 1989. Your letter has been assigned to our Technical Assistance and Analysis Division or response. If you have any questions, you may contact them directly at (916) 322-5662. If the letter is appropriate for confirmation without further analysis, we will attempt to expedite our response. A confirming response will be released after it has gone through our approval process. If the letter is not appropriate for this treatment, the staff person assigned to prepare the response will contact you shortly to advise you. In such cases, the normal analysis, review and approval process will be followed. You should be aware that your letter and our response are public records which may be disclosed to any interested person upon receipt of a proper request for disclosure. DMG:plh:confadv1 Sincerely, Diane M. Griffiths General Counsel l t t,- 428 J Street. Suite 800 • P.O. Box 807 • Sacramento CA 95804,0807 • (916) 322,5660",
+    "summary": "This document contains a memo from FPPC staff Mary Ann Kvasager documenting telephone advice provided to Barbara Rhomberg of Oakland regarding partnership contribution limits, along with Rhomberg's confirmation letter and FPPC's acknowledgment letter assigning the matter for response. No formal written conclusion was provided in the materials presented."
+  }
+}

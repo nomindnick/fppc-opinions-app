@@ -1,0 +1,73 @@
+{
+  "id": "UNK-91-10627",
+  "year": 1991,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1991/91401.pdf",
+  "pdf_sha256": "a727d9994cc58afdb9018e9a06ee8a839f849701fe7bc4174b89697e5928e8f7",
+  "local_pdf_path": "raw_pdfs/1991/91401.pdf",
+  "source_metadata": {
+    "title_raw": "1991-91401-Reynoso, Sarah",
+    "tags": [
+      "1991",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:21:56",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1991&tagCount=1&page=83"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:30.305054Z",
+    "page_count": 1,
+    "word_count": 209,
+    "char_count": 1392,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 209
+  },
+  "content": {
+    "full_text": "City of Berk eley\nFair Campaign Practices Commission\nMartin Luther King, Jr.\nCivic Center Building\n2180 Milvia Street\nBerkeley, California 94704\n(41s) 644-6380\nTTY 644-691s\nAugust 21, 1991\nLegal Division\nFair Political Practices Commission\n428 I'Jtr Street, Suite 800\nSacramento, CA 9581 4\nRe: Request for Advice Letter\nDear Colleague:\nI am writing to you on behalf of the City of Berkeley's Fair\nCampaign Practices Commission (FCPC). During the November 1990\nelection and following Judge Karltonrs ruling in SEIU v. FPPC,\nthe FCPC received several inquiries from candidat.es regarding the\napplicability of Government Code section 85304 to candidat.es for\nlocal municipal elections. At that time, I was verbally advised\nthat because the City of Berkeley had a local ordinance which\nlimited campaign contributions to $250 per election, Government\nCode section 85304 prohibited local candidates from having multi-\ncandidate controlled committees and from transferring campaign\ncontributions to other candidates. The FCPC would like to\nclarify for locaI candidates whether this interpretation of\nSection 85304 is still \ncorrect and therefore requests that your\nresponse be in the form of a writter^ a,ivice ietter.\nIf you need further information, please feel free to contact me.\nThank you for your cooperation.\nSincerely,\nS\"^tt^W\nSARAH REYNOSO\nFCPC Staff Counsel\nSR: th\ncc: \nFCPC Commissioners\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1991-08-21",
+    "date_raw": "August 21, 1991",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "Whether Government Code section 85304 prohibits local candidates in Berkeley from having multi-candidate controlled committees and from transferring campaign contributions to other candidates, given that the City of Berkeley has a local ordinance limiting campaign contributions to $250 per election.",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The Berkeley Fair Campaign Practices Commission seeks clarification on whether Government Code section 85304, in light of Judge Karlton's ruling in SEIU v. FPPC, prohibits local candidates from establishing multi-candidate controlled committees and transferring contributions when the local jurisdiction has a $250 contribution limit.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an incoming request letter from Berkeley FCPC to the state FPPC, not an FPPC response. No formal Question or Conclusion sections present. Document requests written advice from FPPC on interpretation of section 85304 post-SEIU v. FPPC ruling."
+  },
+  "citations": {
+    "government_code": [
+      "85304"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:35:30.305054Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether Government Code section 85304 prohibits local candidates in Berkeley from having multi-candidate controlled committees and from transferring campaign contributions to other candidates, given that the City of Berkeley has a local ordinance limiting campaign contributions to $250 per election.",
+    "qa_source": "mixed",
+    "first_500_words": "City of Berk eley Fair Campaign Practices Commission Martin Luther King, Jr. Civic Center Building 2180 Milvia Street Berkeley, California 94704 (41s) 644-6380 TTY 644-691s August 21, 1991 Legal Division Fair Political Practices Commission 428 I'Jtr Street, Suite 800 Sacramento, CA 9581 4 Re: Request for Advice Letter Dear Colleague: I am writing to you on behalf of the City of Berkeley's Fair Campaign Practices Commission (FCPC). During the November 1990 election and following Judge Karltonrs ruling in SEIU v. FPPC, the FCPC received several inquiries from candidat.es regarding the applicability of Government Code section 85304 to candidat.es for local municipal elections. At that time, I was verbally advised that because the City of Berkeley had a local ordinance which limited campaign contributions to $250 per election, Government Code section 85304 prohibited local candidates from having multi- candidate controlled committees and from transferring campaign contributions to other candidates. The FCPC would like to clarify for locaI candidates whether this interpretation of Section 85304 is still correct and therefore requests that your response be in the form of a writter^ a,ivice ietter. If you need further information, please feel free to contact me. Thank you for your cooperation. Sincerely, S\"^tt^W SARAH REYNOSO FCPC Staff Counsel SR: th cc: FCPC Commissioners",
+    "summary": "The City of Berkeley's Fair Campaign Practices Commission requests an FPPC advice letter regarding the interpretation of Government Code section 85304 and its application to local candidates following a judicial ruling, specifically concerning whether candidates can have multi-candidate committees and transfer contributions under Berkeley's $250 contribution limit."
+  }
+}

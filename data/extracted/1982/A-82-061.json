@@ -1,0 +1,71 @@
+{
+  "id": "A-82-061",
+  "year": 1982,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1982/82A061.PDF",
+  "pdf_sha256": "039afd4abd3d422316d4876c734be2cee95e5edc16a718f30a8fc070e8a8eb9d",
+  "local_pdf_path": "raw_pdfs/1982/82A061.PDF",
+  "source_metadata": {
+    "title_raw": "John Kroeger - A-82-061 - March 17, 1974 - Sacramento",
+    "tags": [
+      "1982",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:29:43",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1982&tagCount=1&page=2"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-07T16:25:54.180728Z",
+    "page_count": 1,
+    "word_count": 190,
+    "char_count": 1240,
+    "quality_score": 0.7175,
+    "olmocr_cost": 0.00262214,
+    "native_word_count": 97
+  },
+  "content": {
+    "full_text": "March 17, 1982\n\nJohn Kroeger  \nAssembly Committee on Business & Professions  \nCalifornia State Assembly  \nState Capitol, Rm. 5175  \nSacramento, CA 95814\n\nRe: Telephone Advice\n\nDear Mr. Kroeger:\n\nThank you for your recent request for telephone advice. This letter will confirm my advice to you. You had asked whether any conflict of interest problems would arise if a legislative staff person (committee consultant) were to accept outside employment (moonlight) as a lobbyist for pay for another organization.\n\nI advised you that it is the Commission's position that this would constitute using one's official position to influence a governmental decision under the Political Reform Act and our regulation, 2 Cal. Adm. Code Section 18700. Receiving pay for doing this would give rise to the requisite financial interest under 2 Cal. Adm. Code Section 18702(b)(3)(B).\n\nIn addition, I suggest to you that the individual read the Legislature's Code of Ethics, found at Government Code Sections 8920 through 8926.\n\nIf I can be of further assistance or answer any other questions, please do not hesitate to contact me at (916) 322-5901.\n\nSincerely,\n\n[Signature]\nRobert E. Leidigh  \nCounsel  \nLegal Division\n\nREL:km  \nEnclosures: §18700 and §18702",
+    "full_text_markdown": "March 17, 1982\n\nJohn Kroeger  \nAssembly Committee on Business & Professions  \nCalifornia State Assembly  \nState Capitol, Rm. 5175  \nSacramento, CA 95814\n\nRe: Telephone Advice\n\nDear Mr. Kroeger:\n\nThank you for your recent request for telephone advice. This letter will confirm my advice to you. You had asked whether any conflict of interest problems would arise if a legislative staff person (committee consultant) were to accept outside employment (moonlight) as a lobbyist for pay for another organization.\n\nI advised you that it is the Commission's position that this would constitute using one's official position to influence a governmental decision under the Political Reform Act and our regulation, 2 Cal. Adm. Code Section 18700. Receiving pay for doing this would give rise to the requisite financial interest under 2 Cal. Adm. Code Section 18702(b)(3)(B).\n\nIn addition, I suggest to you that the individual read the Legislature's Code of Ethics, found at Government Code Sections 8920 through 8926.\n\nIf I can be of further assistance or answer any other questions, please do not hesitate to contact me at (916) 322-5901.\n\nSincerely,\n\n[Signature]\nRobert E. Leidigh  \nCounsel  \nLegal Division\n\nREL:km  \nEnclosures: §18700 and §18702"
+  },
+  "parsed": {
+    "date": "1982-03-17",
+    "date_raw": "March 17, 1982",
+    "requestor_name": "Kroeger",
+    "requestor_title": null,
+    "requestor_city": "Sacramento",
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Whether any conflict of interest problems would arise if a legislative staff person (committee consultant) were to accept outside employment (moonlight) as a lobbyist for pay for another organization.",
+    "conclusion": "It is the Commission's position that this would constitute using one's official position to influence a governmental decision under the Political Reform Act and our regulation, 2 Cal. Adm. Code Section 18700. Receiving pay for doing this would give rise to the requisite financial interest under 2 Cal. Adm. Code Section 18702(b)(3)(B). The individual should also read the Legislature's Code of Ethics, found at Government Code Sections 8920 through 8926.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a legislative staff person can ethically accept outside employment as a paid lobbyist for another organization without creating conflicts of interest.",
+    "conclusion_synthetic": "The FPPC concluded that a legislative staff person accepting paid outside employment as a lobbyist would violate the Political Reform Act by using their official position to influence governmental decisions and creating prohibited financial interests. The individual should also review the Legislature's Code of Ethics.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Telephone advice confirmation letter with clear Q&C structure embedded in narrative form. Document cites specific regulatory sections (2 Cal. Adm. Code §18700 and §18702). Enclosures referenced but not included in provided text."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T16:25:54.180728Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether any conflict of interest problems would arise if a legislative staff person (committee consultant) were to accept outside employment (moonlight) as a lobbyist for pay for another organization.\n\nCONCLUSION: It is the Commission's position that this would constitute using one's official position to influence a governmental decision under the Political Reform Act and our regulation, 2 Cal. Adm. Code Section 18700. Receiving pay for doing this would give rise to the requisite financial interest under 2 Cal. Adm. Code Section 18702(b)(3)(B). The individual should also read the Legislature's Code of Ethics, found at Government Code Sections 8920 through 8926.",
+    "qa_source": "mixed",
+    "first_500_words": "March 17, 1982 John Kroeger Assembly Committee on Business & Professions California State Assembly State Capitol, Rm. 5175 Sacramento, CA 95814 Re: Telephone Advice Dear Mr. Kroeger: Thank you for your recent request for telephone advice. This letter will confirm my advice to you. You had asked whether any conflict of interest problems would arise if a legislative staff person (committee consultant) were to accept outside employment (moonlight) as a lobbyist for pay for another organization. I advised you that it is the Commission's position that this would constitute using one's official position to influence a governmental decision under the Political Reform Act and our regulation, 2 Cal. Adm. Code Section 18700. Receiving pay for doing this would give rise to the requisite financial interest under 2 Cal. Adm. Code Section 18702(b)(3)(B). In addition, I suggest to you that the individual read the Legislature's Code of Ethics, found at Government Code Sections 8920 through 8926. If I can be of further assistance or answer any other questions, please do not hesitate to contact me at (916) 322-5901. Sincerely, [Signature] Robert E. Leidigh Counsel Legal Division REL:km Enclosures: §18700 and §18702",
+    "summary": "FPPC advice letter confirming telephone counsel that a legislative committee consultant would face conflict of interest violations if accepting outside employment as a paid lobbyist, as it would constitute misuse of official position under the Political Reform Act."
+  }
+}

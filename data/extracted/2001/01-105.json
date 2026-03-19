@@ -1,0 +1,71 @@
+{
+  "id": "01-105",
+  "year": 2001,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2001/01-105.pdf",
+  "pdf_sha256": "44dd53953f1b735fb706ba1304e7e18562da84ad0cd3ea6a4e2e938877aa421f",
+  "local_pdf_path": "raw_pdfs/2001/01-105.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2001 Advice Letter # 01-105",
+    "tags": [
+      "2001",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:33:25",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2001&tagCount=1&page=9"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T00:43:34.513888Z",
+    "page_count": 1,
+    "word_count": 89,
+    "char_count": 554,
+    "quality_score": 0.8171414946211729,
+    "olmocr_cost": 0.00250002,
+    "native_word_count": 113
+  },
+  "content": {
+    "full_text": "May 11, 2001\n\nThomas F. Palmeri, Coucilman\nCity of Covina\nPost Office Box 1752\nCovina, CA 91722\n\nRe: Your Request for Advice\n    Our File No. W-01-105\n\nDear Mr. Palmeri:\n\nThank you for your recent voicemail message. This letter is to confirm that you have withdrawn your request for advice, dated May 1, 2001, regarding the provisions of the Political Reform Act.\n\nIf you have any other questions regarding this matter, please contact me at (916) 322-5660.\n\nSincerely,\n\nLuisa Menchaca\nGeneral Counsel\n\nBy: Holly B. Armstrong\nStaff Counsel, Legal Division",
+    "full_text_markdown": "May 11, 2001\n\nThomas F. Palmeri, Coucilman\nCity of Covina\nPost Office Box 1752\nCovina, CA 91722\n\nRe: Your Request for Advice\n    Our File No. W-01-105\n\nDear Mr. Palmeri:\n\nThank you for your recent voicemail message. This letter is to confirm that you have withdrawn your request for advice, dated May 1, 2001, regarding the provisions of the Political Reform Act.\n\nIf you have any other questions regarding this matter, please contact me at (916) 322-5660.\n\nSincerely,\n\nLuisa Menchaca\nGeneral Counsel\n\nBy: Holly B. Armstrong\nStaff Counsel, Legal Division"
+  },
+  "parsed": {
+    "date": "2001-05-11",
+    "date_raw": "May 11, 2001",
+    "requestor_name": "Palmeri",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-20T00:43:34.513888Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "May 11, 2001 Thomas F. Palmeri, Coucilman City of Covina Post Office Box 1752 Covina, CA 91722 Re: Your Request for Advice Our File No. W-01-105 Dear Mr. Palmeri: Thank you for your recent voicemail message. This letter is to confirm that you have withdrawn your request for advice, dated May 1, 2001, regarding the provisions of the Political Reform Act. If you have any other questions regarding this matter, please contact me at (916) 322-5660. Sincerely, Luisa Menchaca General Counsel By: Holly B. Armstrong Staff Counsel, Legal Division",
+    "qa_source": "extracted",
+    "first_500_words": "May 11, 2001 Thomas F. Palmeri, Coucilman City of Covina Post Office Box 1752 Covina, CA 91722 Re: Your Request for Advice Our File No. W-01-105 Dear Mr. Palmeri: Thank you for your recent voicemail message. This letter is to confirm that you have withdrawn your request for advice, dated May 1, 2001, regarding the provisions of the Political Reform Act. If you have any other questions regarding this matter, please contact me at (916) 322-5660. Sincerely, Luisa Menchaca General Counsel By: Holly B. Armstrong Staff Counsel, Legal Division",
+    "summary": null
+  }
+}

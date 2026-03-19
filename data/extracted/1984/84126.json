@@ -1,0 +1,73 @@
+{
+  "id": "84126",
+  "year": 1984,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1984/fppc-advice/84126.PDF",
+  "pdf_sha256": "0882a906a2596e5ae5de6f0c5f8556e6ff130ee05cc4c27d12f4d04a0b6b6a0b",
+  "local_pdf_path": "raw_pdfs/1984/84126.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1984 Advice Letter # 84126",
+    "tags": [
+      "1984",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:34:32",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1984&tagCount=1&page=15"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T14:09:19.957809Z",
+    "page_count": 1,
+    "word_count": 233,
+    "char_count": 1407,
+    "quality_score": 0.862191484534289,
+    "olmocr_cost": 0.00265568,
+    "native_word_count": 186
+  },
+  "content": {
+    "full_text": "TO: [ ] JEANNE   [ ] JAY   [ ] OTHER: ___________ FROM: J. Pritchard\n[ ] LYNN   [ ] BARBARA\n[ ] JEANETTE   [ ] ALICE\n[ ] HELEN   [ ] MARY ANN\n[ ] CARLA\n[XX] TELEPHONE ADVICE - SEE BELOW\n[ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT\n(IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY)\nDATE: 5/10/84\n\nFILE LOCATION: Sections 86107 and 86109\nINCLUDE IN ADVICE PACKAGE: YES [XX]   NO [ ]\n\nCALLER Rob Oglesby\nREPRESENTING Orrick, Herrington\nPHONE NUMBER: 447-7752\n\nQUESTION: Orrick, Herrington, a retained entity, provided pro bono lobbying services to a charitable organization. Is the charitable organization required to file reports as an employer of a lobbyist? Must the lawfirm report the payments to its lobbyist for the services provided on behalf of the charitable organization?\n\nANSWER: The charitable organization is not required to file reports as an employer because it did not make payments. The lawfirm and its lobbyist must report the payments from the lawfirm to the lobbyist for the services provided on behalf of the charitable organization. In addition, the lawfirm and the lobbyist must report in Part I of their quarterly reports the legislative and administrative actions they attempted to influence on behalf of the charitable organization. I suggested that they also indicate which actions they lobbied on behalf of the charitable organization and indicate that it was pro bono work.",
+    "full_text_markdown": "TO: [ ] JEANNE   [ ] JAY   [ ] OTHER: ___________ FROM: J. Pritchard\n[ ] LYNN   [ ] BARBARA\n[ ] JEANETTE   [ ] ALICE\n[ ] HELEN   [ ] MARY ANN\n[ ] CARLA\n[XX] TELEPHONE ADVICE - SEE BELOW\n[ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT\n(IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY)\nDATE: 5/10/84\n\nFILE LOCATION: Sections 86107 and 86109\nINCLUDE IN ADVICE PACKAGE: YES [XX]   NO [ ]\n\nCALLER Rob Oglesby\nREPRESENTING Orrick, Herrington\nPHONE NUMBER: 447-7752\n\nQUESTION: Orrick, Herrington, a retained entity, provided pro bono lobbying services to a charitable organization. Is the charitable organization required to file reports as an employer of a lobbyist? Must the lawfirm report the payments to its lobbyist for the services provided on behalf of the charitable organization?\n\nANSWER: The charitable organization is not required to file reports as an employer because it did not make payments. The lawfirm and its lobbyist must report the payments from the lawfirm to the lobbyist for the services provided on behalf of the charitable organization. In addition, the lawfirm and the lobbyist must report in Part I of their quarterly reports the legislative and administrative actions they attempted to influence on behalf of the charitable organization. I suggested that they also indicate which actions they lobbied on behalf of the charitable organization and indicate that it was pro bono work."
+  },
+  "parsed": {
+    "date": "1984-05-10",
+    "date_raw": "5/10/84",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Orrick, Herrington, a retained entity, provided pro bono lobbying services to a charitable organization. Is the charitable organization required to file reports as an employer of a lobbyist? Must the lawfirm report the payments to its lobbyist for the services provided on behalf of the charitable organization?\n\nANSWER: The charitable organization is not required to file reports as an employer because it did not make payments. The lawfirm and its lobbyist must report the payments from the lawfirm to the lobbyist for the services provided on behalf of the charitable organization. In addition, the lawfirm and the lobbyist must report in Part I of their quarterly reports the legislative and administrative actions they attempted to influence on behalf of the charitable organization. I suggested that they also indicate which actions they lobbied on behalf of the charitable organization and indicate that it was pro bono work.",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.44999999999999996,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern"
+  },
+  "citations": {
+    "government_code": [
+      "86107"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "lobbying",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-20T14:09:19.957809Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Orrick, Herrington, a retained entity, provided pro bono lobbying services to a charitable organization. Is the charitable organization required to file reports as an employer of a lobbyist? Must the lawfirm report the payments to its lobbyist for the services provided on behalf of the charitable organization?\n\nANSWER: The charitable organization is not required to file reports as an employer because it did not make payments. The lawfirm and its lobbyist must report the payments from the lawfirm to the lobbyist for the services provided on behalf of the charitable organization. In addition, the lawfirm and the lobbyist must report in Part I of their quarterly reports the legislative and administrative actions they attempted to influence on behalf of the charitable organization. I suggested that they also indicate which actions they lobbied on behalf of the charitable organization and indicate that it was pro bono work.",
+    "qa_source": "extracted",
+    "first_500_words": "TO: [ ] JEANNE [ ] JAY [ ] OTHER: ___________ FROM: J. Pritchard [ ] LYNN [ ] BARBARA [ ] JEANETTE [ ] ALICE [ ] HELEN [ ] MARY ANN [ ] CARLA [XX] TELEPHONE ADVICE - SEE BELOW [ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT (IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY) DATE: 5/10/84 FILE LOCATION: Sections 86107 and 86109 INCLUDE IN ADVICE PACKAGE: YES [XX] NO [ ] CALLER Rob Oglesby REPRESENTING Orrick, Herrington PHONE NUMBER: 447-7752 QUESTION: Orrick, Herrington, a retained entity, provided pro bono lobbying services to a charitable organization. Is the charitable organization required to file reports as an employer of a lobbyist? Must the lawfirm report the payments to its lobbyist for the services provided on behalf of the charitable organization? ANSWER: The charitable organization is not required to file reports as an employer because it did not make payments. The lawfirm and its lobbyist must report the payments from the lawfirm to the lobbyist for the services provided on behalf of the charitable organization. In addition, the lawfirm and the lobbyist must report in Part I of their quarterly reports the legislative and administrative actions they attempted to influence on behalf of the charitable organization. I suggested that they also indicate which actions they lobbied on behalf of the charitable organization and indicate that it was pro bono work.",
+    "summary": null
+  }
+}

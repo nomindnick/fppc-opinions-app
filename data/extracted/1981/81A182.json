@@ -1,0 +1,71 @@
+{
+  "id": "81A182",
+  "year": 1981,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1981/81A182.PDF",
+  "pdf_sha256": "bd7d6d7bd1e077e2dc7fbd94eca03173549eed3b3b737f3cc5e3e3c7df2102aa",
+  "local_pdf_path": "raw_pdfs/1981/81A182.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1981 Advice Letter # 81A182",
+    "tags": [
+      "Advice Letter",
+      "1981"
+    ],
+    "scraped_at": "2026-01-31 15:28:33",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1981&tagCount=1&page=7"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T23:11:36.259592Z",
+    "page_count": 1,
+    "word_count": 143,
+    "char_count": 824,
+    "quality_score": 0.817582673972553,
+    "olmocr_cost": 0.00256022,
+    "native_word_count": 145
+  },
+  "content": {
+    "full_text": "TO: [ ] JEANNE   [ ] JAY   FROM: Rich\n[ ] LYNN   [ ] BARBARA   DATE: 2/25/81\n[ ] RICH   [ ] BOB S.\n[ ] HELEN   [ ] OTHER__________   T-81-182\n\n[X] TELEPHONE ADVICE - SEE BELOW\n[ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT\n(If you have any comments, notify advisor within 1 day)\n\nFILE LOCATION:\n\nINCLUDE IN ADVICE PACKAGE: YES [ ] NO [X]\n\nCALLER Kirk Pesner\nREPRESENTING Dobbs & Nielsen\nPHONE NUMBER: Los Angeles\n\nQUESTION: During the period in which a 'PAC' is making \"late contributions to candidates and/or measures, is the 'PAC' required to report contributions of $1,000 it receives as \"late contributions\"?\n\nANSWER: No! A \"late contribution\" is any contribution made to or received by 1) a candidate; 2) a controlled committee or 3) a committee formed or existing primarily to support or oppose a candidate or measure.",
+    "full_text_markdown": "TO: [ ] JEANNE   [ ] JAY   FROM: Rich\n[ ] LYNN   [ ] BARBARA   DATE: 2/25/81\n[ ] RICH   [ ] BOB S.\n[ ] HELEN   [ ] OTHER__________   T-81-182\n\n[X] TELEPHONE ADVICE - SEE BELOW\n[ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT\n(If you have any comments, notify advisor within 1 day)\n\nFILE LOCATION:\n\nINCLUDE IN ADVICE PACKAGE: YES [ ] NO [X]\n\nCALLER Kirk Pesner\nREPRESENTING Dobbs & Nielsen\nPHONE NUMBER: Los Angeles\n\nQUESTION: During the period in which a 'PAC' is making \"late contributions to candidates and/or measures, is the 'PAC' required to report contributions of $1,000 it receives as \"late contributions\"?\n\nANSWER: No! A \"late contribution\" is any contribution made to or received by 1) a candidate; 2) a controlled committee or 3) a committee formed or existing primarily to support or oppose a candidate or measure."
+  },
+  "parsed": {
+    "date": "1981-02-25",
+    "date_raw": "2/25/81",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "During the period in which a 'PAC' is making \"late contributions to candidates and/or measures, is the 'PAC' required to report contributions of $1,000 it receives as \"late contributions\"?\n\nANSWER: No! A \"late contribution\" is any contribution made to or received by 1) a candidate; 2) a controlled committee or 3) a committee formed or existing primarily to support or oppose a candidate or measure.",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.44999999999999996,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T23:11:36.259592Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: During the period in which a 'PAC' is making \"late contributions to candidates and/or measures, is the 'PAC' required to report contributions of $1,000 it receives as \"late contributions\"?\n\nANSWER: No! A \"late contribution\" is any contribution made to or received by 1) a candidate; 2) a controlled committee or 3) a committee formed or existing primarily to support or oppose a candidate or measure.",
+    "qa_source": "extracted",
+    "first_500_words": "TO: [ ] JEANNE [ ] JAY FROM: Rich [ ] LYNN [ ] BARBARA DATE: 2/25/81 [ ] RICH [ ] BOB S. [ ] HELEN [ ] OTHER__________ T-81-182 [X] TELEPHONE ADVICE - SEE BELOW [ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT (If you have any comments, notify advisor within 1 day) FILE LOCATION: INCLUDE IN ADVICE PACKAGE: YES [ ] NO [X] CALLER Kirk Pesner REPRESENTING Dobbs & Nielsen PHONE NUMBER: Los Angeles QUESTION: During the period in which a 'PAC' is making \"late contributions to candidates and/or measures, is the 'PAC' required to report contributions of $1,000 it receives as \"late contributions\"? ANSWER: No! A \"late contribution\" is any contribution made to or received by 1) a candidate; 2) a controlled committee or 3) a committee formed or existing primarily to support or oppose a candidate or measure.",
+    "summary": null
+  }
+}

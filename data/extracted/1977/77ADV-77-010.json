@@ -1,0 +1,72 @@
+{
+  "id": "77ADV-77-010",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-010.PDF",
+  "pdf_sha256": "92d29f2cd9160347da136b2a2930dce99906e3d0b2d58c96c1d56d1d8170696f",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-010.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-010",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:20:29",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=21"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T04:04:15.236870Z",
+    "page_count": 1,
+    "word_count": 205,
+    "char_count": 1236,
+    "quality_score": 0.9205400122806657,
+    "olmocr_cost": 0.00253356,
+    "native_word_count": 80,
+    "haiku_cost": 0.002648
+  },
+  "content": {
+    "full_text": "State of California SUPERSEDED\nFair Political Practices Commission\n\nP.O. BOX 807 • SACRAMENTO, 95804 • 1100 K STREET BUILDING, SACRAMENTO, 95814\n107 SOUTH BROADWAY • • • SUITE 2140A • • • LOS ANGELES, 90012\n\nApril 25, 1977\n\nInes Del Campo\nCity Clerk\nP. O. Box 550\nArroyo Grande, CA 93420\n\nDear Ms. Del Campo:\n\nThis letter will confirm my advice to you by telephone\ntoday concerning the campaign disclosure provisions\nof the Political Reform Act.\n\nYou asked whether the local Chamber of Commerce will\nincur any reporting obligations under the Act by virtue\nof sponsoring a public meeting at which all candidates\nin your May 10th election will appear. I advised that\nas long as the Chamber provides a forum for all of the\ncandidates on an equal basis and does not make any\nexpenditures to advocate the election of any of the\ncandidates, that it will not be required to report\nits payments in connection with the meeting. Further-\nmore, the candidates need not report an allocated\nportion of the expenditures made by the Chamber as an\nin-kind contribution.\n\nIf you have further questions, please contact me.\n\nSincerely yours,\n\n\nNan Emmerson\nSpecial Compliance Representative\n\n\nNE:jg\n\n\nSACRAMENTO (916) 322-5660 • LOS ANGELES (213) 620-5196",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1977-04-25",
+    "date_raw": "April 25, 1977",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a local Chamber of Commerce sponsoring a public meeting for all candidates must report related expenditures and whether candidates must report an allocated portion as an in-kind contribution.",
+    "conclusion_synthetic": "If the Chamber of Commerce provides an equal forum for all candidates without making expenditures to advocate for any candidate's election, the Chamber need not report its meeting-related payments, and candidates need not report an allocated portion as an in-kind contribution.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: No formal QUESTION or CONCLUSION section headers present; content is in letter format. Advice was originally given by telephone and this letter confirms it. Recipient is City Clerk seeking guidance on local campaign event compliance."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T17:08:53.647034Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether a local Chamber of Commerce sponsoring a public meeting for all candidates must report related expenditures and whether candidates must report an allocated portion as an in-kind contribution.\n\nCONCLUSION: If the Chamber of Commerce provides an equal forum for all candidates without making expenditures to advocate for any candidate's election, the Chamber need not report its meeting-related payments, and candidates need not report an allocated portion as an in-kind contribution.",
+    "qa_source": "synthetic",
+    "first_500_words": "This letter is from the Fair Political Practices Commission of the State of California, dated April 25, 1977. It is addressed to Ines Del Campo, City Clerk at P.O. Box 550, Arroyo Grande, CA 93420. The letter confirms advice given by telephone regarding campaign disclosure provisions of the Political Reform Act. The Commission states that if the local Chamber of Commerce sponsors a public meeting for all candidates in an election, as long as the Chamber provides a forum for all candidates on an equal basis and does not make any expenditures to advocate the election of any of the candidates, it will not be required to report its payments in connection with the meeting. Additionally, the candidates need not report an allocated portion of the expenditures made by the Chamber as an in-kind contribution. If Ms. Del Campo has further questions, she is advised to contact Nan Emmerson, Special Compliance Representative. The letter is signed by Nan Emmerson and includes a note at the bottom: NE:jg.",
+    "summary": "FPPC advice letter confirming that a Chamber of Commerce-sponsored public candidate forum with equal access for all candidates is not subject to campaign disclosure reporting requirements if the Chamber makes no advocacy expenditures."
+  }
+}

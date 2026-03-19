@@ -1,0 +1,71 @@
+{
+  "id": "77ADV-77-524",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-524.PDF",
+  "pdf_sha256": "e09f1658abbfb786fad14cb37b5219aeb40fa2a0c4aafce815cb18df04e5622a",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-524.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-524",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:22:41",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=51"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T20:04:01.425107Z",
+    "page_count": 1,
+    "word_count": 78,
+    "char_count": 487,
+    "quality_score": 0.7947827129859388,
+    "olmocr_cost": 0.00244326,
+    "native_word_count": 82
+  },
+  "content": {
+    "full_text": "LATE FINES FOR CONSOLIDATED STATEMENTS\n\nOn March 7, 1977, Nan Emmerson received a call from a county clerk with respect to the fining procedure for a late pre-election candidate/committee consolidated campaign statement. Ken, Mike and I concluded that for fining purposes the consolidated campaign statement should be viewed as a single statement and thus fined at the rate of $10 per day rather than $20 per day. Liability would be joint and several between the candidate and committee.",
+    "full_text_markdown": "LATE FINES FOR CONSOLIDATED STATEMENTS\n\nOn March 7, 1977, Nan Emmerson received a call from a county clerk with respect to the fining procedure for a late pre-election candidate/committee consolidated campaign statement. Ken, Mike and I concluded that for fining purposes the consolidated campaign statement should be viewed as a single statement and thus fined at the rate of $10 per day rather than $20 per day. Liability would be joint and several between the candidate and committee."
+  },
+  "parsed": {
+    "date": "1977-03-07",
+    "date_raw": "March 7, 1977",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-20T20:04:01.425107Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "LATE FINES FOR CONSOLIDATED STATEMENTS On March 7, 1977, Nan Emmerson received a call from a county clerk with respect to the fining procedure for a late pre-election candidate/committee consolidated campaign statement. Ken, Mike and I concluded that for fining purposes the consolidated campaign statement should be viewed as a single statement and thus fined at the rate of $10 per day rather than $20 per day. Liability would be joint and several between the candidate and committee.",
+    "qa_source": "extracted",
+    "first_500_words": "LATE FINES FOR CONSOLIDATED STATEMENTS On March 7, 1977, Nan Emmerson received a call from a county clerk with respect to the fining procedure for a late pre-election candidate/committee consolidated campaign statement. Ken, Mike and I concluded that for fining purposes the consolidated campaign statement should be viewed as a single statement and thus fined at the rate of $10 per day rather than $20 per day. Liability would be joint and several between the candidate and committee.",
+    "summary": null
+  }
+}

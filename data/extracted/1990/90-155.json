@@ -1,0 +1,73 @@
+{
+  "id": "90-155",
+  "year": 1990,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1990/90-155.pdf",
+  "pdf_sha256": "09542bed907d2bb8a83752acbbd49e302879e42a92ed39adb4297bf70f24554a",
+  "local_pdf_path": "raw_pdfs/1990/90-155.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 1990 Advice Letter # 90-155",
+    "tags": [
+      "1990",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:14:22",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1990&tagCount=1&page=113"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T13:53:06.546049Z",
+    "page_count": 1,
+    "word_count": 113,
+    "char_count": 748,
+    "quality_score": 0.8844514199283862,
+    "olmocr_cost": 0.0025103400000000002,
+    "native_word_count": 138
+  },
+  "content": {
+    "full_text": "February 23, 1990\n\nJacki McGuire  \n4935 Rolling Meadows Road  \nRolling Hills Estates, CA 90274\n\nRe: Our File No. 90-155\n\nDear Ms. McGuire:\n\nWe have received your letter, dated February 17, 1990, concerning a possible violation of the open meeting laws.\n\nThe Fair Political Practices Commission does not provide enforce or provide advice concerning open meeting laws. These laws are not part of the Political Reform Act (Government Code Sections 81000-91015), and thus are outside of the Commission's jurisdiction. The open meeting laws are enforced and interpreted by your district attorney and the Attorney General's office. We suggest that you contact one of those offices concerning this matter.\n\nSincerely,\n\nKathryn E. Donovan  \nGeneral Counsel",
+    "full_text_markdown": "February 23, 1990\n\nJacki McGuire  \n4935 Rolling Meadows Road  \nRolling Hills Estates, CA 90274\n\nRe: Our File No. 90-155\n\nDear Ms. McGuire:\n\nWe have received your letter, dated February 17, 1990, concerning a possible violation of the open meeting laws.\n\nThe Fair Political Practices Commission does not provide enforce or provide advice concerning open meeting laws. These laws are not part of the Political Reform Act (Government Code Sections 81000-91015), and thus are outside of the Commission's jurisdiction. The open meeting laws are enforced and interpreted by your district attorney and the Attorney General's office. We suggest that you contact one of those offices concerning this matter.\n\nSincerely,\n\nKathryn E. Donovan  \nGeneral Counsel"
+  },
+  "parsed": {
+    "date": "1990-02-23",
+    "date_raw": "February 23, 1990",
+    "requestor_name": "Mc",
+    "requestor_title": "district attorney",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-20T13:53:06.546049Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "February 23, 1990 Jacki McGuire 4935 Rolling Meadows Road Rolling Hills Estates, CA 90274 Re: Our File No. 90-155 Dear Ms. McGuire: We have received your letter, dated February 17, 1990, concerning a possible violation of the open meeting laws. The Fair Political Practices Commission does not provide enforce or provide advice concerning open meeting laws. These laws are not part of the Political Reform Act (Government Code Sections 81000-91015), and thus are outside of the Commission's jurisdiction. The open meeting laws are enforced and interpreted by your district attorney and the Attorney General's office. We suggest that you contact one of those offices concerning this matter. Sincerely, Kathryn E. Donovan General Counsel",
+    "qa_source": "extracted",
+    "first_500_words": "February 23, 1990 Jacki McGuire 4935 Rolling Meadows Road Rolling Hills Estates, CA 90274 Re: Our File No. 90-155 Dear Ms. McGuire: We have received your letter, dated February 17, 1990, concerning a possible violation of the open meeting laws. The Fair Political Practices Commission does not provide enforce or provide advice concerning open meeting laws. These laws are not part of the Political Reform Act (Government Code Sections 81000-91015), and thus are outside of the Commission's jurisdiction. The open meeting laws are enforced and interpreted by your district attorney and the Attorney General's office. We suggest that you contact one of those offices concerning this matter. Sincerely, Kathryn E. Donovan General Counsel",
+    "summary": null
+  }
+}

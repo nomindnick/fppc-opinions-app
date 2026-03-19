@@ -1,0 +1,71 @@
+{
+  "id": "UNK-91-10239",
+  "year": 1991,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1991/91056.pdf",
+  "pdf_sha256": "960fbf2ca0ccd3bd1beaa4d50282ff0ff885da851bbde45a92eb86f82150e815",
+  "local_pdf_path": "raw_pdfs/1991/91056.pdf",
+  "source_metadata": {
+    "title_raw": "1991-91056",
+    "tags": [
+      "1991",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:18:34",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1991&tagCount=1&page=39"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T19:58:08.266727Z",
+    "page_count": 1,
+    "word_count": 111,
+    "char_count": 596,
+    "quality_score": 0.8420344990387878,
+    "olmocr_cost": 0.0025241,
+    "native_word_count": 123
+  },
+  "content": {
+    "full_text": "January 23, 1991\n\nFPPC\n428 J St. # 800\nP.O. Box 807\nSacramento, CA. 95804\n\nSirs:\n\nCould you please clear up a question for me.\n\nCan funds raised for one type of local office be used for another type of office in the future.\n\nExample: The campaign committee \"Friends of Mr. X\" raises money for X's School Board race in 1991. X wins the seat yet has money left over from the campaign. Can that money be used for Mr. X's Mayor race in 1993 using the same campaign committee \"Friends of Mr. X\"?\n\nThank you for your help.\n\n[signature]\n\nPhilip E. Paule\nPOB 9425\nSan Bernardino, CA.\n92427\n(714) 880-3827",
+    "full_text_markdown": "January 23, 1991\n\nFPPC\n428 J St. # 800\nP.O. Box 807\nSacramento, CA. 95804\n\nSirs:\n\nCould you please clear up a question for me.\n\nCan funds raised for one type of local office be used for another type of office in the future.\n\nExample: The campaign committee \"Friends of Mr. X\" raises money for X's School Board race in 1991. X wins the seat yet has money left over from the campaign. Can that money be used for Mr. X's Mayor race in 1993 using the same campaign committee \"Friends of Mr. X\"?\n\nThank you for your help.\n\n[signature]\n\nPhilip E. Paule\nPOB 9425\nSan Bernardino, CA.\n92427\n(714) 880-3827"
+  },
+  "parsed": {
+    "date": "1991-01-23",
+    "date_raw": "January 23, 1991",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T19:58:08.266727Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "January 23, 1991 FPPC 428 J St. # 800 P.O. Box 807 Sacramento, CA. 95804 Sirs: Could you please clear up a question for me. Can funds raised for one type of local office be used for another type of office in the future. Example: The campaign committee \"Friends of Mr. X\" raises money for X's School Board race in 1991. X wins the seat yet has money left over from the campaign. Can that money be used for Mr. X's Mayor race in 1993 using the same campaign committee \"Friends of Mr. X\"? Thank you for your help. [signature] Philip E. Paule POB 9425 San Bernardino, CA. 92427 (714) 880-3827",
+    "qa_source": "extracted",
+    "first_500_words": "January 23, 1991 FPPC 428 J St. # 800 P.O. Box 807 Sacramento, CA. 95804 Sirs: Could you please clear up a question for me. Can funds raised for one type of local office be used for another type of office in the future. Example: The campaign committee \"Friends of Mr. X\" raises money for X's School Board race in 1991. X wins the seat yet has money left over from the campaign. Can that money be used for Mr. X's Mayor race in 1993 using the same campaign committee \"Friends of Mr. X\"? Thank you for your help. [signature] Philip E. Paule POB 9425 San Bernardino, CA. 92427 (714) 880-3827",
+    "summary": null
+  }
+}

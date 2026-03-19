@@ -1,0 +1,73 @@
+{
+  "id": "90120",
+  "year": 1990,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1990/90120.pdf",
+  "pdf_sha256": "68e9d3f061052fbb7c46ca6679c680c1703aad89fdc53d055580732f3b527ad4",
+  "local_pdf_path": "raw_pdfs/1990/90120.pdf",
+  "source_metadata": {
+    "title_raw": "Boyle, Robert Year: 1990 Advice Letter # 90120",
+    "tags": [
+      "1990",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:10:15",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1990&tagCount=1&page=59"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:36.935367Z",
+    "page_count": 2,
+    "word_count": 400,
+    "char_count": 2486,
+    "quality_score": 0.7150000000000001,
+    "olmocr_cost": null,
+    "native_word_count": 400
+  },
+  "content": {
+    "full_text": "M. J. Brock & Sons, lnc.\nControciors/Developers\n6767 Foresl Lown Drive\ni?iile:..iiifi:rornoe0068 Frs [j i[ ;B i]ii '$0\n(213) 969-0529 Fox\nJanuary 31, 1990\nWayne Imberi\nSecretary of State\nPoIitical Reform Division\n1230 J Street, Room 219\nSacramento, California 95812-1 467\nCertified Mail\nReturn Receipt\nDear Mr. Imberi:\nI am confirming the telephone conference among you, Leo Gutierrez\nof our office and myself on Friday, January 26,1990 to repeat our\nfiling \nobligation and to provide you with a reference document\nshould you need to contact me again.\nWe questioned the specific reporting obligation of a joint venture\npartnership when it qualifies as a major donor committee. Our fact\nsituation is that Brock performs some of its business operations\nthrough California general partnerships. These partnerships are\ncomprised of each partner owning fifty \npercent (50t) of the\npartnership with mutual control and mutual decision making. There\nis not a dominant partner due to a majority of ownership or control.\nGiven these facts, we wanted to know if: (a) the joint venture files\na Form 461 thereby eliminating the need for the individual partners\nto report these contributions on each one's individual Form 461 (if\nthe criteria \nis met), or, (b) if \neach partner reports these\ncontributions on each one's individual Form 461 thereby eliminating\nthe need for t,he joint venture to report. these contribuLions on a\nseparate Form 461, orr (c) the joint venture and individual partners\nfile Form 461 's reporting the same contributions thereby creating\nmulLiple reporting for the same contributions.\nyour answer to our question was that a joint venture would file \na\nForm 461 separately in its own name without the need for the\nindividual pirtners to also fite separate Form 461 's for the same\ncontributions if 1) there is exactly fifty percent (50t) ownership\nbetween the partners and 2l there is mutual control and mutual\ndecision making without a dominant or controlling partner.\nNone of the partnerships Brock is a member of meet the requirements\nfor reportiirg political \ncontributions for calendar year 1989;\nhowevef, I want- to understand the reporting procedure should the\npartnerships be required to file for calendar year 1 990 '\n\n\nwayne Imberi\n.fanuary 31, 1990\nPage two (2)\nPlease contact me immediately if I have misstated the reporting\nprocedure. Our thanks again for your courtesy in assisting us with\nthese rules.\nVery truly yours,\nkHXW\nRJB: pje\n0109 /2\ncc: Leo Gutierrez\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1990-01-31",
+    "date_raw": "January 31, 1990",
+    "requestor_name": "Imberi",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "Given that Brock performs business operations through California general partnerships with 50% ownership and mutual control between partners: (a) should the joint venture file a Form 461 thereby eliminating the need for individual partners to report on their individual Form 461s, or (b) should each partner report contributions on their individual Form 461s eliminating the need for joint venture reporting, or (c) should both the joint venture and individual partners file Form 461s reporting the same contributions thereby creating multiple reporting?",
+    "conclusion": "A joint venture would file a Form 461 separately in its own name without the need for the individual partners to also file separate Form 461s for the same contributions if: 1) there is exactly fifty percent (50%) ownership between the partners and 2) there is mutual control and mutual decision making without a dominant or controlling partner.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a 50/50 California general partnership with mutual control and decision-making should file a Form 461 as a major donor committee separate from its partners, or whether the individual partners should report the contributions instead.",
+    "conclusion_synthetic": "The joint venture should file Form 461 separately in its own name without individual partners needing to file separate Form 461s, provided the partnership meets the criteria of 50/50 ownership with mutual control and no dominant partner.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an incoming request/correspondence letter from a company to the Secretary of State confirming and documenting a prior telephone conference where advice was given. The question and conclusion were synthesized from the body of the letter rather than from labeled sections. No formal FPPC response letter structure is present, making this technically an incoming request with referenced prior advice rather than a direct FPPC advice letter response."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [
+      "06-218"
+    ],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:35:36.935367Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Given that Brock performs business operations through California general partnerships with 50% ownership and mutual control between partners: (a) should the joint venture file a Form 461 thereby eliminating the need for individual partners to report on their individual Form 461s, or (b) should each partner report contributions on their individual Form 461s eliminating the need for joint venture reporting, or (c) should both the joint venture and individual partners file Form 461s reporting the same contributions thereby creating multiple reporting?\n\nCONCLUSION: A joint venture would file a Form 461 separately in its own name without the need for the individual partners to also file separate Form 461s for the same contributions if: 1) there is exactly fifty percent (50%) ownership between the partners and 2) there is mutual control and mutual decision making without a dominant or controlling partner.",
+    "qa_source": "mixed",
+    "first_500_words": "M. J. Brock & Sons, lnc. Controciors/Developers 6767 Foresl Lown Drive i?iile:..iiifi:rornoe0068 Frs [j i[ ;B i]ii '$0 (213) 969-0529 Fox January 31, 1990 Wayne Imberi Secretary of State PoIitical Reform Division 1230 J Street, Room 219 Sacramento, California 95812-1 467 Certified Mail Return Receipt Dear Mr. Imberi: I am confirming the telephone conference among you, Leo Gutierrez of our office and myself on Friday, January 26,1990 to repeat our filing obligation and to provide you with a reference document should you need to contact me again. We questioned the specific reporting obligation of a joint venture partnership when it qualifies as a major donor committee. Our fact situation is that Brock performs some of its business operations through California general partnerships. These partnerships are comprised of each partner owning fifty percent (50t) of the partnership with mutual control and mutual decision making. There is not a dominant partner due to a majority of ownership or control. Given these facts, we wanted to know if: (a) the joint venture files a Form 461 thereby eliminating the need for the individual partners to report these contributions on each one's individual Form 461 (if the criteria is met), or, (b) if each partner reports these contributions on each one's individual Form 461 thereby eliminating the need for t,he joint venture to report. these contribuLions on a separate Form 461, orr (c) the joint venture and individual partners file Form 461 's reporting the same contributions thereby creating mulLiple reporting for the same contributions. your answer to our question was that a joint venture would file a Form 461 separately in its own name without the need for the individual pirtners to also fite separate Form 461 's for the same contributions if 1) there is exactly fifty percent (50t) ownership between the partners and 2l there is mutual control and mutual decision making without a dominant or controlling partner. None of the partnerships Brock is a member of meet the requirements for reportiirg political contributions for calendar year 1989; howevef, I want- to understand the reporting procedure should the partnerships be required to file for calendar year 1 990 ' wayne Imberi .fanuary 31, 1990 Page two (2) Please contact me immediately if I have misstated the reporting procedure. Our thanks again for your courtesy in assisting us with these rules. Very truly yours, kHXW RJB: pje 0109 /2 cc: Leo Gutierrez",
+    "summary": "M.J. Brock & Sons, Inc. seeks clarification on the Form 461 filing obligations for California general partnerships they participate in where ownership and control are equally shared. The company confirms advice from the Secretary of State's Political Reform Division that such partnerships should file Form 461s separately without requiring individual partner reporting."
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "84269",
+  "year": 1984,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1984/fppc-advice/84269.PDF",
+  "pdf_sha256": "0cbdaf8e27a20be70a6d72aa5926c9d3325fb5ffb414c31fe4c125f5e0d3fbd9",
+  "local_pdf_path": "raw_pdfs/1984/84269.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1984 Advice Letter # 84269",
+    "tags": [
+      "1984",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:35:38",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1984&tagCount=1&page=30"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:49.943568Z",
+    "page_count": 1,
+    "word_count": 235,
+    "char_count": 1546,
+    "quality_score": 0.635,
+    "olmocr_cost": null,
+    "native_word_count": 235
+  },
+  "content": {
+    "full_text": "State of California \nMemorandum \nTo \n:Adv \nFrom \n: \nFAIR POLITICAL PRACTICES COMMISSION \nBarbara A. Milman \n~b~~ FPPC Statement of Incompatible Activities \nDote Qct. 25, 1984 \nNo. M-84-269 \nSection V of the FPPC Statement of Incompatible Activities \n(\"SIA\") prohibits FPPC commissioners and staff from accepting \ngifts or loans from, among others, \"agency officials\" and persons \nlisted in Section 87200. \nThe purpose of Section V of the SIA is \nto prevent FPPC staff and commissioners from accepting favors \nfrom persons who are subject to FPPC regulation and enforcement. \nThis includes all candidates, lobbyists, Article 2 filers, and \ndesignated employees other than FPPC employees and commissioners, \nsince determinations regarding the FPPC are made by the Attorney \nGener \nSections 87500(h), 91001, 82011(d). \nAgency official is defined in the Act, Section 82004, as an \nagency member or employee who participates in administrative \nactions. \nThe definition in Section 82004 is designed to deal \nwith lobbyists, and is not relevant to the use of the term in the \nSIA. \nSection 87200 filers include FPPC commissioners. \nIn \nkeeping with the apparent purpose of the SIA, Section V should \nnot be interpreted literally. \nAgency official should be \ninterpreted to mean a designated employee of any agency other \nthan the FPPC. \nSimilarly, the prohibition in Section V of the \nSlA against receiving gifts or loans from persons listed in \nSection 87200 should be interpreted to apply to Article 2 filers \nother than FPPC commissioners. \nBAM:plh \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "Section V of the SIA should not be interpreted literally. 'Agency official' should be interpreted to mean a designated employee of any agency other than the FPPC. The prohibition against receiving gifts or loans from persons listed in Section 87200 should be interpreted to apply to Article 2 filers other than FPPC commissioners.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "How should Section V of the FPPC Statement of Incompatible Activities be interpreted regarding prohibitions on FPPC staff and commissioners accepting gifts or loans from 'agency officials' and Section 87200 filers?",
+    "conclusion_synthetic": "The FPPC advises that 'agency official' in the SIA should mean designated employees of non-FPPC agencies, and Section 87200 gift prohibitions should apply to Article 2 filers excluding FPPC commissioners themselves. This non-literal interpretation aligns with the SIA's purpose of preventing conflicts of interest with regulated entities.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: No formal QUESTION or CONCLUSION headers present; document is a memorandum providing interpretive guidance. The legal analysis is embedded in narrative paragraphs. Document number appears as M-84-269; appears to be internal FPPC guidance rather than response to external requester."
+  },
+  "citations": {
+    "government_code": [
+      "82004",
+      "87200",
+      "87500(h)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.6666666666666666,
+    "classified_at": "2026-02-06T18:36:49.943568Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: How should Section V of the FPPC Statement of Incompatible Activities be interpreted regarding prohibitions on FPPC staff and commissioners accepting gifts or loans from 'agency officials' and Section 87200 filers?\n\nCONCLUSION: Section V of the SIA should not be interpreted literally. 'Agency official' should be interpreted to mean a designated employee of any agency other than the FPPC. The prohibition against receiving gifts or loans from persons listed in Section 87200 should be interpreted to apply to Article 2 filers other than FPPC commissioners.",
+    "qa_source": "mixed",
+    "first_500_words": "State of California Memorandum To :Adv From : FAIR POLITICAL PRACTICES COMMISSION Barbara A. Milman ~b~~ FPPC Statement of Incompatible Activities Dote Qct. 25, 1984 No. M-84-269 Section V of the FPPC Statement of Incompatible Activities (\"SIA\") prohibits FPPC commissioners and staff from accepting gifts or loans from, among others, \"agency officials\" and persons listed in Section 87200. The purpose of Section V of the SIA is to prevent FPPC staff and commissioners from accepting favors from persons who are subject to FPPC regulation and enforcement. This includes all candidates, lobbyists, Article 2 filers, and designated employees other than FPPC employees and commissioners, since determinations regarding the FPPC are made by the Attorney Gener Sections 87500(h), 91001, 82011(d). Agency official is defined in the Act, Section 82004, as an agency member or employee who participates in administrative actions. The definition in Section 82004 is designed to deal with lobbyists, and is not relevant to the use of the term in the SIA. Section 87200 filers include FPPC commissioners. In keeping with the apparent purpose of the SIA, Section V should not be interpreted literally. Agency official should be interpreted to mean a designated employee of any agency other than the FPPC. Similarly, the prohibition in Section V of the SlA against receiving gifts or loans from persons listed in Section 87200 should be interpreted to apply to Article 2 filers other than FPPC commissioners. BAM:plh",
+    "summary": "FPPC memorandum addressing interpretation of Section V of the Statement of Incompatible Activities regarding gift and loan prohibitions for FPPC staff and commissioners. The FPPC provides guidance that the restrictions should be interpreted functionally rather than literally to prevent conflicts with regulated entities."
+  }
+}

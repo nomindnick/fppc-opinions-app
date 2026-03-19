@@ -1,0 +1,76 @@
+{
+  "id": "96-012",
+  "year": 1996,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/1996/96-012.pdf",
+  "pdf_sha256": "1aa93a23ff6dff498962d9012289367d7dbd50255bf9fae0d454846138b6efec",
+  "local_pdf_path": "raw_pdfs/1996/96-012.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 1996 Advice Letter # 96-012",
+    "tags": [
+      "Advice Letter",
+      "1996"
+    ],
+    "scraped_at": "2026-01-31 16:41:19",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1996&tagCount=1&page=29"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:56.092987Z",
+    "page_count": 2,
+    "word_count": 306,
+    "char_count": 1983,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 306
+  },
+  "content": {
+    "full_text": "RAvI MEHTA\nC-IA! R MA?’\nFAIR POLITICAL PRACTICES\nCOMMISSION\nJanuary 8,\n1996\nVincent J.\nLevery\n3555 West Bullard\n— 179\nFresno,\nCalifornia\n93711\nRe:\nYour Request for Advice\nOur File No.\nG—96—012\nDear Mr.\nLevery:\nYour letter requesting advice under the Political Reform Act\nwas received on December 28,\n1995 by the Fair Political Practices\nCommission.\nYou requested advice on the legality of a proposed\npledge written by the Fresno Chamber of Commerce and sent by the\nChamber to candidates for the Fresno City Council.\nThe Chamber\nplans to evaluate candidates for endorsement based on the\ncandidates’ responses to positions outlined in the pledge.\nAlthough the Political Reform Act (the “Act”)\n1 governs\ncertain aspects of campaign activity,\nsuch as the reporting of\ncontributions and the use of campaign funds, the pledge\ndistributed by the Fresno Chamber of Commerce is not addressed by\nthe Act.\nThe Fair Political Practices Commission does not have\njurisdiction to issue advice on the legality of the pledge.\nIn addition, the Act requires the Commission to provide\nformal written advice to any person whose duties under the Act are\nin question or by that person’s authorized representative.\n(Section 83114(b).)\nThe Commission,\nhowever,\ndoes not provide\nadvice to third parties regarding another person’s duties under\nthe Act.\n(Regulation 18329(b) (8).)\n1\nGovernment Code Sections 81000-91015.\nAll statutory references\nare to the Government Code unless otherwise indicated.\nCommission\nregulations appear at\n2 California Code of Regulations,\nSections\n18000—18995.\n428 J STREET, SUITE 800, SACRAMENTO, CALIFORNIA 95814\n(916) 322-5660\n\n\nFile No.\nG—96—012\nPage\n2\nConsequently,\nwe regret that we are unable to provide\nassistance with respect to the issues raised in your letter.\nIf\nyou have any further questions regarding this matter, please feel\nfree to contact me at\n(916)\n322—5660.\nSincerely,\nSteven G.\nChurchwell\nGeneral Counsel\nBy:\nLiane Randolpii”\nCounsel,\nLegal Division\nSGC:LR:ak\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1996-01-08",
+    "date_raw": "January 8,\n1996",
+    "requestor_name": "Levery",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "The Fair Political Practices Commission does not have jurisdiction to issue advice on the legality of the pledge. The pledge distributed by the Fresno Chamber of Commerce is not addressed by the Political Reform Act, which governs certain aspects of campaign activity such as reporting of contributions and use of campaign funds. Additionally, the Commission does not provide advice to third parties regarding another person's duties under the Act.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Is a pledge written by the Fresno Chamber of Commerce and sent to candidates for Fresno City Council, which will be used to evaluate candidates for endorsement, legal under the Political Reform Act?",
+    "conclusion_synthetic": "The FPPC declines to provide advice, finding that the Chamber of Commerce pledge is not governed by the Political Reform Act and falls outside the Commission's jurisdiction. The Commission also cannot provide advice to third parties about another person's duties under the Act.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Declination letter with no formal QUESTION or CONCLUSION sections; extracted question and conclusion content from body text. Document clearly states FPPC inability to provide assistance due to jurisdictional limits."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "83114(b)"
+    ],
+    "regulations": [
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "gifts_honoraria",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:34:56.092987Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Is a pledge written by the Fresno Chamber of Commerce and sent to candidates for Fresno City Council, which will be used to evaluate candidates for endorsement, legal under the Political Reform Act?\n\nCONCLUSION: The Fair Political Practices Commission does not have jurisdiction to issue advice on the legality of the pledge. The pledge distributed by the Fresno Chamber of Commerce is not addressed by the Political Reform Act, which governs certain aspects of campaign activity such as reporting of contributions and use of campaign funds. Additionally, the Commission does not provide advice to third parties regarding another person's duties under the Act.",
+    "qa_source": "mixed",
+    "first_500_words": "RAvI MEHTA C-IA! R MA?’ FAIR POLITICAL PRACTICES COMMISSION January 8, 1996 Vincent J. Levery 3555 West Bullard — 179 Fresno, California 93711 Re: Your Request for Advice Our File No. G—96—012 Dear Mr. Levery: Your letter requesting advice under the Political Reform Act was received on December 28, 1995 by the Fair Political Practices Commission. You requested advice on the legality of a proposed pledge written by the Fresno Chamber of Commerce and sent by the Chamber to candidates for the Fresno City Council. The Chamber plans to evaluate candidates for endorsement based on the candidates’ responses to positions outlined in the pledge. Although the Political Reform Act (the “Act”) 1 governs certain aspects of campaign activity, such as the reporting of contributions and the use of campaign funds, the pledge distributed by the Fresno Chamber of Commerce is not addressed by the Act. The Fair Political Practices Commission does not have jurisdiction to issue advice on the legality of the pledge. In addition, the Act requires the Commission to provide formal written advice to any person whose duties under the Act are in question or by that person’s authorized representative. (Section 83114(b).) The Commission, however, does not provide advice to third parties regarding another person’s duties under the Act. (Regulation 18329(b) (8).) 1 Government Code Sections 81000-91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations, Sections 18000—18995. 428 J STREET, SUITE 800, SACRAMENTO, CALIFORNIA 95814 (916) 322-5660 File No. G—96—012 Page 2 Consequently, we regret that we are unable to provide assistance with respect to the issues raised in your letter. If you have any further questions regarding this matter, please feel free to contact me at (916) 322—5660. Sincerely, Steven G. Churchwell General Counsel By: Liane Randolpii” Counsel, Legal Division SGC:LR:ak",
+    "summary": "The FPPC declines to advise on the legality of a Fresno Chamber of Commerce pledge used to evaluate City Council candidates for endorsement, determining the pledge is not regulated by the Political Reform Act and that the Commission lacks jurisdiction to advise third parties on such matters."
+  }
+}

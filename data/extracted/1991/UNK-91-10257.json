@@ -1,0 +1,72 @@
+{
+  "id": "UNK-91-10257",
+  "year": 1991,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1991/91028.pdf",
+  "pdf_sha256": "b0d875e4595cf591ed314d9e51aa4b23b15ccb64f8121f36dbdbbec1689ec9e5",
+  "local_pdf_path": "raw_pdfs/1991/91028.pdf",
+  "source_metadata": {
+    "title_raw": "1991-91028",
+    "tags": [
+      "1991",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:18:43",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1991&tagCount=1&page=41"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-27T23:02:39.528993Z",
+    "page_count": 1,
+    "word_count": 176,
+    "char_count": 978,
+    "quality_score": 0.9051408809822548,
+    "olmocr_cost": 0.00213796,
+    "native_word_count": 175,
+    "haiku_cost": 0.002392
+  },
+  "content": {
+    "full_text": "MARK RANEY\n333 GARNSEY AVENUE\nBAKERSFIELD, CALIFORNIA 93309\n\nDec.28,1990\n\nState of California Fair Political Practices Commission\nSacramento, Ca\n\nI have been a trustee of the Kern Community College District for many years. On July 16 of this year, I filed for re-election and was re-elected on Nov. 6. I apparently completed your form 470 at the Kern County Elections office when I filed and since I was not fully sent another to you on Aug. 16\n\nI spent no money towards myself-election of mine or anyone elses I had-no committee. I was concerned that I needed to get something off the election so I talked by telephone to you in Wayne Imberi they morning. He was pleasant and helpful and told me I did not need to file anything else until July 31, 1991, other than any usual conflict of interest statement which I have done for many years. I just want to be sure I am in complete compliance, pleas advise of this is right. Care,\n\nSincerely,\n\nMark M. Raney\n(805) [?]it 323 45 49",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1991-07-31",
+    "date_raw": "July 31, 1991",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "A newly re-elected Kern Community College District trustee seeks confirmation that he is in compliance with FPPC filing requirements after being advised by FPPC staff that no additional filings are required until July 31, 1991.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.75,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an incoming request/inquiry letter from a candidate/official to FPPC, not an FPPC response letter. No formal question or conclusion sections are present. Document is a confirmation-seeking letter after the writer received informal telephone advice from FPPC staff member Wayne Imberi. No explicit legal question is posed in traditional format."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T16:17:48.126665Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: A newly re-elected Kern Community College District trustee seeks confirmation that he is in compliance with FPPC filing requirements after being advised by FPPC staff that no additional filings are required until July 31, 1991.",
+    "qa_source": "synthetic",
+    "first_500_words": "Dec. 28, 1990 State of California - Fair Political Practices Commission Sacramento, Ca I have been a trustee of the Kern Community College District for many years. On July 16, of this year, I filed for re-election and was re-elected on Nov. 6. I apparently completed your form 470 at the Kern County Elections office when I filed and since I was not sure, sent another to you on Aug. 16. I spent no money towards my re-election—of mine or anyone else's. I had no committee. I was concerned that I needed to file something after the election so I talked by telephone to your Mr. Wayne Imberi this morning. He was pleasant and helpful and told me I did not need to file anything else until July 31, 1991, other than my usual Conflict of Interest statement which I have done for many years. I just want to be sure I am in compliance—please advise me if this is not the case. Sincerely, Mark H. Raney (805) ( ) 323-4549",
+    "summary": "Mark H. Raney, a re-elected trustee of Kern Community College District, inquires whether he is in compliance with FPPC requirements after filing Form 470 and being advised by FPPC staff that no further filings are needed until July 31, 1991 beyond his annual Conflict of Interest statement."
+  }
+}

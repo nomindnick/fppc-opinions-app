@@ -1,0 +1,73 @@
+{
+  "id": "77A-314",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77A-314.PDF",
+  "pdf_sha256": "b9aa73bc6d0a2d8f049127399fc7e537359fb4984634c70b514b793a778aec16",
+  "local_pdf_path": "raw_pdfs/1977/77A-314.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977A Advice Letter # 77A-314",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:21:13",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=31"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:15.257489Z",
+    "page_count": 1,
+    "word_count": 269,
+    "char_count": 1703,
+    "quality_score": 0.6325000000000001,
+    "olmocr_cost": null,
+    "native_word_count": 269
+  },
+  "content": {
+    "full_text": "Cali orIlia \nair Political Practices CommissioIL \nP.O. BOX 807 • SACRAMENTO,95804 • 1100 K STREET BUILDING, SACRAMENTO, 95814 \n107 SOUTH BROADWAY \n• •• \nSUITE 2140A \n••• \nLOS ANGELES, 90012 \nJanuary 24. 1977 \nMs. Janet Stubbs \nCity Clerk \nCity of Southgate \nSouthgate. California 90280 \nDear Ms. Stubbs: \nThis letter is to confirm my advice to you by telephone on January 1,4, 1977, \nconcerning the filing requirements of Government Code Section 84206. \nYou stated that a Southgate City Councilman was a candidate for a .iudicial \noffice in 1976 in the June primary and November run-off elections. \nYou stated \nfurther that he was elected to the city council in March of 1976 and filed with \nyour office a post-election campaign statement with a closing date of April \n30, 1976. \nYou asked whether the councilman must file in January, 1977 an \noff year report covering the period from May 1, 1976 through December 31, 1976. \nI advised that the councilman is not required to file an off-year report \nin January 1977. \nGovernment Code Section 84206 states that elected officers \nwho file campaign statements in connection with any election held within the \nspecified reporting period are not required to file an off-year statement \nfor that period. \nTherefore, the next off-year statement which the city \ncouncilman must file will be due anytime during July 1977, covering the per-\niod from the closing date of his last post-election statement, filed in \nconnection with the judicial campaign, through June 30, 1977. \nIf you or the councilman have any questions relative to the above, please \ncontact me. \nSincerely, \nNan Emmerson \nSpecial Compliance Representative \nNHE:lh \nSACRAMENTO (916) 322-5660 \n• \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1977-01-24",
+    "date_raw": "January 24. 1977",
+    "requestor_name": "Stubbs",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Whether a Southgate City Councilman who was elected to the city council in March 1976 and filed a post-election campaign statement with a closing date of April 30, 1976, and was a candidate for judicial office in June primary and November run-off elections in 1976, must file an off-year report in January 1977 covering the period from May 1, 1976 through December 31, 1976.",
+    "conclusion": "The councilman is not required to file an off-year report in January 1977. Government Code Section 84206 states that elected officers who file campaign statements in connection with any election held within the specified reporting period are not required to file an off-year statement for that period. Therefore, the next off-year statement which the city councilman must file will be due anytime during July 1977, covering the period from the closing date of his last post-election statement, filed in connection with the judicial campaign, through June 30, 1977.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Must an elected city councilman file an off-year campaign statement in January 1977 for the period May 1 through December 31, 1976, given that he filed a post-election statement in April 1976 and was also a judicial candidate in 1976?",
+    "conclusion_synthetic": "No off-year report is required in January 1977 because the councilman filed campaign statements in connection with elections held within the reporting period. The next required off-year report is due in July 1977, covering the period from April 30, 1976 through June 30, 1977.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: FPPC response letter confirming prior telephone advice. Clear question and conclusion sections based on document structure. Addresses Government Code Section 84206 filing requirements."
+  },
+  "citations": {
+    "government_code": [
+      "84206"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:37:15.257489Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether a Southgate City Councilman who was elected to the city council in March 1976 and filed a post-election campaign statement with a closing date of April 30, 1976, and was a candidate for judicial office in June primary and November run-off elections in 1976, must file an off-year report in January 1977 covering the period from May 1, 1976 through December 31, 1976.\n\nCONCLUSION: The councilman is not required to file an off-year report in January 1977. Government Code Section 84206 states that elected officers who file campaign statements in connection with any election held within the specified reporting period are not required to file an off-year statement for that period. Therefore, the next off-year statement which the city councilman must file will be due anytime during July 1977, covering the period from the closing date of his last post-election statement, filed in connection with the judicial campaign, through June 30, 1977.",
+    "qa_source": "mixed",
+    "first_500_words": "Cali orIlia air Political Practices CommissioIL P.O. BOX 807 • SACRAMENTO,95804 • 1100 K STREET BUILDING, SACRAMENTO, 95814 107 SOUTH BROADWAY • •• SUITE 2140A ••• LOS ANGELES, 90012 January 24. 1977 Ms. Janet Stubbs City Clerk City of Southgate Southgate. California 90280 Dear Ms. Stubbs: This letter is to confirm my advice to you by telephone on January 1,4, 1977, concerning the filing requirements of Government Code Section 84206. You stated that a Southgate City Councilman was a candidate for a .iudicial office in 1976 in the June primary and November run-off elections. You stated further that he was elected to the city council in March of 1976 and filed with your office a post-election campaign statement with a closing date of April 30, 1976. You asked whether the councilman must file in January, 1977 an off year report covering the period from May 1, 1976 through December 31, 1976. I advised that the councilman is not required to file an off-year report in January 1977. Government Code Section 84206 states that elected officers who file campaign statements in connection with any election held within the specified reporting period are not required to file an off-year statement for that period. Therefore, the next off-year statement which the city councilman must file will be due anytime during July 1977, covering the per- iod from the closing date of his last post-election statement, filed in connection with the judicial campaign, through June 30, 1977. If you or the councilman have any questions relative to the above, please contact me. Sincerely, Nan Emmerson Special Compliance Representative NHE:lh SACRAMENTO (916) 322-5660 •",
+    "summary": "FPPC advises a Southgate City Clerk that a city councilman is not required to file an off-year campaign statement in January 1977, as Government Code Section 84206 exempts those who filed statements in connection with elections held during the reporting period. The next required off-year report will be due in July 1977."
+  }
+}

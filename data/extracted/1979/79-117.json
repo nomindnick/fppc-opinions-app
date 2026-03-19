@@ -1,0 +1,72 @@
+{
+  "id": "79-117",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-117.PDF",
+  "pdf_sha256": "061a6bad5dc4c0e8cf8025577600a7c0b15162370ec26c209103a557feaa5268",
+  "local_pdf_path": "raw_pdfs/1979/79-117.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1979 Advice Letter # 79-117",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:25:42",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=5"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T00:55:02.183482Z",
+    "page_count": 2,
+    "word_count": 225,
+    "char_count": 1631,
+    "quality_score": 0.877517384414616,
+    "olmocr_cost": 0.0049794,
+    "native_word_count": 91,
+    "haiku_cost": 0.004104
+  },
+  "content": {
+    "full_text": "State of California\n\nMemorandum\n\nTo     :File                                                Date  : Feb. 13, 1979\n\n\n                                                           M-79-117\n\nFrom  : FAIR POLITICAL PRACTICES COMMISSION\n        Ted Prim\n\nSubject:Opinion Request Meeting of February 5, 1979\n\n\n        Staff decided that the procedure for disclosing income\nfrom rental property as described in Dwight Dickerson's memo\nof February 1, 1979 (attached) was proper.  Obviously, any\nperson who discloses the property or building as opposed to\nthe \"business entity\" as the source of rental income will be\nin substantial compliance.\n\nState of California\n\nMemorandum\n\n\nTo    : Opinion Request Meeting Participants                    Date : Feb. 1, 1979\n\n\nFrom  : FAIR POLITICAL PRACTICES COMMISSION\n         Dwight Dickerson\n\nSubject: Disclosure of Rental Property Income\n\n\n       The Conflict of Interest Division would like comments\nfrom the staff about the following advice the Division plans\nto give officials regarding the disclosure of a reportable\nownership interest in rental property.\n\n       Rental property is required to be disclosed as an interest\nin real property. In addition, the income statement should\nreflect rental income received during the reporting period\nfrom a proprietorship — i.e., the business entity which manages\nthe rental property. The tenant leasing the property would\nhave to be disclosed if the official's pro rata share of\nthe income from the tenant was $10,000 or more.\n\n\nDED:nrw\n\n\n*Officials who rent small units (e.g., a single home or\nduplex) would be treated as if they had a proprietorship.",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1979-02-05",
+    "date_raw": "February 5, 1979",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "Staff decided that the procedure for disclosing income from rental property as described in Dwight Dickerson's memo of February 1, 1979 was proper. Any person who discloses the property or building as opposed to the \"business entity\" as the source of rental income will be in substantial compliance.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "What is the proper procedure for disclosing income from rental property ownership interests on financial disclosure forms?",
+    "conclusion_synthetic": "The FPPC approved the disclosure procedure requiring rental property to be disclosed as a real property interest, with income from the proprietorship managing the property reported separately, and tenant disclosure required only if the official's pro rata share exceeds $10,000.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document consists of two connected memos: a Feb. 13 staff memo approving the procedure and a Feb. 1 memo proposing the disclosure guidance. No formal Q&A section headers, but the substance of the question and conclusion is clear from context. Memo format rather than traditional advice letter format."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-08T17:17:13.948000Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: What is the proper procedure for disclosing income from rental property ownership interests on financial disclosure forms?\n\nCONCLUSION: Staff decided that the procedure for disclosing income from rental property as described in Dwight Dickerson's memo of February 1, 1979 was proper. Any person who discloses the property or building as opposed to the \"business entity\" as the source of rental income will be in substantial compliance.",
+    "qa_source": "mixed",
+    "first_500_words": "**Memorandum** To: File Date: Feb. 13, 1979 From: FAIR POLITICAL PRACTICES COMMISSION Ted Prim Subject: Opinion Request Meeting of February 5, 1979 Staff decided that the procedure for disclosing income from rental property as described in Dwight Dickerson's memo of February 1, 1979 (attached) was proper. Obviously, any person who discloses the property or building as opposed to the \"business entity\" as the source of rental income will be in substantial compliance. **Memorandum** To: Opinion Request Meeting Participants Date: Feb. 1, 1979 From: FAIR POLITICAL PRACTICES COMMISSION Dwight Dickerson Subject: Disclosure of Rental Property Income The Conflict of Interest Division would like comments from the staff about the following advice the Division plans to give officials regarding the disclosure of a reportable ownership interest in rental property. Rental property is required to be disclosed as an interest in real property. In addition, the income statement should reflect rental income received during the reporting period from a proprietorship -- i.e., the business entity which manages the rental property.* The tenant leasing the property would have to be disclosed if the official's pro rata share of the income from the tenant was $10,000 or more. DED:nrw *Officials who rent small units (e.g., a single home or duplex) would be treated as if they had a proprietorship.",
+    "summary": "FPPC staff memo approving the proper procedure for disclosing rental property ownership interests and associated income on financial disclosure forms. The memo confirms that rental property must be disclosed as real property with income from the managing proprietorship separately reported."
+  }
+}

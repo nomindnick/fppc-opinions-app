@@ -1,0 +1,75 @@
+{
+  "id": "00-043",
+  "year": 2000,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2000/00-043.pdf",
+  "pdf_sha256": "cd3b2f4a4f512b3cf9cce63c7ccd6ad6f0cb537dd283f2d9a39ef21637fe2870",
+  "local_pdf_path": "raw_pdfs/2000/00-043.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2000 Advice Letter # 00-043",
+    "tags": [
+      "2000",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 00:42:32",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2000&tagCount=1&page=6"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:34.594958Z",
+    "page_count": 2,
+    "word_count": 367,
+    "char_count": 2396,
+    "quality_score": 0.635,
+    "olmocr_cost": null,
+    "native_word_count": 367
+  },
+  "content": {
+    "full_text": "Farn Portrtcu Pnacucrs CovrvrtssloN\nP.O. Box 807 ' -lltt J Street 'Sacrrnlcnto. CA 95ltll-0tt07\n(916) 322-5660 ' Fax (916) 322-0886\nMarch 7,2000\nTim Fleming\nRMC Pacific Materials\n6601 Koll Center ParkwaY\nPleasanton, California 94566\nRe: Your Request for Advice\nOur FiIe No. G-00-043\nDearMr. Fleming:\nThis letter is in response to your e-mail request for general assistance regarding the\nprovisions of the political Reform Act (the..Act\").r Because your questions are general in nature\nand do not pertain to a specific governmental decisioll, we are treating your request as one for\ngeneral assistance.2\nyou are inquinng regarding the laws pertaining to contributions made by corporations\nand unions in Californi\". yo, also ask what guidelines local county and city campaigns fall\nunder.\nCorporations and unions are not currently prohibited from making contributions in\ncalifornia under the Act. However, local jurisdictions may have restrictions on corporate or\nunion contributions. you would need to check with the particular county or city to determine if\nthere are restrictions\nIn addition, you may want to check with the Federal Election Commission regarding\nfederal law and its rules regarding corporate and union contributions in California.\nwe may not advise you about other laws outside of the Act.\nI Gouernm\"ot Code sections 8 1000 - 91015. Commission regulations appear at title 2, sections 18 109 -\n18996, of the California Code of Regulations.\n2 General assistance does not provide the requestor with the immunity provided in an opinion or formal\nwritten advice. (Section 83 1 14; Regulation 18329(c)')\n\n\nFile No. G-00-043\nPage2\nCity and county jurisdictions may adopt their own ordinances or rules concerning\ncontribution limits and other matters unless the rules conflict with the Act. (Section 81013).\nAgain, you would have to check with the city or county regarding this particular question.\nI have attached our Campaign Manuals A and E, along with the 2000 Addendum. Please\nnote that page 38 of Manual E states that corporations may make political contributions in\nCalifornia. In addition,page 89 of Manual A contains information about local limits.\nIf you have any other questions regarding this matter, please contact me at\n(916) 322-s660.\nSincerely,\nLuisa Menchaca\nAssistant General\nBy\nPolitical Reform Consultant, Legal Division\nLM:LD:tls\nEnclosures\nI:\\Advice Ltrs\\00043.wpd\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2000-03-07",
+    "date_raw": "March 7,2000",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "You are inquiring regarding the laws pertaining to contributions made by corporations and unions in California. You also ask what guidelines local county and city campaigns fall under.",
+    "conclusion": "Corporations and unions are not currently prohibited from making contributions in California under the Act. However, local jurisdictions may have restrictions on corporate or union contributions. You would need to check with the particular county or city to determine if there are restrictions. City and county jurisdictions may adopt their own ordinances or rules concerning contribution limits and other matters unless the rules conflict with the Act.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "What are the legal restrictions on political contributions by corporations and unions in California, and what guidelines apply to local county and city campaigns?",
+    "conclusion_synthetic": "Under California law, corporations and unions may make political contributions, but local jurisdictions can impose their own restrictions on such contributions provided they do not conflict with state law.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document treated as general assistance request rather than formal written advice. No formal QUESTION and CONCLUSION sections with headers, but question and conclusion content are clearly identifiable in the body text. File number G-00-043 confirmed."
+  },
+  "citations": {
+    "government_code": [
+      "81013"
+    ],
+    "regulations": [
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:34:34.594958Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: You are inquiring regarding the laws pertaining to contributions made by corporations and unions in California. You also ask what guidelines local county and city campaigns fall under.\n\nCONCLUSION: Corporations and unions are not currently prohibited from making contributions in California under the Act. However, local jurisdictions may have restrictions on corporate or union contributions. You would need to check with the particular county or city to determine if there are restrictions. City and county jurisdictions may adopt their own ordinances or rules concerning contribution limits and other matters unless the rules conflict with the Act.",
+    "qa_source": "mixed",
+    "first_500_words": "Farn Portrtcu Pnacucrs CovrvrtssloN P.O. Box 807 ' -lltt J Street 'Sacrrnlcnto. CA 95ltll-0tt07 (916) 322-5660 ' Fax (916) 322-0886 March 7,2000 Tim Fleming RMC Pacific Materials 6601 Koll Center ParkwaY Pleasanton, California 94566 Re: Your Request for Advice Our FiIe No. G-00-043 DearMr. Fleming: This letter is in response to your e-mail request for general assistance regarding the provisions of the political Reform Act (the..Act\").r Because your questions are general in nature and do not pertain to a specific governmental decisioll, we are treating your request as one for general assistance.2 you are inquinng regarding the laws pertaining to contributions made by corporations and unions in Californi\". yo, also ask what guidelines local county and city campaigns fall under. Corporations and unions are not currently prohibited from making contributions in california under the Act. However, local jurisdictions may have restrictions on corporate or union contributions. you would need to check with the particular county or city to determine if there are restrictions In addition, you may want to check with the Federal Election Commission regarding federal law and its rules regarding corporate and union contributions in California. we may not advise you about other laws outside of the Act. I Gouernm\"ot Code sections 8 1000 - 91015. Commission regulations appear at title 2, sections 18 109 - 18996, of the California Code of Regulations. 2 General assistance does not provide the requestor with the immunity provided in an opinion or formal written advice. (Section 83 1 14; Regulation 18329(c)') File No. G-00-043 Page2 City and county jurisdictions may adopt their own ordinances or rules concerning contribution limits and other matters unless the rules conflict with the Act. (Section 81013). Again, you would have to check with the city or county regarding this particular question. I have attached our Campaign Manuals A and E, along with the 2000 Addendum. Please note that page 38 of Manual E states that corporations may make political contributions in California. In addition,page 89 of Manual A contains information about local limits. If you have any other questions regarding this matter, please contact me at (916) 322-s660. Sincerely, Luisa Menchaca Assistant General By Political Reform Consultant, Legal Division LM:LD:tls Enclosures I:\\Advice Ltrs\\00043.wpd",
+    "summary": "The FPPC advises that corporations and unions are permitted to make political contributions under California's Political Reform Act, but notes that local jurisdictions may impose additional restrictions and recommends the requestor check with specific counties or cities for local requirements."
+  }
+}

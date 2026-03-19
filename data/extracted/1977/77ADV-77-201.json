@@ -1,0 +1,77 @@
+{
+  "id": "77ADV-77-201",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-201.PDF",
+  "pdf_sha256": "8cae8c66c95bc5a6c10ecb71cd3d1562750f1ba74f5c6ee97385cdeb39da4b75",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-201.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-201",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:20:25",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=20"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T00:28:35.418151Z",
+    "page_count": 1,
+    "word_count": 315,
+    "char_count": 1964,
+    "quality_score": 0.9280143289945074,
+    "olmocr_cost": 0.00276834,
+    "native_word_count": 10,
+    "haiku_cost": 0.0033280000000000002
+  },
+  "content": {
+    "full_text": "State of California\nFair Political Practices Commission\nP.O. BOX 897 • SACRAMENTO, 95804 • 1100 K STREET BUILDING, SACRAMENTO, 95814\n107 SOUTH BROADWAY • • • SUITE 2140A • • • LOS ANGELES, 90012\n\nAugust 15, 1977\n\nCouncilman Lee Weinstein\n451 West Fairview Boulevard\nInglewood, California 90302\n\nDear Councilman Weinstein:\n\nThis letter is to confirm my advice to you on August 8, 1977 concerning\nthe Political Reform Act's mailing requirements relative to campaign literature.\n\nYou stated that an effort is presently underway in Inglewood to qualify\na petition for the ballot, and that persons who oppose the qualification are\nplanning to disseminate literature urging the voters of Inglewood not to sign\nthe petition. You asked what identifying information must appear on such\nliterature. I advised that 200 or more identical or nearly identical pieces\nof mail sent within one calendar month are defined as a \"mass mailing\" in\nGovernment Code Section 82041.5 and 2 Cal.Adm. Section 18241 and are, therefore,\nsubject to certain requirements. Government Code Section 84305 provides\nthat the name and street address of the sender appear on the outside of\neach piece of mail in the mailing and on at least one of the inserts\nin no less than six-point type. The Commission by Regulation 18435 has defined\nthe sender as the person who incurs the largest portion of expenditures\nattributable to the designing, printing and posting of the mailing.\n\nI also relayed the advice of Scott Thorpe of the Attorney General's office\nthat literature urging persons not to sign petitions could not have to\ncomply with requirements of Elections Code Section 29410, requiring the name\nand address of the printer and publisher.\n\nEnclosed is a copy of our fact sheet regarding mass mailings. I hope\nthis information is helpful. If our staff may offer further assistance,\nplease contact us.\n\nSincerely yours,\n\n[illegible] by J.D.\nNan Emerson\nSpecial Compliance Representative\n\nNE:jg\n\nEnc.",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1977-08-15",
+    "date_raw": "August 15, 1977",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "What identifying information must appear on literature urging voters not to sign a ballot petition, and what are the mass mailing requirements under the Political Reform Act?",
+    "conclusion_synthetic": "Mass mailings (200+ identical pieces within one calendar month) must display the sender's name and street address on the outside and on at least one insert in no less than six-point type. Literature urging persons not to sign petitions is not subject to Elections Code Section 29410 printer/publisher requirements.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: No formal QUESTION/CONCLUSION sections present; document is written as confirmation letter of prior oral advice. Question and conclusion extracted from body text. Date is August 15, 1977; references prior advice given August 8, 1977."
+  },
+  "citations": {
+    "government_code": [
+      "82041",
+      "84305"
+    ],
+    "regulations": [
+      "18435"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-07T17:08:38.515571Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: What identifying information must appear on literature urging voters not to sign a ballot petition, and what are the mass mailing requirements under the Political Reform Act?\n\nCONCLUSION: Mass mailings (200+ identical pieces within one calendar month) must display the sender's name and street address on the outside and on at least one insert in no less than six-point type. Literature urging persons not to sign petitions is not subject to Elections Code Section 29410 printer/publisher requirements.",
+    "qa_source": "synthetic",
+    "first_500_words": "**State of California Fair Political Practices Commission** P.O. BOX 807 • SACRAMENTO, 95804 • 1100 K STREET BUILDING, SACRAMENTO, 95814 107 SOUTH BROADWAY • • • SUITE 2140A • • • LOS ANGELES, 90012 August 15, 1977 Councilman Lee Weinstein 451 West Fairview Boulevard Inglewood, California 90302 Dear Councilman Weinstein: This letter is to confirm my advice to you on August 8, 1977 concerning the Political Reform Act's mailing requirements relative to campaign literature. You stated that an effort is presently underway in Inglewood to qualify a petition for the ballot, and that persons who oppose the qualification are planning to disseminate literature urging the voters of Inglewood not to sign the petition. You asked what identifying information must appear on such literature. I advised that 200 or more identical or nearly identical pieces of mail sent within one calendar month are defined as a \"mass mailing\" in Government Code Section 82041.5 and 2 Cal. Adm. Section 18241 and are, therefore, subject to certain requirements. Government Code Section 84305 provides that the name and street address of the sender must appear on the outside of each piece of mail in the mass mailing and on at least one of the inserts in no less than six-point type. The Commission by Regulation 18435 has defined the sender as the person who incurs the largest portion of expenditures attributable to the designing, printing and posting of the mailing. I also relayed the advice of Scott Thorpe of the Attorney General's office that literature urging persons not to sign petitions would not have to comply with requirements of Elections Code Section 29410, requiring the name and address of the printer and publisher. Enclosed is a copy of our fact sheet regarding mass mailings. I hope this information is helpful. If our staff may offer further assistance, please contact us. Sincerely yours, Nan Emmeron by J.B. Nan Emmeron Special Compliance Representative NE: jg Enc.",
+    "summary": "FPPC confirms advice to Councilman Weinstein regarding mass mailing identification requirements for campaign literature opposing a ballot petition qualification effort in Inglewood, citing specific statutory and regulatory provisions."
+  }
+}

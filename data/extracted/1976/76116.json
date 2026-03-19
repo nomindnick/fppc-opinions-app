@@ -1,0 +1,71 @@
+{
+  "id": "76116",
+  "year": 1976,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1976/76116.PDF",
+  "pdf_sha256": "88d6c2d394bbb1da0d17775e79515b36730cd7fa0cb540fe45afccb1a03a3ade",
+  "local_pdf_path": "raw_pdfs/1976/76116.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1976 Advice Letter # 76116",
+    "tags": [
+      "1976",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:15:02",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1976&tagCount=1&page=6"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:17.268721Z",
+    "page_count": 1,
+    "word_count": 197,
+    "char_count": 1275,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 197
+  },
+  "content": {
+    "full_text": "of California \n, \nMemorandum \nTo \nDelbert Spurlock, Chief \nConflicts of Interest Division \nFrom \nFAIR POLITICAL PRACTICES COMMISSION -\nKen Goshorn \nDoto \nSeptember 10, 197, \nSublect: \nTelephone Conversation with Tom MacBride of the Public \nUtilities Commission, September 8, 1976 \nTom MacBride of the Public utilities Commission called on \nSeptember 8, 1976, with an emergency problem. \nTwo Commission \nemployees (engineers) are going to Alaska to inspect gas fields, \netc. \nThey will later participate in decisions materially affect-\ning the utilities holding interests in these sites. \nPUC pays the \nengineers' airfare from San Francisco to Alaska and their per \ndiem, etc. \nHowever, while in Alaska they will fly on company \nplanes to inspect certain areas. \nThere is no feasible alternative \nmeans of travel. \nI orally advised Mr. MacBride that this benefit, or \"income\", \nso long as it was totally work-related, appeared to accrue to the \nPUC, not the officials themselves. \nThe flights are in the nature \nof a \"plant tour\" by the officials and their value should not be \nconstrued as \"income\" to the individuals. \nWe have made a record of this conversation in case there are \nany repercussions later. \ncc: \nTom MacBride \nPublic Utilities Commission \nbcc: \nDHL \nBS \nKF \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1976-09-08",
+    "date_raw": "September 8, 1976",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether PUC engineers receiving flights on company planes while inspecting gas fields in Alaska constitutes taxable income or a conflict of interest when they will later participate in decisions affecting those utilities.",
+    "conclusion_synthetic": "FPPC advised orally that company-provided flights constitute work-related benefits accruing to the PUC rather than personal income to the officials, and should not be construed as income to the individuals, analogous to a plant tour.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.75,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an internal FPPC memorandum documenting an oral advice call rather than a formal advice letter; no formal QUESTION or CONCLUSION sections present; oral advice was given on September 8, 1976 and memorialized on September 10, 1976; document lacks typical structured advice letter format."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:17.268721Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether PUC engineers receiving flights on company planes while inspecting gas fields in Alaska constitutes taxable income or a conflict of interest when they will later participate in decisions affecting those utilities.\n\nCONCLUSION: FPPC advised orally that company-provided flights constitute work-related benefits accruing to the PUC rather than personal income to the officials, and should not be construed as income to the individuals, analogous to a plant tour.",
+    "qa_source": "synthetic",
+    "first_500_words": "of California , Memorandum To Delbert Spurlock, Chief Conflicts of Interest Division From FAIR POLITICAL PRACTICES COMMISSION - Ken Goshorn Doto September 10, 197, Sublect: Telephone Conversation with Tom MacBride of the Public Utilities Commission, September 8, 1976 Tom MacBride of the Public utilities Commission called on September 8, 1976, with an emergency problem. Two Commission employees (engineers) are going to Alaska to inspect gas fields, etc. They will later participate in decisions materially affect- ing the utilities holding interests in these sites. PUC pays the engineers' airfare from San Francisco to Alaska and their per diem, etc. However, while in Alaska they will fly on company planes to inspect certain areas. There is no feasible alternative means of travel. I orally advised Mr. MacBride that this benefit, or \"income\", so long as it was totally work-related, appeared to accrue to the PUC, not the officials themselves. The flights are in the nature of a \"plant tour\" by the officials and their value should not be construed as \"income\" to the individuals. We have made a record of this conversation in case there are any repercussions later. cc: Tom MacBride Public Utilities Commission bcc: DHL BS KF",
+    "summary": "Internal FPPC memorandum documenting an oral advice given to the Public Utilities Commission regarding whether company-provided flights for engineers inspecting gas fields constitute personal income or conflict of interest."
+  }
+}

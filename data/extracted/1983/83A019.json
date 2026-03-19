@@ -1,0 +1,75 @@
+{
+  "id": "83A019",
+  "year": 1983,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1983/83A019.PDF",
+  "pdf_sha256": "33b98c73e3611eb35930f9319bea4b43c3ae8006cf5d4cf97d86688740396454",
+  "local_pdf_path": "raw_pdfs/1983/83A019.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1983 Advice Letter # 83A019",
+    "tags": [
+      "1983",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:33:04",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1983&tagCount=1&page=22"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T23:05:55.005465Z",
+    "page_count": 1,
+    "word_count": 57,
+    "char_count": 406,
+    "quality_score": 0.7726598048375376,
+    "olmocr_cost": 0.00246218,
+    "native_word_count": 60
+  },
+  "content": {
+    "full_text": "Memorandum\n\nTo: File No. M-83-019\n\nDate: Feb. 2, 1983\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION  \nBarbara A. Milman\n\nSubject: Telephone Advice to Mike Carter, City Attorney, Gardena, 84308, 1/6/83\n\nA planning commission which holds hearings and makes recommendations is not exempt from Section 84308. The recommendations are decisions (not purely advisory) so votes count under Section 84308.\n\nBAM:plh",
+    "full_text_markdown": "Memorandum\n\nTo: File No. M-83-019\n\nDate: Feb. 2, 1983\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION  \nBarbara A. Milman\n\nSubject: Telephone Advice to Mike Carter, City Attorney, Gardena, 84308, 1/6/83\n\nA planning commission which holds hearings and makes recommendations is not exempt from Section 84308. The recommendations are decisions (not purely advisory) so votes count under Section 84308.\n\nBAM:plh"
+  },
+  "parsed": {
+    "date": "1983-01-06",
+    "date_raw": "1/6/83",
+    "requestor_name": null,
+    "requestor_title": "City Attorney",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [
+      "84308"
+    ],
+    "regulations": [],
+    "prior_opinions": [
+      "M-83-019"
+    ],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-19T23:05:55.005465Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "**Memorandum** To: File No. M-83-019 Date: Feb. 2, 1983 From: FAIR POLITICAL PRACTICES COMMISSION Barbara A. Milman Subject: Telephone Advice to Mike Carter, City Attorney, Gardena, 84308, 1/6/83 A planning commission which holds hearings and makes recommendations is not exempt from Section 84308. The recommendations are decisions (not purely advisory) so votes count under Section 84308. BAM:plh",
+    "qa_source": "extracted",
+    "first_500_words": "**Memorandum** To: File No. M-83-019 Date: Feb. 2, 1983 From: FAIR POLITICAL PRACTICES COMMISSION Barbara A. Milman Subject: Telephone Advice to Mike Carter, City Attorney, Gardena, 84308, 1/6/83 A planning commission which holds hearings and makes recommendations is not exempt from Section 84308. The recommendations are decisions (not purely advisory) so votes count under Section 84308. BAM:plh",
+    "summary": null
+  }
+}

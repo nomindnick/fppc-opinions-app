@@ -1,0 +1,73 @@
+{
+  "id": "A-82-008",
+  "year": 1982,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1982/82A008.PDF",
+  "pdf_sha256": "7adf4a77634b0dfa3e482f7b94c032e8e7239f083869cc3cf4388b53ccfdebfe",
+  "local_pdf_path": "raw_pdfs/1982/82A008.PDF",
+  "source_metadata": {
+    "title_raw": "James Murdoch - A-82-008 - January 5, 1982 - Sacramento",
+    "tags": [
+      "1982",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:29:56",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1982&tagCount=1&page=5"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:55.554832Z",
+    "page_count": 1,
+    "word_count": 297,
+    "char_count": 1873,
+    "quality_score": 0.7150000000000001,
+    "olmocr_cost": null,
+    "native_word_count": 297
+  },
+  "content": {
+    "full_text": "Technical Assistance \n(916) 322·5662 \nJames Murdoch \nAdmlnistratian •• \nExecutive/legal \n•• \nEnfarcement \n322-5660 \n322·5901 \n322-64.41 \nJanuary 5, 1982 \nMurdoch, Mockler & Associates \n1010 Eleventh Street, Suite 304 \nSacramento, CA \n95814 \nDear Mr. Murdoch: \nStatements of Economic Interest \n322-6444 \nThank you for your telephone call requesting advice from \nthis office. \nThe facts, as you presented them to me, are that \nyou are currently an attorney and a registered lobbyist. \nIn the \npast, you ~ave worked as a legislative consultant for Assembly-\nperson Leroy Greene. \nWhile working in the latter capacity, you \nformed a partnership with another legislative employee, a person \nwho later took over the position you vacated. \nThe partnership owns a parcel of pr9perty for which your \npartner keeps the books. \nDue to the fact that this investment \nhas a negative cash flow, you have, in the past, written personal \nchecks to your partner to cover your share of the expenses. \nYour \nquestion is whether, as a registered lobbyist, you must disclose \nthese checks under Government Code Section 86107. \nSection 86l07(b) requires disclosure of \"expenses which \nbenefit in whole or in part any ••• official •••• \" \nUnder the \nfacts you presented to me, it appears that you are merely providing \nyour partner with money to cover your share of the property's \nexpenses and are not conferring any benefit upon him. \nIf, however, \nyou were to pay a portion of his share of the partnership's expenses, \nthen you would be providing him with a benefit which would have \nto be disclosed. \nIt should also be noted that it appears that these payments \nare not income to your partner nor are they gifts. \n(Section \n86l07(b) and 86203.) \nIf you have any further questions, please feel free to contact \nme at 916/322-5901. \nJSM:km \nVery tru~y~~~ \n~nk \nMcLean \nCounsel \nLegal Division \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1982-01-05",
+    "date_raw": "January 5, 1982",
+    "requestor_name": "Murdoch",
+    "requestor_title": null,
+    "requestor_city": "Sacramento",
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "is whether, as a registered lobbyist, you must disclose \nthese checks under Government Code Section 86107. \nSection 86l07(b) requires disclosure of \"expenses which \nbenefit in whole or in part any ••• official •••• \" \nUnder the \nfacts you presented to me, it appears that you are merely providing \nyour partner with money to cover your share of the property's \nexpenses and are not conferring any benefit upon him. \nIf, however, \nyou were to pay a portion of his share of the partnership's expenses, \nthen you would be providing him with a benefit which would have \nto be disclosed. \nIt should also be noted that it appears that these payments \nare not income to your partner nor are they gifts. \n(Section \n86l07(b) and 86203.)",
+    "conclusion": "Under the facts presented, it appears that you are merely providing your partner with money to cover your share of the property's expenses and are not conferring any benefit upon him. If, however, you were to pay a portion of his share of the partnership's expenses, then you would be providing him with a benefit which would have to be disclosed. It should also be noted that it appears that these payments are not income to your partner nor are they gifts.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "A registered lobbyist who is part of a partnership owning property seeks advice on whether personal checks written to cover his share of partnership expenses must be disclosed under Government Code Section 86107.",
+    "conclusion_synthetic": "The FPPC advises that payments covering only the lobbyist's own share of partnership expenses do not require disclosure, as they confer no benefit on the partner; however, if the lobbyist paid any portion of his partner's share, such payments would require disclosure.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": true,
+    "parsing_notes": "Format: ocr; LLM: OCR document from 1982. Clear question and conclusion sections present. Letter from Frank McLean, Counsel of Legal Division. Minor OCR artifacts noted (e.g., 'pr9perty', 'tru~y~~') but text is largely legible and complete."
+  },
+  "citations": {
+    "government_code": [
+      "86107"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "lobbying",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:36:55.554832Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: is whether, as a registered lobbyist, you must disclose \nthese checks under Government Code Section 86107. \nSection 86l07(b) requires disclosure of \"expenses which \nbenefit in whole or in part any ••• official •••• \" \nUnder the \nfacts you presented to me, it appears that you are merely providing \nyour partner with money to cover your share of the property's \nexpenses and are not conferring any benefit upon him. \nIf, however, \nyou were to pay a portion of his share of the partnership's expenses, \nthen you would be providing him with a benefit which would have \nto be disclosed. \nIt should also be noted that it appears that these payments \nare not income to your partner nor are they gifts. \n(Section \n86l07(b) and 86203.)\n\nCONCLUSION: Under the facts presented, it appears that you are merely providing your partner with money to cover your share of the property's expenses and are not conferring any benefit upon him. If, however, you were to pay a portion of his share of the partnership's expenses, then you would be providing him with a benefit which would have to be disclosed. It should also be noted that it appears that these payments are not income to your partner nor are they gifts.",
+    "qa_source": "mixed",
+    "first_500_words": "Technical Assistance (916) 322·5662 James Murdoch Admlnistratian •• Executive/legal •• Enfarcement 322-5660 322·5901 322-64.41 January 5, 1982 Murdoch, Mockler & Associates 1010 Eleventh Street, Suite 304 Sacramento, CA 95814 Dear Mr. Murdoch: Statements of Economic Interest 322-6444 Thank you for your telephone call requesting advice from this office. The facts, as you presented them to me, are that you are currently an attorney and a registered lobbyist. In the past, you ~ave worked as a legislative consultant for Assembly- person Leroy Greene. While working in the latter capacity, you formed a partnership with another legislative employee, a person who later took over the position you vacated. The partnership owns a parcel of pr9perty for which your partner keeps the books. Due to the fact that this investment has a negative cash flow, you have, in the past, written personal checks to your partner to cover your share of the expenses. Your question is whether, as a registered lobbyist, you must disclose these checks under Government Code Section 86107. Section 86l07(b) requires disclosure of \"expenses which benefit in whole or in part any ••• official •••• \" Under the facts you presented to me, it appears that you are merely providing your partner with money to cover your share of the property's expenses and are not conferring any benefit upon him. If, however, you were to pay a portion of his share of the partnership's expenses, then you would be providing him with a benefit which would have to be disclosed. It should also be noted that it appears that these payments are not income to your partner nor are they gifts. (Section 86l07(b) and 86203.) If you have any further questions, please feel free to contact me at 916/322-5901. JSM:km Very tru~y~~~ ~nk McLean Counsel Legal Division",
+    "summary": "FPPC counsel advises a registered lobbyist that personal checks written to a partner to cover the lobbyist's share of partnership property expenses do not require disclosure under Government Code Section 86107, unless the payments also cover the partner's share."
+  }
+}

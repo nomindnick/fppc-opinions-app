@@ -1,0 +1,71 @@
+{
+  "id": "84314",
+  "year": 1984,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1984/fppc-advice/84314.PDF",
+  "pdf_sha256": "78c5abccde7a06317c8d4dc6d45749191f6df4218088ca085f172d1cf5eed174",
+  "local_pdf_path": "raw_pdfs/1984/84314.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1984 Advice Letter # 84314",
+    "tags": [
+      "1984",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:33:39",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1984&tagCount=1&page=3"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:45.024871Z",
+    "page_count": 1,
+    "word_count": 140,
+    "char_count": 923,
+    "quality_score": 0.515,
+    "olmocr_cost": null,
+    "native_word_count": 140
+  },
+  "content": {
+    "full_text": "State of California \nMemorandum \nTo \nAdvice File: \nSection 820l3(c) \nDate \nDec. 4, 1984 \nNo. M-84-3l4 \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nCarla Wardlow \nSubject: \nReporting by Parners and Partnerships \nIndividuals owning a 50 percent or greater interest in a \npartnership must cumulate their personal contributions with \nthose of the partnership for purposes of determining whether \nmajor donor statements must be filed. \nOne Form 461 should \nbe filed containing the names of the partnership and the \npartner(s). \nThe statement should also indicate which payments \nwere made by each contributor. \nPartners owning less than 50 percent of a partnership will \ncumulate their contributions with those of the partnership \nonly if they are acting as a \"combination of persons\" which \nis attempting to influence the voters for or against the \nnomination or election of a candidate or the passage or \ndefeat of a measure. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "Individuals owning a 50 percent or greater interest in a partnership must cumulate their personal contributions with those of the partnership for purposes of determining whether major donor statements must be filed. One Form 461 should be filed containing the names of the partnership and the partner(s). The statement should also indicate which payments were made by each contributor. Partners owning less than 50 percent of a partnership will cumulate their contributions with those of the partnership only if they are acting as a \"combination of persons\" which is attempting to influence the voters for or against the nomination or election of a candidate or the passage or defeat of a measure.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "How should partners report contributions when they own interests in a partnership, and must they cumulate their personal contributions with partnership contributions for major donor statement filing purposes?",
+    "conclusion_synthetic": "Partners with 50% or greater ownership must cumulate personal and partnership contributions for major donor statement filing on a single Form 461. Partners with less than 50% ownership only cumulate contributions if acting as a coordinated \"combination of persons\" to influence elections or measures.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is a memorandum to advice file without traditional QUESTION/CONCLUSION section headers. Content appears to be substantive FPPC guidance on partnership reporting rules under Section 82013(c). No formal question section detected but core legal guidance is clearly stated."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:36:45.024871Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: How should partners report contributions when they own interests in a partnership, and must they cumulate their personal contributions with partnership contributions for major donor statement filing purposes?\n\nCONCLUSION: Individuals owning a 50 percent or greater interest in a partnership must cumulate their personal contributions with those of the partnership for purposes of determining whether major donor statements must be filed. One Form 461 should be filed containing the names of the partnership and the partner(s). The statement should also indicate which payments were made by each contributor. Partners owning less than 50 percent of a partnership will cumulate their contributions with those of the partnership only if they are acting as a \"combination of persons\" which is attempting to influence the voters for or against the nomination or election of a candidate or the passage or defeat of a measure.",
+    "qa_source": "mixed",
+    "first_500_words": "State of California Memorandum To Advice File: Section 820l3(c) Date Dec. 4, 1984 No. M-84-3l4 From FAIR POLITICAL PRACTICES COMMISSION Carla Wardlow Subject: Reporting by Parners and Partnerships Individuals owning a 50 percent or greater interest in a partnership must cumulate their personal contributions with those of the partnership for purposes of determining whether major donor statements must be filed. One Form 461 should be filed containing the names of the partnership and the partner(s). The statement should also indicate which payments were made by each contributor. Partners owning less than 50 percent of a partnership will cumulate their contributions with those of the partnership only if they are acting as a \"combination of persons\" which is attempting to influence the voters for or against the nomination or election of a candidate or the passage or defeat of a measure.",
+    "summary": "FPPC memorandum addressing reporting requirements for partners and partnerships regarding contribution cumulation and Form 461 filing based on ownership percentage thresholds."
+  }
+}

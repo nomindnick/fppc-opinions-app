@@ -1,0 +1,77 @@
+{
+  "id": "98-068",
+  "year": 1998,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/1998/98-068.pdf",
+  "pdf_sha256": "1c2ac540e0a9ee88a9c6b040e0630a1c665930ff9889133ec5f7a27187fa8b62",
+  "local_pdf_path": "raw_pdfs/1998/98-068.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 1998 Advice Letter # 98-068",
+    "tags": [
+      "1998",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:46:03",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1998&tagCount=1&page=10"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:43.608604Z",
+    "page_count": 2,
+    "word_count": 321,
+    "char_count": 2008,
+    "quality_score": 0.8,
+    "olmocr_cost": null,
+    "native_word_count": 321
+  },
+  "content": {
+    "full_text": "FAIR POLITICAL PRACTICES COMMISSION\nP.O. Box 807\n• 428 J SEreet\n• Sacramento. CA 958 12-0807\n(916) 322-5660\nFax (916) 322-0886\nMarch26, 1998\nLonnaB. Smith\nCounty Clerk\nSutter County\n1160 Civic Center Blvd.\nYuba City, CA 95993\nRe: Your Request for Advice\nOur File No. A-98-068\nDear Ms. Smith:\nThis letter is a response to your request for advice regarding the provisions of the Political\nReform Act (the “Act”).’\nQUESTION\nIn your letter, dated February 26, 1998, and our phone conversation of March 10, 1998,\nyou asked what additional duties you had in your attempt to get the Yuba Sutter Chapter\nCalifornia Congress of Republicans, ID number 921729, to terminate its committee, due to the\nfact that the treasurer of this committee has left the state.\nCONCLUSION\nSince you indicated that you have already tried to contact the committee and have also\ncontacted your District Attorney’s office, you have satisfied your duties as a filing officer\nconcerning this matter.\nFACTS\nThe Yuba Sutter Chapter California Congress of Republicans (committee) is a recipient\nGovernment Code sections 81000\n- 91014. Commission regulations appear at title 2, sections 18109 -\n18995, of the California Code of Regulations.\n\n\nLonnaB. Smith\nOur File No. A-98-068\nPage 2\ncommittee, as defmed by Section 82013. In September, 1997, you forwarded a memo to the\nSutter County District Attorney’s office regarding a fine you were imposing against the\ncommittee for an overdue campaign filing.\nYou again contacted the District Attorney on January 13, 1998, and were informed by\nthat office that Wayne Williams, treasurer for the committee, had left the state.\nANALYSIS\nSection 81010(c) and (d) require filing officers to:\n“Notify promptly all persons and known committees who have\nfailed to file a report or statement in the form and at the time\nrequired by this title (and) report apparent violations ofthis title to\nthe appropriate agencies.”\nSincerely,\nSteven Churchwell\nGeneral Counsel\nBy: Kevin S. Moen\nPolitical Reform Consultant\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1998-03-26",
+    "date_raw": "March26, 1998",
+    "requestor_name": "Smith",
+    "requestor_title": "District Attorney",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "In your letter, dated February 26, 1998, and our phone conversation of March 10, 1998,\nyou asked what additional duties you had in your attempt to get the Yuba Sutter Chapter\nCalifornia Congress of Republicans, ID number 921729, to terminate its committee, due to the\nfact that the treasurer of this committee has left the state.",
+    "conclusion": "Since you indicated that you have already tried to contact the committee and have also\ncontacted your District Attorney’s office, you have satisfied your duties as a filing officer\nconcerning this matter.",
+    "facts": "The Yuba Sutter Chapter California Congress of Republicans (committee) is a recipienLonnaB. Smith\nOur Page 2\ncommittee, as defmed by Section 82013. In September, 1997, you forwarded a memo to the\nSutter County District Attorney’s office regarding a fine you were imposing against the\ncommittee for an overdue campaign filing.\nYou again contacted the District Attorney on January 13, 1998, and were informed by\nthat office that Wayne Williams, treasurer for the committee, had left the state.",
+    "analysis": "Section 81010(c) and (d) require filing officers to:\n“Notify promptly all persons and known committees who have\nfailed to file a report or statement in the form and at the time\nrequired by this title (and) report apparent violations ofthis title to\nthe appropriate agencies.”",
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.9,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern"
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "81010(c)",
+      "82013"
+    ],
+    "regulations": [
+      "18109"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.6666666666666666,
+    "classified_at": "2026-02-06T18:34:43.608604Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: In your letter, dated February 26, 1998, and our phone conversation of March 10, 1998,\nyou asked what additional duties you had in your attempt to get the Yuba Sutter Chapter\nCalifornia Congress of Republicans, ID number 921729, to terminate its committee, due to the\nfact that the treasurer of this committee has left the state.\n\nCONCLUSION: Since you indicated that you have already tried to contact the committee and have also\ncontacted your District Attorney’s office, you have satisfied your duties as a filing officer\nconcerning this matter.",
+    "qa_source": "extracted",
+    "first_500_words": "FAIR POLITICAL PRACTICES COMMISSION P.O. Box 807 • 428 J SEreet • Sacramento. CA 958 12-0807 (916) 322-5660 Fax (916) 322-0886 March26, 1998 LonnaB. Smith County Clerk Sutter County 1160 Civic Center Blvd. Yuba City, CA 95993 Re: Your Request for Advice Our File No. A-98-068 Dear Ms. Smith: This letter is a response to your request for advice regarding the provisions of the Political Reform Act (the “Act”).’ QUESTION In your letter, dated February 26, 1998, and our phone conversation of March 10, 1998, you asked what additional duties you had in your attempt to get the Yuba Sutter Chapter California Congress of Republicans, ID number 921729, to terminate its committee, due to the fact that the treasurer of this committee has left the state. CONCLUSION Since you indicated that you have already tried to contact the committee and have also contacted your District Attorney’s office, you have satisfied your duties as a filing officer concerning this matter. FACTS The Yuba Sutter Chapter California Congress of Republicans (committee) is a recipient Government Code sections 81000 - 91014. Commission regulations appear at title 2, sections 18109 - 18995, of the California Code of Regulations. LonnaB. Smith Our File No. A-98-068 Page 2 committee, as defmed by Section 82013. In September, 1997, you forwarded a memo to the Sutter County District Attorney’s office regarding a fine you were imposing against the committee for an overdue campaign filing. You again contacted the District Attorney on January 13, 1998, and were informed by that office that Wayne Williams, treasurer for the committee, had left the state. ANALYSIS Section 81010(c) and (d) require filing officers to: “Notify promptly all persons and known committees who have failed to file a report or statement in the form and at the time required by this title (and) report apparent violations ofthis title to the appropriate agencies.” Sincerely, Steven Churchwell General Counsel By: Kevin S. Moen Political Reform Consultant",
+    "summary": null
+  }
+}

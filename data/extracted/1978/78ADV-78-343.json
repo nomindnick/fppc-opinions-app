@@ -1,0 +1,71 @@
+{
+  "id": "78ADV-78-343",
+  "year": 1978,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1978/78ADV-78-343.PDF",
+  "pdf_sha256": "3767d256034619fbd23ebf8b601479da8435a85d051435c7b9f7b573898454a5",
+  "local_pdf_path": "raw_pdfs/1978/78ADV-78-343.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1978ADV Advice Letter # 78ADV-78-343",
+    "tags": [
+      "Advice Letter",
+      "1978"
+    ],
+    "scraped_at": "2026-01-31 15:25:14",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=33"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-08T17:16:52.435319Z",
+    "page_count": 1,
+    "word_count": 47,
+    "char_count": 334,
+    "quality_score": 0.4225,
+    "olmocr_cost": 0.002408,
+    "native_word_count": 44
+  },
+  "content": {
+    "full_text": "Independent Expenditures Are Not Late Contributions\n\nAn independent expenditure which occurs after the closing date for the second pre-election statement is not a late contribution. This is because late contributions apply only to cash or in-kind contributions and not independent expenditures.\n\nOpinion Request Meeting, May 30, 1978.",
+    "full_text_markdown": "Independent Expenditures Are Not Late Contributions\n\nAn independent expenditure which occurs after the closing date for the second pre-election statement is not a late contribution. This is because late contributions apply only to cash or in-kind contributions and not independent expenditures.\n\nOpinion Request Meeting, May 30, 1978."
+  },
+  "parsed": {
+    "date": "1978-05-30",
+    "date_raw": "May 30, 1978",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "An independent expenditure which occurs after the closing date for the second pre-election statement is not a late contribution. This is because late contributions apply only to cash or in-kind contributions and not independent expenditures.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether independent expenditures made after the closing date for the second pre-election statement constitute late contributions under campaign finance law.",
+    "conclusion_synthetic": "Independent expenditures are not subject to late contribution restrictions because late contribution rules apply only to cash or in-kind contributions, not independent expenditures.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document lacks formal QUESTION and CONCLUSION section headers. Content is brief and appears to be from an Opinion Request Meeting. Title serves as both question and answer."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-08T17:16:52.435319Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether independent expenditures made after the closing date for the second pre-election statement constitute late contributions under campaign finance law.\n\nCONCLUSION: An independent expenditure which occurs after the closing date for the second pre-election statement is not a late contribution. This is because late contributions apply only to cash or in-kind contributions and not independent expenditures.",
+    "qa_source": "mixed",
+    "first_500_words": "Independent Expenditures Are Not Late Contributions An independent expenditure which occurs after the closing date for the second pre-election statement is not a late contribution. This is because late contributions apply only to cash or in-kind contributions and not independent expenditures. Opinion Request Meeting, May 30, 1978.",
+    "summary": "FPPC advice letter clarifying that independent expenditures made after the second pre-election statement closing date do not constitute late contributions, as late contribution rules apply only to cash or in-kind contributions."
+  }
+}

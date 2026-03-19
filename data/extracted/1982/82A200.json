@@ -1,0 +1,75 @@
+{
+  "id": "82A200",
+  "year": 1982,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1982/82A200.PDF",
+  "pdf_sha256": "a96e235c43b55545b5f39ef851f1c7805a540cf2878de85a618c64d28acd6c76",
+  "local_pdf_path": "raw_pdfs/1982/82A200.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1982 Advice Letter # 82A200",
+    "tags": [
+      "1982",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:30:36",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1982&tagCount=1&page=14"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-07T16:30:38.797014Z",
+    "page_count": 2,
+    "word_count": 206,
+    "char_count": 1283,
+    "quality_score": 0.5975,
+    "olmocr_cost": 0.0049664999999999996,
+    "native_word_count": 59
+  },
+  "content": {
+    "full_text": "December 13, 1982\n\nPhilip Martin  \n1500 J Street, Suite 2A  \nModesto, CA 95354\n\nRe: Our No. A-82-200\n\nDear Mr. Martin:\n\nYou have asked whether, as a member of the Modesto School Board, you would encounter any problems under the Political Reform Act because your wife may be hired as a teacher for the Modesto schools. The answer is that you would not.\n\nThe Political Reform Act prohibits an official from participating in any decisions which may have a direct effect on the official's income, or which may affect a source of income to the official or the official's spouse. Government Code Sections 87100, 87103.* However, salary from a government agency is not considered income for purposes of the Political Reform Act. Section 82030(b)(2). Therefore, the Act does not prohibit an official from participating in decisions which will affect his or her spouse's government employer, or which may affect the official's spouse's government salary.\n\n*All statutory references are to the Government Code.\n\nIf you are concerned about potential problems under any laws other than the Political Reform Act, such as Section 1090, I suggest you contact the Attorney General's office.\n\nI hope this has answered your question.\n\nVery truly yours,\n\nBarbara A. Milman\nChief\nLegal Division\n\nBAM:plh",
+    "full_text_markdown": "December 13, 1982\n\nPhilip Martin  \n1500 J Street, Suite 2A  \nModesto, CA 95354\n\nRe: Our No. A-82-200\n\nDear Mr. Martin:\n\nYou have asked whether, as a member of the Modesto School Board, you would encounter any problems under the Political Reform Act because your wife may be hired as a teacher for the Modesto schools. The answer is that you would not.\n\nThe Political Reform Act prohibits an official from participating in any decisions which may have a direct effect on the official's income, or which may affect a source of income to the official or the official's spouse. Government Code Sections 87100, 87103.* However, salary from a government agency is not considered income for purposes of the Political Reform Act. Section 82030(b)(2). Therefore, the Act does not prohibit an official from participating in decisions which will affect his or her spouse's government employer, or which may affect the official's spouse's government salary.\n\n*All statutory references are to the Government Code.\n\nIf you are concerned about potential problems under any laws other than the Political Reform Act, such as Section 1090, I suggest you contact the Attorney General's office.\n\nI hope this has answered your question.\n\nVery truly yours,\n\nBarbara A. Milman\nChief\nLegal Division\n\nBAM:plh"
+  },
+  "parsed": {
+    "date": "1982-12-13",
+    "date_raw": "December 13, 1982",
+    "requestor_name": "Martin",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "The answer is that you would not encounter any problems under the Political Reform Act. The Act does not prohibit an official from participating in decisions which will affect his or her spouse's government employer, or which may affect the official's spouse's government salary, because salary from a government agency is not considered income for purposes of the Political Reform Act.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a Modesto School Board member would face restrictions under the Political Reform Act if his wife were hired as a teacher in the Modesto school district.",
+    "conclusion_synthetic": "No Political Reform Act violations would occur if the board member's wife is hired as a teacher, since government salary is excluded from the definition of 'income' under the Act. The requestor should consult the Attorney General's office regarding potential issues under other laws such as Section 1090.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Formal advice letter with clear question and conclusion embedded in opening paragraphs rather than in distinct sections. No formal 'QUESTION' or 'CONCLUSION' headers present. Statutory citations included. Date, recipient, and FPPC reference number all clearly present."
+  },
+  "citations": {
+    "government_code": [
+      "1090",
+      "82030(b)(2)",
+      "87100"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T16:30:38.797014Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether a Modesto School Board member would face restrictions under the Political Reform Act if his wife were hired as a teacher in the Modesto school district.\n\nCONCLUSION: The answer is that you would not encounter any problems under the Political Reform Act. The Act does not prohibit an official from participating in decisions which will affect his or her spouse's government employer, or which may affect the official's spouse's government salary, because salary from a government agency is not considered income for purposes of the Political Reform Act.",
+    "qa_source": "mixed",
+    "first_500_words": "December 13, 1982 Philip Martin 1500 J Street, Suite 2A Modesto, CA 95354 Re: Our No. A-82-200 Dear Mr. Martin: You have asked whether, as a member of the Modesto School Board, you would encounter any problems under the Political Reform Act because your wife may be hired as a teacher for the Modesto schools. The answer is that you would not. The Political Reform Act prohibits an official from participating in any decisions which may have a direct effect on the official's income, or which may affect a source of income to the official or the official's spouse. Government Code Sections 87100, 87103.* However, salary from a government agency is not considered income for purposes of the Political Reform Act. Section 82030(b)(2). Therefore, the Act does not prohibit an official from participating in decisions which will affect his or her spouse's government employer, or which may affect the official's spouse's government salary. *All statutory references are to the Government Code. If you are concerned about potential problems under any laws other than the Political Reform Act, such as Section 1090, I suggest you contact the Attorney General's office. I hope this has answered your question. Very truly yours, Barbara A. Milman Chief Legal Division BAM:plh",
+    "summary": "FPPC advises that a Modesto School Board member would not violate the Political Reform Act if his spouse is hired as a teacher, as government salaries are excluded from the Act's income restrictions. The letter recommends consulting the Attorney General regarding potential conflicts under other applicable laws."
+  }
+}

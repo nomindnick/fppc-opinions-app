@@ -1,0 +1,73 @@
+{
+  "id": "77ADV-77-170",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-170.PDF",
+  "pdf_sha256": "cf81272a01de0012728d4e5f48f586312609902ac5a17958ce8e98dd5b3d246c",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-170.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-170",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:19:05",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=2"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-07T17:01:37.219877Z",
+    "page_count": 2,
+    "word_count": 310,
+    "char_count": 1987,
+    "quality_score": 0.8,
+    "olmocr_cost": 0.00504906,
+    "native_word_count": 104
+  },
+  "content": {
+    "full_text": "January 6, 1977\n\nHonorable Alfred H. Song  \nThe State Senate  \nState Capitol  \nSacramento, CA 95814  \n\nDear Senator Song:\n\nThank you for your request for advice relative to whether advertising a constituent services message on a billboard would result in a reportable expenditure under the Political Reform Act.\n\nPursuant to a regulation of the Fair Political Practices Commission, 2 Cal. Adm. Code Section 18225(b), any monetary payment made by a \"candidate\" is a reportable expenditure \"unless it is clear from surrounding circumstances that the payment was made for personal purposes unrelated to his candidacy or status as an officeholder.\" Accordingly, if you are a \"candidate\" at the time that you purchase the billboard advertisement, the expenditure will be reportable since it is obvious that the constituent services message is related to your status as an officeholder and is not for personal purposes.\n\n\"Candidate\" is defined in Government Code Section 82007 to include an individual \"who receives a contribution or makes an expenditure or gives his consent for any other person to receive a contribution or make an expenditure with a view to bringing about his nomination or election to any elective office, whether or not the specific elective office for which he will seek nomination or election is known at the time the contribution is made ....\" Campaign reports of your controlled committee on file with the Secretary of State indicate that the committee has received contributions and made expenditures since your last election. Consequently, you are a \"candidate\" within the meaning of the Political Reform Act and the expenditures for the billboard message will be reportable.\n\nHonorable Alfred H. Song  \nPage Two  \nJanuary 6, 1977\n\nI hope the foregoing is responsive to your question. If you have any further questions, please do not hesitate to contact me.\n\nSincerely,\n\nJohn Giansello  \nPolitical Reform Analyst  \nTechnical Assistance and Analysis Division\n\nJG: jo",
+    "full_text_markdown": "January 6, 1977\n\nHonorable Alfred H. Song  \nThe State Senate  \nState Capitol  \nSacramento, CA 95814  \n\nDear Senator Song:\n\nThank you for your request for advice relative to whether advertising a constituent services message on a billboard would result in a reportable expenditure under the Political Reform Act.\n\nPursuant to a regulation of the Fair Political Practices Commission, 2 Cal. Adm. Code Section 18225(b), any monetary payment made by a \"candidate\" is a reportable expenditure \"unless it is clear from surrounding circumstances that the payment was made for personal purposes unrelated to his candidacy or status as an officeholder.\" Accordingly, if you are a \"candidate\" at the time that you purchase the billboard advertisement, the expenditure will be reportable since it is obvious that the constituent services message is related to your status as an officeholder and is not for personal purposes.\n\n\"Candidate\" is defined in Government Code Section 82007 to include an individual \"who receives a contribution or makes an expenditure or gives his consent for any other person to receive a contribution or make an expenditure with a view to bringing about his nomination or election to any elective office, whether or not the specific elective office for which he will seek nomination or election is known at the time the contribution is made ....\" Campaign reports of your controlled committee on file with the Secretary of State indicate that the committee has received contributions and made expenditures since your last election. Consequently, you are a \"candidate\" within the meaning of the Political Reform Act and the expenditures for the billboard message will be reportable.\n\nHonorable Alfred H. Song  \nPage Two  \nJanuary 6, 1977\n\nI hope the foregoing is responsive to your question. If you have any further questions, please do not hesitate to contact me.\n\nSincerely,\n\nJohn Giansello  \nPolitical Reform Analyst  \nTechnical Assistance and Analysis Division\n\nJG: jo"
+  },
+  "parsed": {
+    "date": "1977-01-06",
+    "date_raw": "January 6, 1977",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "whether advertising a constituent services message on a billboard would result in a reportable expenditure under the Political Reform Act",
+    "conclusion": "If you are a \"candidate\" at the time that you purchase the billboard advertisement, the expenditure will be reportable since it is obvious that the constituent services message is related to your status as an officeholder and is not for personal purposes. Campaign reports of your controlled committee on file with the Secretary of State indicate that the committee has received contributions and made expenditures since your last election. Consequently, you are a \"candidate\" within the meaning of the Political Reform Act and the expenditures for the billboard message will be reportable.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether advertising a constituent services message on a billboard constitutes a reportable expenditure under the Political Reform Act.",
+    "conclusion_synthetic": "Senator Song is a \"candidate\" under the Political Reform Act based on his committee's recent contributions and expenditures, therefore the billboard expenditure for the constituent services message is reportable.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Standard advice letter format with clear question and conclusion sections. Document addressed to a state senator requesting guidance on campaign finance reporting requirements."
+  },
+  "citations": {
+    "government_code": [
+      "82007"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T17:01:37.219877Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: whether advertising a constituent services message on a billboard would result in a reportable expenditure under the Political Reform Act\n\nCONCLUSION: If you are a \"candidate\" at the time that you purchase the billboard advertisement, the expenditure will be reportable since it is obvious that the constituent services message is related to your status as an officeholder and is not for personal purposes. Campaign reports of your controlled committee on file with the Secretary of State indicate that the committee has received contributions and made expenditures since your last election. Consequently, you are a \"candidate\" within the meaning of the Political Reform Act and the expenditures for the billboard message will be reportable.",
+    "qa_source": "mixed",
+    "first_500_words": "January 6, 1977 Honorable Alfred H. Song The State Senate State Capitol Sacramento, CA 95814 Dear Senator Song: Thank you for your request for advice relative to whether advertising a constituent services message on a billboard would result in a reportable expenditure under the Political Reform Act. Pursuant to a regulation of the Fair Political Practices Commission, 2 Cal. Adm. Code Section 18225(b), any monetary payment made by a \"candidate\" is a reportable expenditure \"unless it is clear from surrounding circumstances that the payment was made for personal purposes unrelated to his candidacy or status as an officeholder.\" Accordingly, if you are a \"candidate\" at the time that you purchase the billboard advertisement, the expenditure will be reportable since it is obvious that the constituent services message is related to your status as an officeholder and is not for personal purposes. \"Candidate\" is defined in Government Code Section 82007 to include an individual \"who receives a contribution or makes an expenditure or gives his consent for any other person to receive a contribution or make an expenditure with a view to bringing about his nomination or election to any elective office, whether or not the specific elective office for which he will seek nomination or election is known at the time the contribution is made ....\" Campaign reports of your controlled committee on file with the Secretary of State indicate that the committee has received contributions and made expenditures since your last election. Consequently, you are a \"candidate\" within the meaning of the Political Reform Act and the expenditures for the billboard message will be reportable. Honorable Alfred H. Song Page Two January 6, 1977 I hope the foregoing is responsive to your question. If you have any further questions, please do not hesitate to contact me. Sincerely, John Giansello Political Reform Analyst Technical Assistance and Analysis Division JG: jo",
+    "summary": "FPPC advises Senator Alfred H. Song that billboard advertising for constituent services messages constitutes a reportable expenditure under the Political Reform Act because he qualifies as a \"candidate\" based on his committee's recent campaign activity."
+  }
+}

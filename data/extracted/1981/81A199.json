@@ -1,0 +1,71 @@
+{
+  "id": "81A199",
+  "year": 1981,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1981/81A199.PDF",
+  "pdf_sha256": "51b5c66b041748afca8c68e7e7f39592a0c6472accdc93fc7b2d4a11035a32b8",
+  "local_pdf_path": "raw_pdfs/1981/81A199.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1981 Advice Letter # 81A199",
+    "tags": [
+      "Advice Letter",
+      "1981"
+    ],
+    "scraped_at": "2026-01-31 15:29:04",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1981&tagCount=1&page=14"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T22:32:15.981894Z",
+    "page_count": 1,
+    "word_count": 136,
+    "char_count": 875,
+    "quality_score": 0.8435470588235295,
+    "olmocr_cost": 0.00250776,
+    "native_word_count": 143
+  },
+  "content": {
+    "full_text": "March 31, 1981\n\nSupervisor John Molinari  \nRoom 235 City Hall  \nSan Francisco, CA 94102\n\nDear Supervisor Molinari:\n\nThis letter will confirm advice given to you today in our telephone conversation.\n\nYour question was, if a committee controlled by a candidate transfers funds to another committee by the same candidate would a threshold filing be required. The transfer of funds from one controlled committee to another is not considered a contribution to another candidate or committee for the purpose of determining whether a contribution has been made and a threshold statement is required. However, the transfer would be considered an expenditure for the purpose of determining if expenditures have been made of $500 or more.\n\nIf you have any further questions, please do not hesitate to contact me.\n\nYours very truly,\n\nLynn Montgomery  \nPolitical Reform Consultant\n\nLM/bb",
+    "full_text_markdown": "March 31, 1981\n\nSupervisor John Molinari  \nRoom 235 City Hall  \nSan Francisco, CA 94102\n\nDear Supervisor Molinari:\n\nThis letter will confirm advice given to you today in our telephone conversation.\n\nYour question was, if a committee controlled by a candidate transfers funds to another committee by the same candidate would a threshold filing be required. The transfer of funds from one controlled committee to another is not considered a contribution to another candidate or committee for the purpose of determining whether a contribution has been made and a threshold statement is required. However, the transfer would be considered an expenditure for the purpose of determining if expenditures have been made of $500 or more.\n\nIf you have any further questions, please do not hesitate to contact me.\n\nYours very truly,\n\nLynn Montgomery  \nPolitical Reform Consultant\n\nLM/bb"
+  },
+  "parsed": {
+    "date": "1981-03-31",
+    "date_raw": "March 31, 1981",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T22:32:15.981894Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "March 31, 1981 Supervisor John Molinari Room 235 City Hall San Francisco, CA 94102 Dear Supervisor Molinari: This letter will confirm advice given to you today in our telephone conversation. Your question was, if a committee controlled by a candidate transfers funds to another committee by the same candidate would a threshold filing be required. The transfer of funds from one controlled committee to another is not considered a contribution to another candidate or committee for the purpose of determining whether a contribution has been made and a threshold statement is required. However, the transfer would be considered an expenditure for the purpose of determining if expenditures have been made of $500 or more. If you have any further questions, please do not hesitate to contact me. Yours very truly, Lynn Montgomery Political Reform Consultant LM/bb",
+    "qa_source": "extracted",
+    "first_500_words": "March 31, 1981 Supervisor John Molinari Room 235 City Hall San Francisco, CA 94102 Dear Supervisor Molinari: This letter will confirm advice given to you today in our telephone conversation. Your question was, if a committee controlled by a candidate transfers funds to another committee by the same candidate would a threshold filing be required. The transfer of funds from one controlled committee to another is not considered a contribution to another candidate or committee for the purpose of determining whether a contribution has been made and a threshold statement is required. However, the transfer would be considered an expenditure for the purpose of determining if expenditures have been made of $500 or more. If you have any further questions, please do not hesitate to contact me. Yours very truly, Lynn Montgomery Political Reform Consultant LM/bb",
+    "summary": null
+  }
+}

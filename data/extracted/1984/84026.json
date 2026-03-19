@@ -1,0 +1,72 @@
+{
+  "id": "84026",
+  "year": 1984,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1984/fppc-advice/84026.PDF",
+  "pdf_sha256": "e2a2dd1d482927d70fc5a44fb40c6086db0be27da2a47a5cb299a4ca3f1ac9fe",
+  "local_pdf_path": "raw_pdfs/1984/84026.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1984 Advice Letter # 84026",
+    "tags": [
+      "1984",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:33:44",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1984&tagCount=1&page=4"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T16:27:04.092568Z",
+    "page_count": 1,
+    "word_count": 114,
+    "char_count": 963,
+    "quality_score": 0.7243272524704912,
+    "olmocr_cost": 0.0025481799999999997,
+    "native_word_count": 112,
+    "haiku_cost": 0.002328
+  },
+  "content": {
+    "full_text": "TO: [ ]JEANNE          [ ] JAY                                FROM: A.WARDLOW\n\n    [ ]LYNN            [ ] BARBARA                             DATE: 1/31/84\n    \n    [ ]RICH            [ ] BOB S.\n    \n    [ ]HELEN           [ ] OTHER________________              T: 84-026\n\n\n[X]TELEPHONE ADVICE - SEE BELOW\n\n[ ]CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT\n    (IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY)\n\nFILE LOCATION: 82015, 82088\n\nINCLUDE IN ADVICE PACKAGE:              YES [ ]          NO [X]\n\n\nCALLER Palmer Madden\n\nREPRESENTING_________________________________\n\nPHONE NUMBER: 415-937-8000\n\n\nQUESTION: Is free legal advice provided to a public/elected\n          official with respect to completing a\n          Statement of Economic Interests reportable\n          as a contribution or gift?\n\n\nANSWER:   No. Free services provided to assist\n          a Filer in complying with the Act's\n          disclosure requirements are not\n          reportable.",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1984-01-31",
+    "date_raw": "1/31/84",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Is free legal advice provided to a public/elected official with respect to completing a Statement of Economic Interests reportable as a contribution or gift?\n\nANSWER: No. Free services provided to assist a Filer in complying with the Act's disclosure requirements are not reportable.",
+    "conclusion": "No. Free services provided to assist a Filer in complying with the Act's disclosure requirements are not reportable.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether free legal advice provided to a public official for completing required economic interest statements constitutes a reportable contribution or gift under California political finance law.",
+    "conclusion_synthetic": "Free legal services provided to help elected officials comply with Statement of Economic Interests filing requirements are not reportable as contributions or gifts.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern; LLM: Telephone advice letter from C. Wardlow dated 1/31/84. Caller: Palmer Madden. Both question and answer sections are clearly present and extracted verbatim. File references: 82015, 82028. Document marked to not be included in advice package."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T16:24:33.590933Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Is free legal advice provided to a public/elected official with respect to completing a Statement of Economic Interests reportable as a contribution or gift?\n\nANSWER: No. Free services provided to assist a Filer in complying with the Act's disclosure requirements are not reportable.\n\nCONCLUSION: No. Free services provided to assist a Filer in complying with the Act's disclosure requirements are not reportable.",
+    "qa_source": "mixed",
+    "first_500_words": "TO: [ ] JEANNE [ ] JAY [ ] LYNN [ ] BARBARA [ ] RICH [ ] BOB S. [ ] HELEN [ ] OTHER FROM: C. WARDLOW DATE: 1/31/84 T-84-026 [ ] TELEPHONE ADVICE - SEE BELOW [ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT (IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY) FILE LOCATION: 82015, 82028 INCLUDE IN ADVICE PACKAGE: YES [ ] NO [X] CALLER: Palmer Madden REPRESENTING: PHONE NUMBER: 415-937-8000 QUESTION: Is free legal advice provided to a public/elected official with respect to completing a Statement of Economic Interests reportable as a contribution or gift? ANSWER: No. Free services provided to assist a Filer in complying with the Act's disclosure requirements are not reportable.",
+    "summary": "FPPC advises that free legal advice provided to a public official for completing a Statement of Economic Interests form is not reportable as a contribution or gift under the Political Reform Act."
+  }
+}

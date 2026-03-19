@@ -1,0 +1,73 @@
+{
+  "id": "77A-336",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77A-336.PDF",
+  "pdf_sha256": "9f485e6c7eccfdd5c8b981ad7cb63a7967bbff503d62d31d6b883fa38ae52a07",
+  "local_pdf_path": "raw_pdfs/1977/77A-336.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977A Advice Letter # 77A-336",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:20:20",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=19"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-07T17:08:20.997076Z",
+    "page_count": 1,
+    "word_count": 233,
+    "char_count": 1374,
+    "quality_score": 0.6325000000000001,
+    "olmocr_cost": 0.00460788,
+    "native_word_count": 319
+  },
+  "content": {
+    "full_text": "July 1, 1977\n\nJ. Richard Eichman, C.P.A.\nP.O. Box 254431\nSacramento, CA 95825\n\nDear Rich:\n\nThis letter is in response to our telephone conversation of June 29, 1977 regarding reporting obligations of a lobbyist in the following situation:\n\nA lobbyist and a legislator have dinner together. The lobbyist charges the dinner on his credit card and the legislator reimburses the lobbyist for his or her portion of the dinner at a later time.\n\nA lobbyist does not have a reporting obligation with respect to this transaction if the legislator repays the lobbyist prior to the closing date of the lobbyist's periodic report. If the transaction occurs less than a week prior to the closing date of a periodic report, no reporting obligation will arise if the lobbyist is repaid within one week.\n\nIn the event the lobbyist is not repaid as indicated above, the entire transaction must be disclosed in Schedule (i) of Form 620 or 625.\n\nWith respect to the gift prohibition, Section 86203 of the Act, no violation will occur even though the lobbyist is not reimbursed until after the closing date of the periodic report provided that there was a bona fide intention on the part of the legislator to repay the lobbyist and there was no suggestion that a gift was involved.\n\nIf I can be of further assistance, do not hesitate to call.\n\nSincerely,\n\nAlan Herndon\nCompliance Representative",
+    "full_text_markdown": "July 1, 1977\n\nJ. Richard Eichman, C.P.A.\nP.O. Box 254431\nSacramento, CA 95825\n\nDear Rich:\n\nThis letter is in response to our telephone conversation of June 29, 1977 regarding reporting obligations of a lobbyist in the following situation:\n\nA lobbyist and a legislator have dinner together. The lobbyist charges the dinner on his credit card and the legislator reimburses the lobbyist for his or her portion of the dinner at a later time.\n\nA lobbyist does not have a reporting obligation with respect to this transaction if the legislator repays the lobbyist prior to the closing date of the lobbyist's periodic report. If the transaction occurs less than a week prior to the closing date of a periodic report, no reporting obligation will arise if the lobbyist is repaid within one week.\n\nIn the event the lobbyist is not repaid as indicated above, the entire transaction must be disclosed in Schedule (i) of Form 620 or 625.\n\nWith respect to the gift prohibition, Section 86203 of the Act, no violation will occur even though the lobbyist is not reimbursed until after the closing date of the periodic report provided that there was a bona fide intention on the part of the legislator to repay the lobbyist and there was no suggestion that a gift was involved.\n\nIf I can be of further assistance, do not hesitate to call.\n\nSincerely,\n\nAlan Herndon\nCompliance Representative"
+  },
+  "parsed": {
+    "date": "1977-07-01",
+    "date_raw": "July 1, 1977",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "What are the reporting obligations for a lobbyist when a legislator reimburses the lobbyist for a shared meal charged to the lobbyist's credit card, and does this transaction violate gift prohibition rules?",
+    "conclusion_synthetic": "A lobbyist has no reporting obligation if reimbursed before the periodic report closing date (or within one week if the transaction occurs less than a week before closing). If not reimbursed timely, the transaction must be disclosed in Schedule (i) of Form 620 or 625. No gift prohibition violation occurs under Section 86203 if there was a bona fide intent to repay and no suggestion of a gift, regardless of reimbursement timing.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document lacks formal QUESTION and CONCLUSION section headers; information extracted from letter body. Telephone conversation documented as basis for advice. Specific statutory references provided (Section 86203, Forms 620/625, Schedule i)."
+  },
+  "citations": {
+    "government_code": [
+      "86203"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "lobbying",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T17:08:20.997076Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: What are the reporting obligations for a lobbyist when a legislator reimburses the lobbyist for a shared meal charged to the lobbyist's credit card, and does this transaction violate gift prohibition rules?\n\nCONCLUSION: A lobbyist has no reporting obligation if reimbursed before the periodic report closing date (or within one week if the transaction occurs less than a week before closing). If not reimbursed timely, the transaction must be disclosed in Schedule (i) of Form 620 or 625. No gift prohibition violation occurs under Section 86203 if there was a bona fide intent to repay and no suggestion of a gift, regardless of reimbursement timing.",
+    "qa_source": "synthetic",
+    "first_500_words": "July 1, 1977 J. Richard Eichman, C.P.A. P.O. Box 254431 Sacramento, CA 95825 Dear Rich: This letter is in response to our telephone conversation of June 29, 1977 regarding reporting obligations of a lobbyist in the following situation: A lobbyist and a legislator have dinner together. The lobbyist charges the dinner on his credit card and the legislator reimburses the lobbyist for his or her portion of the dinner at a later time. A lobbyist does not have a reporting obligation with respect to this transaction if the legislator repays the lobbyist prior to the closing date of the lobbyist's periodic report. If the transaction occurs less than a week prior to the closing date of a periodic report, no reporting obligation will arise if the lobbyist is repaid within one week. In the event the lobbyist is not repaid as indicated above, the entire transaction must be disclosed in Schedule (i) of Form 620 or 625. With respect to the gift prohibition, Section 86203 of the Act, no violation will occur even though the lobbyist is not reimbursed until after the closing date of the periodic report provided that there was a bona fide intention on the part of the legislator to repay the lobbyist and there was no suggestion that a gift was involved. If I can be of further assistance, do not hesitate to call. Sincerely, Alan Herndon Compliance Representative",
+    "summary": "FPPC advises that a lobbyist's reporting obligations for shared meal expenses depend on whether and when the legislator reimburses the lobbyist, with specific timeframe rules and gift prohibition considerations."
+  }
+}

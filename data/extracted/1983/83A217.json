@@ -1,0 +1,71 @@
+{
+  "id": "83A217",
+  "year": 1983,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1983/83A217.PDF",
+  "pdf_sha256": "599f6e395ac7648b5195b54ec5e961d67138921c7b6fed02988a2d5c29c7bb52",
+  "local_pdf_path": "raw_pdfs/1983/83A217.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1983 Advice Letter # 83A217",
+    "tags": [
+      "1983",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:33:13",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1983&tagCount=1&page=24"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T18:30:00.874770Z",
+    "page_count": 1,
+    "word_count": 203,
+    "char_count": 1131,
+    "quality_score": 0.8646416421458027,
+    "olmocr_cost": 0.00263332,
+    "native_word_count": 191
+  },
+  "content": {
+    "full_text": "TO: [ ] JEANNE   [ ] JAY\n[ ] LYNN        [ ] BARBARA\n[ ] RICH        [ ] BOB S.\n[ ] HELEN       [ ] OTHER\n\nFROM: J. Pritchard\nDATE: 9/19/83\n\n[X] TELEPHONE ADVICE - SEE BELOW\n[ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT\n(IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY)\n\nFILE LOCATION: 86107, 86203, 82028\n\nINCLUDE IN ADVICE PACKAGE: YES [ ] NO [X]\n\nCALLER: Myra Herd\nREPRESENTING: Herb Nobriga, Lobbyist\nPHONE NUMBER: 448-3381\n\nQUESTION: A lobbyist attends a dinner at a legislator's house. The legislator provides all the food, drinks, etc. The lobbyist brings along a bottle of wine, a hunk of salami or some other similar small gift. Has the lobbyist provided a reportable gift? If the value is more than $10 is it a prohibited gift?\n\nANSWER: The gift is not reportable because the legislator has provided equal or greater consideration by hosting the dinner. So long as the gift provided by the lobbyist does not greatly exceed the value of the dinner, the $10 gift prohibition does not apply. This advice is intended to apply to situations in which it is traditional for a guest to bring a small gift to a host's home.",
+    "full_text_markdown": "TO: [ ] JEANNE   [ ] JAY\n[ ] LYNN        [ ] BARBARA\n[ ] RICH        [ ] BOB S.\n[ ] HELEN       [ ] OTHER\n\nFROM: J. Pritchard\nDATE: 9/19/83\n\n[X] TELEPHONE ADVICE - SEE BELOW\n[ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT\n(IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY)\n\nFILE LOCATION: 86107, 86203, 82028\n\nINCLUDE IN ADVICE PACKAGE: YES [ ] NO [X]\n\nCALLER: Myra Herd\nREPRESENTING: Herb Nobriga, Lobbyist\nPHONE NUMBER: 448-3381\n\nQUESTION: A lobbyist attends a dinner at a legislator's house. The legislator provides all the food, drinks, etc. The lobbyist brings along a bottle of wine, a hunk of salami or some other similar small gift. Has the lobbyist provided a reportable gift? If the value is more than $10 is it a prohibited gift?\n\nANSWER: The gift is not reportable because the legislator has provided equal or greater consideration by hosting the dinner. So long as the gift provided by the lobbyist does not greatly exceed the value of the dinner, the $10 gift prohibition does not apply. This advice is intended to apply to situations in which it is traditional for a guest to bring a small gift to a host's home."
+  },
+  "parsed": {
+    "date": "1983-09-19",
+    "date_raw": "9/19/83",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "A lobbyist attends a dinner at a legislator's house. The legislator provides all the food, drinks, etc. The lobbyist brings along a bottle of wine, a hunk of salami or some other similar small gift. Has the lobbyist provided a reportable gift? If the value is more than $10 is it a prohibited gift?\n\nANSWER: The gift is not reportable because the legislator has provided equal or greater consideration by hosting the dinner. So long as the gift provided by the lobbyist does not greatly exceed the value of the dinner, the $10 gift prohibition does not apply. This advice is intended to apply to situations in which it is traditional for a guest to bring a small gift to a host's home.",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.44999999999999996,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-20T18:30:00.874770Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: A lobbyist attends a dinner at a legislator's house. The legislator provides all the food, drinks, etc. The lobbyist brings along a bottle of wine, a hunk of salami or some other similar small gift. Has the lobbyist provided a reportable gift? If the value is more than $10 is it a prohibited gift?\n\nANSWER: The gift is not reportable because the legislator has provided equal or greater consideration by hosting the dinner. So long as the gift provided by the lobbyist does not greatly exceed the value of the dinner, the $10 gift prohibition does not apply. This advice is intended to apply to situations in which it is traditional for a guest to bring a small gift to a host's home.",
+    "qa_source": "extracted",
+    "first_500_words": "TO: [ ] JEANNE [ ] JAY [ ] LYNN [ ] BARBARA [ ] RICH [ ] BOB S. [ ] HELEN [ ] OTHER FROM: J. Pritchard DATE: 9/19/83 [X] TELEPHONE ADVICE - SEE BELOW [ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT (IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY) FILE LOCATION: 86107, 86203, 82028 INCLUDE IN ADVICE PACKAGE: YES [ ] NO [X] CALLER: Myra Herd REPRESENTING: Herb Nobriga, Lobbyist PHONE NUMBER: 448-3381 QUESTION: A lobbyist attends a dinner at a legislator's house. The legislator provides all the food, drinks, etc. The lobbyist brings along a bottle of wine, a hunk of salami or some other similar small gift. Has the lobbyist provided a reportable gift? If the value is more than $10 is it a prohibited gift? ANSWER: The gift is not reportable because the legislator has provided equal or greater consideration by hosting the dinner. So long as the gift provided by the lobbyist does not greatly exceed the value of the dinner, the $10 gift prohibition does not apply. This advice is intended to apply to situations in which it is traditional for a guest to bring a small gift to a host's home.",
+    "summary": null
+  }
+}

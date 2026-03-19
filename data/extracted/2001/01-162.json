@@ -1,0 +1,73 @@
+{
+  "id": "01-162",
+  "year": 2001,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2001/01-162.pdf",
+  "pdf_sha256": "7c91ecaec6deccebc67c96525901dc1ea5bd47aca1fceb5aced5146e38d791e5",
+  "local_pdf_path": "raw_pdfs/2001/01-162.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2001 Advice Letter # 01-162",
+    "tags": [
+      "2001",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:52:03",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2001&tagCount=1&page=13"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T22:01:22.112500Z",
+    "page_count": 1,
+    "word_count": 92,
+    "char_count": 623,
+    "quality_score": 0.7799733737139065,
+    "olmocr_cost": 0.00251292,
+    "native_word_count": 109
+  },
+  "content": {
+    "full_text": "July 26, 2001\n\nJohn F. Barna\n1002 Cottonwood Drive\nRoseville, CA 95661\n\nRe: Your Request for Advice\nOur File No. W-01-162\n\nDear Mr. Barna:\n\nThis correspondence memorializes our July 24, 2001 conversation regarding the withdrawal of your June 29, 2001 letter to the Fair Political Practices Commission, requesting hypothetical advice on post-employment issues. (Regulation 18329(c).) I enclose a copy of the regulation and our fact sheet on \"Revolving Door and Other Post-Employment Issues\" for your review.\n\nSincerely,\n\nLuisa Menchaca\nGeneral Counsel\n\nBy: William L. Williams, Jr.\nStaff Counsel, Legal Division\n\nEnc.\nWLW/jg",
+    "full_text_markdown": "July 26, 2001\n\nJohn F. Barna\n1002 Cottonwood Drive\nRoseville, CA 95661\n\nRe: Your Request for Advice\nOur File No. W-01-162\n\nDear Mr. Barna:\n\nThis correspondence memorializes our July 24, 2001 conversation regarding the withdrawal of your June 29, 2001 letter to the Fair Political Practices Commission, requesting hypothetical advice on post-employment issues. (Regulation 18329(c).) I enclose a copy of the regulation and our fact sheet on \"Revolving Door and Other Post-Employment Issues\" for your review.\n\nSincerely,\n\nLuisa Menchaca\nGeneral Counsel\n\nBy: William L. Williams, Jr.\nStaff Counsel, Legal Division\n\nEnc.\nWLW/jg"
+  },
+  "parsed": {
+    "date": "2001-07-26",
+    "date_raw": "July 26, 2001",
+    "requestor_name": "Barna",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T22:01:22.112500Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "July 26, 2001 John F. Barna 1002 Cottonwood Drive Roseville, CA 95661 Re: Your Request for Advice Our File No. W-01-162 Dear Mr. Barna: This correspondence memorializes our July 24, 2001 conversation regarding the withdrawal of your June 29, 2001 letter to the Fair Political Practices Commission, requesting hypothetical advice on post-employment issues. (Regulation 18329(c).) I enclose a copy of the regulation and our fact sheet on \"Revolving Door and Other Post-Employment Issues\" for your review. Sincerely, Luisa Menchaca General Counsel By: William L. Williams, Jr. Staff Counsel, Legal Division Enc. WLW/jg",
+    "qa_source": "extracted",
+    "first_500_words": "July 26, 2001 John F. Barna 1002 Cottonwood Drive Roseville, CA 95661 Re: Your Request for Advice Our File No. W-01-162 Dear Mr. Barna: This correspondence memorializes our July 24, 2001 conversation regarding the withdrawal of your June 29, 2001 letter to the Fair Political Practices Commission, requesting hypothetical advice on post-employment issues. (Regulation 18329(c).) I enclose a copy of the regulation and our fact sheet on \"Revolving Door and Other Post-Employment Issues\" for your review. Sincerely, Luisa Menchaca General Counsel By: William L. Williams, Jr. Staff Counsel, Legal Division Enc. WLW/jg",
+    "summary": null
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "96-323",
+  "year": 1996,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/1996/96-323.pdf",
+  "pdf_sha256": "6e09d45ebbfe43b24b4dd895898535f7ba6dda8ce4674c74e7e6450d30929bec",
+  "local_pdf_path": "raw_pdfs/1996/96-323.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 1996 Advice Letter # 96-323",
+    "tags": [
+      "Advice Letter",
+      "1996"
+    ],
+    "scraped_at": "2026-01-31 16:41:14",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1996&tagCount=1&page=28"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:55.973075Z",
+    "page_count": 1,
+    "word_count": 213,
+    "char_count": 1270,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 213
+  },
+  "content": {
+    "full_text": "RAvI MEHTA\nCHAIRMAN\nFAIR POLITICAL PRACTICES COMMISSION\nJanuary 16,\n1997\nE.\nKen Tokutomi\nNewcastle Sanitary District\nPost Office Box 145\nNewcastle, California\n95658\nRe:\nYour Request for Advice\nOur File No.\n1-96-323\nDear Mr.\nTokutomi:\nI am writing to inform you that pursuant to our conversation\non December 10,\n1996,\nI\nam withdrawing your request for advice.\nAs we discussed, most of your questions either do not come under\nthe jurisdiction of the Political Reform Act or relate to past\nconduct\n(on which we do not advise).\nHowever,\nI did advise you\nthat if the Sanitary District Board members participate in a\ngovernmental decision to hire a board member to do work for the\ndistrict, it may trigger a conflict of interest under the\nPolitical Reform Act.\nI also advised you to consult with Mr. Larry Graves, the\ncounsel for the district,\nand the Attorney General’s office\nregarding Government Code Section 1090 and the doctrine of\nincompatible activities.\nI spoke to Mr.\nGraves on January 15,\n1997,\nand he is\nfollowing up on your questions.\nIf I can be of further assistance, please contact me at\n(916)\n322—5660.\nSincerely,\nSteven G.\nChurchwell\nGeneral Counsel\nBy:\nCo\nsel, Legal Division\nSGC: JS : ak\n428 J STREET, SUITE 800, SACRAMENTO, CALIFORNIA 95814\n(916) 322-5660\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1997-01-16",
+    "date_raw": "January 16,\n1997",
+    "requestor_name": "Tokutomi",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether board members of a sanitary district may participate in hiring decisions involving other board members, and whether such participation creates conflicts of interest under the Political Reform Act.",
+    "conclusion_synthetic": "The FPPC withdrew the advice request because most questions fall outside the Political Reform Act's jurisdiction or involve past conduct. However, the FPPC advised that if board members participate in governmental decisions to hire another board member, it may trigger a conflict of interest, and recommended consulting with the district's counsel and the Attorney General regarding Government Code Section 1090.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Withdrawal letter with no formal QUESTION or CONCLUSION sections. Substantive legal advice was provided despite the withdrawal. Document includes telephone conversation context from December 10, 1996."
+  },
+  "citations": {
+    "government_code": [
+      "1090"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:34:55.973075Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether board members of a sanitary district may participate in hiring decisions involving other board members, and whether such participation creates conflicts of interest under the Political Reform Act.\n\nCONCLUSION: The FPPC withdrew the advice request because most questions fall outside the Political Reform Act's jurisdiction or involve past conduct. However, the FPPC advised that if board members participate in governmental decisions to hire another board member, it may trigger a conflict of interest, and recommended consulting with the district's counsel and the Attorney General regarding Government Code Section 1090.",
+    "qa_source": "synthetic",
+    "first_500_words": "RAvI MEHTA CHAIRMAN FAIR POLITICAL PRACTICES COMMISSION January 16, 1997 E. Ken Tokutomi Newcastle Sanitary District Post Office Box 145 Newcastle, California 95658 Re: Your Request for Advice Our File No. 1-96-323 Dear Mr. Tokutomi: I am writing to inform you that pursuant to our conversation on December 10, 1996, I am withdrawing your request for advice. As we discussed, most of your questions either do not come under the jurisdiction of the Political Reform Act or relate to past conduct (on which we do not advise). However, I did advise you that if the Sanitary District Board members participate in a governmental decision to hire a board member to do work for the district, it may trigger a conflict of interest under the Political Reform Act. I also advised you to consult with Mr. Larry Graves, the counsel for the district, and the Attorney General’s office regarding Government Code Section 1090 and the doctrine of incompatible activities. I spoke to Mr. Graves on January 15, 1997, and he is following up on your questions. If I can be of further assistance, please contact me at (916) 322—5660. Sincerely, Steven G. Churchwell General Counsel By: Co sel, Legal Division SGC: JS : ak 428 J STREET, SUITE 800, SACRAMENTO, CALIFORNIA 95814 (916) 322-5660",
+    "summary": "The FPPC withdrew a request for advice from the Newcastle Sanitary District regarding conflict of interest questions, as most issues fell outside FPPC jurisdiction or involved past conduct. The FPPC provided limited guidance on potential conflicts if board members participate in hiring decisions involving other board members."
+  }
+}

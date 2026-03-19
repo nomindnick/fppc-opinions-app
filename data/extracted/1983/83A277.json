@@ -1,0 +1,74 @@
+{
+  "id": "83A277",
+  "year": 1983,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1983/83A277.PDF",
+  "pdf_sha256": "29280758d2ca278a01b776668b9aadbf3aa59655fa055918e90f2b200148c2b6",
+  "local_pdf_path": "raw_pdfs/1983/83A277.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1983 Advice Letter # 83A277",
+    "tags": [
+      "1983",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:33:13",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1983&tagCount=1&page=24"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:53.989669Z",
+    "page_count": 2,
+    "word_count": 386,
+    "char_count": 2466,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 386
+  },
+  "content": {
+    "full_text": "CommissioIl, \nP.O. BOX 807 • SACRAMENTO, 95804 ••• \n(916) 322·5662 \nTony Quinn \nPolicy Director \nAdministration •• \nExecutive/legal \n•• \nEnforcement \n322.5660 \n322·5901 \n322-6-441 \nDecember 19, 1983 \nAssembly Republican Caucus \n1100 J Street \nStatements of Economic Interest \n322-6444 \nSacramento, CA \n95814 \nRe: \nAdvice Letter A-83-277 \nDear Tony: \nYou have asked whether Government Code Section 84309 \nprohibits receipt of campaign contributions by a member of the \nLegislature in his or her district office if: \n(1) \nThe district office is located in a state office \nbuilding; Or \n(2) \nThe district office is located .in a building for which \nthe sta~e pays the majority of the rent. \nSection 84309(a) provides: \nNo person shall receive or personally deliver or \nattempt to deliver a contribution in the State Capitol, \nin any state office building, or in any office for \nwhich the state pays the majority of the rent other \nthan a legislative district office. \n(Emphasis added.) \nThe intent of the underlined language was to exempt all \ndistrict offices from the prohibition against delivery of \ncampaign contributions. \nTherefore a member of the Legislature \nmay accept campaign contributions in his or her district office, \neven if the office is located in a state office building or in a \nbuilding for which the state pays the majority of the rent. \n/ \nBAM:plh \nVery truly yours, \nBarbara A. Milman \nGeneral Counsel \n\n\nE \nBarbara Milman, Esq. \nChief, Legal Division \nLY R \nFair Political Practices Commission \n1100 K Street \nSacramento, CA \n95814 \nDear Barbara: \n~ \nGovernment Code Section 84309 prohibits the receipt of a \ncampaign contribution delivered in person at the State Capitol or \nat any state office building. \nSuch prohibition extends to \nreceipt at any office for which the state pays the majority of \nthe rent with the exception of legislative district offices. \nThis section also prohibits the delivery or the attempted \ndelivery of a contribution made in person or by an agent or \nintermediary. \nI have the following questions: \nMaya member of the \nLegislature accept a campaign contribution in his or her district \noffice if that office is located in a state office building. \nMay \na member accept a contribution if the district office is located \nin a building for which the state pays the majority of the rent. \nThank you for your prompt response to these questions. \nSincerely, \n~\" \nTony Quinn \nPolicy Director \nTQ:nw \nSa,.;::.un~ntc. CA \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1983-12-19",
+    "date_raw": "December 19, 1983",
+    "requestor_name": null,
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "You have asked whether Government Code Section 84309 prohibits receipt of campaign contributions by a member of the Legislature in his or her district office if: (1) The district office is located in a state office building; Or (2) The district office is located in a building for which the state pays the majority of the rent.",
+    "conclusion": "The intent of the underlined language was to exempt all district offices from the prohibition against delivery of campaign contributions. Therefore a member of the Legislature may accept campaign contributions in his or her district office, even if the office is located in a state office building or in a building for which the state pays the majority of the rent.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Does Government Code Section 84309 prohibit legislators from accepting campaign contributions in their district offices when those offices are located in state office buildings or buildings where the state pays the majority of rent?",
+    "conclusion_synthetic": "No, Section 84309 does not prohibit receipt of campaign contributions in legislative district offices. The statute explicitly exempts all district offices from the contribution delivery prohibition, regardless of whether they are located in state office buildings or buildings where the state pays the majority of rent.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is a formal advice letter with both incoming request and FPPC response included. The question and conclusion sections are clearly delineated. The document is well-structured and contains explicit statutory analysis."
+  },
+  "citations": {
+    "government_code": [
+      "84309",
+      "84309(a)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:36:53.989669Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: You have asked whether Government Code Section 84309 prohibits receipt of campaign contributions by a member of the Legislature in his or her district office if: (1) The district office is located in a state office building; Or (2) The district office is located in a building for which the state pays the majority of the rent.\n\nCONCLUSION: The intent of the underlined language was to exempt all district offices from the prohibition against delivery of campaign contributions. Therefore a member of the Legislature may accept campaign contributions in his or her district office, even if the office is located in a state office building or in a building for which the state pays the majority of the rent.",
+    "qa_source": "mixed",
+    "first_500_words": "CommissioIl, P.O. BOX 807 • SACRAMENTO, 95804 ••• (916) 322·5662 Tony Quinn Policy Director Administration •• Executive/legal •• Enforcement 322.5660 322·5901 322-6-441 December 19, 1983 Assembly Republican Caucus 1100 J Street Statements of Economic Interest 322-6444 Sacramento, CA 95814 Re: Advice Letter A-83-277 Dear Tony: You have asked whether Government Code Section 84309 prohibits receipt of campaign contributions by a member of the Legislature in his or her district office if: (1) The district office is located in a state office building; Or (2) The district office is located .in a building for which the sta~e pays the majority of the rent. Section 84309(a) provides: No person shall receive or personally deliver or attempt to deliver a contribution in the State Capitol, in any state office building, or in any office for which the state pays the majority of the rent other than a legislative district office. (Emphasis added.) The intent of the underlined language was to exempt all district offices from the prohibition against delivery of campaign contributions. Therefore a member of the Legislature may accept campaign contributions in his or her district office, even if the office is located in a state office building or in a building for which the state pays the majority of the rent. / BAM:plh Very truly yours, Barbara A. Milman General Counsel E Barbara Milman, Esq. Chief, Legal Division LY R Fair Political Practices Commission 1100 K Street Sacramento, CA 95814 Dear Barbara: ~ Government Code Section 84309 prohibits the receipt of a campaign contribution delivered in person at the State Capitol or at any state office building. Such prohibition extends to receipt at any office for which the state pays the majority of the rent with the exception of legislative district offices. This section also prohibits the delivery or the attempted delivery of a contribution made in person or by an agent or intermediary. I have the following questions: Maya member of the Legislature accept a campaign contribution in his or her district office if that office is located in a state office building. May a member accept a contribution if the district office is located in a building for which the state pays the majority of the rent. Thank you for your prompt response to these questions. Sincerely, ~\" Tony Quinn Policy Director TQ:nw Sa,.;::.un~ntc. CA",
+    "summary": "FPPC General Counsel Barbara Milman advises that Government Code Section 84309 exempts legislative district offices from the prohibition on accepting campaign contributions, even when those offices are located in state buildings or buildings where the state pays the majority of rent."
+  }
+}

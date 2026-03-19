@@ -1,0 +1,74 @@
+{
+  "id": "90449",
+  "year": 1990,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1990/90449.pdf",
+  "pdf_sha256": "6fd7b6ad7dabba081f91e4783f29df32766948666e36e2d78815e11e213ea94a",
+  "local_pdf_path": "raw_pdfs/1990/90449.pdf",
+  "source_metadata": {
+    "title_raw": "Shade, Lois Year: 1990 Advice Letter # 90449",
+    "tags": [
+      "1990",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:07:41",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1990&tagCount=1&page=25"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-27T21:06:03.763082Z",
+    "page_count": 1,
+    "word_count": 211,
+    "char_count": 1401,
+    "quality_score": 0.8394804435483871,
+    "olmocr_cost": 0.0025456,
+    "native_word_count": 441,
+    "haiku_cost": 0.0027712
+  },
+  "content": {
+    "full_text": "DIVISION 25\n\nPolitical Mobilization\nState Board\nSacramento, California\n\nMEMORANDUM\n\nDate: May 7, [illegible]\n\nTO: All members and friends\n\nFROM: [illegible]\n\nSUBJECT: Precinct organization and voter registration\n\n1. General State Organization Plan\n\n4. Precinct organization consists of the following:\n   a. A precinct captain who serves as captain and funds his operation from\n   b. Precinct workers who are either paid staff or volunteers\n   c. A block organization within the precinct which may be supplemented\n\n2. Re-listed base masses funds from individuals and local funds combined with \n   STATEM.ENT OF:\n   a. All precinct and precinct operations\n   b. all family [illegible]\n\n3. Precinct organization needs to be structured so that every person in the precinct area \n   can be distributed with pertinent campaign literature and get out the vote materials, as well as \n   sampled for [illegible]\n\n4. If the account to be at the holding account it would need to the following:\n   a. Must at the [illegible] placed and\n   b. Must be placed before the candidate is notified\n   c. And special campaigns to enable the formulation of\n   d. [illegible] and canvassing form the precinct office machines and future \n   d. The [illegible] is a compiled matter and given away main\n\nPrepared by: [signature]\nRevised by: Morris Yale\nDate: [illegible]\nGlen Ridge\nGlen Ridge, New Jersey 07028\nTel: [illegible]",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1990-06-28",
+    "date_raw": "June 28, 1990",
+    "requestor_name": "Shade",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "1. May those funds be retained for use in a future campaign by me?\n2. If those funds must be disposed of, what is the last date for disposition?\n3. May those funds be placed in an account for the sole purpose of generating a newsletter to provide general information to the community of Glendora? (This would not support or oppose any candidate)\n4. If the account to which the funds would be transferred, must be an entity holding a charitable or non-profit status, may those funds be placed in a trust account until such time as non-profit status has been achieved?",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requester asks about the proper disposition of surplus campaign funds from a city council election, including whether they can be retained for future campaigns, placed in an account for a community newsletter, or held in a trust account pending non-profit status.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an incoming request to the FPPC, not an FPPC response. No conclusion or short answer section is present in the document. The document contains four distinct questions about campaign finance compliance. Minor uncertainty exists regarding whether Lois M. Shade is the actual requester or merely signing on behalf of Mark Moradomi."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [
+      "90-773"
+    ],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T16:18:45.587323Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: 1. May those funds be retained for use in a future campaign by me?\n2. If those funds must be disposed of, what is the last date for disposition?\n3. May those funds be placed in an account for the sole purpose of generating a newsletter to provide general information to the community of Glendora? (This would not support or oppose any candidate)\n4. If the account to which the funds would be transferred, must be an entity holding a charitable or non-profit status, may those funds be placed in a trust account until such time as non-profit status has been achieved?",
+    "qa_source": "mixed",
+    "first_500_words": "The letter is dated June 28, 1990, and is from the Fair Political Practices Commission to Mark Moradomi. The Commission is seeking clarification on the disposition of surplus campaign funds from a city council election in April. The specific questions asked are: 1. May those funds be retained for use in a future campaign by me? 2. If those funds must be disposed of, what is the last date for disposition? 3. May those funds be placed in an account for the sole purpose of generating a newsletter to provide general information to the community of Glendora? (This would not support or oppose any candidate) 4. If the account to which the funds would be transferred, must be an entity holding a charitable or non-profit status, may those funds be placed in a trust account until such time as non-profit status has been achieved? The writer expresses appreciation for any specific guidelines, criteria, or information that can be provided. They also note that they will call back today or tomorrow if necessary. Lois M. Shade signed off the letter, providing her contact information at the end.",
+    "summary": "This is an incoming request letter dated June 28, 1990, from Mark Moradomi (signed by Lois M. Shade) to the FPPC seeking guidance on how to properly dispose of surplus campaign funds from an April city council election, with specific questions about retention, timeline, newsletter accounts, and trust arrangements."
+  }
+}

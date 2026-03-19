@@ -1,0 +1,74 @@
+{
+  "id": "95-268",
+  "year": 1995,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/1995/95-268.pdf",
+  "pdf_sha256": "4fdf26332476de551aa2320d28d1e98a456a59e96cd075ae778ad3101999eaaa",
+  "local_pdf_path": "raw_pdfs/1995/95-268.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 1995 Advice Letter # 95-268",
+    "tags": [
+      "1995",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:38:02",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1995&tagCount=1&page=18"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:58.856778Z",
+    "page_count": 2,
+    "word_count": 370,
+    "char_count": 2302,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 370
+  },
+  "content": {
+    "full_text": "RAVIMEHTA\nCHAIRMAN\nFAIR POLITICAL PRACTICES COMMISSION\nAugust\n18,\n1995\nRobert J.\nSmith\n7220 Greenhaven Dr,\nSte.\n1\nSacramento,\nCA 95831\nRe:\nYour. Request For Confirmation\nof Telephone Advice\nOur File No.\n1-95-268\nDear Mr.\nSmith:\nYou have requested confirmation of advice given to you by\ntelephone regarding the campaign disclosure provisions of the\nPolitical Reform Act\n(the “Act”) 1\nSince you are requesting\ngeneral advice,\nwe are treating your request as one fo informal\nassistance\n2\nIn your letter you ask if the activity of “networking” for a\nparticular candidate or issue will result in the creation of ,a\ncommittee which would be subject to the reporting requirements of\nthe Act-.\nYou indicate that you and your associates intend to call\nfriends or other associates to discuss the support or opposition\nof candidates or issues.\nA part of that discussion may include\nencouraging people to make contributions of time or money to\nparticular candidates or causes.\nYou have also indicated that in\n1\nGovernmentCode Sections 81000-91015.\nAll statutory\nreferences are to the Government Code unless otherwise indicated.\nCommission regulations appear at\n2 California Code of Regulations\nSection 18000, et .\nAll references to regulations are to Title\n2,\nDivision\n6 of the California Code of Regulations.\n2\nInformal assistance does not provide- the requestor with the\nimmunity provided by an opinion or formal written advice.\n(Government Code Section 83114;\n2 Cal.\nCode of Regs. Sections\n18329 (c) (3) .)\n428 J STREET, SUITE 800, SACRAMENTO, CALIFORNIA 95814\n(916) 322-5660\n\n\nSmith,\nRobert J.\nOur File No.\n1-95-268\nPage\n2\nall cases the people contacted through this telephone network will\nmake their checks payable directly to the candidates or committees\nbeing supported.\nIn some cases the checks will be sent directly\nto the candidates or committees, but in other cases checks may be\ncollected by one of the networking associates to be forwarded on\nto the recipient.\nYour letter correctly states my advice that the activities\nindicated in your letter will not result in the creation of a\ncommittee as defined in the Act and will not result in any filing\nobligations under the Act.\nIf you have additional questions, please contact me at\n(916)\n322-5662.\nSincerely,\nWayneQP.\nImberi\nPolitical Reform Consultant\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1995-08-18",
+    "date_raw": "August\n18,\n1995",
+    "requestor_name": "Smith",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "informal_advice"
+  },
+  "sections": {
+    "question": "If the activity of \"networking\" for a particular candidate or issue will result in the creation of a committee which would be subject to the reporting requirements of the Act. The questioner indicates that they and their associates intend to call friends or other associates to discuss the support or opposition of candidates or issues, and may encourage people to make contributions of time or money to particular candidates or causes. In some cases checks will be sent directly to the candidates or committees, but in other cases checks may be collected by one of the networking associates to be forwarded on to the recipient.",
+    "conclusion": "Your letter correctly states my advice that the activities indicated in your letter will not result in the creation of a committee as defined in the Act and will not result in any filing obligations under the Act.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Does informal \"networking\" activity involving telephone calls to discuss and encourage support for candidates or issues, where contributors send checks either directly or via an intermediary to those candidates or committees, trigger committee formation and reporting requirements under the Political Reform Act?",
+    "conclusion_synthetic": "The FPPC advises that the described networking activities will not trigger the creation of a committee or any filing obligations under the Political Reform Act.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is a confirmation of prior telephone advice. No formal Q/A sections with headers, but question and conclusion are clearly identifiable in narrative text. Marked as informal assistance, which does not provide immunity. Letter reference number is 1-95-268."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "83114"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "gifts_honoraria",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:34:58.856778Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: If the activity of \"networking\" for a particular candidate or issue will result in the creation of a committee which would be subject to the reporting requirements of the Act. The questioner indicates that they and their associates intend to call friends or other associates to discuss the support or opposition of candidates or issues, and may encourage people to make contributions of time or money to particular candidates or causes. In some cases checks will be sent directly to the candidates or committees, but in other cases checks may be collected by one of the networking associates to be forwarded on to the recipient.\n\nCONCLUSION: Your letter correctly states my advice that the activities indicated in your letter will not result in the creation of a committee as defined in the Act and will not result in any filing obligations under the Act.",
+    "qa_source": "mixed",
+    "first_500_words": "RAVIMEHTA CHAIRMAN FAIR POLITICAL PRACTICES COMMISSION August 18, 1995 Robert J. Smith 7220 Greenhaven Dr, Ste. 1 Sacramento, CA 95831 Re: Your. Request For Confirmation of Telephone Advice Our File No. 1-95-268 Dear Mr. Smith: You have requested confirmation of advice given to you by telephone regarding the campaign disclosure provisions of the Political Reform Act (the “Act”) 1 Since you are requesting general advice, we are treating your request as one fo informal assistance 2 In your letter you ask if the activity of “networking” for a particular candidate or issue will result in the creation of ,a committee which would be subject to the reporting requirements of the Act-. You indicate that you and your associates intend to call friends or other associates to discuss the support or opposition of candidates or issues. A part of that discussion may include encouraging people to make contributions of time or money to particular candidates or causes. You have also indicated that in 1 GovernmentCode Sections 81000-91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations Section 18000, et . All references to regulations are to Title 2, Division 6 of the California Code of Regulations. 2 Informal assistance does not provide- the requestor with the immunity provided by an opinion or formal written advice. (Government Code Section 83114; 2 Cal. Code of Regs. Sections 18329 (c) (3) .) 428 J STREET, SUITE 800, SACRAMENTO, CALIFORNIA 95814 (916) 322-5660 Smith, Robert J. Our File No. 1-95-268 Page 2 all cases the people contacted through this telephone network will make their checks payable directly to the candidates or committees being supported. In some cases the checks will be sent directly to the candidates or committees, but in other cases checks may be collected by one of the networking associates to be forwarded on to the recipient. Your letter correctly states my advice that the activities indicated in your letter will not result in the creation of a committee as defined in the Act and will not result in any filing obligations under the Act. If you have additional questions, please contact me at (916) 322-5662. Sincerely, WayneQP. Imberi Political Reform Consultant",
+    "summary": "This is a confirmation letter from the FPPC regarding telephone advice given to Robert J. Smith about whether informal networking activities designed to encourage contributions to candidates and issues would trigger committee formation requirements. The FPPC confirms that such networking activities do not create a committee or filing obligations under the Act."
+  }
+}

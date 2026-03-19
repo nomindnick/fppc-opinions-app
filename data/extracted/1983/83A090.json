@@ -1,0 +1,71 @@
+{
+  "id": "83A090",
+  "year": 1983,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1983/83A090.PDF",
+  "pdf_sha256": "b97849759cadcc9a26a6b0298b3e6fe62389c4b451e2ef9c5873480ff0c91eb0",
+  "local_pdf_path": "raw_pdfs/1983/83A090.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1983 Advice Letter # 83A090",
+    "tags": [
+      "1983",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:31:59",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1983&tagCount=1&page=7"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:51.495625Z",
+    "page_count": 1,
+    "word_count": 111,
+    "char_count": 653,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 111
+  },
+  "content": {
+    "full_text": "State of California \nMemorandum \nTo \n:File \nDate \n:April 5, 1983 \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nTed \nSubject:Conversation with Vance RaYeon March 31, 1983 \nVance RaYG counsel to the Governor, called to ask how a \nseason pass to all major league baseball games should be \ndisclosed by the Governor. \nI advised him that he should find \nout the value of season tickets to an individual team's ball \ngames and add on some amount for the fact that this pass \nadmitted one to any major league ball game anywhere in the \ncountry. \nVance indicated that this sounded like more trouble than \nthe pass was worth so i t ~ \nprobably would be returned. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1983-04-05",
+    "date_raw": "April 5, 1983",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "How should a season pass to all major league baseball games be valued and disclosed by the Governor?",
+    "conclusion_synthetic": "The FPPC advised that the value should be determined by finding the cost of season tickets to an individual team's games and adding an amount for the pass's ability to admit the holder to any major league game anywhere in the country.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.75,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Internal FPPC memorandum rather than formal advice letter; no formal QUESTION or CONCLUSION sections; document appears incomplete (ends mid-sentence with 'it~'). Classified as correspondence and FPPC response based on staff providing advisory guidance."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:36:51.495625Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: How should a season pass to all major league baseball games be valued and disclosed by the Governor?\n\nCONCLUSION: The FPPC advised that the value should be determined by finding the cost of season tickets to an individual team's games and adding an amount for the pass's ability to admit the holder to any major league game anywhere in the country.",
+    "qa_source": "synthetic",
+    "first_500_words": "State of California Memorandum To :File Date :April 5, 1983 From FAIR POLITICAL PRACTICES COMMISSION Ted Subject:Conversation with Vance RaYeon March 31, 1983 Vance RaYG counsel to the Governor, called to ask how a season pass to all major league baseball games should be disclosed by the Governor. I advised him that he should find out the value of season tickets to an individual team's ball games and add on some amount for the fact that this pass admitted one to any major league ball game anywhere in the country. Vance indicated that this sounded like more trouble than the pass was worth so i t ~ probably would be returned.",
+    "summary": "A memorandum documenting a phone conversation between FPPC staff and Vance Ray, counsel to the Governor, regarding the disclosure value of a season pass to all major league baseball games."
+  }
+}

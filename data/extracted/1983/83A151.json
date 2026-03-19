@@ -1,0 +1,73 @@
+{
+  "id": "83A151",
+  "year": 1983,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1983/83A151.PDF",
+  "pdf_sha256": "daa07fc49351624b40c432763966324515c421eb8e0805b74e1ce59cb087ce99",
+  "local_pdf_path": "raw_pdfs/1983/83A151.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1983 Advice Letter # 83A151",
+    "tags": [
+      "1983",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:32:29",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1983&tagCount=1&page=14"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T16:45:45.473798Z",
+    "page_count": 1,
+    "word_count": 199,
+    "char_count": 1109,
+    "quality_score": 0.8649765670259074,
+    "olmocr_cost": 0.00261612,
+    "native_word_count": 209
+  },
+  "content": {
+    "full_text": "TO: [ ] JEANNE   [ ] JAY\n[XX] LYNN   [ ] BARBARA\n[ ] RICH   [ ] BOB S.\n[XX] HELEN   [XX] OTHER Bob B.\n\nFROM: J. Pritchard\nDATE: 6/17/83\n\n[XX] TELEPHONE ADVICE - SEE BELOW\n[ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT\n(IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY)\n\nFILE LOCATION: Sections 84211(g) and 84216\n\nINCLUDE IN ADVICE PACKAGE: YES [ ] NO [XX]\n\nCALLER Jim Gross\nREPRESENTING Dobbs & Nielsen\nPHONE NUMBER:\n\nQUESTION: Is a major donor required to disclose on his or her campaign statement the fact that he or she has co-signed for a loan for a candidate?\n\nANSWER: No. A major donor has no obligation to report on his or her campaign statement that he or she has co-signed for a loan for a candidate. (In addition, co-signing for a loan does not count toward qualifying a person as a committee.) If a major donor becomes liable for repayment of a loan (i.e., the candidate defaults), then the major donor must report the outstanding balance as a loan (a contribution) to the candidate.\n\nThe recipient of the loan, however, must report the name, address, occupation and employer of the co-signer",
+    "full_text_markdown": "TO: [ ] JEANNE   [ ] JAY\n[XX] LYNN   [ ] BARBARA\n[ ] RICH   [ ] BOB S.\n[XX] HELEN   [XX] OTHER Bob B.\n\nFROM: J. Pritchard\nDATE: 6/17/83\n\n[XX] TELEPHONE ADVICE - SEE BELOW\n[ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT\n(IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY)\n\nFILE LOCATION: Sections 84211(g) and 84216\n\nINCLUDE IN ADVICE PACKAGE: YES [ ] NO [XX]\n\nCALLER Jim Gross\nREPRESENTING Dobbs & Nielsen\nPHONE NUMBER:\n\nQUESTION: Is a major donor required to disclose on his or her campaign statement the fact that he or she has co-signed for a loan for a candidate?\n\nANSWER: No. A major donor has no obligation to report on his or her campaign statement that he or she has co-signed for a loan for a candidate. (In addition, co-signing for a loan does not count toward qualifying a person as a committee.) If a major donor becomes liable for repayment of a loan (i.e., the candidate defaults), then the major donor must report the outstanding balance as a loan (a contribution) to the candidate.\n\nThe recipient of the loan, however, must report the name, address, occupation and employer of the co-signer"
+  },
+  "parsed": {
+    "date": "1983-06-17",
+    "date_raw": "6/17/83",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Is a major donor required to disclose on his or her campaign statement the fact that he or she has co-signed for a loan for a candidate?\n\nANSWER: No. A major donor has no obligation to report on his or her campaign statement that he or she has co-signed for a loan for a candidate. (In addition, co-signing for a loan does not count toward qualifying a person as a committee.) If a major donor becomes liable for repayment of a loan (i.e., the candidate defaults), then the major donor must report the outstanding balance as a loan (a contribution) to the candidate.\n\nThe recipient of the loan, however, must report the name, address, occupation and employer of the co-signer",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.44999999999999996,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern"
+  },
+  "citations": {
+    "government_code": [
+      "84211(g)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-20T16:45:45.473798Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Is a major donor required to disclose on his or her campaign statement the fact that he or she has co-signed for a loan for a candidate?\n\nANSWER: No. A major donor has no obligation to report on his or her campaign statement that he or she has co-signed for a loan for a candidate. (In addition, co-signing for a loan does not count toward qualifying a person as a committee.) If a major donor becomes liable for repayment of a loan (i.e., the candidate defaults), then the major donor must report the outstanding balance as a loan (a contribution) to the candidate.\n\nThe recipient of the loan, however, must report the name, address, occupation and employer of the co-signer",
+    "qa_source": "extracted",
+    "first_500_words": "TO: [ ] JEANNE [ ] JAY [XX] LYNN [ ] BARBARA [ ] RICH [ ] BOB S. [XX] HELEN [XX] OTHER Bob B. FROM: J. Pritchard DATE: 6/17/83 [XX] TELEPHONE ADVICE - SEE BELOW [ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT (IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY) FILE LOCATION: Sections 84211(g) and 84216 INCLUDE IN ADVICE PACKAGE: YES [ ] NO [XX] CALLER Jim Gross REPRESENTING Dobbs & Nielsen PHONE NUMBER: QUESTION: Is a major donor required to disclose on his or her campaign statement the fact that he or she has co-signed for a loan for a candidate? ANSWER: No. A major donor has no obligation to report on his or her campaign statement that he or she has co-signed for a loan for a candidate. (In addition, co-signing for a loan does not count toward qualifying a person as a committee.) If a major donor becomes liable for repayment of a loan (i.e., the candidate defaults), then the major donor must report the outstanding balance as a loan (a contribution) to the candidate. The recipient of the loan, however, must report the name, address, occupation and employer of the co-signer",
+    "summary": null
+  }
+}

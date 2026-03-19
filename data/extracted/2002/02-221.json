@@ -1,0 +1,77 @@
+{
+  "id": "02-221",
+  "year": 2002,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2002/02-221.pdf",
+  "pdf_sha256": "1e454dafbb607e10302c5523c1c1d4d930fc5d9abd3eaf3100393959d073f4c6",
+  "local_pdf_path": "raw_pdfs/2002/02-221.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2002 Advice Letter # 02-221",
+    "tags": [
+      "Advice Letter",
+      "2002"
+    ],
+    "scraped_at": "2026-01-31 14:36:02",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2002&tagCount=1&page=14"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:26.545122Z",
+    "page_count": 1,
+    "word_count": 252,
+    "char_count": 1606,
+    "quality_score": 0.635,
+    "olmocr_cost": null,
+    "native_word_count": 252
+  },
+  "content": {
+    "full_text": "Re:\nF arn P olrrrcAl- P nacrrcEs C oMMrs sroN\nP.O. Box 807 c 428 J Street o Sacramento, CA 95812-0807\n(916) 322-s660 o Fax (9t6) 322-0886\nAugust 20,2002\nJoseph V.A. Partansky\n1406Barbis Way\nConcord, CA 94518\nYour Request for Advice\nOur File No. W-02-221\nDear Mr. Partansky:\nThis letter is in response to your request for advice regarding the provisions of the\nPolitical Reform Act (the \"Act\").1 You ask about the legal responsibilities of the city\nregarding use of candidate statements and the duties of cable companies. While the Act\nrequires that the Commission provide formal written advice or informal assistance to any\nperson whose duties under the Act are in question or to that person's authorized\nrepresentative, the Commission does not provide advice to a third party about a public\nofficial's duties under the Act. (Section 83114; regulation 18329, copy enclosed.) None\nof your questions appear to relate to your duties as a candidate for city clerk. Therefore,\nwe decline to provide the assistance you have requested.\nEnclosed, however, is some general information that you may find helpful. We\nhave enclosed our manual on \"Campaign Provisions of the Political Reform Act\" and an\ninformational pamphlet entitled, \"CanI Vote? Conflict of Interest Overyiew.\"\nIf you have any other questions regarding this matter, please contact me at (916)\n322-s660\nSincerely\nLuisa Menchaca\nal\nWallace\nGeneral Counsel\nEnclosures\nLM:JWWjg\nI:\\Advicel-trs\\02-221\n' Governm\"nt Code sections 81000 - 91014. Commission regulations appear at Title 2, sections\n18109-18997, of the California Code of Regulations. \n.\n4e!E\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2002-08-20",
+    "date_raw": "August 20,2002",
+    "requestor_name": "Partansky",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "The Commission does not provide advice to a third party about a public official's duties under the Act. None of the requester's questions appear to relate to their duties as a candidate for city clerk. Therefore, the Commission declines to provide the assistance requested.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requester asked about the legal responsibilities of the city regarding use of candidate statements and the duties of cable companies under the Political Reform Act.",
+    "conclusion_synthetic": "The FPPC declines to provide advice because the requester's questions do not relate to their own duties as a candidate and the Commission cannot provide advice about third parties' duties under the Political Reform Act.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Declination letter with no formal QUESTION and CONCLUSION sections; information extracted from body of letter. Document clearly states decline of assistance per Section 83114 and regulation 18329. Some general informational materials were enclosed but no substantive advice provided."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "83114"
+    ],
+    "regulations": [
+      "18109",
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "gifts_honoraria",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:34:26.545122Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The requester asked about the legal responsibilities of the city regarding use of candidate statements and the duties of cable companies under the Political Reform Act.\n\nCONCLUSION: The Commission does not provide advice to a third party about a public official's duties under the Act. None of the requester's questions appear to relate to their duties as a candidate for city clerk. Therefore, the Commission declines to provide the assistance requested.",
+    "qa_source": "mixed",
+    "first_500_words": "Re: F arn P olrrrcAl- P nacrrcEs C oMMrs sroN P.O. Box 807 c 428 J Street o Sacramento, CA 95812-0807 (916) 322-s660 o Fax (9t6) 322-0886 August 20,2002 Joseph V.A. Partansky 1406Barbis Way Concord, CA 94518 Your Request for Advice Our File No. W-02-221 Dear Mr. Partansky: This letter is in response to your request for advice regarding the provisions of the Political Reform Act (the \"Act\").1 You ask about the legal responsibilities of the city regarding use of candidate statements and the duties of cable companies. While the Act requires that the Commission provide formal written advice or informal assistance to any person whose duties under the Act are in question or to that person's authorized representative, the Commission does not provide advice to a third party about a public official's duties under the Act. (Section 83114; regulation 18329, copy enclosed.) None of your questions appear to relate to your duties as a candidate for city clerk. Therefore, we decline to provide the assistance you have requested. Enclosed, however, is some general information that you may find helpful. We have enclosed our manual on \"Campaign Provisions of the Political Reform Act\" and an informational pamphlet entitled, \"CanI Vote? Conflict of Interest Overyiew.\" If you have any other questions regarding this matter, please contact me at (916) 322-s660 Sincerely Luisa Menchaca al Wallace General Counsel Enclosures LM:JWWjg I:\\Advicel-trs\\02-221 ' Governm\"nt Code sections 81000 - 91014. Commission regulations appear at Title 2, sections 18109-18997, of the California Code of Regulations. . 4e!E",
+    "summary": "The FPPC declines a request for advice from a candidate for city clerk regarding city responsibilities for candidate statements and cable company duties, as such questions do not relate to the requester's own duties and the FPPC cannot advise third parties about public officials' duties."
+  }
+}

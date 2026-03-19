@@ -1,0 +1,76 @@
+{
+  "id": "82A115",
+  "year": 1982,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1982/82A115.PDF",
+  "pdf_sha256": "f31a226fbc5ba4e37f86f4b1aa1a188cfc045e43804633f664b1e3ef4fc724b7",
+  "local_pdf_path": "raw_pdfs/1982/82A115.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1982 Advice Letter # 82A115",
+    "tags": [
+      "1982",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:30:31",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1982&tagCount=1&page=13"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-27T18:22:35.666704Z",
+    "page_count": 1,
+    "word_count": 118,
+    "char_count": 714,
+    "quality_score": 0.7912082417582418,
+    "olmocr_cost": 0.0025679599999999998,
+    "native_word_count": 755,
+    "haiku_cost": 0.0018679999999999999
+  },
+  "content": {
+    "full_text": "[This appears to be a heavily pixelated or degraded document image where the text is not clearly legible. The image shows what appears to be a multi-column document with dense text throughout, but the resolution and quality make it impossible to accurately transcribe the specific content with confidence. There appear to be some column headers visible at the top and right side of the page, but the individual characters and words cannot be reliably read.]\n\nI cannot provide an accurate transcription of this document as the image quality is too poor for me to read the text with certainty. To provide the exact transcription you've requested, I would need a clearer or higher resolution version of this document.",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1982-06-28",
+    "date_raw": "June 28, 1982",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a former regional coastal commissioner can represent a permit holder in seeking an amendment to a permit for the same project and parcel on which the commissioner previously voted.",
+    "conclusion_synthetic": "The former commissioner is prohibited from representing the permit holder under Section 87401 because the proceeding involves the same applicant, same permit application, same parcel of land, and same issues regarding land use, constituting the 'same' proceeding.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.75,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an internal FPPC memorandum rather than a formal advice letter response. No formal QUESTION or CONCLUSION sections present, but the substance reflects FPPC's legal conclusion. The memo is brief and appears to be documenting advice previously given by the FPPC. Reference to letter A-82-079 suggests this is a follow-up or documentation of prior guidance."
+  },
+  "citations": {
+    "government_code": [
+      "87401"
+    ],
+    "regulations": [],
+    "prior_opinions": [
+      "A-82-079"
+    ],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T16:30:20.733694Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether a former regional coastal commissioner can represent a permit holder in seeking an amendment to a permit for the same project and parcel on which the commissioner previously voted.\n\nCONCLUSION: The former commissioner is prohibited from representing the permit holder under Section 87401 because the proceeding involves the same applicant, same permit application, same parcel of land, and same issues regarding land use, constituting the 'same' proceeding.",
+    "qa_source": "synthetic",
+    "first_500_words": "This is an image of a memorandum from the State of California, dated June 28, 1982. The memo is addressed to the Advice File Section 87401 and is from the Chair Political Practices Commission. The subject line reads: \"Is it the 'Same' proceeding?\" The content of the memo states: Diane Abbott, a former regional coastal commissioner for the South Coast region, voted on a project two years ago that mixed use - senior citizen residential and commercial. There was an appeal to the State Coastal Commission where after 18 months of hearings and deliberations the project was approved as mixed use - retail and commercial. The permit holder now wishes to apply to the State Coastal Commission for an amendment to his permit changing the use to all commercial, and he has asked Ms. Abbott to represent him on his application. I advised Ms. Abbott that she was prohibited from representing him under Section 87401. The proceeding involves the same applicant, the same permit application, the same parcel of land, and the same issues as to use. I sent her a copy of Barbara's letter to Ruth Galanter, No. A-82-079. DMF:plh",
+    "summary": "An FPPC memorandum advising that a former regional coastal commissioner cannot represent a permit holder seeking an amendment to change a mixed-use project to all commercial use, as this constitutes the same proceeding in which she previously voted."
+  }
+}

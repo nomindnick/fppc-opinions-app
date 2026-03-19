@@ -1,0 +1,71 @@
+{
+  "id": "82A040",
+  "year": 1982,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1982/82A040.PDF",
+  "pdf_sha256": "abc369d267fea52250858feb93f7c1f8a5a2a55bfab2a576de27424ae9134b9a",
+  "local_pdf_path": "raw_pdfs/1982/82A040.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1982 Advice Letter # 82A040",
+    "tags": [
+      "1982",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:30:36",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1982&tagCount=1&page=14"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T22:46:51.405117Z",
+    "page_count": 1,
+    "word_count": 118,
+    "char_count": 777,
+    "quality_score": 0.8205047580856897,
+    "olmocr_cost": 0.00253958,
+    "native_word_count": 125
+  },
+  "content": {
+    "full_text": "Memorandum\n\nTo: Files 87100, 87103, 87103(c), 18702(b)(3)\n\nDate: March 19, 1982\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION  \nDiane Maura Fishburn\n\nSubject: Out of Pocket Expenses by Public Official - Telephone Advice to Lynda Millspaugh, Deputy County Counsel in Sonoma\n\nFACTS:\n\nThe Planning Commission is going to vote on an airport's use permit, i.e., whether the airport may continue to operate or not.\n\nOne of the Planning Commissioners leases a hangar at the airport for his airplane. The rent is approximately $100 to $130. The leasehold is month-to-month.\n\nADVICE:\n\nI advised that if the Planning Commissioner would either incur or avoid expenses of $100 or more as a result of the decision, he could not participate in the decision.\n\nDMF:plh",
+    "full_text_markdown": "Memorandum\n\nTo: Files 87100, 87103, 87103(c), 18702(b)(3)\n\nDate: March 19, 1982\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION  \nDiane Maura Fishburn\n\nSubject: Out of Pocket Expenses by Public Official - Telephone Advice to Lynda Millspaugh, Deputy County Counsel in Sonoma\n\nFACTS:\n\nThe Planning Commission is going to vote on an airport's use permit, i.e., whether the airport may continue to operate or not.\n\nOne of the Planning Commissioners leases a hangar at the airport for his airplane. The rent is approximately $100 to $130. The leasehold is month-to-month.\n\nADVICE:\n\nI advised that if the Planning Commissioner would either incur or avoid expenses of $100 or more as a result of the decision, he could not participate in the decision.\n\nDMF:plh"
+  },
+  "parsed": {
+    "date": "1982-03-19",
+    "date_raw": "March 19, 1982",
+    "requestor_name": null,
+    "requestor_title": "County Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T22:46:51.405117Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "**Memorandum** **To:** Files 87100, 87103, 87103(c), 18702(b)(3) **Date:** March 19, 1982 **From:** FAIR POLITICAL PRACTICES COMMISSION Diane Maura Fishburn **Subject:** Out of Pocket Expenses by Public Official - Telephone Advice to Lynda Millspaugh, Deputy County Counsel in Sonoma **FACTS:** The Planning Commission is going to vote on an airport's use permit, i.e., whether the airport may continue to operate or not. One of the Planning Commissioners leases a hangar at the airport for his airplane. The rent is approximately $100 to $130. The leasehold is month-to-month. **ADVICE:** I advised that if the Planning Commissioner would either incur or avoid expenses of $100 or more as a result of the decision, he could not participate in the decision. DMF:plh",
+    "qa_source": "extracted",
+    "first_500_words": "**Memorandum** **To:** Files 87100, 87103, 87103(c), 18702(b)(3) **Date:** March 19, 1982 **From:** FAIR POLITICAL PRACTICES COMMISSION Diane Maura Fishburn **Subject:** Out of Pocket Expenses by Public Official - Telephone Advice to Lynda Millspaugh, Deputy County Counsel in Sonoma **FACTS:** The Planning Commission is going to vote on an airport's use permit, i.e., whether the airport may continue to operate or not. One of the Planning Commissioners leases a hangar at the airport for his airplane. The rent is approximately $100 to $130. The leasehold is month-to-month. **ADVICE:** I advised that if the Planning Commissioner would either incur or avoid expenses of $100 or more as a result of the decision, he could not participate in the decision. DMF:plh",
+    "summary": null
+  }
+}

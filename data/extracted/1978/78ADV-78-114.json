@@ -1,0 +1,73 @@
+{
+  "id": "78ADV-78-114",
+  "year": 1978,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1978/78ADV-78-114.PDF",
+  "pdf_sha256": "e4adf7b7a0852b964e4e05c3566c82cab1a94d18c44f05ca613de7c340189fbc",
+  "local_pdf_path": "raw_pdfs/1978/78ADV-78-114.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1978ADV Advice Letter # 78ADV-78-114",
+    "tags": [
+      "Advice Letter",
+      "1978"
+    ],
+    "scraped_at": "2026-01-31 15:25:10",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=32"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:11.444134Z",
+    "page_count": 1,
+    "word_count": 106,
+    "char_count": 716,
+    "quality_score": 0.515,
+    "olmocr_cost": null,
+    "native_word_count": 106
+  },
+  "content": {
+    "full_text": "Memorandum \nro \nt Opinion Request Meeting Participants \nDote \n: 2-15-78 \n\".. I \nFAIR POLITICAL PRACTICES COMMISSION \nNatalie West \n~ \nDiscuSsion Item. \nIndependent Expenditures by a Lobbyist \n-\nDoes the prohibition on lobbyist contributions, \nSection 86200, 86202, include expenditures? If not, may \na lobbyist make an expenditure supporting a state candidate, \ncommittee supporting a state candidate, or an elected state \nofficer? \nNE\\v: jo \nWe dlcided to avoid giving any advice on this point until \nIGA decision is rendered. \nStaff is split -\n~ome think independent \nexpenditures can be prohibited; others think they can't. \nAt p.4l of our IGA brief we implied that lobbyists can make \nindependent expenditures. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "Does the prohibition on lobbyist contributions, Section 86200, 86202, include expenditures? If not, may a lobbyist make an expenditure supporting a state candidate, committee supporting a state candidate, or an elected state officer?",
+    "conclusion": null,
+    "facts": null,
+    "analysis": "Item. \nIndependent Expenditures by a Lobbyist \n-\nDoes the prohibition on lobbyist contributions, \nSection 86200, 86202, include expenditures? If not, may \na lobbyist make an expenditure supporting a state candidate, \ncommittee supporting a state candidate, or an elected state \nofficer? \nNE\\v: jo \nWe dlcided to avoid giving any advice on this point until \nIGA decision is rendered. \nStaff is split -\n~ome think independent \nexpenditures can be prohibited; others think they can't. \nAt p.4l of our IGA brief we implied that lobbyists can make \nindependent expenditures.",
+    "question_synthetic": "Whether lobbyist contribution prohibitions under Sections 86200 and 86202 extend to independent expenditures, and if not, whether lobbyists may make expenditures supporting state candidates or elected state officers.",
+    "conclusion_synthetic": "The FPPC decided to defer providing advice on this issue pending an IGA (In re Gonsalves Asphalt) decision, with staff holding divided opinions on whether independent expenditures can be prohibited under lobbyist restrictions.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.75,
+    "has_standard_format": false,
+    "parsing_notes": "Format: old; LLM: Internal memorandum rather than formal advice letter; no standard Q/A format; appears to be meeting notes on unresolved legal question; deferred decision indicates no final FPPC conclusion rendered"
+  },
+  "citations": {
+    "government_code": [
+      "86200"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "lobbying",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:37:11.444134Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Does the prohibition on lobbyist contributions, Section 86200, 86202, include expenditures? If not, may a lobbyist make an expenditure supporting a state candidate, committee supporting a state candidate, or an elected state officer?\n\nCONCLUSION: The FPPC decided to defer providing advice on this issue pending an IGA (In re Gonsalves Asphalt) decision, with staff holding divided opinions on whether independent expenditures can be prohibited under lobbyist restrictions.",
+    "qa_source": "mixed",
+    "first_500_words": "Memorandum ro t Opinion Request Meeting Participants Dote : 2-15-78 \".. I FAIR POLITICAL PRACTICES COMMISSION Natalie West ~ DiscuSsion Item. Independent Expenditures by a Lobbyist - Does the prohibition on lobbyist contributions, Section 86200, 86202, include expenditures? If not, may a lobbyist make an expenditure supporting a state candidate, committee supporting a state candidate, or an elected state officer? NE\\v: jo We dlcided to avoid giving any advice on this point until IGA decision is rendered. Staff is split - ~ome think independent expenditures can be prohibited; others think they can't. At p.4l of our IGA brief we implied that lobbyists can make independent expenditures.",
+    "summary": "This is an internal FPPC memorandum from February 15, 1978, documenting discussion of whether lobbyist contribution prohibitions extend to independent expenditures. The Commission deferred rendering advice pending an IGA decision, noting staff disagreement on the legal issue."
+  }
+}

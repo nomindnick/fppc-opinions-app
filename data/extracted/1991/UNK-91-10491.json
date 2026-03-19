@@ -1,0 +1,71 @@
+{
+  "id": "UNK-91-10491",
+  "year": 1991,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1991/91248.pdf",
+  "pdf_sha256": "a4f0fe169a963dcf8fc6f8be2c42e20f6a7ed3b04291aec3ab03923a97d1a6fe",
+  "local_pdf_path": "raw_pdfs/1991/91248.pdf",
+  "source_metadata": {
+    "title_raw": "1991-91248-Roalman, Bill",
+    "tags": [
+      "1991",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:20:41",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1991&tagCount=1&page=67"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:29.025405Z",
+    "page_count": 3,
+    "word_count": 386,
+    "char_count": 2332,
+    "quality_score": 0.6799999999999999,
+    "olmocr_cost": null,
+    "native_word_count": 386
+  },
+  "content": {
+    "full_text": "{lrilxlffillllillllillilillilllilfiilllltililtrllililil _-k . ^f ^^\n#JI# F,,H-\"8t-m., H::,,:\"r',o\nApm 29, l99l\n-\nMr. John Wallace\nFAIR POLMCAL PRACTICES COMMISSION\n428 J Street Suite 800\nSacramento, CA 95804\nDear Mr. Wallace:\nI am seeking written confirmation advising me of potential conllict of interest related to my\nposition as a City Council member and as an employee with a private company. In brief,\nthese are the facts:\no \nI'm a member of the City Council, elected in November 1989.\no \nI work part-time (1G,20 hours/week) as a wage employee with Perspective\nPlanning. I have no ownership nor partnership relationship with Perspective\nPlanning. I am one of four employees.\no \nTwo weeks ago, the owner of Perspective Planning signed a contract with\nTerry Simons, owner of Development Services Incorporated (DSI), to provide\nplanning and environmental services for a project that DSI is proposing to the\nCounty Board of Supervisors, for a parcel of land located several miles from\nthe city limits of San llis Obispo. The contract is worth approximately $1,000\nto Perspective Planning.\no \nI will be paid approximately $200 to work on the DSI contract.\no \nMr. Simons, owner of DSI, occasionally appears before the San Luis Obispo\nCity Council for the review and approval of projects he proposes to develop\nwithin the city limits.\nThe question is: By indirectly working for Mr. Simons as a part-time employee of\nPerspective Planning, will I have a conllict of interest if Mr. Simons appears before the San\nI-uis Obispo City Council in the future? Will I have to step down from reviewing projects\nthat he proposes to the City Council?\nTo reiterate our telephone conversation today, Mr. Wallace, you advised that I probably\nwould not have a conflict for the following reasons:\nu2\n\n\n\n\nFair Political Practices Commission\nApril 29, 1991\nPage 2\no \nI am not an owner nor partner of Perspective Planning.\no \nThe project that Perspective Planning is working on for DSI will not be\nreviewed by me as a City Council member, since it is located in the\nunincorporated County.\no \nShould DSI propose a project to the San Ids Obispo City Council in the\nfuture, no one at Perspective Planning will have any financial interest in that\nproject.\nThank you for advising me on this matter.\nSincerely,\ntj,;, Pa**\nBILL ROALMAN\nCity Council Member\nBR:ss\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1991-04-29",
+    "date_raw": "April 29, 1991",
+    "requestor_name": "Wallace",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "By indirectly working for Mr. Simons as a part-time employee of Perspective Planning, will I have a conflict of interest if Mr. Simons appears before the San Luis Obispo City Council in the future? Will I have to step down from reviewing projects that he proposes to the City Council?",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Does a City Council member have a conflict of interest by working part-time for a planning firm that contracts with a developer who occasionally appears before the Council, and must the Council member recuse from reviewing that developer's future projects?",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.75,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an incoming request letter from the public, not an FPPC response/advice letter. The document references telephone advice given by FPPC staff (Mr. Wallace) but does not contain a formal written FPPC conclusion or advice letter. The document quality is poor with OCR artifacts affecting readability. No formal CONCLUSION section is present."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:35:29.025405Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: By indirectly working for Mr. Simons as a part-time employee of Perspective Planning, will I have a conflict of interest if Mr. Simons appears before the San Luis Obispo City Council in the future? Will I have to step down from reviewing projects that he proposes to the City Council?",
+    "qa_source": "mixed",
+    "first_500_words": "{lrilxlffillllillllillilillilllilfiilllltililtrllililil _-k . ^f ^^ #JI# F,,H-\"8t-m., H::,,:\"r',o Apm 29, l99l - Mr. John Wallace FAIR POLMCAL PRACTICES COMMISSION 428 J Street Suite 800 Sacramento, CA 95804 Dear Mr. Wallace: I am seeking written confirmation advising me of potential conllict of interest related to my position as a City Council member and as an employee with a private company. In brief, these are the facts: o I'm a member of the City Council, elected in November 1989. o I work part-time (1G,20 hours/week) as a wage employee with Perspective Planning. I have no ownership nor partnership relationship with Perspective Planning. I am one of four employees. o Two weeks ago, the owner of Perspective Planning signed a contract with Terry Simons, owner of Development Services Incorporated (DSI), to provide planning and environmental services for a project that DSI is proposing to the County Board of Supervisors, for a parcel of land located several miles from the city limits of San llis Obispo. The contract is worth approximately $1,000 to Perspective Planning. o I will be paid approximately $200 to work on the DSI contract. o Mr. Simons, owner of DSI, occasionally appears before the San Luis Obispo City Council for the review and approval of projects he proposes to develop within the city limits. The question is: By indirectly working for Mr. Simons as a part-time employee of Perspective Planning, will I have a conllict of interest if Mr. Simons appears before the San I-uis Obispo City Council in the future? Will I have to step down from reviewing projects that he proposes to the City Council? To reiterate our telephone conversation today, Mr. Wallace, you advised that I probably would not have a conflict for the following reasons: u2 Fair Political Practices Commission April 29, 1991 Page 2 o I am not an owner nor partner of Perspective Planning. o The project that Perspective Planning is working on for DSI will not be reviewed by me as a City Council member, since it is located in the unincorporated County. o Should DSI propose a project to the San Ids Obispo City Council in the future, no one at Perspective Planning will have any financial interest in that project. Thank you for advising me on this matter. Sincerely, tj,;, Pa** BILL ROALMAN City Council Member BR:ss",
+    "summary": "A San Luis Obispo City Council member seeks written confirmation regarding potential conflicts of interest arising from his part-time employment with Perspective Planning, which has contracted to provide services for a developer (DSI owner Terry Simons) who occasionally appears before the City Council. The letter references prior telephone advice from FPPC staff indicating no conflict exists based on the circumstances presented."
+  }
+}

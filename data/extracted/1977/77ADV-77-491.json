@@ -1,0 +1,72 @@
+{
+  "id": "77ADV-77-491",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-491.PDF",
+  "pdf_sha256": "28da7eb4d70d10722a06fb7cc8eed2f7657f2a5ddeeb6911d46fe7830bcf4b28",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-491.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-491",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:22:41",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=51"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T00:40:25.237811Z",
+    "page_count": 2,
+    "word_count": 411,
+    "char_count": 2470,
+    "quality_score": 0.8798106306207459,
+    "olmocr_cost": 0.0090902,
+    "native_word_count": 560,
+    "haiku_cost": 0.004883200000000001
+  },
+  "content": {
+    "full_text": "TO: Lilly\n\nFROM: Ted Polan\n\nDATE: July 27, 1977\n\nSUBJECT: Out of State Travel by State Employees\n\nThe following information was obtained from Ed\nBeach of the Department of Finance:\n\n1. Out of state activities must be declared part\nof an official's normal departmental activities by\nhis department, the Department of Finance and the\nGovernor's Office before he will receive salary\nand travel expenses for such activities. Generally\nspeaking, both the salary and expenses of the\nofficial must be paid by the State of California,\nand not by a private company or other governmental\nentity.\n\n2. Exceptions to the above stated general rule:\n\na. For activities involving the federal\ngovernment, the state may pay the salary of\nan official while the federal government pays\nfor his expenses;\n\nb. In certain circumstances, the state may\nseek reimbursement for certain expenses from\na private company. For example, the PUC may\nneed to examine some records of AT&T in connection with a rate increase sought by Pacific\nTelephone. Instead of transferring the records\nfrom New York to California, the PUC may send\nseveral of its employees back to New York to\nexamine the records. The employees will still\nbe paid for their out of state per diem.\nHowever, since these costs were necessitated\nby the convenience of Pacific Telephone and\nAT&T rather than the PUC, the PUC may seek\nreimbursement for these additional expenses\nfrom Pacific Telephone after approval from\nthe Department of Finance. This conclusion\nis based on the premise that it is more effective and less costly for Pacific Telephone\nto pay for the PUC employees to go to New York\nthan to ship the records to California;\n\nC.   In certain instances, the private company\nmay provide benefits directly to an official,\nand bill the state agency later. For example,\nmembers of the PUC will fly at state expense\nto Alaska, to examine the pipeline. While in\nAlaska they will stay at a hotel and receive\nfood, transportation, etc., from an oil company.\nThis was most convenient for the PUC officials\nand the company since the oil company\nwould be conducting tours and study groups in\nconnection with the pipeline for a number of\nindividuals, many of whom were not from California.\nHowever, the Department of Finance insisted\nthat the oil company bill the State of California\nfor all costs incurred in connection with the\nCalifornia officials before it would agree to\napprove the receipt of such benefits by its\nofficials.\n\n\nTP:plh",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1977-07-27",
+    "date_raw": "July 27, 1977",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "What are the rules and permissible exceptions for state employees traveling out of state, including when salary and travel expenses can be paid by the state versus private entities or other governmental bodies?",
+    "conclusion_synthetic": "Out-of-state activities must be declared and approved by the department, Department of Finance, and Governor's office, with costs generally paid by California. Limited exceptions exist for federal activities, reimbursable private company expenses, and direct benefits from private entities that bill the state afterward.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.75,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document lacks traditional QUESTION and CONCLUSION section headers. Content is informational guidance based on Department of Finance input. No clear FPPC legal analysis or formal conclusion statement present. Document appears to be internal guidance or memo format rather than response to a specific advisory request."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T17:13:53.824501Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: What are the rules and permissible exceptions for state employees traveling out of state, including when salary and travel expenses can be paid by the state versus private entities or other governmental bodies?\n\nCONCLUSION: Out-of-state activities must be declared and approved by the department, Department of Finance, and Governor's office, with costs generally paid by California. Limited exceptions exist for federal activities, reimbursable private company expenses, and direct benefits from private entities that bill the state afterward.",
+    "qa_source": "synthetic",
+    "first_500_words": "TO: FROM: Ted Palm DATE: July 27, 1977 SUBJECT: Out of State Travel by State Employees The following information was obtained from Ed Beach of the Department of Finance: 1. Out of state activities must be declared part of an official's normal departmental activities by his department, the Department of Finance and the Governor's office before he will receive salary and travel expenses for such activities. Generally speaking, both the salary and expenses of the official must be paid by the State of California, and not by a private company or other governmental entity. 2. Exceptions to the above stated general rule: a. For activities involving the federal government, the state may pay the salary of an official while the federal government pays for his expenses; b. In certain circumstances, the state may seek reimbursement for certain expenses from a private company. For example, the PUC may need to examine some records of AT&T in connection with a rate increase sought by Pacific Telephone. Instead of transferring the records from New York to California, the PUC may send several of its employees back to New York to examine the records. The employees will bill the PUC for their out of state per diem. However, since these costs were necessitated by the convenience of Pacific Telephone and AT&T rather than the PUC, the PUC may seek reimbursement for these additional expenses from Pacific Telephone after approval from the Department of Finance. This conclusion is based on the premise that it is more effective and less costly for Pacific Telephone to pay for the PUC employees to go to New York than to ship the records to California; c. In certain instances, the private company may provide benefits directly to an official and bill the state agency later. For example, members of the PUC will fly at state expense to Alaska to examine the pipeline. While in Alaska they will stay at a hotel and receive food, transportation, etc., from an oil company. This was most convenient for the PUC officials and the oil company since the oil company would be conducting tours and study groups in connection with the pipeline for a number of individuals, many of whom were not from California. However, the Department of Finance insisted that the oil company bill the State of California for all costs incurred in connection with the California officials before it would agree to approve the receipt of such benefits by its officials. TP:plh",
+    "summary": "This FPPC advice letter from Ted Palm outlines the requirements and exceptions for out-of-state travel by California state employees, detailing when the state covers costs versus when private entities or the federal government may contribute."
+  }
+}

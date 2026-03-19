@@ -1,0 +1,71 @@
+{
+  "id": "01-227",
+  "year": 2001,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2001/01-227.pdf",
+  "pdf_sha256": "386e805eb47b8fe977d7b000328de13a61878f71a1aba47e88fdf65d1f87d57f",
+  "local_pdf_path": "raw_pdfs/2001/01-227.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2001 Advice Letter # 01-227",
+    "tags": [
+      "2001",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:34:01",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2001&tagCount=1&page=17"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:31.091343Z",
+    "page_count": 1,
+    "word_count": 226,
+    "char_count": 1453,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 226
+  },
+  "content": {
+    "full_text": "Farn Polrrrcar- PRACTTcEs CouvrrssroN\nP.O. Box 807 c 428 J Street r Sacramento, CA 95812-0807\n(916) 322-5660 r Fax (916) 322-0886\nNovember 7,2007\nSenator Thomas McClintock\nCalifornia State Senate\n1 9th Senatorial District\n223 E. Thousand Oaks Blvd., Suite 326\nThousand Qaks, CA91360\nRe: Information Request in re Secession Election\nOur File No. G-01-227\nDear Senator McClintock\nThank you for your September 18, 2001 request for information on behalf of your\nconstituents regarding the upcoming secession vote in the City of Los Angeles.\nSpecifically, you ask whether, in the context of the upcoming secession vote, the election\nof the new council members is state law or Los Angeles law with regard to fundraising activities.\nAs you know, the interplay between state and local provisions can be complicated. The answer\nto your question depends on many factors, including whether the election you speak of is a state\nor local election. Unfortunately, that answer is not governed by the Political Reform Act\n(\"Act\"). However, the Commission recently considered the complex issues surrounding the\ninterplay between the Act's reporting requirements and secession groups. A copy of the staff\nmemorandum prepared for the Commission is enclosed.\nI hope this information is helpful to you and your constituents. If either the agency or I\ncan provide additional information, please contact me at 916-322-5660.\nVery truly yours,\nLuisa\nGeneral Counsel\nEnclosure\n@\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": "November 7,2007",
+    "requestor_name": null,
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Whether, in the context of the upcoming secession vote, the election of the new council members is state law or Los Angeles law with regard to fundraising activities.",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requester asks whether fundraising regulations for council member elections in the context of a Los Angeles secession vote are governed by state law or local law.",
+    "conclusion_synthetic": "The FPPC indicates that the answer depends on whether the election is classified as a state or local election, which is not determined by the Political Reform Act itself, and refers the requester to an enclosed staff memorandum for further analysis of related secession reporting issues.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is FPPC response to information request. No formal QUESTION/CONCLUSION sections with headers; question and conclusion extracted from letter body. Date discrepancy noted: letter dated November 7, 2007 but references September 18, 2001 request and File No. G-01-227 (suggesting 2001 origin). Enclosure (staff memorandum) not provided in source text.; Date cleared: parsed 2007-11-07 but file year is 2001"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:34:31.091343Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether, in the context of the upcoming secession vote, the election of the new council members is state law or Los Angeles law with regard to fundraising activities.\n\nCONCLUSION: The FPPC indicates that the answer depends on whether the election is classified as a state or local election, which is not determined by the Political Reform Act itself, and refers the requester to an enclosed staff memorandum for further analysis of related secession reporting issues.",
+    "qa_source": "mixed",
+    "first_500_words": "Farn Polrrrcar- PRACTTcEs CouvrrssroN P.O. Box 807 c 428 J Street r Sacramento, CA 95812-0807 (916) 322-5660 r Fax (916) 322-0886 November 7,2007 Senator Thomas McClintock California State Senate 1 9th Senatorial District 223 E. Thousand Oaks Blvd., Suite 326 Thousand Qaks, CA91360 Re: Information Request in re Secession Election Our File No. G-01-227 Dear Senator McClintock Thank you for your September 18, 2001 request for information on behalf of your constituents regarding the upcoming secession vote in the City of Los Angeles. Specifically, you ask whether, in the context of the upcoming secession vote, the election of the new council members is state law or Los Angeles law with regard to fundraising activities. As you know, the interplay between state and local provisions can be complicated. The answer to your question depends on many factors, including whether the election you speak of is a state or local election. Unfortunately, that answer is not governed by the Political Reform Act (\"Act\"). However, the Commission recently considered the complex issues surrounding the interplay between the Act's reporting requirements and secession groups. A copy of the staff memorandum prepared for the Commission is enclosed. I hope this information is helpful to you and your constituents. If either the agency or I can provide additional information, please contact me at 916-322-5660. Very truly yours, Luisa General Counsel Enclosure @",
+    "summary": "FPPC responds to Senator McClintock's inquiry about which fundraising laws apply to council member elections in connection with a Los Angeles secession vote, noting that the classification depends on state versus local election status and referencing an enclosed staff memorandum on secession-related reporting requirements."
+  }
+}

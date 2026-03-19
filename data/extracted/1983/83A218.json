@@ -1,0 +1,71 @@
+{
+  "id": "83A218",
+  "year": 1983,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1983/83A218.PDF",
+  "pdf_sha256": "eb0b7919655d11215307b58a995b325aec611a3ebf0ae03f6b23d315b6d6b0b2",
+  "local_pdf_path": "raw_pdfs/1983/83A218.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1983 Advice Letter # 83A218",
+    "tags": [
+      "1983",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:32:12",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1983&tagCount=1&page=10"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:51.916181Z",
+    "page_count": 1,
+    "word_count": 254,
+    "char_count": 1580,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 254
+  },
+  "content": {
+    "full_text": "State of California \nMemorandum \nTo \nFile: \n86108 \nDate \n9/26/83 \n86203 \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nJeanne Pritchard \nSubject: \nQuestion from Joe Markey, Lobbyist \nA state agency (the caller did not want to identify it, but \nprobably the Department of Industrial Relations) has called a \nmUltidisciplinary meeting for the purpose of getting input from \npeople regulated by the agency. \nThey will not discuss any \npending or proposed regulations, but will be talking about \ngeneral policy and administrative procedures. \nThe agency does \nnot have a budget allowance for training (or any other category \nthat would cover this type of event) and has asked the industry \nparticipants to pay for the agency officials' costs. \nAt last \ncount there were four agency officials and about 12 other parti-\ncipants, including two lobbyists. \nThe meeting is being held \nOct. 31 through Nov. 1 at Asilomar. \nThe cost per person is \n$150. \nThe industry participants (including the lobbyists) have \nbeen asked to pay an additional amount to cover the costs for \nthe agency officials. \nThe caller indicated that one of his \nclients would be paying his share. \nHis question was, is this a reportable payment? \nI told him that it would be a reportable payment, and \nthat the lobbyists were prohibited from paying the additional \namount (over their own actual costs) because it would be a \nprohibited gift. \nI advised that the lobbyists could partici-\npate, and pay only their actual costs, in which case it would \nbe a reportable payment by the employers, but would not be \na gift. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1983-09-26",
+    "date_raw": "9/26/83",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "from Joe Markey, Lobbyist \nA state agency (the caller did not want to identify it, but \nprobably the Department of Industrial Relations) has called a \nmUltidisciplinary meeting for the purpose of getting input from \npeople regulated by the agency. \nThey will not discuss any \npending or proposed regulations, but will be talking about \ngeneral policy and administrative procedures. \nThe agency does \nnot have a budget allowance for training (or any other category \nthat would cover this type of event) and has asked the industry \nparticipants to pay for the agency officials' costs. \nAt last \ncount there were four agency officials and about 12 other parti-\ncipants, including two lobbyists. \nThe meeting is being held \nOct. 31 through Nov. 1 at Asilomar. \nThe cost per person is \n$150. \nThe industry participants (including the lobbyists) have \nbeen asked to pay an additional amount to cover the costs for \nthe agency officials. \nThe caller indicated that one of his \nclients would be paying his share. \nHis question was, is this a reportable payment? \nI told him that it would be a reportable payment, and \nthat the lobbyists were prohibited from paying the additional \namount (over their own actual costs) because it would be a \nprohibited gift. \nI advised that the lobbyists could partici-\npate, and pay only their actual costs, in which case it would \nbe a reportable payment by the employers, but would not be \na gift.",
+    "conclusion": "The payment would be reportable. Lobbyists are prohibited from paying the additional amount (over their own actual costs) because it would be a prohibited gift. Lobbyists may participate and pay only their actual costs, in which case it would be a reportable payment by the employers, but would not be a gift.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether payments by industry participants and lobbyists to cover state agency officials' attendance costs at a multidisciplinary meeting constitute reportable gifts or reportable payments under FPPC regulations.",
+    "conclusion_synthetic": "Payments by clients to cover agency officials' meeting costs are reportable payments. Lobbyists cannot pay additional amounts for agency officials' costs as this constitutes a prohibited gift, but may pay only their own actual costs as a reportable employer payment.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": true,
+    "parsing_notes": "Format: ocr; LLM: Memorandum format rather than standard advice letter format; contains question and conclusion elements; OCR notation indicates document was digitized; includes specific details about meeting logistics and participant count."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:36:51.916181Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: from Joe Markey, Lobbyist \nA state agency (the caller did not want to identify it, but \nprobably the Department of Industrial Relations) has called a \nmUltidisciplinary meeting for the purpose of getting input from \npeople regulated by the agency. \nThey will not discuss any \npending or proposed regulations, but will be talking about \ngeneral policy and administrative procedures. \nThe agency does \nnot have a budget allowance for training (or any other category \nthat would cover this type of event) and has asked the industry \nparticipants to pay for the agency officials' costs. \nAt last \ncount there were four agency officials and about 12 other parti-\ncipants, including two lobbyists. \nThe meeting is being held \nOct. 31 through Nov. 1 at Asilomar. \nThe cost per person is \n$150. \nThe industry participants (including the lobbyists) have \nbeen asked to pay an additional amount to cover the costs for \nthe agency officials. \nThe caller indicated that one of his \nclients would be paying his share. \nHis question was, is this a reportable payment? \nI told him that it would be a reportable payment, and \nthat the lobbyists were prohibited from paying the additional \namount (over their own actual costs) because it would be a \nprohibited gift. \nI advised that the lobbyists could partici-\npate, and pay only their actual costs, in which case it would \nbe a reportable payment by the employers, but would not be \na gift.\n\nCONCLUSION: The payment would be reportable. Lobbyists are prohibited from paying the additional amount (over their own actual costs) because it would be a prohibited gift. Lobbyists may participate and pay only their actual costs, in which case it would be a reportable payment by the employers, but would not be a gift.",
+    "qa_source": "mixed",
+    "first_500_words": "State of California Memorandum To File: 86108 Date 9/26/83 86203 From FAIR POLITICAL PRACTICES COMMISSION Jeanne Pritchard Subject: Question from Joe Markey, Lobbyist A state agency (the caller did not want to identify it, but probably the Department of Industrial Relations) has called a mUltidisciplinary meeting for the purpose of getting input from people regulated by the agency. They will not discuss any pending or proposed regulations, but will be talking about general policy and administrative procedures. The agency does not have a budget allowance for training (or any other category that would cover this type of event) and has asked the industry participants to pay for the agency officials' costs. At last count there were four agency officials and about 12 other parti- cipants, including two lobbyists. The meeting is being held Oct. 31 through Nov. 1 at Asilomar. The cost per person is $150. The industry participants (including the lobbyists) have been asked to pay an additional amount to cover the costs for the agency officials. The caller indicated that one of his clients would be paying his share. His question was, is this a reportable payment? I told him that it would be a reportable payment, and that the lobbyists were prohibited from paying the additional amount (over their own actual costs) because it would be a prohibited gift. I advised that the lobbyists could partici- pate, and pay only their actual costs, in which case it would be a reportable payment by the employers, but would not be a gift.",
+    "summary": "FPPC adviser Jeanne Pritchard responds to a question from lobbyist Joe Markey regarding whether industry payments to cover state agency officials' costs at an Asilomar meeting are reportable and whether lobbyists can contribute to those costs. The adviser rules that such payments are reportable and that lobbyists cannot pay additional amounts for agency officials without violating the gift prohibition."
+  }
+}

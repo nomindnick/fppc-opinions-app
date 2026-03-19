@@ -1,0 +1,76 @@
+{
+  "id": "85112",
+  "year": 1985,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1985/fppc-advice/85112.PDF",
+  "pdf_sha256": "811e3c971d3aa67a8b3dd2cc0314e1e28e59fd1a945f4b1ab9881a3ff2cb8a1c",
+  "local_pdf_path": "raw_pdfs/1985/85112.PDF",
+  "source_metadata": {
+    "title_raw": "LOTZ, GERTRUDE Year: 1985 Advice Letter # 85112",
+    "tags": [
+      "Advice Letter",
+      "1985"
+    ],
+    "scraped_at": "2026-01-31 15:37:27",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1985&tagCount=1&page=25"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:43.888961Z",
+    "page_count": 2,
+    "word_count": 336,
+    "char_count": 2121,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 336
+  },
+  "content": {
+    "full_text": "TeclInical Assistance \n•• \nAdministration •• \nExecutive/Legal \n(916) 322.5662 \n322·5660 \n322·5901 \nJune 12, 1985 \nGertrude Lotz \nCouncilmember, City of Suisun City \n410 Avalon Way \nSuisun City, CA \n94585 \nEnforcement \n322-6-Ul \nRe: \nYour Request for Advice \nOur File No. A-85-112 \nDear Ms. Lotz: \nThank you for your letter requesting advice as to whether \nSuisun City may adopt an ordinance which would only require \ngifts valued at $250 or more to be disclosed on statements of \neconomic interests. \nThe Political Reform Act requires gifts \nvalued at $50 or more to be disclosed on statements of economic \ninterests. \nLocal agencies may impose adclitional disclosure require-\nments to those in the Political Reform Act so long as the \nadditional requirements do not prevent compliance with the Act. \n(Government Code Section 81013.) \nHowever, a local government \nmay not enact an ordinance which differs from and supersedes the \nPolitical Reform Act. \nSee Edwin L. Miller Opinion, 2 FPPC \nOpinions 91 (No. 75-125~uly 6, 1976 (enclosed). \nSuisun City does not have the authority to enact an \nordinance which will raise the gift disclosure threshold of the \nPolitical Reform Act. \nA copy of this letter and its enclosures \nare being sent to your city attorney. \nWe appreciate your bringing this to our attention. \nShould \nyou have any further questions, please do not hesitate to \ncontact this office. \nJET:plh \nEnclosure \nSincerely, \n. /) \n(11'(}l./. '. () \nli Qa 7 lJ2, L{).: .. :.qU.cV \nJeanette E. Turvill \nLegal Assistant . \ncc: \nJohn Coyle, City Attorney \n\n\nFair Political Practices Comm, \n1100 K Sto, \nSacramento, Ca. \n95817 \nGentlemen; \nSuisun City, Ca. \n410 Avalon Way, \nMay 13, 1985 \n94585 \nI am a City Councilwoman for the City of Suisun City. I have a question \nregarding gifts. \nOur Mayor is attempting to pass an Ordinance stating gifts of $250.00 \nor less are not reportable in our disclosure statements. I question the \nlegality of this statement. I called the California League of Cities and \nthey referred me to your group. \nI will appreciate hearing from you with regards to this practice. \nSincerely, \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1985-06-12",
+    "date_raw": "June 12, 1985",
+    "requestor_name": "Lotz",
+    "requestor_title": "city attorney",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Whether Suisun City may adopt an ordinance which would only require gifts valued at $250 or more to be disclosed on statements of economic interests.",
+    "conclusion": "Suisun City does not have the authority to enact an ordinance which will raise the gift disclosure threshold of the Political Reform Act. Local agencies may impose additional disclosure requirements beyond the Political Reform Act so long as the additional requirements do not prevent compliance with the Act, but a local government may not enact an ordinance which differs from and supersedes the Political Reform Act.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Can a local government agency enact an ordinance that raises the gift disclosure threshold from $50 to $250, making gifts under $250 non-reportable?",
+    "conclusion_synthetic": "Local agencies cannot enact ordinances that raise the gift disclosure threshold above the $50 required by the Political Reform Act, as this would supersede state law. While local agencies may add stricter disclosure requirements, they cannot relax or modify the state's minimum threshold.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document contains both the incoming request (dated May 13, 1985) and FPPC's response letter (dated June 12, 1985). Clear question and conclusion sections present. File number A-85-112 matches document ID 85112."
+  },
+  "citations": {
+    "government_code": [
+      "81013"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [
+      "09-264",
+      "90-063"
+    ],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:36:43.888961Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether Suisun City may adopt an ordinance which would only require gifts valued at $250 or more to be disclosed on statements of economic interests.\n\nCONCLUSION: Suisun City does not have the authority to enact an ordinance which will raise the gift disclosure threshold of the Political Reform Act. Local agencies may impose additional disclosure requirements beyond the Political Reform Act so long as the additional requirements do not prevent compliance with the Act, but a local government may not enact an ordinance which differs from and supersedes the Political Reform Act.",
+    "qa_source": "mixed",
+    "first_500_words": "TeclInical Assistance •• Administration •• Executive/Legal (916) 322.5662 322·5660 322·5901 June 12, 1985 Gertrude Lotz Councilmember, City of Suisun City 410 Avalon Way Suisun City, CA 94585 Enforcement 322-6-Ul Re: Your Request for Advice Our File No. A-85-112 Dear Ms. Lotz: Thank you for your letter requesting advice as to whether Suisun City may adopt an ordinance which would only require gifts valued at $250 or more to be disclosed on statements of economic interests. The Political Reform Act requires gifts valued at $50 or more to be disclosed on statements of economic interests. Local agencies may impose adclitional disclosure require- ments to those in the Political Reform Act so long as the additional requirements do not prevent compliance with the Act. (Government Code Section 81013.) However, a local government may not enact an ordinance which differs from and supersedes the Political Reform Act. See Edwin L. Miller Opinion, 2 FPPC Opinions 91 (No. 75-125~uly 6, 1976 (enclosed). Suisun City does not have the authority to enact an ordinance which will raise the gift disclosure threshold of the Political Reform Act. A copy of this letter and its enclosures are being sent to your city attorney. We appreciate your bringing this to our attention. Should you have any further questions, please do not hesitate to contact this office. JET:plh Enclosure Sincerely, . /) (11'(}l./. '. () li Qa 7 lJ2, L{).: .. :.qU.cV Jeanette E. Turvill Legal Assistant . cc: John Coyle, City Attorney Fair Political Practices Comm, 1100 K Sto, Sacramento, Ca. 95817 Gentlemen; Suisun City, Ca. 410 Avalon Way, May 13, 1985 94585 I am a City Councilwoman for the City of Suisun City. I have a question regarding gifts. Our Mayor is attempting to pass an Ordinance stating gifts of $250.00 or less are not reportable in our disclosure statements. I question the legality of this statement. I called the California League of Cities and they referred me to your group. I will appreciate hearing from you with regards to this practice. Sincerely,",
+    "summary": "The FPPC advises Gertrude Lotz, a Suisun City Councilmember, that the city lacks authority to adopt an ordinance raising the gift disclosure threshold from $50 to $250 under the Political Reform Act."
+  }
+}

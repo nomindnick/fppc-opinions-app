@@ -1,0 +1,73 @@
+{
+  "id": "01-049",
+  "year": 2001,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2001/01-049.pdf",
+  "pdf_sha256": "ac1e710d66ee71aea1334909689672497db463ef4d4931f8523e25fd99bde6fb",
+  "local_pdf_path": "raw_pdfs/2001/01-049.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2001 Advice Letter # 01-049",
+    "tags": [
+      "2001",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:33:12",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2001&tagCount=1&page=6"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:29.860130Z",
+    "page_count": 1,
+    "word_count": 161,
+    "char_count": 1028,
+    "quality_score": 0.6675,
+    "olmocr_cost": null,
+    "native_word_count": 161
+  },
+  "content": {
+    "full_text": "Farn Porrrrclr PnncucEs CounrrssroN\nP.O. Box 807 . 428 J Street . Sacramento. CA 95812-0807\n(916) 322-5660 . Fax (916) 322-0886 .\nMarch 26,2001\nMona Patel\nBrown & Wood, LLP\n555 California Street\nSan Francisco, CA 94104-1715\nRe:\nYour Request for Advice\nOur File No. W-01-049\nDear Ms. Patel:\nThis letter confirms your telephone message left for me on March zo,2ool,\nnoti$ing me that you have withdrawn your request for advice, dated March 5, 2001.\nPlease do not hesitate to contact our office if you have any other questions\nregarding this matter or decide that you require formal advicer relating to the Political\nReform Act.\nSincerely,\nLuisa\nGeneral\n/\nBy\nC. Scott Tocher\nStaff Counsel, Legal Division\nCST:jg\nI:\\Adviceltrs\\01-049\nI Formal written advice confers immunity on the person requesting the advice under Section\n83 1 14(b) and Regulation 18329(b)(7), enclosed. Informal assistance, which includes phone advice and\nguidance from advice letters written to others, does not provide such immunity. (Regulation 1g329(c)(3).)\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2001-03-26",
+    "date_raw": "March 26,2001",
+    "requestor_name": "Patel",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Not applicable - this is a withdrawal of a previous advice request.",
+    "conclusion_synthetic": "The FPPC acknowledges the withdrawal of the requestor's advice letter request dated March 5, 2001.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Withdrawal letter with no question or conclusion sections. Document confirms telephone notification of withdrawal received March 20, 2001. File reference W-01-049."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:34:29.860130Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Not applicable - this is a withdrawal of a previous advice request.\n\nCONCLUSION: The FPPC acknowledges the withdrawal of the requestor's advice letter request dated March 5, 2001.",
+    "qa_source": "synthetic",
+    "first_500_words": "Farn Porrrrclr PnncucEs CounrrssroN P.O. Box 807 . 428 J Street . Sacramento. CA 95812-0807 (916) 322-5660 . Fax (916) 322-0886 . March 26,2001 Mona Patel Brown & Wood, LLP 555 California Street San Francisco, CA 94104-1715 Re: Your Request for Advice Our File No. W-01-049 Dear Ms. Patel: This letter confirms your telephone message left for me on March zo,2ool, noti$ing me that you have withdrawn your request for advice, dated March 5, 2001. Please do not hesitate to contact our office if you have any other questions regarding this matter or decide that you require formal advicer relating to the Political Reform Act. Sincerely, Luisa General / By C. Scott Tocher Staff Counsel, Legal Division CST:jg I:\\Adviceltrs\\01-049 I Formal written advice confers immunity on the person requesting the advice under Section 83 1 14(b) and Regulation 18329(b)(7), enclosed. Informal assistance, which includes phone advice and guidance from advice letters written to others, does not provide such immunity. (Regulation 1g329(c)(3).)",
+    "summary": "FPPC letter acknowledging Mona Patel's withdrawal of her request for advice regarding the Political Reform Act, initially submitted on March 5, 2001."
+  }
+}

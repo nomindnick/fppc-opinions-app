@@ -1,0 +1,71 @@
+{
+  "id": "77ADV-77-181",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-181.PDF",
+  "pdf_sha256": "b950cddb77c15d584d73a81329a9e776b184f66fe8c45df6f7fd20036b80df51",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-181.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-181",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:19:53",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=13"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:12.834829Z",
+    "page_count": 2,
+    "word_count": 116,
+    "char_count": 716,
+    "quality_score": 0.5075,
+    "olmocr_cost": null,
+    "native_word_count": 116
+  },
+  "content": {
+    "full_text": "Mr. L. B f \nPost \n9176 \nDear \np \nI \nI \n31, 1977 \nrece \nthe \nconnection \nto \nHmvever. even \nare still rece \nof additional ass \n\n\nLAWRENCE \nCitv Clerk \nFair Political Practices Commission \nP. O. Box 807 \nSacramento, California \n95804 \nCITJbf POMONA \nBox 660, Pomona, CA 91769 \n(714) 600-2341 \nMay 25, 1977 \nAttention: \nTechnical Assistance and Analysis Division \nGentlemen: \nDoes a candidate who is defeated for election in March, and after \nfiling his final campaign statement has an unpaid liability, have \nto file an additional statement when the liability is paid; or \ndoes his obligation to file terminate at the end of this calendar \nyear as set forth in your bulletin dated April 15, 1977. \nCity Clerk \nLBT:fp \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1977-05-25",
+    "date_raw": "May 25, 1977",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "Does a candidate who is defeated for election in March, and after filing his final campaign statement has an unpaid liability, have to file an additional statement when the liability is paid; or does his obligation to file terminate at the end of this calendar year as set forth in your bulletin dated April 15, 1977.",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "A defeated candidate who filed a final campaign statement in March 1977 has an unpaid liability. The question asks whether an additional statement must be filed when the liability is paid, or whether the filing obligation terminates at year-end per FPPC bulletin dated April 15, 1977.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an incoming request letter to FPPC, not an FPPC response. No conclusion or advice section present. Document contains clear question section. Some text degradation in header area but main question text is legible. Sender is City Clerk requesting technical assistance."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:12.834829Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Does a candidate who is defeated for election in March, and after filing his final campaign statement has an unpaid liability, have to file an additional statement when the liability is paid; or does his obligation to file terminate at the end of this calendar year as set forth in your bulletin dated April 15, 1977.",
+    "qa_source": "mixed",
+    "first_500_words": "Mr. L. B f Post 9176 Dear p I I 31, 1977 rece the connection to Hmvever. even are still rece of additional ass LAWRENCE Citv Clerk Fair Political Practices Commission P. O. Box 807 Sacramento, California 95804 CITJbf POMONA Box 660, Pomona, CA 91769 (714) 600-2341 May 25, 1977 Attention: Technical Assistance and Analysis Division Gentlemen: Does a candidate who is defeated for election in March, and after filing his final campaign statement has an unpaid liability, have to file an additional statement when the liability is paid; or does his obligation to file terminate at the end of this calendar year as set forth in your bulletin dated April 15, 1977. City Clerk LBT:fp",
+    "summary": "This is a letter from the City Clerk of Pomona, California, dated May 25, 1977, requesting clarification from the FPPC regarding campaign statement filing obligations for a defeated candidate with outstanding liabilities."
+  }
+}

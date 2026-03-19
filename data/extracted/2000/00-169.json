@@ -1,0 +1,71 @@
+{
+  "id": "00-169",
+  "year": 2000,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2000/00-169.pdf",
+  "pdf_sha256": "39653959cf6f0781ff03a09861712c3b393a02b219876efaa9f4b618f4b4a1ce",
+  "local_pdf_path": "raw_pdfs/2000/00-169.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2000 Advice Letter # 00-169",
+    "tags": [
+      "2000",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:49:44",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2000&tagCount=1&page=7"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T15:16:23.248419Z",
+    "page_count": 1,
+    "word_count": 84,
+    "char_count": 548,
+    "quality_score": 0.8520009582726832,
+    "olmocr_cost": 0.0024897,
+    "native_word_count": 102
+  },
+  "content": {
+    "full_text": "July 26, 2000\n\nManuela Albuquerque\nCity Attorney\nCity of Berkeley\n1947 Center Street, First Floor\nBerkeley, CA 94704\n\nRe: Your Request for Advice\nOur File No. W-00-169\n\nDear Ms. Albuquerque:\n\nThis letter is to confirm that your request for advice, received via facsimile by the Fair Political Practices Commission on July 24, 2000, has been withdrawn. If you have any other questions regarding this matter, please contact me at (916) 322-5660.\n\nSincerely,\n\nLuisa Menchaca\nAssistant General Counsel\n\nBy: Deborah Allison\nStaff Counsel, Legal Division",
+    "full_text_markdown": "July 26, 2000\n\nManuela Albuquerque\nCity Attorney\nCity of Berkeley\n1947 Center Street, First Floor\nBerkeley, CA 94704\n\nRe: Your Request for Advice\nOur File No. W-00-169\n\nDear Ms. Albuquerque:\n\nThis letter is to confirm that your request for advice, received via facsimile by the Fair Political Practices Commission on July 24, 2000, has been withdrawn. If you have any other questions regarding this matter, please contact me at (916) 322-5660.\n\nSincerely,\n\nLuisa Menchaca\nAssistant General Counsel\n\nBy: Deborah Allison\nStaff Counsel, Legal Division"
+  },
+  "parsed": {
+    "date": "2000-07-26",
+    "date_raw": "July 26, 2000",
+    "requestor_name": "Albuquerque",
+    "requestor_title": "City Attorney",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-20T15:16:23.248419Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "July 26, 2000 Manuela Albuquerque City Attorney City of Berkeley 1947 Center Street, First Floor Berkeley, CA 94704 Re: Your Request for Advice Our File No. W-00-169 Dear Ms. Albuquerque: This letter is to confirm that your request for advice, received via facsimile by the Fair Political Practices Commission on July 24, 2000, has been withdrawn. If you have any other questions regarding this matter, please contact me at (916) 322-5660. Sincerely, Luisa Menchaca Assistant General Counsel By: Deborah Allison Staff Counsel, Legal Division",
+    "qa_source": "extracted",
+    "first_500_words": "July 26, 2000 Manuela Albuquerque City Attorney City of Berkeley 1947 Center Street, First Floor Berkeley, CA 94704 Re: Your Request for Advice Our File No. W-00-169 Dear Ms. Albuquerque: This letter is to confirm that your request for advice, received via facsimile by the Fair Political Practices Commission on July 24, 2000, has been withdrawn. If you have any other questions regarding this matter, please contact me at (916) 322-5660. Sincerely, Luisa Menchaca Assistant General Counsel By: Deborah Allison Staff Counsel, Legal Division",
+    "summary": null
+  }
+}

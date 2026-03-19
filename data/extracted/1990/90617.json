@@ -1,0 +1,72 @@
+{
+  "id": "90617",
+  "year": 1990,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1990/90617.pdf",
+  "pdf_sha256": "10b90cc006f7e68b642ed57f9962493b29ec55b2c13257cec4bb6282ac470cad",
+  "local_pdf_path": "raw_pdfs/1990/90617.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 1990 Advice Letter # 90617",
+    "tags": [
+      "1990",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:06:24",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1990&tagCount=1&page=8"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-25T22:50:24.617825Z",
+    "page_count": 2,
+    "word_count": 121,
+    "char_count": 713,
+    "quality_score": 0.783744676975029,
+    "olmocr_cost": 0.00285778,
+    "native_word_count": 47,
+    "haiku_cost": 0.0034752000000000003
+  },
+  "content": {
+    "full_text": "FPPC 712 Adelynn Dr\nSEP 27 2:18 PM '90 San Gabriel, Cal\n91775\n\nFair Pol. Prac. Comm.\n\nThe confusion caused by a\nnotice referring to a new senator,\nbut not naming him is ridiculous.\n\nThe writers of Prop73 surely\nneed, but please try to fix\nthe naming, or omit notices.\n\nAlso please note, I live in\nCal., not Canada.\n\nyours truly\nEdward Moore\n\n[The image appears to be a very faint or low-contrast scanned document. While there is clearly text present, it is too faded and illegible to accurately transcribe the specific words and content. The document appears to have multiple paragraphs, but the text is not readable enough to provide a verbatim transcription that would meet the accuracy requirements specified.]",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The writer expresses confusion about a notice referring to a new senator without naming the specific individual, and requests that the FPPC either fix the naming in such notices or omit them entirely.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.65,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is an incoming citizen complaint/correspondence, not an FPPC response. Low confidence due to image quality and lack of formal FPPC letter structure. No question or conclusion sections present. Contains informal complaint about Prop 73 implementation and notice naming issues."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T16:18:32.934355Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The writer expresses confusion about a notice referring to a new senator without naming the specific individual, and requests that the FPPC either fix the naming in such notices or omit them entirely.",
+    "qa_source": "synthetic",
+    "first_500_words": "712 Adelyn Dr San Gabriel, Calif 91775 Fair Pol. Mac. Comm. The confusion caused by a notice referring to a new senator, but not naming him is ridiculous. The writers of Prop 73 possibly erred, but please try to fix the naming, or omit notices. Also please note, I live in Cal., not Canada. Yours truly, Edward Moore The image provided is extremely faint and mostly illegible, with very little visible content. Only a few scattered, faintly visible characters can be seen, which do not form any coherent words or sentences. If you have another scan or a higher quality image, please provide it for better results.",
+    "summary": "This is a citizen complaint letter to the FPPC from Edward Moore regarding confusing notices related to Proposition 73 that reference a new senator without proper identification, requesting clarification or omission of such notices."
+  }
+}

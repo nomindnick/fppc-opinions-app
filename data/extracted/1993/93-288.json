@@ -1,0 +1,78 @@
+{
+  "id": "93-288",
+  "year": 1993,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1993/93-288.pdf",
+  "pdf_sha256": "6b6cf6741e737599de0d5c5bd17ff583c6594ab4895c9199f55f6eea0493c92f",
+  "local_pdf_path": "raw_pdfs/1993/93-288.pdf",
+  "source_metadata": {
+    "title_raw": ", Cassady Year: 1993 Advice Letter # 93-288",
+    "tags": [
+      "1993",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:31:53",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1993&tagCount=1&page=13"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:06.914168Z",
+    "page_count": 2,
+    "word_count": 367,
+    "char_count": 2304,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 367
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\nSeptember 10,\n1993\nMr. Kirk Pessner\n, Merksamer,\nParrinello, Mueller\n& Naylor\n591 Redwood Highway,\n#4000\nMill Valley,\nCA\n94941\nRe:\nYour Request for Informal Assistance\nOur File No.\n1—93—288\nDear Mr. Pessner:\nYou have requested confirmation of advice provided to you\nconcerning the lobbying provisions of the Political Reform Act\n(the “Act’) •1/\nBecause you have not identified the person on\nwhose behalf you have requested this advice,\nwe provide the\nfollowing informal response to your question.\n2\n’\nYour letter of July 21,\n1993, accurately summarizes the\nadvice provided to you.\nIn order for a law firm to qualify as a\nlobbying firm, the firm must receive or become entitled to receive\n$5,000 or more during a calendar quarter from a single client and\na partner or employee of the firm must engage in direct\ncommunication with a public official for the purpose of\ninfluencing legislative or administrative action on behalf of the\nclient.\n(Sections 82038.5 and 18238.5(a).)\nTherefore,\nin your\nexample, if during a calendar quarter a law firm receives $3,000\nfor lobbying activities from one client and $3,000 from another\nclient for such activities, the law firm will not qualify as a\nlobbying firm as it did not receive $5,000 from a single client.\nGovernment Code Sections 81000-91015.\nAll statutory\nreferences are to the Government Code unless otherwise indicated.\nCommission regulations appear at\n2 California Code of Regulations\nSection 18000,\ng.\nAll references to regulations are to Title\n2, Division\n6 of the California Code of Regulations.\n2/\nInformal assistance does not provide the requestor with the\nimmunity provided by an opinion or formal written advice.\n(Government Code Section 83114;\n2 Cal.\nCode of Regs.\nSection\n18329(c)-(3) .)\n428 J Street, Suite 800\n•\nP.O. Box 807 •\nSacramento, CA\n95804-0807\n•\n(916) 322-5660\n\n\n1—93—288\n2\nHowever,\nonce a law firm qualifies as a lobbying firm,\nany\nperson who makes a payment, regardless of the amount, to the firm\nfor lobbying services is a lobbyist employer and becomes subject\nto the registration and disclosure requirements under the Act.\n(Section 82039.5, Regulation 18614.,\nand Pessner Advice Letter,\nNo.\n1—87—174.)\nSinc,rely,\nU\nLynda Cassady\nAssistant Division\n‘ief\nTechnical Assistance Division\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1993-09-10",
+    "date_raw": "September 10,\n1993",
+    "requestor_name": "Pessner",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "informal_advice"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "When does a law firm qualify as a lobbying firm under the Political Reform Act, and what threshold amount must be received from a single client for such qualification?",
+    "conclusion_synthetic": "A law firm qualifies as a lobbying firm only when it receives or becomes entitled to receive $5,000 or more during a calendar quarter from a single client AND a partner or employee engages in direct communication with a public official to influence legislative or administrative action. Once qualified, any person paying the firm for lobbying services, regardless of amount, becomes a lobbyist employer subject to registration and disclosure requirements.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is informal advice response; no formal QUESTION or CONCLUSION sections with headers present; legal question and conclusion extracted from body text. Footnotes indicate this is informal assistance without immunity protections of formal written advice."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "82038",
+      "82039",
+      "83114"
+    ],
+    "regulations": [
+      "18614"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:35:06.914168Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: When does a law firm qualify as a lobbying firm under the Political Reform Act, and what threshold amount must be received from a single client for such qualification?\n\nCONCLUSION: A law firm qualifies as a lobbying firm only when it receives or becomes entitled to receive $5,000 or more during a calendar quarter from a single client AND a partner or employee engages in direct communication with a public official to influence legislative or administrative action. Once qualified, any person paying the firm for lobbying services, regardless of amount, becomes a lobbyist employer subject to registration and disclosure requirements.",
+    "qa_source": "synthetic",
+    "first_500_words": "California Fair Political Practices Commission September 10, 1993 Mr. Kirk Pessner , Merksamer, Parrinello, Mueller & Naylor 591 Redwood Highway, #4000 Mill Valley, CA 94941 Re: Your Request for Informal Assistance Our File No. 1—93—288 Dear Mr. Pessner: You have requested confirmation of advice provided to you concerning the lobbying provisions of the Political Reform Act (the “Act’) •1/ Because you have not identified the person on whose behalf you have requested this advice, we provide the following informal response to your question. 2 ’ Your letter of July 21, 1993, accurately summarizes the advice provided to you. In order for a law firm to qualify as a lobbying firm, the firm must receive or become entitled to receive $5,000 or more during a calendar quarter from a single client and a partner or employee of the firm must engage in direct communication with a public official for the purpose of influencing legislative or administrative action on behalf of the client. (Sections 82038.5 and 18238.5(a).) Therefore, in your example, if during a calendar quarter a law firm receives $3,000 for lobbying activities from one client and $3,000 from another client for such activities, the law firm will not qualify as a lobbying firm as it did not receive $5,000 from a single client. Government Code Sections 81000-91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations Section 18000, g. All references to regulations are to Title 2, Division 6 of the California Code of Regulations. 2/ Informal assistance does not provide the requestor with the immunity provided by an opinion or formal written advice. (Government Code Section 83114; 2 Cal. Code of Regs. Section 18329(c)-(3) .) 428 J Street, Suite 800 • P.O. Box 807 • Sacramento, CA 95804-0807 • (916) 322-5660 1—93—288 2 However, once a law firm qualifies as a lobbying firm, any person who makes a payment, regardless of the amount, to the firm for lobbying services is a lobbyist employer and becomes subject to the registration and disclosure requirements under the Act. (Section 82039.5, Regulation 18614., and Pessner Advice Letter, No. 1—87—174.) Sinc,rely, U Lynda Cassady Assistant Division ‘ief Technical Assistance Division",
+    "summary": "FPPC informal advice letter confirming guidance on lobbying firm qualification thresholds under the Political Reform Act, specifically addressing the $5,000 single-client quarterly requirement and subsequent registration obligations for lobbyist employers."
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "02-168",
+  "year": 2002,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2002/02-168.pdf",
+  "pdf_sha256": "2cf77a3c8ef1ce2ed855e30189fa2c990440516eb6b5e24505116a0926576bd0",
+  "local_pdf_path": "raw_pdfs/2002/02-168.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2002 Advice Letter # 02-168",
+    "tags": [
+      "Advice Letter",
+      "2002"
+    ],
+    "scraped_at": "2026-01-31 16:54:47",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2002&tagCount=1&page=20"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T20:09:38.518982Z",
+    "page_count": 1,
+    "word_count": 71,
+    "char_count": 460,
+    "quality_score": 0.696462533781932,
+    "olmocr_cost": 0.00247852,
+    "native_word_count": 84
+  },
+  "content": {
+    "full_text": "June 25, 2002\n\nDaralyn Reed\nDaralyn Reed Company\n504 Hillcrest Drive\nYreka, CA 96097\n\nRE: Your Request for Advice\nOur File No. W-02-168\n\nDear Ms. Reed:\n\nPursuant to our telephone conversation of June 25, 2002, you have withdrawn your request for written advice.\n\nIf you have any additional questions, please feel free to call me toll-free at 866/275-3772.\n\nSincerely,\n\n[Signature]\nKevin S. Moen, PhD\nPolitical Reform Consultant II\nTechnical Assistance Division",
+    "full_text_markdown": "June 25, 2002\n\nDaralyn Reed\nDaralyn Reed Company\n504 Hillcrest Drive\nYreka, CA 96097\n\nRE: Your Request for Advice\nOur File No. W-02-168\n\nDear Ms. Reed:\n\nPursuant to our telephone conversation of June 25, 2002, you have withdrawn your request for written advice.\n\nIf you have any additional questions, please feel free to call me toll-free at 866/275-3772.\n\nSincerely,\n\n[Signature]\nKevin S. Moen, PhD\nPolitical Reform Consultant II\nTechnical Assistance Division"
+  },
+  "parsed": {
+    "date": "2002-06-25",
+    "date_raw": "June 25, 2002",
+    "requestor_name": "Reed",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T20:09:38.518982Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "June 25, 2002 Daralyn Reed Daralyn Reed Company 504 Hillcrest Drive Yreka, CA 96097 RE: Your Request for Advice Our File No. W-02-168 Dear Ms. Reed: Pursuant to our telephone conversation of June 25, 2002, you have withdrawn your request for written advice. If you have any additional questions, please feel free to call me toll-free at 866/275-3772. Sincerely, [Signature] Kevin S. Moen, PhD Political Reform Consultant II Technical Assistance Division",
+    "qa_source": "extracted",
+    "first_500_words": "June 25, 2002 Daralyn Reed Daralyn Reed Company 504 Hillcrest Drive Yreka, CA 96097 RE: Your Request for Advice Our File No. W-02-168 Dear Ms. Reed: Pursuant to our telephone conversation of June 25, 2002, you have withdrawn your request for written advice. If you have any additional questions, please feel free to call me toll-free at 866/275-3772. Sincerely, [Signature] Kevin S. Moen, PhD Political Reform Consultant II Technical Assistance Division",
+    "summary": null
+  }
+}

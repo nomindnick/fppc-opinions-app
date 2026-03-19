@@ -1,0 +1,73 @@
+{
+  "id": "77ADV-77-454",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-454.PDF",
+  "pdf_sha256": "98ab2e25067a99814629ba519f3ad71e8216651372a731c98bd5b4fdee6b18cd",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-454.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-454",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:20:47",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=25"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-07T17:09:16.718557Z",
+    "page_count": 1,
+    "word_count": 223,
+    "char_count": 1384,
+    "quality_score": 0.9364721164015568,
+    "olmocr_cost": 0.0026058,
+    "native_word_count": 12
+  },
+  "content": {
+    "full_text": "State of California\n\nMemorandum\n\nTo: File\n\nDate: November 4, 1977\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION\n        Dwight Dickerson\n\nSubject: Advice Given Over the Phone\n\nOn November 4, 1977, I received a phone call from Palmer Madden of the Law Firm of Morrison and Foerster, San Francisco, California. He described to me the following factual situation. His client sits on a planning commission. She also has a realty business. Her realty firm represents an owner who will be affected by a planning commission decision. She plans not to vote on the issue, but wonders if she may discuss the issue with other board members and staff. Her activities would also include making recommendations on how to vote.\n\nI told Mr. Madden that his client is precluded not only from voting but participating in the decision-making process as well. This prohibition included all the activities described above. I referred Mr. Madden to Commission Regulation 18700(c) which covers the questioned activities. I explained to him it was doubtful that she could disassociate herself from her office and she should disqualify herself.\n\nWe discussed the possibility that it may be possible for her to testify or act on her own behalf when matters related solely to her personal interest, but more facts would be needed before I could make an actual determination whether she could or not.\n\nDD:ma",
+    "full_text_markdown": "State of California\n\nMemorandum\n\nTo: File\n\nDate: November 4, 1977\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION\n        Dwight Dickerson\n\nSubject: Advice Given Over the Phone\n\nOn November 4, 1977, I received a phone call from Palmer Madden of the Law Firm of Morrison and Foerster, San Francisco, California. He described to me the following factual situation. His client sits on a planning commission. She also has a realty business. Her realty firm represents an owner who will be affected by a planning commission decision. She plans not to vote on the issue, but wonders if she may discuss the issue with other board members and staff. Her activities would also include making recommendations on how to vote.\n\nI told Mr. Madden that his client is precluded not only from voting but participating in the decision-making process as well. This prohibition included all the activities described above. I referred Mr. Madden to Commission Regulation 18700(c) which covers the questioned activities. I explained to him it was doubtful that she could disassociate herself from her office and she should disqualify herself.\n\nWe discussed the possibility that it may be possible for her to testify or act on her own behalf when matters related solely to her personal interest, but more facts would be needed before I could make an actual determination whether she could or not.\n\nDD:ma"
+  },
+  "parsed": {
+    "date": "1977-11-04",
+    "date_raw": "November 4, 1977",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Can a planning commission member who has a financial interest through her realty firm in a matter before the commission participate in discussions and recommendations regarding that matter, even if she abstains from voting?",
+    "conclusion_synthetic": "The commission member is precluded from voting and from participating in the decision-making process, including discussions with board members and staff or making recommendations on how others should vote. She should disqualify herself entirely from the matter, though testimony on matters of personal interest may be possible with further factual development.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Phone advice documented in memo format rather than formal advice letter. No formal QUESTION or CONCLUSION sections present; question and conclusion extracted from body text. Reference to Regulation 18700(c) cited as applicable authority. Advice indicates complete disqualification required, not merely abstention from voting."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [
+      "18700"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T17:09:16.718557Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Can a planning commission member who has a financial interest through her realty firm in a matter before the commission participate in discussions and recommendations regarding that matter, even if she abstains from voting?\n\nCONCLUSION: The commission member is precluded from voting and from participating in the decision-making process, including discussions with board members and staff or making recommendations on how others should vote. She should disqualify herself entirely from the matter, though testimony on matters of personal interest may be possible with further factual development.",
+    "qa_source": "synthetic",
+    "first_500_words": "**State of California** **Memorandum** To: File Date: November 4, 1977 From: FAIR POLITICAL PRACTICES COMMISSION Dwight Dickerson Subject: Advice Given Over the Phone On November 4, 1977, I received a phone call from Palmer Madden of the Law Firm of Morrison and Foerster, San Francisco, California. He described to me the following factual situation. His client sits on a planning commission. She also has a realty business. Her realty firm represents an owner who will be affected by a planning commission decision. She plans not to vote on the issue, but wonders if she may discuss the issue with other board members and staff. Her activities would also include making recommendations on how to vote. I told Mr. Madden that his client is precluded not only from voting but participating in the decision-making process as well. This prohibition included all the activities described above. I referred Mr. Madden to Commission Regulation 18700(c) which covers the questioned activities. I explained to him it was doubtful that she could disassociate herself from her office and she should disqualify herself. We discussed the possibility that it may be possible for her to testify or act on her own behalf when matters related solely to her personal interest, but more facts would be needed before I could make an actual determination whether she could or not. DD:ma",
+    "summary": "FPPC memorandum documenting phone advice given by Dwight Dickerson to an attorney regarding a planning commission member's conflict of interest arising from her realty firm's representation of a party affected by a pending commission decision."
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "76ADV-226",
+  "year": 1976,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1976/76ADV-226.PDF",
+  "pdf_sha256": "b109c2986b4eac042382560a6f854a0cf9561fbfec57fbb23a473f4a82baf974",
+  "local_pdf_path": "raw_pdfs/1976/76ADV-226.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1976ADV Advice Letter # 76ADV-226",
+    "tags": [
+      "1976",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:18:11",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1976&tagCount=1&page=49"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:21.787829Z",
+    "page_count": 2,
+    "word_count": 259,
+    "char_count": 1507,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 259
+  },
+  "content": {
+    "full_text": ",1 California \nMem r \num \nTo \nJeanne Pritchard \nDate \nJune 22, 1976 \nFrom \nFAIR POLITICAL PRACTICES COMMISSION -\nKen Goshorn \nSubject: Letter of April 29 from Supervisor Jim Bates \nOn or about May 28 I spoke with Mr. Bates on the \ntelephone. \nWe discussed the matter in question as per \na previous conversation at the opinion request meeting. \nWe agreed that it did not appear that the ball clubs \nwere making any reportable gift, but that he would \nreport it as a gift from the Stadium Authority. \nMr. \nBates seemed satisfied with the informal advice I \ngave him. \nHe did not request any written response. \nKG/g \n\n\nSUPERVISOR JIM BATES \nApril 29, 1976 \nFair Political Practices Commission \n1100 \"K\" Street Mall \nSacramento, California \n95814 \nDear Sir: \nAs a member of the San Diego Board of Supervisors, I am in receipt \nof season tickets to the San Diego Padre and Charger games, as the \nresult of use of a box reserved for San Diego Stadium Authority \nmembers which includes the City Council and Board of Supervisors. \nThis box has never been leased to the Padres or Chargers. \nThese \ntickets ha¥ta combined value of approximately $892.00, which I am \nnot sure should be claimed in my financial disclosure forms; but I \nam sure that a value should be placed on it. \nCould you please advise me if the San Diego City Council and the \nBoard of Supervisors should declare this amount as a gift, or how \nshould it be handled? \nA ruling on this matter would be appreciated. \nSincerely, \nVice Chairman \nJB/kb \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1976-06-22",
+    "date_raw": "June 22, 1976",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "As a member of the San Diego Board of Supervisors, I am in receipt of season tickets to the San Diego Padre and Charger games, as the result of use of a box reserved for San Diego Stadium Authority members which includes the City Council and Board of Supervisors. This box has never been leased to the Padres or Chargers. These tickets have a combined value of approximately $892.00, which I am not sure should be claimed in my financial disclosure forms; but I am sure that a value should be placed on it. Could you please advise me if the San Diego City Council and the Board of Supervisors should declare this amount as a gift, or how should it be handled?",
+    "conclusion": "We discussed the matter in question as per a previous conversation at the opinion request meeting. We agreed that it did not appear that the ball clubs were making any reportable gift, but that he would report it as a gift from the Stadium Authority. Mr. Bates seemed satisfied with the informal advice I gave him.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Should Supervisor Jim Bates report season tickets valued at approximately $892.00 received through a San Diego Stadium Authority box as a gift in his financial disclosure forms?",
+    "conclusion_synthetic": "The FPPC advised informally that the ball clubs were not making a reportable gift, but recommended reporting the tickets as a gift from the Stadium Authority instead.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an informal advice letter documented in a memorandum format rather than a formal response letter. The FPPC response was given verbally on May 28, 1976, and no written response was requested. The original question letter is dated April 29, 1976."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:21.787829Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: As a member of the San Diego Board of Supervisors, I am in receipt of season tickets to the San Diego Padre and Charger games, as the result of use of a box reserved for San Diego Stadium Authority members which includes the City Council and Board of Supervisors. This box has never been leased to the Padres or Chargers. These tickets have a combined value of approximately $892.00, which I am not sure should be claimed in my financial disclosure forms; but I am sure that a value should be placed on it. Could you please advise me if the San Diego City Council and the Board of Supervisors should declare this amount as a gift, or how should it be handled?\n\nCONCLUSION: We discussed the matter in question as per a previous conversation at the opinion request meeting. We agreed that it did not appear that the ball clubs were making any reportable gift, but that he would report it as a gift from the Stadium Authority. Mr. Bates seemed satisfied with the informal advice I gave him.",
+    "qa_source": "mixed",
+    "first_500_words": ",1 California Mem r um To Jeanne Pritchard Date June 22, 1976 From FAIR POLITICAL PRACTICES COMMISSION - Ken Goshorn Subject: Letter of April 29 from Supervisor Jim Bates On or about May 28 I spoke with Mr. Bates on the telephone. We discussed the matter in question as per a previous conversation at the opinion request meeting. We agreed that it did not appear that the ball clubs were making any reportable gift, but that he would report it as a gift from the Stadium Authority. Mr. Bates seemed satisfied with the informal advice I gave him. He did not request any written response. KG/g SUPERVISOR JIM BATES April 29, 1976 Fair Political Practices Commission 1100 \"K\" Street Mall Sacramento, California 95814 Dear Sir: As a member of the San Diego Board of Supervisors, I am in receipt of season tickets to the San Diego Padre and Charger games, as the result of use of a box reserved for San Diego Stadium Authority members which includes the City Council and Board of Supervisors. This box has never been leased to the Padres or Chargers. These tickets ha¥ta combined value of approximately $892.00, which I am not sure should be claimed in my financial disclosure forms; but I am sure that a value should be placed on it. Could you please advise me if the San Diego City Council and the Board of Supervisors should declare this amount as a gift, or how should it be handled? A ruling on this matter would be appreciated. Sincerely, Vice Chairman JB/kb",
+    "summary": "Supervisor Jim Bates inquired whether season tickets valued at $892.00 from a San Diego Stadium Authority box should be reported as a gift. FPPC staff advised informally that the tickets should be reported as a gift from the Stadium Authority rather than from the ball clubs."
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "77A-338",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77A-338.PDF",
+  "pdf_sha256": "13f1cdf39069a58cd7afcbef52c8ae24ae455befaa34666a7a9b6e6dbb7b25de",
+  "local_pdf_path": "raw_pdfs/1977/77A-338.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977A Advice Letter # 77A-338",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:19:35",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=9"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:12.435503Z",
+    "page_count": 1,
+    "word_count": 173,
+    "char_count": 1127,
+    "quality_score": 0.635,
+    "olmocr_cost": null,
+    "native_word_count": 173
+  },
+  "content": {
+    "full_text": "State of California \nMemorandum \nTo \nOpinion Request Meeting Participants \nDate \n6-9-77 \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nTed Prim \nSubject: \nItem for consideration. \nAn independent polling of the staff indicates that we are \nsplit on the question of whether a lobbyist must report \nbills and expenses incidental to \"volunteer\" lobbying. \nIf we cannot reach a solution at this opinion request \nmeeting, perhaps we should consider taking this issue \nto the Commission. \nThe three views are: \nTP: jo \nA. \nOnce a lobbyist becomes a lobbyist all lobbying \nactivities must be reported; \nB. \nA lobbyist must only report those activities \nperformed as a result of his employment or con-\ntractual relationship as a lobbyist; \nC. \nA lobbyist must report all lobbying activities \nexcept for those for which he is not compensated \nand which are totally unrelated to the interests \nof his employer. \nThus,L~elobbyist for Standard \nOil need not report his activities in connection \nwith lobbying against smoking in public places \nbut would have to report his activities in con-\nnection with lobbying on mass transit legislation. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether lobbyists must report bills and expenses related to volunteer lobbying activities, and under what circumstances lobbying reporting obligations apply.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.75,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an internal FPPC memorandum, not a formal advice letter response. No formal QUESTION or CONCLUSION sections present. Document presents three competing interpretations (A, B, C) of lobbying reporting requirements rather than FPPC's official position. No definitive FPPC response/conclusion provided; matter flagged for Commission consideration."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:12.435503Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether lobbyists must report bills and expenses related to volunteer lobbying activities, and under what circumstances lobbying reporting obligations apply.",
+    "qa_source": "synthetic",
+    "first_500_words": "State of California Memorandum To Opinion Request Meeting Participants Date 6-9-77 From FAIR POLITICAL PRACTICES COMMISSION Ted Prim Subject: Item for consideration. An independent polling of the staff indicates that we are split on the question of whether a lobbyist must report bills and expenses incidental to \"volunteer\" lobbying. If we cannot reach a solution at this opinion request meeting, perhaps we should consider taking this issue to the Commission. The three views are: TP: jo A. Once a lobbyist becomes a lobbyist all lobbying activities must be reported; B. A lobbyist must only report those activities performed as a result of his employment or con- tractual relationship as a lobbyist; C. A lobbyist must report all lobbying activities except for those for which he is not compensated and which are totally unrelated to the interests of his employer. Thus,L~elobbyist for Standard Oil need not report his activities in connection with lobbying against smoking in public places but would have to report his activities in con- nection with lobbying on mass transit legislation.",
+    "summary": "Internal FPPC memorandum from Ted Prim to opinion request meeting participants dated June 9, 1977, presenting three conflicting staff views on whether and when lobbyists must report volunteer lobbying activities and related expenses."
+  }
+}

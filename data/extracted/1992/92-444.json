@@ -1,0 +1,79 @@
+{
+  "id": "92-444",
+  "year": 1992,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1992/92-444.pdf",
+  "pdf_sha256": "f4b2ad8b61d2aab334f8f81481e08ce181be96f6f84e2f4bd1678a9f7f9f52ee",
+  "local_pdf_path": "raw_pdfs/1992/92-444.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 1992 Advice Letter # 92-444",
+    "tags": [
+      "Advice Letter",
+      "1992"
+    ],
+    "scraped_at": "2026-01-31 16:25:36",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1992&tagCount=1&page=38"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:15.169647Z",
+    "page_count": 2,
+    "word_count": 300,
+    "char_count": 1876,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 300
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\nAugust 31,\n1992\nDiane D.\nAdams\n1711 North Grismer,\nSuite 30\nBurbank,\nCA\n91504\nRe:\nYour Request for Assistance\nOur File No.\nG—92—444\nDear Ms.\nAdams:\nThis letter is in response to your letter to Mark T.\nMorodomi\nregarding the duties of the City of Burbank under the provisions\nof the Political Reform Act (the “Act”).\n1\nThe Commission provides advice to any person whose duties\nunder the Act are in question or to that person’s authorized\nrepresentative.\n(Section 83114(b).)\nThe Commission does not\nprovide advice to third parties concerning another person’s duties\nunder the Act.\n(Regulation 18329(b) (8).)\nIt does not appear that you have been authorized by the City\nof Burbank to seek our advice.\nAccordingly,\nwe decline to provide\nadvice on the issues you raised in your letter.\nFor your information,\nwe are enclosing a copy of the\nPolitical Reform Act, Regulation 18530,\nand the Bruckxnan Advice\nLetter,\nNo.\nA-89-518.\nGovernment Code Sections 81000-91015.\nAll statutory references\ne to the Government Code unless otherwise indicated.-\nCommission\nregulations appear at\n2 California Code of Regulations Section\n18000,\ng.\nAll references to regulations are to Title 2,\nDivision\n6 of the California Code of Regulations.\n428 J Street, Suite 800 •\nP.O. Box 807 •\nSacramento, CA\n95812 •\n(916) 322-5660\n\n\nOur File No.\nG-92-444\nPage\n2\nWe trust this letter adequately responds to your inquiry.\nShould you have any further questions regarding this matter,\ndo\nnot hesitate to call me at\n(916)\n322_5901.2\nSincerely,\nScott Hallabrin\nActing General Counsel\nBy:\nBlanca 14.\nBreeze\nCounsel,\nLegal Division\nSH:BMB: aa\nEnclosures\nCopies of Commission regulations and Opinions are available in\nmany law libraries.\nAlternatively, copies of these materials and\nCommission advice letters may be obtained from the Commission at a\ncost of\n1Oc per page.\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1992-08-31",
+    "date_raw": "August 31,\n1992",
+    "requestor_name": "Adams",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "It does not appear that you have been authorized by the City of Burbank to seek our advice. Accordingly, we decline to provide advice on the issues you raised in your letter.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether the City of Burbank has certain duties under the Political Reform Act, as inquired about by a third party (Diane D. Adams).",
+    "conclusion_synthetic": "The FPPC declines to provide advice because the requester (Ms. Adams) does not appear to be authorized by the City of Burbank, as the Commission only provides advice to persons whose duties are in question or their authorized representatives, not to third parties.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Declination letter with clear conclusion section explaining grounds for declining. No verbatim QUESTION section present in document. Document includes regulatory references and enclosures."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "83114(b)"
+    ],
+    "regulations": [
+      "18329",
+      "18530"
+    ],
+    "prior_opinions": [
+      "A-89-518"
+    ],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "gifts_honoraria",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:35:15.169647Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether the City of Burbank has certain duties under the Political Reform Act, as inquired about by a third party (Diane D. Adams).\n\nCONCLUSION: It does not appear that you have been authorized by the City of Burbank to seek our advice. Accordingly, we decline to provide advice on the issues you raised in your letter.",
+    "qa_source": "mixed",
+    "first_500_words": "California Fair Political Practices Commission August 31, 1992 Diane D. Adams 1711 North Grismer, Suite 30 Burbank, CA 91504 Re: Your Request for Assistance Our File No. G—92—444 Dear Ms. Adams: This letter is in response to your letter to Mark T. Morodomi regarding the duties of the City of Burbank under the provisions of the Political Reform Act (the “Act”). 1 The Commission provides advice to any person whose duties under the Act are in question or to that person’s authorized representative. (Section 83114(b).) The Commission does not provide advice to third parties concerning another person’s duties under the Act. (Regulation 18329(b) (8).) It does not appear that you have been authorized by the City of Burbank to seek our advice. Accordingly, we decline to provide advice on the issues you raised in your letter. For your information, we are enclosing a copy of the Political Reform Act, Regulation 18530, and the Bruckxnan Advice Letter, No. A-89-518. Government Code Sections 81000-91015. All statutory references e to the Government Code unless otherwise indicated.- Commission regulations appear at 2 California Code of Regulations Section 18000, g. All references to regulations are to Title 2, Division 6 of the California Code of Regulations. 428 J Street, Suite 800 • P.O. Box 807 • Sacramento, CA 95812 • (916) 322-5660 Our File No. G-92-444 Page 2 We trust this letter adequately responds to your inquiry. Should you have any further questions regarding this matter, do not hesitate to call me at (916) 322_5901.2 Sincerely, Scott Hallabrin Acting General Counsel By: Blanca 14. Breeze Counsel, Legal Division SH:BMB: aa Enclosures Copies of Commission regulations and Opinions are available in many law libraries. Alternatively, copies of these materials and Commission advice letters may be obtained from the Commission at a cost of 1Oc per page.",
+    "summary": "The FPPC declines to provide advice to Diane D. Adams regarding the City of Burbank's duties under the Political Reform Act because she lacks authorization from the City to seek such advice. The Commission clarifies it only advises those directly subject to the Act or their authorized representatives, not third parties."
+  }
+}

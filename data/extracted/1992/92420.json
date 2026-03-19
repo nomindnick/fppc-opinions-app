@@ -1,0 +1,74 @@
+{
+  "id": "92420",
+  "year": 1992,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1992/92420.pdf",
+  "pdf_sha256": "fe0e32adefd836b395a6b3cd42d1e91f4941dfbd81fef5d6f66dc68e762ac784",
+  "local_pdf_path": "raw_pdfs/1992/92420.pdf",
+  "source_metadata": {
+    "title_raw": "Tezak, Wayne Year: 1992 Advice Letter # 92420",
+    "tags": [
+      "Advice Letter",
+      "1992"
+    ],
+    "scraped_at": "2026-01-31 16:29:20",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1992&tagCount=1&page=87"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:19.316404Z",
+    "page_count": 1,
+    "word_count": 212,
+    "char_count": 1292,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 212
+  },
+  "content": {
+    "full_text": "tlt t ( '^q2\nriI\nJuly 15, 1992\nFair Political Practices Commission\n428 ttJt' Street, Suite 800\nSacramento, CA 95814\nSubject: Tezak for Supervisor I.D.ll 921081\nDear Gentlepersons:\nThe undersigned is (was)campaign manager for Wayne Tezak who was an\nunsuccessful candidate for supervisor in Lassen County. The campaign\ntreasurer is (was) Wayne's wife, Helen Tezak.\nWhen Wayne decided to run he made a decision not to accept any\ncampaign contributions and at no time has he, or his committee,\naccepted any contributions whatsoever.\nAll funding for the campaign came directly from hlayne Tezak.\n!,layne's wife, and tteasuret, Helen Tezak, inadverdently entered the\nmoney that Wayne advanced by way of loan on the contributions line\nof the 490 form. the fact was that the amount entered as contribu-\ntions was inadverdently entered improperly and was in lact a loan\nby lnlayne Tezak to his committee.\n0n the basis of these facts t're ask that the F.P.P.C. consider the 490\namended on its face to reflect the faet the money was loaned and\ntherefore returnable to the lenderr Wayne Tezak.\nThe facts alleged in this Letter are true and correct and of my\npersonal knowledge, and could be provlded by declaration under\npenalty of perjury if so required.\nSincerely,\n5fiffi€:,..-,\nRobert E. Roney\nRER/ht\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1992-07-15",
+    "date_raw": "July 15, 1992",
+    "requestor_name": "Tezak",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requester asks the FPPC to consider amending a Form 490 (campaign statement) for an unsuccessful supervisor candidate to reclassify improperly reported contributions as a loan from the candidate to his campaign committee.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an incoming request letter, not an FPPC advice letter response. No formal QUESTION or CONCLUSION sections present. Document contains request for administrative amendment with attestation of facts. Some OCR quality issues present ('inadverdently', 'lnlayne')."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [
+      "03-017",
+      "94-092"
+    ],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:35:19.316404Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The requester asks the FPPC to consider amending a Form 490 (campaign statement) for an unsuccessful supervisor candidate to reclassify improperly reported contributions as a loan from the candidate to his campaign committee.",
+    "qa_source": "synthetic",
+    "first_500_words": "tlt t ( '^q2 riI July 15, 1992 Fair Political Practices Commission 428 ttJt' Street, Suite 800 Sacramento, CA 95814 Subject: Tezak for Supervisor I.D.ll 921081 Dear Gentlepersons: The undersigned is (was)campaign manager for Wayne Tezak who was an unsuccessful candidate for supervisor in Lassen County. The campaign treasurer is (was) Wayne's wife, Helen Tezak. When Wayne decided to run he made a decision not to accept any campaign contributions and at no time has he, or his committee, accepted any contributions whatsoever. All funding for the campaign came directly from hlayne Tezak. !,layne's wife, and tteasuret, Helen Tezak, inadverdently entered the money that Wayne advanced by way of loan on the contributions line of the 490 form. the fact was that the amount entered as contribu- tions was inadverdently entered improperly and was in lact a loan by lnlayne Tezak to his committee. 0n the basis of these facts t're ask that the F.P.P.C. consider the 490 amended on its face to reflect the faet the money was loaned and therefore returnable to the lenderr Wayne Tezak. The facts alleged in this Letter are true and correct and of my personal knowledge, and could be provlded by declaration under penalty of perjury if so required. Sincerely, 5fiffi€:,..-, Robert E. Roney RER/ht",
+    "summary": "Campaign manager Robert E. Roney requests that the FPPC amend Form 490 for Wayne Tezak's unsuccessful Lassen County supervisor campaign, requesting reclassification of funds that were incorrectly entered as contributions but were actually loans from the candidate to his campaign committee."
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "95-291",
+  "year": 1995,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/1995/95-291.pdf",
+  "pdf_sha256": "82dac224b06bbfe2da4e3db8c024de165bc5199bc8482316a36f2e2a853fc077",
+  "local_pdf_path": "raw_pdfs/1995/95-291.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 1995 Advice Letter # 95-291",
+    "tags": [
+      "1995",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:38:16",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1995&tagCount=1&page=21"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:59.225890Z",
+    "page_count": 2,
+    "word_count": 392,
+    "char_count": 2573,
+    "quality_score": 0.8,
+    "olmocr_cost": null,
+    "native_word_count": 392
+  },
+  "content": {
+    "full_text": "RAvI MEI-ITA\nCHAIRMAN\nFAIR POLITICAL PRACTICES COMMISSION\nSeptember 26,\n1995\nMarc Strassman\nTransmedia Communications\n15150 Dickens Street\nSuite 105\nSherman Oaks, California\n91403—3350\nRe:\nYour Request for Advice\nOur File No.\n1-95-291\nDear Mr.\nStrassman:\nWe respond to your request for advice regarding the\ncontribution definition under the Political Reform Act\n(the\n“Act”).\n1\nAs your question is general in nature and does not\nrelate any specific set of facts,\nwe have deemed it to be a\nrequest for informal assistance.\n(Regulation 18329(c).)\nYou have requested advice in determining whether\ntechnological assistance would constitute a reportable\ncontribution.\nYour examples include the donation of electronic\nequipment on a temporary basis, to a candidate or committee, to\nassist in the propagation of the campaign’s political message or\nthe gathering of signatures via the Internet.\n-\nUnder Commission Regulation 18215(b) (3),\na contribution\nincludes any goods or services received by or at the behest of a\ncandidate or committee at no charge or at a discount from the fair\nmarket value, unless the discount is given in the regular course\nof business to members of the public.\nAccordingly,\nas a general\nrule, the provision of computer programming services to a ballot\nmeasure committee for the purpose of establishing home pages on\nthe Internet would result in reportable contributions.\nAdditionally,\nany equipment or professional services provided to\nthe committee would likewise result in a reportable contribution.\nA proponent’s obligation to report expenditures in support of\na ballot proposal begins when the proposal becomes a measure.\n(n\n1\nGovernment Code Sections 81000-91015.\nAll statutory references\nare to the Government Code unless otherwise indicated.\nCommission\nregulations appear at\n2 California Code of Regulations Sections\n18109—18995.\n428 1 STREET, SUITE 800, SACRAMENTO, CALIFORNIA 95814\n(916) 322-5660\n\n\nFile No.\n1—95—291\nPage\n2\nre Fontana\n(1976)\n2\nFPPC Ops.\n25.)\nInitiatives, referendums and\nrecall elections become measures at the time petitions begin\ncirculating to place the issue on the ballot.\n(Section 82043.)\nProposals which require the action of an elected body to be placed\non the ballot do not become measures until the appropriate body\nhas placed the proposal on the ballot.\n(Martini Advice Letter,\nNo.\nA—93—378.)\nWe trust that you find this response helpful.\nShould you\nhave any additional questions please do not hesitate to contact\nthe Commission.\nSincerely,\nSteven G.\nChurchwell\nGeneral\nE.\nMuallem\nCounsel,\nLegal Division\nSGC:DEM: ak\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1995-09-26",
+    "date_raw": "September 26,\n1995",
+    "requestor_name": "Strassman",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "informal_advice"
+  },
+  "sections": {
+    "question": "You have requested advice in determining whether technological assistance would constitute a reportable contribution. Your examples include the donation of electronic equipment on a temporary basis, to a candidate or committee, to assist in the propagation of the campaign's political message or the gathering of signatures via the Internet.",
+    "conclusion": "Under Commission Regulation 18215(b)(3), a contribution includes any goods or services received by or at the behest of a candidate or committee at no charge or at a discount from the fair market value, unless the discount is given in the regular course of business to members of the public. Accordingly, as a general rule, the provision of computer programming services to a ballot measure committee for the purpose of establishing home pages on the Internet would result in reportable contributions. Additionally, any equipment or professional services provided to the committee would likewise result in a reportable contribution.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Does the provision of technological assistance, including temporary donation of electronic equipment and computer programming services to candidates or committees, constitute a reportable contribution under the Political Reform Act?",
+    "conclusion_synthetic": "Technological assistance, including computer programming services and equipment donations provided at no charge or below fair market value to candidates or committees, constitutes a reportable contribution under the Political Reform Act unless the discount is given in the regular course of business. The obligation to report such contributions begins when a proposal becomes a measure.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Informal advice letter. Clear question and conclusion sections present. File number 1-95-291 confirms 1995 date. Document discusses contribution definition under Political Reform Act with specific application to Internet and technology-related assistance."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "82043"
+    ],
+    "regulations": [
+      "18215",
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:34:59.225890Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: You have requested advice in determining whether technological assistance would constitute a reportable contribution. Your examples include the donation of electronic equipment on a temporary basis, to a candidate or committee, to assist in the propagation of the campaign's political message or the gathering of signatures via the Internet.\n\nCONCLUSION: Under Commission Regulation 18215(b)(3), a contribution includes any goods or services received by or at the behest of a candidate or committee at no charge or at a discount from the fair market value, unless the discount is given in the regular course of business to members of the public. Accordingly, as a general rule, the provision of computer programming services to a ballot measure committee for the purpose of establishing home pages on the Internet would result in reportable contributions. Additionally, any equipment or professional services provided to the committee would likewise result in a reportable contribution.",
+    "qa_source": "mixed",
+    "first_500_words": "RAvI MEI-ITA CHAIRMAN FAIR POLITICAL PRACTICES COMMISSION September 26, 1995 Marc Strassman Transmedia Communications 15150 Dickens Street Suite 105 Sherman Oaks, California 91403—3350 Re: Your Request for Advice Our File No. 1-95-291 Dear Mr. Strassman: We respond to your request for advice regarding the contribution definition under the Political Reform Act (the “Act”). 1 As your question is general in nature and does not relate any specific set of facts, we have deemed it to be a request for informal assistance. (Regulation 18329(c).) You have requested advice in determining whether technological assistance would constitute a reportable contribution. Your examples include the donation of electronic equipment on a temporary basis, to a candidate or committee, to assist in the propagation of the campaign’s political message or the gathering of signatures via the Internet. - Under Commission Regulation 18215(b) (3), a contribution includes any goods or services received by or at the behest of a candidate or committee at no charge or at a discount from the fair market value, unless the discount is given in the regular course of business to members of the public. Accordingly, as a general rule, the provision of computer programming services to a ballot measure committee for the purpose of establishing home pages on the Internet would result in reportable contributions. Additionally, any equipment or professional services provided to the committee would likewise result in a reportable contribution. A proponent’s obligation to report expenditures in support of a ballot proposal begins when the proposal becomes a measure. (n 1 Government Code Sections 81000-91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations Sections 18109—18995. 428 1 STREET, SUITE 800, SACRAMENTO, CALIFORNIA 95814 (916) 322-5660 File No. 1—95—291 Page 2 re Fontana (1976) 2 FPPC Ops. 25.) Initiatives, referendums and recall elections become measures at the time petitions begin circulating to place the issue on the ballot. (Section 82043.) Proposals which require the action of an elected body to be placed on the ballot do not become measures until the appropriate body has placed the proposal on the ballot. (Martini Advice Letter, No. A—93—378.) We trust that you find this response helpful. Should you have any additional questions please do not hesitate to contact the Commission. Sincerely, Steven G. Churchwell General E. Muallem Counsel, Legal Division SGC:DEM: ak",
+    "summary": "The FPPC advises that technological assistance such as computer programming services and equipment donations to candidates or ballot measure committees constitute reportable contributions unless provided in the regular course of business at standard discounts. The reporting obligation begins when a proposal becomes a measure, with different rules for initiatives, referendums, and proposals requiring elected body approval."
+  }
+}

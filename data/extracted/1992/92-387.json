@@ -1,0 +1,79 @@
+{
+  "id": "92-387",
+  "year": 1992,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1992/92-387.pdf",
+  "pdf_sha256": "6766d9fe385c7038cfbaaed777612717ffcfb791439ff4ca5614df071b3edec7",
+  "local_pdf_path": "raw_pdfs/1992/92-387.pdf",
+  "source_metadata": {
+    "title_raw": "Jamba, Veronica Year: 1992 Advice Letter # 92-387",
+    "tags": [
+      "Advice Letter",
+      "1992"
+    ],
+    "scraped_at": "2026-01-31 16:24:43",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1992&tagCount=1&page=26"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:13.889026Z",
+    "page_count": 2,
+    "word_count": 371,
+    "char_count": 2326,
+    "quality_score": 0.8,
+    "olmocr_cost": null,
+    "native_word_count": 371
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\nJuly 16,\n1992\nVeronica Jamba\nLos Angeles County Superior Court\n111 North Hill Street,\nRoom 105E\nLos Angeles,\nCA\n90012\nRe:\nYour Request for Confirmation\nof Telephone Assistance\nOur File No.\n1-92-387\nDear Ms.\nJamba:\nYou have requested confirmation of telephone assistance\nprovided to you concerning the conflict of interest disclosure\nprovisions of the Political Reform Act\n(the “Act”).\n1\n!\nSince you\ndo not identify the person or persons to whom this question\napplies,\nwe treat your request as one for informal assistance\nunder Regulation 18329(b) (2) (A)\nand (C)\n2\n1\nYou asked whether pro tern judges are required to file\nstatements of economic interests\n(Form 721)\nunder the provisions\nof the Political Reform Act.\nRegulation 18724 provides:\nCourt commissioners, pro tern or retired judges\nshall not file statements of economic interests pursuant\nto Government Code Sections 87200,\nseq., if they\nserve or expect to serve less than 30 days in any\n12\nmonth period.\nProvided,\nhowever, that this section\nshall not excuse these individuals from any filing\nobligations imposed by a conflict of interest code\nadopted pursuant to Government Code Sections 87300,\nq.\n1/\nGovernment Code Sections 81000—91015.\nAll statutory\nreferences are to the Government Code unless otherwise indicated.\nCommission regulations appear at\n2 California Code of Regulations\nSection 18000,\nq.\nAll references to regulations are to Title\n2,\nDivision\n6 of the California Code of Regulations.\n2/\nInformal assistance does not provide the requestor with the\nimmunity provided by an opinion or formal written advice.\n(Section 83114; Regulation 18329\n(c)(3).)\n428 J Street, Suite 800\n•\nP.O. Box S0\n•\nSacramento, CA\n95812\n•\n(16) 322-5660\n\n\nVeronica Jamba\nOur File No.\nG—92—387\nPage\n2\nRegulation 18724 is applicable to judges who are assigned to\nhear cases on behalf of the County in its duty to provide judges\nto hear such cases.\nJudges who hear cases under a private\nagreement to which the County is not a party are not covered by\nRegulation 18724.\nI hope this letter satisfactorily responds to your question.\nPlease call me at\n(916)\n322-5662 if you have questions concerning\nthis letter.\nSincerely,\nScott Hallabrin\n-\nActing General Counsel\nJ&(Lcc)\nBy:\nCarla Wardlow\nChief, Technical Assistance\nand Analysis Division\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1992-07-16",
+    "date_raw": "July 16,\n1992",
+    "requestor_name": "Jamba",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "informal_advice"
+  },
+  "sections": {
+    "question": "You asked whether pro tern judges are required to file statements of economic interests (Form 721) under the provisions of the Political Reform Act.",
+    "conclusion": "Regulation 18724 provides: Court commissioners, pro tern or retired judges shall not file statements of economic interests pursuant to Government Code Sections 87200, seq., if they serve or expect to serve less than 30 days in any 12 month period. Provided, however, that this section shall not excuse these individuals from any filing obligations imposed by a conflict of interest code adopted pursuant to Government Code Sections 87300, q. Regulation 18724 is applicable to judges who are assigned to hear cases on behalf of the County in its duty to provide judges to hear such cases. Judges who hear cases under a private agreement to which the County is not a party are not covered by Regulation 18724.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Are pro tem judges required to file statements of economic interests (Form 721) under the Political Reform Act?",
+    "conclusion_synthetic": "Pro tem judges are not required to file Form 721 if they serve less than 30 days in any 12-month period, unless a local conflict of interest code imposes filing obligations. The exemption applies only to judges assigned by the County; those serving under private agreement are not covered by the exemption.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Informal advice letter confirming prior telephone assistance. Document clearly presents question and conclusion. Minor uncertainty in full verbatim extraction due to document formatting, but key content accurately captured."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "83114",
+      "87200",
+      "87300"
+    ],
+    "regulations": [
+      "18329",
+      "18724"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:35:13.889026Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: You asked whether pro tern judges are required to file statements of economic interests (Form 721) under the provisions of the Political Reform Act.\n\nCONCLUSION: Regulation 18724 provides: Court commissioners, pro tern or retired judges shall not file statements of economic interests pursuant to Government Code Sections 87200, seq., if they serve or expect to serve less than 30 days in any 12 month period. Provided, however, that this section shall not excuse these individuals from any filing obligations imposed by a conflict of interest code adopted pursuant to Government Code Sections 87300, q. Regulation 18724 is applicable to judges who are assigned to hear cases on behalf of the County in its duty to provide judges to hear such cases. Judges who hear cases under a private agreement to which the County is not a party are not covered by Regulation 18724.",
+    "qa_source": "mixed",
+    "first_500_words": "California Fair Political Practices Commission July 16, 1992 Veronica Jamba Los Angeles County Superior Court 111 North Hill Street, Room 105E Los Angeles, CA 90012 Re: Your Request for Confirmation of Telephone Assistance Our File No. 1-92-387 Dear Ms. Jamba: You have requested confirmation of telephone assistance provided to you concerning the conflict of interest disclosure provisions of the Political Reform Act (the “Act”). 1 ! Since you do not identify the person or persons to whom this question applies, we treat your request as one for informal assistance under Regulation 18329(b) (2) (A) and (C) 2 1 You asked whether pro tern judges are required to file statements of economic interests (Form 721) under the provisions of the Political Reform Act. Regulation 18724 provides: Court commissioners, pro tern or retired judges shall not file statements of economic interests pursuant to Government Code Sections 87200, seq., if they serve or expect to serve less than 30 days in any 12 month period. Provided, however, that this section shall not excuse these individuals from any filing obligations imposed by a conflict of interest code adopted pursuant to Government Code Sections 87300, q. 1/ Government Code Sections 81000—91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations Section 18000, q. All references to regulations are to Title 2, Division 6 of the California Code of Regulations. 2/ Informal assistance does not provide the requestor with the immunity provided by an opinion or formal written advice. (Section 83114; Regulation 18329 (c)(3).) 428 J Street, Suite 800 • P.O. Box S0 • Sacramento, CA 95812 • (16) 322-5660 Veronica Jamba Our File No. G—92—387 Page 2 Regulation 18724 is applicable to judges who are assigned to hear cases on behalf of the County in its duty to provide judges to hear such cases. Judges who hear cases under a private agreement to which the County is not a party are not covered by Regulation 18724. I hope this letter satisfactorily responds to your question. Please call me at (916) 322-5662 if you have questions concerning this letter. Sincerely, Scott Hallabrin - Acting General Counsel J&(Lcc) By: Carla Wardlow Chief, Technical Assistance and Analysis Division",
+    "summary": "The FPPC confirms telephone advice regarding whether pro tem judges must file statements of economic interests under the Political Reform Act. The FPPC clarifies that pro tem judges serving less than 30 days per year are exempt from filing requirements unless local conflict of interest codes impose obligations, with applicability limited to County-assigned judges."
+  }
+}

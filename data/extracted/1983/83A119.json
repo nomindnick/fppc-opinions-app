@@ -1,0 +1,75 @@
+{
+  "id": "83A119",
+  "year": 1983,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1983/83A119.PDF",
+  "pdf_sha256": "b8cbf336ca27dbda309c6a17492088032da108bdee01c172b041682fc5dd9d6d",
+  "local_pdf_path": "raw_pdfs/1983/83A119.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1983 Advice Letter # 83A119",
+    "tags": [
+      "1983",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:33:13",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1983&tagCount=1&page=24"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T18:30:05.219173Z",
+    "page_count": 1,
+    "word_count": 172,
+    "char_count": 1090,
+    "quality_score": 0.9175381988295087,
+    "olmocr_cost": 0.00257398,
+    "native_word_count": 189
+  },
+  "content": {
+    "full_text": "Memorandum\n\nTo: Advice File: Sections 82036; 84206; 84216    Date: 4/19/83\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION\nJeanne Pritchard\n\nSubject: Reporting the receipt of a loan which is not a \"contribution\" on a \"Late Contribution Report\"\n\nThe staff has determined that when a loan which is not a \"contribution\" is received by a candidate or committee during the late contribution period, all required information for reporting loans must be included in the \"Late Contribution Report.\"\n\nPursuant to Section 84216, a loan received by a candidate or committee from a commercial lending institution in the ordinary course of business is not a \"contribution,\" but if the proceeds are used for political purposes, the loan must be reported in the manner described in Section 84211.\n\nTherefore, when a loan of $1,000 or more is received from a bank or other commercial lending institution during the late contribution period, the candidate or committee must report the bank or lending institution as the source of the loan, the amount, and the interest rate on the \"Late Contribution Report.\"",
+    "full_text_markdown": "Memorandum\n\nTo: Advice File: Sections 82036; 84206; 84216    Date: 4/19/83\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION\nJeanne Pritchard\n\nSubject: Reporting the receipt of a loan which is not a \"contribution\" on a \"Late Contribution Report\"\n\nThe staff has determined that when a loan which is not a \"contribution\" is received by a candidate or committee during the late contribution period, all required information for reporting loans must be included in the \"Late Contribution Report.\"\n\nPursuant to Section 84216, a loan received by a candidate or committee from a commercial lending institution in the ordinary course of business is not a \"contribution,\" but if the proceeds are used for political purposes, the loan must be reported in the manner described in Section 84211.\n\nTherefore, when a loan of $1,000 or more is received from a bank or other commercial lending institution during the late contribution period, the candidate or committee must report the bank or lending institution as the source of the loan, the amount, and the interest rate on the \"Late Contribution Report.\""
+  },
+  "parsed": {
+    "date": "1983-04-19",
+    "date_raw": "4/19/83",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [
+      "82036",
+      "84211",
+      "84216"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.6666666666666666,
+    "classified_at": "2026-02-20T18:30:05.219173Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "**Memorandum** To: Advice File: Sections 82036; 84206; 84216 Date: 4/19/83 From: FAIR POLITICAL PRACTICES COMMISSION Jeanne Pritchard Subject: Reporting the receipt of a loan which is not a \"contribution\" on a \"Late Contribution Report\" The staff has determined that when a loan which is not a \"contribution\" is received by a candidate or committee during the late contribution period, all required information for reporting loans must be included in the \"Late Contribution Report.\" Pursuant to Section 84216, a loan received by a candidate or committee from a commercial lending institution in the ordinary course of business is not a \"contribution,\" but if the proceeds are used for political purposes, the loan must be reported in the manner described in Section 84211. Therefore, when a loan of $1,000 or more is received from a bank or other commercial lending institution during the late contribution period, the candidate or committee must report the bank or lending institution as the source of the loan, the amount, and the interest rate on the \"Late Contribution Report.\"",
+    "qa_source": "extracted",
+    "first_500_words": "**Memorandum** To: Advice File: Sections 82036; 84206; 84216 Date: 4/19/83 From: FAIR POLITICAL PRACTICES COMMISSION Jeanne Pritchard Subject: Reporting the receipt of a loan which is not a \"contribution\" on a \"Late Contribution Report\" The staff has determined that when a loan which is not a \"contribution\" is received by a candidate or committee during the late contribution period, all required information for reporting loans must be included in the \"Late Contribution Report.\" Pursuant to Section 84216, a loan received by a candidate or committee from a commercial lending institution in the ordinary course of business is not a \"contribution,\" but if the proceeds are used for political purposes, the loan must be reported in the manner described in Section 84211. Therefore, when a loan of $1,000 or more is received from a bank or other commercial lending institution during the late contribution period, the candidate or committee must report the bank or lending institution as the source of the loan, the amount, and the interest rate on the \"Late Contribution Report.\"",
+    "summary": null
+  }
+}

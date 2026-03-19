@@ -1,0 +1,74 @@
+{
+  "id": "95-099",
+  "year": 1995,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/1995/95-099.pdf",
+  "pdf_sha256": "af0cabdd6ec5a226839e4db3bb113c1fbd967fbb1a6348c03c7e609d4ad030ab",
+  "local_pdf_path": "raw_pdfs/1995/95-099.pdf",
+  "source_metadata": {
+    "title_raw": "Rueda, Amy Year: 1995 Advice Letter # 95-099",
+    "tags": [
+      "1995",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:37:49",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1995&tagCount=1&page=15"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:58.534406Z",
+    "page_count": 2,
+    "word_count": 260,
+    "char_count": 1683,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 260
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\nApril 12,\n1995\nMs.\nAmy Rueda\nDistrict Office of\nAssemblywoman Grace F. Napolitano\nP.O.\nBox 408\nNorwalk,\nCA\n90650\nRe:\nYour Request for Confirmation\nof Telephone Advice\nOur File No.\n1—95-99\nDear Ms.\nRueda:\nWe have’ received your letter dated March 21,\n1995,\nseeking\nwritten confirmation of the telephone advice I provided to you on\nbehalf of Assemblywoman Napolitano regarding an event honoring\nwomen of the 58th Assembly District.\n1\n!\nBased on the facts provided in your telephone inquiry and\nreiterated in your letter, the provisions of the Political Reform\nAct\n2\n! would not prohibit Assemblywoman Napolitano’s participation\nat the April 1st luncheon.\nThe Assemblywoman’s role included\nmailing less than 200 invitations and coordinating the\npresentation of the awards.\nNo funds were collected by\nAssemblywoman Napolitano as each attendee paid her luncheon cost\ndirectly to the restaurant.\n1/\nInformal assistance does not provide the requestor with the\ni!nmunity provided by an opinion or formal written advice.\n(Government Code Section 83114;\n2 Cal.\nCode of Regs.\nSection\n18329(c) (3).)\n2/\nGovernment Code Sections 81000—91015.\nAll statutory\nreferences are to the Government Code unless otherwise indicated.\nCommission regulations appear at\n2 California Code of Regulations\nSection 18000,\n.\nAll references to regulations are to Title\n2, Division\n6 of the California Code of Regulations.\n428 J Street, Suite 800 •\nP.O. Box 807 •\nSacramento, CA\n95812 •\n(916) 322-5660\n\n\nI— 95—99\npage\n2\nIf you have other questions regarding this matter, please\ncontact me at\n(916)\n322-5660.\nCassady\nAssistant Division Chief\nTechnical Assistance Division\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1995-04-12",
+    "date_raw": "April 12,\n1995",
+    "requestor_name": "Rueda",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "informal_advice"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "Based on the facts provided in your telephone inquiry and reiterated in your letter, the provisions of the Political Reform Act would not prohibit Assemblywoman Napolitano's participation at the April 1st luncheon. The Assemblywoman's role included mailing less than 200 invitations and coordinating the presentation of the awards. No funds were collected by Assemblywoman Napolitano as each attendee paid her luncheon cost directly to the restaurant.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether Assemblywoman Napolitano's participation in an April 1st luncheon event honoring women of the 58th Assembly District, including mailing invitations and coordinating award presentations, would violate the Political Reform Act.",
+    "conclusion_synthetic": "The FPPC concluded that Assemblywoman Napolitano's participation at the luncheon would not violate the Political Reform Act. The permissible conduct included mailing fewer than 200 invitations, coordinating award presentations, and having attendees pay the restaurant directly rather than collecting funds through the Assemblywoman.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is confirmation of prior informal telephone advice. No formal QUESTION/CONCLUSION sections with headers, but question and conclusion are clearly identifiable in the letter body. Footnotes indicate this is informal assistance without statutory immunity. File number 1-95-99 matches document ID 95-099."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "83114"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "gifts_honoraria",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:34:58.534406Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether Assemblywoman Napolitano's participation in an April 1st luncheon event honoring women of the 58th Assembly District, including mailing invitations and coordinating award presentations, would violate the Political Reform Act.\n\nCONCLUSION: Based on the facts provided in your telephone inquiry and reiterated in your letter, the provisions of the Political Reform Act would not prohibit Assemblywoman Napolitano's participation at the April 1st luncheon. The Assemblywoman's role included mailing less than 200 invitations and coordinating the presentation of the awards. No funds were collected by Assemblywoman Napolitano as each attendee paid her luncheon cost directly to the restaurant.",
+    "qa_source": "mixed",
+    "first_500_words": "California Fair Political Practices Commission April 12, 1995 Ms. Amy Rueda District Office of Assemblywoman Grace F. Napolitano P.O. Box 408 Norwalk, CA 90650 Re: Your Request for Confirmation of Telephone Advice Our File No. 1—95-99 Dear Ms. Rueda: We have’ received your letter dated March 21, 1995, seeking written confirmation of the telephone advice I provided to you on behalf of Assemblywoman Napolitano regarding an event honoring women of the 58th Assembly District. 1 ! Based on the facts provided in your telephone inquiry and reiterated in your letter, the provisions of the Political Reform Act 2 ! would not prohibit Assemblywoman Napolitano’s participation at the April 1st luncheon. The Assemblywoman’s role included mailing less than 200 invitations and coordinating the presentation of the awards. No funds were collected by Assemblywoman Napolitano as each attendee paid her luncheon cost directly to the restaurant. 1/ Informal assistance does not provide the requestor with the i!nmunity provided by an opinion or formal written advice. (Government Code Section 83114; 2 Cal. Code of Regs. Section 18329(c) (3).) 2/ Government Code Sections 81000—91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations Section 18000, . All references to regulations are to Title 2, Division 6 of the California Code of Regulations. 428 J Street, Suite 800 • P.O. Box 807 • Sacramento, CA 95812 • (916) 322-5660 I— 95—99 page 2 If you have other questions regarding this matter, please contact me at (916) 322-5660. Cassady Assistant Division Chief Technical Assistance Division",
+    "summary": "The FPPC confirmed prior telephone advice that Assemblywoman Napolitano's participation in an April 1st luncheon event honoring women of her district would not violate the Political Reform Act, based on her limited role and the fact that attendees paid the restaurant directly."
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "83A156",
+  "year": 1983,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1983/83A156.PDF",
+  "pdf_sha256": "685e9fcfd89131cd7cd240063ad904f3a67df35e1acdfcdca418e9b4c958d6bd",
+  "local_pdf_path": "raw_pdfs/1983/83A156.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1983 Advice Letter # 83A156",
+    "tags": [
+      "1983",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:33:22",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1983&tagCount=1&page=26"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T18:00:11.722344Z",
+    "page_count": 1,
+    "word_count": 157,
+    "char_count": 1084,
+    "quality_score": 0.880002581706171,
+    "olmocr_cost": 0.00253356,
+    "native_word_count": 159
+  },
+  "content": {
+    "full_text": "Memorandum\n\nDATE: June 27, 1983\n\nTO: Opinion Request Meeting Participants\n\nFROM: Mary Ann MAK\n\nRE: Late Contributions\n\nRichard Eichman of Doobs and Nielsen called with the following question:\n\nIf a candidate's controlled committee transfers funds to another of his/her controlled committees during a late contribution period—is the transfer of funds considered a late contribution?\n\nAttached for your information is an advice letter sent to Supervisor John Molinari regarding the transferring of funds between controlled committees and whether or not this activity would require the filing of a threshold statement.\n\nCONCLUSION: It was concluded at the opinion request meeting of June 30, 1983, that transfers of funds from one candidate's controlled committee to another of his/her controlled committees during a late contribution period would not trigger a late contribution reporting obligation. The same conclusion was reached concerning the transfer of funds from a general purpose committee controlled by a candidate to another of his/her controlled committees.\n\nMAK\n6/30/83",
+    "full_text_markdown": "Memorandum\n\nDATE: June 27, 1983\n\nTO: Opinion Request Meeting Participants\n\nFROM: Mary Ann MAK\n\nRE: Late Contributions\n\nRichard Eichman of Doobs and Nielsen called with the following question:\n\nIf a candidate's controlled committee transfers funds to another of his/her controlled committees during a late contribution period—is the transfer of funds considered a late contribution?\n\nAttached for your information is an advice letter sent to Supervisor John Molinari regarding the transferring of funds between controlled committees and whether or not this activity would require the filing of a threshold statement.\n\nCONCLUSION: It was concluded at the opinion request meeting of June 30, 1983, that transfers of funds from one candidate's controlled committee to another of his/her controlled committees during a late contribution period would not trigger a late contribution reporting obligation. The same conclusion was reached concerning the transfer of funds from a general purpose committee controlled by a candidate to another of his/her controlled committees.\n\nMAK\n6/30/83"
+  },
+  "parsed": {
+    "date": "1983-06-27",
+    "date_raw": "June 27, 1983",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "It was concluded at the opinion request meeting of June 30, 1983, that transfers of funds from one candidate's controlled committee to another of his/her controlled committees during a late contribution period would not trigger a late contribution reporting obligation. The same conclusion was reached concerning the transfer of funds from a general purpose committee controlled by a candidate to another of his/her controlled committees.\n\nMAK\n6/30/83",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.44999999999999996,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-20T18:00:11.722344Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "CONCLUSION: It was concluded at the opinion request meeting of June 30, 1983, that transfers of funds from one candidate's controlled committee to another of his/her controlled committees during a late contribution period would not trigger a late contribution reporting obligation. The same conclusion was reached concerning the transfer of funds from a general purpose committee controlled by a candidate to another of his/her controlled committees.\n\nMAK\n6/30/83",
+    "qa_source": "extracted",
+    "first_500_words": "**Memorandum** DATE: June 27, 1983 TO: Opinion Request Meeting Participants FROM: Mary Ann MAK RE: Late Contributions Richard Eichman of Doobs and Nielsen called with the following question: If a candidate's controlled committee transfers funds to another of his/her controlled committees during a late contribution period—is the transfer of funds considered a late contribution? Attached for your information is an advice letter sent to Supervisor John Molinari regarding the transferring of funds between controlled committees and whether or not this activity would require the filing of a threshold statement. CONCLUSION: It was concluded at the opinion request meeting of June 30, 1983, that transfers of funds from one candidate's controlled committee to another of his/her controlled committees during a late contribution period would not trigger a late contribution reporting obligation. The same conclusion was reached concerning the transfer of funds from a general purpose committee controlled by a candidate to another of his/her controlled committees. MAK 6/30/83",
+    "summary": null
+  }
+}

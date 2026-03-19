@@ -1,0 +1,75 @@
+{
+  "id": "77A-306",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77A-306.PDF",
+  "pdf_sha256": "a8e05f1f9a5901f8a5043fe06f3eebefb9b8452276c3eb0f6bd5243f76ab4671",
+  "local_pdf_path": "raw_pdfs/1977/77A-306.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977A Advice Letter # 77A-306",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:19:05",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=2"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:11.792455Z",
+    "page_count": 1,
+    "word_count": 233,
+    "char_count": 1498,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 233
+  },
+  "content": {
+    "full_text": "State of California \nMemorandum \nTo \nFile \nDate \n: November 23, 1977 \nBarbara Campbell \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nSubject: Advice on Government Code Section 84202 \nJim McKelvey, the Fresno City Attorney, called on \nNovember 17, 1977, to ask what \"deadline\" meant in \nGovernment Code Section 84202, in connection with a local \nrecall drive. \nThe circulator of a Fresno recall has until November 29, \n1977, to submit the petitions. \nUnder Election Code Section \n87212 the clerk must ascertain within 20 days after the recall \npetition is filed whether there is the requisite number of \nsignatures. \nIf the petition is certified as insufficient, \nElection Code Section 87214 provides there may be ten additional \ndays, after the date of the insufficiency certification, within \nwhich to supplement the petition. \nMr. McKelvey wondered whether the deadline would be \nNovember 29, 1977, or the date ten days after the Clerk makes \nthe certification of insufficienty. \nMr. McKelvey is quite \ncertain that such a certification will be made in the case of \nthis particular recall attempt. \nAfter consultation with \nTed Prim and Mike Baker on this issue, I advised Mr. McKelvey \non November 18, 1977, that the deadline for campaign state-\nments for committees supporting or opposing the qualification \nof that recall would be 35 days after the petitions were \nfinally sUbmitted, which would not occur until after the ten \nsupplemental days allowed by Election Code Section 87214 had \nrun. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1977-11-23",
+    "date_raw": "November 23, 1977",
+    "requestor_name": null,
+    "requestor_title": "City Attorney",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "What 'deadline' meant in Government Code Section 84202 in connection with a local recall drive, and specifically whether the deadline would be November 29, 1977, or the date ten days after the Clerk makes the certification of insufficiency.",
+    "conclusion": "The deadline for campaign statements for committees supporting or opposing the qualification of that recall would be 35 days after the petitions were finally submitted, which would not occur until after the ten supplemental days allowed by Election Code Section 87214 had run.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The Fresno City Attorney asked whether the campaign statement deadline under Government Code Section 84202 for a recall petition would be November 29, 1977, or ten days after the clerk certifies the petition as insufficient, given the extension provisions in Election Code Section 87214.",
+    "conclusion_synthetic": "The FPPC advised that the campaign statement deadline is 35 days after petitions are finally submitted, meaning it runs from the date after the ten-day supplemental period under Election Code Section 87214 expires, not from the initial November 29, 1977 deadline.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Memorandum format without traditional section headers; question and conclusion content extracted from narrative text. Document is undated in header but dated November 23, 1977. Advice was given verbally on November 18, 1977 per the memo."
+  },
+  "citations": {
+    "government_code": [
+      "84202",
+      "87212",
+      "87214"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.6666666666666666,
+    "classified_at": "2026-02-06T18:37:11.792455Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: What 'deadline' meant in Government Code Section 84202 in connection with a local recall drive, and specifically whether the deadline would be November 29, 1977, or the date ten days after the Clerk makes the certification of insufficiency.\n\nCONCLUSION: The deadline for campaign statements for committees supporting or opposing the qualification of that recall would be 35 days after the petitions were finally submitted, which would not occur until after the ten supplemental days allowed by Election Code Section 87214 had run.",
+    "qa_source": "mixed",
+    "first_500_words": "State of California Memorandum To File Date : November 23, 1977 Barbara Campbell From FAIR POLITICAL PRACTICES COMMISSION Subject: Advice on Government Code Section 84202 Jim McKelvey, the Fresno City Attorney, called on November 17, 1977, to ask what \"deadline\" meant in Government Code Section 84202, in connection with a local recall drive. The circulator of a Fresno recall has until November 29, 1977, to submit the petitions. Under Election Code Section 87212 the clerk must ascertain within 20 days after the recall petition is filed whether there is the requisite number of signatures. If the petition is certified as insufficient, Election Code Section 87214 provides there may be ten additional days, after the date of the insufficiency certification, within which to supplement the petition. Mr. McKelvey wondered whether the deadline would be November 29, 1977, or the date ten days after the Clerk makes the certification of insufficienty. Mr. McKelvey is quite certain that such a certification will be made in the case of this particular recall attempt. After consultation with Ted Prim and Mike Baker on this issue, I advised Mr. McKelvey on November 18, 1977, that the deadline for campaign state- ments for committees supporting or opposing the qualification of that recall would be 35 days after the petitions were finally sUbmitted, which would not occur until after the ten supplemental days allowed by Election Code Section 87214 had run.",
+    "summary": "FPPC provided advice to the Fresno City Attorney regarding the campaign statement deadline for a local recall drive, clarifying that the 35-day deadline runs from when petitions are finally submitted, including any supplemental filing periods allowed by Election Code Section 87214."
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "80A077",
+  "year": 1980,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1980/80A077.PDF",
+  "pdf_sha256": "ad16f09405cac1d026e5c2a185712baf9e245a8263c3963c52714c74f13f113d",
+  "local_pdf_path": "raw_pdfs/1980/80A077.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1980 Advice Letter # 80A077",
+    "tags": [
+      "1980",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:27:45",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1980&tagCount=1&page=12"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:04.614079Z",
+    "page_count": 1,
+    "word_count": 275,
+    "char_count": 1722,
+    "quality_score": 0.6325000000000001,
+    "olmocr_cost": null,
+    "native_word_count": 275
+  },
+  "content": {
+    "full_text": "State of California \nMemora \num \nTo \nFile \nDate \n: Feb. 15, 1980 \nFrom \nFAIR POUTICAL PRACTICES COMMISSION \nSarah Cameron \nSubiect:Filing obligations of studen t members of Communi ty College \nBoards \nAt the opinion request meeting of February 8, 1980 the \nstaff decided that student members of the boards of trustees \n(or whatever) of community college districts should be required \nto file statements of economic interests. \nStudent members are appo nted pursuant to Education Code \nSection 72023.5, which provides in part that: \nA nonvoting \nnt member shall be seated with the \nmembers of the governing board and shall be recogniz \nas a full member of the board at the meetings, including \nreceiving \n1 materials presented to the board members \nand participating in the questioning of witnesses and the \ndiscuss \nf issue . \nThe nonvoting student member shall not be included \nin determinimg the vote requi \nto carry any measure \nbefore \nrd. \nThe staff .thought that these provisions meant that the \nstudent member was not \"making decisions\" wi \nin the meaning of \nthe Act, but that they were \"participating in making decisions.\" \nUnder our regulations, participating in decisions includes: \nAdvises or makes recommendations to the decision-\nmaker, either directly or without significant interveLing \nsubstantive review, by: \n(8) Preparing or presentirg any report, analysis or \nion, oral \nor \nn writing, which requires the exercise \njudgment on the part of \nfficial or designated \nand \npurpose of which is to influence the \ndecision. \nIt seems that the purpose of having \njust this -- to advi \ntheir \nisions, by p \nth \nop nion of the s \nthe \ntud \nt member \non \ne \nhe board, with the \nenting the students' \nent member. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1980-02-08",
+    "date_raw": "February 8, 1980",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether student members of community college district boards of trustees, who are appointed as non-voting members, are required to file statements of economic interests under the Political Reform Act.",
+    "conclusion_synthetic": "Student members of community college boards should be required to file statements of economic interests because they participate in making decisions by advising the board and presenting student opinions and recommendations, which constitutes participation in decision-making under the Act's regulations.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.75,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is internal FPPC memorandum without formal QUESTION/CONCLUSION headers; question and conclusion reconstructed from narrative text. Some OCR errors present (e.g., 'Memora um', 'appo nted', 'widthout'). No formal question section found despite clear legal analysis."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [
+      "94-032"
+    ],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:04.614079Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether student members of community college district boards of trustees, who are appointed as non-voting members, are required to file statements of economic interests under the Political Reform Act.\n\nCONCLUSION: Student members of community college boards should be required to file statements of economic interests because they participate in making decisions by advising the board and presenting student opinions and recommendations, which constitutes participation in decision-making under the Act's regulations.",
+    "qa_source": "synthetic",
+    "first_500_words": "State of California Memora um To File Date : Feb. 15, 1980 From FAIR POUTICAL PRACTICES COMMISSION Sarah Cameron Subiect:Filing obligations of studen t members of Communi ty College Boards At the opinion request meeting of February 8, 1980 the staff decided that student members of the boards of trustees (or whatever) of community college districts should be required to file statements of economic interests. Student members are appo nted pursuant to Education Code Section 72023.5, which provides in part that: A nonvoting nt member shall be seated with the members of the governing board and shall be recogniz as a full member of the board at the meetings, including receiving 1 materials presented to the board members and participating in the questioning of witnesses and the discuss f issue . The nonvoting student member shall not be included in determinimg the vote requi to carry any measure before rd. The staff .thought that these provisions meant that the student member was not \"making decisions\" wi in the meaning of the Act, but that they were \"participating in making decisions.\" Under our regulations, participating in decisions includes: Advises or makes recommendations to the decision- maker, either directly or without significant interveLing substantive review, by: (8) Preparing or presentirg any report, analysis or ion, oral or n writing, which requires the exercise judgment on the part of fficial or designated and purpose of which is to influence the decision. It seems that the purpose of having just this -- to advi their isions, by p th op nion of the s the tud t member on e he board, with the enting the students' ent member.",
+    "summary": "An internal FPPC memorandum from February 15, 1980 concluding that student members of community college district boards of trustees must file statements of economic interests, as their advisory role and participation in board discussions constitutes participation in decision-making under the Political Reform Act."
+  }
+}

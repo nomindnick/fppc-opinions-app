@@ -1,0 +1,72 @@
+{
+  "id": "77ADV-77-030",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-030.PDF",
+  "pdf_sha256": "ce7a0d5f11f7b55534272f9d84503e49979e69f780e6995a6a99359b5871119a",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-030.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-030",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:20:07",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=16"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T04:03:04.059360Z",
+    "page_count": 3,
+    "word_count": 390,
+    "char_count": 2599,
+    "quality_score": 0.8878548298072779,
+    "olmocr_cost": 0.00757058,
+    "native_word_count": 130,
+    "haiku_cost": 0.006555999999999999
+  },
+  "content": {
+    "full_text": "July 8, 1977\n\nA-77-07-030\n\nMr. John P. Falconer\nSecretary/Treasurer\nSan Diego County Deputy\nSheriffs' Association\n5555 Mildred Street\nSan Diego, California 92110\n\nDear Mr. Falconer:\n\nThank you for your letter of June 29, 1977. In your letter\nyou ask if an association can make political contributions\nwith funds that have not been specifically set aside for that\npurpose. There is nothing in the Political Reform Act that\nprohibits associations from making political contributions\nfrom existing funds. The Association's funds need not be\n\"earmarked\" (set aside) for political purposes in order to\nmake a political contribution.\n\nYou also ask whether an association must file as a committee if\nthe donations are under $500 total for the calendar year. If the\nAssociation's political contributions do not total $500, there\nis no obligation to file as a committee. However, if within the\nsame calendar year the Association begins collecting money for\nthe purpose of making a political contribution, that total must\nbe added to the contributions already made. When the cumulative\namount totals $500 the Association becomes a committee and must\nfile accordingly.\n\nI hope the above clarifies for you the questions posed in your\nletter. Please let me know if I can be of further assistance.\n\nSincerely,\n\nMary Ann Kvasager\nTechnical Assistance and\nAnalysis Division\n\nArnold L. Markey                     -2-                    August 3, 1977\n\n\nEnclosed are some guidelines and forms which should be of some\nassistance to you. If you require additional information, please\ndo not hesitate to let us know or contact your local election\noffice in the city or county clerk's office.\n\nVery truly yours,\n\n\n\nRegina Siciliano-Kutchins\nTechnical Assistance Program\n Coordinator\n\nRSK/st\n\nEnclosures\n\n170230\n\nSan Diego County Deputy Sheriffs' Association\n\n5555 MILDRED STREET\nSAN DIEGO, CALIFORNIA 92110\nTELEPHONE 291-2570\n\nJune 29, 1977\n\nMary Ann Kvasager\nTechnical Assistance and Analysis Division\nSTATE OF CALIFORNIA\nFair Political Practices Commission\nP.O. Box 807\nSacramento, Calif. 95804\n\nDear Ms. Kvasager:\n\nPer our telephone conversation date same, I am forwarding\nthe following questions for clarification.\n\n1. Can an association make political contributions with\nfunds that have not been specifically set aside for\nthat purpose?\n\n2. Must an association file as a committee if the donations\nare under $500.00 total for the year?\n\nI would appreciate an expedient answer, at your convenience\nof course. Thank you for your cooperation.\n\nSincerely,\n\nJohn F. Falconer, Sec/Treasurer\nS.D.C.D.S.A.\n\nJFF/pja\n\ncc: File",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1977-07-08",
+    "date_raw": "July 8, 1977",
+    "requestor_name": "Falconer",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "1. Can an association make political contributions with funds that have not been specifically set aside for that purpose?\n\n2. Must an association file as a committee if the donations are under $500.00 total for the year?",
+    "conclusion": "There is nothing in the Political Reform Act that prohibits associations from making political contributions from existing funds. The Association's funds need not be \"earmarked\" (set aside) for political purposes in order to make a political contribution. If the Association's political contributions do not total $500, there is no obligation to file as a committee. However, if within the same calendar year the Association begins collecting money for the purpose of making a political contribution, that total must be added to the contributions already made. When the cumulative amount totals $500 the Association becomes a committee and must file accordingly.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The San Diego County Deputy Sheriffs' Association asks whether associations can make political contributions from existing funds without earmarking them for that purpose, and whether filing as a committee is required if total donations are below $500 in a calendar year.",
+    "conclusion_synthetic": "Associations may make political contributions from existing funds without earmarking them, and no committee filing is required if total contributions remain below $500 in a calendar year. However, when contributions reach $500 cumulatively—including any newly collected funds designated for political purposes—the association must register and file as a committee.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document includes both incoming request (June 29, 1977) and FPPC response letters (July 8 and August 3, 1977). Primary response by Mary Ann Kvasager provides clear Q&A format. Follow-up letter by Regina Siciliano-Kutchins is administrative in nature."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-08T17:16:51.516690Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: 1. Can an association make political contributions with funds that have not been specifically set aside for that purpose?\n\n2. Must an association file as a committee if the donations are under $500.00 total for the year?\n\nCONCLUSION: There is nothing in the Political Reform Act that prohibits associations from making political contributions from existing funds. The Association's funds need not be \"earmarked\" (set aside) for political purposes in order to make a political contribution. If the Association's political contributions do not total $500, there is no obligation to file as a committee. However, if within the same calendar year the Association begins collecting money for the purpose of making a political contribution, that total must be added to the contributions already made. When the cumulative amount totals $500 the Association becomes a committee and must file accordingly.",
+    "qa_source": "mixed",
+    "first_500_words": "July 8, 1977 Mr. John F. Falconer Secretary/Treasurer San Diego County Deputy Sheriffs' Association 5555 Mildred Street San Diego, California 92110 Dear Mr. Falconer: Thank you for your letter of June 29, 1977. In your letter you ask if an association can make political contributions with funds that have not been specifically set aside for that purpose. There is nothing in the Political Reform Act that prohibits associations from making political contributions from existing funds. The Association's funds need not be \"earmarked\" (set aside) for political purposes in order to make a political contribution. You also ask whether an association must file as a committee if the donations are under $500 total for the calendar year. If the Association's political contributions do not total $500, there is no obligation to file as a committee. However, if within the same calendar year the Association begins collecting money for the purpose of making a political contribution, that total must be added to the contributions already made. When the cumulative amount totals $500 the Association becomes a committee and must file accordingly. I hope the above clarifies for you the questions posed in your letter. Please let me know if I can be of further assistance. Sincerely, Mary Ann Kvasager Technical Assistance and Analysis Division Arnold L. Markey August 3, 1977 Enclosed are some guidelines and forms which should be of some assistance to you. If you require additional information, please do not hesitate to let us know or contact your local election office in the city or county clerk's office. Very truly yours, Regina Siciliano-Kutchins Technical Assistance Program Coordinator RSK/gt Enclosures San Diego County Deputy Sheriffs' Association 5555 MILDRED STREET SAN DIEGO, CALIFORNIA 92110 TELEPHONE 291-2570 June 29, 1977 Mary Ann Kvasager Technical Assistance and Analysis Division STATE OF CALIFORNIA Fair Political Practices Commission P.O. Box 807 Sacramento, Calif. 95804 Dear Ms. Kvasager: Per our telephone conversation date same, I am forwarding the following questions for clarification. 1. Can an association make political contributions with funds that have not been specifically set aside for that purpose? 2. Must an association file as a committee if the donations are under $500.00 total for the year? I would appreciate an expedient answer, at your convenience of course. Thank you for your cooperation. Sincerely, John F. Falconer, Sec/Treasurer S.D.C.D.S.A. JFF/pja cc: File",
+    "summary": "The FPPC advises the San Diego County Deputy Sheriffs' Association that political contributions can be made from general funds without earmarking, and filing as a committee is only required when cumulative contributions reach $500 in a calendar year."
+  }
+}

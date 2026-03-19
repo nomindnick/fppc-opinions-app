@@ -1,0 +1,73 @@
+{
+  "id": "92-596",
+  "year": 1992,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1992/92-596.pdf",
+  "pdf_sha256": "8b715979519c9386b72324e2c8ab1d124872276e0b76020f83cd2bf287810bd8",
+  "local_pdf_path": "raw_pdfs/1992/92-596.pdf",
+  "source_metadata": {
+    "title_raw": "Song, J. Year: 1992 Advice Letter # 92-596",
+    "tags": [
+      "Advice Letter",
+      "1992"
+    ],
+    "scraped_at": "2026-01-31 16:26:26",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1992&tagCount=1&page=49"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:16.443548Z",
+    "page_count": 1,
+    "word_count": 225,
+    "char_count": 1449,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 225
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\nNovember 17,\n1992\nJean Song\nFriends of Xavier Becerra\n112 5.\nTaylor Avenue\nMontebello,\nCA\n90640\nRE:\nYour Request for Confirmation\nof Telephone Advice\nOur File No.\nA-92—596\nDear Ms.\nSong:\nYou have requested confirmation of telephone advice provided\nto you on behalf of the Friends of Xavier Becerra Committee\nconcerning the campaign provisions of the Political Reform Act.\n(Government Code Sections 81000—91015.)\nYour letter of October 22,\n1992,\ncorrectly summarizes my\nadvice that the Friends of Xavier Becerra Committee was not\nrequired to file the 2nd pre-election campaign statement due\nOctober 22nd in connection with the November 3,\n1992 election.\nAssemblyman Becerra is running for U.S.\nCongress and made a\ncontribution out of his personal funds to support another\ncongressional candidate.\nThe Friends of Xavier Becerra Committee\nhad not received any contributions or made any expenditures during\nthe period of October\n1 through October 17,\n1992.\nThe committee\nwill be required to file its next campaign statement by January\n31,\n1993,\ncovering the period from the day after the closing date\nof the last campaign statement filed through December 31,\n1992.\nIf you have any questions concerning this letter, please\ncontact me at 916/322—5661.\nSincerely,\nScott Hallabrin\nActing General Counsel\nPolitical Reform Consultant\n428 j Street, Suite 800\n•\nRU. Box 807\n•\nSacramento, CA\n95812\n•\n(916) 322-5660\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1992-11-17",
+    "date_raw": "November 17,\n1992",
+    "requestor_name": "Song",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether the Friends of Xavier Becerra Committee was required to file a second pre-election campaign statement for the November 3, 1992 election.",
+    "conclusion_synthetic": "The Friends of Xavier Becerra Committee was not required to file the second pre-election campaign statement due October 22, 1992, because it had received no contributions and made no expenditures during October 1-17, 1992. The committee's next required filing is a campaign statement due January 31, 1993, covering October 18, 1992 through December 31, 1992.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is confirmation of prior telephone advice rather than an initial response to a written request. No formal QUESTION or CONCLUSION section headers present; information extracted from letter body. Strong confidence in extraction of key facts and legal conclusion."
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:35:16.443548Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether the Friends of Xavier Becerra Committee was required to file a second pre-election campaign statement for the November 3, 1992 election.\n\nCONCLUSION: The Friends of Xavier Becerra Committee was not required to file the second pre-election campaign statement due October 22, 1992, because it had received no contributions and made no expenditures during October 1-17, 1992. The committee's next required filing is a campaign statement due January 31, 1993, covering October 18, 1992 through December 31, 1992.",
+    "qa_source": "synthetic",
+    "first_500_words": "California Fair Political Practices Commission November 17, 1992 Jean Song Friends of Xavier Becerra 112 5. Taylor Avenue Montebello, CA 90640 RE: Your Request for Confirmation of Telephone Advice Our File No. A-92—596 Dear Ms. Song: You have requested confirmation of telephone advice provided to you on behalf of the Friends of Xavier Becerra Committee concerning the campaign provisions of the Political Reform Act. (Government Code Sections 81000—91015.) Your letter of October 22, 1992, correctly summarizes my advice that the Friends of Xavier Becerra Committee was not required to file the 2nd pre-election campaign statement due October 22nd in connection with the November 3, 1992 election. Assemblyman Becerra is running for U.S. Congress and made a contribution out of his personal funds to support another congressional candidate. The Friends of Xavier Becerra Committee had not received any contributions or made any expenditures during the period of October 1 through October 17, 1992. The committee will be required to file its next campaign statement by January 31, 1993, covering the period from the day after the closing date of the last campaign statement filed through December 31, 1992. If you have any questions concerning this letter, please contact me at 916/322—5661. Sincerely, Scott Hallabrin Acting General Counsel Political Reform Consultant 428 j Street, Suite 800 • RU. Box 807 • Sacramento, CA 95812 • (916) 322-5660",
+    "summary": "FPPC confirmation letter to the Friends of Xavier Becerra Committee advising that no second pre-election campaign statement was required for the November 3, 1992 election due to lack of contributions or expenditures, with next filing deadline of January 31, 1993."
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "77ADV-77-149",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-149.PDF",
+  "pdf_sha256": "f47fc05ac29aad116e7288c84e5368e63b24c87c297fa3a97f6493b3a35de64b",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-149.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-149",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:20:20",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=19"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:13.617253Z",
+    "page_count": 2,
+    "word_count": 274,
+    "char_count": 1619,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 274
+  },
+  "content": {
+    "full_text": "State of California \nMemorandum \nTo \nFile \nDate \nJan. 13, 1977 \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nKen Finney \nSubject: \nTelephone conversation with Judge Timlin. \nIn a telephone conversation January 12, 1977, with Judge \nTimlin of the Corona Municipal Court I advised him that \nthe money he had put into the Keogh Plan would not create \nany \nreporting obligations under the Political Reform Act. \nI told him that the appropriate way to treat the Keogh \nPlan funds was to look through the Keogh Plan to the uses \nto which he had put the funds. \nIn his particular case, \n80% of the funds were put into a savings account and 20% \nof the funds were put into the American Bar Association \nRetirement Plan (which in turn invests funds). \nSince \nnei ther of these uses of the funds amounted to an \"investment\" \nwithin the meaning of the Act, I advised the Judge that he \nhad no reporting obligations. \nThis was based on the fact \nthat in neither situation did the Judge acquire any type \nof ownership interest in a business entity. \nDawn Wiser had spoken to the Judge earlier and I advised \nher of this disposition and told her to commit it to a \nmemorandum. \nKF: jo \n\n\nState of ~alifornia \nMemorandum \nTo \nAdvi(;.e Files \n1-4-77 \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nDawn \nSubject: \nOn 1-3-77, Judge Timlin from the Corona Municipal Court \ncalled and inquired as to the reporting requirements of \nthe Political Reform Act. \nHe asked whether interest he \nreceived from a Keogh plan is reportable as income. \nI \ninformed his that it is not reportable because it is ln \nthe nature of interest on a bank account. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1977-01-12",
+    "date_raw": "January 12, 1977",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Whether interest received from a Keogh plan is reportable as income under the Political Reform Act, and whether funds placed in a Keogh Plan create any reporting obligations.",
+    "conclusion": "The money put into the Keogh Plan would not create any reporting obligations under the Political Reform Act. The appropriate way to treat the Keogh Plan funds is to look through the Keogh Plan to the uses to which the funds were put. Since neither the savings account (80% of funds) nor the American Bar Association Retirement Plan (20% of funds) amounted to an 'investment' within the meaning of the Act, and the Judge did not acquire any type of ownership interest in a business entity, he had no reporting obligations.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Judge Timlin inquired whether interest income from a Keogh Plan and the placement of funds into a Keogh Plan create reporting obligations under the Political Reform Act.",
+    "conclusion_synthetic": "FPPC advised that Keogh Plan contributions and interest do not create reporting obligations under the Political Reform Act because the underlying uses of funds (savings accounts and retirement plans) do not constitute reportable investments, as they do not involve acquiring ownership interests in business entities.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document consists of two related memoranda documenting the same advice: one from Ken Finney (FPPC staff) summarizing a January 12, 1977 telephone conversation with Judge Timlin, and one from Dawn Wiser documenting a January 3, 1977 inquiry from the same judge. No formal Q/C sections; advice documented in narrative memorandum format. Both memoranda address the same legal question with consistent conclusion."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:13.617253Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether interest received from a Keogh plan is reportable as income under the Political Reform Act, and whether funds placed in a Keogh Plan create any reporting obligations.\n\nCONCLUSION: The money put into the Keogh Plan would not create any reporting obligations under the Political Reform Act. The appropriate way to treat the Keogh Plan funds is to look through the Keogh Plan to the uses to which the funds were put. Since neither the savings account (80% of funds) nor the American Bar Association Retirement Plan (20% of funds) amounted to an 'investment' within the meaning of the Act, and the Judge did not acquire any type of ownership interest in a business entity, he had no reporting obligations.",
+    "qa_source": "mixed",
+    "first_500_words": "State of California Memorandum To File Date Jan. 13, 1977 From FAIR POLITICAL PRACTICES COMMISSION Ken Finney Subject: Telephone conversation with Judge Timlin. In a telephone conversation January 12, 1977, with Judge Timlin of the Corona Municipal Court I advised him that the money he had put into the Keogh Plan would not create any reporting obligations under the Political Reform Act. I told him that the appropriate way to treat the Keogh Plan funds was to look through the Keogh Plan to the uses to which he had put the funds. In his particular case, 80% of the funds were put into a savings account and 20% of the funds were put into the American Bar Association Retirement Plan (which in turn invests funds). Since nei ther of these uses of the funds amounted to an \"investment\" within the meaning of the Act, I advised the Judge that he had no reporting obligations. This was based on the fact that in neither situation did the Judge acquire any type of ownership interest in a business entity. Dawn Wiser had spoken to the Judge earlier and I advised her of this disposition and told her to commit it to a memorandum. KF: jo State of ~alifornia Memorandum To Advi(;.e Files 1-4-77 From FAIR POLITICAL PRACTICES COMMISSION Dawn Subject: On 1-3-77, Judge Timlin from the Corona Municipal Court called and inquired as to the reporting requirements of the Political Reform Act. He asked whether interest he received from a Keogh plan is reportable as income. I informed his that it is not reportable because it is ln the nature of interest on a bank account.",
+    "summary": "FPPC provided telephone advice to Judge Timlin of Corona Municipal Court regarding reporting obligations for a Keogh Plan, determining that neither contributions to nor interest from the plan creates reporting requirements under the Political Reform Act because the underlying investments do not constitute reportable investments."
+  }
+}

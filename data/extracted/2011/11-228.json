@@ -1,0 +1,82 @@
+{
+  "id": "11-228",
+  "year": 2011,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2011/11-228.pdf",
+  "pdf_sha256": "99ab137e3d8b6052ecdfac169d8f9f482b2ac8d6dee618b17d362514df9a1a1e",
+  "local_pdf_path": "raw_pdfs/2011/11-228.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2011 Advice Letter # 11-228",
+    "tags": [
+      "2011",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:53:14",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2011&tagCount=1&page=9"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:33:47.368043Z",
+    "page_count": 2,
+    "word_count": 498,
+    "char_count": 3155,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 498
+  },
+  "content": {
+    "full_text": "FAIR POLITICAL PRACTICES COMMISSION \n428 J Street • Suite 620 • Sacramento, CA 95814-2329 \n(916) 322-5660 • Fax (916) 322-0886 \nRobert Hartsock \nMcMurtrey, Hartsock & Worth \n2011 22nd St, Suite 100 \nBakersfield, CA 93301 \nDecember 21, 2011 \nRe: \nYour Request for Advice \nOur File No.: W-11-228 \nDear Mr. Noble: \nThis letter is in response to your request for written advice on Government Code \nSection 1090 and its application to potential water sales between the Buena Vista Water \nStorage District and the Semitropic Water Storage District. Under the provisions of \nRegulation 18329(b)(8)(D), copy enclosed, we must decline your request for advice. \nGovernment Code Section 1090 is outside the purview of the Fair Political \nPractices Commission, and we advise only on laws in the Political Reform Act.1 \n(Government Code sections 81000-91014.) You may wish to discuss your question with \nthe Office of the Attorney General. \nIn addition, as we discussed in our December 14, 2011 telephone call, Directors \nRon Torigiani and John Vidovich may also potentially have conflicts of interests under \nthe Act if they have economic interests in business entities in which they have a direct or \nindirect investment of $2,000 or more. (Section 87103(a); Regulation 18703.l(a).) \nWhether the financial effect of a governmental decision on an indirectly involved \nbusiness entity is material depends on the size of the business entity. The standards vary \naccording to whether the business entity is a Fortune 500 company, is listed on the New \nYork Stock Exchange, American Stock Exchange, or NASDAQ, or according to the size \nof the business entity. (Regulation 18705.1) If certain financial thresholds are met under \n1 For your information we enclose the pamphlet \"Can I Vote\" which discusses conflicts of \ninterest under the Political Reform Act. \n\n\nRegulation 18705.1, the directors would have a conflict of interest in a given decision and \nmust recuse themselves from participating in the decision.2 \nIf you determine in the future you need conflict of interest advice under the Act, \nfeel free to submit a new advice request. If you have any questions, please contact me at \n(916) 322-5660 . \nER:jgl \nEnclosures \nSincerely, \nP \n%\u0003\u0004\u0005< \n(/ \nEmelyn Rodriguez \nU \nCommission Counsel \nLegal Division \n2 If a public official's office is listed in section 87200 and he or she has a conflict of interest in a \ndecision nC.:iiced at a public meeting, then he or she must: (I) immediately prior to the discussio<f! of the \nitem, verbally identify each type of economic interest involved in the decision as well as details of the \neconomic interest, as discussed in regulation l 8702.5(b)(l)(B), on the record of the meeting; (2) recuse \nhimself or herself; and (3) leave the room for the duration of the discussion and/or vote on the item. For \nclosed sessions, consent calendars, absences and speaking as a member of the public regarding personal \ninterests, special rules found in regulation 18702.5, sub-divisions (c) and (d) apply. (Section 87105.) \nPlease note that these provisions would apply to water board members only if they manage public \ninvestments. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2011-12-21",
+    "date_raw": "December 21, 2011",
+    "requestor_name": "Noble",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "Government Code Section 1090 is outside the purview of the Fair Political Practices Commission, and we advise only on laws in the Political Reform Act (Government Code sections 81000-91014). The requester is advised to contact the Office of the Attorney General regarding Section 1090. Regarding potential conflicts of interest under the Act for Directors Torigiani and Vidovich: if they have direct or indirect investments of $2,000 or more in business entities affected by a governmental decision, and the financial effect meets materiality thresholds under Regulation 18705.1, they would have a conflict of interest and must recuse themselves from participating in the decision.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requester asked for FPPC advice on Government Code Section 1090 and its application to potential water sales between two water storage districts, and raised concerns about potential conflicts of interest for two directors with economic interests in related business entities.",
+    "conclusion_synthetic": "The FPPC declines to advise on Government Code Section 1090 as it falls outside the Political Reform Act. However, the FPPC provides guidance that the two named directors may have conflicts of interest under the Act if they have $2,000+ investments in affected business entities and the financial impact meets materiality standards under Regulation 18705.1, in which case they must recuse themselves.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is a declination letter with no explicit QUESTION or CONCLUSION sections, but contains a clear legal question and FPPC response integrated into the letter body. The file number format (W-11-228) and reference to Regulation 18329(b)(8)(D) confirm this is a formal declination. Addressee discrepancy noted: letter addressed to 'Mr. Noble' but on letterhead for 'Robert Hartsock' of McMurtrey, Hartsock & Worth firm."
+  },
+  "citations": {
+    "government_code": [
+      "1090",
+      "81000",
+      "87103(a)",
+      "87105",
+      "87200"
+    ],
+    "regulations": [
+      "18329",
+      "18702.5",
+      "18703",
+      "18705.1"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.8,
+    "classified_at": "2026-02-06T18:33:47.368043Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The requester asked for FPPC advice on Government Code Section 1090 and its application to potential water sales between two water storage districts, and raised concerns about potential conflicts of interest for two directors with economic interests in related business entities.\n\nCONCLUSION: Government Code Section 1090 is outside the purview of the Fair Political Practices Commission, and we advise only on laws in the Political Reform Act (Government Code sections 81000-91014). The requester is advised to contact the Office of the Attorney General regarding Section 1090. Regarding potential conflicts of interest under the Act for Directors Torigiani and Vidovich: if they have direct or indirect investments of $2,000 or more in business entities affected by a governmental decision, and the financial effect meets materiality thresholds under Regulation 18705.1, they would have a conflict of interest and must recuse themselves from participating in the decision.",
+    "qa_source": "mixed",
+    "first_500_words": "FAIR POLITICAL PRACTICES COMMISSION 428 J Street • Suite 620 • Sacramento, CA 95814-2329 (916) 322-5660 • Fax (916) 322-0886 Robert Hartsock McMurtrey, Hartsock & Worth 2011 22nd St, Suite 100 Bakersfield, CA 93301 December 21, 2011 Re: Your Request for Advice Our File No.: W-11-228 Dear Mr. Noble: This letter is in response to your request for written advice on Government Code Section 1090 and its application to potential water sales between the Buena Vista Water Storage District and the Semitropic Water Storage District. Under the provisions of Regulation 18329(b)(8)(D), copy enclosed, we must decline your request for advice. Government Code Section 1090 is outside the purview of the Fair Political Practices Commission, and we advise only on laws in the Political Reform Act.1 (Government Code sections 81000-91014.) You may wish to discuss your question with the Office of the Attorney General. In addition, as we discussed in our December 14, 2011 telephone call, Directors Ron Torigiani and John Vidovich may also potentially have conflicts of interests under the Act if they have economic interests in business entities in which they have a direct or indirect investment of $2,000 or more. (Section 87103(a); Regulation 18703.l(a).) Whether the financial effect of a governmental decision on an indirectly involved business entity is material depends on the size of the business entity. The standards vary according to whether the business entity is a Fortune 500 company, is listed on the New York Stock Exchange, American Stock Exchange, or NASDAQ, or according to the size of the business entity. (Regulation 18705.1) If certain financial thresholds are met under 1 For your information we enclose the pamphlet \"Can I Vote\" which discusses conflicts of interest under the Political Reform Act. Regulation 18705.1, the directors would have a conflict of interest in a given decision and must recuse themselves from participating in the decision.2 If you determine in the future you need conflict of interest advice under the Act, feel free to submit a new advice request. If you have any questions, please contact me at (916) 322-5660 . ER:jgl Enclosures Sincerely, P %\u0003\u0004\u0005< (/ Emelyn Rodriguez U Commission Counsel Legal Division 2 If a public official's office is listed in section 87200 and he or she has a conflict of interest in a decision nC.:iiced at a public meeting, then he or she must: (I) immediately prior to the discussio<f! of the item, verbally identify each type of economic interest involved in the decision as well as details of the economic interest, as discussed in regulation l 8702.5(b)(l)(B), on the record of the meeting; (2) recuse himself or herself; and (3) leave the room for the duration of the discussion and/or vote on the item. For closed sessions, consent calendars, absences and speaking as a member of the public regarding personal interests, special rules found in regulation 18702.5, sub-divisions (c) and (d) apply. (Section 87105.) Please note that these provisions would apply to water board members only if they manage public investments.",
+    "summary": "The FPPC declines a request for advice on Government Code Section 1090 regarding water sales between two districts, as that statute is outside the FPPC's jurisdiction. The letter provides guidance on potential conflicts of interest for two directors under the Political Reform Act based on their business interests."
+  }
+}

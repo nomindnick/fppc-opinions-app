@@ -1,0 +1,73 @@
+{
+  "id": "13-085W",
+  "year": 2013,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2013/13-085W.pdf",
+  "pdf_sha256": "eb44fc00beaf15b09ee4d14206fb06b4047433e1ca802a431b4fd3b3d4b7c424",
+  "local_pdf_path": "raw_pdfs/2013/13-085W.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2013 Advice Letter # 13-085W",
+    "tags": [
+      "Advice Letter",
+      "2013"
+    ],
+    "scraped_at": "2026-01-31 14:55:50",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2013&tagCount=1&page=2"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:33:36.851954Z",
+    "page_count": 1,
+    "word_count": 208,
+    "char_count": 1340,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 208
+  },
+  "content": {
+    "full_text": "FAIR POLITICAL PRACTICES COMMISSION \n428 J Street • Suite 620 • Sacramento, CA 95814-2329 \nSarah Carrillo \nCounty Counsel \n2 South Green Street \nSonora, California 95370 \nRe: \nYour Request for Advice \nOur File No. W-13-085 \nDear Ms. Carrillo: \n(916) 322-5660 • Fax. (916) 322-0886 \nJuly 3, 2013 \nThis letter responds to your request for advice regarding your agency's Connict of \nInterest Code under the Political Reform Act (the \"Act\").1 After our conversation on July 3, \n2013, you agreed to the withdrawal of your request for advice. Also, as we discussed, we have \nforwarded your request for code review to the proper party within our agency and your advice \nrequest has been withdrawn. \nIf you have other questions on this matter, please contact me at (916) 322-5660. \nHMW:jgl \nSincerely, \nZackery P. Morazzini \nGeneral Counsel \nBy: \nHeather M. Rowan \nSenior Counsel, Legal Di vision \n1 The Political Reform Act is contained in Government Code Sections 81000 through 9101-L All statutory \nreferences arc to the Government Code. unles!> otherwise indicated. The regulations of the Fair Political Practices \nCommission arc contained in Sections 18110 through 18997 of Title 2 of the California Code or Regulations. All \nregulatory references arc to Title 2. Division 6 of the California Code of Regulations. unless otherwise indicated. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2013-07-03",
+    "date_raw": "July 3, 2013",
+    "requestor_name": "Carrillo",
+    "requestor_title": "County Counsel",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requester sought advice regarding a county agency's Conflict of Interest Code under the Political Reform Act, but subsequently agreed to withdraw the request.",
+    "conclusion_synthetic": "The FPPC confirmed withdrawal of the advice request and noted that the code review request has been forwarded to the appropriate party within the agency.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Withdrawal letter with no traditional QUESTION or CONCLUSION sections. Document confirms mutual agreement to withdraw after July 3, 2013 conversation. Request for code review was referred to appropriate FPPC division."
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:33:36.851954Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The requester sought advice regarding a county agency's Conflict of Interest Code under the Political Reform Act, but subsequently agreed to withdraw the request.\n\nCONCLUSION: The FPPC confirmed withdrawal of the advice request and noted that the code review request has been forwarded to the appropriate party within the agency.",
+    "qa_source": "synthetic",
+    "first_500_words": "FAIR POLITICAL PRACTICES COMMISSION 428 J Street • Suite 620 • Sacramento, CA 95814-2329 Sarah Carrillo County Counsel 2 South Green Street Sonora, California 95370 Re: Your Request for Advice Our File No. W-13-085 Dear Ms. Carrillo: (916) 322-5660 • Fax. (916) 322-0886 July 3, 2013 This letter responds to your request for advice regarding your agency's Connict of Interest Code under the Political Reform Act (the \"Act\").1 After our conversation on July 3, 2013, you agreed to the withdrawal of your request for advice. Also, as we discussed, we have forwarded your request for code review to the proper party within our agency and your advice request has been withdrawn. If you have other questions on this matter, please contact me at (916) 322-5660. HMW:jgl Sincerely, Zackery P. Morazzini General Counsel By: Heather M. Rowan Senior Counsel, Legal Di vision 1 The Political Reform Act is contained in Government Code Sections 81000 through 9101-L All statutory references arc to the Government Code. unles!> otherwise indicated. The regulations of the Fair Political Practices Commission arc contained in Sections 18110 through 18997 of Title 2 of the California Code or Regulations. All regulatory references arc to Title 2. Division 6 of the California Code of Regulations. unless otherwise indicated.",
+    "summary": "This is a withdrawal letter where the FPPC confirms that Sarah Carrillo, County Counsel, agreed to withdraw her request for advice regarding her agency's Conflict of Interest Code. The FPPC has forwarded the code review request to the proper internal party."
+  }
+}

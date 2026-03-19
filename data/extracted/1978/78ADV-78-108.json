@@ -1,0 +1,73 @@
+{
+  "id": "78ADV-78-108",
+  "year": 1978,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1978/78ADV-78-108.PDF",
+  "pdf_sha256": "3b18b59ac104ee7981cf3b419bc773c12ba75228f6fb5fb317c6ea43cf25cc2f",
+  "local_pdf_path": "raw_pdfs/1978/78ADV-78-108.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1978ADV Advice Letter # 78ADV-78-108",
+    "tags": [
+      "Advice Letter",
+      "1978"
+    ],
+    "scraped_at": "2026-01-31 15:23:51",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=14"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:09.732413Z",
+    "page_count": 1,
+    "word_count": 165,
+    "char_count": 1136,
+    "quality_score": 0.6675,
+    "olmocr_cost": null,
+    "native_word_count": 165
+  },
+  "content": {
+    "full_text": "Ms. Regina Kutchins \n(t>OBBS & NIELSEN \n~\"'tr':yj an,/'t;\"'71Jd;wJ at .:1:\"\" \nITlttsoo, THE ALCOA BUILDING \nONE MARITIME PLAZA \nSAN FRANCISCO, CA 94111 \nTELEPHONE (415) 362~1940 \nApril 28, 1978 \nPara Political Practices Commission \nSacramento, CA \nDear Ms. Kutchins: \nThis office inquired today regarding the applicability of \nFPPC Regulation-18116, adopted by the commission on 12-8-77, \nrelating to filing deadlines which fallon a Saturday, Sunday \nor official state holiday. \nAlthough the language of the regulation refers to all \nstatements or reports, the regulation makes reference to \nGovernment Code §81005, which deals only with Chapter 4 Cam-\npaign Filings. \nWe inquired whether the regulation also encompasses Govern-\nment Code §§81005.1 and 81005.2, respectively dealing with \nChapter 6 (Lobbying Reports) and Chapter 7 (Statement of Econo-\nmic Interest Reports) . \nWe were advised by your staff that the regulation includes \nall types of filings. \nWe intend to rely upon this advice. \nSincerely, \n~A~ \nPeter A. Bagatelos \nPAB/mw \nSACRAMENTO OFFICE -\nSUITE 900. 1006 FOURTH STREET. SACRAMENTO. CA. 95814 \n(9161 443-2051 \nI \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1978-04-28",
+    "date_raw": "April 28, 1978",
+    "requestor_name": "Kutchins",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Does FPPC Regulation 18116 regarding filing deadline extensions for weekends and holidays apply to Chapter 6 (Lobbying Reports) and Chapter 7 (Statement of Economic Interest Reports) filings, or only to Chapter 4 (Campaign Filings)?",
+    "conclusion_synthetic": "FPPC staff advised that Regulation 18116 encompasses all types of filings, including Lobbying Reports and Statement of Economic Interest Reports.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.75,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an incoming correspondence documenting an attorney's inquiry and FPPC staff's oral advice response, not a formal FPPC advice letter. No formal QUESTION or CONCLUSION sections present. The document summarizes the inquiry and staff response rather than providing formal legal analysis. Classified as correspondence rather than formal advice_letter."
+  },
+  "citations": {
+    "government_code": [
+      "81005"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:37:09.732413Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Does FPPC Regulation 18116 regarding filing deadline extensions for weekends and holidays apply to Chapter 6 (Lobbying Reports) and Chapter 7 (Statement of Economic Interest Reports) filings, or only to Chapter 4 (Campaign Filings)?\n\nCONCLUSION: FPPC staff advised that Regulation 18116 encompasses all types of filings, including Lobbying Reports and Statement of Economic Interest Reports.",
+    "qa_source": "synthetic",
+    "first_500_words": "Ms. Regina Kutchins (t>OBBS & NIELSEN ~\"'tr':yj an,/'t;\"'71Jd;wJ at .:1:\"\" ITlttsoo, THE ALCOA BUILDING ONE MARITIME PLAZA SAN FRANCISCO, CA 94111 TELEPHONE (415) 362~1940 April 28, 1978 Para Political Practices Commission Sacramento, CA Dear Ms. Kutchins: This office inquired today regarding the applicability of FPPC Regulation-18116, adopted by the commission on 12-8-77, relating to filing deadlines which fallon a Saturday, Sunday or official state holiday. Although the language of the regulation refers to all statements or reports, the regulation makes reference to Government Code §81005, which deals only with Chapter 4 Cam- paign Filings. We inquired whether the regulation also encompasses Govern- ment Code §§81005.1 and 81005.2, respectively dealing with Chapter 6 (Lobbying Reports) and Chapter 7 (Statement of Econo- mic Interest Reports) . We were advised by your staff that the regulation includes all types of filings. We intend to rely upon this advice. Sincerely, ~A~ Peter A. Bagatelos PAB/mw SACRAMENTO OFFICE - SUITE 900. 1006 FOURTH STREET. SACRAMENTO. CA. 95814 (9161 443-2051 I",
+    "summary": "This is correspondence from an attorney documenting an inquiry made to FPPC staff regarding the scope of Regulation 18116 concerning filing deadline extensions and confirming that the regulation applies to all filing types under Government Code sections 81005, 81005.1, and 81005.2."
+  }
+}

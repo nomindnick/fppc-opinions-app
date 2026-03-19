@@ -1,0 +1,73 @@
+{
+  "id": "78ADV-78-240",
+  "year": 1978,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1978/78ADV-78-240.PDF",
+  "pdf_sha256": "293335eb1c34e2af6d4d19bdb79006ebe4a1015f8cfeaadb299552f6cec6a035",
+  "local_pdf_path": "raw_pdfs/1978/78ADV-78-240.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1978ADV Advice Letter # 78ADV-78-240",
+    "tags": [
+      "Advice Letter",
+      "1978"
+    ],
+    "scraped_at": "2026-01-31 15:25:10",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=32"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:11.459424Z",
+    "page_count": 1,
+    "word_count": 57,
+    "char_count": 365,
+    "quality_score": 0.425,
+    "olmocr_cost": null,
+    "native_word_count": 57
+  },
+  "content": {
+    "full_text": "State of California \nMemorandum \nTo \nFile (Third Floor) \nDate \nOct. 16, 1978 \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nBob Stern \nSubject: \nSection 86107 (d) \nA lobbyist and a legislative official are buying \na piece of property together. \nEach is putting up the \nsame amount of money; each is receiving the same share. \nThere is no reportable exchange. \nRMS:nc \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "There is no reportable exchange.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a joint real property purchase between a lobbyist and a legislative official, with equal contributions and equal ownership shares, constitutes a reportable exchange under Section 86107(d).",
+    "conclusion_synthetic": "The FPPC concludes that when a lobbyist and legislative official purchase property together with equal financial contributions and equal ownership shares, no reportable exchange occurs under Section 86107(d).",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.75,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Informal memorandum format without traditional QUESTION/CONCLUSION headers. Document appears to be internal FPPC correspondence. RMS initials likely indicate author, with 'nc' possibly indicating 'no changes' or similar notation."
+  },
+  "citations": {
+    "government_code": [
+      "86107(d)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "lobbying",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:37:11.459424Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether a joint real property purchase between a lobbyist and a legislative official, with equal contributions and equal ownership shares, constitutes a reportable exchange under Section 86107(d).\n\nCONCLUSION: There is no reportable exchange.",
+    "qa_source": "mixed",
+    "first_500_words": "State of California Memorandum To File (Third Floor) Date Oct. 16, 1978 From FAIR POLITICAL PRACTICES COMMISSION Bob Stern Subject: Section 86107 (d) A lobbyist and a legislative official are buying a piece of property together. Each is putting up the same amount of money; each is receiving the same share. There is no reportable exchange. RMS:nc",
+    "summary": "An FPPC memorandum addressing whether a joint real property purchase between a lobbyist and legislative official with equal contributions and ownership shares creates a reportable exchange, concluding it does not."
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "01-066",
+  "year": 2001,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2001/01-066.pdf",
+  "pdf_sha256": "85f7589f78c6d00434c7cae3f1afe0895b6274628691e382abd5664e9bdabc47",
+  "local_pdf_path": "raw_pdfs/2001/01-066.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2001 Advice Letter # 01-066",
+    "tags": [
+      "2001",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:33:21",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2001&tagCount=1&page=8"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:30.061200Z",
+    "page_count": 2,
+    "word_count": 280,
+    "char_count": 1882,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 280
+  },
+  "content": {
+    "full_text": "F,lrn Polrrrcar Pnacrrcrs C ouurssroN\nP.O. Box 807 . 428 J Street. Sacramento, CA 95812-0807\n(9t6) 322-5660 . Fax (916) 322-0886\nApril3,2001\nFazle Rab Quadri\nDistrict Counsel\nMojave Desert Air Quality Management District\n14306 Park Avenue\nVictorville, CA 92392\nRe: Your Request for Advice\nOur File No. G-01-066\nDear Mr. Quadri\nThis is in response to your request for information on behalf of District Board\nMember Bill Postmus, who is also an elected member of the San Bernardino County\nBoard of Supervisors, concerning the campaign disclosure provisions of the Political\nReform Act (the \"Act\").I\nYou have asked whether the $100 threshold for itemizing contributions received,\nas established in section842llfi), has changed. Although several legislative\namendments to the Act's reporting provisions went into effect on January 1, 2001, there\nhas been no change in the $100 threshold for itemizing contributions. For your\ninformation, enclosed is a copy of the Commission's November 2000 FPPC Bulletin,\nwhich contains a summary of the legislative changes (see pages 17-18).\nIn addition, Proposition 34 was approved by the voters in the November 2000\nGeneral Election and made significant changes to the Act's campaign provisions.\nAlthough most of the changes enacted in Proposition 34 affect candidates for elective\nstate office and state committees, several provisions are applicable to local candidates\nand officeholders as well. A chart explaining these provisions is also enclosed.\n' Gou. Code sections 81000-91014. Commission regulations appear at Title 2, sections 18109-18996, of\nthe California Code of Regulations.\n\n\nFazle Rab Quadri\nOur File No. G-01-066\nPage2\nIf you need additional assistance, please contact me at our toll-free number (866)\n275-3772.\nSincerely,\nLuisa Menchaca\nGeneral Counsel\nC*LLr)urtLn,-t\nBy:\nCarla Wardlow\nDivision Chief\nTechnical Assistance Division\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2001-04-03",
+    "date_raw": "April3,2001",
+    "requestor_name": "Quadri\nThis",
+    "requestor_title": "District Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether the $100 threshold for itemizing campaign contributions has changed under the Political Reform Act, and what the impact of recent legislative amendments and Proposition 34 are on campaign disclosure provisions for local officials.",
+    "conclusion_synthetic": "The $100 threshold for itemizing contributions remains unchanged despite legislative amendments effective January 1, 2001 and the passage of Proposition 34 in November 2000. While Proposition 34 made significant changes to state campaign provisions, several provisions also apply to local candidates and officeholders.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: No explicit QUESTION or CONCLUSION sections found; content and structure parsed from letter format. Response addresses campaign disclosure thresholds for District Board Member with dual local offices."
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [
+      "18109"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:34:30.061200Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether the $100 threshold for itemizing campaign contributions has changed under the Political Reform Act, and what the impact of recent legislative amendments and Proposition 34 are on campaign disclosure provisions for local officials.\n\nCONCLUSION: The $100 threshold for itemizing contributions remains unchanged despite legislative amendments effective January 1, 2001 and the passage of Proposition 34 in November 2000. While Proposition 34 made significant changes to state campaign provisions, several provisions also apply to local candidates and officeholders.",
+    "qa_source": "synthetic",
+    "first_500_words": "F,lrn Polrrrcar Pnacrrcrs C ouurssroN P.O. Box 807 . 428 J Street. Sacramento, CA 95812-0807 (9t6) 322-5660 . Fax (916) 322-0886 April3,2001 Fazle Rab Quadri District Counsel Mojave Desert Air Quality Management District 14306 Park Avenue Victorville, CA 92392 Re: Your Request for Advice Our File No. G-01-066 Dear Mr. Quadri This is in response to your request for information on behalf of District Board Member Bill Postmus, who is also an elected member of the San Bernardino County Board of Supervisors, concerning the campaign disclosure provisions of the Political Reform Act (the \"Act\").I You have asked whether the $100 threshold for itemizing contributions received, as established in section842llfi), has changed. Although several legislative amendments to the Act's reporting provisions went into effect on January 1, 2001, there has been no change in the $100 threshold for itemizing contributions. For your information, enclosed is a copy of the Commission's November 2000 FPPC Bulletin, which contains a summary of the legislative changes (see pages 17-18). In addition, Proposition 34 was approved by the voters in the November 2000 General Election and made significant changes to the Act's campaign provisions. Although most of the changes enacted in Proposition 34 affect candidates for elective state office and state committees, several provisions are applicable to local candidates and officeholders as well. A chart explaining these provisions is also enclosed. ' Gou. Code sections 81000-91014. Commission regulations appear at Title 2, sections 18109-18996, of the California Code of Regulations. Fazle Rab Quadri Our File No. G-01-066 Page2 If you need additional assistance, please contact me at our toll-free number (866) 275-3772. Sincerely, Luisa Menchaca General Counsel C*LLr)urtLn,-t By: Carla Wardlow Division Chief Technical Assistance Division",
+    "summary": "FPPC advice letter confirming that the $100 contribution itemization threshold under Political Reform Act Section 84211(f) has not changed, and providing information about January 2001 legislative amendments and Proposition 34's impact on campaign disclosure requirements."
+  }
+}

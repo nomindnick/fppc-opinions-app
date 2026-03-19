@@ -1,0 +1,71 @@
+{
+  "id": "83A066",
+  "year": 1983,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1983/83A066.PDF",
+  "pdf_sha256": "bd0aa19d3f35760bce77931357363be796d3ec0eb1b27bbfd5ed8924e34b82b5",
+  "local_pdf_path": "raw_pdfs/1983/83A066.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1983 Advice Letter # 83A066",
+    "tags": [
+      "1983",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:32:16",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1983&tagCount=1&page=11"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:52.127329Z",
+    "page_count": 1,
+    "word_count": 242,
+    "char_count": 1486,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 242
+  },
+  "content": {
+    "full_text": "State of California \nMemorandum \nTo \n: '.-'!i an; IiO'Q \nRa~1Ii88l:; thu~;iii~ ~pem:t& \nDote \n:2/3/83 \n,5:+ \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nJeanne \nSub~~ Reporting dates of contributions made \nIs the \"date a contribution is made\" the date the \ncontribution is authorized or the date the check is \nissued? \nI have been getting calls from corporations which \nfile major donor campaign statements expressing horror \nand trepidation that they are now going to be required \nto report the dates of contributions. \nIt is a problem because they have computerized \naccounting and billing systems, and the date the check \nis issued may differ from the date the contribution is \nauthorized. \nThe person who authorizes the contribution \n(and who prepares the campaign statements) never knows \nwhen the check is actually issued. \nThe check may be \nissued anywhere from 24 hours to a month and a half after \nthe authorization. \nIt seems to me that at the time the contribution \nis authorized the company has made a decision to make an \nexpenditure and has, in effect, committed the funds, \nand that is the date the contribution has been made. \nCONCLUSION: \nIt is permissible for committees to use the authorization \ndate as the date of contribution. \nI checked with Helen \nFong at PRAD, and she indicated that so long as it is \nclear from the committee's records that the date used is \nthe authorization date, rather than the date of the \ncheck, it will not present an auditing problem. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1983-02-03",
+    "date_raw": "2/3/83",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Is the \"date a contribution is made\" the date the contribution is authorized or the date the check is issued?",
+    "conclusion": "It is permissible for committees to use the authorization \ndate as the date of contribution. \nI checked with Helen \nFong at PRAD, and she indicated that so long as it is \nclear from the committee's records that the date used is \nthe authorization date, rather than the date of the \ncheck, it will not present an auditing problem.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether for campaign finance reporting purposes, the date a contribution is made should be the date it is authorized or the date the check is issued.",
+    "conclusion_synthetic": "Committees may use the authorization date as the contribution date rather than the check issuance date, provided that the committee's records clearly identify that the authorization date was used for reporting purposes.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern; LLM: Standard advice letter format with clear question and conclusion sections. Document appears to be a memorandum-style response from Jeanne at FPPC to recipient regarding contribution reporting dates."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:36:52.127329Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Is the \"date a contribution is made\" the date the contribution is authorized or the date the check is issued?\n\nCONCLUSION: It is permissible for committees to use the authorization \ndate as the date of contribution. \nI checked with Helen \nFong at PRAD, and she indicated that so long as it is \nclear from the committee's records that the date used is \nthe authorization date, rather than the date of the \ncheck, it will not present an auditing problem.",
+    "qa_source": "mixed",
+    "first_500_words": "State of California Memorandum To : '.-'!i an; IiO'Q Ra~1Ii88l:; thu~;iii~ ~pem:t& Dote :2/3/83 ,5:+ From FAIR POLITICAL PRACTICES COMMISSION Jeanne Sub~~ Reporting dates of contributions made Is the \"date a contribution is made\" the date the contribution is authorized or the date the check is issued? I have been getting calls from corporations which file major donor campaign statements expressing horror and trepidation that they are now going to be required to report the dates of contributions. It is a problem because they have computerized accounting and billing systems, and the date the check is issued may differ from the date the contribution is authorized. The person who authorizes the contribution (and who prepares the campaign statements) never knows when the check is actually issued. The check may be issued anywhere from 24 hours to a month and a half after the authorization. It seems to me that at the time the contribution is authorized the company has made a decision to make an expenditure and has, in effect, committed the funds, and that is the date the contribution has been made. CONCLUSION: It is permissible for committees to use the authorization date as the date of contribution. I checked with Helen Fong at PRAD, and she indicated that so long as it is clear from the committee's records that the date used is the authorization date, rather than the date of the check, it will not present an auditing problem.",
+    "summary": "FPPC advice letter responding to questions from corporations about reporting dates for campaign contributions, clarifying that the authorization date may be used instead of the check issuance date."
+  }
+}

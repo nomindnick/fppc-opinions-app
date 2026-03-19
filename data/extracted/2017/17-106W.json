@@ -1,0 +1,74 @@
+{
+  "id": "17-106W",
+  "year": 2017,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2017/17-106W.pdf",
+  "pdf_sha256": "b9e01e00959e828de2fc18b694f69800b8eb6a920714450c47677f126d341c5e",
+  "local_pdf_path": "raw_pdfs/2017/17-106W.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2017 Advice Letter # 17-106W",
+    "tags": [
+      "Advice Letter",
+      "2017"
+    ],
+    "scraped_at": "2026-01-31 15:03:23",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2017&tagCount=1&page=22"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:33:15.847840Z",
+    "page_count": 1,
+    "word_count": 207,
+    "char_count": 1310,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 207
+  },
+  "content": {
+    "full_text": "STATE OF CALIFORNIA \nFAIR POLITICAL PRACTICES COMMISSION \n428 ,J Street• Suite 620 • Sacramento, CA 95814-2329 \n(916) 322-5660 • Fax (916) 322-0886 \nBryan Bondy \n1048 8 Graham Ct. \nVentura, CA 93004 \nRe: \nYour Request for Advice \nOur File No. W-17-106 \nDear Mr. Bondy: \nMay 26,2017 \nThis letter responds to your request for advice regarding the conflict of interest provisions of \nGovernment Code section 1090. Your request involves a consultant contract between you and the \nCity of San Buenaventura for a hydro geological study related to a potable reuse project. In our \ntelephone conversation of May 16, 2017, you stated that the City sent you a request for proposal, \nand that you submitted a proposal to the City. You have since received notification from the City \nthat you are the preferred contractor for the project. \nAlthough the Commission has the jurisdiction to issue advice under Section 1090, we are \nunable to issue such advice where, as here, it relates to past conduct. (Section 1097.l(c)(2).) \nAccordingly, we decline to issue advice in this matter and consider the request withdrawn. \nIf you have other questions on this matter, please contact me at (916) 322-5660. \nBy: \nECR:jgl \nSincerely, \nHyla P. Wagner \nGeneral Counsel \n\u0003,4-,-\u0004J \nEmelyn C. Rodriguez \nSenior Counsel, Legal Division \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2017-05-26",
+    "date_raw": "May 26,2017",
+    "requestor_name": "Bondy",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "Although the Commission has the jurisdiction to issue advice under Section 1090, we are unable to issue such advice where, as here, it relates to past conduct. (Section 1097.l(c)(2).) Accordingly, we decline to issue advice in this matter and consider the request withdrawn.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a consultant contract between the requestor and the City of San Buenaventura for a hydrogeological study related to a potable reuse project creates a conflict of interest under Government Code section 1090.",
+    "conclusion_synthetic": "The FPPC declined to issue advice because the request relates to past conduct, which falls outside the Commission's authority to provide prospective advice under Section 1090.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is a withdrawal letter where the FPPC declines to issue advice due to temporal limitations on its jurisdiction (past conduct rather than prospective). No formal QUESTION or CONCLUSION sections are present, but the letter contains clear statements of the legal issue and the reason for declining advice."
+  },
+  "citations": {
+    "government_code": [
+      "1090",
+      "1097"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:33:15.847840Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether a consultant contract between the requestor and the City of San Buenaventura for a hydrogeological study related to a potable reuse project creates a conflict of interest under Government Code section 1090.\n\nCONCLUSION: Although the Commission has the jurisdiction to issue advice under Section 1090, we are unable to issue such advice where, as here, it relates to past conduct. (Section 1097.l(c)(2).) Accordingly, we decline to issue advice in this matter and consider the request withdrawn.",
+    "qa_source": "mixed",
+    "first_500_words": "STATE OF CALIFORNIA FAIR POLITICAL PRACTICES COMMISSION 428 ,J Street• Suite 620 • Sacramento, CA 95814-2329 (916) 322-5660 • Fax (916) 322-0886 Bryan Bondy 1048 8 Graham Ct. Ventura, CA 93004 Re: Your Request for Advice Our File No. W-17-106 Dear Mr. Bondy: May 26,2017 This letter responds to your request for advice regarding the conflict of interest provisions of Government Code section 1090. Your request involves a consultant contract between you and the City of San Buenaventura for a hydro geological study related to a potable reuse project. In our telephone conversation of May 16, 2017, you stated that the City sent you a request for proposal, and that you submitted a proposal to the City. You have since received notification from the City that you are the preferred contractor for the project. Although the Commission has the jurisdiction to issue advice under Section 1090, we are unable to issue such advice where, as here, it relates to past conduct. (Section 1097.l(c)(2).) Accordingly, we decline to issue advice in this matter and consider the request withdrawn. If you have other questions on this matter, please contact me at (916) 322-5660. By: ECR:jgl Sincerely, Hyla P. Wagner General Counsel \u0003,4-,-\u0004J Emelyn C. Rodriguez Senior Counsel, Legal Division",
+    "summary": "The FPPC declined to issue advice regarding a potential conflict of interest under Government Code section 1090 concerning a consultant contract with the City of San Buenaventura, finding that the request relates to past conduct and therefore withdrew the request."
+  }
+}

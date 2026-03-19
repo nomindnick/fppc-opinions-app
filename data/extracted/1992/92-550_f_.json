@@ -1,0 +1,77 @@
+{
+  "id": "92-550(f)",
+  "year": 1992,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1992/92-550(f).pdf",
+  "pdf_sha256": "c3ecf2fed641b538fdb8c477b5e72b029bd28d5716e7a432724bf570eb5ae16f",
+  "local_pdf_path": "raw_pdfs/1992/92-550(f).pdf",
+  "source_metadata": {
+    "title_raw": "Year: 1992 Advice Letter # 92-550(f)",
+    "tags": [
+      "Advice Letter",
+      "1992"
+    ],
+    "scraped_at": "2026-01-31 16:25:27",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1992&tagCount=1&page=36"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:14.875194Z",
+    "page_count": 2,
+    "word_count": 318,
+    "char_count": 2003,
+    "quality_score": 0.8,
+    "olmocr_cost": null,
+    "native_word_count": 318
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\nOctober 23,\n1992\nStephanie A.\nAtigh\nCity Attorney\nCity of Salinas\nOffice of the City Attorney\n200 Lincoln Avenue\nSalinas,\nCA\n93901\nRe:\nYour Request for Advice\nOur File No.\nA-92-550f\nDear Ms.\nAtigh:\nYou have requested additional advice concerning the conflict—\nof-interest provisions of the Political Reform Act\n(the “Act”)’ on\nbehalf of Councilmember Caballero.\nYou have not provided any ad\nditional facts and the facts are as stated in letter No.\nA-92-550.\nOUESTION\nUnder the Act,\nmay Councilmeinber Caballero participate in the\ndecision whether maintenance work for the assessment district\nshould be performed by the city or by outside contractors?\nCONCLUSION\nMs.\nCaballero may not participate in the decision if it will\nresult in her personal expenses,\nincome, assets or liabilities\nincreasing or decreasing by at least $250.\nANALYSIS\nRegulation 18702.1(a) (4)\nprovides that the effect of a deci\nsion is material if it will “result in the personal expenses,\nincome,\nassets\n(other than interest in real property),\nor\nliabilities of the official or his or her immediate family\nincreasing or decreasing by at least $250.”\nMs.\nCaballero owns property in the assessment district.\nIf\nthe preliminary decision regarding whether the maintenance work is\nperformed by the city or outside contractors will have an effect\nof $250 or more on Ms.\nCaballero,\nshe may not participate in the\ndecision.\n1\nGovernment Code Sections 81000-91015.\nAll statutory\nreference are to the Government Code otherwise indicated.\nCommission regulations appear at\n2 California Code of Regulations\n428 J Street, Suite 800 •\nP.O. Box 807 •\nSacramento, CA\n95812 •\n(916) 322-5660\n\n\nOur File No.\n92—550f\nPage\n2\nShould you have any further questions,\nyou may contact me at\n(916)\n322—5901.\nSincerely,\nScott Hallabrin\nActing General Counsel\nBy:\nCo sel,\nLegal Division\nSH:JS :dl\nSection 18000, g, g.\nAll references to regulations are to Title\n2, Division\n6 of the California Code of Regulations.\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1992-10-23",
+    "date_raw": "October 23,\n1992",
+    "requestor_name": "Atigh",
+    "requestor_title": "City Attorney",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Under the Act,\nmay Councilmeinber Caballero participate in the\ndecision whether maintenance work for the assessment district\nshould be performed by the city or by outside contractors?",
+    "conclusion": "Ms.\nCaballero may not participate in the decision if it will\nresult in her personal expenses,\nincome, assets or liabilities\nincreasing or decreasing by at least $250.",
+    "facts": null,
+    "analysis": "Regulation 18702.1(a) (4)\nprovides that the effect of a deci\nsion is material if it will “result in the personal expenses,\nincome,\nassets\n(other than interest in real property),\nor\nliabilities of the official or his or her immediate family\nincreasing or decreasing by at least $250.”\nMs.\nCaballero owns property in the assessment district.\nIf\nthe preliminary decision regarding whether the maintenance work is\nperformed by the city or outside contractors will have an effect\nof $250 or more on Ms.\nCaballero,\nshe may not participate in the\ndecision.\n •\n(916) 322-5660\n\n\nOur File No.\n92—550f",
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.85,
+    "has_standard_format": true,
+    "parsing_notes": "Mixed formats: modern, ocr"
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [
+      "18702.1"
+    ],
+    "prior_opinions": [
+      "A-92-550"
+    ],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:35:14.875194Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Under the Act,\nmay Councilmeinber Caballero participate in the\ndecision whether maintenance work for the assessment district\nshould be performed by the city or by outside contractors?\n\nCONCLUSION: Ms.\nCaballero may not participate in the decision if it will\nresult in her personal expenses,\nincome, assets or liabilities\nincreasing or decreasing by at least $250.",
+    "qa_source": "extracted",
+    "first_500_words": "California Fair Political Practices Commission October 23, 1992 Stephanie A. Atigh City Attorney City of Salinas Office of the City Attorney 200 Lincoln Avenue Salinas, CA 93901 Re: Your Request for Advice Our File No. A-92-550f Dear Ms. Atigh: You have requested additional advice concerning the conflict— of-interest provisions of the Political Reform Act (the “Act”)’ on behalf of Councilmember Caballero. You have not provided any ad ditional facts and the facts are as stated in letter No. A-92-550. OUESTION Under the Act, may Councilmeinber Caballero participate in the decision whether maintenance work for the assessment district should be performed by the city or by outside contractors? CONCLUSION Ms. Caballero may not participate in the decision if it will result in her personal expenses, income, assets or liabilities increasing or decreasing by at least $250. ANALYSIS Regulation 18702.1(a) (4) provides that the effect of a deci sion is material if it will “result in the personal expenses, income, assets (other than interest in real property), or liabilities of the official or his or her immediate family increasing or decreasing by at least $250.” Ms. Caballero owns property in the assessment district. If the preliminary decision regarding whether the maintenance work is performed by the city or outside contractors will have an effect of $250 or more on Ms. Caballero, she may not participate in the decision. 1 Government Code Sections 81000-91015. All statutory reference are to the Government Code otherwise indicated. Commission regulations appear at 2 California Code of Regulations 428 J Street, Suite 800 • P.O. Box 807 • Sacramento, CA 95812 • (916) 322-5660 Our File No. 92—550f Page 2 Should you have any further questions, you may contact me at (916) 322—5901. Sincerely, Scott Hallabrin Acting General Counsel By: Co sel, Legal Division SH:JS :dl Section 18000, g, g. All references to regulations are to Title 2, Division 6 of the California Code of Regulations.",
+    "summary": null
+  }
+}

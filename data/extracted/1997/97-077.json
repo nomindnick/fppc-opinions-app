@@ -1,0 +1,77 @@
+{
+  "id": "97-077",
+  "year": 1997,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/1997/97-077.pdf",
+  "pdf_sha256": "09aa503a9103ca19b061dfa2cacd06d29eddb85876d69d7db8d9a89f2b46371f",
+  "local_pdf_path": "raw_pdfs/1997/97-077.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 1997 Advice Letter # 97-077",
+    "tags": [
+      "1997",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:42:30",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1997&tagCount=1&page=13"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:47.472182Z",
+    "page_count": 1,
+    "word_count": 170,
+    "char_count": 1073,
+    "quality_score": 0.6675,
+    "olmocr_cost": null,
+    "native_word_count": 170
+  },
+  "content": {
+    "full_text": "RAvI MEHTA\nCHAIRMAN\nFAIR POLITICAL PRACTICES\nCOMMISSION\nFebruary 14, 1997\nSteve Baker\nAaron Read & Associates\nEleventh & L Building\n1127 - 1 1\nth Street, Suite 350\nSacramento, California 95814\nRe: Your Request for Advice\nOur File No. G-97-077\nDear Mr. Baker:\nThis letter is a response to your request for advice regarding the provisions ofthe Political\nReform Act (the “Act”).\n1 Since you are asking a question that is purely hypothetical we are\ndeclining to issue assistance at this time. (Regulation 1 8329(b)(8)(D). Copy enclosed.) Ifyou\nhave a question regarding the present version of the Act please feel free to submit another request\nfor advice.\nIfyou have any questions regarding this matter, please contact me at (916) 322-5660.\nSincerely,\nSteven G. Churchwell\nGeneral Counsel\n;i/L\n4\n;c\n-7&\nBy:\nMarte Castaios\nStaff Counsel, Legal Division\nSGC:MC:ak\nGovernment Code sections 81000 - 91014. Commission regulations appear at title 2, sections 18109 -\n18995, of the California Code of Regulations.\n428 J STREET, SUITE 800, SACRAMENTO, CALIFORNIA 95814\n(916) 322-5660\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1997-02-14",
+    "date_raw": "February 14, 1997",
+    "requestor_name": "Baker",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requester asked a hypothetical question regarding the Political Reform Act, but the specific details of the question are not included in this declination letter.",
+    "conclusion_synthetic": "The FPPC declined to issue advice because the question posed was purely hypothetical in nature, citing Regulation 18329(b)(8)(D). The FPPC invited the requester to submit a new request if they have a question regarding the present version of the Act.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is a declination letter with minimal content. No QUESTION or CONCLUSION sections are present in the document. The substantive legal question is not disclosed. The letter cites Regulation 18329(b)(8)(D) as the basis for declining to provide advice."
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [
+      "18109"
+    ],
+    "prior_opinions": [],
+    "cited_by": [
+      "97-445"
+    ],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:34:47.472182Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The requester asked a hypothetical question regarding the Political Reform Act, but the specific details of the question are not included in this declination letter.\n\nCONCLUSION: The FPPC declined to issue advice because the question posed was purely hypothetical in nature, citing Regulation 18329(b)(8)(D). The FPPC invited the requester to submit a new request if they have a question regarding the present version of the Act.",
+    "qa_source": "synthetic",
+    "first_500_words": "RAvI MEHTA CHAIRMAN FAIR POLITICAL PRACTICES COMMISSION February 14, 1997 Steve Baker Aaron Read & Associates Eleventh & L Building 1127 - 1 1 th Street, Suite 350 Sacramento, California 95814 Re: Your Request for Advice Our File No. G-97-077 Dear Mr. Baker: This letter is a response to your request for advice regarding the provisions ofthe Political Reform Act (the “Act”). 1 Since you are asking a question that is purely hypothetical we are declining to issue assistance at this time. (Regulation 1 8329(b)(8)(D). Copy enclosed.) Ifyou have a question regarding the present version of the Act please feel free to submit another request for advice. Ifyou have any questions regarding this matter, please contact me at (916) 322-5660. Sincerely, Steven G. Churchwell General Counsel ;i/L 4 ;c -7& By: Marte Castaios Staff Counsel, Legal Division SGC:MC:ak Government Code sections 81000 - 91014. Commission regulations appear at title 2, sections 18109 - 18995, of the California Code of Regulations. 428 J STREET, SUITE 800, SACRAMENTO, CALIFORNIA 95814 (916) 322-5660",
+    "summary": "The FPPC declined to provide advice on a hypothetical question regarding the Political Reform Act, explaining that only non-hypothetical questions are eligible for assistance under FPPC regulations."
+  }
+}

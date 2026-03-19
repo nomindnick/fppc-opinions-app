@@ -1,0 +1,75 @@
+{
+  "id": "94-109",
+  "year": 1994,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1994/94-109.pdf",
+  "pdf_sha256": "5755f1551a00dd6c840fc188ff7dc28f7f4d55155e28546fcfff9747f33b2fa6",
+  "local_pdf_path": "raw_pdfs/1994/94-109.pdf",
+  "source_metadata": {
+    "title_raw": "Hertzberg, Robert Year: 1994 Advice Letter # 94-109",
+    "tags": [
+      "1994",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:34:11",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1994&tagCount=1&page=2"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:00.891315Z",
+    "page_count": 1,
+    "word_count": 266,
+    "char_count": 1656,
+    "quality_score": 0.8,
+    "olmocr_cost": null,
+    "native_word_count": 266
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\nRobert M. Hertzberg\nMargolis, Hertzberg\n& Morin\nAttorneys at Law\n3550 Wilshire Boulevard,\nSuite 1418\nLos Angeles,\nCA\n90010\nDear Mr. Hertzberg:\nSUPERSEDEI\n-9-io3(11e)\nSincerely,\nSteven G.\nChurchwell\nGeneral Counsel\nBy:\nJil\nStec er\nCo\nel\n1\negal Division\nApril 14,\n1994\nRe:\nYour Request for Advice\nOur File No. A-94-109\nYou are requesting confirmation of oral advice which you\nrecently received from Ms. Dixie Howard in our Technical\nAssistance and Analysis Division.\nYou formed a committee for the\npurpose of running for the California State Legislature,\nraised funds and then decided not to run for office.\nYou\ndiscussed with Ms.\nHoward the legally permissible uses of the\nfunds held by your committee.\nSpecifically,\nyou inquired about making a contribution to a\ncandidate for the California State Assembly and to a candidate for\nthe United States Congress.\nAs Ms.\nHoward informed you,\nboth of\nthese are legal uses of your campaign funds pursuant to the\npersonal use provisions of the Political Reform Act\n(Section 89510\net seq.).\nHowever, please be advised that you cannot transfer\nfunds from your campaign account to a candidate who is in a\njurisdiction which has valid contribution limits or to a candidate\nwho is running in a special election.\nIn addition,\nwe recommend that you consult with the Federal\nElections Commission\n(“FEC”)\nregarding the contribution from your\nstate campaign account to a federal candidate.\nThe toll—free\nadvice number for the FEC is 1-800-424-9530.\nI trust this answers your question.\nSGC:JS:ak\n428 J Street, Suite 800 •\nP.O. Box 807 •\nSacramento, CA\n95804-0807 •\n(916) 322-5660\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1994-04-14",
+    "date_raw": "April 14,\n1994",
+    "requestor_name": "Hertzberg",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Can a candidate who formed a committee for running for California State Legislature, raised funds, and then decided not to run, legally use those funds to make contributions to a candidate for the California State Assembly and to a candidate for the United States Congress?",
+    "conclusion": "Both contributions to a candidate for the California State Assembly and to a candidate for the United States Congress are legal uses of campaign funds pursuant to the personal use provisions of the Political Reform Act (Section 89510 et seq.). However, funds cannot be transferred to a candidate in a jurisdiction with valid contribution limits or to a candidate running in a special election. The requestor should consult with the Federal Elections Commission regarding the contribution to a federal candidate.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requestor asks whether campaign funds raised for a failed legislative run can be legally contributed to candidates for the California State Assembly and U.S. Congress.",
+    "conclusion_synthetic": "Both proposed contributions are permissible under California's Political Reform Act, but funds cannot be transferred to candidates in jurisdictions with contribution limits or special election candidates, and federal contribution rules should be verified with the FEC.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document confirms prior oral advice from Ms. Dixie Howard. No formal QUESTION/CONCLUSION sections with headers, but question and conclusion content are clearly present in letter body. Marked with 'SUPERSEDED' stamp. Minor OCR artifacts present but do not affect comprehension."
+  },
+  "citations": {
+    "government_code": [
+      "89510"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [
+      "94-309"
+    ],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "gifts_honoraria",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:35:00.891315Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Can a candidate who formed a committee for running for California State Legislature, raised funds, and then decided not to run, legally use those funds to make contributions to a candidate for the California State Assembly and to a candidate for the United States Congress?\n\nCONCLUSION: Both contributions to a candidate for the California State Assembly and to a candidate for the United States Congress are legal uses of campaign funds pursuant to the personal use provisions of the Political Reform Act (Section 89510 et seq.). However, funds cannot be transferred to a candidate in a jurisdiction with valid contribution limits or to a candidate running in a special election. The requestor should consult with the Federal Elections Commission regarding the contribution to a federal candidate.",
+    "qa_source": "mixed",
+    "first_500_words": "California Fair Political Practices Commission Robert M. Hertzberg Margolis, Hertzberg & Morin Attorneys at Law 3550 Wilshire Boulevard, Suite 1418 Los Angeles, CA 90010 Dear Mr. Hertzberg: SUPERSEDEI -9-io3(11e) Sincerely, Steven G. Churchwell General Counsel By: Jil Stec er Co el 1 egal Division April 14, 1994 Re: Your Request for Advice Our File No. A-94-109 You are requesting confirmation of oral advice which you recently received from Ms. Dixie Howard in our Technical Assistance and Analysis Division. You formed a committee for the purpose of running for the California State Legislature, raised funds and then decided not to run for office. You discussed with Ms. Howard the legally permissible uses of the funds held by your committee. Specifically, you inquired about making a contribution to a candidate for the California State Assembly and to a candidate for the United States Congress. As Ms. Howard informed you, both of these are legal uses of your campaign funds pursuant to the personal use provisions of the Political Reform Act (Section 89510 et seq.). However, please be advised that you cannot transfer funds from your campaign account to a candidate who is in a jurisdiction which has valid contribution limits or to a candidate who is running in a special election. In addition, we recommend that you consult with the Federal Elections Commission (“FEC”) regarding the contribution from your state campaign account to a federal candidate. The toll—free advice number for the FEC is 1-800-424-9530. I trust this answers your question. SGC:JS:ak 428 J Street, Suite 800 • P.O. Box 807 • Sacramento, CA 95804-0807 • (916) 322-5660",
+    "summary": "FPPC confirms oral advice that campaign funds from an unsuccessful legislative candidate can be contributed to state and federal candidates, subject to restrictions on contribution limit jurisdictions and special elections, with FEC consultation recommended for federal contributions."
+  }
+}

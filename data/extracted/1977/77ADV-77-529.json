@@ -1,0 +1,73 @@
+{
+  "id": "77ADV-77-529",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-529.PDF",
+  "pdf_sha256": "55b9cfd2000c4e4d24a1fdcf7866a3d455ab86f203d25135b523f35e6f766651",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-529.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-529",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:20:25",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=20"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:13.718554Z",
+    "page_count": 1,
+    "word_count": 101,
+    "char_count": 640,
+    "quality_score": 0.5125,
+    "olmocr_cost": null,
+    "native_word_count": 101
+  },
+  "content": {
+    "full_text": "bect10n Hb~U2 \nArranging for Contributions \nAn association raises funds via \nfundraiser. \nSome \nof the funds are used to support the association's operating \nexpenses and others are used to make contributions to a PAC \nwhich supports state ca \nidates. \nKen and I concluded on March \n29, 1977, that a lobbyist for the association could not partici-\npate in the fundraiser since some of the funds contributed \nwould be earmarked for the PAC which supports state candidates. \nSince Section 86202 prohibits \nlobbyist from making any contri-\nbutions to a state candidate, part \nipation by the lobbyist in \nsuch an event is strictly prohibited. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1977-03-29",
+    "date_raw": "March \n29, 1977",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "A lobbyist for the association could not participate in the fundraiser since some of the funds contributed would be earmarked for the PAC which supports state candidates. Since Section 86202 prohibits a lobbyist from making any contributions to a state candidate, participation by the lobbyist in such an event is strictly prohibited.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Can a lobbyist participate in a fundraiser held by an association if some of the funds raised will be used to make contributions to a PAC supporting state candidates?",
+    "conclusion_synthetic": "A lobbyist is prohibited from participating in a fundraiser where any portion of the funds will support a PAC that makes contributions to state candidates, as this violates Section 86202's ban on lobbyist contributions to state candidates.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.75,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document lacks traditional Q/A section headers but contains a clear question and conclusion within narrative text. Reference to 'Ken and I concluded' suggests internal FPPC discussion. Section heading 'Arranging for Contributions' visible. Some OCR quality issues in source text."
+  },
+  "citations": {
+    "government_code": [
+      "86202"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "lobbying",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:37:13.718554Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Can a lobbyist participate in a fundraiser held by an association if some of the funds raised will be used to make contributions to a PAC supporting state candidates?\n\nCONCLUSION: A lobbyist for the association could not participate in the fundraiser since some of the funds contributed would be earmarked for the PAC which supports state candidates. Since Section 86202 prohibits a lobbyist from making any contributions to a state candidate, participation by the lobbyist in such an event is strictly prohibited.",
+    "qa_source": "mixed",
+    "first_500_words": "bect10n Hb~U2 Arranging for Contributions An association raises funds via fundraiser. Some of the funds are used to support the association's operating expenses and others are used to make contributions to a PAC which supports state ca idates. Ken and I concluded on March 29, 1977, that a lobbyist for the association could not partici- pate in the fundraiser since some of the funds contributed would be earmarked for the PAC which supports state candidates. Since Section 86202 prohibits lobbyist from making any contri- butions to a state candidate, part ipation by the lobbyist in such an event is strictly prohibited.",
+    "summary": "The FPPC advised that a lobbyist cannot participate in an association's fundraiser if any of the proceeds will be directed toward a PAC supporting state candidates, as this would violate the prohibition on lobbyist contributions to state candidates under Section 86202."
+  }
+}

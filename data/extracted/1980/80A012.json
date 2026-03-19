@@ -1,0 +1,71 @@
+{
+  "id": "80A012",
+  "year": 1980,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1980/80A012.PDF",
+  "pdf_sha256": "d69ae555045bc6f62ba7fe53cadc3d8d878a0e2a6234caa49cf8969ecadd7cee",
+  "local_pdf_path": "raw_pdfs/1980/80A012.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1980 Advice Letter # 80A012",
+    "tags": [
+      "1980",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:27:19",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1980&tagCount=1&page=6"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:03.773822Z",
+    "page_count": 3,
+    "word_count": 178,
+    "char_count": 1019,
+    "quality_score": 0.5075,
+    "olmocr_cost": null,
+    "native_word_count": 178
+  },
+  "content": {
+    "full_text": "cPO? 0 IS \nI \n1 \n/ \n\n\n.1 \n, \n.1 \noccurs. \nyou \n\n\nJlIouis .m. JBarndt \nFebruary 21, 1980 \nMr. Tom K. Houston, Chairman \nFair Political Practices Commission \n1100 K Street \nP. O. Box 807 \nSacramento, Calif. \n95814 \nDear Mr. Houston: \nThe purpose of this letter is to request a formal opinion. \nIn 1978, I was a candidate for the state assembly. \nAt this point \nin time, I have one outstanding bill from t \ncampaign which is \ndue a printing broker. \n(Note, the bill is technically owed by \nmy committee and is not a person obligation.) \nI have discussed doing some work for said printing broker in an \neffort to \"work off\" the obligation. \nThe question or problem which I have is two fold: (1) how would I \nreport such a reduction in my campaign statement and (2) how do \nI avoid creating an \"in-kind\" contribution to my own campaign \naccount if I obtain work from political candidates for the \nprinting broker? \nThanking you in advance for your help and attention, I am \n530 East Cypress Street \nGlendale, Calif. \n91205 \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1980-02-21",
+    "date_raw": "February 21, 1980",
+    "requestor_name": "Houston",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "The question or problem which I have is two fold: (1) how would I report such a reduction in my campaign statement and (2) how do I avoid creating an \"in-kind\" contribution to my own campaign account if I obtain work from political candidates for the printing broker?",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "A former 1978 assembly candidate seeks guidance on how to report payment of an outstanding campaign debt through work performed for a printing broker, and how to avoid creating an in-kind contribution to their own campaign.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an incoming request letter from a private citizen to the FPPC, not an FPPC response. No conclusion/answer section is present. The document contains a clear question section with two specific inquiries about campaign finance reporting and in-kind contributions."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:03.773822Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The question or problem which I have is two fold: (1) how would I report such a reduction in my campaign statement and (2) how do I avoid creating an \"in-kind\" contribution to my own campaign account if I obtain work from political candidates for the printing broker?",
+    "qa_source": "mixed",
+    "first_500_words": "cPO? 0 IS I 1 / .1 , .1 occurs. you JlIouis .m. JBarndt February 21, 1980 Mr. Tom K. Houston, Chairman Fair Political Practices Commission 1100 K Street P. O. Box 807 Sacramento, Calif. 95814 Dear Mr. Houston: The purpose of this letter is to request a formal opinion. In 1978, I was a candidate for the state assembly. At this point in time, I have one outstanding bill from t campaign which is due a printing broker. (Note, the bill is technically owed by my committee and is not a person obligation.) I have discussed doing some work for said printing broker in an effort to \"work off\" the obligation. The question or problem which I have is two fold: (1) how would I report such a reduction in my campaign statement and (2) how do I avoid creating an \"in-kind\" contribution to my own campaign account if I obtain work from political candidates for the printing broker? Thanking you in advance for your help and attention, I am 530 East Cypress Street Glendale, Calif. 91205",
+    "summary": "A former state assembly candidate requests a formal FPPC opinion regarding reporting requirements and in-kind contribution issues related to working off an outstanding campaign debt owed to a printing broker."
+  }
+}

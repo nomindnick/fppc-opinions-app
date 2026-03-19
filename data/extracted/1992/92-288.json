@@ -1,0 +1,76 @@
+{
+  "id": "92-288",
+  "year": 1992,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1992/92-288.pdf",
+  "pdf_sha256": "e8c8e8fdbdacf00f47c250a4728961a005eed792395deb8cd7b313590cfbc35e",
+  "local_pdf_path": "raw_pdfs/1992/92-288.pdf",
+  "source_metadata": {
+    "title_raw": "Bell, Charles Year: 1992 Advice Letter # 92-288",
+    "tags": [
+      "Advice Letter",
+      "1992"
+    ],
+    "scraped_at": "2026-01-31 16:23:53",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1992&tagCount=1&page=15"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:12.668355Z",
+    "page_count": 2,
+    "word_count": 405,
+    "char_count": 2401,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 405
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\nJune 5,\n1992\nCharles H.\nBell, Jr.\nBELL\n&\nHILTACHK\n555 Capitol Mall,\nSuite 530\nSacramento,\nCA\n95814\nRe:\nYour Request for Informal Advice\nOur File No.\n1-92—288\nDear Mr.\nBell:\nI\nam writing to confirm our telephone conversation of May 29,\n1992,\nwherein we discussed your request for informal advice,\nLetter No.\n1-92-288.\nYou represent a campaign media consultant\nwho is seeking to obtain free time from a broadcast station to air\nspot advertisements for one side of\na ballot measure.\nYou would\nlike to know if such free broadcast time is considered a\ncontribution.\nSince your question is general in nature and you have not\nnamed a specific public official or committee on whose behalf you\nhave requested advice,\nwe can only provide the following informal\nresponse to your question.\n1\nThe definition of contribution in Section 82015 includes:\nthe granting of discounts or rebates not\nextended to the public generally or the granting of\ndiscounts or rebates by television and radio\nstations and newspapers not extended on an equal\nbasis to all candidates for the same office;...\nI informed you that the orten Advice Letter,\nNo.\nA-88-293\n(copy enclosed)\napplied this section and concluded that if the\nradio station has a policy of providing free advertising time to\nboth sides of a campaign or a particular campaign issue,\nthe free\ntime is not a reportable contribution.\n1\nInformal assistance does nQt provide the requestor with the\nimmunity provided by an opinion or formal written advice.\n(Government Code Section 83114;\n2 Cal.\nCode of Regs.\nSection 18329(c) (3) .)\n428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804-0807 •\n(916)322-5660\n\n\nOur File No.\n1-92-288\nPage\n2\nThe letter also stated in footnote\n3 that it is not necessary\nthat the station actually provide free advertising time to each\ncandidate or side of an issue.\nThe intent of the above—quoted\nprovision of Section 82015 will be met as long as the station has\na policy of providing equal time to each candidate or to each\ncommittee for both sides of a ballot measure.\nTherefore,\nthe donation of free radio time to one side of a\nballot measure,\nwhich is not offered to the other side of the\nballot measure,\nis considered a contribution.\nI trust this answers your question.\nSincerely,\nScott Hallabrin\nActing General Counsel\nH\n—\nBy:\nJill Stecher\nCounsel,\nLegal Division\nSH:JS:aa\nEnclosure\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1992-06-05",
+    "date_raw": "June 5,\n1992",
+    "requestor_name": "Bell",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "informal_advice"
+  },
+  "sections": {
+    "question": "You represent a campaign media consultant who is seeking to obtain free time from a broadcast station to air spot advertisements for one side of a ballot measure. You would like to know if such free broadcast time is considered a contribution.",
+    "conclusion": "Therefore, the donation of free radio time to one side of a ballot measure, which is not offered to the other side of the ballot measure, is considered a contribution.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether free broadcast time granted by a station to air advertisements for one side of a ballot measure constitutes a reportable contribution under FPPC law.",
+    "conclusion_synthetic": "Free broadcast time is a contribution unless the station has a policy of providing equal free time to both sides of the ballot measure issue. If a station offers free time to only one side without offering equal time to the other side, it constitutes a reportable contribution.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Informal advice letter (provides limited immunity per Government Code Section 83114). References prior opinion letter A-88-293. No formal QUESTION/CONCLUSION headers but content clearly delineates the inquiry and response. Document confirms telephone conversation from May 29, 1992."
+  },
+  "citations": {
+    "government_code": [
+      "82015",
+      "83114"
+    ],
+    "regulations": [],
+    "prior_opinions": [
+      "A-88-293"
+    ],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:35:12.668355Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: You represent a campaign media consultant who is seeking to obtain free time from a broadcast station to air spot advertisements for one side of a ballot measure. You would like to know if such free broadcast time is considered a contribution.\n\nCONCLUSION: Therefore, the donation of free radio time to one side of a ballot measure, which is not offered to the other side of the ballot measure, is considered a contribution.",
+    "qa_source": "mixed",
+    "first_500_words": "California Fair Political Practices Commission June 5, 1992 Charles H. Bell, Jr. BELL & HILTACHK 555 Capitol Mall, Suite 530 Sacramento, CA 95814 Re: Your Request for Informal Advice Our File No. 1-92—288 Dear Mr. Bell: I am writing to confirm our telephone conversation of May 29, 1992, wherein we discussed your request for informal advice, Letter No. 1-92-288. You represent a campaign media consultant who is seeking to obtain free time from a broadcast station to air spot advertisements for one side of a ballot measure. You would like to know if such free broadcast time is considered a contribution. Since your question is general in nature and you have not named a specific public official or committee on whose behalf you have requested advice, we can only provide the following informal response to your question. 1 The definition of contribution in Section 82015 includes: the granting of discounts or rebates not extended to the public generally or the granting of discounts or rebates by television and radio stations and newspapers not extended on an equal basis to all candidates for the same office;... I informed you that the orten Advice Letter, No. A-88-293 (copy enclosed) applied this section and concluded that if the radio station has a policy of providing free advertising time to both sides of a campaign or a particular campaign issue, the free time is not a reportable contribution. 1 Informal assistance does nQt provide the requestor with the immunity provided by an opinion or formal written advice. (Government Code Section 83114; 2 Cal. Code of Regs. Section 18329(c) (3) .) 428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804-0807 • (916)322-5660 Our File No. 1-92-288 Page 2 The letter also stated in footnote 3 that it is not necessary that the station actually provide free advertising time to each candidate or side of an issue. The intent of the above—quoted provision of Section 82015 will be met as long as the station has a policy of providing equal time to each candidate or to each committee for both sides of a ballot measure. Therefore, the donation of free radio time to one side of a ballot measure, which is not offered to the other side of the ballot measure, is considered a contribution. I trust this answers your question. Sincerely, Scott Hallabrin Acting General Counsel H — By: Jill Stecher Counsel, Legal Division SH:JS:aa Enclosure",
+    "summary": "FPPC informal advice letter responding to a media consultant's question about whether free broadcast time for ballot measure advertisements constitutes a reportable contribution. The FPPC concluded that free time is a contribution unless the station has a policy of providing equal time to both sides of the measure."
+  }
+}

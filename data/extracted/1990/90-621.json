@@ -1,0 +1,73 @@
+{
+  "id": "90-621",
+  "year": 1990,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1990/90-621.pdf",
+  "pdf_sha256": "4f8bdc06c7a28be6d113dc640bae6b585b3535f0337881df4a0040dde274f408",
+  "local_pdf_path": "raw_pdfs/1990/90-621.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 1990 Advice Letter # 90-621",
+    "tags": [
+      "1990",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:11:20",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1990&tagCount=1&page=73"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T15:13:23.130084Z",
+    "page_count": 1,
+    "word_count": 215,
+    "char_count": 1372,
+    "quality_score": 0.8240689507716923,
+    "olmocr_cost": 0.00260408,
+    "native_word_count": 220
+  },
+  "content": {
+    "full_text": "MEMORANDUM\n\nTO: ADVICE FILE Section 84211\n\nFROM: KEVIN S. BRAATEN-MOEN\n\nSUBJECT: ATTACHED LETTER FROM SHERRYL Z. WHITE\n\n-------------------------------------------------------------\n\nSummary of Letter\n\nFor Schedules A & C, if a contributor has made both monetary and non-monetary donations during the same period, may both schedules include the cumulative with a footnote, or must Schedule C say \"See Schedule A for Cumulative?\"\n\nFor Schedule E, since credit card payments include amount under $100, may those be summed together rather than itemized in the description of payment? Also, how do you show a mix of travel costs and non-travel costs in a credit card statement?\n\nPhone Advice (September 28)\n\nWhen reporting monetary and non-monetary contributions from the same source on Schedules A and C, the cumulative total for that source may be included on both schedules, as long as a footnote on Schedule C references the cumulative total on Schedule A.\n\nPayments of $100 made to the credit card company must be itemized. However, those expenditures to vendors under $100 which comprise the credit card bill need not be itemized.\n\nWhen travel costs are a part of the credit card bill, simply report the required information for travel in the description column which corresponds to the payment of the credit card.\n\nSheryl White rescinded her request for written advice.",
+    "full_text_markdown": "MEMORANDUM\n\nTO: ADVICE FILE Section 84211\n\nFROM: KEVIN S. BRAATEN-MOEN\n\nSUBJECT: ATTACHED LETTER FROM SHERRYL Z. WHITE\n\n-------------------------------------------------------------\n\nSummary of Letter\n\nFor Schedules A & C, if a contributor has made both monetary and non-monetary donations during the same period, may both schedules include the cumulative with a footnote, or must Schedule C say \"See Schedule A for Cumulative?\"\n\nFor Schedule E, since credit card payments include amount under $100, may those be summed together rather than itemized in the description of payment? Also, how do you show a mix of travel costs and non-travel costs in a credit card statement?\n\nPhone Advice (September 28)\n\nWhen reporting monetary and non-monetary contributions from the same source on Schedules A and C, the cumulative total for that source may be included on both schedules, as long as a footnote on Schedule C references the cumulative total on Schedule A.\n\nPayments of $100 made to the credit card company must be itemized. However, those expenditures to vendors under $100 which comprise the credit card bill need not be itemized.\n\nWhen travel costs are a part of the credit card bill, simply report the required information for travel in the description column which corresponds to the payment of the credit card.\n\nSheryl White rescinded her request for written advice."
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "of Letter\n\nFor Schedules A & C, if a contributor has made both monetary and non-monetary donations during the same period, may both schedules include the cumulative with a footnote, or must Schedule C say \"See Schedule A for Cumulative?\"\n\nFor Schedule E, since credit card payments include amount under $100, may those be summed together rather than itemized in the description of payment? Also, how do you show a mix of travel costs and non-travel costs in a credit card statement?\n\nPhone Advice (September 28)\n\nWhen reporting monetary and non-monetary contributions from the same source on Schedules A and C, the cumulative total for that source may be included on both schedules, as long as a footnote on Schedule C references the cumulative total on Schedule A.\n\nPayments of $100 made to the credit card company must be itemized. However, those expenditures to vendors under $100 which comprise the credit card bill need not be itemized.\n\nWhen travel costs are a part of the credit card bill, simply report the required information for travel in the description column which corresponds to the payment of the credit card.\n\nSheryl White rescinded her request for written advice.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.5499999999999999,
+    "has_standard_format": true,
+    "parsing_notes": "Format: old"
+  },
+  "citations": {
+    "government_code": [
+      "84211"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-20T15:13:23.130084Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "CONCLUSION: of Letter\n\nFor Schedules A & C, if a contributor has made both monetary and non-monetary donations during the same period, may both schedules include the cumulative with a footnote, or must Schedule C say \"See Schedule A for Cumulative?\"\n\nFor Schedule E, since credit card payments include amount under $100, may those be summed together rather than itemized in the description of payment? Also, how do you show a mix of travel costs and non-travel costs in a credit card statement?\n\nPhone Advice (September 28)\n\nWhen reporting monetary and non-monetary contributions from the same source on Schedules A and C, the cumulative total for that source may be included on both schedules, as long as a footnote on Schedule C references the cumulative total on Schedule A.\n\nPayments of $100 made to the credit card company must be itemized. However, those expenditures to vendors under $100 which comprise the credit card bill need not be itemized.\n\nWhen travel costs are a part of the credit card bill, simply report the required information for travel in the description column which corresponds to the payment of the credit card.\n\nSheryl White rescinded her request for written advice.",
+    "qa_source": "extracted",
+    "first_500_words": "MEMORANDUM TO: ADVICE FILE Section 84211 FROM: KEVIN S. BRAATEN-MOEN SUBJECT: ATTACHED LETTER FROM SHERRYL Z. WHITE ------------------------------------------------------------- Summary of Letter For Schedules A & C, if a contributor has made both monetary and non-monetary donations during the same period, may both schedules include the cumulative with a footnote, or must Schedule C say \"See Schedule A for Cumulative?\" For Schedule E, since credit card payments include amount under $100, may those be summed together rather than itemized in the description of payment? Also, how do you show a mix of travel costs and non-travel costs in a credit card statement? Phone Advice (September 28) When reporting monetary and non-monetary contributions from the same source on Schedules A and C, the cumulative total for that source may be included on both schedules, as long as a footnote on Schedule C references the cumulative total on Schedule A. Payments of $100 made to the credit card company must be itemized. However, those expenditures to vendors under $100 which comprise the credit card bill need not be itemized. When travel costs are a part of the credit card bill, simply report the required information for travel in the description column which corresponds to the payment of the credit card. Sheryl White rescinded her request for written advice.",
+    "summary": null
+  }
+}

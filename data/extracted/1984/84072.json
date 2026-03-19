@@ -1,0 +1,71 @@
+{
+  "id": "84072",
+  "year": 1984,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1984/fppc-advice/84072.PDF",
+  "pdf_sha256": "419d362747fc564e73e8e1508241199b71a0fc851b2a39db5324a9fb50376055",
+  "local_pdf_path": "raw_pdfs/1984/84072.PDF",
+  "source_metadata": {
+    "title_raw": "DISLER, DONALD Year: 1984 Advice Letter # 84072",
+    "tags": [
+      "1984",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:34:49",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1984&tagCount=1&page=19"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-07T16:24:41.061081Z",
+    "page_count": 1,
+    "word_count": 202,
+    "char_count": 1251,
+    "quality_score": 0.7175,
+    "olmocr_cost": 0.00259462,
+    "native_word_count": 10
+  },
+  "content": {
+    "full_text": "April 10, 1984\n\nDonald Disler, Esq.\nDisler & Hanson\n660 Market Street, Suite 300\nSan Francisco, CA 94104\n\nRe: Our File No. A-84-072\n\nDear Don:\n\nDuring our meeting, you asked me a question regarding the reporting of contributions charged to VISA, Mastercharge and similar credit cards. My understanding is that certain committees you represent have contracted with various credit card companies to use their services. Contributors to these committees may now charge their contributions; the committees pay a service fee to the credit card companies for each contribution so charged. You asked how these transactions should be reported on the committees' campaign disclosure statements filed pursuant to the Political Reform Act.\n\nI am writing to confirm the tentative advice I gave you. The full, face amount of a contribution which is charged to the contributor's credit card should be reported on Schedule A. The fees paid to the credit card companies for this service (even if based on a percentage of the amount charged) should be reported as a lump sum adjustment to cash on Schedule G.\n\nIf I can be of further assistance, please feel free to contact me at (916) 322-5901.\n\nSincerely,\n\n[signature]\nDiane Maura Fishburn\nStaff Counsel\nLegal Division",
+    "full_text_markdown": "April 10, 1984\n\nDonald Disler, Esq.\nDisler & Hanson\n660 Market Street, Suite 300\nSan Francisco, CA 94104\n\nRe: Our File No. A-84-072\n\nDear Don:\n\nDuring our meeting, you asked me a question regarding the reporting of contributions charged to VISA, Mastercharge and similar credit cards. My understanding is that certain committees you represent have contracted with various credit card companies to use their services. Contributors to these committees may now charge their contributions; the committees pay a service fee to the credit card companies for each contribution so charged. You asked how these transactions should be reported on the committees' campaign disclosure statements filed pursuant to the Political Reform Act.\n\nI am writing to confirm the tentative advice I gave you. The full, face amount of a contribution which is charged to the contributor's credit card should be reported on Schedule A. The fees paid to the credit card companies for this service (even if based on a percentage of the amount charged) should be reported as a lump sum adjustment to cash on Schedule G.\n\nIf I can be of further assistance, please feel free to contact me at (916) 322-5901.\n\nSincerely,\n\n[signature]\nDiane Maura Fishburn\nStaff Counsel\nLegal Division"
+  },
+  "parsed": {
+    "date": "1984-04-10",
+    "date_raw": "April 10, 1984",
+    "requestor_name": "DISLER",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "How should contributions charged to VISA, Mastercharge and similar credit cards be reported on campaign disclosure statements filed pursuant to the Political Reform Act, and how should the service fees paid to credit card companies be reported?",
+    "conclusion": "The full, face amount of a contribution which is charged to the contributor's credit card should be reported on Schedule A. The fees paid to the credit card companies for this service (even if based on a percentage of the amount charged) should be reported as a lump sum adjustment to cash on Schedule G.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requestor asks how to report on campaign disclosure statements contributions that are charged to credit cards by donors, and how to account for the service fees paid to credit card companies for processing these transactions.",
+    "conclusion_synthetic": "Contributions charged to credit cards should be reported at their full face amount on Schedule A, while credit card processing fees should be reported as a lump sum adjustment to cash on Schedule G.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is a brief advice letter confirming tentative verbal advice given during a meeting. Clear Q/C structure embedded in letter body rather than formal sections. File number A-84-072 corresponds to document ID 84072."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T16:24:41.061081Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: How should contributions charged to VISA, Mastercharge and similar credit cards be reported on campaign disclosure statements filed pursuant to the Political Reform Act, and how should the service fees paid to credit card companies be reported?\n\nCONCLUSION: The full, face amount of a contribution which is charged to the contributor's credit card should be reported on Schedule A. The fees paid to the credit card companies for this service (even if based on a percentage of the amount charged) should be reported as a lump sum adjustment to cash on Schedule G.",
+    "qa_source": "mixed",
+    "first_500_words": "April 10, 1984 Donald Disler, Esq. Disler & Hanson 660 Market Street, Suite 300 San Francisco, CA 94104 Re: Our File No. A-84-072 Dear Don: During our meeting, you asked me a question regarding the reporting of contributions charged to VISA, Mastercharge and similar credit cards. My understanding is that certain committees you represent have contracted with various credit card companies to use their services. Contributors to these committees may now charge their contributions; the committees pay a service fee to the credit card companies for each contribution so charged. You asked how these transactions should be reported on the committees' campaign disclosure statements filed pursuant to the Political Reform Act. I am writing to confirm the tentative advice I gave you. The full, face amount of a contribution which is charged to the contributor's credit card should be reported on Schedule A. The fees paid to the credit card companies for this service (even if based on a percentage of the amount charged) should be reported as a lump sum adjustment to cash on Schedule G. If I can be of further assistance, please feel free to contact me at (916) 322-5901. Sincerely, [signature] Diane Maura Fishburn Staff Counsel Legal Division",
+    "summary": "FPPC staff counsel advises that credit card contributions should be reported at full face value on Schedule A, with associated credit card processing fees reported as a lump sum cash adjustment on Schedule G."
+  }
+}

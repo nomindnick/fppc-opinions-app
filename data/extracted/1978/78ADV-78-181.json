@@ -1,0 +1,75 @@
+{
+  "id": "78ADV-78-181",
+  "year": 1978,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1978/78ADV-78-181.PDF",
+  "pdf_sha256": "196b1cd5afd2779d333af83e45d8428aa61950aaea02c868db628d14337abce4",
+  "local_pdf_path": "raw_pdfs/1978/78ADV-78-181.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1978ADV Advice Letter # 78ADV-78-181",
+    "tags": [
+      "Advice Letter",
+      "1978"
+    ],
+    "scraped_at": "2026-01-31 15:23:08",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=4"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:08.632093Z",
+    "page_count": 1,
+    "word_count": 241,
+    "char_count": 1460,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 241
+  },
+  "content": {
+    "full_text": "State of California \nMemorandum \nTo \nFile \nDate \nNovember 30, 1978 \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nBob Stern \nSubject: \nSection 84204.2 and Forms 415 and 400 \nThe Commission was asked two questions by the Secretary \nof State: \n1. \nIf a committee files a Form 415 (a Statement of \nTermination, permitted by FPPC Regulation 18404), does it \nalso have to file a Form 400 (Declaration of Final Campaign \nStatement)? \nThe purpose of a termination statement (Form 415) is to \ninform the filing officer that the committee has ceased its \nactivity and does not anticipate any future activity. \nThe purpose of a final campaign statement (Form 400) is \nessentially the same. \nHowever, Section 84204 2 which specifies \nthe declaration that must be signed by the treasurer \nincludes \nseveral phrases and concepts not in Form 415. \nFor that reason, \nthe staff concludes that a Form 400 is required to be filed. \nHowever, because the forms are so similar, the staff recommends \nthat no penalties be imposed provided that the filer completes \nForm 400 within a reasonable time of being notified of the \nfiling obligation. \n2. \nCan a committee file a Form 400 after a filing dead-\nline and after it has filed its campaign statement? \nForm 400 may be filed any time after a campaign statement \nhas been filed up to the filing deadline of the next campaign \nstatement due \nIf a campaign statement deadline has past, the \nform may not be used retroactively. \nRMS:nc \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1978-11-30",
+    "date_raw": "November 30, 1978",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "1. If a committee files a Form 415 (a Statement of Termination, permitted by FPPC Regulation 18404), does it also have to file a Form 400 (Declaration of Final Campaign Statement)?\n\n2. Can a committee file a Form 400 after a filing deadline and after it has filed its campaign statement?",
+    "conclusion": "For Question 1: A Form 400 is required to be filed because Section 84204.2 specifies declaration language not included in Form 415. However, no penalties should be imposed if the filer completes Form 400 within a reasonable time of being notified. For Question 2: Form 400 may be filed any time after a campaign statement has been filed up to the filing deadline of the next campaign statement due. If a campaign statement deadline has passed, the form may not be used retroactively.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The Secretary of State asked whether committees filing Form 415 (termination statements) must also file Form 400 (final campaign statements), and whether Form 400 can be filed retroactively after filing deadlines have passed.",
+    "conclusion_synthetic": "The FPPC determined that Form 400 must be filed in addition to Form 415 despite their similarity, though recommends no penalties if filed timely upon notice. Form 400 cannot be filed retroactively after a filing deadline has passed.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Memorandum format rather than standard advice letter format. Contains clear question and conclusion sections. No formal QUESTION/CONCLUSION headers but content clearly delineated. Two distinct legal questions with corresponding answers."
+  },
+  "citations": {
+    "government_code": [
+      "84204"
+    ],
+    "regulations": [
+      "18404"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:37:08.632093Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: 1. If a committee files a Form 415 (a Statement of Termination, permitted by FPPC Regulation 18404), does it also have to file a Form 400 (Declaration of Final Campaign Statement)?\n\n2. Can a committee file a Form 400 after a filing deadline and after it has filed its campaign statement?\n\nCONCLUSION: For Question 1: A Form 400 is required to be filed because Section 84204.2 specifies declaration language not included in Form 415. However, no penalties should be imposed if the filer completes Form 400 within a reasonable time of being notified. For Question 2: Form 400 may be filed any time after a campaign statement has been filed up to the filing deadline of the next campaign statement due. If a campaign statement deadline has passed, the form may not be used retroactively.",
+    "qa_source": "mixed",
+    "first_500_words": "State of California Memorandum To File Date November 30, 1978 From FAIR POLITICAL PRACTICES COMMISSION Bob Stern Subject: Section 84204.2 and Forms 415 and 400 The Commission was asked two questions by the Secretary of State: 1. If a committee files a Form 415 (a Statement of Termination, permitted by FPPC Regulation 18404), does it also have to file a Form 400 (Declaration of Final Campaign Statement)? The purpose of a termination statement (Form 415) is to inform the filing officer that the committee has ceased its activity and does not anticipate any future activity. The purpose of a final campaign statement (Form 400) is essentially the same. However, Section 84204 2 which specifies the declaration that must be signed by the treasurer includes several phrases and concepts not in Form 415. For that reason, the staff concludes that a Form 400 is required to be filed. However, because the forms are so similar, the staff recommends that no penalties be imposed provided that the filer completes Form 400 within a reasonable time of being notified of the filing obligation. 2. Can a committee file a Form 400 after a filing dead- line and after it has filed its campaign statement? Form 400 may be filed any time after a campaign statement has been filed up to the filing deadline of the next campaign statement due If a campaign statement deadline has past, the form may not be used retroactively. RMS:nc",
+    "summary": "This 1978 FPPC memorandum addresses two questions from the Secretary of State regarding the filing requirements for campaign committee termination and final campaign statements under Section 84204.2. The FPPC clarifies that both Form 415 and Form 400 must be filed, and that Form 400 cannot be used retroactively after deadlines."
+  }
+}

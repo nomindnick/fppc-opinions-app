@@ -1,0 +1,76 @@
+{
+  "id": "02-178",
+  "year": 2002,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2002/02-178.pdf",
+  "pdf_sha256": "2d7917c48f305485358af26acaa88df66590ce3612ca154d77776b352266f65d",
+  "local_pdf_path": "raw_pdfs/2002/02-178.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2002 Advice Letter # 02-178",
+    "tags": [
+      "Advice Letter",
+      "2002"
+    ],
+    "scraped_at": "2026-01-31 14:35:53",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2002&tagCount=1&page=12"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T15:11:21.691622Z",
+    "page_count": 1,
+    "word_count": 155,
+    "char_count": 1062,
+    "quality_score": 0.82801066830609,
+    "olmocr_cost": 0.00258,
+    "native_word_count": 177
+  },
+  "content": {
+    "full_text": "Mrs. T. Huebner  \n1708 Davis Drive  \nBurlingame, CA 94010\n\nRe: Your Request for Advice  \nOur File No. W-02-178\n\nDear Mrs. Huebner:\n\nThis letter is in response to your request for written advice on the conflict-of-interest provisions of the Political Reform Act.¹ Under California Code of Regulations 18329(b)(8)(B), copy enclosed, unless you are an authorized representative of Donald Newman, M.D., for whom you seek assistance, the Fair Political Practices Commission cannot address your questions or provide analysis. However, if you believe a violation of the Political Reform Act has occurred, you have the option of filing a complaint with our Enforcement Division. I have enclosed a fact sheet explaining the complaint process procedure.\n\nShould you have additional questions regarding this matter, please do not hesitate to contact me at (916) 322-5660.\n\nSincerely,\n\nJoan Giannetta  \nLegal Secretary\n\nEnclosures\n\n¹ Government Code sections 81000-91014. Commission regulations appear at Title 2, sections 18109-18997, of the California Code of Regulations.",
+    "full_text_markdown": "Mrs. T. Huebner  \n1708 Davis Drive  \nBurlingame, CA 94010\n\nRe: Your Request for Advice  \nOur File No. W-02-178\n\nDear Mrs. Huebner:\n\nThis letter is in response to your request for written advice on the conflict-of-interest provisions of the Political Reform Act.¹ Under California Code of Regulations 18329(b)(8)(B), copy enclosed, unless you are an authorized representative of Donald Newman, M.D., for whom you seek assistance, the Fair Political Practices Commission cannot address your questions or provide analysis. However, if you believe a violation of the Political Reform Act has occurred, you have the option of filing a complaint with our Enforcement Division. I have enclosed a fact sheet explaining the complaint process procedure.\n\nShould you have additional questions regarding this matter, please do not hesitate to contact me at (916) 322-5660.\n\nSincerely,\n\nJoan Giannetta  \nLegal Secretary\n\nEnclosures\n\n¹ Government Code sections 81000-91014. Commission regulations appear at Title 2, sections 18109-18997, of the California Code of Regulations."
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": "Huebner",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [
+      "18109",
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-20T15:11:21.691622Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "Mrs. T. Huebner 1708 Davis Drive Burlingame, CA 94010 Re: Your Request for Advice Our File No. W-02-178 Dear Mrs. Huebner: This letter is in response to your request for written advice on the conflict-of-interest provisions of the Political Reform Act.¹ Under California Code of Regulations 18329(b)(8)(B), copy enclosed, unless you are an authorized representative of Donald Newman, M.D., for whom you seek assistance, the Fair Political Practices Commission cannot address your questions or provide analysis. However, if you believe a violation of the Political Reform Act has occurred, you have the option of filing a complaint with our Enforcement Division. I have enclosed a fact sheet explaining the complaint process procedure. Should you have additional questions regarding this matter, please do not hesitate to contact me at (916) 322-5660. Sincerely, Joan Giannetta Legal Secretary Enclosures ¹ Government Code sections 81000-91014. Commission regulations appear at Title 2, sections 18109-18997, of the California Code of Regulations.",
+    "qa_source": "extracted",
+    "first_500_words": "Mrs. T. Huebner 1708 Davis Drive Burlingame, CA 94010 Re: Your Request for Advice Our File No. W-02-178 Dear Mrs. Huebner: This letter is in response to your request for written advice on the conflict-of-interest provisions of the Political Reform Act.¹ Under California Code of Regulations 18329(b)(8)(B), copy enclosed, unless you are an authorized representative of Donald Newman, M.D., for whom you seek assistance, the Fair Political Practices Commission cannot address your questions or provide analysis. However, if you believe a violation of the Political Reform Act has occurred, you have the option of filing a complaint with our Enforcement Division. I have enclosed a fact sheet explaining the complaint process procedure. Should you have additional questions regarding this matter, please do not hesitate to contact me at (916) 322-5660. Sincerely, Joan Giannetta Legal Secretary Enclosures ¹ Government Code sections 81000-91014. Commission regulations appear at Title 2, sections 18109-18997, of the California Code of Regulations.",
+    "summary": null
+  }
+}

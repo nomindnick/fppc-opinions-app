@@ -1,0 +1,75 @@
+{
+  "id": "02-220",
+  "year": 2002,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2002/02-220.pdf",
+  "pdf_sha256": "64a66226906ce05d0d224cf72f1ae436e76e3f60d30bcd7bfe0e343ced22942b",
+  "local_pdf_path": "raw_pdfs/2002/02-220.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2002 Advice Letter # 02-220",
+    "tags": [
+      "Advice Letter",
+      "2002"
+    ],
+    "scraped_at": "2026-01-31 14:35:57",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2002&tagCount=1&page=13"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:26.460469Z",
+    "page_count": 1,
+    "word_count": 255,
+    "char_count": 1650,
+    "quality_score": 0.635,
+    "olmocr_cost": null,
+    "native_word_count": 255
+  },
+  "content": {
+    "full_text": "This letter is in response to your request for advice regarding the provisions of the\nPolitical Reform Act (the \"Act\").1 As specified on our web site, the role of the Political\nReform Act (the'Act\") is as follows:\nFarn PolrrrcAt- PnacrrcEs C oMMrssroN\nP.O. Box ggl c 428 J Street o Sacramento, CA 95812-0807\n(916) 322-5660 o Fax (916) 322-0886\nAugust 19,2002\nFrederick Lee Christensen Architects\n295 Main Street, Suite 300\nSalinas, CA 93901\nRe:\nYour Request for Advice\nOur File No. G-02-220\nDear Mr. Christensen\nThE MiSSiON Of thE FAIR POLITICAL PRACTICES COMMISSION iS tO\npromote the integrity of representative state and local government in California\nthrough fair, irtpartial interpretation and enforcement of political campaign,\nlobbying, and conflict of interest laws.\nIt does not appear from the limited information you forwarded, that you or your\nattorney are public officials regulated under the purview of the Act. Regulation\n18329(b)(8)(D) provides that the Commission may decline to provide advice where the\nrequest does not present a question under the Political Reform Act. (See also, Reg.\n18329(c)@)(F), copy enclosed.) Thus, we would not be the agency to respond to your\nrequest.\nAlso enclosed is a pamphlet entitled, \"Cattl Vote?\" which may assist you when\ndetermining whether a conflict exists on a particular issue before you or your attorney.\nShould you have any additional questions, please contact me at (916) 322-5660.\nSincerely,\nLuisa Menchaca\nallace\nGeneral Counsel\nEnclosures\nJwwjg\nI Govemment Code sections 81000 - 91014. Commission regulations appear atTitte2,sections 18109-\n18997, of the Califomia Code of Regulations.\n@\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2002-08-19",
+    "date_raw": "August 19,2002",
+    "requestor_name": "Christensen\nTh",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "It does not appear from the limited information you forwarded, that you or your attorney are public officials regulated under the purview of the Act. Regulation 18329(b)(8)(D) provides that the Commission may decline to provide advice where the request does not present a question under the Political Reform Act. Thus, we would not be the agency to respond to your request.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requestor sought FPPC advice regarding the Political Reform Act, but the specific legal question is not detailed in this document.",
+    "conclusion_synthetic": "The FPPC declined to provide advice because the requestor did not appear to be a public official regulated under the Political Reform Act, and the request did not present a question within the Commission's jurisdiction.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Declination letter with no detailed question section. The FPPC response explains why they cannot respond rather than addressing a substantive legal question. Enclosures mentioned but not included in provided text."
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:34:26.460469Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The requestor sought FPPC advice regarding the Political Reform Act, but the specific legal question is not detailed in this document.\n\nCONCLUSION: It does not appear from the limited information you forwarded, that you or your attorney are public officials regulated under the purview of the Act. Regulation 18329(b)(8)(D) provides that the Commission may decline to provide advice where the request does not present a question under the Political Reform Act. Thus, we would not be the agency to respond to your request.",
+    "qa_source": "mixed",
+    "first_500_words": "This letter is in response to your request for advice regarding the provisions of the Political Reform Act (the \"Act\").1 As specified on our web site, the role of the Political Reform Act (the'Act\") is as follows: Farn PolrrrcAt- PnacrrcEs C oMMrssroN P.O. Box ggl c 428 J Street o Sacramento, CA 95812-0807 (916) 322-5660 o Fax (916) 322-0886 August 19,2002 Frederick Lee Christensen Architects 295 Main Street, Suite 300 Salinas, CA 93901 Re: Your Request for Advice Our File No. G-02-220 Dear Mr. Christensen ThE MiSSiON Of thE FAIR POLITICAL PRACTICES COMMISSION iS tO promote the integrity of representative state and local government in California through fair, irtpartial interpretation and enforcement of political campaign, lobbying, and conflict of interest laws. It does not appear from the limited information you forwarded, that you or your attorney are public officials regulated under the purview of the Act. Regulation 18329(b)(8)(D) provides that the Commission may decline to provide advice where the request does not present a question under the Political Reform Act. (See also, Reg. 18329(c)@)(F), copy enclosed.) Thus, we would not be the agency to respond to your request. Also enclosed is a pamphlet entitled, \"Cattl Vote?\" which may assist you when determining whether a conflict exists on a particular issue before you or your attorney. Should you have any additional questions, please contact me at (916) 322-5660. Sincerely, Luisa Menchaca allace General Counsel Enclosures Jwwjg I Govemment Code sections 81000 - 91014. Commission regulations appear atTitte2,sections 18109- 18997, of the Califomia Code of Regulations. @",
+    "summary": "The FPPC declined to provide advice to Frederick Lee Christensen Architects regarding the Political Reform Act, determining that the requestor was not a public official regulated under the Act and the request fell outside the Commission's purview."
+  }
+}

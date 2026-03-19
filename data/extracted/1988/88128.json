@@ -1,0 +1,73 @@
+{
+  "id": "88128",
+  "year": 1988,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1988/fppc-advice/88128.PDF",
+  "pdf_sha256": "afbaf74ee4d613ef89d726e047be461e8dd3c540587d1114d8f308da431b229a",
+  "local_pdf_path": "raw_pdfs/1988/88128.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1988 Advice Letter # 88128",
+    "tags": [
+      "1988",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:00:39",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1988&tagCount=1&page=41"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T17:44:35.921205Z",
+    "page_count": 1,
+    "word_count": 65,
+    "char_count": 429,
+    "quality_score": 0.7732163461538462,
+    "olmocr_cost": 0.0024424,
+    "native_word_count": 84
+  },
+  "content": {
+    "full_text": "CALLER: Jimmy Yee\n\nFOR: Assemblymember Trice Harvey\n\nDATE: March 22, 1988\n\nQUESTION: May Assemblymember Trice Harvey allow his \"not paid for at public expense\" letterhead to be used by proponents of a school bond measure?\n\nANSWER: Yes. However, the proponents must report the printing and mailing costs as an in-kind contribution to Harvey's campaign, and he must report receiving the contribution.\n\nFILE REFERENCE: Section 82015",
+    "full_text_markdown": "CALLER: Jimmy Yee\n\nFOR: Assemblymember Trice Harvey\n\nDATE: March 22, 1988\n\nQUESTION: May Assemblymember Trice Harvey allow his \"not paid for at public expense\" letterhead to be used by proponents of a school bond measure?\n\nANSWER: Yes. However, the proponents must report the printing and mailing costs as an in-kind contribution to Harvey's campaign, and he must report receiving the contribution.\n\nFILE REFERENCE: Section 82015"
+  },
+  "parsed": {
+    "date": "1988-03-22",
+    "date_raw": "March 22, 1988",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "May Assemblymember Trice Harvey allow his \"not paid for at public expense\" letterhead to be used by proponents of a school bond measure?\n\nANSWER: Yes. However, the proponents must report the printing and mailing costs as an in-kind contribution to Harvey's campaign, and he must report receiving the contribution.\n\nFILE REFERENCE: Section 82015",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.5499999999999999,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern"
+  },
+  "citations": {
+    "government_code": [
+      "82015"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-19T17:44:35.921205Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: May Assemblymember Trice Harvey allow his \"not paid for at public expense\" letterhead to be used by proponents of a school bond measure?\n\nANSWER: Yes. However, the proponents must report the printing and mailing costs as an in-kind contribution to Harvey's campaign, and he must report receiving the contribution.\n\nFILE REFERENCE: Section 82015",
+    "qa_source": "extracted",
+    "first_500_words": "CALLER: Jimmy Yee FOR: Assemblymember Trice Harvey DATE: March 22, 1988 QUESTION: May Assemblymember Trice Harvey allow his \"not paid for at public expense\" letterhead to be used by proponents of a school bond measure? ANSWER: Yes. However, the proponents must report the printing and mailing costs as an in-kind contribution to Harvey's campaign, and he must report receiving the contribution. FILE REFERENCE: Section 82015",
+    "summary": null
+  }
+}

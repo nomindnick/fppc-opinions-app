@@ -1,0 +1,72 @@
+{
+  "id": "79-075",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-075.PDF",
+  "pdf_sha256": "2ac7cea1e7b808e25a172ce1153128d0e0e32bdb3623ef894eaadcf2ce631261",
+  "local_pdf_path": "raw_pdfs/1979/79-075.PDF",
+  "source_metadata": {
+    "title_raw": "BROWN, EDMUND Year: 1979 Advice Letter # 79-075",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:26:17",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=13"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-27T17:15:01.621406Z",
+    "page_count": 1,
+    "word_count": 246,
+    "char_count": 1729,
+    "quality_score": 0.9166441416595561,
+    "olmocr_cost": 0.0025894599999999996,
+    "native_word_count": 0,
+    "haiku_cost": 0.002988
+  },
+  "content": {
+    "full_text": "State of California\nFair Political Practices Commission\nP.O. BOX 207 • SACRAMENTO, 95804 • • • 1100 K STREET BUILDING, SACRAMENTO, 95814\n\nTechnical Assistance • • • Administration • • • Enforcement • • • Conflict of Interest\n(916) 322 5662        322 5660        322 5901        322 6441        322 6444\n\nMarch 19, 1979\n\nEdmund G. Brown\n450 N. Roxbury\nBeverly Hills, CA 91020\n\nDear Governor Brown:\n\n     This will confirm today's telephone conversation when I\nadvised you concerning a contribution for your daughter's\ncampaign.\n\n     The facts as I understand them are as follows. A con-\ntributor gave you a $200 check for Kathleen Brown Rice's\ncampaign for the board of Education. The check was made\npayable to you. You asked whether you could endorse the\ncheck over to the Citizens to Elect Kathleen Brown Rice. I\nadvised you that there would be no problem with that procedure\nunder the Political Reform Act.\n\n     I also advised you that since the check contained the\nname of the contributor as the payor and was earmarked by\nthe contributor as a contribution to Kathleen Brown Rice you\nwill not be an intermediary for the contribution by endorsing\nthe check over to Citizens to Elect Kathleen Brown Rice.\n\nIf you have any other questions concerning the Political\nReform Act, please feel free to call.\n\n                                        Sincerely,\n\n                                        Barbara Campbell\n                                        Barbara Campbell\n                                        Counsel\n                                        Legal Division\n\nBC:plh\n\ncc: Citizens to Elect Kathleen\n     Brown Rice\n     Attention: Kathleen Brown Rice\n     6022 Wilshire Blvd., Suite 201\n     Los Angeles, CA 90036",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1979-03-19",
+    "date_raw": "March 19, 1979",
+    "requestor_name": "BROWN",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Can Governor Brown endorse a $200 check made payable to him over to his daughter's campaign committee, and would he be considered an intermediary under the Political Reform Act?",
+    "conclusion_synthetic": "There is no problem with endorsing the check over to the campaign committee. Governor Brown will not be considered an intermediary because the check is earmarked by the contributor for the daughter's campaign.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document lacks formal QUESTION and CONCLUSION section headers but contains clear factual recitation and legal advice. Content and format are consistent with FPPC advice letters. Telephone consultation confirmed in writing."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T16:50:25.425690Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Can Governor Brown endorse a $200 check made payable to him over to his daughter's campaign committee, and would he be considered an intermediary under the Political Reform Act?\n\nCONCLUSION: There is no problem with endorsing the check over to the campaign committee. Governor Brown will not be considered an intermediary because the check is earmarked by the contributor for the daughter's campaign.",
+    "qa_source": "synthetic",
+    "first_500_words": "March 19, 1979 Edmund G. Brown 450 N. Roxbury Beverly Hills, CA 91020 Dear Governor Brown: This will confirm today's telephone conversation when I advised you concerning a contribution for your daughter's campaign. The facts as I understand them are as follows. A contributor gave you a $200 check for Kathleen Brown Rice's campaign for the Board of Education. The check was made payable to you. You asked whether you could endorse the check over to the Citizens to Elect Kathleen Brown Rice. I advised you that there would be no problem with that procedure under the Political Reform Act. I also advised you that since the check contained the name of the contributor as the payor and was earmarked by the contributor as a contribution to Kathleen Brown Rice you will not be an intermediary for the contribution by endorsing the check over to Citizens to Elect Kathleen Brown Rice. If you have any other questions concerning the Political Reform Act, please feel free to call. Sincerely, Barbara Campbell Barbara Campbell Counsel Legal Division BC:plh cc: Citizens to Elect Kathleen Brown Rice Attention: Kathleen Brown Rice 6022 Wilshire Blvd., Suite 201 Los Angeles, CA 90036",
+    "summary": "FPPC counsel advises Governor Edmund Brown that he may endorse a $200 campaign contribution check to his daughter's campaign committee without being deemed an intermediary, since the check was earmarked by the contributor for that specific purpose."
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "79-187",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-187.PDF",
+  "pdf_sha256": "5b2b7f334bdd2e57f03062b13f3dd4d2b209eec907af54ae159dcc44f9871ede",
+  "local_pdf_path": "raw_pdfs/1979/79-187.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1979 Advice Letter # 79-187",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:26:35",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=17"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T17:49:21.603385Z",
+    "page_count": 1,
+    "word_count": 98,
+    "char_count": 583,
+    "quality_score": 0.78195,
+    "olmocr_cost": 0.00246476,
+    "native_word_count": 99
+  },
+  "content": {
+    "full_text": "Computing Filing date and Office\n\nAssumption Date\n\n87202 requires appointees to file statements 10 days prior to assuming office. Civil Code Section 10 indicates that the day on which the person assumes office may not be the tenth day. Moreover, if the tenth day is a Friday or Saturday or holiday, the appointee will either have to assume office on the weekend or holiday, or wait until the next business day. Gov. Code 6707. The same rule would apply for other filing dates under the Act except for the preelection campaign statements. See annotation of Attorney General's opinion.",
+    "full_text_markdown": "Computing Filing date and Office\n\nAssumption Date\n\n87202 requires appointees to file statements 10 days prior to assuming office. Civil Code Section 10 indicates that the day on which the person assumes office may not be the tenth day. Moreover, if the tenth day is a Friday or Saturday or holiday, the appointee will either have to assume office on the weekend or holiday, or wait until the next business day. Gov. Code 6707. The same rule would apply for other filing dates under the Act except for the preelection campaign statements. See annotation of Attorney General's opinion."
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-20T17:49:21.603385Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "Computing Filing date and Office Assumption Date 87202 requires appointees to file statements 10 days prior to assuming office. Civil Code Section 10 indicates that the day on which the person assumes office may not be the tenth day. Moreover, if the tenth day is a Friday or Saturday or holiday, the appointee will either have to assume office on the weekend or holiday, or wait until the next business day. Gov. Code 6707. The same rule would apply for other filing dates under the Act except for the preelection campaign statements. See annotation of Attorney General's opinion.",
+    "qa_source": "extracted",
+    "first_500_words": "Computing Filing date and Office Assumption Date 87202 requires appointees to file statements 10 days prior to assuming office. Civil Code Section 10 indicates that the day on which the person assumes office may not be the tenth day. Moreover, if the tenth day is a Friday or Saturday or holiday, the appointee will either have to assume office on the weekend or holiday, or wait until the next business day. Gov. Code 6707. The same rule would apply for other filing dates under the Act except for the preelection campaign statements. See annotation of Attorney General's opinion.",
+    "summary": null
+  }
+}

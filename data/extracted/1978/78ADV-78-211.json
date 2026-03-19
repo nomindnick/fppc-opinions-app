@@ -1,0 +1,71 @@
+{
+  "id": "78ADV-78-211",
+  "year": 1978,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1978/78ADV-78-211.PDF",
+  "pdf_sha256": "413598ab6ce65d28ebea0ede46bbf59d88d91770c17f8dc95fdbe5a538e33eaf",
+  "local_pdf_path": "raw_pdfs/1978/78ADV-78-211.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1978ADV Advice Letter # 78ADV-78-211",
+    "tags": [
+      "Advice Letter",
+      "1978"
+    ],
+    "scraped_at": "2026-01-31 15:23:21",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=7"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-07T16:56:05.265804Z",
+    "page_count": 1,
+    "word_count": 111,
+    "char_count": 670,
+    "quality_score": 0.5125,
+    "olmocr_cost": 0.00249056,
+    "native_word_count": 4
+  },
+  "content": {
+    "full_text": "April 3, 1978\n\nJoyce Valdez  \n3550 Wilshire Blvd., Suite 1630  \nLos Angeles, California 90010\n\nDear Joyce:\n\nThis is to confirm my conversation with you in which I stated the periods during which committees must file late contribution reports.\n\nFor committees making late contributions in the primary election held on June 6: May 23 - June 5.\n\nFor committees making late contributions in the general election held on November 7: October 24 - November 6.\n\nPlease note that if the committee makes a late contribution for an election held on another date, that report will be due within the 14 day period prior to the election.\n\nSincerely,\n\nRobert M. Stern  \nGeneral Counsel",
+    "full_text_markdown": "April 3, 1978\n\nJoyce Valdez  \n3550 Wilshire Blvd., Suite 1630  \nLos Angeles, California 90010\n\nDear Joyce:\n\nThis is to confirm my conversation with you in which I stated the periods during which committees must file late contribution reports.\n\nFor committees making late contributions in the primary election held on June 6: May 23 - June 5.\n\nFor committees making late contributions in the general election held on November 7: October 24 - November 6.\n\nPlease note that if the committee makes a late contribution for an election held on another date, that report will be due within the 14 day period prior to the election.\n\nSincerely,\n\nRobert M. Stern  \nGeneral Counsel"
+  },
+  "parsed": {
+    "date": "1978-04-03",
+    "date_raw": "April 3, 1978",
+    "requestor_name": null,
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "What are the filing deadlines for late contribution reports for committees making contributions in primary and general elections?",
+    "conclusion_synthetic": "Late contribution reports must be filed during specific periods: May 23-June 5 for the June 6 primary election, October 24-November 6 for the November 7 general election, and within 14 days prior to any other election date.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is a confirmation letter without formal QUESTION/CONCLUSION sections. Q/C content inferred from letter body. Written as follow-up to phone conversation with requester Joyce Valdez."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T16:56:05.265804Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: What are the filing deadlines for late contribution reports for committees making contributions in primary and general elections?\n\nCONCLUSION: Late contribution reports must be filed during specific periods: May 23-June 5 for the June 6 primary election, October 24-November 6 for the November 7 general election, and within 14 days prior to any other election date.",
+    "qa_source": "synthetic",
+    "first_500_words": "April 3, 1978 Joyce Valdez 3550 Wilshire Blvd., Suite 1630 Los Angeles, California 90010 Dear Joyce: This is to confirm my conversation with you in which I stated the periods during which committees must file late contribution reports. For committees making late contributions in the primary election held on June 6: May 23 - June 5. For committees making late contributions in the general election held on November 7: October 24 - November 6. Please note that if the committee makes a late contribution for an election held on another date, that report will be due within the 14 day period prior to the election. Sincerely, Robert M. Stern General Counsel",
+    "summary": "FPPC General Counsel Robert M. Stern confirms the filing deadlines for late contribution reports, specifying the periods before the primary and general elections and establishing a 14-day prior-to-election rule for other election dates."
+  }
+}

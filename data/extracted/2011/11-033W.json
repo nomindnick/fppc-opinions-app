@@ -1,0 +1,71 @@
+{
+  "id": "11-033W",
+  "year": 2011,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2011/11-033W.pdf",
+  "pdf_sha256": "225e52e0fe309fb685b378594316b60037999d76b18f4030c3f4fe820c950ff5",
+  "local_pdf_path": "raw_pdfs/2011/11-033W.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2011 Advice Letter # 11-033W",
+    "tags": [
+      "2011",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:53:42",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2011&tagCount=1&page=15"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:33:49.126475Z",
+    "page_count": 1,
+    "word_count": 221,
+    "char_count": 1472,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 221
+  },
+  "content": {
+    "full_text": "FAIR POLITICAL PRACTICES COMMISSION \n428 J Street • Suite 620 • Sacramento, CA 9S814-2329 \nJ. J. Jelincic \n3828 Hillcrest Lane \nSacramento, CA 95821 \nRE: Your Request for Advice \nOur File No. 11-033 \nDear Mr. Jelincic: \n(916) 322-S660 • Fax (916) 322-0886 \nApril 6, 2011 \nThis letter is in response to your request for advice regarding the statement of economic \ninterest disclosure provisions of the Political Reform Act (the \"Act\"). 1 \nYou have asked several questions regarding the reporting of interests in the state's \nSavings Plus Program. the Schwab Personal Choice Retirement Account offered under the \nSavings Plus Program and exchange traded funds. \nThe Commission is reviewing the disclosure and conflict-of-interest rules relating to \ninvestments. We anticipate the Commission will consider these issues in the near future. Until \nthen, you need not report the investments described in your letter. \nSincerely. \nJohn W. Wallace \nAssistant 7 Counsel \n--c/,\bcic\t \nBy: \nValentina Joyce \nCounsel, Legal Division \n1 The Political Reform Act is contained in Government Code Sections 8 IOOO through 9 IOl4. All statutory \nreferences are 10 the Government Code, unless otherwise indicated. The regulations of the Fair Political Practices \nCommission are contained in Sections 18110 through 18997 of Title 2 of the California Code of Regula1iuns. All \nregulatory references are to Title 2. Division 6 of the California Code of Regulations, unless otherwise indicated. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2011-04-06",
+    "date_raw": "April 6, 2011",
+    "requestor_name": "Jelincic",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "You have asked several questions regarding the reporting of interests in the state's Savings Plus Program, the Schwab Personal Choice Retirement Account offered under the Savings Plus Program and exchange traded funds.",
+    "conclusion": "The Commission is reviewing the disclosure and conflict-of-interest rules relating to investments. We anticipate the Commission will consider these issues in the near future. Until then, you need not report the investments described in your letter.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requestor asked whether certain investments in the Savings Plus Program, Schwab Personal Choice Retirement Account, and exchange traded funds must be reported under the statement of economic interest disclosure provisions of the Political Reform Act.",
+    "conclusion_synthetic": "The FPPC advised that the investments described do not need to be reported at this time, pending the Commission's ongoing review of disclosure and conflict-of-interest rules relating to investments.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document lacks formal QUESTION and CONCLUSION section headers but contains question and conclusion content in letter body. File number 11-033W indicates a withdrawal; however, the document is substantive advice rather than a withdrawal notice."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:33:49.126475Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: You have asked several questions regarding the reporting of interests in the state's Savings Plus Program, the Schwab Personal Choice Retirement Account offered under the Savings Plus Program and exchange traded funds.\n\nCONCLUSION: The Commission is reviewing the disclosure and conflict-of-interest rules relating to investments. We anticipate the Commission will consider these issues in the near future. Until then, you need not report the investments described in your letter.",
+    "qa_source": "mixed",
+    "first_500_words": "FAIR POLITICAL PRACTICES COMMISSION 428 J Street • Suite 620 • Sacramento, CA 9S814-2329 J. J. Jelincic 3828 Hillcrest Lane Sacramento, CA 95821 RE: Your Request for Advice Our File No. 11-033 Dear Mr. Jelincic: (916) 322-S660 • Fax (916) 322-0886 April 6, 2011 This letter is in response to your request for advice regarding the statement of economic interest disclosure provisions of the Political Reform Act (the \"Act\"). 1 You have asked several questions regarding the reporting of interests in the state's Savings Plus Program. the Schwab Personal Choice Retirement Account offered under the Savings Plus Program and exchange traded funds. The Commission is reviewing the disclosure and conflict-of-interest rules relating to investments. We anticipate the Commission will consider these issues in the near future. Until then, you need not report the investments described in your letter. Sincerely. John W. Wallace Assistant 7 Counsel --c/,\bcic By: Valentina Joyce Counsel, Legal Division 1 The Political Reform Act is contained in Government Code Sections 8 IOOO through 9 IOl4. All statutory references are 10 the Government Code, unless otherwise indicated. The regulations of the Fair Political Practices Commission are contained in Sections 18110 through 18997 of Title 2 of the California Code of Regula1iuns. All regulatory references are to Title 2. Division 6 of the California Code of Regulations, unless otherwise indicated.",
+    "summary": "The FPPC responded to J. J. Jelincic's request for advice regarding whether certain investments in the Savings Plus Program and related accounts must be disclosed under the Political Reform Act. The FPPC determined that the investments need not be reported pending completion of its review of investment disclosure rules."
+  }
+}

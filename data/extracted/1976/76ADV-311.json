@@ -1,0 +1,71 @@
+{
+  "id": "76ADV-311",
+  "year": 1976,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1976/76ADV-311.PDF",
+  "pdf_sha256": "28ea87695dab06b90f4274cd7d452a0c55edb0a54edbfb507e5ef1ae3098fb80",
+  "local_pdf_path": "raw_pdfs/1976/76ADV-311.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1976ADV Advice Letter # 76ADV-311",
+    "tags": [
+      "1976",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:18:51",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1976&tagCount=1&page=58"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-07T17:18:49.647785Z",
+    "page_count": 1,
+    "word_count": 184,
+    "char_count": 1138,
+    "quality_score": 0.7175,
+    "olmocr_cost": 0.00256968,
+    "native_word_count": 15
+  },
+  "content": {
+    "full_text": "November 24, 1976\n\nMr. Doug DeVries  \n2519 Coleman Way  \nSacramento, California 95818\n\nDear Mr. DeVries:\n\nWe spoke last week concerning your filing obligation under the Political Reform Act as a proponent of a ballot measure. I informed you that proponents are obligated to file a campaign statement within 65 days after the measure qualifies to be placed on the ballot or within 65 days after the deadline for circulating petitions.\n\nNew legislation which will become effective in January, 1977 eliminates the filing obligation of proponents of local ballot measures unless they qualify as a committee under the Political Reform Act. In that case, they are required to file a campaign statement 35 days after they qualify or 35 days after the final day for gathering signatures.\n\nI thought I should bring this to your attention in the event that the circulation drive we discussed will extend into 1977 which would bring you under the new provision of the law.\n\nIf you have any questions, please do not hesitate to call me.\n\nVery truly yours,\n\nRegina Siciliano-Kutchins  \nTechnical Assistance Program Coordinator\n\nRSK:bw  \nbcc: Jeanne P.",
+    "full_text_markdown": "November 24, 1976\n\nMr. Doug DeVries  \n2519 Coleman Way  \nSacramento, California 95818\n\nDear Mr. DeVries:\n\nWe spoke last week concerning your filing obligation under the Political Reform Act as a proponent of a ballot measure. I informed you that proponents are obligated to file a campaign statement within 65 days after the measure qualifies to be placed on the ballot or within 65 days after the deadline for circulating petitions.\n\nNew legislation which will become effective in January, 1977 eliminates the filing obligation of proponents of local ballot measures unless they qualify as a committee under the Political Reform Act. In that case, they are required to file a campaign statement 35 days after they qualify or 35 days after the final day for gathering signatures.\n\nI thought I should bring this to your attention in the event that the circulation drive we discussed will extend into 1977 which would bring you under the new provision of the law.\n\nIf you have any questions, please do not hesitate to call me.\n\nVery truly yours,\n\nRegina Siciliano-Kutchins  \nTechnical Assistance Program Coordinator\n\nRSK:bw  \nbcc: Jeanne P."
+  },
+  "parsed": {
+    "date": "1976-11-24",
+    "date_raw": "November 24, 1976",
+    "requestor_name": "De",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "What are the filing obligations for proponents of ballot measures under the Political Reform Act, and how will new legislation effective in January 1977 change those requirements?",
+    "conclusion_synthetic": "Proponents must file campaign statements within specified timeframes (65 days under current law, with new 1977 legislation reducing this to 35 days for local ballot measures if they qualify as a committee), and Mr. DeVries should be aware of these requirements if his circulation drive extends into 1977.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.82,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Informal letter without traditional QUESTION/CONCLUSION sections; formatted as direct correspondence following prior telephone conversation. Contains substantive legal guidance about filing timelines but lacks formal advice letter structure."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T17:18:49.647785Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: What are the filing obligations for proponents of ballot measures under the Political Reform Act, and how will new legislation effective in January 1977 change those requirements?\n\nCONCLUSION: Proponents must file campaign statements within specified timeframes (65 days under current law, with new 1977 legislation reducing this to 35 days for local ballot measures if they qualify as a committee), and Mr. DeVries should be aware of these requirements if his circulation drive extends into 1977.",
+    "qa_source": "synthetic",
+    "first_500_words": "November 24, 1976 Mr. Doug DeVries 2519 Coleman Way Sacramento, California 95818 Dear Mr. DeVries: We spoke last week concerning your filing obligation under the Political Reform Act as a proponent of a ballot measure. I informed you that proponents are obligated to file a campaign statement within 65 days after the measure qualifies to be placed on the ballot or within 65 days after the deadline for circulating petitions. New legislation which will become effective in January, 1977 eliminates the filing obligation of proponents of local ballot measures unless they qualify as a committee under the Political Reform Act. In that case, they are required to file a campaign statement 35 days after they qualify or 35 days after the final day for gathering signatures. I thought I should bring this to your attention in the event that the circulation drive we discussed will extend into 1977 which would bring you under the new provision of the law. If you have any questions, please do not hesitate to call me. Very truly yours, Regina Siciliano-Kutchins Technical Assistance Program Coordinator RSK:bw bcc: Jeanne P.",
+    "summary": "FPPC correspondence to a ballot measure proponent clarifying filing obligations under the Political Reform Act and notifying him of upcoming legislative changes effective January 1977 that will modify filing timelines."
+  }
+}

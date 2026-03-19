@@ -1,0 +1,71 @@
+{
+  "id": "76130",
+  "year": 1976,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1976/76130.PDF",
+  "pdf_sha256": "6379e5ba404fa662c8c68ce350c23d041352870465922057a5622807cf2fe3e3",
+  "local_pdf_path": "raw_pdfs/1976/76130.PDF",
+  "source_metadata": {
+    "title_raw": ", HAMBLETON Year: 1976 Advice Letter # 76130",
+    "tags": [
+      "1976",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:18:34",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1976&tagCount=1&page=54"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:22.141300Z",
+    "page_count": 1,
+    "word_count": 253,
+    "char_count": 1547,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 253
+  },
+  "content": {
+    "full_text": "To \nof California \nemorandum \nJohn, Gina, Paul \nJay \nJeanne, \nDote \nMay 12, 1976 \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nNan \nSubject: \nGovernment Code Section 8l005(b) states that reports and statements \nrequired by co~uittees supporting candidates for and persons holding \nthe office of superior court judge, member of the state legislature, \nand member of the Board of Equalization should be filed as follows: \n\"One original and one copy with the Secretary of \nState, and two copies with the clerk of the largest \ncounty by population which in whole or in part is \nincluded in the election district which the office-\nholder represents or in which the candidate or any \nof the candidates seek nomination or election, and \ntwo copies with the clerk of the county in which the \ncandidate or officeholder resides, or in which the \ncommittee is domiciled .... tt \nThe Legal Division has interpreted this section to require committees \nwhich support or oppose more than one candidate for or officeholder of \nany of the above offices to file with the following officials: \nOriginal and one copy - Secretary of State \nTwo copies -\nClerk of the one county with the largest \npopulation (in whole or in part) in all \nof the election districts in which the \ncandidates the filer supports or opposes \nseek nomination or election or in which \nthe persons hold office. \nTwo copies - Either the clerk of the county' of the \nfiling committee's domicile or the \nclerks of every county in which the \ncandidates or officeholders supported \nor opposed reside. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1976-05-12",
+    "date_raw": "May 12, 1976",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Where should committees supporting or opposing multiple candidates for superior court judge, state legislature, or Board of Equalization file their required reports and statements under Government Code Section 81005(b)?",
+    "conclusion_synthetic": "Committees supporting or opposing multiple candidates for these offices must file one original and one copy with the Secretary of State, two copies with the clerk of the most populous county across all relevant election districts, and two copies with either the filing committee's domicile county clerk or the clerks of all counties where the supported/opposed candidates or officeholders reside.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Internal FPPC memorandum dated May 12, 1976; no formal Q/A section headers present; addresses filing requirements interpretation by the Legal Division; addressed to multiple FPPC staff members (John, Gina, Paul, Jay, Jeanne)"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:22.141300Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Where should committees supporting or opposing multiple candidates for superior court judge, state legislature, or Board of Equalization file their required reports and statements under Government Code Section 81005(b)?\n\nCONCLUSION: Committees supporting or opposing multiple candidates for these offices must file one original and one copy with the Secretary of State, two copies with the clerk of the most populous county across all relevant election districts, and two copies with either the filing committee's domicile county clerk or the clerks of all counties where the supported/opposed candidates or officeholders reside.",
+    "qa_source": "synthetic",
+    "first_500_words": "To of California emorandum John, Gina, Paul Jay Jeanne, Dote May 12, 1976 From FAIR POLITICAL PRACTICES COMMISSION Nan Subject: Government Code Section 8l005(b) states that reports and statements required by co~uittees supporting candidates for and persons holding the office of superior court judge, member of the state legislature, and member of the Board of Equalization should be filed as follows: \"One original and one copy with the Secretary of State, and two copies with the clerk of the largest county by population which in whole or in part is included in the election district which the office- holder represents or in which the candidate or any of the candidates seek nomination or election, and two copies with the clerk of the county in which the candidate or officeholder resides, or in which the committee is domiciled .... tt The Legal Division has interpreted this section to require committees which support or oppose more than one candidate for or officeholder of any of the above offices to file with the following officials: Original and one copy - Secretary of State Two copies - Clerk of the one county with the largest population (in whole or in part) in all of the election districts in which the candidates the filer supports or opposes seek nomination or election or in which the persons hold office. Two copies - Either the clerk of the county' of the filing committee's domicile or the clerks of every county in which the candidates or officeholders supported or opposed reside.",
+    "summary": "This FPPC memorandum interprets Government Code Section 81005(b) regarding filing requirements for committees supporting or opposing candidates for superior court judge, state legislature, and Board of Equalization positions, clarifying the specific filing locations and number of copies required."
+  }
+}

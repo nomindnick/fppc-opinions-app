@@ -1,0 +1,71 @@
+{
+  "id": "10-026",
+  "year": 2010,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2010/10-026.pdf",
+  "pdf_sha256": "460e8a4820ec908aba8b40c1efeb3f35303bcb85bde29d0788a199052a69f01d",
+  "local_pdf_path": "raw_pdfs/2010/10-026.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2010 Advice Letter # 10-026",
+    "tags": [
+      "2010",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:51:10",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2010&tagCount=1&page=3"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T20:49:53.235471Z",
+    "page_count": 1,
+    "word_count": 76,
+    "char_count": 490,
+    "quality_score": 0.7642193414496791,
+    "olmocr_cost": 0.0024862599999999997,
+    "native_word_count": 99
+  },
+  "content": {
+    "full_text": "February 8, 2010\n\nMr. Bill Gausewitz  \n915 L Street, Suite 1110  \nSacramento, California 95814\n\nRe: Your Request for Advice  \nOur File No. W-10-026\n\nDear Mr. Gausewitz:\n\nThis letter is to notify you that we have withdrawn the above captioned request for advice per our telephone conversation on February 4, 2010.\n\nIf you have any questions, feel free to call me at (916) 322-5660.\n\nSincerely,\n\nScott Hallabrin  \nGeneral Counsel\n\n[signature]\n\nBy: Amber Maltbie  \nLegal Intern, Legal Division",
+    "full_text_markdown": "February 8, 2010\n\nMr. Bill Gausewitz  \n915 L Street, Suite 1110  \nSacramento, California 95814\n\nRe: Your Request for Advice  \nOur File No. W-10-026\n\nDear Mr. Gausewitz:\n\nThis letter is to notify you that we have withdrawn the above captioned request for advice per our telephone conversation on February 4, 2010.\n\nIf you have any questions, feel free to call me at (916) 322-5660.\n\nSincerely,\n\nScott Hallabrin  \nGeneral Counsel\n\n[signature]\n\nBy: Amber Maltbie  \nLegal Intern, Legal Division"
+  },
+  "parsed": {
+    "date": "2010-02-08",
+    "date_raw": "February 8, 2010",
+    "requestor_name": "Gausewitz",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T20:49:53.235471Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "February 8, 2010 Mr. Bill Gausewitz 915 L Street, Suite 1110 Sacramento, California 95814 Re: Your Request for Advice Our File No. W-10-026 Dear Mr. Gausewitz: This letter is to notify you that we have withdrawn the above captioned request for advice per our telephone conversation on February 4, 2010. If you have any questions, feel free to call me at (916) 322-5660. Sincerely, Scott Hallabrin General Counsel [signature] By: Amber Maltbie Legal Intern, Legal Division",
+    "qa_source": "extracted",
+    "first_500_words": "February 8, 2010 Mr. Bill Gausewitz 915 L Street, Suite 1110 Sacramento, California 95814 Re: Your Request for Advice Our File No. W-10-026 Dear Mr. Gausewitz: This letter is to notify you that we have withdrawn the above captioned request for advice per our telephone conversation on February 4, 2010. If you have any questions, feel free to call me at (916) 322-5660. Sincerely, Scott Hallabrin General Counsel [signature] By: Amber Maltbie Legal Intern, Legal Division",
+    "summary": null
+  }
+}

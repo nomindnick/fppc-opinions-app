@@ -1,0 +1,74 @@
+{
+  "id": "92-511",
+  "year": 1992,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1992/92-511.pdf",
+  "pdf_sha256": "73671ba0ebfddd15bfefc2a513b58454e7f0abd699bd2f65cabf4399603a223b",
+  "local_pdf_path": "raw_pdfs/1992/92-511.pdf",
+  "source_metadata": {
+    "title_raw": "Peterson, J. Year: 1992 Advice Letter # 92-511",
+    "tags": [
+      "Advice Letter",
+      "1992"
+    ],
+    "scraped_at": "2026-01-31 16:25:50",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1992&tagCount=1&page=41"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:15.595820Z",
+    "page_count": 1,
+    "word_count": 206,
+    "char_count": 1355,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 206
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\nOctober\n30,\n1992\nHonorable J.\nClinton Peterson\nPresiding Justice,\nDivision Five\nCourt of Appeal\nFirst Appellate District\n303\nSecond Street,\nSuite\n600\nSan Francisco,\nCA\n94107\nRE:\nYour .Request for Confirmation\nof Telephone Advice\nOur File No.\n1—92—511\nDear Justice Peterson:\nYou have requested confirmation of telephone advice\nconcerning the conflict of interest disclosure requirements of the\nPolitical Reform Act.\n(Government Code Sections\n81000—91015.)\nYour letter dated October\n5,\n1992,\ncorrectly summarizes\nmy\nadvice.\nBecause there was\nno break in service\nfrom your position\nas Associate Justice,\nDivision Two,\nand your appointment to\nPresiding Justice,\nDivision Five,\nof the Court of Appeal and the\njurisdiction for both offices remains the same,\nyou are not deemed\nto have assumed office or left office.\n(Government Code Section\n87205.)\nTherefore,\nyour next filing obligation will\nbe your\n1992\nannual Statement of\nEconomic Interests covering the period January\n1,\n1992\nthrough December 31,\n1992.\nYour annual statement is due\nno later than March\n1,\n1993.\nIf\nyou have any additional questions,\nplease feel free to\ncontact\nme at\n(916)\n322—5662.\nSincerely,\nLinda Moureaux\nPolitical\nReform Consultant\nTechnical Assistance Division\n4S J Street. Suite S1X)\n•\nP.O. Hox SO\nS\nSicrirnenro. CA\nQI’\n•\n(°Lo) 3225660\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1992-10-30",
+    "date_raw": "October\n30,\n1992",
+    "requestor_name": "Peterson",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "Because there was no break in service from your position as Associate Justice, Division Two, and your appointment to Presiding Justice, Division Five, of the Court of Appeal and the jurisdiction for both offices remains the same, you are not deemed to have assumed office or left office. (Government Code Section 87205.) Therefore, your next filing obligation will be your 1992 annual Statement of Economic Interests covering the period January 1, 1992 through December 31, 1992. Your annual statement is due no later than March 1, 1993.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Does a judge's transition from Associate Justice in one division to Presiding Justice in another division of the same court constitute assuming or leaving office for conflict of interest disclosure purposes?",
+    "conclusion_synthetic": "The FPPC confirmed that the judge's promotion within the same court with no break in service does not trigger new filing obligations. The judge's next required filing is the regular 1992 annual Statement of Economic Interests due by March 1, 1993.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is a confirmation letter responding to prior telephone advice. No formal QUESTION or CONCLUSION sections with headers, but the substantive advice is clearly stated. The document references the judge's October 5, 1992 letter which 'correctly summarizes' the telephone advice."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "87205"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:35:15.595820Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Does a judge's transition from Associate Justice in one division to Presiding Justice in another division of the same court constitute assuming or leaving office for conflict of interest disclosure purposes?\n\nCONCLUSION: Because there was no break in service from your position as Associate Justice, Division Two, and your appointment to Presiding Justice, Division Five, of the Court of Appeal and the jurisdiction for both offices remains the same, you are not deemed to have assumed office or left office. (Government Code Section 87205.) Therefore, your next filing obligation will be your 1992 annual Statement of Economic Interests covering the period January 1, 1992 through December 31, 1992. Your annual statement is due no later than March 1, 1993.",
+    "qa_source": "mixed",
+    "first_500_words": "California Fair Political Practices Commission October 30, 1992 Honorable J. Clinton Peterson Presiding Justice, Division Five Court of Appeal First Appellate District 303 Second Street, Suite 600 San Francisco, CA 94107 RE: Your .Request for Confirmation of Telephone Advice Our File No. 1—92—511 Dear Justice Peterson: You have requested confirmation of telephone advice concerning the conflict of interest disclosure requirements of the Political Reform Act. (Government Code Sections 81000—91015.) Your letter dated October 5, 1992, correctly summarizes my advice. Because there was no break in service from your position as Associate Justice, Division Two, and your appointment to Presiding Justice, Division Five, of the Court of Appeal and the jurisdiction for both offices remains the same, you are not deemed to have assumed office or left office. (Government Code Section 87205.) Therefore, your next filing obligation will be your 1992 annual Statement of Economic Interests covering the period January 1, 1992 through December 31, 1992. Your annual statement is due no later than March 1, 1993. If you have any additional questions, please feel free to contact me at (916) 322—5662. Sincerely, Linda Moureaux Political Reform Consultant Technical Assistance Division 4S J Street. Suite S1X) • P.O. Hox SO S Sicrirnenro. CA QI’ • (°Lo) 3225660",
+    "summary": "FPPC confirmed telephone advice regarding conflict of interest disclosure requirements for a California Court of Appeal justice who transitioned from Associate Justice to Presiding Justice. The FPPC determined no break in service occurred, so no new filing obligations were triggered."
+  }
+}

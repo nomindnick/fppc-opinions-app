@@ -1,0 +1,71 @@
+{
+  "id": "79-022",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-022.PDF",
+  "pdf_sha256": "4029000557fa936f1f9be249be29d0fa06359aba38c28817724a2654eea34e33",
+  "local_pdf_path": "raw_pdfs/1979/79-022.PDF",
+  "source_metadata": {
+    "title_raw": "HUNTER, JOHN Year: 1979 Advice Letter # 79-022",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:26:04",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=10"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:06.190978Z",
+    "page_count": 1,
+    "word_count": 178,
+    "char_count": 1144,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 178
+  },
+  "content": {
+    "full_text": "LAW AND GOVERNMENT AFFAIRS DIVISION \nRegional Counsel \nIrwin J. Shapiro \nGeneral Attornevs \nGordon E. Hepler \nJohn M. Hunter \nFrancis J. Stillman \nJanuary 9,1979 \nMs. Barbara Campbell \nLegal Division \nFair Political Practices Commission \nP.O. Box 807 \nSacramento, CA. \n95804 \nDear Ms. Campbell: \nThis is confirmation of our telephone conversation of January 8, 1979 \nrelative to the filing of Form 461 by Parent/Subsidiary Corporations. \nIt is my understanding that Montgomery Ward and Co. ,Inc. and fully \nowned subsidiary of Mobil Corporation, may file one form 461 for \nthe political contribution made to the Retailer's Good Government \nCouncil. \nFurther, it is my understanding that if it is noted that \nMontgomery Ward is a wholly-owned subsidiary of Mobil Corporation, \nand that Mobil Corporation approved the contribution on the form \n461, the filing by Montgomery Ward and Co., Inc. will fill the \nrequirements of In re Kahn found at 2 FPPC OPS 151. \nThank you for taking the time to discuss this matter with me. \nJOhnM.HU~ \nGeneral Attorney \nJMH:jo \nREGIONAL OFFICE 2825 EAST 14TH STREET / OAKLAND i CALIFORNIA 94616 / PHONE 533-1300 \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1979-01-09",
+    "date_raw": "January 9,1979",
+    "requestor_name": "Campbell",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether Montgomery Ward and Co., Inc., as a wholly-owned subsidiary of Mobil Corporation, may file a single Form 461 for a political contribution made to the Retailer's Good Government Council.",
+    "conclusion_synthetic": "Montgomery Ward and Co., Inc. may file one Form 461 for the political contribution if it notes that it is a wholly-owned subsidiary of Mobil Corporation and that Mobil Corporation approved the contribution, which will satisfy the requirements of In re Kahn (2 FPPC OPS 151).",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an incoming correspondence/request from an external party (Mobil/Montgomery Ward) to the FPPC, not an FPPC advice letter response. The document confirms a prior telephone conversation and contains an understanding of filing requirements rather than formal FPPC guidance. No formal question/conclusion sections are present."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:06.190978Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether Montgomery Ward and Co., Inc., as a wholly-owned subsidiary of Mobil Corporation, may file a single Form 461 for a political contribution made to the Retailer's Good Government Council.\n\nCONCLUSION: Montgomery Ward and Co., Inc. may file one Form 461 for the political contribution if it notes that it is a wholly-owned subsidiary of Mobil Corporation and that Mobil Corporation approved the contribution, which will satisfy the requirements of In re Kahn (2 FPPC OPS 151).",
+    "qa_source": "synthetic",
+    "first_500_words": "LAW AND GOVERNMENT AFFAIRS DIVISION Regional Counsel Irwin J. Shapiro General Attornevs Gordon E. Hepler John M. Hunter Francis J. Stillman January 9,1979 Ms. Barbara Campbell Legal Division Fair Political Practices Commission P.O. Box 807 Sacramento, CA. 95804 Dear Ms. Campbell: This is confirmation of our telephone conversation of January 8, 1979 relative to the filing of Form 461 by Parent/Subsidiary Corporations. It is my understanding that Montgomery Ward and Co. ,Inc. and fully owned subsidiary of Mobil Corporation, may file one form 461 for the political contribution made to the Retailer's Good Government Council. Further, it is my understanding that if it is noted that Montgomery Ward is a wholly-owned subsidiary of Mobil Corporation, and that Mobil Corporation approved the contribution on the form 461, the filing by Montgomery Ward and Co., Inc. will fill the requirements of In re Kahn found at 2 FPPC OPS 151. Thank you for taking the time to discuss this matter with me. JOhnM.HU~ General Attorney JMH:jo REGIONAL OFFICE 2825 EAST 14TH STREET / OAKLAND i CALIFORNIA 94616 / PHONE 533-1300",
+    "summary": "This is a confirmation letter from John M. Hunter, General Attorney, to Ms. Barbara Campbell at the FPPC, confirming a telephone discussion regarding Form 461 filing requirements for a parent corporation and its wholly-owned subsidiary concerning a political contribution."
+  }
+}

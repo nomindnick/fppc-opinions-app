@@ -1,0 +1,78 @@
+{
+  "id": "83A018",
+  "year": 1983,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1983/83A018.PDF",
+  "pdf_sha256": "a3945b6ced054f41218fbb302523249840fae601a93e3b9d76691e26a389c635",
+  "local_pdf_path": "raw_pdfs/1983/83A018.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1983 Advice Letter # 83A018",
+    "tags": [
+      "1983",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:33:09",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1983&tagCount=1&page=23"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:53.878272Z",
+    "page_count": 2,
+    "word_count": 365,
+    "char_count": 2173,
+    "quality_score": 0.6325000000000001,
+    "olmocr_cost": null,
+    "native_word_count": 365
+  },
+  "content": {
+    "full_text": "State of Callfomia \nMemorandum \nDATE: \nJanuary 27, 1983 \nTO: \nIe \nFROM: \nJanis Shank McLean \nRE: \nItems excluded under Section 82034 \nM-83-018 \nThe following items are not \"investments\" u \n82034: \nr Sect \nA t \nor demand \nsit \na financial institution; \n2. \nShares in a credit union; \n3. \nAny insurance policy; \n4. \nAn \nterest in a d \nrsified mutual fund register \nth \nthe SEC under th \nInvestment Company Act of 1940: \nA mu \nfund is also known as a \nement \nA mu \nfund is a company wh \nowns a \namount 0 \ndiversified stocks. \n(Although diversified, \ne \nstocks may all be of one type, such as stocks in various \ns of natural resources; utilities; or \nmarket \ninvestments ) \n1) \nThe investor buys a share in the mutual fund \nand he or she does not own \ninterest in the stock or \ninvestments \nt the mutual fund owns. \n2) \nThe investor \ns not control how the mutual \nfund \nes its investments. \n3) \nThe investor is aware of \nspecific \ninvestments \nmutual fund \n\n\n5) \nThe \nion from reporting appears to be \nbased upon the fact that the filer has no investment \ninterest in specific stocks, but only in \nmutual \nfund, which has highly diversified interests and a very \nsmall interest in anyone company. \n5. \nA common trust \nund crea \nthe Financial Code: \npursuant to Section 1564 of \na. \nSection 1564 allows any trust company to combine \nmoney from several trusts into one common trust fund. \nb. \nThis money is then invested. \nThe participating \nfiduciary relationshi \ndo not have an ownership interest in \nany of the particular investments held by the common trust \nfund, but rather, each has an undivided interest in the fund \nand its income. \nc. \nSee 7 Witkin, Summ. of Cal. Law, p.5425, Section \n64. \nSee Rev. and Tax Code Section 17671. \nd. \nUse of the common trust fund allows \nr \ndiversification (Witkin). \n6. \nInterests \ndefined benefit pension plans qualified \nunder Internal Revenue Code Sect \nn 401(a). \n(See Section \n82030(b) (11), M-82-173 and A-82-207.) \na. \nThese pension \nare handled as trusts. \n7. \nInterests in pro it sharing plans \nRev. Code Section 401(a). \n(See A-82-207.) \nlified under Int. \na. \nThese profit sharing plans are handled as trusts. \nJSM:km \n-\n2 -\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1983-01-27",
+    "date_raw": "January 27, 1983",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "The following items are not 'investments' under Section 82034: (1) accounts or demand deposits at financial institutions; (2) shares in a credit union; (3) any insurance policy; (4) interests in diversified mutual funds registered with the SEC under the Investment Company Act of 1940; (5) common trust funds created under Financial Code Section 1564; (6) interests in defined benefit pension plans qualified under Internal Revenue Code Section 401(a); and (7) interests in profit sharing plans qualified under Internal Revenue Code Section 401(a).",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "What items are excluded from the definition of 'investments' under Political Reform Act Section 82034?",
+    "conclusion_synthetic": "The FPPC identifies seven categories of assets that are excluded from the definition of 'investments' under Section 82034, including mutual funds, common trust funds, and qualified pension/profit-sharing plans. The exclusion is based on the filer's lack of direct ownership interest in specific underlying securities and limited control over investment decisions.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is a memorandum-style advice letter with no formal QUESTION/CONCLUSION section headers. The document number is M-83-018. Some text is obscured or partially illegible due to document quality, but the substantive content regarding exclusions is clear. Author is Janis Shank McLean."
+  },
+  "citations": {
+    "government_code": [
+      "82030(b)(11)",
+      "82034"
+    ],
+    "regulations": [],
+    "prior_opinions": [
+      "A-82-207",
+      "M-82-173",
+      "M-83-018"
+    ],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:36:53.878272Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: What items are excluded from the definition of 'investments' under Political Reform Act Section 82034?\n\nCONCLUSION: The following items are not 'investments' under Section 82034: (1) accounts or demand deposits at financial institutions; (2) shares in a credit union; (3) any insurance policy; (4) interests in diversified mutual funds registered with the SEC under the Investment Company Act of 1940; (5) common trust funds created under Financial Code Section 1564; (6) interests in defined benefit pension plans qualified under Internal Revenue Code Section 401(a); and (7) interests in profit sharing plans qualified under Internal Revenue Code Section 401(a).",
+    "qa_source": "mixed",
+    "first_500_words": "State of Callfomia Memorandum DATE: January 27, 1983 TO: Ie FROM: Janis Shank McLean RE: Items excluded under Section 82034 M-83-018 The following items are not \"investments\" u 82034: r Sect A t or demand sit a financial institution; 2. Shares in a credit union; 3. Any insurance policy; 4. An terest in a d rsified mutual fund register th the SEC under th Investment Company Act of 1940: A mu fund is also known as a ement A mu fund is a company wh owns a amount 0 diversified stocks. (Although diversified, e stocks may all be of one type, such as stocks in various s of natural resources; utilities; or market investments ) 1) The investor buys a share in the mutual fund and he or she does not own interest in the stock or investments t the mutual fund owns. 2) The investor s not control how the mutual fund es its investments. 3) The investor is aware of specific investments mutual fund 5) The ion from reporting appears to be based upon the fact that the filer has no investment interest in specific stocks, but only in mutual fund, which has highly diversified interests and a very small interest in anyone company. 5. A common trust und crea the Financial Code: pursuant to Section 1564 of a. Section 1564 allows any trust company to combine money from several trusts into one common trust fund. b. This money is then invested. The participating fiduciary relationshi do not have an ownership interest in any of the particular investments held by the common trust fund, but rather, each has an undivided interest in the fund and its income. c. See 7 Witkin, Summ. of Cal. Law, p.5425, Section 64. See Rev. and Tax Code Section 17671. d. Use of the common trust fund allows r diversification (Witkin). 6. Interests defined benefit pension plans qualified under Internal Revenue Code Sect n 401(a). (See Section 82030(b) (11), M-82-173 and A-82-207.) a. These pension are handled as trusts. 7. Interests in pro it sharing plans Rev. Code Section 401(a). (See A-82-207.) lified under Int. a. These profit sharing plans are handled as trusts. JSM:km - 2 -",
+    "summary": "This FPPC memorandum clarifies that seven categories of assets—including deposit accounts, credit union shares, insurance policies, diversified mutual funds, common trust funds, and qualified pension and profit-sharing plans—are excluded from the definition of 'investments' under Political Reform Act Section 82034."
+  }
+}

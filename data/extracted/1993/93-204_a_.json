@@ -1,0 +1,73 @@
+{
+  "id": "93-204(a)",
+  "year": 1993,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1993/93-204(a).pdf",
+  "pdf_sha256": "bfa21563d6c12424a6ee15f95fb865f97dd67c88b36f9b77f59df276da7941d7",
+  "local_pdf_path": "raw_pdfs/1993/93-204(a).pdf",
+  "source_metadata": {
+    "title_raw": "Year: 1993 Advice Letter # 93-204(a)",
+    "tags": [
+      "1993",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:32:51",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1993&tagCount=1&page=26"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:08.561780Z",
+    "page_count": 1,
+    "word_count": 164,
+    "char_count": 1011,
+    "quality_score": 0.6675,
+    "olmocr_cost": null,
+    "native_word_count": 164
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\nOctober 12,\n1993\nCharles Kim\nSteel Law Building\n610 S. Harvard Blvd.,\nSte.\n111\nLos Angeles,\nCA\n90005\nRe:\nYour Request for\nSupplemental Advice\nOur File No.\nA—93-204a\nDear Mr.\nKim:\nYou have requested reconsideration of the advice provided to\nyou on June 17,\n1993,\nconcerning the campaign provisions of the\nPolitical Reform Act.\n(Government Code Sections 81000-91015.)\nThis letter will confirm the telephone advice I provided to\nJoseph Ahn on September 2,\n1993.\nI informed Mr.\nAhn that the\nadvice provided to you on June 17,\n1993,\nwas based on the language\nof the invitation to Mr.\nKwon’s retirement party and not on the\nactivities which occurred at the event.\nTherefore,\nwe still\nconsider the event to be a political fundraiser.\nIf you have questions concerning this letter, please contact\nme at\n(916)\n322—5662.\nSincerely,\nCarla Wardlow\nDivision Chief\nTechnical Assistance Division\n428 J Street, Suite 800 •\nP.O. Box 807 •\nSacramento, CA\n95804-0S07 •\n(916) 322-5660\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1993-10-12",
+    "date_raw": "October 12,\n1993",
+    "requestor_name": "Kim",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "We still consider the event to be a political fundraiser.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a retirement party event should be classified as a political fundraiser based on the invitation language versus actual activities that occurred at the event.",
+    "conclusion_synthetic": "The FPPC maintains its prior advice that the event constitutes a political fundraiser, as the classification is based on the language of the invitation rather than the activities that actually occurred at the event.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: No formal QUESTION or CONCLUSION sections present. This is a follow-up/supplemental advice letter confirming telephone advice previously provided. Prior advice from June 17, 1993 is referenced but not included in this document. Telephone advice confirmation from September 2, 1993 is summarized."
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:35:08.561780Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether a retirement party event should be classified as a political fundraiser based on the invitation language versus actual activities that occurred at the event.\n\nCONCLUSION: We still consider the event to be a political fundraiser.",
+    "qa_source": "mixed",
+    "first_500_words": "California Fair Political Practices Commission October 12, 1993 Charles Kim Steel Law Building 610 S. Harvard Blvd., Ste. 111 Los Angeles, CA 90005 Re: Your Request for Supplemental Advice Our File No. A—93-204a Dear Mr. Kim: You have requested reconsideration of the advice provided to you on June 17, 1993, concerning the campaign provisions of the Political Reform Act. (Government Code Sections 81000-91015.) This letter will confirm the telephone advice I provided to Joseph Ahn on September 2, 1993. I informed Mr. Ahn that the advice provided to you on June 17, 1993, was based on the language of the invitation to Mr. Kwon’s retirement party and not on the activities which occurred at the event. Therefore, we still consider the event to be a political fundraiser. If you have questions concerning this letter, please contact me at (916) 322—5662. Sincerely, Carla Wardlow Division Chief Technical Assistance Division 428 J Street, Suite 800 • P.O. Box 807 • Sacramento, CA 95804-0S07 • (916) 322-5660",
+    "summary": "This is a supplemental advice letter responding to a request for reconsideration of prior advice (dated June 17, 1993) regarding whether a retirement party constitutes a political fundraiser under the Political Reform Act. The FPPC reaffirms its original position that the event is a political fundraiser based on the invitation language."
+  }
+}

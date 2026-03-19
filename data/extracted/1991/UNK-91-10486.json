@@ -1,0 +1,71 @@
+{
+  "id": "UNK-91-10486",
+  "year": 1991,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1991/91219.pdf",
+  "pdf_sha256": "27c73054f5dec072498c7ddc8f71c3a32c5173a2ff5fcd9835fe3937d2966935",
+  "local_pdf_path": "raw_pdfs/1991/91219.pdf",
+  "source_metadata": {
+    "title_raw": "1991-91219-Dal, Bon,",
+    "tags": [
+      "1991",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:20:41",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1991&tagCount=1&page=67"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:29.002872Z",
+    "page_count": 1,
+    "word_count": 162,
+    "char_count": 921,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 162
+  },
+  "content": {
+    "full_text": "tlnr i\nili il\n3 ''s [11 'Sl\nApril 30, 1991\nMr. Scoll Hallabrin\nActing General Counsel\nFPPC\nPO Box 807\nSacramento, Ca 95812\nDear Mr. Hallabrin:\nIt is my understanding lhat if a locally elected ofricial receives a gift with a value in\nexcess of $1000 the recipient must reporl the gift on lhe annual report and reimburse\nthe donor for the amount that exceeds $1000 within 30 days of the receipl of the gift.\nI would appreciate a response to the following questions:\nMay the recipient base the value reporled on a verbal estimate by lhe donor or, absent\ninformation trom the donor, on a good laith eslimate by the recipient?\nls the donor required to maintain any documentation?\nDoes the law require that lhe reimbursemenl be in the lorm ol money?\nCan the donor be reimbursed with a comparable gift or with services of equivalent\nvalue?\nWhat does the FPPC consider adequate documentation of the reimbursement?\nBon\n674\nStreet\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1991-04-30",
+    "date_raw": "April 30, 1991",
+    "requestor_name": "Hallabrin",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "May the recipient base the value reported on a verbal estimate by the donor or, absent information from the donor, on a good faith estimate by the recipient? Is the donor required to maintain any documentation? Does the law require that the reimbursement be in the form of money? Can the donor be reimbursed with a comparable gift or with services of equivalent value? What does the FPPC consider adequate documentation of the reimbursement?",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "A locally elected official seeks clarification on the procedures for reporting and reimbursing gifts exceeding $1000, including valuation methods, documentation requirements, and acceptable forms of reimbursement.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.65,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document appears to be an incoming request letter rather than an FPPC response/advice letter. No conclusion or answer section is present. The document header is unclear and may contain OCR errors. Address information is incomplete at the bottom of the document."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:35:29.002872Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: May the recipient base the value reported on a verbal estimate by the donor or, absent information from the donor, on a good faith estimate by the recipient? Is the donor required to maintain any documentation? Does the law require that the reimbursement be in the form of money? Can the donor be reimbursed with a comparable gift or with services of equivalent value? What does the FPPC consider adequate documentation of the reimbursement?",
+    "qa_source": "mixed",
+    "first_500_words": "tlnr i ili il 3 ''s [11 'Sl April 30, 1991 Mr. Scoll Hallabrin Acting General Counsel FPPC PO Box 807 Sacramento, Ca 95812 Dear Mr. Hallabrin: It is my understanding lhat if a locally elected ofricial receives a gift with a value in excess of $1000 the recipient must reporl the gift on lhe annual report and reimburse the donor for the amount that exceeds $1000 within 30 days of the receipl of the gift. I would appreciate a response to the following questions: May the recipient base the value reporled on a verbal estimate by lhe donor or, absent information trom the donor, on a good laith eslimate by the recipient? ls the donor required to maintain any documentation? Does the law require that lhe reimbursemenl be in the lorm ol money? Can the donor be reimbursed with a comparable gift or with services of equivalent value? What does the FPPC consider adequate documentation of the reimbursement? Bon 674 Street",
+    "summary": "This is an incoming request letter from an individual (possibly Scott Hallabrin, Acting General Counsel at FPPC based on the addressee line confusion in the document) asking five specific questions about gift reporting and reimbursement requirements for locally elected officials under California law."
+  }
+}

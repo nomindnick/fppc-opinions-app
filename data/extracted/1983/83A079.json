@@ -1,0 +1,71 @@
+{
+  "id": "83A079",
+  "year": 1983,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1983/83A079.PDF",
+  "pdf_sha256": "271f28a203d0ef1217415501b445f832954f6b8669ad976aabdce48734867baf",
+  "local_pdf_path": "raw_pdfs/1983/83A079.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1983 Advice Letter # 83A079",
+    "tags": [
+      "1983",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:33:04",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1983&tagCount=1&page=22"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T15:33:46.683323Z",
+    "page_count": 1,
+    "word_count": 58,
+    "char_count": 343,
+    "quality_score": 0.758413176466478,
+    "olmocr_cost": 0.00243552,
+    "native_word_count": 58
+  },
+  "content": {
+    "full_text": "State of California\n\nMemorandum\n\nMarch 29, 1983\n\nTO: File\nFROM: Janis Shank McLean JSM\nRE: T-83-079\n\nA proponent of having card rooms in San Diego paid for the special election at which the public will vote on whether to have card rooms. The $18,000 paid constitutes an expenditure or contribution and the proponent is a major donor committee.",
+    "full_text_markdown": "State of California\n\nMemorandum\n\nMarch 29, 1983\n\nTO: File\nFROM: Janis Shank McLean JSM\nRE: T-83-079\n\nA proponent of having card rooms in San Diego paid for the special election at which the public will vote on whether to have card rooms. The $18,000 paid constitutes an expenditure or contribution and the proponent is a major donor committee."
+  },
+  "parsed": {
+    "date": "1983-03-29",
+    "date_raw": "March 29, 1983",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-20T15:33:46.683323Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "State of California Memorandum March 29, 1983 TO: File FROM: Janis Shank McLean JSM RE: T-83-079 A proponent of having card rooms in San Diego paid for the special election at which the public will vote on whether to have card rooms. The $18,000 paid constitutes an expenditure or contribution and the proponent is a major donor committee.",
+    "qa_source": "extracted",
+    "first_500_words": "State of California Memorandum March 29, 1983 TO: File FROM: Janis Shank McLean JSM RE: T-83-079 A proponent of having card rooms in San Diego paid for the special election at which the public will vote on whether to have card rooms. The $18,000 paid constitutes an expenditure or contribution and the proponent is a major donor committee.",
+    "summary": null
+  }
+}

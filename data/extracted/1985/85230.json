@@ -1,0 +1,74 @@
+{
+  "id": "85230",
+  "year": 1985,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1985/fppc-advice/85230.PDF",
+  "pdf_sha256": "29e11812c67b8d28c7c565aa5259969c970d4924058591206151c0c2000a5ac1",
+  "local_pdf_path": "raw_pdfs/1985/85230.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1985 Advice Letter # 85230",
+    "tags": [
+      "Advice Letter",
+      "1985"
+    ],
+    "scraped_at": "2026-01-31 15:36:21",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1985&tagCount=1&page=10"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:39.523601Z",
+    "page_count": 2,
+    "word_count": 241,
+    "char_count": 1592,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 241
+  },
+  "content": {
+    "full_text": "California \nFair Political \nPractices Commission \nElizabeth Gowan \n23486 Deer Creek Road \nSmartville, CA \n95977 \nDear Ms. Gowan: \nNovember 19, 1985 \nRe: \nOur File No. A-85-230 \nThis is in response to your letter of November 4, 1985, \nwhich asked whether any identification requirements are imposed \non persons who pay for political advertisements. \nThe Political Reform Act (Government Code Sections 81000-\n91015), which this agency administers, contains no provisions \nrequiring such persons to be identified except with respect to \nmass mailings (200 or more identical or nearly identical pieces \nof mail sent in a calendar month). \nIn the case of a mass mailing, \nGovernment Code Section 84305 requires the name and address of \nthe candidate or committee paying for the mailing to be identified. \nIn addition, Elections Code Section 11708 requires newspaper \nadvertiserrren.ts.=: whIch refer to an election or candidate to con-\ntain the words \"paid political advertisement.\" \nThe Commission has \nno jurisdiction with respect to the Elections Code. \nIf you have \nany questions regarding this section, you should contact your \nlocal enforcement official. \nEnclosed is a copy of the FPPC \"Information Manual on \nCampaign Disclosure Provisions of the Political Reform Act,\" \nwhich outlines all of the requirements imposed on candidates \nand committees by the Act. \nIf I can be of further assistance, \nplease do not hesitate to contact me. \nSincerely, \nCarla Wardlow \nPolitical Reform Consultant \nEnclosure \n428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804-0807 • (916) 322,5660 \n\n\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1985-11-19",
+    "date_raw": "November 19, 1985",
+    "requestor_name": "Gowan",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "whether any identification requirements are imposed on persons who pay for political advertisements",
+    "conclusion": "The Political Reform Act contains no provisions requiring such persons to be identified except with respect to mass mailings (200 or more identical or nearly identical pieces of mail sent in a calendar month). In the case of a mass mailing, Government Code Section 84305 requires the name and address of the candidate or committee paying for the mailing to be identified. In addition, Elections Code Section 11708 requires newspaper advertisements which refer to an election or candidate to contain the words 'paid political advertisement.' The Commission has no jurisdiction with respect to the Elections Code.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requester asked whether persons who pay for political advertisements must be identified under the Political Reform Act.",
+    "conclusion_synthetic": "The FPPC concluded that the Political Reform Act requires identification only for mass mailings (200+ identical pieces in a calendar month), where the candidate or committee name and address must be disclosed. Newspaper advertisements referencing elections or candidates must contain 'paid political advertisement' language under Elections Code Section 11708, which is outside FPPC jurisdiction.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Standard FPPC advice letter format. Question and conclusion clearly stated in body text. Document dated November 19, 1985; File No. A-85-230. Requester was Elizabeth Gowan from Smartville, CA."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "84305"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:36:39.523601Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: whether any identification requirements are imposed on persons who pay for political advertisements\n\nCONCLUSION: The Political Reform Act contains no provisions requiring such persons to be identified except with respect to mass mailings (200 or more identical or nearly identical pieces of mail sent in a calendar month). In the case of a mass mailing, Government Code Section 84305 requires the name and address of the candidate or committee paying for the mailing to be identified. In addition, Elections Code Section 11708 requires newspaper advertisements which refer to an election or candidate to contain the words 'paid political advertisement.' The Commission has no jurisdiction with respect to the Elections Code.",
+    "qa_source": "mixed",
+    "first_500_words": "California Fair Political Practices Commission Elizabeth Gowan 23486 Deer Creek Road Smartville, CA 95977 Dear Ms. Gowan: November 19, 1985 Re: Our File No. A-85-230 This is in response to your letter of November 4, 1985, which asked whether any identification requirements are imposed on persons who pay for political advertisements. The Political Reform Act (Government Code Sections 81000- 91015), which this agency administers, contains no provisions requiring such persons to be identified except with respect to mass mailings (200 or more identical or nearly identical pieces of mail sent in a calendar month). In the case of a mass mailing, Government Code Section 84305 requires the name and address of the candidate or committee paying for the mailing to be identified. In addition, Elections Code Section 11708 requires newspaper advertiserrren.ts.=: whIch refer to an election or candidate to con- tain the words \"paid political advertisement.\" The Commission has no jurisdiction with respect to the Elections Code. If you have any questions regarding this section, you should contact your local enforcement official. Enclosed is a copy of the FPPC \"Information Manual on Campaign Disclosure Provisions of the Political Reform Act,\" which outlines all of the requirements imposed on candidates and committees by the Act. If I can be of further assistance, please do not hesitate to contact me. Sincerely, Carla Wardlow Political Reform Consultant Enclosure 428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804-0807 • (916) 322,5660",
+    "summary": "FPPC advised that the Political Reform Act does not generally require identification of persons paying for political advertisements, except for mass mailings which must identify the paying candidate or committee. The FPPC also noted that Elections Code Section 11708 requires newspaper political advertisements to contain specific language."
+  }
+}

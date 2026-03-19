@@ -1,0 +1,73 @@
+{
+  "id": "92-325",
+  "year": 1992,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1992/92-325.pdf",
+  "pdf_sha256": "f0886677c95686a39f11bfe036f1e9081239e033e9aac523230d8e57c7ccf07b",
+  "local_pdf_path": "raw_pdfs/1992/92-325.pdf",
+  "source_metadata": {
+    "title_raw": "Wechsler, Shirley Year: 1992 Advice Letter # 92-325",
+    "tags": [
+      "Advice Letter",
+      "1992"
+    ],
+    "scraped_at": "2026-01-31 16:25:27",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1992&tagCount=1&page=36"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:14.857773Z",
+    "page_count": 1,
+    "word_count": 185,
+    "char_count": 1260,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 185
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\nJune 11,\n1992\nShirley Wechsler\n11783 Laureicrest Drive\nStudio City,\nCA\n91604\nRe:\nYour Request for Advice\nOur File No.\nA-92—325\nDear Ms.\nWechsler:\nYou have requested confirmation of telephone advice on behalf\nof Senator David Roberti concerning the campaign disclosure\nprovisions of the Political Reform Act\n(Government Code Sections\n81000—91015.)\nExcept as noted, your letter, dated May 22,\n1992, correctly\nsummarizes my advice concerning Senator Roberti’s campaign\ncommittees.\nFollowing his election to the 20th Senate District on\nJune 2,\n1992,\nSenator Roberti may combine his campaign committee\nfor the 23rd Senate District with his special election account for\nthe 20th District.\nHowever, if the election committee solicits or\nreceives contributions for the purpose of paying debts in\nconnection with the special election or special runoff election,\nsuch contributions remain subject to the Act’s contribution\nlimitations.\nIf you have any questions concerning this letter, please\ncontact me at\n(916)\n322-5662.\nSincerely,\nScott Hallabrin\nActing General Counsel\nBy:\nCarla Wardlow\nChief, Technical Assistance\nand Analysis Division\n428 J Street, Suite 800\n• P.O. Box 807 • Sacramento CA 95804-0807 • (916)322-5660\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1992-06-11",
+    "date_raw": "June 11,\n1992",
+    "requestor_name": "Wechsler",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Can Senator David Roberti combine his campaign committee for the 23rd Senate District with his special election account for the 20th District following his election on June 2, 1992, and what contribution limitations apply to any debts from the special election?",
+    "conclusion_synthetic": "Following his election to the 20th Senate District on June 2, 1992, Senator Roberti may combine his campaign committee for the 23rd Senate District with his special election account for the 20th District. However, contributions solicited or received for paying debts in connection with the special election or special runoff election remain subject to the Act's contribution limitations.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document lacks traditional QUESTION and CONCLUSION section headers but contains clear question and answer in letter format. Parsed question and conclusion from letter body text. Confirmation letter references prior telephone advice. File number A-92-325."
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:35:14.857773Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Can Senator David Roberti combine his campaign committee for the 23rd Senate District with his special election account for the 20th District following his election on June 2, 1992, and what contribution limitations apply to any debts from the special election?\n\nCONCLUSION: Following his election to the 20th Senate District on June 2, 1992, Senator Roberti may combine his campaign committee for the 23rd Senate District with his special election account for the 20th District. However, contributions solicited or received for paying debts in connection with the special election or special runoff election remain subject to the Act's contribution limitations.",
+    "qa_source": "synthetic",
+    "first_500_words": "California Fair Political Practices Commission June 11, 1992 Shirley Wechsler 11783 Laureicrest Drive Studio City, CA 91604 Re: Your Request for Advice Our File No. A-92—325 Dear Ms. Wechsler: You have requested confirmation of telephone advice on behalf of Senator David Roberti concerning the campaign disclosure provisions of the Political Reform Act (Government Code Sections 81000—91015.) Except as noted, your letter, dated May 22, 1992, correctly summarizes my advice concerning Senator Roberti’s campaign committees. Following his election to the 20th Senate District on June 2, 1992, Senator Roberti may combine his campaign committee for the 23rd Senate District with his special election account for the 20th District. However, if the election committee solicits or receives contributions for the purpose of paying debts in connection with the special election or special runoff election, such contributions remain subject to the Act’s contribution limitations. If you have any questions concerning this letter, please contact me at (916) 322-5662. Sincerely, Scott Hallabrin Acting General Counsel By: Carla Wardlow Chief, Technical Assistance and Analysis Division 428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804-0807 • (916)322-5660",
+    "summary": "FPPC confirms telephone advice to Senator David Roberti's representative regarding campaign disclosure provisions under the Political Reform Act, specifically permitting the combination of campaign committees following his election to the 20th Senate District while maintaining contribution limitations for special election debt payments."
+  }
+}

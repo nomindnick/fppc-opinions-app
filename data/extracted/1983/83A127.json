@@ -1,0 +1,73 @@
+{
+  "id": "83A127",
+  "year": 1983,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1983/83A127.PDF",
+  "pdf_sha256": "6fe278abca7e514aac480b8ae6bccd164794176c9fa6225685ca251891173e15",
+  "local_pdf_path": "raw_pdfs/1983/83A127.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1983 Advice Letter # 83A127",
+    "tags": [
+      "1983",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:32:38",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1983&tagCount=1&page=16"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T23:02:55.507933Z",
+    "page_count": 1,
+    "word_count": 52,
+    "char_count": 345,
+    "quality_score": 0.7606456165605613,
+    "olmocr_cost": 0.00244326,
+    "native_word_count": 56
+  },
+  "content": {
+    "full_text": "State of California\n\nMemorandum\n\nTo: File\n\nDate: May 12, 1983\nNo.: M-83-127\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION\n        Ted Prim\n\nSubject: Conversation with Vance Raye on May 11, 1983\n\nI advised Vance Raye, council to the Governor, that money market funds were not reportable so long as they were diversified mutual funds.\n\nTP:plh",
+    "full_text_markdown": "State of California\n\nMemorandum\n\nTo: File\n\nDate: May 12, 1983\nNo.: M-83-127\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION\n        Ted Prim\n\nSubject: Conversation with Vance Raye on May 11, 1983\n\nI advised Vance Raye, council to the Governor, that money market funds were not reportable so long as they were diversified mutual funds.\n\nTP:plh"
+  },
+  "parsed": {
+    "date": "1983-05-12",
+    "date_raw": "May 12, 1983",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [
+      "M-83-127"
+    ],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T23:02:55.507933Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "**State of California** **Memorandum** To: File Date: May 12, 1983 No.: M-83-127 From: FAIR POLITICAL PRACTICES COMMISSION Ted Prim Subject: Conversation with Vance Raye on May 11, 1983 I advised Vance Raye, council to the Governor, that money market funds were not reportable so long as they were diversified mutual funds. TP:plh",
+    "qa_source": "extracted",
+    "first_500_words": "**State of California** **Memorandum** To: File Date: May 12, 1983 No.: M-83-127 From: FAIR POLITICAL PRACTICES COMMISSION Ted Prim Subject: Conversation with Vance Raye on May 11, 1983 I advised Vance Raye, council to the Governor, that money market funds were not reportable so long as they were diversified mutual funds. TP:plh",
+    "summary": null
+  }
+}

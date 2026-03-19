@@ -1,0 +1,72 @@
+{
+  "id": "79-050",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-050.PDF",
+  "pdf_sha256": "6a078d3c7b5404dfb8d9e76562e41c0ccd94e051256d43b35aeaa24d75435387",
+  "local_pdf_path": "raw_pdfs/1979/79-050.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1979 Advice Letter # 79-050",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:25:24",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-25T22:48:12.315363Z",
+    "page_count": 1,
+    "word_count": 161,
+    "char_count": 1053,
+    "quality_score": 0.9118495341614907,
+    "olmocr_cost": 0.0025361399999999997,
+    "native_word_count": 5,
+    "haiku_cost": 0.002236
+  },
+  "content": {
+    "full_text": "State of California\n\nMemorandum\n\nTo : File                                          Date : Jan. 2, 1979\n\nFrom : FAIR POLITICAL PRACTICES COMMISSION\n        Ed Priem\n\nSubject: Parents and subsidiaries\n\nAt the opinion meeting of December 16, 1978, the\nstaff concluded that a client corporation and all wholly owned\nsubsidiaries are considered to be one entity for the purpose\nof disqualification. Thus, it is effort \"owns an investment in the parent corporation, it will be disqualified from\nparticipating in any decision affecting the parent. Similarly, if\nthe parent or a wholly owned subsidiary. Similarly, an official who owns an investment in a subsidiary which is wholly\nowned by a parent is disqualified from participating in any\ndecision which affects the parent corporation, or any other\nwholly owned subsidiary.\n\nThe staff determined that there is a distinction between a\nparent and a subsidiary in which the parent owns less than a\n100% interest should be analyzed on a case-by-case basis and\neventually should be subject of regulation.\n\n*P:nrw",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1978-12-16",
+    "date_raw": "December 16, 1978",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "How should parent corporations and their subsidiaries be treated for purposes of official disqualification under the Political Reform Act?",
+    "conclusion_synthetic": "A parent corporation and all wholly owned subsidiaries are treated as a single entity for disqualification purposes. An official with investments in either the parent or a wholly owned subsidiary is disqualified from decisions affecting any entity in that chain. Parent-subsidiary relationships with less than 100% ownership require case-by-case analysis.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is a staff memorandum rather than a formal advice letter format. No traditional QUESTION or CONCLUSION sections present; legal guidance conveyed in narrative paragraph form. Opinion request referenced but not included in document."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T16:40:33.610045Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: How should parent corporations and their subsidiaries be treated for purposes of official disqualification under the Political Reform Act?\n\nCONCLUSION: A parent corporation and all wholly owned subsidiaries are treated as a single entity for disqualification purposes. An official with investments in either the parent or a wholly owned subsidiary is disqualified from decisions affecting any entity in that chain. Parent-subsidiary relationships with less than 100% ownership require case-by-case analysis.",
+    "qa_source": "synthetic",
+    "first_500_words": "**Memorandum** **To:** File **Date:** Jan. 2, 1979 **From:** FAIR POLITICAL PRACTICES COMMISSION Ted Prim **Subject:** Parents and subsidiaries At the opinion request received on December 16, 1978, the staff concluded that a parent corporation and all wholly owned subsidiaries are considered to be a single entity for the purpose of disqualification. Thus, if an official owns an investment in the parent corporation, he will be disqualified from participating in any decision which will materially affect the parent or any wholly owned subsidiary. Similarly, an official who owns an investment in a subsidiary which is wholly owned by a parent is disqualified from participating in any decision which affects that subsidiary, the parent corporation, or any other wholly owned subsidiary. The staff determined that the relationship between a parent and a subsidiary, in which the parent owns less than a 100% interest should be analyzed on a case-by-case basis and eventually should be the subject of regulation. TP:nrw",
+    "summary": "FPPC staff memorandum concluding that parent corporations and wholly owned subsidiaries constitute a single entity for official disqualification purposes under the Political Reform Act, with different rules for non-100% ownership relationships."
+  }
+}

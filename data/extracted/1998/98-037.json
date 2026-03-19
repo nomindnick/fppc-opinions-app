@@ -1,0 +1,81 @@
+{
+  "id": "98-037",
+  "year": 1998,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/1998/98-037.pdf",
+  "pdf_sha256": "8b292eadf451af8bc1c2ee9f0a37b51a02a2944a93977a28ffc60d1dbd427d49",
+  "local_pdf_path": "raw_pdfs/1998/98-037.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 1998 Advice Letter # 98-037",
+    "tags": [
+      "1998",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:45:32",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1998&tagCount=1&page=3"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:42.569154Z",
+    "page_count": 2,
+    "word_count": 301,
+    "char_count": 1951,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 301
+  },
+  "content": {
+    "full_text": "FAIR POLITICAL PRACTICES CorvlrvussloN\nP.O. Box 807\n• 428 J Street\n• Sacramento, CA 958 12-ö807\n(916) 322-5660\n• Fax (916) 322-0886\nMarch 11, 1998\nWayne K. Lemieux\nLemieux & O’Neill\n200 North Westlake Blvd., Suite 100\nWestlake Village, California 91362-3755\nRe: Your Request for Advice\nOur File No. G-98-037\nDear Mr. Lemieux:\nThis letter is in response to your request for advice regarding a possible conflict of\ninterest for Mr. James Zastrow, the Director of the Central Basin Municipal Water District.\nThe Political Reform Act (the “Act”)’ requires the Commission to provide formal written\nadvice to any person whose duties under the Act are in question or by that person’s authorized\nrepresentative. (Section 83114 (b).) In addition, informal assistance may be rendered under\nsome circumstances. (Regulation 18329(c).) However, it is the Commission’s policy not to\nprovide written advice or telephone assistance to a party involved in litigation. (Alperin Advice\nLetter, No. 1-86-111; Woodside Advice Letter, No. A-85-106; Zastrow Advice Letter,\nNo. A-96-027.)\nThe Commission believes that once a matter concerning a public official’s duties under\nthe Act is before a court, the determination ofthe law’s application is in the hands of the judicial\nbranch.\n2\nGovernment Code sections 81000 - 91014. Commission regulations appear at title 2, sections 18109 -\n18995, of the California Code of Regulations.\n2 At the present time, Mr. Zaslww and his business, Peerless Water Company, are named defendants in the\nlawsuit of City of Vernon v. Central Basin Water District. The conflict-of-interest issues pending in the lawsuit are\nthe same issues for which you have requested advice.\n\n\nFile No. A-98-037\nPage 2\nIf you have any other questions regarding this matter, please contact me at\n(916) 322-5660.\nSincerely,\nSteven G. Churchwell\nGeneral Counsel\nQJ\nBy:\nLynda Doherty\nPolitical Reform Consultant, Legal Division\nSGC:LD:tls\nI:\\Advice Ltrs\\98037.wpd\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1998-03-11",
+    "date_raw": "March 11, 1998",
+    "requestor_name": "Lemieux",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "The Commission believes that once a matter concerning a public official's duties under the Act is before a court, the determination of the law's application is in the hands of the judicial branch.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether James Zastrow, Director of the Central Basin Municipal Water District, has a possible conflict of interest under the Political Reform Act.",
+    "conclusion_synthetic": "The FPPC declined to provide written advice or telephone assistance because the matter is currently before a court in litigation (City of Vernon v. Central Basin Water District), and the Commission's policy is not to advise on matters already in litigation.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is a declination/refusal letter. No formal Question or Conclusion sections with headers present, but the substance is clear. The document cites Commission policy against advising parties involved in litigation and references prior advice letters (Alperin, Woodside, and a prior Zastrow letter)."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "83114(b)"
+    ],
+    "regulations": [
+      "18109",
+      "18329"
+    ],
+    "prior_opinions": [
+      "A-85-106",
+      "A-96-027",
+      "I-86-111"
+    ],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "gifts_honoraria",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:34:42.569154Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether James Zastrow, Director of the Central Basin Municipal Water District, has a possible conflict of interest under the Political Reform Act.\n\nCONCLUSION: The Commission believes that once a matter concerning a public official's duties under the Act is before a court, the determination of the law's application is in the hands of the judicial branch.",
+    "qa_source": "mixed",
+    "first_500_words": "FAIR POLITICAL PRACTICES CorvlrvussloN P.O. Box 807 • 428 J Street • Sacramento, CA 958 12-ö807 (916) 322-5660 • Fax (916) 322-0886 March 11, 1998 Wayne K. Lemieux Lemieux & O’Neill 200 North Westlake Blvd., Suite 100 Westlake Village, California 91362-3755 Re: Your Request for Advice Our File No. G-98-037 Dear Mr. Lemieux: This letter is in response to your request for advice regarding a possible conflict of interest for Mr. James Zastrow, the Director of the Central Basin Municipal Water District. The Political Reform Act (the “Act”)’ requires the Commission to provide formal written advice to any person whose duties under the Act are in question or by that person’s authorized representative. (Section 83114 (b).) In addition, informal assistance may be rendered under some circumstances. (Regulation 18329(c).) However, it is the Commission’s policy not to provide written advice or telephone assistance to a party involved in litigation. (Alperin Advice Letter, No. 1-86-111; Woodside Advice Letter, No. A-85-106; Zastrow Advice Letter, No. A-96-027.) The Commission believes that once a matter concerning a public official’s duties under the Act is before a court, the determination ofthe law’s application is in the hands of the judicial branch. 2 Government Code sections 81000 - 91014. Commission regulations appear at title 2, sections 18109 - 18995, of the California Code of Regulations. 2 At the present time, Mr. Zaslww and his business, Peerless Water Company, are named defendants in the lawsuit of City of Vernon v. Central Basin Water District. The conflict-of-interest issues pending in the lawsuit are the same issues for which you have requested advice. File No. A-98-037 Page 2 If you have any other questions regarding this matter, please contact me at (916) 322-5660. Sincerely, Steven G. Churchwell General Counsel QJ By: Lynda Doherty Political Reform Consultant, Legal Division SGC:LD:tls I:\\Advice Ltrs\\98037.wpd",
+    "summary": "The FPPC declined to provide advice on a conflict of interest question regarding James Zastrow, the Director of the Central Basin Municipal Water District, because the same conflict-of-interest issues are already pending in ongoing litigation and the Commission does not provide advice on matters before the courts."
+  }
+}

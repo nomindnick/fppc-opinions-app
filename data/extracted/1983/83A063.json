@@ -1,0 +1,71 @@
+{
+  "id": "83A063",
+  "year": 1983,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1983/83A063.PDF",
+  "pdf_sha256": "ab7156dbbfc0c13e2097cf7561fa54a145a3467517187e716e0c2a70bfb831b9",
+  "local_pdf_path": "raw_pdfs/1983/83A063.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1983 Advice Letter # 83A063",
+    "tags": [
+      "1983",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:31:32",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1983&tagCount=1"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T16:17:56.572700Z",
+    "page_count": 1,
+    "word_count": 242,
+    "char_count": 1474,
+    "quality_score": 0.8628834108154148,
+    "olmocr_cost": 0.0026703,
+    "native_word_count": 261
+  },
+  "content": {
+    "full_text": "TO: [X] JEANNE   [X] JAY\n[X] LYNN        [ ] BARBARA\n[ ] RICH        [X] BOB S.\n[X] HELEN       [XX] OTHER Legal Div. - for advice files\n\nFROM: J. Pritchard\nDATE: 3/8/83\n\n[X] TELEPHONE ADVICE - SEE BELOW\n[ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT\n(If you have any comments, notify advisor within 1 day)\n\nFILE LOCATION: Gov. Code Sections/86109 and 86203\n\nINCLUDE IN ADVICE PACKAGE: YES [ ] NO [X]\n\nCALLER: Cory Brandess\nREPRESENTING: Friends of the River\nPHONE NUMBER: ____________________________\n\nQUESTION: Friends of the River (a lobbyist employer) is going to offer a free river raft trip to a number of legislators and legislative staff people (all members of the Water and Natural Resources Committees and a few others) to acquaint them with river preservation and conservation issues important to FOR. They asked whether this would be considered \"informational material\" and exempt from disclosure and the 86203 gift prohibition.\n\nANSWER: Such a trip does not come within the exception for \"informational material.\" The fair market value of the raft trip is $25 - $35 (depending on which of the available trips they actually provide). FOR's lobbyist may not participate in arranging (invitations, RSVP's, etc.), but he may recommend to his employer which legislative officials should be invited, and he may join the trip, so long as his employer is also present. The employer must report the fair market value of the trip on its Form 650 as an \"activity expense.\"",
+    "full_text_markdown": "TO: [X] JEANNE   [X] JAY\n[X] LYNN        [ ] BARBARA\n[ ] RICH        [X] BOB S.\n[X] HELEN       [XX] OTHER Legal Div. - for advice files\n\nFROM: J. Pritchard\nDATE: 3/8/83\n\n[X] TELEPHONE ADVICE - SEE BELOW\n[ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT\n(If you have any comments, notify advisor within 1 day)\n\nFILE LOCATION: Gov. Code Sections/86109 and 86203\n\nINCLUDE IN ADVICE PACKAGE: YES [ ] NO [X]\n\nCALLER: Cory Brandess\nREPRESENTING: Friends of the River\nPHONE NUMBER: ____________________________\n\nQUESTION: Friends of the River (a lobbyist employer) is going to offer a free river raft trip to a number of legislators and legislative staff people (all members of the Water and Natural Resources Committees and a few others) to acquaint them with river preservation and conservation issues important to FOR. They asked whether this would be considered \"informational material\" and exempt from disclosure and the 86203 gift prohibition.\n\nANSWER: Such a trip does not come within the exception for \"informational material.\" The fair market value of the raft trip is $25 - $35 (depending on which of the available trips they actually provide). FOR's lobbyist may not participate in arranging (invitations, RSVP's, etc.), but he may recommend to his employer which legislative officials should be invited, and he may join the trip, so long as his employer is also present. The employer must report the fair market value of the trip on its Form 650 as an \"activity expense.\""
+  },
+  "parsed": {
+    "date": "1983-03-08",
+    "date_raw": "3/8/83",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Friends of the River (a lobbyist employer) is going to offer a free river raft trip to a number of legislators and legislative staff people (all members of the Water and Natural Resources Committees and a few others) to acquaint them with river preservation and conservation issues important to FOR. They asked whether this would be considered \"informational material\" and exempt from disclosure and the 86203 gift prohibition.\n\nANSWER: Such a trip does not come within the exception for \"informational material.\" The fair market value of the raft trip is $25 - $35 (depending on which of the available trips they actually provide). FOR's lobbyist may not participate in arranging (invitations, RSVP's, etc.), but he may recommend to his employer which legislative officials should be invited, and he may join the trip, so long as his employer is also present. The employer must report the fair market value of the trip on its Form 650 as an \"activity expense.\"",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.44999999999999996,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-20T16:17:56.572700Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Friends of the River (a lobbyist employer) is going to offer a free river raft trip to a number of legislators and legislative staff people (all members of the Water and Natural Resources Committees and a few others) to acquaint them with river preservation and conservation issues important to FOR. They asked whether this would be considered \"informational material\" and exempt from disclosure and the 86203 gift prohibition.\n\nANSWER: Such a trip does not come within the exception for \"informational material.\" The fair market value of the raft trip is $25 - $35 (depending on which of the available trips they actually provide). FOR's lobbyist may not participate in arranging (invitations, RSVP's, etc.), but he may recommend to his employer which legislative officials should be invited, and he may join the trip, so long as his employer is also present. The employer must report the fair market value of the trip on its Form 650 as an \"activity expense.\"",
+    "qa_source": "extracted",
+    "first_500_words": "TO: [X] JEANNE [X] JAY [X] LYNN [ ] BARBARA [ ] RICH [X] BOB S. [X] HELEN [XX] OTHER Legal Div. - for advice files FROM: J. Pritchard DATE: 3/8/83 [X] TELEPHONE ADVICE - SEE BELOW [ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT (If you have any comments, notify advisor within 1 day) FILE LOCATION: Gov. Code Sections/86109 and 86203 INCLUDE IN ADVICE PACKAGE: YES [ ] NO [X] CALLER: Cory Brandess REPRESENTING: Friends of the River PHONE NUMBER: ____________________________ QUESTION: Friends of the River (a lobbyist employer) is going to offer a free river raft trip to a number of legislators and legislative staff people (all members of the Water and Natural Resources Committees and a few others) to acquaint them with river preservation and conservation issues important to FOR. They asked whether this would be considered \"informational material\" and exempt from disclosure and the 86203 gift prohibition. ANSWER: Such a trip does not come within the exception for \"informational material.\" The fair market value of the raft trip is $25 - $35 (depending on which of the available trips they actually provide). FOR's lobbyist may not participate in arranging (invitations, RSVP's, etc.), but he may recommend to his employer which legislative officials should be invited, and he may join the trip, so long as his employer is also present. The employer must report the fair market value of the trip on its Form 650 as an \"activity expense.\"",
+    "summary": null
+  }
+}

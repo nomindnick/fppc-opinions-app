@@ -1,0 +1,80 @@
+{
+  "id": "93-361",
+  "year": 1993,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1993/93-361.pdf",
+  "pdf_sha256": "d3bfd7395f64ee78f9d3dbf2ab3d2a93e0581916b4480aa4830f5db23f4a1f98",
+  "local_pdf_path": "raw_pdfs/1993/93-361.pdf",
+  "source_metadata": {
+    "title_raw": ", Wardlow Year: 1993 Advice Letter # 93-361",
+    "tags": [
+      "1993",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:33:04",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1993&tagCount=1&page=29"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:09.034676Z",
+    "page_count": 2,
+    "word_count": 347,
+    "char_count": 2242,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 347
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\nNovember 3,\n1993\nDiane M.\nFishburn\nO1on,\nHagel,\nFong, Leidigh,\nWaters\n& Fishburn\n300 Capitol Mall, Ste.\n350\nSacramento,\nCA\n95814\nRe:\nYour Request for Confirmation\nof Telephone Advice\nOur File No.\n1—93—361\nDear Ms.\nFishburn:\nYou have requested confirmation of telephone advice\nconcerning the campaign provisions of the Political Reform Act\n(the\n“Act”) •1/\nBecause your question concerns conduct which has\nalready occurred,\nwe are treating your request as one for informal\nassistance pursuant to Regulation 18329(c).\n2\n!\nYour letter, dated September 24,\n1993, accurately states my\nadvice that the community organizations supporting Measures\nN and\n0 and opposing Measures\nP and\nQ on the City of Orinda ballot for\nthe November 2,\n1993, election had not received contributions and\nhad not incurred any filing obligations under the Act.\nI also advised you that it appeared from the campaign filings\nand other materials provided to us that the Orinda Sports and\nCommunity Facilities Committee formed by Pacific New Wave\nCorporation also had not qualified as a recipient committee under\nSection 82013(a)\ndue to the fact that all of the “contributions”\nreceived by the committee were actually direct expenditures made\nby the Pacific New Wave Corporation.\n(Craigie Advice Letter,\nNo.\nA-89-187.)\nI advised you that it was my opinion Pacific New Wave\n1/\nGovernment Code Sections 81000-91015.\nAll statutory\nreferences are to the Government Code unless otherwise indicated.\nCommission regulations appear at\n2 California Code of Regulations\nSection 18000, et g.\nAll references to regulations are to Title\n2,\nDivision\n6 of the California Code of Regulations.\n2/\nInformal assistance does not provide the requestor with the\nimmunity provided by an opinion or formal written advice.\n(Section 83114; Regulation 18329(c) (3).)\n428 J Street, Suite 800 •\nP.O. Box 807 •\nSacramento, CA\n95804-0807 •\n(916) 322-5660\n\n\nDiane M.\nFishburn\nOur File No.\n1—93-361\nPage\n2\nCorporation should be filing as an independent expenditure\ncommittee pursuant to Section 82013(b).\nIf you have any questions concerning this letter, please\ncontact me at\n(916)\n322—5662.\nSincerely,\nCarla Wardlow\nDivision Chief\nTechnical Assistance Division\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1993-11-03",
+    "date_raw": "November 3,\n1993",
+    "requestor_name": "Fishburn",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "informal_advice"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether community organizations supporting or opposing ballot measures in Orinda had campaign finance filing obligations, and whether the Orion Sports and Community Facilities Committee qualified as a recipient committee or independent expenditure committee under the Political Reform Act.",
+    "conclusion_synthetic": "The community organizations supporting Measures N and O and opposing Measures P and Q had not received contributions and had no filing obligations. The Orion Sports and Community Facilities Committee did not qualify as a recipient committee because the funds received were direct expenditures by Pacific New Wave Corporation, and Pacific New Wave Corporation should instead be filing as an independent expenditure committee.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Confirmation letter of prior telephone advice treated as informal assistance under Regulation 18329(c). No formal QUESTION and CONCLUSION sections present; information extracted from body of letter. References Craigie Advice Letter No. A-89-187. Letter dated November 3, 1993; incoming request dated September 24, 1993."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "82013(a)",
+      "82013(b)",
+      "83114"
+    ],
+    "regulations": [
+      "18329"
+    ],
+    "prior_opinions": [
+      "A-89-187"
+    ],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:35:09.034676Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether community organizations supporting or opposing ballot measures in Orinda had campaign finance filing obligations, and whether the Orion Sports and Community Facilities Committee qualified as a recipient committee or independent expenditure committee under the Political Reform Act.\n\nCONCLUSION: The community organizations supporting Measures N and O and opposing Measures P and Q had not received contributions and had no filing obligations. The Orion Sports and Community Facilities Committee did not qualify as a recipient committee because the funds received were direct expenditures by Pacific New Wave Corporation, and Pacific New Wave Corporation should instead be filing as an independent expenditure committee.",
+    "qa_source": "synthetic",
+    "first_500_words": "California Fair Political Practices Commission November 3, 1993 Diane M. Fishburn O1on, Hagel, Fong, Leidigh, Waters & Fishburn 300 Capitol Mall, Ste. 350 Sacramento, CA 95814 Re: Your Request for Confirmation of Telephone Advice Our File No. 1—93—361 Dear Ms. Fishburn: You have requested confirmation of telephone advice concerning the campaign provisions of the Political Reform Act (the “Act”) •1/ Because your question concerns conduct which has already occurred, we are treating your request as one for informal assistance pursuant to Regulation 18329(c). 2 ! Your letter, dated September 24, 1993, accurately states my advice that the community organizations supporting Measures N and 0 and opposing Measures P and Q on the City of Orinda ballot for the November 2, 1993, election had not received contributions and had not incurred any filing obligations under the Act. I also advised you that it appeared from the campaign filings and other materials provided to us that the Orinda Sports and Community Facilities Committee formed by Pacific New Wave Corporation also had not qualified as a recipient committee under Section 82013(a) due to the fact that all of the “contributions” received by the committee were actually direct expenditures made by the Pacific New Wave Corporation. (Craigie Advice Letter, No. A-89-187.) I advised you that it was my opinion Pacific New Wave 1/ Government Code Sections 81000-91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations Section 18000, et g. All references to regulations are to Title 2, Division 6 of the California Code of Regulations. 2/ Informal assistance does not provide the requestor with the immunity provided by an opinion or formal written advice. (Section 83114; Regulation 18329(c) (3).) 428 J Street, Suite 800 • P.O. Box 807 • Sacramento, CA 95804-0807 • (916) 322-5660 Diane M. Fishburn Our File No. 1—93-361 Page 2 Corporation should be filing as an independent expenditure committee pursuant to Section 82013(b). If you have any questions concerning this letter, please contact me at (916) 322—5662. Sincerely, Carla Wardlow Division Chief Technical Assistance Division",
+    "summary": "FPPC confirmation of prior telephone advice regarding campaign finance obligations for community organizations and committees involved in the November 2, 1993 Orinda municipal election ballot measures. The advice confirms that certain organizations had no filing obligations while Pacific New Wave Corporation should file as an independent expenditure committee."
+  }
+}

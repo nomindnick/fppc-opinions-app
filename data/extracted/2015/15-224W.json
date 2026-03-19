@@ -1,0 +1,71 @@
+{
+  "id": "15-224W",
+  "year": 2015,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2015/15-224W.pdf",
+  "pdf_sha256": "22f84584ad45a16e8f9dfaa6a63c8051c901ffb4d86fdbc3b3bfe2d0c1da5f7a",
+  "local_pdf_path": "raw_pdfs/2015/15-224W.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2015 Advice Letter # 15-224W",
+    "tags": [
+      "2015",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:58:33",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2015&tagCount=1&page=2"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:33:23.390159Z",
+    "page_count": 1,
+    "word_count": 176,
+    "char_count": 1066,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 176
+  },
+  "content": {
+    "full_text": "STATE OF CALIFORNIA \nFAIR POLITICAL PRACTICES COMMISSION \n· 428 J Street • Suite 620 • Sacramento, CA 95814-2329 \n(916) 322-5660 • Fax (916) 322-0886 \nJanuary 8, 2016 \nSteve Fischer \nCity of Oxnard, Office of the City Attorney \n300 West Third Street, Suite 300 \nOxnard, CA 93030 \nRe: \nYour Request for Advice \nOur File No. W-15-224 \nDear Mr. Fischer: \nThis is in regard to the November 12, 2015 letter submitted by Rahsaan J. Tilford requesting \nadvice under the provisions of the Political Reform Act. \nAs you know, we have been in communication with Mr. Tilford and yourself seeking \nadditional facts necessary in order to provide advice. We understand that you are still in the process \nof gathering additional infonnation. \nSince we have not yet received the additional facts, we are closing this 2015 advice letter \nnumber. Once you obtain the necessary facts, please feel free to resubmit the request and we will \nrelog it in as a new request. \nIf you have other questions on this matter, please contact me at (916) 322-5660. \n1stant General Counsel \nJWW:jgl \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2016-01-08",
+    "date_raw": "January 8, 2016",
+    "requestor_name": "Fischer",
+    "requestor_title": "City Attorney",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The request sought advice under the Political Reform Act regarding an unspecified matter, but additional facts were required to provide guidance.",
+    "conclusion_synthetic": "The FPPC is closing the 2015 advice letter number (W-15-224) without providing advice because necessary additional facts have not yet been received, and invites resubmission once the facts are gathered.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is a withdrawal/closure letter rather than a substantive advice letter. No formal QUESTION or CONCLUSION sections present. The document indicates the FPPC was still gathering facts and chose to close the file rather than provide advice."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:33:23.390159Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The request sought advice under the Political Reform Act regarding an unspecified matter, but additional facts were required to provide guidance.\n\nCONCLUSION: The FPPC is closing the 2015 advice letter number (W-15-224) without providing advice because necessary additional facts have not yet been received, and invites resubmission once the facts are gathered.",
+    "qa_source": "synthetic",
+    "first_500_words": "STATE OF CALIFORNIA FAIR POLITICAL PRACTICES COMMISSION · 428 J Street • Suite 620 • Sacramento, CA 95814-2329 (916) 322-5660 • Fax (916) 322-0886 January 8, 2016 Steve Fischer City of Oxnard, Office of the City Attorney 300 West Third Street, Suite 300 Oxnard, CA 93030 Re: Your Request for Advice Our File No. W-15-224 Dear Mr. Fischer: This is in regard to the November 12, 2015 letter submitted by Rahsaan J. Tilford requesting advice under the provisions of the Political Reform Act. As you know, we have been in communication with Mr. Tilford and yourself seeking additional facts necessary in order to provide advice. We understand that you are still in the process of gathering additional infonnation. Since we have not yet received the additional facts, we are closing this 2015 advice letter number. Once you obtain the necessary facts, please feel free to resubmit the request and we will relog it in as a new request. If you have other questions on this matter, please contact me at (916) 322-5660. 1stant General Counsel JWW:jgl",
+    "summary": "The FPPC closes advice letter W-15-224 due to insufficient information, requesting that the parties resubmit once additional necessary facts are obtained."
+  }
+}

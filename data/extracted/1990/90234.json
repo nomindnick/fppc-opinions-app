@@ -1,0 +1,73 @@
+{
+  "id": "90234",
+  "year": 1990,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1990/90234.pdf",
+  "pdf_sha256": "a6e36ed7ece7b3aeacaa409a31f1555394a7a8e18da6c4829fca4ae745901570",
+  "local_pdf_path": "raw_pdfs/1990/90234.pdf",
+  "source_metadata": {
+    "title_raw": "Gallo, Joan Year: 1990 Advice Letter # 90234",
+    "tags": [
+      "1990",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:08:58",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1990&tagCount=1&page=42"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:34.684086Z",
+    "page_count": 2,
+    "word_count": 316,
+    "char_count": 1982,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 316
+  },
+  "content": {
+    "full_text": "CITY c,F\nGIFFICE CIF sAN JG,SE! CAL|FGIEIN|A\nTHE CITY ATTGIFINEY\n151 WEST MISSION STREET\nSAN JOSE, CALIFORNIA 95110\n(4@12774454\nMarch 23, 1990\nJOAN R. GALLO\nCity Attorney\nKATHRYN E. DONOVAN\nGeneral Counsel\nFAIR POLITICAL PRACTICES COMMISSION\n428 J Street\nSacramento, CA 95814\nRE: Canpaign Iseues\nDear Ms. Donovan:\nI am re.questing writEen advice regarding the use of City\nfacsirnile (ttfaxt') machines to send or receive documentb\nrelating to the campaign activities of City elected officials.\nCurrentlyr. two Councilmembers are running for the position of\nMayor and one councilmember is in a contested race for\nre-election.\nWould the Gov. Code Section 85300 prohibition\nagainst the-_yse of public funds for seeking\nelective office \nbe violated if \nan elected\nofficial \nreceives information connected to his\nor her re-election campaign on a City fax\nmachine?\nDoes it make any difference to the answer if\nthe transmission is solicited or unsolicited?\nMay the official \nsend out carapaign related\ndocuments via a City fax machine?\n4. \nIf the receipt of an unsolicited fax violates\nthe prohibition, \nhow should such faxt s be\nhandled?\n1.\n2.\n3.\n\n\nKATHRYN E, DONOVAN\nRE: Canpaign Issues\nMarch 23, 1990\nPage Two\nDISCUSSION\nThe issue is whether any of the above uses\nmachine constitutes a prohibited expenditure\nofficial of public funds.\nof a City fax\nby a publ ic\nThere is no apparent difference between the receipt of\nunsolicited information by fax, mail or telephone. Would\nreceipt of caopaign related ioformation by mail or telephone\nalso violate the prohibition? If the recelpt of an unsolicited\nfax communication violates the prohibition, how should the\nrecelpt be handled?\nBecause several City officials are currently engaged in\ncampalgn activities, I ask that you provide your response as\nsoon as posslble. Please contact ne at (408) 277-l+454 if you\nneed any further ioformation or wish to discuss the natter.\nYours truly,\n9r-,\n/loax s\nncrty \na\nJRG:MAM:njw\n3759j:0116j\nAt to rney\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1990-03-23",
+    "date_raw": "March 23, 1990",
+    "requestor_name": "Donovan",
+    "requestor_title": "City Attorney",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "1. Would the Gov. Code Section 85300 prohibition against the use of public funds for seeking elective office be violated if an elected official receives information connected to his or her re-election campaign on a City fax machine?\n\n2. Does it make any difference to the answer if the transmission is solicited or unsolicited?\n\n3. May the official send out campaign related documents via a City fax machine?\n\n4. If the receipt of an unsolicited fax violates the prohibition, how should such faxes be handled?",
+    "conclusion": null,
+    "facts": null,
+    "analysis": "The issue is whether any of the above uses\nmachine constitutes a prohibited expenditure\nofficial of public funds.\nof a City fax\nby a publ ic\nThere is no apparent difference between the receipt of\nunsolicited information by fax, mail or telephone. Would\nreceipt of caopaign related ioformation by mail or telephone\nalso violate the prohibition? If the recelpt of an unsolicited\nfax communication violates the prohibition, how should the\nrecelpt be handled?\nBecause several City officials are currently engaged in\ncampalgn activities, I ask that you provide your response as\nsoon as posslble. Please contact ne at (408) 277-l+454 if you\nneed any further ioformation or wish to discuss the natter.\nYours truly,\n9r-,\n/loax s\nncrty \na\nJRG:MAM:njw\n3759j:0116j\nAt to rney",
+    "question_synthetic": "The City Attorney requests FPPC guidance on whether use of City fax machines to send or receive campaign-related communications by elected officials violates California Government Code Section 85300's prohibition on using public funds for elective office campaigns, and whether solicitation status affects this analysis.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "Format: old; LLM: This is an incoming request letter, not an FPPC response. The document contains the question section but no conclusion or FPPC response. OCR quality is moderate with some character recognition errors (e.g., 'caopaign' for 'campaign', 'loax s' for signature). Document dated March 23, 1990, from Joan R. Gallo, City Attorney of San Jose."
+  },
+  "citations": {
+    "government_code": [
+      "85300"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:35:34.684086Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: 1. Would the Gov. Code Section 85300 prohibition against the use of public funds for seeking elective office be violated if an elected official receives information connected to his or her re-election campaign on a City fax machine?\n\n2. Does it make any difference to the answer if the transmission is solicited or unsolicited?\n\n3. May the official send out campaign related documents via a City fax machine?\n\n4. If the receipt of an unsolicited fax violates the prohibition, how should such faxes be handled?",
+    "qa_source": "mixed",
+    "first_500_words": "CITY c,F GIFFICE CIF sAN JG,SE! CAL|FGIEIN|A THE CITY ATTGIFINEY 151 WEST MISSION STREET SAN JOSE, CALIFORNIA 95110 (4@12774454 March 23, 1990 JOAN R. GALLO City Attorney KATHRYN E. DONOVAN General Counsel FAIR POLITICAL PRACTICES COMMISSION 428 J Street Sacramento, CA 95814 RE: Canpaign Iseues Dear Ms. Donovan: I am re.questing writEen advice regarding the use of City facsirnile (ttfaxt') machines to send or receive documentb relating to the campaign activities of City elected officials. Currentlyr. two Councilmembers are running for the position of Mayor and one councilmember is in a contested race for re-election. Would the Gov. Code Section 85300 prohibition against the-_yse of public funds for seeking elective office be violated if an elected official receives information connected to his or her re-election campaign on a City fax machine? Does it make any difference to the answer if the transmission is solicited or unsolicited? May the official send out carapaign related documents via a City fax machine? 4. If the receipt of an unsolicited fax violates the prohibition, how should such faxt s be handled? 1. 2. 3. KATHRYN E, DONOVAN RE: Canpaign Issues March 23, 1990 Page Two DISCUSSION The issue is whether any of the above uses machine constitutes a prohibited expenditure official of public funds. of a City fax by a publ ic There is no apparent difference between the receipt of unsolicited information by fax, mail or telephone. Would receipt of caopaign related ioformation by mail or telephone also violate the prohibition? If the recelpt of an unsolicited fax communication violates the prohibition, how should the recelpt be handled? Because several City officials are currently engaged in campalgn activities, I ask that you provide your response as soon as posslble. Please contact ne at (408) 277-l+454 if you need any further ioformation or wish to discuss the natter. Yours truly, 9r-, /loax s ncrty a JRG:MAM:njw 3759j:0116j At to rney",
+    "summary": "This is an incoming request from the San Jose City Attorney to the FPPC asking for written advice regarding the permissibility of using City fax machines for campaign communications by elected officials currently engaged in mayoral and council races."
+  }
+}

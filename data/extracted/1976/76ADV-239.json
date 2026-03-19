@@ -1,0 +1,73 @@
+{
+  "id": "76ADV-239",
+  "year": 1976,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1976/76ADV-239.PDF",
+  "pdf_sha256": "0e7c2784f4270a262c8f499fad70aaf11d34c3357c97656216b6e01895f27cb4",
+  "local_pdf_path": "raw_pdfs/1976/76ADV-239.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1976ADV Advice Letter # 76ADV-239",
+    "tags": [
+      "1976",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:14:57",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1976&tagCount=1&page=5"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:17.186963Z",
+    "page_count": 2,
+    "word_count": 393,
+    "char_count": 2298,
+    "quality_score": 0.635,
+    "olmocr_cost": null,
+    "native_word_count": 393
+  },
+  "content": {
+    "full_text": "• SACRAl)-.::NTO, 95S0c! . ~ .. 11 en K STi\\c:::T \nHr. Darryl ~\\Jhite \nSecretary of the Senate \nState Capitol \nSacramento, \nC~. 95814 \nDear Nr. VJhite: \nThank you for your recent letter to the Com~ission \nwhich asked fo~ an interpretation of Gov. Code §810l2. \nIn \nparticular, you have asked what is the meaning of \"if at \nleast 40 days prior to passage of each house, the bill in \nits final form has been delivered to the Commission.\" \nIt has been the interpretation of the staff that any \nbill amending the Political Reform Act of 1974 must be in \nits last. amended form et least 40 days prior to the Li-.nal \npassage in each house of the Legislature. \nThus, a bill may \nbe passed initially by the Senate prior to the 40-day period \nif it is returned to the Senate for another vote after the \n40-da1 period. \nUnder legislative rules, bills which are \namended in the Assembly must be retcrned to the Senate for \nconcurrence. \nIf the Assembly passes the bill 40 days after \nit has been amended and sent to the Commission and the \namended bill is returned to the Senate for concurrence, \nthere has been compliance with §81012 even if the Se~ate \ninitially voted on the bill prior to the 40-day requirement. \nFinally, the followi~g procedure also would copply with \nthe Political Reform Act: \nA bill could be passed by the \nSenate prior to the 40-day period, passed by the AsseAbly \nafter the 40-day period, and then returned to the Senate for \na revote even though the bill was not amended in the \nAssernbly. \nIf you have any questions, please contact Robert Stern, \nthe Commission's General Counsel. \nDHL:p\\1p \n\n\nRequest \nSFNATE \nCALIFORNIA LEGISLATURE \nSAC RAM Ei'lTO 95814 \n1-\nDate Received LJ- (\")-~2 \n( Respoilse Dve 7-- ::--? 0-\nf.f't \nr \nQ. \n. \\ l. \nD.·\\FHWL R. WHITE \nApril 2, \nThe Honorable Daniel Lowenstein, Chairman \nr \nr Po li tical Practices Corrunission \n1100 K Street, 2nd Floor \nSacraInen to I California \n95814 \nDear Mr. Chairman: \nI please have the Fair Political Practices \nCommission's interpretation of what is meant in \nS \ntion 81012 of the Government Code of: \"if at \nleast forty days prior to passag~ in each house \nthe bill in its final form has been delivered to \nthe Commission . \nDRW: ig \n\" \nSincerely, \nt?.--\n'J)cwa.-elf WA'* \nDARRYL R. WHITE \nSecretary of the Senate \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": "Chairman",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "What is the meaning of 'if at least 40 days prior to passage of each house, the bill in its final form has been delivered to the Commission' under Gov. Code §81012?",
+    "conclusion": "It has been the interpretation of the staff that any bill amending the Political Reform Act of 1974 must be in its last amended form at least 40 days prior to the final passage in each house of the Legislature. A bill may be passed initially by the Senate prior to the 40-day period if it is returned to the Senate for another vote after the 40-day period. Compliance is achieved when amended bills are returned to the Senate for concurrence at least 40 days after being sent to the Commission, even if the Senate initially voted prior to the 40-day requirement.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The Secretary of the Senate requests an interpretation of Government Code Section 81012's 40-day requirement for bills amending the Political Reform Act, specifically what constitutes compliance with the language about delivering bills in their final form to the Commission.",
+    "conclusion_synthetic": "The FPPC interprets the 40-day requirement to mean bills must be in their final amended form at least 40 days before final passage in each legislative house. Compliance is satisfied when bills amended in the Assembly are returned to the Senate for concurrence at least 40 days after submission to the Commission, or when bills pass both houses in sequence with the second house acting 40 days after the bill was delivered to the Commission.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document contains both the incoming request and the FPPC response letter. The response letter is the main advice letter. Minor OCR errors present ('SFNATE' for 'SENATE', 'Li-.nal' for 'final'). Conclusion section synthesized from body paragraphs as no formal conclusion header exists."
+  },
+  "citations": {
+    "government_code": [
+      "81012"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:37:17.186963Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: What is the meaning of 'if at least 40 days prior to passage of each house, the bill in its final form has been delivered to the Commission' under Gov. Code §81012?\n\nCONCLUSION: It has been the interpretation of the staff that any bill amending the Political Reform Act of 1974 must be in its last amended form at least 40 days prior to the final passage in each house of the Legislature. A bill may be passed initially by the Senate prior to the 40-day period if it is returned to the Senate for another vote after the 40-day period. Compliance is achieved when amended bills are returned to the Senate for concurrence at least 40 days after being sent to the Commission, even if the Senate initially voted prior to the 40-day requirement.",
+    "qa_source": "mixed",
+    "first_500_words": "• SACRAl)-.::NTO, 95S0c! . ~ .. 11 en K STi\\c:::T Hr. Darryl ~\\Jhite Secretary of the Senate State Capitol Sacramento, C~. 95814 Dear Nr. VJhite: Thank you for your recent letter to the Com~ission which asked fo~ an interpretation of Gov. Code §810l2. In particular, you have asked what is the meaning of \"if at least 40 days prior to passage of each house, the bill in its final form has been delivered to the Commission.\" It has been the interpretation of the staff that any bill amending the Political Reform Act of 1974 must be in its last. amended form et least 40 days prior to the Li-.nal passage in each house of the Legislature. Thus, a bill may be passed initially by the Senate prior to the 40-day period if it is returned to the Senate for another vote after the 40-da1 period. Under legislative rules, bills which are amended in the Assembly must be retcrned to the Senate for concurrence. If the Assembly passes the bill 40 days after it has been amended and sent to the Commission and the amended bill is returned to the Senate for concurrence, there has been compliance with §81012 even if the Se~ate initially voted on the bill prior to the 40-day requirement. Finally, the followi~g procedure also would copply with the Political Reform Act: A bill could be passed by the Senate prior to the 40-day period, passed by the AsseAbly after the 40-day period, and then returned to the Senate for a revote even though the bill was not amended in the Assernbly. If you have any questions, please contact Robert Stern, the Commission's General Counsel. DHL:p\\1p Request SFNATE CALIFORNIA LEGISLATURE SAC RAM Ei'lTO 95814 1- Date Received LJ- (\")-~2 ( Respoilse Dve 7-- ::--? 0- f.f't r Q. . \\ l. D.·\\FHWL R. WHITE April 2, The Honorable Daniel Lowenstein, Chairman r r Po li tical Practices Corrunission 1100 K Street, 2nd Floor SacraInen to I California 95814 Dear Mr. Chairman: I please have the Fair Political Practices Commission's interpretation of what is meant in S tion 81012 of the Government Code of: \"if at least forty days prior to passag~ in each house the bill in its final form has been delivered to the Commission . DRW: ig \" Sincerely, t?.-- 'J)cwa.-elf WA'* DARRYL R. WHITE Secretary of the Senate",
+    "summary": "The FPPC responds to the Secretary of the Senate's inquiry regarding the interpretation of Government Code §81012's 40-day requirement for bills amending the Political Reform Act. The response provides guidance on when bills must be in final form and explains how the 40-day period applies across multiple legislative votes and amendments."
+  }
+}

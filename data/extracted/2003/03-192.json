@@ -1,0 +1,75 @@
+{
+  "id": "03-192",
+  "year": 2003,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2003/03-192.pdf",
+  "pdf_sha256": "034aee649b2f4e3091a4e9b1955ac1fa14826c88157a74b67402fea077dec0a8",
+  "local_pdf_path": "raw_pdfs/2003/03-192.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2003 Advice Letter # 03-192",
+    "tags": [
+      "2003",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:57:09",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2003&tagCount=1&page=17"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T23:58:16.895844Z",
+    "page_count": 1,
+    "word_count": 117,
+    "char_count": 769,
+    "quality_score": 0.8444675416312215,
+    "olmocr_cost": 0.0025559199999999997,
+    "native_word_count": 134
+  },
+  "content": {
+    "full_text": "December 11, 2003\n\nCarla B. Chokel\n1850 Turk Street, #301\nSan Francisco, CA 94115\n\nRe: Our File No. W-03-192\n\nDear Ms. Chokel:\n\nPursuant to your written communication of November 20, 2003, the Fair Political Practices Commission (\"FPPC\") has withdrawn your August 21, 2003, request for written advice. As you have elected not to pursue employment outside state service, you no longer require written advice regarding the revolving door provisions of the Political Reform Act.1\n\nShould you have any further questions, please contact the Commission at (916) 322-5660.\n\nSincerely,\n\nBy: Luisa Menchaca\nGeneral Counsel\n\nLM:jg\n\n1 Government Code sections 81000 – 91014. Commission regulations appears at Title 2, sections 18109 – 18997, of the California Code of Regulations.",
+    "full_text_markdown": "December 11, 2003\n\nCarla B. Chokel\n1850 Turk Street, #301\nSan Francisco, CA 94115\n\nRe: Our File No. W-03-192\n\nDear Ms. Chokel:\n\nPursuant to your written communication of November 20, 2003, the Fair Political Practices Commission (\"FPPC\") has withdrawn your August 21, 2003, request for written advice. As you have elected not to pursue employment outside state service, you no longer require written advice regarding the revolving door provisions of the Political Reform Act.1\n\nShould you have any further questions, please contact the Commission at (916) 322-5660.\n\nSincerely,\n\nBy: Luisa Menchaca\nGeneral Counsel\n\nLM:jg\n\n1 Government Code sections 81000 – 91014. Commission regulations appears at Title 2, sections 18109 – 18997, of the California Code of Regulations."
+  },
+  "parsed": {
+    "date": "2003-12-11",
+    "date_raw": "December 11, 2003",
+    "requestor_name": "Chokel",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [
+      "18109"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-19T23:58:16.895844Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "December 11, 2003 Carla B. Chokel 1850 Turk Street, #301 San Francisco, CA 94115 Re: Our File No. W-03-192 Dear Ms. Chokel: Pursuant to your written communication of November 20, 2003, the Fair Political Practices Commission (\"FPPC\") has withdrawn your August 21, 2003, request for written advice. As you have elected not to pursue employment outside state service, you no longer require written advice regarding the revolving door provisions of the Political Reform Act.1 Should you have any further questions, please contact the Commission at (916) 322-5660. Sincerely, By: Luisa Menchaca General Counsel LM:jg 1 Government Code sections 81000 – 91014. Commission regulations appears at Title 2, sections 18109 – 18997, of the California Code of Regulations.",
+    "qa_source": "extracted",
+    "first_500_words": "December 11, 2003 Carla B. Chokel 1850 Turk Street, #301 San Francisco, CA 94115 Re: Our File No. W-03-192 Dear Ms. Chokel: Pursuant to your written communication of November 20, 2003, the Fair Political Practices Commission (\"FPPC\") has withdrawn your August 21, 2003, request for written advice. As you have elected not to pursue employment outside state service, you no longer require written advice regarding the revolving door provisions of the Political Reform Act.1 Should you have any further questions, please contact the Commission at (916) 322-5660. Sincerely, By: Luisa Menchaca General Counsel LM:jg 1 Government Code sections 81000 – 91014. Commission regulations appears at Title 2, sections 18109 – 18997, of the California Code of Regulations.",
+    "summary": null
+  }
+}

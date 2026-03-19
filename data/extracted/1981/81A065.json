@@ -1,0 +1,74 @@
+{
+  "id": "81A065",
+  "year": 1981,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1981/81A065.PDF",
+  "pdf_sha256": "b3b453de56ac075daa897542b752aee6a7b86d92e1493544d0ca55c7d574ed6c",
+  "local_pdf_path": "raw_pdfs/1981/81A065.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1981 Advice Letter # 81A065",
+    "tags": [
+      "Advice Letter",
+      "1981"
+    ],
+    "scraped_at": "2026-01-31 15:29:21",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1981&tagCount=1&page=18"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:02.196870Z",
+    "page_count": 2,
+    "word_count": 411,
+    "char_count": 2613,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 411
+  },
+  "content": {
+    "full_text": "State of Califorl/la \n. \nFair Political Practices Commissiol/. \nP.o. BOX 807 • SACRAMENTO, 95804 ••• 11 00 K STREET BUILDING, SACRAMENTO, 95814 \nAdministroTion \nLawrence M. Moniak \nPlanning Commissioner \n9060 Kaiser Court \nFontana, California 92335 \nDear Mr. Moniak: \nE::t( cut;'\",E' /l~g 111 \n322 590' \nEr,forceme-nt \n322·6441 \nOctober 16, 1981 \nStatements of Economic IntPrf'o;f \n322 6444 \nPatricia Murray, City Clerk, City of Fontana, has \nforwarded your Statement of Economic Interests to this office \nalong with a request for advice on your behalf. \nAccording to \nMs. Murray, you have objected to completing Schedu1e H of your \nForm 721, because you feel that disclosure of the names of \nyour customers would be a violation of their privacy rights. \nSection 87207(b) of the Government Code provides that you must \nreport the names of all customers of any business in which you \nown a ten percent or greater share, if your pro rata share of \nthe gross receipts from the customer is $10,000.00 or more \nduring a calendar year. \nIt is this provision which you claim \nvioJates your customers' rights of privacy. \nThe California Supreme Court has considered the question \nof whether the financial disclosure provisions of the Political \nReform Act violate the constitutional rights of privacy of per-\nsons filing statements, or of persons or businesses whose names \nmust be listed on statements as sources of income to the filers \nof those statements. \nThe court has held that such disclosure \nmay be required under the Political Reform Act, without violating \nconstitutional riqht~). \nSee Hayes v. Wood, (1979) 25 Ca1.3d 772; \nCount \nof Nevada v. !vkMillen,(l974) 11 Ca1.3d 662. \nTherefore \nexcuse you-from-Th-e requirement of Section 87207 of \nand must require you to file Schedule H. \nEnclosed is a \n:~unplement:::ll Schedule 721-H, Income to \nBusiness Entities, Wllich should be completed and sent to the \nCity Clerk who wi 11 reL.dn a copy and forward the original to \nthe Commissiun. \n\n\nLawrence M. Moniak \nOctober 16, 1981 \nPage Two \nWith regard to your city clerk's request.for waiver of \na fine for late filing your Statement of Economic Interests \nwhich was due April I, 1981, and according to guidelines \napproved by the Fair Political Practices Commission and in \nlight of all information available to the staff, your fine \nis hereby waived. \nThe Commission expects that you will make \nevery effort to file promptly in the future. \npleasE-' call me at (916) 322-6444 if you have any \nquestions regarding this matter. \nAH: jp \nEnclosures \ncc: \nCity Clerk \nSincerely, \nAlice Hughes \nDocuments Examiner \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1981-10-16",
+    "date_raw": "October 16, 1981",
+    "requestor_name": "Moniak",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "s regarding this matter. \nAH: jp \nEnclosures \ncc: \nCity Clerk",
+    "conclusion": "Section 87207(b) requires reporting of customer names when the filer owns a ten percent or greater share of a business and the pro rata share of gross receipts from the customer is $10,000 or more during a calendar year. The California Supreme Court has held that such disclosure may be required under the Political Reform Act without violating constitutional rights. Therefore, the Commission cannot excuse the filer from the requirement of Section 87207 and must require completion of Schedule H. Additionally, the fine for late filing the Statement of Economic Interests is waived.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Does the requirement to disclose customer names on Schedule H of Form 721 violate constitutional privacy rights, and can a Planning Commissioner be excused from this disclosure requirement?",
+    "conclusion_synthetic": "FPPC holds that disclosure of customer names under Section 87207(b) does not violate constitutional privacy rights based on California Supreme Court precedent, and therefore the filer must complete Schedule H. The Commission waives the late filing fine while expecting prompt future filings.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": true,
+    "parsing_notes": "Format: ocr; LLM: Document is a clear advice letter responding to a request forwarded by City Clerk. Contains explicit Question and Conclusion sections. References to Hayes v. Wood and County of Nevada v. McMillen cases. Minor OCR artifacts present ('Califorl/la', 'Commissiol/') but content is legible and complete."
+  },
+  "citations": {
+    "government_code": [
+      "87207",
+      "87207(b)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:37:02.196870Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: s regarding this matter. \nAH: jp \nEnclosures \ncc: \nCity Clerk\n\nCONCLUSION: Section 87207(b) requires reporting of customer names when the filer owns a ten percent or greater share of a business and the pro rata share of gross receipts from the customer is $10,000 or more during a calendar year. The California Supreme Court has held that such disclosure may be required under the Political Reform Act without violating constitutional rights. Therefore, the Commission cannot excuse the filer from the requirement of Section 87207 and must require completion of Schedule H. Additionally, the fine for late filing the Statement of Economic Interests is waived.",
+    "qa_source": "mixed",
+    "first_500_words": "State of Califorl/la . Fair Political Practices Commissiol/. P.o. BOX 807 • SACRAMENTO, 95804 ••• 11 00 K STREET BUILDING, SACRAMENTO, 95814 AdministroTion Lawrence M. Moniak Planning Commissioner 9060 Kaiser Court Fontana, California 92335 Dear Mr. Moniak: E::t( cut;'\",E' /l~g 111 322 590' Er,forceme-nt 322·6441 October 16, 1981 Statements of Economic IntPrf'o;f 322 6444 Patricia Murray, City Clerk, City of Fontana, has forwarded your Statement of Economic Interests to this office along with a request for advice on your behalf. According to Ms. Murray, you have objected to completing Schedu1e H of your Form 721, because you feel that disclosure of the names of your customers would be a violation of their privacy rights. Section 87207(b) of the Government Code provides that you must report the names of all customers of any business in which you own a ten percent or greater share, if your pro rata share of the gross receipts from the customer is $10,000.00 or more during a calendar year. It is this provision which you claim vioJates your customers' rights of privacy. The California Supreme Court has considered the question of whether the financial disclosure provisions of the Political Reform Act violate the constitutional rights of privacy of per- sons filing statements, or of persons or businesses whose names must be listed on statements as sources of income to the filers of those statements. The court has held that such disclosure may be required under the Political Reform Act, without violating constitutional riqht~). See Hayes v. Wood, (1979) 25 Ca1.3d 772; Count of Nevada v. !vkMillen,(l974) 11 Ca1.3d 662. Therefore excuse you-from-Th-e requirement of Section 87207 of and must require you to file Schedule H. Enclosed is a :~unplement:::ll Schedule 721-H, Income to Business Entities, Wllich should be completed and sent to the City Clerk who wi 11 reL.dn a copy and forward the original to the Commissiun. Lawrence M. Moniak October 16, 1981 Page Two With regard to your city clerk's request.for waiver of a fine for late filing your Statement of Economic Interests which was due April I, 1981, and according to guidelines approved by the Fair Political Practices Commission and in light of all information available to the staff, your fine is hereby waived. The Commission expects that you will make every effort to file promptly in the future. pleasE-' call me at (916) 322-6444 if you have any questions regarding this matter. AH: jp Enclosures cc: City Clerk Sincerely, Alice Hughes Documents Examiner",
+    "summary": "FPPC advises Lawrence M. Moniak, a Planning Commissioner, that he must complete Schedule H of his Form 721 to disclose customer names despite privacy concerns, as required by law and upheld by California courts. The Commission also waives his late filing fine."
+  }
+}

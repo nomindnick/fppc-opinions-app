@@ -1,0 +1,75 @@
+{
+  "id": "81A094",
+  "year": 1981,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1981/81A094.PDF",
+  "pdf_sha256": "50e3fd49bd31602fa147ed678847ba01119184d85e8a60ab4b4bba63d2ba0497",
+  "local_pdf_path": "raw_pdfs/1981/81A094.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1981 Advice Letter # 81A094",
+    "tags": [
+      "Advice Letter",
+      "1981"
+    ],
+    "scraped_at": "2026-01-31 15:28:38",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1981&tagCount=1&page=8"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T01:11:49.309919Z",
+    "page_count": 2,
+    "word_count": 446,
+    "char_count": 2612,
+    "quality_score": 0.9279916415592032,
+    "olmocr_cost": 0.005178919999999999,
+    "native_word_count": 7,
+    "haiku_cost": 0.005416
+  },
+  "content": {
+    "full_text": "State of California\nFair Political Practices Commission\nP.O. BOX 807 • SACRAMENTO, 95804 • • • 1100 K STREET BUILDING, SACRAMENTO, 95814\n\nTechnical Assistance • • Administration • • Executive/Legal • • Enforcement • • Statements of Economic Interest\n(916) 322-5662 322-5660 322-5901 323-6441 322-6444\n\nAugust 28, 1981\n\nA-81-08-094\n\nMr. Harold C. Stehle\n1520 - 69 East Capitol Expressway\nSan Jose, CA 95121\n\nDear Mr. Stehle:\n\nMr. Prim has asked me to respond to your letter to him of August 25, 1981, concerning the definition of a conflict of interest under the Political Reform Act. Government Code Section 87100* prohibits public officials from voting on matters in which they have a financial interest. The Act does not distinguish between votes for and votes against a public official's financial interest. In other words, a public official cannot vote on a matter in which he has a financial interest even if he votes against his own interest.\n\nI hope this answers your question. If you need further guidance as to what constitutes a financial interest for purposes of disqualification in the situation which you describe, I suggest that you look at Government Code Section 87103, 2 Cal. Adm. Code Section 18702, and the opinion of the Fair Political Practices Commission in the matter of the opinion requested by Martin Overstreet, a copy of which is enclosed with this letter.\n\nVery truly yours,\n\nBarbara A. Milman\nChief\nLegal Division\n\nBAM:ce\nEnclosure\n\nAll statutory references made are to the Government Code unless otherwise stated.\n\n1520-5th St., Santel Expwy.,\nSan Jose, Calif. 95121\nAug. 25, 1981\n\nMr Ted Prim\nFair Political Practices Comm.\nBox 707 95814\nSacramento, Calif.\n\nDear Mr Prim:\n\nThere is some confusion among members of a committee that I am\na member of as to what constitutes a \"Conflict of interest\".\n\nI was a member of the \"edwood City Council a few years ago and\nit was our understanding that you could vote and not be guilty of\na conflict of interest just as long as you voted against your\nown interests.\n\nWe have a situation where a City Councilman says he can't vote\nat all,or participate in any decision,regarding a Rent Relief\nOrdinance since he now owns a 4 Plex apartment. He has in the\npast voted in favor of the tenants and would be so inclined to\ndo so again but must refrain since he is a landlord.\n\nSince this would be against his own benefit as a landlord we can't\nsee this as a conflict of interest. Would you please advise us as\nto the correct interpretation of this law as it relates to this\nsituation.\n\nSincerely yours,\n\n[signature]\nHarold S. Stohle\nHarold S. Stohle",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1981-08-28",
+    "date_raw": "August 28, 1981",
+    "requestor_name": "Stehle",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "There is some confusion among members of a committee that I am a member of as to what constitutes a \"Conflict of Interest\". I was a member of the Redwood City Council a few years ago and it was our understanding that you could vote and not be guilty of a conflict of interest just as long as you voted against your own interests. We have a situation where a City Councilman says he can't vote at all, or participate in any decision, regarding a Rent Relief Ordinance since he now owns a 4 Plex apartment. He has in the past voted in favor of the tenants and would be so inclined to do so again but must refrain since he is a landlord. Since this would be against his own benefit as a landlord we can't see this as a conflict of interest. Would you please advise us as to the correct interpretation of this law as it relates to this situation.",
+    "conclusion": "Government Code Section 87100 prohibits public officials from voting on matters in which they have a financial interest. The Act does not distinguish between votes for and votes against a public official's financial interest. In other words, a public official cannot vote on a matter in which he has a financial interest even if he votes against his own interest.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Does a public official have a conflict of interest and must disqualify themselves from voting on a matter if they have a financial interest in that matter, even if they intend to vote against their own financial interest?",
+    "conclusion_synthetic": "A public official is prohibited from voting on any matter in which they have a financial interest, regardless of whether their vote would favor or oppose that interest. The Political Reform Act makes no distinction based on the direction of the official's intended vote.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document contains both the incoming request letter (dated Aug. 25, 1981) and the FPPC response letter (dated Aug. 28, 1981). Response drafted by Barbara A. Milman, Chief of Legal Division. Question and conclusion sections extracted from the correspondence."
+  },
+  "citations": {
+    "government_code": [
+      "87100",
+      "87103"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T16:34:24.035339Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: There is some confusion among members of a committee that I am a member of as to what constitutes a \"Conflict of Interest\". I was a member of the Redwood City Council a few years ago and it was our understanding that you could vote and not be guilty of a conflict of interest just as long as you voted against your own interests. We have a situation where a City Councilman says he can't vote at all, or participate in any decision, regarding a Rent Relief Ordinance since he now owns a 4 Plex apartment. He has in the past voted in favor of the tenants and would be so inclined to do so again but must refrain since he is a landlord. Since this would be against his own benefit as a landlord we can't see this as a conflict of interest. Would you please advise us as to the correct interpretation of this law as it relates to this situation.\n\nCONCLUSION: Government Code Section 87100 prohibits public officials from voting on matters in which they have a financial interest. The Act does not distinguish between votes for and votes against a public official's financial interest. In other words, a public official cannot vote on a matter in which he has a financial interest even if he votes against his own interest.",
+    "qa_source": "mixed",
+    "first_500_words": "August 28, 1981 Mr. Harold C. Stehle 1520 - 69 East Capitol Expressway San Jose, CA 95121 Dear Mr. Stehle: Mr. Prim has asked me to respond to your letter to him of August 25, 1981, concerning the definition of a conflict of interest under the Political Reform Act. Government Code Section 87100* prohibits public officials from voting on matters in which they have a financial interest. The Act does not distinguish between votes for and votes against a public official's financial interest. In other words, a public official cannot vote on a matter in which he has a financial interest even if he votes against his own interest. I hope this answers your question. If you need further guidance as to what constitutes a financial interest for purposes of disqualification in the situation which you describe, I suggest that you look at Government Code Section 87103, 2 Cal. Adm. Code Section 18702, and the opinion of the Fair Political Practices Commission in the matter of the opinion requested by Martin Overstreet, a copy of which is enclosed with this letter. Very truly yours, Barbara A. Milman Chief Legal Division BAM:ce Enclosure All statutory references made are to the Government Code unless otherwise stated. 1520-69 E. Capitol Expwy., San Jose, Calif., 95121 Aug. 25, 1981 Mr Ted Prim Fair Political Practices Comm. Box 807 95804 Sacramento, Calif. Dear Mr Prim: There is some confusion among members of a committee that I am a member of as to what constitutes a \"Conflict of Interest\". I was a member of the Redwood City Council a few years ago and it was our understanding that you could vote and not be guilty of a conflict of interest just as long as you voted against your own interests. We have a situation where a City Councilman says he can't vote at all, or participate in any decision, regarding a Rent Relief Ordinance since he now owns a 4 Plex apartment. He has in the past voted in favor of the tenants and would be so inclined to do so again but must refrain since he is a landlord. Since this would be against his own benefit as a landlord we can't see this as a conflict of interest. Would you please advise us as to the correct interpretation of this law as it relates to this situation. Sincerely yours, Harold C. Stehle",
+    "summary": "FPPC responds to inquiry about conflict of interest definition under the Political Reform Act, clarifying that Government Code Section 87100 prohibits public officials from voting on matters with financial interest regardless of vote direction. The letter explains that a city councilman with a financial interest in a rent relief ordinance cannot vote on it even if inclined to vote against his own landlord interests."
+  }
+}

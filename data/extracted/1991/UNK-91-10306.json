@@ -1,0 +1,71 @@
+{
+  "id": "UNK-91-10306",
+  "year": 1991,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1991/91124.pdf",
+  "pdf_sha256": "c0c215419fc0a3a678821cd02a471b2a2da7848e8657e7632276e657630f4559",
+  "local_pdf_path": "raw_pdfs/1991/91124.pdf",
+  "source_metadata": {
+    "title_raw": "1991-91124-Clark, Elizabeth",
+    "tags": [
+      "1991",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:19:06",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1991&tagCount=1&page=46"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T22:21:56.773367Z",
+    "page_count": 1,
+    "word_count": 136,
+    "char_count": 873,
+    "quality_score": 0.9019000000000001,
+    "olmocr_cost": 0.0025542,
+    "native_word_count": 162
+  },
+  "content": {
+    "full_text": "February 22, 1991\n\nJohn Rothman  \nFair Political Practices Commission  \n428 \"J\" Street, Suite 600  \nSacramento, CA 95814\n\nDear Mr. Rothman:\n\nThis letter is confirming our telephone conversation following up on your letter regarding whether a City Council member may use campaign funds to purchase a ticket to another candidate's campaign dinner.\n\nIn the example we discussed the term \"Legislative Official\" is defined as \"any employee or consultant of the Legislature whose duties are not solely secretarial, clerical or manual.\" You indicated that in the context of your letter \"Legislative Official\" refers to an incumbent or candidate for the State Senate or Assembly.\n\nPlease advise me if this information is not correct so we can provide it to our City Council.\n\nThank you again for your assistance.\n\nVery truly yours,\n\nElizabeth G. Clark  \nSenior Deputy City Attorney",
+    "full_text_markdown": "February 22, 1991\n\nJohn Rothman  \nFair Political Practices Commission  \n428 \"J\" Street, Suite 600  \nSacramento, CA 95814\n\nDear Mr. Rothman:\n\nThis letter is confirming our telephone conversation following up on your letter regarding whether a City Council member may use campaign funds to purchase a ticket to another candidate's campaign dinner.\n\nIn the example we discussed the term \"Legislative Official\" is defined as \"any employee or consultant of the Legislature whose duties are not solely secretarial, clerical or manual.\" You indicated that in the context of your letter \"Legislative Official\" refers to an incumbent or candidate for the State Senate or Assembly.\n\nPlease advise me if this information is not correct so we can provide it to our City Council.\n\nThank you again for your assistance.\n\nVery truly yours,\n\nElizabeth G. Clark  \nSenior Deputy City Attorney"
+  },
+  "parsed": {
+    "date": "1991-02-22",
+    "date_raw": "February 22, 1991",
+    "requestor_name": "Rothman",
+    "requestor_title": "City Attorney",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T22:21:56.773367Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "February 22, 1991 John Rothman Fair Political Practices Commission 428 \"J\" Street, Suite 600 Sacramento, CA 95814 Dear Mr. Rothman: This letter is confirming our telephone conversation following up on your letter regarding whether a City Council member may use campaign funds to purchase a ticket to another candidate's campaign dinner. In the example we discussed the term \"Legislative Official\" is defined as \"any employee or consultant of the Legislature whose duties are not solely secretarial, clerical or manual.\" You indicated that in the context of your letter \"Legislative Official\" refers to an incumbent or candidate for the State Senate or Assembly. Please advise me if this information is not correct so we can provide it to our City Council. Thank you again for your assistance. Very truly yours, Elizabeth G. Clark Senior Deputy City Attorney",
+    "qa_source": "extracted",
+    "first_500_words": "February 22, 1991 John Rothman Fair Political Practices Commission 428 \"J\" Street, Suite 600 Sacramento, CA 95814 Dear Mr. Rothman: This letter is confirming our telephone conversation following up on your letter regarding whether a City Council member may use campaign funds to purchase a ticket to another candidate's campaign dinner. In the example we discussed the term \"Legislative Official\" is defined as \"any employee or consultant of the Legislature whose duties are not solely secretarial, clerical or manual.\" You indicated that in the context of your letter \"Legislative Official\" refers to an incumbent or candidate for the State Senate or Assembly. Please advise me if this information is not correct so we can provide it to our City Council. Thank you again for your assistance. Very truly yours, Elizabeth G. Clark Senior Deputy City Attorney",
+    "summary": null
+  }
+}

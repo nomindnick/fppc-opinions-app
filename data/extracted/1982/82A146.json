@@ -1,0 +1,73 @@
+{
+  "id": "82A146",
+  "year": 1982,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1982/82A146.PDF",
+  "pdf_sha256": "b98b39fdf398155692eea387c8988efdb21b5949af2b081c8be8735cee04a267",
+  "local_pdf_path": "raw_pdfs/1982/82A146.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1982 Advice Letter # 82A146",
+    "tags": [
+      "1982",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:30:10",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1982&tagCount=1&page=8"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T00:44:36.540763Z",
+    "page_count": 1,
+    "word_count": 163,
+    "char_count": 985,
+    "quality_score": 0.8230543500126127,
+    "olmocr_cost": 0.00258172,
+    "native_word_count": 165
+  },
+  "content": {
+    "full_text": "TO: [ ] JEANNE   [ ] JAY\n[✓] LYNN   [ ] BARBARA\n[ ] RICH   [ ] BOB S.\n[✓] HELEN   [✓] OTHER Susan\n\nFROM: Helen via Jeanne\nDATE: 8/3/82\n\n[XX] TELEPHONE ADVICE - SEE BELOW\n[ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT\n(IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY)\n\nFILE LOCATION: Gov. Code Section 84206\nINCLUDE IN ADVICE PACKAGE: YES [ ] NO [XX]\n\nCALLER______________________________\nREPRESENTING_______________________\nPHONE NUMBER:_______________________\n\nQUESTION: If a pledge to make a late contribution is reported by telegram within 48 hours of the time the pledge is made, is another late report required within 48 hours when the pledge is actually paid?\n\nANSWER: NO. If a pledge (enforceable promise to make a payment) made during the late contribution period is reported pursuant to Section 84206, so long as none of the information originally reported changes, another late report is not required to be filed within 48 hours of the time the pledge is actually paid.",
+    "full_text_markdown": "TO: [ ] JEANNE   [ ] JAY\n[✓] LYNN   [ ] BARBARA\n[ ] RICH   [ ] BOB S.\n[✓] HELEN   [✓] OTHER Susan\n\nFROM: Helen via Jeanne\nDATE: 8/3/82\n\n[XX] TELEPHONE ADVICE - SEE BELOW\n[ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT\n(IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY)\n\nFILE LOCATION: Gov. Code Section 84206\nINCLUDE IN ADVICE PACKAGE: YES [ ] NO [XX]\n\nCALLER______________________________\nREPRESENTING_______________________\nPHONE NUMBER:_______________________\n\nQUESTION: If a pledge to make a late contribution is reported by telegram within 48 hours of the time the pledge is made, is another late report required within 48 hours when the pledge is actually paid?\n\nANSWER: NO. If a pledge (enforceable promise to make a payment) made during the late contribution period is reported pursuant to Section 84206, so long as none of the information originally reported changes, another late report is not required to be filed within 48 hours of the time the pledge is actually paid."
+  },
+  "parsed": {
+    "date": "1982-08-03",
+    "date_raw": "8/3/82",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "If a pledge to make a late contribution is reported by telegram within 48 hours of the time the pledge is made, is another late report required within 48 hours when the pledge is actually paid?\n\nANSWER: NO. If a pledge (enforceable promise to make a payment) made during the late contribution period is reported pursuant to Section 84206, so long as none of the information originally reported changes, another late report is not required to be filed within 48 hours of the time the pledge is actually paid.",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.44999999999999996,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern"
+  },
+  "citations": {
+    "government_code": [
+      "84206"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-20T00:44:36.540763Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: If a pledge to make a late contribution is reported by telegram within 48 hours of the time the pledge is made, is another late report required within 48 hours when the pledge is actually paid?\n\nANSWER: NO. If a pledge (enforceable promise to make a payment) made during the late contribution period is reported pursuant to Section 84206, so long as none of the information originally reported changes, another late report is not required to be filed within 48 hours of the time the pledge is actually paid.",
+    "qa_source": "extracted",
+    "first_500_words": "TO: [ ] JEANNE [ ] JAY [✓] LYNN [ ] BARBARA [ ] RICH [ ] BOB S. [✓] HELEN [✓] OTHER Susan FROM: Helen via Jeanne DATE: 8/3/82 [XX] TELEPHONE ADVICE - SEE BELOW [ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT (IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY) FILE LOCATION: Gov. Code Section 84206 INCLUDE IN ADVICE PACKAGE: YES [ ] NO [XX] CALLER______________________________ REPRESENTING_______________________ PHONE NUMBER:_______________________ QUESTION: If a pledge to make a late contribution is reported by telegram within 48 hours of the time the pledge is made, is another late report required within 48 hours when the pledge is actually paid? ANSWER: NO. If a pledge (enforceable promise to make a payment) made during the late contribution period is reported pursuant to Section 84206, so long as none of the information originally reported changes, another late report is not required to be filed within 48 hours of the time the pledge is actually paid.",
+    "summary": null
+  }
+}

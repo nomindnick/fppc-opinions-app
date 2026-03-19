@@ -1,0 +1,73 @@
+{
+  "id": "76ADV-340",
+  "year": 1976,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1976/76ADV-340.PDF",
+  "pdf_sha256": "532bc7d761b9f936abbc68c01456f4eca1c0daf2c7d05a48551bfeb13edba212",
+  "local_pdf_path": "raw_pdfs/1976/76ADV-340.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1976ADV Advice Letter # 76ADV-340",
+    "tags": [
+      "1976",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:17:36",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1976&tagCount=1&page=41"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:21.429012Z",
+    "page_count": 2,
+    "word_count": 195,
+    "char_count": 1206,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 195
+  },
+  "content": {
+    "full_text": "September 7, 1976 \nA. David Stutz, Attorney \n1, Schmidt, D'Amico, McCabe & Stutz \n2170 Fourth Avenue \n• California 92101 \nStutz: \nletter is to confirm our telephone conversation of August \n17, 1976, concerning a state legislator who is a candidate for \nlator plans to have an advertising \ntrative assistant has a financial \nadvertis \nrelative to his reelec-\nPolitical Reform Act pro-\nI responded that the legislator \nthe agency as \nas the costs incurred \n, either by the \n, his committee or \nising \nGovernment Code Section 84303 states \nno expenditure \nbe \nby an advertis \nagency on be-\nor for the \nof a candidate or comruittee unless the \npayments made by the agency are reported by either the candidate, \ncommittee or the \n. \nThe agency is obligated to \nknown \nto \ncandidate or committee all information required to be \nreported under the campaign disclosure provisions of the Act. \nwe can \nof further assistance, \ne contact our staff. \nSincerely, \nbee: \nJeanne P. \n\n\nJOHN A. MITCHELL \nDONALD W. SCHM I DT \nSEBASTIAN D'AMICO \nJOHN J. McCABE, JR. \nA. DAVID STUTZ \nLAW OFFICES \nMITCHELL, SCHMIDT, D'AMICO, McCABE S STUTZ \n2170 FOURTH AVENUE \nSAN DIEGO, CALIFORNIA 92101 \nAREA CODE 714 \nTELEPHONE 236 1133 \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1976-09-07",
+    "date_raw": "September 7, 1976",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "Government Code Section 84303 states that no expenditure can be made by an advertising agency on behalf of or for the benefit of a candidate or committee unless the payments made by the agency are reported by either the candidate, committee or the agency. The agency is obligated to disclose all information required to be reported under the campaign disclosure provisions of the Act.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a state legislator who is a candidate for reelection can have an advertising agency with which his administrative assistant has a financial interest prepare advertising materials relative to his reelection campaign under the Political Reform Act.",
+    "conclusion_synthetic": "Under Government Code Section 84303, advertising agency expenditures on behalf of a candidate must be reported by the candidate, committee, or agency, and the agency must disclose all information required under the campaign disclosure provisions of the Political Reform Act.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.75,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is severely damaged/degraded with significant text loss throughout. No formal QUESTION and CONCLUSION section headers present. The response letter structure and content clearly indicates this is an FPPC advice letter. Synthetic summaries based on partially legible text; actual question and conclusion text has multiple gaps and illegible portions."
+  },
+  "citations": {
+    "government_code": [
+      "84303"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:37:21.429012Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether a state legislator who is a candidate for reelection can have an advertising agency with which his administrative assistant has a financial interest prepare advertising materials relative to his reelection campaign under the Political Reform Act.\n\nCONCLUSION: Government Code Section 84303 states that no expenditure can be made by an advertising agency on behalf of or for the benefit of a candidate or committee unless the payments made by the agency are reported by either the candidate, committee or the agency. The agency is obligated to disclose all information required to be reported under the campaign disclosure provisions of the Act.",
+    "qa_source": "mixed",
+    "first_500_words": "September 7, 1976 A. David Stutz, Attorney 1, Schmidt, D'Amico, McCabe & Stutz 2170 Fourth Avenue • California 92101 Stutz: letter is to confirm our telephone conversation of August 17, 1976, concerning a state legislator who is a candidate for lator plans to have an advertising trative assistant has a financial advertis relative to his reelec- Political Reform Act pro- I responded that the legislator the agency as as the costs incurred , either by the , his committee or ising Government Code Section 84303 states no expenditure be by an advertis agency on be- or for the of a candidate or comruittee unless the payments made by the agency are reported by either the candidate, committee or the . The agency is obligated to known to candidate or committee all information required to be reported under the campaign disclosure provisions of the Act. we can of further assistance, e contact our staff. Sincerely, bee: Jeanne P. JOHN A. MITCHELL DONALD W. SCHM I DT SEBASTIAN D'AMICO JOHN J. McCABE, JR. A. DAVID STUTZ LAW OFFICES MITCHELL, SCHMIDT, D'AMICO, McCABE S STUTZ 2170 FOURTH AVENUE SAN DIEGO, CALIFORNIA 92101 AREA CODE 714 TELEPHONE 236 1133",
+    "summary": "FPPC response confirming telephone conversation regarding whether a state legislator-candidate can use an advertising agency in which his administrative assistant has a financial interest, advising that agency expenditures must be reported and disclosed per Government Code Section 84303."
+  }
+}

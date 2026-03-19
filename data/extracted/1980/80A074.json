@@ -1,0 +1,77 @@
+{
+  "id": "80A074",
+  "year": 1980,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1980/80A074.PDF",
+  "pdf_sha256": "46ad1902a7690c5fd01294e56e5ab3bc4eb43fc6c74c914093d17289c816c151",
+  "local_pdf_path": "raw_pdfs/1980/80A074.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1980 Advice Letter # 80A074",
+    "tags": [
+      "1980",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:27:54",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1980&tagCount=1&page=14"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T16:16:40.367950Z",
+    "page_count": 3,
+    "word_count": 480,
+    "char_count": 3160,
+    "quality_score": 0.9140673076923076,
+    "olmocr_cost": 0.00757488,
+    "native_word_count": 184,
+    "haiku_cost": 0.006868
+  },
+  "content": {
+    "full_text": "State of California\n\nMemorandum\n\nTo : File                                                    Date : March 27, 1980\n\n\nFrom : FAIR POLITICAL PRACTICES COMMISSION              A-80-03-049\n         Dwight Dickerson\n\nSubject: Legally required participation in order to exercise\n         a veto\n\n\n         I brought the following question to the Opinion Request\nmeeting of March 6, 1980.  Does the doctrine of legally\nrequired participation apply to the veto of a proposed\nordinance by the Mayor of San Francisco if the ordinance\ncould financially affect the Mayor within the meaning of\nGovernment Code Sections 87100 and 87103.\n\n         It was concluded by the staff, that if the \"decision\"\nto veto could not be lawfully delegated, the Mayor could\nexercise the veto under the legally required participation\ndoctrine. I was instructed by the participants of the meeting\nto review the City Charter.\n\n         According to Section 25 of the City Charter, the Mayor's\nduties can be delegated only under the following circum-\nstances: If the Mayor is absent from the City, the Mayor\nmay designated one of the supervisors to act in his or her\nabsence.  If the Mayor fails to make such a delegation,\nthe Board of Supervisors may elect one of its members as\nacting Mayor.  In cases of disaster which causes the Mayor\nto be absent or unavailable, and the Board of Supervisors for\nsome reason cannot elect one of their own members, the\norder of succession is as follows:\n\n         1)  President of the Board of Supervisors\n         2)  Chairman of the Finance Committee of the Board of\n             Supervisors\n         3)  Senior member of the Board of Supervisors\n         4)  Chief Administrative Officer of the County\n\nFile\nMarch 27, 1980\nPage Two\n\n\n     The Charter does not give the Mayor authority to\ndelegate his responsibilities in the event of a\nconflict of interest in the governmental decision.\nTherefore, the legally required participation doctrine\nis applicable to a decision to veto the ordinance because\nthe decision cannot be lawfully delegated.\n\nDED:nrw\n\nState of California\n\nMemorandum\n\nTo : Opinion Request Meeting Participants                Date : March 4, 1980\n\n\nFrom : FAIR POLITICAL PRACTICES COMMISSION\n       Dwight Dickerson\n\nSubject: Legally Required Participation\n\n       It is expected that San Francisco will be enacting\na rent control measure. The Mayor owns an apartment\nbuilding that will be affected by the measure. Government\nCode Sections 87100 and 87103(b) would require her to\nrefrain from participating in the matter. However,\nGovernment Code Section 87101 would allow the Mayor to\nparticipate in the decision regarding rent control if\nher participation was legally required for the decision\nto be made.\n\n       The question presented is whether she can rely on\nthe legally required participation doctrine for the\npurpose of vetoing the measure. Only the Mayor can\nveto the measure. She cannot delegate her authority\nunless she is out of the city. The charter does not\nprovide for delegation of her authority in the case of\nconflict of interests.\n\nDD:plh\n\n[illegible] to the\n\n1) No N.I.R [illegible]\n\n2) [illegible] S.F. [illegible]",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1980-03-27",
+    "date_raw": "March 27, 1980",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Does the doctrine of legally required participation apply to the veto of a proposed ordinance by the Mayor of San Francisco if the ordinance could financially affect the Mayor within the meaning of Government Code Sections 87100 and 87103.",
+    "conclusion": "If the 'decision' to veto could not be lawfully delegated, the Mayor could exercise the veto under the legally required participation doctrine. The legally required participation doctrine is applicable to a decision to veto the ordinance because the decision cannot be lawfully delegated. The Charter does not give the Mayor authority to delegate her responsibilities in the event of a conflict of interest in the governmental decision.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Can the San Francisco Mayor rely on the legally required participation doctrine under Government Code Section 87101 to participate in and veto a rent control ordinance that would financially affect her personal property despite conflict of interest restrictions in Sections 87100 and 87103?",
+    "conclusion_synthetic": "The Mayor may rely on the legally required participation doctrine to veto the ordinance because the veto power cannot be lawfully delegated under the San Francisco City Charter, which only permits delegation during the Mayor's absence from the city or in disaster situations.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document contains two memoranda discussing the same legal question. The second (March 4, 1980) presents the question; the first (March 27, 1980) presents the staff conclusion after Charter review. Both are integrated into the extraction. No formal CONCLUSION or SHORT ANSWER section heading present, but clear conclusion stated in text."
+  },
+  "citations": {
+    "government_code": [
+      "87100",
+      "87101"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [
+      "84008"
+    ],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T16:39:37.969046Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Does the doctrine of legally required participation apply to the veto of a proposed ordinance by the Mayor of San Francisco if the ordinance could financially affect the Mayor within the meaning of Government Code Sections 87100 and 87103.\n\nCONCLUSION: If the 'decision' to veto could not be lawfully delegated, the Mayor could exercise the veto under the legally required participation doctrine. The legally required participation doctrine is applicable to a decision to veto the ordinance because the decision cannot be lawfully delegated. The Charter does not give the Mayor authority to delegate her responsibilities in the event of a conflict of interest in the governmental decision.",
+    "qa_source": "mixed",
+    "first_500_words": "State of California Memorandum To: File Date: March 27, 1980 From: FAIR POLITICAL PRACTICES COMMISSION Dwight Dickerson Subject: Legally required participation in order to exercise a veto I brought the following question to the Opinion Request meeting of March 6, 1980. Does the doctrine of legally required participation apply to the veto of a proposed ordinance by the Mayor of San Francisco if the ordinance could financially affect the Mayor within the meaning of Government Code Sections 87100 and 87103. It was concluded by the staff, that if the \"decision\" to veto could not be lawfully delegated, the Mayor could exercise the veto under the legally required participation doctrine. I was instructed by the participants of the meeting to review the City Charter. According to Section 25 of the City Charter, the Mayor's duties can be delegated only under the following circumstances: If the Mayor is absent from the City, the Mayor may designate one of the supervisors to act in his or her absence. If the Mayor fails to make such a delegation, the Board of Supervisors may elect one of its members as acting Mayor. In cases of disaster which causes the Mayor to be absent or unavailable, and the Board of Supervisors for some reason cannot elect one of their own members, the order of succession is as follows: 1) President of the Board of Supervisors 2) Chairman of the Finance Committee of the Board of Supervisors 3) Senior member of the Board of Supervisors 4) Chief Administrative Officer of the County The Charter does not give the Mayor authority to delegate his or her responsibilities in the event of a conflict of interest in the governmental decision. Therefore, the legally required participation doctrine is applicable to a decision to veto the ordinance because the decision cannot be lawfully delegated. DED:nrw **Memorandum** **To:** Opinion Request Meeting Participants **Date:** March 4, 1980 **From:** FAIR POLITICAL PRACTICES COMMISSION Dwight Dickerson **Subject:** Legally Required Participation It is expected that San Francisco will be enacting a rent control measure. The Mayor owns an apartment building that will be affected by the measure. Government Code Sections 87100 and 87103(b) would require her to refrain from participating in the matter. However, Government Code Section 87101 would allow the Mayor to participate in the decision regarding rent control if her participation was legally required for the decision to be made. The question presented is whether she can rely on the legally required participation doctrine for the purpose of vetoing the measure. Only the Mayor can veto the measure. She cannot delegate her authority unless she is out of the city. The charter does not provide for delegation of her authority in the case of conflict of interests. DD:plh",
+    "summary": "FPPC advises that the San Francisco Mayor may participate in vetoing a rent control ordinance affecting her personal property under the legally required participation doctrine, since her veto authority cannot be lawfully delegated under the City Charter's delegation provisions."
+  }
+}

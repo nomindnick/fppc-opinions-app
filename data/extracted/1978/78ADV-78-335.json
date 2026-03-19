@@ -1,0 +1,71 @@
+{
+  "id": "78ADV-78-335",
+  "year": 1978,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1978/78ADV-78-335.PDF",
+  "pdf_sha256": "ef45fd2ac9cb9ed8accef44c7fcc6ce038b0088f10d724c7358317c5304cd1df",
+  "local_pdf_path": "raw_pdfs/1978/78ADV-78-335.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1978ADV Advice Letter # 78ADV-78-335",
+    "tags": [
+      "Advice Letter",
+      "1978"
+    ],
+    "scraped_at": "2026-01-31 15:24:39",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=25"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:10.870398Z",
+    "page_count": 1,
+    "word_count": 111,
+    "char_count": 683,
+    "quality_score": 0.515,
+    "olmocr_cost": null,
+    "native_word_count": 111
+  },
+  "content": {
+    "full_text": "6 \n/30~ \nState of California \nM mor nd \nTo \nFrom \nSubject: \nFile \nFAIR POLITICAL PRACTICES COMMISSION \nTed Prim \nDate \nf.1arch 7, 1978 \nDetermination not to desi \nte \nlavJyers under the \nCode for the Legislative Counsel's Office \nThe Conflict of Interest Committee approved the \ndesignation of 19 out of the 63 lawyers who are employed \nby the Legislative Counsel's Office. \nThe rationale for \nnot designa \nmore is as follows: \n1. \nThe agency does not solicit views from other \nagencies prior to render \nan opinion. \n2. \nThe work of the lawyers is heavily reviewed, \nusually by several supervisors. \n3. \nThere is no field \nion. \n4. \nThe lawyers generally \nnot appear in court. \n:gb \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether lawyers employed by the Legislative Counsel's Office should be designated under the Political Reform Act's conflict of interest provisions.",
+    "conclusion_synthetic": "The Conflict of Interest Committee approved designation of only 19 out of 63 lawyers employed by the Legislative Counsel's Office, based on factors including lack of inter-agency consultation requirements, internal supervisory review processes, absence of field operations, and limited court appearances.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.65,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is a memorandum rather than traditional advice letter format; no formal QUESTION or CONCLUSION sections; text appears partially degraded/OCR-damaged (e.g., 'desi te', 'lavJyers', 'render', 'designa', 'ion'); extracted content from structured elements present (To/From/Subject/File)"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:10.870398Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether lawyers employed by the Legislative Counsel's Office should be designated under the Political Reform Act's conflict of interest provisions.\n\nCONCLUSION: The Conflict of Interest Committee approved designation of only 19 out of 63 lawyers employed by the Legislative Counsel's Office, based on factors including lack of inter-agency consultation requirements, internal supervisory review processes, absence of field operations, and limited court appearances.",
+    "qa_source": "synthetic",
+    "first_500_words": "6 /30~ State of California M mor nd To From Subject: File FAIR POLITICAL PRACTICES COMMISSION Ted Prim Date f.1arch 7, 1978 Determination not to desi te lavJyers under the Code for the Legislative Counsel's Office The Conflict of Interest Committee approved the designation of 19 out of the 63 lawyers who are employed by the Legislative Counsel's Office. The rationale for not designa more is as follows: 1. The agency does not solicit views from other agencies prior to render an opinion. 2. The work of the lawyers is heavily reviewed, usually by several supervisors. 3. There is no field ion. 4. The lawyers generally not appear in court. :gb",
+    "summary": "FPPC memorandum documenting the Conflict of Interest Committee's determination to designate only 19 of 63 Legislative Counsel's Office lawyers under conflict of interest rules, with rationale based on operational safeguards and limited external decision-making authority."
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "77A-284",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77A-284.PDF",
+  "pdf_sha256": "dcefea6d2b4d55273a314a6be3f84821bafb3b93876860f5654e161b828e34d7",
+  "local_pdf_path": "raw_pdfs/1977/77A-284.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977A Advice Letter # 77A-284",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:19:00",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-27T04:08:59.262863Z",
+    "page_count": 2,
+    "word_count": 368,
+    "char_count": 2458,
+    "quality_score": 0.86879370122631,
+    "olmocr_cost": 0.00910912,
+    "native_word_count": 648,
+    "haiku_cost": 0.004856
+  },
+  "content": {
+    "full_text": "November 15, 1977\n\nRobert Burt\nOil Fort Manufactures' Association\nP.O. Box 1138\nSacramento, CA 95800\n\nDear Mr. Burt:\n\nThis letter confirms our telephone conversation of\nNovember 9, 1977, concerning lobbyist employer report filed\nby members of the Association.\n\nAs I understand the facts, several companies donated\nfunds to cover the costs of an air pollution control association\nmeeting. The funds totaled $1,000. The companies reported\nthe donations on lobbyist employer forms filed during the\nsummer of 1977, but they did not disclose the names of the\nbeneficiaries at that time because a list of persons attending the meeting had not been compiled. Such a list has now\nbeen prepared.\n\nOn the basis of these facts I advised you that the\ncorporations should submit the list with a cover letter to the\nSecretary of State. The cover letter should state that the\nlist supplements the previous filing and shall indicate the\ndate of the previous lobbyist employer report was filed.\n\nI hope this information is of assistance.\n\nSincerely,\n\nNatalie J. West\nStaff Counsel\nLegal Division\n\nNJW:jo\n\nDecember 21, 1977\n\n\nPatricia Cain\nAero Vironment, Inc.\n145 Vista Avenue\nPasadena, California  91107\n\nDear Ms. Cain:\n\n     Enclosed is a copy of the letter sent, following their telephone conversation, by Natalie West of our staff to Robert Dart of the California Manufacturers Association. As you can see the advice given referred only to expenditures by members of the Association that employ lobbyists.\n\n     Persons, including your company, whose payments to influence legislative or administrative action at the state level total $250 or more in any month have an obligation under Government Code Section 86108(b) to report those payments. However, this requirement does not apply if all of the payments made by the person are in the form of payments to benefit state officials or members of their immediate families (Government Code Section 82045(c)).\n\n     As you have described your participation in the APCA meeting, all of your payments were in the nature of those covered from the reporting requirements as noted above. Consequently, you had no obligation to report the expenditure, and there was no need to submit a list of the beneficiaries of that expenditure.\n\n                                        Sincerely yours,\n\n\n                                        John Gianello\n                                        Political Reform Analyst\n\nJG:jw\n\nEnclosure",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1977-11-15",
+    "date_raw": "November 15, 1977",
+    "requestor_name": "Burt",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether corporations that donated funds to an air pollution control association meeting must disclose the names of beneficiaries on lobbyist employer reports, and whether payments for such charitable/benefit activities require reporting under Government Code Section 86108(b).",
+    "conclusion_synthetic": "Corporations that donated funds to benefit state officials or members of their immediate families are exempt from reporting requirements under Government Code Section 82045(c), and therefore had no obligation to report the expenditure or submit a list of beneficiaries.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document contains two separate advice letters; no formal QUESTION/CONCLUSION sections with headers, but clear advisory content present. First letter (Burt) advises submitting supplemental list with cover letter; second letter (Cain) clarifies exemption under Government Code Section 82045(c) for payments benefiting state officials."
+  },
+  "citations": {
+    "government_code": [
+      "82045(c)",
+      "86108(b)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-07T17:00:49.717840Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether corporations that donated funds to an air pollution control association meeting must disclose the names of beneficiaries on lobbyist employer reports, and whether payments for such charitable/benefit activities require reporting under Government Code Section 86108(b).\n\nCONCLUSION: Corporations that donated funds to benefit state officials or members of their immediate families are exempt from reporting requirements under Government Code Section 82045(c), and therefore had no obligation to report the expenditure or submit a list of beneficiaries.",
+    "qa_source": "synthetic",
+    "first_500_words": "November 15, 1977 Robert Burt California Manufacturers Association P.O. Box 1138 Sacramento, CA 95305 Dear Mr. Burt: This letter confirms our telephone conversation of November 9, 1977, concerning lobbyist employer reports filed by members of the Association. As I understand the facts, several companies donated funds to cover the costs of an air pollution control association meeting. The funds totaled $1,000. The companies reported their donations on lobbyist employer forms filed during the summer of 1977, but they did not disclose the names of the beneficiaries at that time because a list of persons attending the meeting had not been compiled. Such a list has now been prepared. On the basis of these facts I advised you that the corporations should submit the list with a cover letter to the Secretary of State. The cover letter should state that the list supplements the previous filing and should indicate the date of the previous lobbyist employer report was filed. I hope this information is of assistance. Sincerely, Natalie W. West Staff Counsel Legal Division December 21, 1977 Patricia Cain Aero Vironment, Inc. 145 Vista Avenue Pasadena, California 91107 Dear Ms. Cain: Enclosed is a copy of the letter sent, following their telephone conversation, by Natalie West of our staff to Robert Burt of the California Manufacturers Association. As you can see the advice given referred only to expenditures by members of the Association that employ lobbyists. Persons, including your company, whose payments to influence legislative or administrative action at the state level total $250 or more in any month have an obligation under Government Code Section 86108(b) to report those payments. However, this requirement does not apply if all of the payments made by the person were in the form of payments to benefit state officials or members of their immediate families (Government Code Section 82045(c)). As you have described your participation in the APCA meeting, all of your payments were in the nature of those exempted from the reporting requirements as noted above. Consequently, you had no obligation to report the expenditure, and there was no need to submit a list of the beneficiaries of that expenditure. Sincerely yours, John Giansello Political Reform Analyst JG:bw Enclosure",
+    "summary": "This document contains two FPPC advice letters from 1977 addressing whether companies must report donations to an air pollution control association meeting and disclose beneficiaries on lobbyist employer forms. The FPPC advises that such donations, when made to benefit state officials or their families, are exempt from reporting requirements."
+  }
+}

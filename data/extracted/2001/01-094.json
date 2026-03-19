@@ -1,0 +1,76 @@
+{
+  "id": "01-094",
+  "year": 2001,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2001/01-094.pdf",
+  "pdf_sha256": "3dc2c2c2084fec3c07f2a9bcd367dcbf357eb6e6b1cb3706837444bac625d200",
+  "local_pdf_path": "raw_pdfs/2001/01-094.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2001 Advice Letter # 01-094",
+    "tags": [
+      "2001",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:51:10",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2001&tagCount=1"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:32.418361Z",
+    "page_count": 2,
+    "word_count": 236,
+    "char_count": 1542,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 236
+  },
+  "content": {
+    "full_text": "Re\nFarn Porrrrclr Pnlcrrcrcs CouvussloN\nP.O. Box 807 . 428 J Street . Sacramento, CA 95812-0807\n(916) 322-5660 . Fax (916) 322-0886\nMay 25,2001\nTina M. Wallis\nHatch and Parent\nPost Office Drawet 720\nSanta Barbara, California 93 102-07 20\nYour Request for Advice\nOur File No. W-01-094\nDear Ms. Wallis:\nWe have received your April 24,2OOl request for advice on behalf of Eric\nSchafer regarding the conflict-of-interest provisions of the Political Reform Act (the\n\"Act\").1 As mentioned in our telephone conversation, the Commission may decline to\nissue advice where the question presented is hypothetical. (Regulation 18329(b)(8),\nenclosed.) The Commission also may decline to render advice if it appears that the\nmaterial facts provided in the request may be inaccurate, incomplete, or in dispute.\n(rbid)\nWe have determined that your request either presents hypothetical questions or\ndoes not provide the material facts needed by us to render advice to you. Consequently,\nthe Commission declines to issue advice on this matter.\nPlease do not hesitate to write in again once you have identified a specific\ngovernmental decision before Mr. Schafer's agency.\n1 Government Code sections 81000 - 91014. Commission regulations appear at Title 2, sections\n18109-18997, of the California Code of Regulations.\n\n\nFile No. W-01-094\nPage No. 2\nIf you have any other questions regarding this matter, please contact me at\n(et6) 322-s660.\nSincerely,\nLuisa Menchaca\nGeneral Counsel\nBy\ncanegra\nStaff Counsel, Legal Division\nNB:jg\nI.\\Adviceltrs\\O1-094\nEnclosure\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2001-05-25",
+    "date_raw": "May 25,2001",
+    "requestor_name": "Wallis",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "We have determined that your request either presents hypothetical questions or does not provide the material facts needed by us to render advice to you. Consequently, the Commission declines to issue advice on this matter.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The request sought advice regarding conflict-of-interest provisions of the Political Reform Act for Eric Schafer, but the FPPC determined the questions were hypothetical or lacked sufficient material facts.",
+    "conclusion_synthetic": "The FPPC declines to issue advice because the request presents hypothetical questions or lacks sufficient material facts needed for analysis. The requester is invited to resubmit once a specific governmental decision is identified.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is a declination letter with no traditional QUESTION or CONCLUSION sections. The question and conclusion information were extracted from the body text. Document states it may be hypothetical or factually incomplete."
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [
+      "18109",
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:34:32.418361Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The request sought advice regarding conflict-of-interest provisions of the Political Reform Act for Eric Schafer, but the FPPC determined the questions were hypothetical or lacked sufficient material facts.\n\nCONCLUSION: We have determined that your request either presents hypothetical questions or does not provide the material facts needed by us to render advice to you. Consequently, the Commission declines to issue advice on this matter.",
+    "qa_source": "mixed",
+    "first_500_words": "Re Farn Porrrrclr Pnlcrrcrcs CouvussloN P.O. Box 807 . 428 J Street . Sacramento, CA 95812-0807 (916) 322-5660 . Fax (916) 322-0886 May 25,2001 Tina M. Wallis Hatch and Parent Post Office Drawet 720 Santa Barbara, California 93 102-07 20 Your Request for Advice Our File No. W-01-094 Dear Ms. Wallis: We have received your April 24,2OOl request for advice on behalf of Eric Schafer regarding the conflict-of-interest provisions of the Political Reform Act (the \"Act\").1 As mentioned in our telephone conversation, the Commission may decline to issue advice where the question presented is hypothetical. (Regulation 18329(b)(8), enclosed.) The Commission also may decline to render advice if it appears that the material facts provided in the request may be inaccurate, incomplete, or in dispute. (rbid) We have determined that your request either presents hypothetical questions or does not provide the material facts needed by us to render advice to you. Consequently, the Commission declines to issue advice on this matter. Please do not hesitate to write in again once you have identified a specific governmental decision before Mr. Schafer's agency. 1 Government Code sections 81000 - 91014. Commission regulations appear at Title 2, sections 18109-18997, of the California Code of Regulations. File No. W-01-094 Page No. 2 If you have any other questions regarding this matter, please contact me at (et6) 322-s660. Sincerely, Luisa Menchaca General Counsel By canegra Staff Counsel, Legal Division NB:jg I.\\Adviceltrs\\O1-094 Enclosure",
+    "summary": "The FPPC declined to issue an advice letter on a conflict-of-interest matter for Eric Schafer because the request presented hypothetical questions and lacked necessary material facts. The requestor was advised to resubmit once a specific governmental decision was identified."
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "76ADV-258",
+  "year": 1976,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1976/76ADV-258.PDF",
+  "pdf_sha256": "4912cd2e98edf4904e1250d459f40e60124b4ac694606db561f4f1b14503d505",
+  "local_pdf_path": "raw_pdfs/1976/76ADV-258.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1976ADV Advice Letter # 76ADV-258",
+    "tags": [
+      "1976",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:15:28",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1976&tagCount=1&page=12"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:17.791334Z",
+    "page_count": 2,
+    "word_count": 380,
+    "char_count": 2286,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 380
+  },
+  "content": {
+    "full_text": "State of California \nf,,'lemorandum \nTo \nDan, Bob S., Ken F., Natalie, Mike \nDote \nMay 5, 1976 \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nSubject: \nTed Prim \nPROPOSED REGULATION CONCERNING THE MEANING OF \n\"PERSON OR COMBINATION OF PERSONS II WITHIN THE MEAi'1ING \nOF §82013. \nThis proposed regulation was motivated by \nOpinion Response 75-205, LumsdoM, in which the Commis-\nsion was asked whether a person, 9f the corporation in which \nthat person is the majority shareholder, and the business of \nwhich he is president are a person or combination of persons \nwhich constitute a committee within the meaning of §82013. \nI believe strongly that we should find a standard which does \nnot require a fact intensive analysis to resolve each ques-\ntion in this area. \nWe do not have the staff to make such \ninvestigations and, in addition, such an approach provides \nlittle in the way of predictability for the public. \nAccord-\ningly, subsection (a) of the proposed regs suggest several \nper se rules which may resolve a number of problems in this \narea. \nHowever, this reg only represents a first shot so I \nam actively soliciting your suggestions on how to approach \nthis problem. \nWe are required to notice a reg by May 12 so please \nhave your comments to me by Monday, May 10. \nThank you. \nTP :pvp \n\n\no \nM \nT lA \n5, 1976 \n18213. \nPersons or Combination of Persons (82013) \nA. \nA person as used in Government Code §820l3 includes \n(1) \nA corporation and its majority shareholder. \nA \nmajority shareholder is defined as any person or \nentity which owns more than a 50% interest in the \nvoting stock of the corporation. \n(2) \nA partnership and any partner who owns more than \na 50% interest in the profits or capital stock of the \npartnership exclusive of any interest held by a limited \npartner. \nB. \nA combination of persons as used in Government Code \n§820l3 is two or more persons or entities who enter into \nan agreement or ·iai·t::ial understanding, tacit or otherwise, \nthat they will coordinate their efforts or work together \nto receive contributions or make expenditures for \nthe common purpose of influencing or attempting \nto influence the action of the voters for or against \nthe nomination or election of one or more c~~didates-\nor the qualification or passage of a measure. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1976-05-05",
+    "date_raw": "May 5, 1976",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "How should the FPPC define 'person or combination of persons' under Government Code §82013 to establish clear per se rules rather than requiring fact-intensive analysis for each case?",
+    "conclusion_synthetic": "The FPPC proposes regulatory definitions establishing per se rules: a 'person' includes a corporation and its majority shareholder (>50% voting stock owner) or a partnership and partners owning >50% of profits/capital; a 'combination of persons' means two or more entities with an agreement or understanding to coordinate efforts for common political purposes.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.75,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Internal memorandum, not a formal advice letter response to a requester. Includes draft regulatory language (subsections A and B) defining key terms. No traditional QUESTION/CONCLUSION sections, but contains substantive policy proposal. Document appears to be a working draft soliciting internal feedback before May 12 regulation notice deadline."
+  },
+  "citations": {
+    "government_code": [
+      "82013"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:37:17.791334Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: How should the FPPC define 'person or combination of persons' under Government Code §82013 to establish clear per se rules rather than requiring fact-intensive analysis for each case?\n\nCONCLUSION: The FPPC proposes regulatory definitions establishing per se rules: a 'person' includes a corporation and its majority shareholder (>50% voting stock owner) or a partnership and partners owning >50% of profits/capital; a 'combination of persons' means two or more entities with an agreement or understanding to coordinate efforts for common political purposes.",
+    "qa_source": "synthetic",
+    "first_500_words": "State of California f,,'lemorandum To Dan, Bob S., Ken F., Natalie, Mike Dote May 5, 1976 From FAIR POLITICAL PRACTICES COMMISSION Subject: Ted Prim PROPOSED REGULATION CONCERNING THE MEANING OF \"PERSON OR COMBINATION OF PERSONS II WITHIN THE MEAi'1ING OF §82013. This proposed regulation was motivated by Opinion Response 75-205, LumsdoM, in which the Commis- sion was asked whether a person, 9f the corporation in which that person is the majority shareholder, and the business of which he is president are a person or combination of persons which constitute a committee within the meaning of §82013. I believe strongly that we should find a standard which does not require a fact intensive analysis to resolve each ques- tion in this area. We do not have the staff to make such investigations and, in addition, such an approach provides little in the way of predictability for the public. Accord- ingly, subsection (a) of the proposed regs suggest several per se rules which may resolve a number of problems in this area. However, this reg only represents a first shot so I am actively soliciting your suggestions on how to approach this problem. We are required to notice a reg by May 12 so please have your comments to me by Monday, May 10. Thank you. TP :pvp o M T lA 5, 1976 18213. Persons or Combination of Persons (82013) A. A person as used in Government Code §820l3 includes (1) A corporation and its majority shareholder. A majority shareholder is defined as any person or entity which owns more than a 50% interest in the voting stock of the corporation. (2) A partnership and any partner who owns more than a 50% interest in the profits or capital stock of the partnership exclusive of any interest held by a limited partner. B. A combination of persons as used in Government Code §820l3 is two or more persons or entities who enter into an agreement or ·iai·t::ial understanding, tacit or otherwise, that they will coordinate their efforts or work together to receive contributions or make expenditures for the common purpose of influencing or attempting to influence the action of the voters for or against the nomination or election of one or more c~~didates- or the qualification or passage of a measure.",
+    "summary": "Internal FPPC memorandum dated May 5, 1976, from Ted Prim proposing draft regulations to define 'person or combination of persons' under §82013, motivated by Opinion Response 75-205 (Lumsden), with suggested per se rules to avoid fact-intensive case-by-case analysis and requesting staff comments by May 10."
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "97-540",
+  "year": 1997,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/1997/97-540.pdf",
+  "pdf_sha256": "5daba8832b9c12f05c6cafe842c9ac3e9160093fec691e679a203f7a4af0ada2",
+  "local_pdf_path": "raw_pdfs/1997/97-540.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 1997 Advice Letter # 97-540",
+    "tags": [
+      "1997",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:45:05",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1997&tagCount=1&page=48"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:51.815808Z",
+    "page_count": 1,
+    "word_count": 195,
+    "char_count": 1288,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 195
+  },
+  "content": {
+    "full_text": "FAIR POLITICAL PRACTICES COMMISSION\nNovember 17, 1997\nRichard A. Ostrow\nDeputy City Attorney\nCity of San Diego\n1200 Third Avenue, Suite 700\nSan Diego, California 92101-4106\nRe: Your Request for Advice\nOur File No. A-97-540\nDear Mi. Ostrow:\nWe received your letter requesting formal written advice under the Political Reform Act.\nThis letter confirms our telephone conversation on November 13, 1997, wherein I informed you\nthat we are unable to provide advice relating to past conduct.\nThe Political Reform Act (the “Act”)\n1 requires the Commission to provide formal written\nadvice to any person whose duties under the Act are in question or to the person’s authorized\nrepresentative. (Section 83114(b).)\nIn addition, 2 Cal. Code Regulations Section 18239 (b)(8)(A) (copy enclosed) provides\nthat written advice will be declined where the “requestor is seeking advice relating to past\nconduct.” Consequently, we are unable to provide assistance with respect to the issues you raise\nin your letter.\nIf you have any further questions regarding this matter, please feel free to contact me at\n(916) 322-5660.\nSincerely,\nSteven G. Churchwell\nGeneral Counsel\nl/L1fUb/\nBy:\nJil\ntecher\nStaff Counsel, Legal Division\nSGC:JS:jlw\nEnclosure\nGovernment Code Sections 8100-91015.\n1:\\Advice Ltrs\\97540.wpd\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1997-11-17",
+    "date_raw": "November 17, 1997",
+    "requestor_name": null,
+    "requestor_title": "City Attorney",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "We are unable to provide assistance with respect to the issues you raise in your letter.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requestor sought formal written advice under the Political Reform Act regarding conduct-related matters, but the FPPC was unable to provide such advice based on regulatory restrictions.",
+    "conclusion_synthetic": "The FPPC declined to provide written advice because Cal. Code Regulations Section 18239(b)(8)(A) prohibits written advice relating to past conduct.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is a declination letter. No separate QUESTION or CONCLUSION sections with headers were present; the reasoning and response are embedded in the body text. The document explicitly references the regulatory basis for the declination."
+  },
+  "citations": {
+    "government_code": [
+      "83114(b)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "gifts_honoraria",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:34:51.815808Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The requestor sought formal written advice under the Political Reform Act regarding conduct-related matters, but the FPPC was unable to provide such advice based on regulatory restrictions.\n\nCONCLUSION: We are unable to provide assistance with respect to the issues you raise in your letter.",
+    "qa_source": "mixed",
+    "first_500_words": "FAIR POLITICAL PRACTICES COMMISSION November 17, 1997 Richard A. Ostrow Deputy City Attorney City of San Diego 1200 Third Avenue, Suite 700 San Diego, California 92101-4106 Re: Your Request for Advice Our File No. A-97-540 Dear Mi. Ostrow: We received your letter requesting formal written advice under the Political Reform Act. This letter confirms our telephone conversation on November 13, 1997, wherein I informed you that we are unable to provide advice relating to past conduct. The Political Reform Act (the “Act”) 1 requires the Commission to provide formal written advice to any person whose duties under the Act are in question or to the person’s authorized representative. (Section 83114(b).) In addition, 2 Cal. Code Regulations Section 18239 (b)(8)(A) (copy enclosed) provides that written advice will be declined where the “requestor is seeking advice relating to past conduct.” Consequently, we are unable to provide assistance with respect to the issues you raise in your letter. If you have any further questions regarding this matter, please feel free to contact me at (916) 322-5660. Sincerely, Steven G. Churchwell General Counsel l/L1fUb/ By: Jil techer Staff Counsel, Legal Division SGC:JS:jlw Enclosure Government Code Sections 8100-91015. 1:\\Advice Ltrs\\97540.wpd",
+    "summary": "The FPPC declined Deputy City Attorney Richard A. Ostrow's request for formal written advice under the Political Reform Act because the request concerned past conduct, which falls outside the Commission's authority to advise on."
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "90252",
+  "year": 1990,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1990/90252.pdf",
+  "pdf_sha256": "392fae2819febca0b3cb41c4279f2a2ac97e858239dae19bd703b6bc418dde97",
+  "local_pdf_path": "raw_pdfs/1990/90252.pdf",
+  "source_metadata": {
+    "title_raw": "Lowell, Fred Year: 1990 Advice Letter # 90252",
+    "tags": [
+      "1990",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:09:30",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1990&tagCount=1&page=49"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T14:06:24.109349Z",
+    "page_count": 1,
+    "word_count": 110,
+    "char_count": 670,
+    "quality_score": 0.8735713070022637,
+    "olmocr_cost": 0.00249142,
+    "native_word_count": 164
+  },
+  "content": {
+    "full_text": "March 28, 1990\n\nVIA FEDERAL EXPRESS\n\nMs. Carla Wardlow\nFair Political Practices Commission\n428 J Street, Suite 800\nSacramento, CA 95814\n\nDear Carla:\n\nI would appreciate it if you would confirm your telephone advice to me today that a corporation which uses its offices and telephones in connection with an independent expenditure campaign does not incur any reportable independent expenditures under 2 Cal. Code Regs. § 18225 unless (1) ongoing business overhead is increased by virtue of such use or (2) employee time reaches the 10% threshold set forth in 2 Cal. Code Regs. § 18423.\n\nThank you for your attention on this matter.\n\nVery truly yours,\n\nFrederick K. Lowell",
+    "full_text_markdown": "March 28, 1990\n\nVIA FEDERAL EXPRESS\n\nMs. Carla Wardlow\nFair Political Practices Commission\n428 J Street, Suite 800\nSacramento, CA 95814\n\nDear Carla:\n\nI would appreciate it if you would confirm your telephone advice to me today that a corporation which uses its offices and telephones in connection with an independent expenditure campaign does not incur any reportable independent expenditures under 2 Cal. Code Regs. § 18225 unless (1) ongoing business overhead is increased by virtue of such use or (2) employee time reaches the 10% threshold set forth in 2 Cal. Code Regs. § 18423.\n\nThank you for your attention on this matter.\n\nVery truly yours,\n\nFrederick K. Lowell"
+  },
+  "parsed": {
+    "date": "1990-03-28",
+    "date_raw": "March 28, 1990",
+    "requestor_name": "Lowell",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [
+      "18225",
+      "18423"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-20T14:06:24.109349Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "March 28, 1990 VIA FEDERAL EXPRESS Ms. Carla Wardlow Fair Political Practices Commission 428 J Street, Suite 800 Sacramento, CA 95814 Dear Carla: I would appreciate it if you would confirm your telephone advice to me today that a corporation which uses its offices and telephones in connection with an independent expenditure campaign does not incur any reportable independent expenditures under 2 Cal. Code Regs. § 18225 unless (1) ongoing business overhead is increased by virtue of such use or (2) employee time reaches the 10% threshold set forth in 2 Cal. Code Regs. § 18423. Thank you for your attention on this matter. Very truly yours, Frederick K. Lowell",
+    "qa_source": "extracted",
+    "first_500_words": "March 28, 1990 VIA FEDERAL EXPRESS Ms. Carla Wardlow Fair Political Practices Commission 428 J Street, Suite 800 Sacramento, CA 95814 Dear Carla: I would appreciate it if you would confirm your telephone advice to me today that a corporation which uses its offices and telephones in connection with an independent expenditure campaign does not incur any reportable independent expenditures under 2 Cal. Code Regs. § 18225 unless (1) ongoing business overhead is increased by virtue of such use or (2) employee time reaches the 10% threshold set forth in 2 Cal. Code Regs. § 18423. Thank you for your attention on this matter. Very truly yours, Frederick K. Lowell",
+    "summary": null
+  }
+}

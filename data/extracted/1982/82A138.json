@@ -1,0 +1,71 @@
+{
+  "id": "82A138",
+  "year": 1982,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1982/82A138.PDF",
+  "pdf_sha256": "d82890273efc1ec59cd2b78e5f00046022883510a486a556676add5bd3f859a5",
+  "local_pdf_path": "raw_pdfs/1982/82A138.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1982 Advice Letter # 82A138",
+    "tags": [
+      "1982",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:30:53",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1982&tagCount=1&page=18"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T00:40:11.938959Z",
+    "page_count": 1,
+    "word_count": 198,
+    "char_count": 1229,
+    "quality_score": 0.8694562204352481,
+    "olmocr_cost": 0.00261956,
+    "native_word_count": 205
+  },
+  "content": {
+    "full_text": "TO: [ ] JEANNE   [ ] JAY\n[✓] LYNN   [ ] BARBARA\n[ ] RICH   [✓] BOB S.\n[✓] HELEN   [ ] OTHER Janis\n\nFROM: Jeanne\nDATE: 4/7/82\n\n[✓] TELEPHONE ADVICE - SEE BELOW\n[ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT\n(IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY)\n\nFILE LOCATION: 82013(c); 84211; 18428\n\nINCLUDE IN ADVICE PACKAGE: YES [ ] NO [✓]\n\nCALLER: Janet Clinton\nREPRESENTING: Shappell Industries\nPHONE NUMBER: (213) 655-7330\n\nQUESTION: Are contributions made by a limited partnership required to be combined with contributions made by a member of the partnership and the parent corporation of which the member is a wholly owned subsidiary?\n\nANSWER: The partnership contributions over which the subsidiary has control or direction must be combined with the subsidiary's separate contributions and the parent corporation's contribution and reported on the same campaign statement. A notation may be made indicating that the subsidiary is responsible for only a portion of the contribution.\n\nThose contributions which are made by the partnership independent of any control by the subsidiary/member are not required to be combined with the parent's contributions, but would be reported only by the partnership if it had a filing",
+    "full_text_markdown": "TO: [ ] JEANNE   [ ] JAY\n[✓] LYNN   [ ] BARBARA\n[ ] RICH   [✓] BOB S.\n[✓] HELEN   [ ] OTHER Janis\n\nFROM: Jeanne\nDATE: 4/7/82\n\n[✓] TELEPHONE ADVICE - SEE BELOW\n[ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT\n(IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY)\n\nFILE LOCATION: 82013(c); 84211; 18428\n\nINCLUDE IN ADVICE PACKAGE: YES [ ] NO [✓]\n\nCALLER: Janet Clinton\nREPRESENTING: Shappell Industries\nPHONE NUMBER: (213) 655-7330\n\nQUESTION: Are contributions made by a limited partnership required to be combined with contributions made by a member of the partnership and the parent corporation of which the member is a wholly owned subsidiary?\n\nANSWER: The partnership contributions over which the subsidiary has control or direction must be combined with the subsidiary's separate contributions and the parent corporation's contribution and reported on the same campaign statement. A notation may be made indicating that the subsidiary is responsible for only a portion of the contribution.\n\nThose contributions which are made by the partnership independent of any control by the subsidiary/member are not required to be combined with the parent's contributions, but would be reported only by the partnership if it had a filing"
+  },
+  "parsed": {
+    "date": "1982-04-07",
+    "date_raw": "4/7/82",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Are contributions made by a limited partnership required to be combined with contributions made by a member of the partnership and the parent corporation of which the member is a wholly owned subsidiary?\n\nANSWER: The partnership contributions over which the subsidiary has control or direction must be combined with the subsidiary's separate contributions and the parent corporation's contribution and reported on the same campaign statement. A notation may be made indicating that the subsidiary is responsible for only a portion of the contribution.\n\nThose contributions which are made by the partnership independent of any control by the subsidiary/member are not required to be combined with the parent's contributions, but would be reported only by the partnership if it had a filing",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.44999999999999996,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-20T00:40:11.938959Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Are contributions made by a limited partnership required to be combined with contributions made by a member of the partnership and the parent corporation of which the member is a wholly owned subsidiary?\n\nANSWER: The partnership contributions over which the subsidiary has control or direction must be combined with the subsidiary's separate contributions and the parent corporation's contribution and reported on the same campaign statement. A notation may be made indicating that the subsidiary is responsible for only a portion of the contribution.\n\nThose contributions which are made by the partnership independent of any control by the subsidiary/member are not required to be combined with the parent's contributions, but would be reported only by the partnership if it had a filing",
+    "qa_source": "extracted",
+    "first_500_words": "TO: [ ] JEANNE [ ] JAY [✓] LYNN [ ] BARBARA [ ] RICH [✓] BOB S. [✓] HELEN [ ] OTHER Janis FROM: Jeanne DATE: 4/7/82 [✓] TELEPHONE ADVICE - SEE BELOW [ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT (IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY) FILE LOCATION: 82013(c); 84211; 18428 INCLUDE IN ADVICE PACKAGE: YES [ ] NO [✓] CALLER: Janet Clinton REPRESENTING: Shappell Industries PHONE NUMBER: (213) 655-7330 QUESTION: Are contributions made by a limited partnership required to be combined with contributions made by a member of the partnership and the parent corporation of which the member is a wholly owned subsidiary? ANSWER: The partnership contributions over which the subsidiary has control or direction must be combined with the subsidiary's separate contributions and the parent corporation's contribution and reported on the same campaign statement. A notation may be made indicating that the subsidiary is responsible for only a portion of the contribution. Those contributions which are made by the partnership independent of any control by the subsidiary/member are not required to be combined with the parent's contributions, but would be reported only by the partnership if it had a filing",
+    "summary": null
+  }
+}

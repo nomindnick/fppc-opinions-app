@@ -1,0 +1,77 @@
+{
+  "id": "92-189",
+  "year": 1992,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1992/92-189.pdf",
+  "pdf_sha256": "62ee8114f8baf99147597c34867cadde99cd4ad10d0b31bf8fdfcbb3298b9321",
+  "local_pdf_path": "raw_pdfs/1992/92-189.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 1992 Advice Letter # 92-189",
+    "tags": [
+      "Advice Letter",
+      "1992"
+    ],
+    "scraped_at": "2026-01-31 16:23:58",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1992&tagCount=1&page=16"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:12.868355Z",
+    "page_count": 2,
+    "word_count": 257,
+    "char_count": 1709,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 257
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\nApril 15,\n1992\nW.G.\nWilson\nAmericans for Honest Government\n2232 Hutchison\nVista,\nCA 92084\n-\nRe:\nYour Request for Informal\nAssistance\nOur File No.\nG-92-189\nDear Mr. Wilson:\nThis is in response to your letter regarding the campaign\ndisclosure provisions of the Political Reform Act\n(the “Act”) 1\nSection 82013(a)\ndefines a “committee” as any person or\ncombination or persons who directly or indirectly receives\ncontributions totaling $1,000 or more in a calendar year.\nSections 82015 and Regulation 18215\n(copy enclosed)\ndefine\n“contribution.”\nIf a citizens group receives or expends $1,000 or more for\npolitical purposes during a calendar year, it qualifies as a\ncommittee and must file a statement of organization\n(Form 410,\nenclosed)\nwith the Secretary of State,\nand file periodic reports\ndisclosing receipts and expenditures.\nThe Commission has\ndetermined that “political purposes” means supporting or opposing\nstate or local candidates,\nor ballot measures.\n(See Information\nManual\nC on Campaign Disclosure Provisions of the Political Reform\nAct for General Purpose Recipient Committees, enclosed.)\n1\nGovernment Code Sections 81000-91015.\nAll statutory\nreferences are to the Government Code unless otherwise indicated.\nCommission regulations appear at\n2 California Code of Regulations\nSection 18000,\net\nAll references to regulations are to Title\n2,\nDivision\n6 of the California Code of Regulations.\n42S j Street, Suite 800 • P.O. Box 807\ne Sacramento CA 9S04-0807 • (1ô) 2-66\n\n\nWilson,\nW.G.\npage\n2\nIf you have additional questions, please contact me at\n(916)\n322—5662.\nSincerely,\nScott Hallabr\nActing General\nBy?\nWa/ifie P.\nImberi\nPol’itical Reform Consultant\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1992-04-15",
+    "date_raw": "April 15,\n1992",
+    "requestor_name": "Wilson",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "When does a citizens group qualify as a 'committee' under the Political Reform Act and what disclosure requirements apply?",
+    "conclusion_synthetic": "A citizens group that receives or expends $1,000 or more for political purposes (supporting or opposing candidates or ballot measures) in a calendar year qualifies as a committee and must file a statement of organization (Form 410) and periodic disclosure reports with the Secretary of State.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: No formal QUESTION or CONCLUSION sections found; content extracted from body of advice letter. Document provides statutory citations and references to regulations and forms. Minor OCR artifacts present but do not affect comprehension."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "82013(a)",
+      "82015"
+    ],
+    "regulations": [
+      "18215"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.6666666666666666,
+    "classified_at": "2026-02-06T18:35:12.868355Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: When does a citizens group qualify as a 'committee' under the Political Reform Act and what disclosure requirements apply?\n\nCONCLUSION: A citizens group that receives or expends $1,000 or more for political purposes (supporting or opposing candidates or ballot measures) in a calendar year qualifies as a committee and must file a statement of organization (Form 410) and periodic disclosure reports with the Secretary of State.",
+    "qa_source": "synthetic",
+    "first_500_words": "California Fair Political Practices Commission April 15, 1992 W.G. Wilson Americans for Honest Government 2232 Hutchison Vista, CA 92084 - Re: Your Request for Informal Assistance Our File No. G-92-189 Dear Mr. Wilson: This is in response to your letter regarding the campaign disclosure provisions of the Political Reform Act (the “Act”) 1 Section 82013(a) defines a “committee” as any person or combination or persons who directly or indirectly receives contributions totaling $1,000 or more in a calendar year. Sections 82015 and Regulation 18215 (copy enclosed) define “contribution.” If a citizens group receives or expends $1,000 or more for political purposes during a calendar year, it qualifies as a committee and must file a statement of organization (Form 410, enclosed) with the Secretary of State, and file periodic reports disclosing receipts and expenditures. The Commission has determined that “political purposes” means supporting or opposing state or local candidates, or ballot measures. (See Information Manual C on Campaign Disclosure Provisions of the Political Reform Act for General Purpose Recipient Committees, enclosed.) 1 Government Code Sections 81000-91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations Section 18000, et All references to regulations are to Title 2, Division 6 of the California Code of Regulations. 42S j Street, Suite 800 • P.O. Box 807 e Sacramento CA 9S04-0807 • (1ô) 2-66 Wilson, W.G. page 2 If you have additional questions, please contact me at (916) 322—5662. Sincerely, Scott Hallabr Acting General By? Wa/ifie P. Imberi Pol’itical Reform Consultant",
+    "summary": "FPPC response letter advising W.G. Wilson of Americans for Honest Government on the definition of a 'committee' under the Political Reform Act and the disclosure requirements triggered when a group receives or expends $1,000 or more for political purposes."
+  }
+}

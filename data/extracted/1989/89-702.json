@@ -1,0 +1,78 @@
+{
+  "id": "89-702",
+  "year": 1989,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1989/fppc-advice/89-702.PDF",
+  "pdf_sha256": "0328527fcd54407b9230de5c3cf68c1c052a699a54c5841bd5dd26ec15431993",
+  "local_pdf_path": "raw_pdfs/1989/89-702.PDF",
+  "source_metadata": {
+    "title_raw": "Lowell, Frederick Year: 1989 Advice Letter # 89-702",
+    "tags": [
+      "Advice Letter",
+      "1989"
+    ],
+    "scraped_at": "2026-01-31 16:03:04",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1989&tagCount=1&page=29"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:53.660553Z",
+    "page_count": 3,
+    "word_count": 270,
+    "char_count": 1752,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 270
+  },
+  "content": {
+    "full_text": "son \nSutro \n9 \n02 \n11: \nJanuary 26, 1990 \nRe: \nYour \nOur \nof telephone \ndisclosure \ns \n1989, correctly summarizes \nwould not be \nwhen \ndescr \nassesses the \nbased on a standard \nf \ndes \n\n\nFrederick K. Lowell \nPage Two \npolitical benefit or if reasonable steps were not taken to collect \na debt, the amount reduced would be considered a campaign \ncontribution. \n(Summers Advice Letter (No. A-77-014); \nAdvice \n(No. A-86-344), \nenclosed.) \nIf \n(9 \n) \ns \nabout th \nE. Donovan \nCounsel \n, please cal \nme \nJeanne \nDivision Chief \nAssistance and \nDivis \n\n\nLAW OFFICES OF \nPILLSBURY, MADISON & SUTRO \nOTHER OFFICES \nPOST OFFICE BOX 7880 \nLOS ANGELES, CALIFORNIA \nSAN DIEGO, CALIFORNIA \nSAN JOSE, CALIFORNIA \nWALNUT CREEK, CALIFORNIA \nWASHINGTON, D.C. \nSAN FRANCISCO, CALIFORNIA 94120 \nWRITER'S OFFICE AND \nDIRECT DIAL NUMBER \n235 Montgomery Street \n(415) 983-1585 \nHAND DELIVERED \nMs. Jeanne Pritchard \nTELEPHONE (4IS) 983-1000 \nCABLE ADDRESS \"EVANS\" \nTELEX 34743 \nTELECOPIER (4IS) 398-2096 \nDecember 20, 1989 \nFair Political Practices Commission \n428 J Street, Suite 800 \nSacramento, CA 95814 \nDear Jeanne: \nI would appreciate it if you would confirm your \noral advice to me on December 15 that a law firm or other \nservice provider which renders services to a candidate or \ncommittee may settle with its client for less than the total \namount of the billed fees for services, providing such \nsettlement is in the ordinary course of business, without \nbeing deemed to have made a political contribution or \nexpenditure. \nFactors entering into such settlement would \ninclude an assessment of the client's ability to pay and the \ndesire of the law firm to avoid delays in payment. \nThank you for your attention on this matter. \n~A:-_4w~rk \nFrederick K. Lowell \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1990-01-26",
+    "date_raw": "January 26, 1990",
+    "requestor_name": "Lowell",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "whether a law firm or other service provider which renders services to a candidate or committee may settle with its client for less than the total amount of the billed fees for services, providing such settlement is in the ordinary course of business, without being deemed to have made a political contribution or expenditure",
+    "conclusion": "If a law firm or other service provider settles fees for less than the full amount billed, the settlement would not be considered a campaign contribution when such settlement is in the ordinary course of business and based on reasonable factors such as the client's ability to pay and the desire to avoid payment delays. However, if the settlement is made to provide political benefit or if reasonable steps were not taken to collect the debt, the amount reduced would be considered a campaign contribution.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "May a law firm or service provider settle unpaid fees for less than the full amount owed to a candidate or committee without this reduction being treated as a campaign contribution?",
+    "conclusion_synthetic": "Fee settlements below billed amounts are generally not campaign contributions if made in the ordinary course of business based on standard collection practices, but become contributions if motivated by political benefit or inadequate collection efforts.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.75,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is fragmented with OCR/scanning issues affecting readability. Incoming request letter from Frederick K. Lowell dated December 20, 1989 is included with FPPC response dated January 26, 1990. Question and conclusion sections were reconstructed from available text despite formatting problems. Some technical details and citations may be incomplete due to document quality."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [
+      "A-77-014",
+      "A-86-344"
+    ],
+    "cited_by": [
+      "92-103",
+      "93-364",
+      "99-005"
+    ],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:35:53.660553Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: whether a law firm or other service provider which renders services to a candidate or committee may settle with its client for less than the total amount of the billed fees for services, providing such settlement is in the ordinary course of business, without being deemed to have made a political contribution or expenditure\n\nCONCLUSION: If a law firm or other service provider settles fees for less than the full amount billed, the settlement would not be considered a campaign contribution when such settlement is in the ordinary course of business and based on reasonable factors such as the client's ability to pay and the desire to avoid payment delays. However, if the settlement is made to provide political benefit or if reasonable steps were not taken to collect the debt, the amount reduced would be considered a campaign contribution.",
+    "qa_source": "mixed",
+    "first_500_words": "son Sutro 9 02 11: January 26, 1990 Re: Your Our of telephone disclosure s 1989, correctly summarizes would not be when descr assesses the based on a standard f des Frederick K. Lowell Page Two political benefit or if reasonable steps were not taken to collect a debt, the amount reduced would be considered a campaign contribution. (Summers Advice Letter (No. A-77-014); Advice (No. A-86-344), enclosed.) If (9 ) s about th E. Donovan Counsel , please cal me Jeanne Division Chief Assistance and Divis LAW OFFICES OF PILLSBURY, MADISON & SUTRO OTHER OFFICES POST OFFICE BOX 7880 LOS ANGELES, CALIFORNIA SAN DIEGO, CALIFORNIA SAN JOSE, CALIFORNIA WALNUT CREEK, CALIFORNIA WASHINGTON, D.C. SAN FRANCISCO, CALIFORNIA 94120 WRITER'S OFFICE AND DIRECT DIAL NUMBER 235 Montgomery Street (415) 983-1585 HAND DELIVERED Ms. Jeanne Pritchard TELEPHONE (4IS) 983-1000 CABLE ADDRESS \"EVANS\" TELEX 34743 TELECOPIER (4IS) 398-2096 December 20, 1989 Fair Political Practices Commission 428 J Street, Suite 800 Sacramento, CA 95814 Dear Jeanne: I would appreciate it if you would confirm your oral advice to me on December 15 that a law firm or other service provider which renders services to a candidate or committee may settle with its client for less than the total amount of the billed fees for services, providing such settlement is in the ordinary course of business, without being deemed to have made a political contribution or expenditure. Factors entering into such settlement would include an assessment of the client's ability to pay and the desire of the law firm to avoid delays in payment. Thank you for your attention on this matter. ~A:-_4w~rk Frederick K. Lowell",
+    "summary": "FPPC advice letter confirming oral advice regarding whether law firm fee settlements with candidates or committees for less than billed amounts constitute campaign contributions. The FPPC concluded such settlements are not contributions when made in the ordinary course of business with proper assessment factors, but are contributions if motivated by political considerations."
+  }
+}

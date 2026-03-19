@@ -1,0 +1,76 @@
+{
+  "id": "76059",
+  "year": 1976,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1976/76059.PDF",
+  "pdf_sha256": "1ae4b95d42707af04486add3a6f16d52e29e50c3cdcf178ddf194f597ccc0126",
+  "local_pdf_path": "raw_pdfs/1976/76059.PDF",
+  "source_metadata": {
+    "title_raw": "GEE, MARGIE Year: 1976 Advice Letter # 76059",
+    "tags": [
+      "1976",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:18:16",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1976&tagCount=1&page=50"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T03:54:47.932896Z",
+    "page_count": 2,
+    "word_count": 343,
+    "char_count": 2149,
+    "quality_score": 0.9072853777225176,
+    "olmocr_cost": 0.00508518,
+    "native_word_count": 65,
+    "haiku_cost": 0.004968
+  },
+  "content": {
+    "full_text": "State of California\n\nFair Political Practices Commission,\n\nP.O. BOX 607 • SACRAMENTO, 95804 • 1100 K STREET BUILDING, SACRAMENTO, 95814\n107 SOUTH BROADWAY • • • SUITE 2140A • • • LOS ANGELES, 90012\n\n\nNovember 5, 1976\n\nAPC-11-059\n\nMs. Margie Gee\n1511 North Maple Street\nBurbank, California 91505\n\n\nDear Ms. Gee:\n\nThis letter confirms our telephone conversation\nof November 4, 1976. In that conversation you described\nthe activities of the Burbank Anti-Noise Group (BANG)\nand asked for advice regarding whether or not BANG had\nany reporting requirements pursuant to the Political\nReform Act of 1974.\n\nYou indicated that BANG was created in 1969 and\nthat it was not formed primarily for political purposes.\nFurther, you indicated that BANG receives funds from a\nvariety of sources and these funds are not earmarked\nfor the making of campaign contributions or expendi-\ntures. You indicated that BANG spent $141.68 in an\nattempt to influence voters with respect to Proposition\n'L' which was on the November 2, 1976 ballot in the\ncity of Burbank. Finally, you indicated that the $141.68\nspent in connection with Proposition 'L' was the total\namount of funds spent during calendar year 1976 in an\neffort to influence voters.\n\nBased on the information you provided during our\nconversation, BANG is not required to file campaign\ndisclosure reports. The Political Reform Act requires\ncampaign disclosure reports to be filed by committees\nwhich receive or spend $500 or more for the purpose\nof influencing or attempting to influence the action\nof voters (California Government Code Section 82013).\nSince the facts you related to me make it clear that\nBANG does not meet the definition of a \"committee\"\nwhich incurs reporting obligations, no reports are\nrequired.\n\n\nSACRAMENTO (916) 322-5660 • LOS ANGELES (213) 620-2305\n\nMargie Gee\nNovember 5, 1976\nPage 2\n\n\nI have enclosed copies of 2 Cal. Admin. Code\nSection 18215 and 18225 which provide clarifications\nof reporting obligations. Please contact me if you\nhave additional questions or if I may be of further\nassistance.\n\nSincerely,\n\n[illegible]\n\nJohn C. Greenwood\nProgram Coordinator\n\n\nJCG/lkh\n\nEnclosures (2)",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1976-11-05",
+    "date_raw": "November 5, 1976",
+    "requestor_name": "Gee",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "You indicated that BANG was created in 1969 and that it was not formed primarily for political purposes. Further, you indicated that BANG receives funds from a variety of sources and these funds are not earmarked for the making of campaign contributions or expenditures. You indicated that BANG spent $141.68 in an attempt to influence voters with respect to Proposition 'L' which was on the November 2, 1976 ballot in the city of Burbank. Finally, you indicated that the $141.68 spent in connection with Proposition 'L' was the total amount of funds spent during calendar year 1976 in an effort to influence voters.",
+    "conclusion": "Based on the information you provided during our conversation, BANG is not required to file campaign disclosure reports. The Political Reform Act requires campaign disclosure reports to be filed by committees which receive or spend $500 or more for the purpose of influencing or attempting to influence the action of voters (California Government Code Section 82013). Since the facts you related to me make it clear that BANG does not meet the definition of a \"committee\" which incurs reporting obligations, no reports are required.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Does the Burbank Anti-Noise Group (BANG) have campaign disclosure reporting requirements under the Political Reform Act of 1974, given that it spent $141.68 to influence voters on Proposition L in 1976 and is not primarily formed for political purposes?",
+    "conclusion_synthetic": "BANG is not required to file campaign disclosure reports because it spent only $141.68, falling below the $500 threshold required by Government Code Section 82013 for committees to have reporting obligations.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document contains clear question and conclusion sections. Telephone conversation referenced; letter confirms and provides written advice. Enclosures referenced (2 Cal. Admin. Code sections) but not included in provided text."
+  },
+  "citations": {
+    "government_code": [
+      "82013"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [
+      "76184"
+    ],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T17:18:36.189369Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: You indicated that BANG was created in 1969 and that it was not formed primarily for political purposes. Further, you indicated that BANG receives funds from a variety of sources and these funds are not earmarked for the making of campaign contributions or expenditures. You indicated that BANG spent $141.68 in an attempt to influence voters with respect to Proposition 'L' which was on the November 2, 1976 ballot in the city of Burbank. Finally, you indicated that the $141.68 spent in connection with Proposition 'L' was the total amount of funds spent during calendar year 1976 in an effort to influence voters.\n\nCONCLUSION: Based on the information you provided during our conversation, BANG is not required to file campaign disclosure reports. The Political Reform Act requires campaign disclosure reports to be filed by committees which receive or spend $500 or more for the purpose of influencing or attempting to influence the action of voters (California Government Code Section 82013). Since the facts you related to me make it clear that BANG does not meet the definition of a \"committee\" which incurs reporting obligations, no reports are required.",
+    "qa_source": "mixed",
+    "first_500_words": "November 5, 1976 Ms. Margie Gee 1511 North Maple Street Burbank, California 91505 Dear Ms. Gee: This letter confirms our telephone conversation of November 4, 1976. In that conversation you described the activities of the Burbank Anti-Noise Group (BANG) and asked for advice regarding whether or not BANG had any reporting requirements pursuant to the Political Reform Act of 1974. You indicated that BANG was created in 1969 and that it was not formed primarily for political purposes. Further, you indicated that BANG receives funds from a variety of sources and these funds are not earmarked for the making of campaign contributions or expenditures. You indicated that BANG spent $141.68 in an attempt to influence voters with respect to Proposition 'L' which was on the November 2, 1976 ballot in the city of Burbank. Finally, you indicated that the $141.68 spent in connection with Proposition 'L' was the total amount of funds spent during calendar year 1976 in an effort to influence voters. Based on the information you provided during our conversation, BANG is not required to file campaign disclosure reports. The Political Reform Act requires campaign disclosure reports to be filed by committees which receive or spend $500 or more for the purpose of influencing or attempting to influence the action of voters (California Government Code Section 82013). Since the facts you related to me make it clear that BANG does not meet the definition of a \"committee\" which incurs reporting obligations, no reports are required. Margie Gee November 5, 1976 Page 2 I have enclosed copies of 2 Cal. Admin. Code Section 18215 and 18225 which provide clarifications of reporting obligations. Please contact me if you have additional questions or if I may be of further assistance. Sincerely, John C. Greenwood Program Coordinator JCG/Ikh Enclosures (2)",
+    "summary": "FPPC advises Margie Gee that the Burbank Anti-Noise Group does not have campaign disclosure reporting requirements under the Political Reform Act because its spending of $141.68 to influence voters on Proposition L falls below the $500 threshold."
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "02-301",
+  "year": 2002,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2002/02-301.pdf",
+  "pdf_sha256": "fd501b9af9891bb00ba947b5568d7646e55f89e2fc6c211f14cf987f24bf2bb2",
+  "local_pdf_path": "raw_pdfs/2002/02-301.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2002 Advice Letter # 02-301",
+    "tags": [
+      "Advice Letter",
+      "2002"
+    ],
+    "scraped_at": "2026-01-31 14:37:06",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2002&tagCount=1&page=28"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:28.429058Z",
+    "page_count": 1,
+    "word_count": 172,
+    "char_count": 1058,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 172
+  },
+  "content": {
+    "full_text": "Re\nFarn PoLrrrcAL PnacrrcEs CouvrrssroN\n428 J Street. Suite 620. Sacramento, CA 95814-2329\n(916) 322-5660. Fax (916) 322-0886\nDecember 12,2002\nPeter A. Bagatelos\nBagatelos Law Firm\n380 West Portal Avenue, Suite F\nSan Francisco, CA 94127\nYour Request for Advice\nOur FiIe No. W-02-301\nDear Mr. Bagatelos:\nThis letter is to inform you that we have withdrawn your request for advice\nconceming provisions of the Political Reform Act governing slate mailers. Because your\nquestion does not refer to an identifiable client faced by a specific problem, we cannot\nprovide you with the advice you requested. (Regulation 18329(bXD)(8).)\nIf you have a client whose actual circumstances pose one of the questions you\nasked us to consider, we will be happy to respond once we are given the necessary facts\nBear in mind that due to staff shortages and the state hiring fueeze, the time period for a\nresponse may vary, but we will respond as soon as possible.\nSincerely,\nLuisa Menchaca\nGeneral Counsel\nBy: Lawrence T. Woodlock\nSenior Counsel, Legal Division\nEnclosure\nLTwjg\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2002-12-12",
+    "date_raw": "December 12,2002",
+    "requestor_name": "Bagatelos",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "does not refer to an identifiable client faced by a specific problem, we cannot\nprovide you with the advice you requested. (Regulation 18329(bXD)(8).)\nIf you have a client whose actual circumstances pose one of the questions you\nasked us to consider, we will be happy to respond once we are given the necessary facts\nBear in mind that due to staff shortages and the state hiring fueeze, the time period for a\nresponse may vary, but we will respond as soon as possible.",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.6,
+    "has_standard_format": true,
+    "parsing_notes": "Format: ocr"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:34:28.429058Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: does not refer to an identifiable client faced by a specific problem, we cannot\nprovide you with the advice you requested. (Regulation 18329(bXD)(8).)\nIf you have a client whose actual circumstances pose one of the questions you\nasked us to consider, we will be happy to respond once we are given the necessary facts\nBear in mind that due to staff shortages and the state hiring fueeze, the time period for a\nresponse may vary, but we will respond as soon as possible.",
+    "qa_source": "extracted",
+    "first_500_words": "Re Farn PoLrrrcAL PnacrrcEs CouvrrssroN 428 J Street. Suite 620. Sacramento, CA 95814-2329 (916) 322-5660. Fax (916) 322-0886 December 12,2002 Peter A. Bagatelos Bagatelos Law Firm 380 West Portal Avenue, Suite F San Francisco, CA 94127 Your Request for Advice Our FiIe No. W-02-301 Dear Mr. Bagatelos: This letter is to inform you that we have withdrawn your request for advice conceming provisions of the Political Reform Act governing slate mailers. Because your question does not refer to an identifiable client faced by a specific problem, we cannot provide you with the advice you requested. (Regulation 18329(bXD)(8).) If you have a client whose actual circumstances pose one of the questions you asked us to consider, we will be happy to respond once we are given the necessary facts Bear in mind that due to staff shortages and the state hiring fueeze, the time period for a response may vary, but we will respond as soon as possible. Sincerely, Luisa Menchaca General Counsel By: Lawrence T. Woodlock Senior Counsel, Legal Division Enclosure LTwjg",
+    "summary": null
+  }
+}

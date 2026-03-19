@@ -1,0 +1,71 @@
+{
+  "id": "77ADV-77-447",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-447.PDF",
+  "pdf_sha256": "ae9da901af467f1a592b0464d5a1a527af362a5a86674a648da6637df11a4e1b",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-447.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-447",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:19:31",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=8"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:12.266891Z",
+    "page_count": 1,
+    "word_count": 139,
+    "char_count": 855,
+    "quality_score": 0.5125,
+    "olmocr_cost": null,
+    "native_word_count": 139
+  },
+  "content": {
+    "full_text": "/\ni , ,\nOctober 21, 1977\nRobert E. snaw\n‘\n:'\nMobil oil corporation\nw\n925 \"L\" Street, suite 350\nSacramento' California\n95814\nDeal: 21:. Shaw:\nThis letter is in response to our telephone conversntion an\nOctober 3, 1977 regarding retention :3! records by n lobbyist.\nLobbyists are required tc support their expenditure journal\nwith original source documents, such as receipts, invoices and\npaid checks\n(2 cal. Adm. cede Section lsﬁlsia) (1) (B) (2)).\nThe\nretention by a lobbyist of a complete photocopy at all sriqinal\nsource documents will meet the requirements of this regulation\nand will be acceptable as documentation for audit purposes 3510‘\nvided that the original documents are maintained and can be made\navailable upon request.\nIf I can be of further assistance, do not hesitate to\ncontact me.\nsincerely,\nAlan Herndon\ncompliance Representative\nAﬂzhw\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1977-10-21",
+    "date_raw": "October 21, 1977",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "Lobbyists are required to support their expenditure journal with original source documents, such as receipts, invoices and paid checks (2 Cal. Adm. Code Section 18501.5(a)(1)(B)(2)). The retention by a lobbyist of a complete photocopy of all original source documents will meet the requirements of this regulation and will be acceptable as documentation for audit purposes provided that the original documents are maintained and can be made available upon request.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether lobbyists may retain photocopies of original source documents (receipts, invoices, paid checks) to support their expenditure journals, or if original documents must be retained.",
+    "conclusion_synthetic": "FPPC concludes that lobbyists may retain photocopies of original source documents to satisfy record-keeping requirements, provided that the original documents are also maintained and made available upon request for audit purposes.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Informal letter responding to telephone conversation; no formal QUESTION/CONCLUSION sections marked, but clear question and answer structure present. Minor OCR quality issues (e.g., 'conversntion' for 'conversation', 'snaw' for 'Shaw') but content is clear. Regulation citation provided."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:12.266891Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether lobbyists may retain photocopies of original source documents (receipts, invoices, paid checks) to support their expenditure journals, or if original documents must be retained.\n\nCONCLUSION: Lobbyists are required to support their expenditure journal with original source documents, such as receipts, invoices and paid checks (2 Cal. Adm. Code Section 18501.5(a)(1)(B)(2)). The retention by a lobbyist of a complete photocopy of all original source documents will meet the requirements of this regulation and will be acceptable as documentation for audit purposes provided that the original documents are maintained and can be made available upon request.",
+    "qa_source": "mixed",
+    "first_500_words": "/ i , , October 21, 1977 Robert E. snaw ‘ :' Mobil oil corporation w 925 \"L\" Street, suite 350 Sacramento' California 95814 Deal: 21:. Shaw: This letter is in response to our telephone conversntion an October 3, 1977 regarding retention :3! records by n lobbyist. Lobbyists are required tc support their expenditure journal with original source documents, such as receipts, invoices and paid checks (2 cal. Adm. cede Section lsﬁlsia) (1) (B) (2)). The retention by a lobbyist of a complete photocopy at all sriqinal source documents will meet the requirements of this regulation and will be acceptable as documentation for audit purposes 3510‘ vided that the original documents are maintained and can be made available upon request. If I can be of further assistance, do not hesitate to contact me. sincerely, Alan Herndon compliance Representative Aﬂzhw",
+    "summary": "FPPC advises that lobbyists may retain complete photocopies of original source documents (receipts, invoices, checks) supporting their expenditure journals as documentation for audit purposes, as long as the original documents are also preserved and available upon request."
+  }
+}

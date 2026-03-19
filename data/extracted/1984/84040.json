@@ -1,0 +1,79 @@
+{
+  "id": "84040",
+  "year": 1984,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1984/fppc-advice/84040.PDF",
+  "pdf_sha256": "c208b0ba493b4c41a3a2f0616c095a54b2a9224d280d1dacb29c5c745ff299b7",
+  "local_pdf_path": "raw_pdfs/1984/84040.PDF",
+  "source_metadata": {
+    "title_raw": "GROSS, JAMES Year: 1984 Advice Letter # 84040",
+    "tags": [
+      "1984",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:35:15",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1984&tagCount=1&page=25"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:48.952738Z",
+    "page_count": 2,
+    "word_count": 431,
+    "char_count": 2637,
+    "quality_score": 0.7150000000000001,
+    "olmocr_cost": null,
+    "native_word_count": 431
+  },
+  "content": {
+    "full_text": "Commissiort \nP.O. BOX 807 • SACRAMENTO, 95804 ••• 1100 K STREET BUILDING, SACRAMENTO, 95814 \nTechnical Assistance \n(916) 322·5662 \nAdministration \n322·5660 \nEXKutive/L\"9al \n322·5901 \nMarch 2, 1984 \nJames Gross \nNielsen, Hodgson, Parrinello \n& Mueller \n1225 Eighth Street, Suite 550 \nSacramento, CA \n95814 \nEnforcement \n322-6-4.-41 \nStatements of Economic Interest \n322-6444 \nRe: \nAdvice Letter No. A-84-040 \nDear Jim, \nThis letter is to confirm my oral advice to you on \nFebruary 29, 1984, regarding Government Code Section \n87103 (c) .1/ \nFACTS \nA public official made a loan of $250 or more to an \nindividual who promised, but failed, to repay the loan. \nThirteen months after the original promise, the official is \nconfronted with a decision which will foreseeably have a \nmaterial financial effect on the borrower. \nQUESTION PRESENTED \nIs the official required to disqualify himself on the \ndecision? \nDISCUSSION \nSection 87100 prohibits a public official from making, or \nparticipating in the making of, a governmental decision in which \nhe knows or has reason to know he has a financial interest. \nAn \nofficial has a \"financial interest\" in a decision within the \n1/ Hereinafter all statutory references are to the \nGovernment Code. \n\n\nJames Gross \nMa r ch 2, 198 4 \nPage 2 \nmeaning of Section 87100 if it is reasonably foreseeable that \nthe decision will have a material financial effect on: \n* * * \n(c) \nAny source of income • . • aggregating two \nhundred fifty dollars ($250) or more in value provided \nto, received by or promised to the public official \nwithin 12 months prior to the time when the decision is \nmade. \n(Section 87l03(c).) \nIn the situation you presented, the official must disqualify \nhimself from a decision which will foreseeably have a material \naffect on the borrower because $250 or more of the debt was owed \nduring the 12 months prior to the decision. \nAlthough the \noriginal promise to repay the loan occurred 13 months before the \ndecision, the promise to repay the loan continues as long as a \nsufficient amount of the loan remains outstanding. 2/ \nDisqualification is also \"required if, during the 12 months \nprior to the decision, the official received payments on the \nloan amounting to $250 or more. \nIf I can be of any additional help to you, please feel free \nto contact me at (9l6) 322-5901. \nVery truly yours, \n~~ \nJanis Shank McLean \nCounsel \nLegal Division \nJSM:plh \n2/ However, if the official writes the obligation off as \na bad debt for tax purposes, or if he forgives the debt, the \npromise to pay will end and, after 12 months pass, the borrower \nwill no longer be a source of income. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1984-03-02",
+    "date_raw": "March 2, 1984",
+    "requestor_name": "GROSS",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Is the official required to disqualify himself on the \ndecision?",
+    "conclusion": "In the situation you presented, the official must disqualify himself from a decision which will foreseeably have a material affect on the borrower because $250 or more of the debt was owed during the 12 months prior to the decision. Although the original promise to repay the loan occurred 13 months before the decision, the promise to repay the loan continues as long as a sufficient amount of the loan remains outstanding. Disqualification is also required if, during the 12 months prior to the decision, the official received payments on the loan amounting to $250 or more.",
+    "facts": "A public official made a loan of $250 or more to an \nindividual who promised, but failed, to repay the loan. \nThirteen months after the original promise, the official is \nconfronted with a decision which will foreseeably have a \nmaterial financial effect on the borrower.",
+    "analysis": "Section 87100 prohibits a public official from making, or \nparticipating in the making of, a governmental decision in which \nhe knows or has reason to know he has a financial interest. \nAn \nofficial has a \"financial interest\" in a decision within the \n1/ Hereinafter all statutory references are to the \nGovernment Code. \n\n\nJames Gross \nMa r ch 2, 198 4  \nmeaning of Section 87100 if it is reasonably foreseeable that \nthe decision will have a material financial effect on:",
+    "question_synthetic": "Whether a public official must disqualify themselves from a decision that will materially affect a borrower when a $250+ loan was made 13 months prior and remains outstanding.",
+    "conclusion_synthetic": "Yes, the official must disqualify themselves because the outstanding debt of $250+ constitutes a financial interest under Government Code Section 87103(c), as the obligation to repay continues during the relevant 12-month period prior to the decision.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": true,
+    "parsing_notes": "Mixed formats: modern, old; LLM: Clear advice letter format with standard Q/C structure. Document contains footnote clarifying that write-off or forgiveness of debt would terminate the financial interest after 12 months pass. Minor OCR artifact in phone number ('322-6-4.-41') does not affect substantive content extraction."
+  },
+  "citations": {
+    "government_code": [
+      "87100",
+      "87103(c)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [
+      "88204",
+      "90-384",
+      "92-664",
+      "93-374"
+    ],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:36:48.952738Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Is the official required to disqualify himself on the \ndecision?\n\nCONCLUSION: In the situation you presented, the official must disqualify himself from a decision which will foreseeably have a material affect on the borrower because $250 or more of the debt was owed during the 12 months prior to the decision. Although the original promise to repay the loan occurred 13 months before the decision, the promise to repay the loan continues as long as a sufficient amount of the loan remains outstanding. Disqualification is also required if, during the 12 months prior to the decision, the official received payments on the loan amounting to $250 or more.",
+    "qa_source": "mixed",
+    "first_500_words": "Commissiort P.O. BOX 807 • SACRAMENTO, 95804 ••• 1100 K STREET BUILDING, SACRAMENTO, 95814 Technical Assistance (916) 322·5662 Administration 322·5660 EXKutive/L\"9al 322·5901 March 2, 1984 James Gross Nielsen, Hodgson, Parrinello & Mueller 1225 Eighth Street, Suite 550 Sacramento, CA 95814 Enforcement 322-6-4.-41 Statements of Economic Interest 322-6444 Re: Advice Letter No. A-84-040 Dear Jim, This letter is to confirm my oral advice to you on February 29, 1984, regarding Government Code Section 87103 (c) .1/ FACTS A public official made a loan of $250 or more to an individual who promised, but failed, to repay the loan. Thirteen months after the original promise, the official is confronted with a decision which will foreseeably have a material financial effect on the borrower. QUESTION PRESENTED Is the official required to disqualify himself on the decision? DISCUSSION Section 87100 prohibits a public official from making, or participating in the making of, a governmental decision in which he knows or has reason to know he has a financial interest. An official has a \"financial interest\" in a decision within the 1/ Hereinafter all statutory references are to the Government Code. James Gross Ma r ch 2, 198 4 Page 2 meaning of Section 87100 if it is reasonably foreseeable that the decision will have a material financial effect on: * * * (c) Any source of income • . • aggregating two hundred fifty dollars ($250) or more in value provided to, received by or promised to the public official within 12 months prior to the time when the decision is made. (Section 87l03(c).) In the situation you presented, the official must disqualify himself from a decision which will foreseeably have a material affect on the borrower because $250 or more of the debt was owed during the 12 months prior to the decision. Although the original promise to repay the loan occurred 13 months before the decision, the promise to repay the loan continues as long as a sufficient amount of the loan remains outstanding. 2/ Disqualification is also \"required if, during the 12 months prior to the decision, the official received payments on the loan amounting to $250 or more. If I can be of any additional help to you, please feel free to contact me at (9l6) 322-5901. Very truly yours, ~~ Janis Shank McLean Counsel Legal Division JSM:plh 2/ However, if the official writes the obligation off as a bad debt for tax purposes, or if he forgives the debt, the promise to pay will end and, after 12 months pass, the borrower will no longer be a source of income.",
+    "summary": "FPPC advice letter confirming oral guidance that a public official must disqualify themselves from decisions affecting a borrower when an outstanding loan of $250+ was promised within 12 months prior to the decision, as this constitutes a financial interest under Government Code Section 87103(c)."
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "79-188",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-188.PDF",
+  "pdf_sha256": "78061858944a418cb36db7aba7d374dbdcb27895ffb178d2d70dda6ef8992073",
+  "local_pdf_path": "raw_pdfs/1979/79-188.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1979 Advice Letter # 79-188",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:26:44",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=19"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T22:18:34.000937Z",
+    "page_count": 1,
+    "word_count": 36,
+    "char_count": 231,
+    "quality_score": 0.6668750000000001,
+    "olmocr_cost": 0.00239338,
+    "native_word_count": 36
+  },
+  "content": {
+    "full_text": "Persons Appointed to Elective Office\n\nPersons appointed to elective office pursuant to the elections or education codes are deemed elected officials for the purpose of filing statements pursuant to 87202 and Article 3 of Chapter 7.",
+    "full_text_markdown": "Persons Appointed to Elective Office\n\nPersons appointed to elective office pursuant to the elections or education codes are deemed elected officials for the purpose of filing statements pursuant to 87202 and Article 3 of Chapter 7."
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T22:18:34.000937Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "Persons Appointed to Elective Office Persons appointed to elective office pursuant to the elections or education codes are deemed elected officials for the purpose of filing statements pursuant to 87202 and Article 3 of Chapter 7.",
+    "qa_source": "extracted",
+    "first_500_words": "Persons Appointed to Elective Office Persons appointed to elective office pursuant to the elections or education codes are deemed elected officials for the purpose of filing statements pursuant to 87202 and Article 3 of Chapter 7.",
+    "summary": null
+  }
+}

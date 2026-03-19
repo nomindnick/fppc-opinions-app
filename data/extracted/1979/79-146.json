@@ -1,0 +1,73 @@
+{
+  "id": "79-146",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-146.PDF",
+  "pdf_sha256": "f97da8119bbf53a5c9a62ca5cde0a0d0f2c30b23ae059590933cd1c4decd1718",
+  "local_pdf_path": "raw_pdfs/1979/79-146.PDF",
+  "source_metadata": {
+    "title_raw": "FILIATRUALT, SHIRLEY Year: 1979 Advice Letter # 79-146",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:25:51",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=7"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-07T16:46:46.189284Z",
+    "page_count": 1,
+    "word_count": 171,
+    "char_count": 1080,
+    "quality_score": 0.7175,
+    "olmocr_cost": 0.00255678,
+    "native_word_count": 135
+  },
+  "content": {
+    "full_text": "July 27, 1979\n\nMr. Lee C. Rosenthal, Staff Attorney  \nFair Political Practices Commission  \nPost Office Box 807  \nSacramento, California 95804\n\nDear Mr. Rosenthal:\n\nRe: Regulation 18401 (b) Retention of Documents\n\nAs the Deputy to an elected State Officer, I am responsible for being knowledgeable and working with the campaign committee. Your proposed revision does stipulate the length of time records must be retained. However, it does not state that following an audit, these records may be destroyed.\n\nMr. Nevins' records for this five year period have been audited by the Fair Political Practices Commission and will be presented to your Commission for action during August or September. It seems to me that if the Commission or the Franchise Tax Board audits an elected official that they should be permitted to destroy the records if they see fit, if that audit is satisfactory.\n\nI believe some comment relative to the audit would be helpful to the campaign committees.\n\nVery truly yours,\n\nShirley Filatrualt, Deputy to Richard Nevins, Member  \nState Board of Equalization",
+    "full_text_markdown": "July 27, 1979\n\nMr. Lee C. Rosenthal, Staff Attorney  \nFair Political Practices Commission  \nPost Office Box 807  \nSacramento, California 95804\n\nDear Mr. Rosenthal:\n\nRe: Regulation 18401 (b) Retention of Documents\n\nAs the Deputy to an elected State Officer, I am responsible for being knowledgeable and working with the campaign committee. Your proposed revision does stipulate the length of time records must be retained. However, it does not state that following an audit, these records may be destroyed.\n\nMr. Nevins' records for this five year period have been audited by the Fair Political Practices Commission and will be presented to your Commission for action during August or September. It seems to me that if the Commission or the Franchise Tax Board audits an elected official that they should be permitted to destroy the records if they see fit, if that audit is satisfactory.\n\nI believe some comment relative to the audit would be helpful to the campaign committees.\n\nVery truly yours,\n\nShirley Filatrualt, Deputy to Richard Nevins, Member  \nState Board of Equalization"
+  },
+  "parsed": {
+    "date": "1979-07-27",
+    "date_raw": "July 27, 1979",
+    "requestor_name": "Rosenthal",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The writer seeks clarification on whether campaign finance records may be destroyed following an audit by the FPPC or Franchise Tax Board, and proposes that Regulation 18401(b) should explicitly address the post-audit destruction of records.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.75,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an incoming correspondence/request letter, not an FPPC advice letter response. The document has no formal QUESTION/CONCLUSION sections. The writer is responding to a proposed regulatory revision and requesting commentary or clarification to be added to regulations for benefit of campaign committees."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [
+      "18401"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T16:46:46.189284Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The writer seeks clarification on whether campaign finance records may be destroyed following an audit by the FPPC or Franchise Tax Board, and proposes that Regulation 18401(b) should explicitly address the post-audit destruction of records.",
+    "qa_source": "synthetic",
+    "first_500_words": "July 27, 1979 Mr. Lee C. Rosenthal, Staff Attorney Fair Political Practices Commission Post Office Box 807 Sacramento, California 95804 Dear Mr. Rosenthal: Re: Regulation 18401 (b) Retention of Documents As the Deputy to an elected State Officer, I am responsible for being knowledgeable and working with the campaign committee. Your proposed revision does stipulate the length of time records must be retained. However, it does not state that following an audit, these records may be destroyed. Mr. Nevins' records for this five year period have been audited by the Fair Political Practices Commission and will be presented to your Commission for action during August or September. It seems to me that if the Commission or the Franchise Tax Board audits an elected official that they should be permitted to destroy the records if they see fit, if that audit is satisfactory. I believe some comment relative to the audit would be helpful to the campaign committees. Very truly yours, Shirley Filatrualt, Deputy to Richard Nevins, Member State Board of Equalization",
+    "summary": "Deputy Shirley Filatrualt writes to FPPC staff attorney Lee Rosenthal requesting guidance on the proposed revision to Regulation 18401(b) regarding record retention, specifically seeking clarification on whether campaign records may be destroyed after satisfactory audit completion."
+  }
+}

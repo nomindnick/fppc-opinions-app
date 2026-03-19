@@ -1,0 +1,73 @@
+{
+  "id": "82A092",
+  "year": 1982,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1982/82A092.PDF",
+  "pdf_sha256": "721e2043969296d8be77165e5b33d2cd761ce93f2b09adf1bd7eb03e077c9755",
+  "local_pdf_path": "raw_pdfs/1982/82A092.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1982 Advice Letter # 82A092",
+    "tags": [
+      "1982",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:30:05",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1982&tagCount=1&page=7"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:55.699660Z",
+    "page_count": 1,
+    "word_count": 361,
+    "char_count": 2182,
+    "quality_score": 0.8,
+    "olmocr_cost": null,
+    "native_word_count": 361
+  },
+  "content": {
+    "full_text": "State of California \nMemorandum \nTO: \nAdvice File \nJ \nDate: \nMay 19, 1982 \nFile No. M-82-092 \nFROM: \nFair Political Practices Commission \nRobert E. Leidigh \nSUBJECT: \nTelephone Advice re Legally Required Participation \nAbsence and Use of Alternates \nI received a telephone calIon 5/13/82 from Curtis Coleman, \nattorney with the Southwest Coastal Airbasin District. \nThe facts \nand his question are as follows: \n1. \nThe District has a quasi-judicial hearing board, composed \nof 1 attorney member, 1 doctor member, 1 engineer member and 2 \npublic members. \nThe three professional members each have alternates \nwho can function in their place. \nA quorum is 3 members of the \n5-member board and 3 votes are required for any action to be taken. \n2. \nChevron Oil is seeking a variance regarding its violation \nof air pollution standards. \nIt has obtained an emergeny variance \nfrom 1 board member (per statutory provision) pending a hearing by \nthe full board. \nThe board will meet nest on May 19. \n3. \nThe doctor member has an investment in Chevron Oil of more \nthan $1,000 and must disqualify himself. \nHis alternate is on \nvacation for 2 months, out-of-state. \n4. \nOne of the public members also has an investment in \nChevron Oil of more than $1,000 and must disqualify himself. \nHe has \nno alternate. \n5. \nThe engineer member is on vacation for 3 weeks. \nHis \nalternate has na investment in Chevron Oil of more than $1,000 and \nmust disqualify himself. \nThe question is whether the doctrine of \"legally required \nparticipation\" applies and the Hudson rule should be followed to \npermit a quorum to function at the May 19 meeting. \nWe discussed this as an add-on question at the May 13 Opinion \nRequest Meeting and agreed that the doctrine does not apply and that \nthe Hudson rule does not apply. \nThe absence of the-engineer and the \ndoctor's alternate are the same as absences due to illness, etc., \nand will not suffice to invoke the doctrine and, hence, the rule. \nI advis \nMr. Coleman of our adv \nand he indicated \ntone \nr could pr \nex \nthe emergency variance under \nse \ncircumstances and that they would await the return of the others \nbefore the full board would act. \nREL:plh \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1982-05-19",
+    "date_raw": "May 19, 1982",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "The question is whether the doctrine of \"legally required participation\" applies and the Hudson rule should be followed to permit a quorum to function at the May 19 meeting.",
+    "conclusion": "We discussed this as an add-on question at the May 13 Opinion Request Meeting and agreed that the doctrine does not apply and that the Hudson rule does not apply. The absence of the-engineer and the doctor's alternate are the same as absences due to illness, etc., and will not suffice to invoke the doctrine and, hence, the rule.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether the \"legally required participation\" doctrine and Hudson rule permit a hearing board to function with a reduced quorum when board members and their alternates must disqualify due to conflicts of interest or are unavailable due to vacation.",
+    "conclusion_synthetic": "The FPPC concluded that the legally required participation doctrine and Hudson rule do not apply. Absences due to vacation are treated the same as absences due to illness and cannot invoke the doctrine to allow reduced quorum operations.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is a memorandum documenting telephone advice rather than a formal written advice letter. Some text appears degraded ('advis' for 'advised', 'tone' fragments), but the question and conclusion are clearly identifiable. The document represents FPPC's response to legal question posed by an outside attorney."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [
+      "M-82-092"
+    ],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:36:55.699660Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The question is whether the doctrine of \"legally required participation\" applies and the Hudson rule should be followed to permit a quorum to function at the May 19 meeting.\n\nCONCLUSION: We discussed this as an add-on question at the May 13 Opinion Request Meeting and agreed that the doctrine does not apply and that the Hudson rule does not apply. The absence of the-engineer and the doctor's alternate are the same as absences due to illness, etc., and will not suffice to invoke the doctrine and, hence, the rule.",
+    "qa_source": "mixed",
+    "first_500_words": "State of California Memorandum TO: Advice File J Date: May 19, 1982 File No. M-82-092 FROM: Fair Political Practices Commission Robert E. Leidigh SUBJECT: Telephone Advice re Legally Required Participation Absence and Use of Alternates I received a telephone calIon 5/13/82 from Curtis Coleman, attorney with the Southwest Coastal Airbasin District. The facts and his question are as follows: 1. The District has a quasi-judicial hearing board, composed of 1 attorney member, 1 doctor member, 1 engineer member and 2 public members. The three professional members each have alternates who can function in their place. A quorum is 3 members of the 5-member board and 3 votes are required for any action to be taken. 2. Chevron Oil is seeking a variance regarding its violation of air pollution standards. It has obtained an emergeny variance from 1 board member (per statutory provision) pending a hearing by the full board. The board will meet nest on May 19. 3. The doctor member has an investment in Chevron Oil of more than $1,000 and must disqualify himself. His alternate is on vacation for 2 months, out-of-state. 4. One of the public members also has an investment in Chevron Oil of more than $1,000 and must disqualify himself. He has no alternate. 5. The engineer member is on vacation for 3 weeks. His alternate has na investment in Chevron Oil of more than $1,000 and must disqualify himself. The question is whether the doctrine of \"legally required participation\" applies and the Hudson rule should be followed to permit a quorum to function at the May 19 meeting. We discussed this as an add-on question at the May 13 Opinion Request Meeting and agreed that the doctrine does not apply and that the Hudson rule does not apply. The absence of the-engineer and the doctor's alternate are the same as absences due to illness, etc., and will not suffice to invoke the doctrine and, hence, the rule. I advis Mr. Coleman of our adv and he indicated tone r could pr ex the emergency variance under se circumstances and that they would await the return of the others before the full board would act. REL:plh",
+    "summary": "FPPC telephone advice regarding whether a quasi-judicial hearing board can function with reduced membership when members must disqualify due to Chevron Oil investments and alternates are unavailable. The FPPC advised that the legally required participation doctrine does not apply in these circumstances."
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "03-183",
+  "year": 2003,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2003/03-183.pdf",
+  "pdf_sha256": "dbef4cc971317e01c629902d3996cce2fa84c18ee529e60be232a37fa1edc00d",
+  "local_pdf_path": "raw_pdfs/2003/03-183.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2003 Advice Letter # 03-183",
+    "tags": [
+      "2003",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:39:15",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2003&tagCount=1&page=21"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T16:34:26.265734Z",
+    "page_count": 1,
+    "word_count": 165,
+    "char_count": 1132,
+    "quality_score": 0.9193916326713839,
+    "olmocr_cost": 0.00265482,
+    "native_word_count": 150
+  },
+  "content": {
+    "full_text": "FAIR POLITICAL PRACTICES COMMISSION\n428 J Street • Suite 620 • Sacramento, CA 95814-2329\n(916) 322-5660 • Fax (916) 322-0886\n\nAugust 19, 2003\n\nJames D. Sanders, Councilmember\n224 East 21st Street\nMerced, CA 95340\n\nRe: Your Request for Advice\nOur File No.: W-03-183\n\nDear Mr. Sanders:\n\nThis letter is to advise that we have withdrawn your August 11, 2003, request for advice. Under the provisions of regulation 18329(b)(8)(D), copy enclosed, your inquiry presents a question outside the purview of the Political Reform Act.1 Additionally, unless you are an authorized representative of the public officials for whom you seek assistance, the Fair Political Practices Commission cannot address your questions or provide analysis. (See regulation 18329(b)(8)(B)).\n\nShould you have any additional questions regarding this matter, please contact the Commission at (916) 322-5660.\n\nSincerely,\n\nLuisa Menchaca\nGeneral Counsel\n\nBy: John W. Wallace\nAssistant General Counsel\n\nEnclosure\nJWW:jg\n\n1 Government Code sections 81000 – 91014. Commission regulations appear at Title 2, sections 18109-18997, of the California Code of Regulations.",
+    "full_text_markdown": "FAIR POLITICAL PRACTICES COMMISSION\n428 J Street • Suite 620 • Sacramento, CA 95814-2329\n(916) 322-5660 • Fax (916) 322-0886\n\nAugust 19, 2003\n\nJames D. Sanders, Councilmember\n224 East 21st Street\nMerced, CA 95340\n\nRe: Your Request for Advice\nOur File No.: W-03-183\n\nDear Mr. Sanders:\n\nThis letter is to advise that we have withdrawn your August 11, 2003, request for advice. Under the provisions of regulation 18329(b)(8)(D), copy enclosed, your inquiry presents a question outside the purview of the Political Reform Act.1 Additionally, unless you are an authorized representative of the public officials for whom you seek assistance, the Fair Political Practices Commission cannot address your questions or provide analysis. (See regulation 18329(b)(8)(B)).\n\nShould you have any additional questions regarding this matter, please contact the Commission at (916) 322-5660.\n\nSincerely,\n\nLuisa Menchaca\nGeneral Counsel\n\nBy: John W. Wallace\nAssistant General Counsel\n\nEnclosure\nJWW:jg\n\n1 Government Code sections 81000 – 91014. Commission regulations appear at Title 2, sections 18109-18997, of the California Code of Regulations."
+  },
+  "parsed": {
+    "date": "2003-08-19",
+    "date_raw": "August 19, 2003",
+    "requestor_name": "Sanders",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [
+      "18109",
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-20T16:34:26.265734Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "**FAIR POLITICAL PRACTICES COMMISSION** 428 J Street • Suite 620 • Sacramento, CA 95814-2329 (916) 322-5660 • Fax (916) 322-0886 August 19, 2003 James D. Sanders, Councilmember 224 East 21st Street Merced, CA 95340 Re: Your Request for Advice Our File No.: W-03-183 Dear Mr. Sanders: This letter is to advise that we have withdrawn your August 11, 2003, request for advice. Under the provisions of regulation 18329(b)(8)(D), copy enclosed, your inquiry presents a question outside the purview of the Political Reform Act.1 Additionally, unless you are an authorized representative of the public officials for whom you seek assistance, the Fair Political Practices Commission cannot address your questions or provide analysis. (See regulation 18329(b)(8)(B)). Should you have any additional questions regarding this matter, please contact the Commission at (916) 322-5660. Sincerely, Luisa Menchaca General Counsel By: John W. Wallace Assistant General Counsel Enclosure JWW:jg 1 Government Code sections 81000 – 91014. Commission regulations appear at Title 2, sections 18109-18997, of the California Code of Regulations.",
+    "qa_source": "extracted",
+    "first_500_words": "**FAIR POLITICAL PRACTICES COMMISSION** 428 J Street • Suite 620 • Sacramento, CA 95814-2329 (916) 322-5660 • Fax (916) 322-0886 August 19, 2003 James D. Sanders, Councilmember 224 East 21st Street Merced, CA 95340 Re: Your Request for Advice Our File No.: W-03-183 Dear Mr. Sanders: This letter is to advise that we have withdrawn your August 11, 2003, request for advice. Under the provisions of regulation 18329(b)(8)(D), copy enclosed, your inquiry presents a question outside the purview of the Political Reform Act.1 Additionally, unless you are an authorized representative of the public officials for whom you seek assistance, the Fair Political Practices Commission cannot address your questions or provide analysis. (See regulation 18329(b)(8)(B)). Should you have any additional questions regarding this matter, please contact the Commission at (916) 322-5660. Sincerely, Luisa Menchaca General Counsel By: John W. Wallace Assistant General Counsel Enclosure JWW:jg 1 Government Code sections 81000 – 91014. Commission regulations appear at Title 2, sections 18109-18997, of the California Code of Regulations.",
+    "summary": null
+  }
+}

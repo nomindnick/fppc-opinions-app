@@ -1,0 +1,73 @@
+{
+  "id": "77ADV-77-374",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-374.PDF",
+  "pdf_sha256": "f7bb45228fbb48f39f3a90653504669b5a627caa732e32a104c1f4bedac6f6b6",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-374.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-374",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:21:13",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=31"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-07T17:10:36.140193Z",
+    "page_count": 1,
+    "word_count": 118,
+    "char_count": 769,
+    "quality_score": 0.5125,
+    "olmocr_cost": 0.00251808,
+    "native_word_count": 50
+  },
+  "content": {
+    "full_text": "March 31, 1977\n\nMr. John Conley  \nDeputy District Attorney  \nOrange County District Attorney's Office  \nP.O. Box 808  \nSanta Ana, CA 92072\n\nDear Mr. Conley:\n\nThis letter will confirm my advice to you by telephone on March 25, 1977, concerning the disclosure of loans on statements of economic interests.\n\nYou asked whether a filer must report outstanding loans received prior to the period covered by a financial disclosure report filed pursuant to Government Code Sections 87203 and 87204. I advised that since Sections 87203 and 87204 require the reporting of income received \"during the period,\" filing should not report loans received at any other time.\n\nI hope this information is of assistance.\n\nSincerely,\n\nNan Emmerson  \nSpecial Compliance Representative\n\nNE:jg",
+    "full_text_markdown": "March 31, 1977\n\nMr. John Conley  \nDeputy District Attorney  \nOrange County District Attorney's Office  \nP.O. Box 808  \nSanta Ana, CA 92072\n\nDear Mr. Conley:\n\nThis letter will confirm my advice to you by telephone on March 25, 1977, concerning the disclosure of loans on statements of economic interests.\n\nYou asked whether a filer must report outstanding loans received prior to the period covered by a financial disclosure report filed pursuant to Government Code Sections 87203 and 87204. I advised that since Sections 87203 and 87204 require the reporting of income received \"during the period,\" filing should not report loans received at any other time.\n\nI hope this information is of assistance.\n\nSincerely,\n\nNan Emmerson  \nSpecial Compliance Representative\n\nNE:jg"
+  },
+  "parsed": {
+    "date": "1977-03-31",
+    "date_raw": "March 31, 1977",
+    "requestor_name": "Conley",
+    "requestor_title": "District Attorney",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "You asked whether a filer must report outstanding loans received prior to the period covered by a financial disclosure report filed pursuant to Government Code Sections 87203 and 87204.",
+    "conclusion": "I advised that since Sections 87203 and 87204 require the reporting of income received \"during the period,\" filing should not report loans received at any other time.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Must a filer report outstanding loans that were received prior to the period covered by a financial disclosure report under Government Code Sections 87203 and 87204?",
+    "conclusion_synthetic": "Filers are not required to report loans received prior to the reporting period, as the relevant statutes require reporting of income received only \"during the period\" covered by the disclosure report.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Confirmation letter of prior telephone advice dated March 25, 1977. Clear question and answer sections present. Issued by Nan Emmerson, Special Compliance Representative."
+  },
+  "citations": {
+    "government_code": [
+      "87203"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T17:10:36.140193Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: You asked whether a filer must report outstanding loans received prior to the period covered by a financial disclosure report filed pursuant to Government Code Sections 87203 and 87204.\n\nCONCLUSION: I advised that since Sections 87203 and 87204 require the reporting of income received \"during the period,\" filing should not report loans received at any other time.",
+    "qa_source": "mixed",
+    "first_500_words": "March 31, 1977 Mr. John Conley Deputy District Attorney Orange County District Attorney's Office P.O. Box 808 Santa Ana, CA 92072 Dear Mr. Conley: This letter will confirm my advice to you by telephone on March 25, 1977, concerning the disclosure of loans on statements of economic interests. You asked whether a filer must report outstanding loans received prior to the period covered by a financial disclosure report filed pursuant to Government Code Sections 87203 and 87204. I advised that since Sections 87203 and 87204 require the reporting of income received \"during the period,\" filing should not report loans received at any other time. I hope this information is of assistance. Sincerely, Nan Emmerson Special Compliance Representative NE:jg",
+    "summary": "FPPC advice letter confirming telephone advice that outstanding loans received prior to a financial disclosure reporting period need not be reported on statements of economic interests under Government Code Sections 87203 and 87204."
+  }
+}

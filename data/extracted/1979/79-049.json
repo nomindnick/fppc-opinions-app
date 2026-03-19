@@ -1,0 +1,75 @@
+{
+  "id": "79-049",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-049.PDF",
+  "pdf_sha256": "9b9b8675cd7c3ae38185c2df0fe9b1f0aab6213001b365d4c1758344ee4d5cff",
+  "local_pdf_path": "raw_pdfs/1979/79-049.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1979 Advice Letter # 79-049",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:25:47",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=6"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-27T17:00:17.151392Z",
+    "page_count": 2,
+    "word_count": 369,
+    "char_count": 2505,
+    "quality_score": 0.9224750535448903,
+    "olmocr_cost": 0.00512646,
+    "native_word_count": 9,
+    "haiku_cost": 0.004872
+  },
+  "content": {
+    "full_text": "State of California\n\nMemorandum\n\nTo : File                                          Date : May 4, 1979\n\nFrom : FAIR POLITICAL PRACTICE COMMISSION\n       Dwight Dickerson\n\nSubject: March 9, 1979, Opinion Request Item regarding Ventura Jr.\n         College District Panel of Insurance Brokers\n\n\n       Telephone advice was rendered to Mr. Klopfer of the\nVentura County District Attorney's office stating that the\nstaff was unable to reach a consensus at its opinion re-\nquest meeting regarding how income received by brokers\nsitting on the District's insurance broker Panel should\nbe treated for disqualification purposes.\n\n       However, a consensus was reached later in the month\nthat the brokers in question were subject to the Act and\ncould not participate in decisions affecting their source\nof income. Commissions received by brokers on the panel\nfrom insurance companies was considered income under Section\n82030, and did not fall within Section 82030(b)(2) of the\nAct.\n\n\nDED:mfa\n\nState of California\n\nMemorandum\n\nTo : Opinion Request Mailing Participants                    Date : March 2, 1979\n\n\nFrom : FAIR POLITICAL PRACTICES COMMISSION\n        Dwight Dickerson\n\nSubject:\n\n\n       Set forth below is a situation that developed in Ventura County. The\nVentura County District Attorney's Office would like advice from our\noffice regarding the matter.\n\n       In November of 1976, a Junior College District Board of Trustees\nestablished a panel of insurance brokers to advise it on matters\nrelating to insurance for the District. The panel made recommenda-\ntions to the Board regarding the types and levels of insurance the\nBoard should seek for its various operations and programs.\n\n       In addition to these responsibilities, the Board also authorizes the\npanel to purchase insurance on its behalf. The procedure used by the\npanel, and sanctioned by the Board, is to have the insurance brokers\non the panel secure policies from various companies they may represent.\n\n       Insurance brokers serving on the panel are not paid a direct salary\nby the District. Instead, with respect to commissions received from\nthe insurance purchases, the Board gives the panel discretion on how\nto divide the fees among the panel members.\n\n       The question asked by the District Attorney's Office is how the Political\nReform Act's conflict of interest provisions affect the panel and its\noperations.\n\n\n       P.S. The contact person in the District Attorney's Office is Barney\nKiopter (8-727-3094).\n\n\nLED:mfa",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1979-05-04",
+    "date_raw": "May 4, 1979",
+    "requestor_name": null,
+    "requestor_title": "District Attorney",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "In addition to these responsibilities, the Board also authorizes the panel to purchase insurance on its behalf. The procedure used by the panel, and sanctioned by the Board, is to have the insurance brokers on the panel secure policies from various companies they may represent. Insurance brokers serving on the panel are not paid a direct salary by the District. Instead, with respect to commissions received from the insurance purchases, the Board gives the panel discretion on how to divide the fees among the panel members. The question asked by the District Attorney's Office is how the Political Reform Act's conflict of interest provisions affect the panel and its operations.",
+    "conclusion": "A consensus was reached later in the month that the brokers in question were subject to the Act and could not participate in decisions affecting their source of income. Commissions received by brokers on the panel from insurance companies was considered income under Section 82030, and did not fall within Section 82030(b)(2) of the Act.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether insurance brokers serving on a Junior College District's Insurance Broker Panel are subject to the Political Reform Act's disqualification provisions when they receive commissions from insurance purchases made through their recommendations.",
+    "conclusion_synthetic": "The FPPC concluded that insurance brokers on the panel are subject to the Political Reform Act and cannot participate in decisions affecting their source of income, as commissions from insurance companies constitute income under Section 82030 and do not qualify for the exemption under Section 82030(b)(2).",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document consists of two memoranda regarding the same matter. Initial advice (May 4, 1979) references telephone advice indicating initial inability to reach consensus, followed by later consensus. The March 2, 1979 memo contains the detailed question and context. No formal 'QUESTION' or 'CONCLUSION' section headers present; sections identified by context and content."
+  },
+  "citations": {
+    "government_code": [
+      "82030",
+      "82030(b)(2)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T16:46:43.743922Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: In addition to these responsibilities, the Board also authorizes the panel to purchase insurance on its behalf. The procedure used by the panel, and sanctioned by the Board, is to have the insurance brokers on the panel secure policies from various companies they may represent. Insurance brokers serving on the panel are not paid a direct salary by the District. Instead, with respect to commissions received from the insurance purchases, the Board gives the panel discretion on how to divide the fees among the panel members. The question asked by the District Attorney's Office is how the Political Reform Act's conflict of interest provisions affect the panel and its operations.\n\nCONCLUSION: A consensus was reached later in the month that the brokers in question were subject to the Act and could not participate in decisions affecting their source of income. Commissions received by brokers on the panel from insurance companies was considered income under Section 82030, and did not fall within Section 82030(b)(2) of the Act.",
+    "qa_source": "mixed",
+    "first_500_words": "**Memorandum** To: File Date: May 4, 1979 From: FAIR POLITICAL PRACTICES COMMISSION Dwight Dickerson Subject: March 9, 1979, Opinion Request Item regarding Ventura Jr. College District Panel of Insurance Brokers Telephone advice was rendered to Mr. Klopfen of the Ventura County District Attorney's office stating that the staff was unable to reach a consensus at its opinion request meeting regarding how income received by brokers sitting on the District's Insurance Broker Panel should be treated for disqualification purposes. However, a consensus was reached later in the month that the brokers in question were subject to the Act and could not participate in decisions affecting their source of income. Commissions received by brokers on the panel from insurance companies was considered income under Section 82030, and did not fall within Section 82030(b)(2) of the Act. DED:mfa **Memorandum** **To:** Opinion Request Meeting Participants **Date:** March 2, 1979 **From:** FAIR POLITICAL PRACTICES COMMISSION Dwight Dickerson **Subject:** Set forth below is a situation that developed in Ventura County. The Ventura County District Attorney's Office would like advice from our office regarding the matter. In November of 1976, a Junior College District Board of Trustees established a panel of insurance brokers to advise it on matters relating to insurance for the District. The panel makes recommendations to the Board regarding the types and levels of insurance the Board should seek for its various operations and programs. In addition to these responsibilities, the Board also authorizes the panel to purchase insurance on its behalf. The procedure used by the panel, and sanctioned by the Board, is to have the insurance brokers on the panel secure policies from various companies they may represent. Insurance brokers serving on the panel are not paid a direct salary by the District. Instead, with respect to commissions received from the insurance purchases, the Board gives the panel discretion on how to divide the fees among the panel members. The question asked by the District Attorney's Office is how the Political Reform Act's conflict of interest provisions affect the panel and its operations. P.S. The contact person in the District Attorney's Office is Barney Klopter (8-727-3094). DED:mfa",
+    "summary": "FPPC memorandum addressing whether insurance brokers serving on a Ventura Junior College District panel must disqualify themselves from decisions due to conflicts of interest under the Political Reform Act. The FPPC determined that brokers receiving commissions from insurance sales are subject to disqualification provisions and cannot participate in decisions affecting their income source."
+  }
+}

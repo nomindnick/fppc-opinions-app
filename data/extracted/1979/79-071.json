@@ -1,0 +1,73 @@
+{
+  "id": "79-071",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-071.PDF",
+  "pdf_sha256": "f4b3985485eb695a99c7460da0574fd495a4533899ac70ea780166a0ad7a2179",
+  "local_pdf_path": "raw_pdfs/1979/79-071.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1979 Advice Letter # 79-071",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:26:26",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=15"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:06.984014Z",
+    "page_count": 1,
+    "word_count": 235,
+    "char_count": 1386,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 235
+  },
+  "content": {
+    "full_text": "I \nFile -\nGov. Code Section 84210(g) \nDate \nApril 2, 1979 \nfrom \nFAIR POLITICAL PRACTICES COMMISSION \nBarbara Campbel~C \n~IJ'JI\"\"'\" Telephone advice to Kirk Pessner \nA candidate used someone's contry club membership to hold a \nfundraiser dinner at the country club. \nThe candidate reimbursed \nthe club member for all the costs of the dinner. \nKirk Pessner \nasked on March 30, 1979, if the use of the country club member-\nship constituted an in-kind contribution and, if so, what was \nthe value. \nAfter discussing the matter with other staff members, we \nconcluded the club's procedure for use of rooms would determine \nif there was an in-kind contribution. \nIf, as a part of the member-\nship, a club member can use the facilities of the club without \ncharge as long as the member pays for the services, there will \nbe an in-kind contribution of the fair market falue of the room \nor an equivalent room. \nIf, however, the member has to pay to \nuse the facilities, the candidate would reimburse the club member \nfor the room fee and report that payment on the campaign statement. \nI spoke with Kirk and relayed the above advice. \nAccording \nto Kirk, the country club in question allows its members to use \nthe facilities free of charge. \nTherefore I advised him that the \nmember made an in-kind contribution of the fair market value of \nthe rental of the room or its equivalent. \nBC:plh \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1979-04-02",
+    "date_raw": "April 2, 1979",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Does a candidate's use of someone's country club membership to hold a fundraiser dinner, where the candidate reimburses all costs, constitute an in-kind contribution, and if so, how should it be valued?",
+    "conclusion_synthetic": "If club members can use facilities free of charge as part of membership (only paying for services), the member made an in-kind contribution equal to the fair market value of the room rental. If members must pay to use facilities, the candidate should reimburse the member for the room fee and report it on the campaign statement. In this case, the country club allows free member use, so an in-kind contribution of fair market value of the room applies.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is a telephone advice letter with no formal question/conclusion sections; content extracted from narrative body. Date April 2, 1979; advice given to Kirk Pessner regarding call on March 30, 1979. Minor typo in document ('contry' instead of 'country', 'falue' instead of 'value') preserved as in original."
+  },
+  "citations": {
+    "government_code": [
+      "84210(g)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:37:06.984014Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Does a candidate's use of someone's country club membership to hold a fundraiser dinner, where the candidate reimburses all costs, constitute an in-kind contribution, and if so, how should it be valued?\n\nCONCLUSION: If club members can use facilities free of charge as part of membership (only paying for services), the member made an in-kind contribution equal to the fair market value of the room rental. If members must pay to use facilities, the candidate should reimburse the member for the room fee and report it on the campaign statement. In this case, the country club allows free member use, so an in-kind contribution of fair market value of the room applies.",
+    "qa_source": "synthetic",
+    "first_500_words": "I File - Gov. Code Section 84210(g) Date April 2, 1979 from FAIR POLITICAL PRACTICES COMMISSION Barbara Campbel~C ~IJ'JI\"\"'\" Telephone advice to Kirk Pessner A candidate used someone's contry club membership to hold a fundraiser dinner at the country club. The candidate reimbursed the club member for all the costs of the dinner. Kirk Pessner asked on March 30, 1979, if the use of the country club member- ship constituted an in-kind contribution and, if so, what was the value. After discussing the matter with other staff members, we concluded the club's procedure for use of rooms would determine if there was an in-kind contribution. If, as a part of the member- ship, a club member can use the facilities of the club without charge as long as the member pays for the services, there will be an in-kind contribution of the fair market falue of the room or an equivalent room. If, however, the member has to pay to use the facilities, the candidate would reimburse the club member for the room fee and report that payment on the campaign statement. I spoke with Kirk and relayed the above advice. According to Kirk, the country club in question allows its members to use the facilities free of charge. Therefore I advised him that the member made an in-kind contribution of the fair market value of the rental of the room or its equivalent. BC:plh",
+    "summary": "FPPC provided telephone advice regarding whether a candidate's use of a country club member's membership to host a fundraiser constituted an in-kind contribution. The determination depends on the club's membership privileges: if members use facilities free (paying only for services), it is an in-kind contribution valued at fair market room rental; if members must pay fees, the candidate reimburses the member and reports the payment."
+  }
+}

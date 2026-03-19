@@ -1,0 +1,71 @@
+{
+  "id": "01-067",
+  "year": 2001,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2001/01-067.pdf",
+  "pdf_sha256": "e74a3c28320e94ff32cfc07e58aa0382d66f0c5b12c61f08034031066f9ef8d6",
+  "local_pdf_path": "raw_pdfs/2001/01-067.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2001 Advice Letter # 01-067",
+    "tags": [
+      "2001",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:33:16",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2001&tagCount=1&page=7"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T21:20:21.009276Z",
+    "page_count": 1,
+    "word_count": 72,
+    "char_count": 467,
+    "quality_score": 0.825443191141705,
+    "olmocr_cost": 0.0024750799999999997,
+    "native_word_count": 94
+  },
+  "content": {
+    "full_text": "July 11, 2001\n\nKarl Mohr, Finance Director  \nCity of Davis  \n23 Russell Boulevard  \nDavis, CA 95616  \n\nRe: Your Request for Advice  \nOur File No. W-01-067  \n\nDear Mr. Mohr:\n\nPursuant to our March 30, 2001, telephone conversation, your request for formal advice is withdrawn. Please do not hesitate to contact me at (916) 322-7771 if you have any additional questions relating to the Political Reform Act.\n\nSincerely,\n\nNatalie Bocanegra  \nStaff Counsel, Legal Division",
+    "full_text_markdown": "July 11, 2001\n\nKarl Mohr, Finance Director  \nCity of Davis  \n23 Russell Boulevard  \nDavis, CA 95616  \n\nRe: Your Request for Advice  \nOur File No. W-01-067  \n\nDear Mr. Mohr:\n\nPursuant to our March 30, 2001, telephone conversation, your request for formal advice is withdrawn. Please do not hesitate to contact me at (916) 322-7771 if you have any additional questions relating to the Political Reform Act.\n\nSincerely,\n\nNatalie Bocanegra  \nStaff Counsel, Legal Division"
+  },
+  "parsed": {
+    "date": "2001-07-11",
+    "date_raw": "July 11, 2001",
+    "requestor_name": "Mohr",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T21:20:21.009276Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "July 11, 2001 Karl Mohr, Finance Director City of Davis 23 Russell Boulevard Davis, CA 95616 Re: Your Request for Advice Our File No. W-01-067 Dear Mr. Mohr: Pursuant to our March 30, 2001, telephone conversation, your request for formal advice is withdrawn. Please do not hesitate to contact me at (916) 322-7771 if you have any additional questions relating to the Political Reform Act. Sincerely, Natalie Bocanegra Staff Counsel, Legal Division",
+    "qa_source": "extracted",
+    "first_500_words": "July 11, 2001 Karl Mohr, Finance Director City of Davis 23 Russell Boulevard Davis, CA 95616 Re: Your Request for Advice Our File No. W-01-067 Dear Mr. Mohr: Pursuant to our March 30, 2001, telephone conversation, your request for formal advice is withdrawn. Please do not hesitate to contact me at (916) 322-7771 if you have any additional questions relating to the Political Reform Act. Sincerely, Natalie Bocanegra Staff Counsel, Legal Division",
+    "summary": null
+  }
+}

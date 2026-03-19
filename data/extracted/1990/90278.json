@@ -1,0 +1,72 @@
+{
+  "id": "90278",
+  "year": 1990,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1990/90278.pdf",
+  "pdf_sha256": "7f5607f070b6ff8bd09a433b922b9da2865ba8e085d0be4ead9e548ac420be99",
+  "local_pdf_path": "raw_pdfs/1990/90278.pdf",
+  "source_metadata": {
+    "title_raw": "Downs, Tom Year: 1990 Advice Letter # 90278",
+    "tags": [
+      "1990",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:09:57",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1990&tagCount=1&page=55"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-27T21:45:00.321677Z",
+    "page_count": 2,
+    "word_count": 210,
+    "char_count": 1225,
+    "quality_score": 0.8127055792466239,
+    "olmocr_cost": 0.0049708,
+    "native_word_count": 47,
+    "haiku_cost": 0.0040824
+  },
+  "content": {
+    "full_text": "April 11, 1990\n\nJohn Rothmer, Attorney\nState Public Practise Commission\nLegal Division\n\nRe: Our Telephone Conversation of April 3, 1990.\n\nJohn, as requested here are the specifics\nasked about and would appreciate\na written opinion.\n\nMy name is Tom Sievres residing at\n2607 W. 15th Street, Redondo Beach, California.\nMy question is \"Can one person hold two\nelective offices concurrently?\"\n\nThe specifics are: I was first appointed\nto fill a one year term as a Trustee on\nthe South Bay Union High School District\nBoard. Through the election process,\nI was voted in for a Two year term\n1987 1989, and a Four year term\nfrom 1989 to 1993. The School district\ncovers the entire city boundaries of Redondo\nBeach, Hermosa Beach and Manhattan Beach.\n\nIn March 1991 there will be an election\nin District 3 in Redondo Beach for\nCouncilman. The 5 CityDistrict covers\napproximately, on fifths of the city of\nRedondo Beach.\n\nPage Two\n\nIf I decide to seek the Coordinatorship\nSeat in District Five and be elected,\nwould I be required to resign my\nposition on the South Bay Union\nHigh School Board?\n\nI would appreciate hearing from\nyou on the matter at your earliest\nConvenience.\n\nSincerely,\n\nTom Dunn\n2607 W 159th St\nRedondo Beach, Ca 90278",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1990-04-11",
+    "date_raw": "April 11, 1990",
+    "requestor_name": "Downs",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "Can one person hold two elective offices concurrently? If I decide to seek the Councilman seat in District Five and be elected, would I be required to resign my position on the South Bay Union High School Board.",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether Tom Downs can simultaneously hold the office of Trustee on the South Bay Union High School District Board and serve as Councilman for District 5 in Redondo Beach, or whether holding the City Council seat would require resignation from the School Board position.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an incoming request letter from a constituent to FPPC attorney John Rothman, not an FPPC response letter. No conclusion or advice section present. The document clearly identifies the legal question regarding concurrent office holding. No section headers found but content structure is clear."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T16:20:58.352389Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Can one person hold two elective offices concurrently? If I decide to seek the Councilman seat in District Five and be elected, would I be required to resign my position on the South Bay Union High School Board.",
+    "qa_source": "mixed",
+    "first_500_words": "April 11, 1990 John Rothman, Attorney Fair Political Practices Commission Legal Division Re: Our Telephone Conversation of April 3, 1990. John, as requested here are the specifics I asked about and would appreciate a written opinion. My name is Tom Downs residing at 2607 W. 159th Street, Redondo Beach, California. My question is \"Can one person hold two elective offices concurrently?\" The specifics are: I was first appointed to finish a one year term as a Trustee on the South Bay Union High School District Board. Through the election process, I was voted in for a Two Year term 1987 to 1989; and a Four Year term from 1989 to 1993. This school district covers the entire city boundaries of Redondo Beach, Hermosa Beach and Manhattan Beach. In March 1991 there will be an election in District 5 in Redondo Beach for Councilman. The 5th District covers approximately one fifth of the City of Redondo Beach. If I decide to seek the Councilman seat in District Five and be elected, would I be required to resign my position on the South Bay Union High School Board. I would appreciate hearing from you on this matter at your earliest convenience. Sincerely, Tom Downs 2607 W 159th St Redondo Beach, Ca 90278",
+    "summary": "Tom Downs seeks guidance on whether he can hold two elective offices concurrently—specifically, whether he could serve as a School Board Trustee while also serving as a City Councilman for District 5 in Redondo Beach."
+  }
+}

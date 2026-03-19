@@ -1,0 +1,76 @@
+{
+  "id": "87178",
+  "year": 1987,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1987/fppc-advice/87178.PDF",
+  "pdf_sha256": "d628d10425acb88517afe9dbef4ae0d5009cab29a6b4dec0f46b728bd6183019",
+  "local_pdf_path": "raw_pdfs/1987/87178.PDF",
+  "source_metadata": {
+    "title_raw": "JOHNS, ELEANOR Year: 1987 Advice Letter # 87178",
+    "tags": [
+      "1987",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:41:20",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1987&tagCount=1&page=21"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:26.421109Z",
+    "page_count": 2,
+    "word_count": 438,
+    "char_count": 2889,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 438
+  },
+  "content": {
+    "full_text": "California \nFair Political \nPractices Commission \nEleanor Johns \nWillie Brown Campaign Committee \n1515 Vallejo street \nSan Francisco, \nCa \n94109 \nDear Ms. Johns: \nAugust 4, 1987 \nRe: \nOur File No. I-87-178 \nThis is to confirm the informal assistance provided to you by \nSandi Taylor of this office concerning reporting campaign \nexpenditures made by an agent or independent contractor on behalf \nof a candidate or committee. \nIn reviewing the data contained in the consolidated campaign \nstatement filed by Willie L. Brown, Jr. and Assembly Democrats for \nthe period 10/19-12/31/86, we noticed that payments made by Focus \nMedia on behalf of the committee were not itemized. \nThat is, \npayments were shown to Focus Media for \"broadcast time,\" however, \nthe payments made by Media Focus to the broadcast companies were \nnot itemized. \nSection 84303 of the Political Reform Actll provides: \nNo expenditure shall be made, other than overhead or \nnormal operating expenses, by an agent or independent \ncontractor, including but not limited to an advertising \nagency, on behalf of or for the benefit of any candidate or \ncommittee unless it is reported by the candidate or committee \nas if the expenditure were made directly by the candidate or \ncommittee. \nThe agent or independent contractor shall make \nknown to the candidate or committee all information required \nto be reported by this section. \nlIGovernment Code Sections 81000-91015. \nAll statutory \nreferences are to the Government Code unless otherwise indicated. \nCommission regulations appear at 2 California Administrative Code \nSection 18000, et seq. \nAll references to regulations are to Title \n2, Division 6 of the California Administrative Code. \n428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804*0807 • (916)322*5660 \n\n\nEleanor Johns \nPage 2 \nIn addition, commission Regulation 18431(a) (2) provides that \nthe following expenditures made by an agent or independent \ncontractor must be reported by the candidate or committee: \nExpenditures to any person, other than an employee of the \nagent or independent contractor, who furnishes the candidate \nor committee with products or services which show how the \ncampaign is conducted, including but not limited to \nexpenditures for: \n(B) \nAdvertising time or space \nTherefore, when payments are made to a media consultant and \nthe consultant arranges and pays for broadcast time on behalf of \nthe committee, each entity which receives a payment of $100 or \nmore must be itemized on the committee's campaign statement. \nAttachment Schedule E-1 (enclosed) can be used for itemizing \npayments made by the media consultant. \nOr, if you prefer, the \npayments can be itemized on Schedule E. \nDMG:JP: 1m \nSincerely, \nDiane M. Griffiths \nGeneral counsV \n'-I \n, \n__ \nQ~ \n~11/lAL/ //{zt~CV4~z-;f: \nBy: \"jeanne Pritchard \nDivision Chief \nTechnical Assistance and \nAnalysis Division \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1987-08-04",
+    "date_raw": "August 4, 1987",
+    "requestor_name": "Johns",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "informal_advice"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "When payments are made to a media consultant and the consultant arranges and pays for broadcast time on behalf of the committee, each entity which receives a payment of $100 or more must be itemized on the committee's campaign statement. Attachment Schedule E-1 (enclosed) can be used for itemizing payments made by the media consultant. Or, if you prefer, the payments can be itemized on Schedule E.",
+    "facts": null,
+    "analysis": "Division",
+    "question_synthetic": "How should campaign expenditures made by an agent or independent contractor (such as a media consultant) on behalf of a candidate or committee be reported in campaign statements?",
+    "conclusion_synthetic": "Candidates and committees must itemize all expenditures made by agents or independent contractors (including media consultants) as if made directly by the candidate or committee, reporting each entity that receives $100 or more separately on Schedule E or E-1.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "Format: ocr; LLM: Formal advice letter responding to informal assistance inquiry. Document confirms prior verbal guidance and applies Government Code Section 84303 and Commission Regulation 18431(a)(2) to require itemized reporting of agent/contractor expenditures."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "84303"
+    ],
+    "regulations": [
+      "18431"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:36:26.421109Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: How should campaign expenditures made by an agent or independent contractor (such as a media consultant) on behalf of a candidate or committee be reported in campaign statements?\n\nCONCLUSION: When payments are made to a media consultant and the consultant arranges and pays for broadcast time on behalf of the committee, each entity which receives a payment of $100 or more must be itemized on the committee's campaign statement. Attachment Schedule E-1 (enclosed) can be used for itemizing payments made by the media consultant. Or, if you prefer, the payments can be itemized on Schedule E.",
+    "qa_source": "mixed",
+    "first_500_words": "California Fair Political Practices Commission Eleanor Johns Willie Brown Campaign Committee 1515 Vallejo street San Francisco, Ca 94109 Dear Ms. Johns: August 4, 1987 Re: Our File No. I-87-178 This is to confirm the informal assistance provided to you by Sandi Taylor of this office concerning reporting campaign expenditures made by an agent or independent contractor on behalf of a candidate or committee. In reviewing the data contained in the consolidated campaign statement filed by Willie L. Brown, Jr. and Assembly Democrats for the period 10/19-12/31/86, we noticed that payments made by Focus Media on behalf of the committee were not itemized. That is, payments were shown to Focus Media for \"broadcast time,\" however, the payments made by Media Focus to the broadcast companies were not itemized. Section 84303 of the Political Reform Actll provides: No expenditure shall be made, other than overhead or normal operating expenses, by an agent or independent contractor, including but not limited to an advertising agency, on behalf of or for the benefit of any candidate or committee unless it is reported by the candidate or committee as if the expenditure were made directly by the candidate or committee. The agent or independent contractor shall make known to the candidate or committee all information required to be reported by this section. lIGovernment Code Sections 81000-91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Administrative Code Section 18000, et seq. All references to regulations are to Title 2, Division 6 of the California Administrative Code. 428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804*0807 • (916)322*5660 Eleanor Johns Page 2 In addition, commission Regulation 18431(a) (2) provides that the following expenditures made by an agent or independent contractor must be reported by the candidate or committee: Expenditures to any person, other than an employee of the agent or independent contractor, who furnishes the candidate or committee with products or services which show how the campaign is conducted, including but not limited to expenditures for: (B) Advertising time or space Therefore, when payments are made to a media consultant and the consultant arranges and pays for broadcast time on behalf of the committee, each entity which receives a payment of $100 or more must be itemized on the committee's campaign statement. Attachment Schedule E-1 (enclosed) can be used for itemizing payments made by the media consultant. Or, if you prefer, the payments can be itemized on Schedule E. DMG:JP: 1m Sincerely, Diane M. Griffiths General counsV '-I , __ Q~ ~11/lAL/ //{zt~CV4~z-;f: By: \"jeanne Pritchard Division Chief Technical Assistance and Analysis Division",
+    "summary": "The FPPC provides guidance to the Willie Brown Campaign Committee on the proper reporting of expenditures made by Focus Media (a media consultant) for broadcast time purchases on behalf of the campaign, requiring full itemization of all payments of $100 or more to actual vendors."
+  }
+}

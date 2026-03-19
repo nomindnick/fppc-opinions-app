@@ -1,0 +1,74 @@
+{
+  "id": "79-020",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-020.PDF",
+  "pdf_sha256": "42a481c4cddcf3bd9dd70280d9fae806d811136b2ed4dfc7ca8a80472860ebcc",
+  "local_pdf_path": "raw_pdfs/1979/79-020.PDF",
+  "source_metadata": {
+    "title_raw": "RUSHING, MARY Year: 1979 Advice Letter # 79-020",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:26:39",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=18"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-07T16:52:53.339120Z",
+    "page_count": 1,
+    "word_count": 260,
+    "char_count": 1641,
+    "quality_score": 0.7175,
+    "olmocr_cost": 0.00265482,
+    "native_word_count": 19
+  },
+  "content": {
+    "full_text": "February 15, 1979\n\nMary Lou Rushing  \nOrange County Republican Central Committee  \n777 South Main Street, Suite 200  \nOrange, California 92668\n\nDear Mrs. Rushing:\n\nThis letter is to confirm my advice to you by telephone on January 30, 1979.\n\nYou stated that the Orange County Republican Central Committee has a youth group which calls itself, \"Youth Associates\". The sole purpose of this organization is to sponsor scholarships and does not have a policy of making political contributions nor raising funds for any political purpose. You asked if the \"Youth Associates\" would have to file campaign statements, since they held a fundraiser for the scholarships and had raised in excess of $500?\n\nGovernment Code Section 82015 of the Political Reform Act defines a contribution as a \"payment...unless it is clear from the surrounding circumstances that it is not made for political purposes.\" By regulation, the Commission defines the term \"political purposes\" in part, as payments for the purpose of influencing or attempting to influence the action of voters for or against the nomination or election of a candidate or candidates, or the qualification or passage of any measure. 2 Cal. Adm. Code Section 18215. Since Youth Associates raised funds solely for the purpose of providing scholarships and not to influence the action of voters, they will not qualify as a recipient committee under Government Code Section 82013.\n\nI have enclosed a copy of the FPPC regulation for your information. If our office can be of any further assistance please do not hesitate to contact us.\n\nSincerely,\n\nHelen P. Andino  \nSpecial Compliance Representative",
+    "full_text_markdown": "February 15, 1979\n\nMary Lou Rushing  \nOrange County Republican Central Committee  \n777 South Main Street, Suite 200  \nOrange, California 92668\n\nDear Mrs. Rushing:\n\nThis letter is to confirm my advice to you by telephone on January 30, 1979.\n\nYou stated that the Orange County Republican Central Committee has a youth group which calls itself, \"Youth Associates\". The sole purpose of this organization is to sponsor scholarships and does not have a policy of making political contributions nor raising funds for any political purpose. You asked if the \"Youth Associates\" would have to file campaign statements, since they held a fundraiser for the scholarships and had raised in excess of $500?\n\nGovernment Code Section 82015 of the Political Reform Act defines a contribution as a \"payment...unless it is clear from the surrounding circumstances that it is not made for political purposes.\" By regulation, the Commission defines the term \"political purposes\" in part, as payments for the purpose of influencing or attempting to influence the action of voters for or against the nomination or election of a candidate or candidates, or the qualification or passage of any measure. 2 Cal. Adm. Code Section 18215. Since Youth Associates raised funds solely for the purpose of providing scholarships and not to influence the action of voters, they will not qualify as a recipient committee under Government Code Section 82013.\n\nI have enclosed a copy of the FPPC regulation for your information. If our office can be of any further assistance please do not hesitate to contact us.\n\nSincerely,\n\nHelen P. Andino  \nSpecial Compliance Representative"
+  },
+  "parsed": {
+    "date": "1979-02-15",
+    "date_raw": "February 15, 1979",
+    "requestor_name": "Rushing",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "You asked if the \"Youth Associates\" would have to file campaign statements, since they held a fundraiser for the scholarships and had raised in excess of $500?",
+    "conclusion": "Since Youth Associates raised funds solely for the purpose of providing scholarships and not to influence the action of voters, they will not qualify as a recipient committee under Government Code Section 82013.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Must the Orange County Republican Central Committee's youth scholarship organization file campaign statements when it raises funds for scholarships exceeding $500?",
+    "conclusion_synthetic": "The Youth Associates organization does not need to file campaign statements because funds raised solely for scholarships do not constitute contributions for political purposes under the Political Reform Act.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Telephone advice confirmed in writing. No formal QUESTION or CONCLUSION section headers, but question and conclusion are clearly identifiable in body text. Citation to Government Code Section 82015 and 82013, and 2 Cal. Adm. Code Section 18215."
+  },
+  "citations": {
+    "government_code": [
+      "82013",
+      "82015"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T16:52:53.339120Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: You asked if the \"Youth Associates\" would have to file campaign statements, since they held a fundraiser for the scholarships and had raised in excess of $500?\n\nCONCLUSION: Since Youth Associates raised funds solely for the purpose of providing scholarships and not to influence the action of voters, they will not qualify as a recipient committee under Government Code Section 82013.",
+    "qa_source": "mixed",
+    "first_500_words": "February 15, 1979 Mary Lou Rushing Orange County Republican Central Committee 777 South Main Street, Suite 200 Orange, California 92668 Dear Mrs. Rushing: This letter is to confirm my advice to you by telephone on January 30, 1979. You stated that the Orange County Republican Central Committee has a youth group which calls itself, \"Youth Associates\". The sole purpose of this organization is to sponsor scholarships and does not have a policy of making political contributions nor raising funds for any political purpose. You asked if the \"Youth Associates\" would have to file campaign statements, since they held a fundraiser for the scholarships and had raised in excess of $500? Government Code Section 82015 of the Political Reform Act defines a contribution as a \"payment...unless it is clear from the surrounding circumstances that it is not made for political purposes.\" By regulation, the Commission defines the term \"political purposes\" in part, as payments for the purpose of influencing or attempting to influence the action of voters for or against the nomination or election of a candidate or candidates, or the qualification or passage of any measure. 2 Cal. Adm. Code Section 18215. Since Youth Associates raised funds solely for the purpose of providing scholarships and not to influence the action of voters, they will not qualify as a recipient committee under Government Code Section 82013. I have enclosed a copy of the FPPC regulation for your information. If our office can be of any further assistance please do not hesitate to contact us. Sincerely, Helen P. Andino Special Compliance Representative",
+    "summary": "FPPC confirms that the Orange County Republican Central Committee's Youth Associates scholarship organization does not qualify as a recipient committee and is not required to file campaign statements, as its fundraising is for non-political purposes."
+  }
+}

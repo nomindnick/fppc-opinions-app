@@ -1,0 +1,71 @@
+{
+  "id": "79-168",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-168.PDF",
+  "pdf_sha256": "2b8c6cf0b2917ef41ae8e43e47c78bea3f54d61419110dff218fc5e76acbd3fb",
+  "local_pdf_path": "raw_pdfs/1979/79-168.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1979 Advice Letter # 79-168",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:26:26",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=15"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T20:38:07.238738Z",
+    "page_count": 1,
+    "word_count": 98,
+    "char_count": 592,
+    "quality_score": 0.7745013698630137,
+    "olmocr_cost": 0.00245616,
+    "native_word_count": 84
+  },
+  "content": {
+    "full_text": "Employee time off - contribution\n\nPalmer Madden called with the following question:\n\nIf any employee is allowed (by an employer) to take time off to work on a campaign with the understanding that the employee will, at some future time, make up the time, is that employer making an in-kind contribution? Or, is it an in-kind loan? Or is it nothing?\n\nHe did cite a section of the Federal Elections Code which, evidently makes allowances for this type time off without any reporting obligation.\n\nAnswer: In-kind contribution unless this \"make-up\" procedure is a uniform policy for all employees.",
+    "full_text_markdown": "Employee time off - contribution\n\nPalmer Madden called with the following question:\n\nIf any employee is allowed (by an employer) to take time off to work on a campaign with the understanding that the employee will, at some future time, make up the time, is that employer making an in-kind contribution? Or, is it an in-kind loan? Or is it nothing?\n\nHe did cite a section of the Federal Elections Code which, evidently makes allowances for this type time off without any reporting obligation.\n\nAnswer: In-kind contribution unless this \"make-up\" procedure is a uniform policy for all employees."
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T20:38:07.238738Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "Employee time off - contribution Palmer Madden called with the following question: If any employee is allowed (by an employer) to take time off to work on a campaign with the understanding that the employee will, at some future time, make up the time, is that employer making an in-kind contribution? Or, is it an in-kind loan? Or is it nothing? He did cite a section of the Federal Elections Code which, evidently makes allowances for this type time off without any reporting obligation. Answer: In-kind contribution unless this \"make-up\" procedure is a uniform policy for all employees.",
+    "qa_source": "extracted",
+    "first_500_words": "Employee time off - contribution Palmer Madden called with the following question: If any employee is allowed (by an employer) to take time off to work on a campaign with the understanding that the employee will, at some future time, make up the time, is that employer making an in-kind contribution? Or, is it an in-kind loan? Or is it nothing? He did cite a section of the Federal Elections Code which, evidently makes allowances for this type time off without any reporting obligation. Answer: In-kind contribution unless this \"make-up\" procedure is a uniform policy for all employees.",
+    "summary": null
+  }
+}

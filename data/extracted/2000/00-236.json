@@ -1,0 +1,71 @@
+{
+  "id": "00-236",
+  "year": 2000,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2000/00-236.pdf",
+  "pdf_sha256": "61cfea8df9e421f4c44bd39d9b94304ec5752bb9e40398737cbfe012c8685642",
+  "local_pdf_path": "raw_pdfs/2000/00-236.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2000 Advice Letter # 00-236",
+    "tags": [
+      "2000",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 00:43:05",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2000&tagCount=1&page=13"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T22:42:52.710350Z",
+    "page_count": 1,
+    "word_count": 75,
+    "char_count": 486,
+    "quality_score": 0.7621900116482236,
+    "olmocr_cost": 0.00249056,
+    "native_word_count": 92
+  },
+  "content": {
+    "full_text": "October 23, 2000\n\nRobert B. Garcia\n629 J Street, Suite 500\nSacramento, CA 95814\n\nRe: Your Request for Advice\nOur File No. G-00-236\n\nDear Mr. Garcia:\n\nPursuant to our telephone conversation of October 19, 2000, you stated that no written response was required to your inquiry dated, October 13, 2000.\n\nIf you have any additional questions, please contact me at 916/322-5660.\n\nSincerely,\n\nLuisa Menchaca\nAssistant General Counsel\n\nBy: [signature]\nKevin S. Moen\nPolitical Reform Consultant",
+    "full_text_markdown": "October 23, 2000\n\nRobert B. Garcia\n629 J Street, Suite 500\nSacramento, CA 95814\n\nRe: Your Request for Advice\nOur File No. G-00-236\n\nDear Mr. Garcia:\n\nPursuant to our telephone conversation of October 19, 2000, you stated that no written response was required to your inquiry dated, October 13, 2000.\n\nIf you have any additional questions, please contact me at 916/322-5660.\n\nSincerely,\n\nLuisa Menchaca\nAssistant General Counsel\n\nBy: [signature]\nKevin S. Moen\nPolitical Reform Consultant"
+  },
+  "parsed": {
+    "date": "2000-10-23",
+    "date_raw": "October 23, 2000",
+    "requestor_name": "Garcia",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T22:42:52.710350Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "October 23, 2000 Robert B. Garcia 629 J Street, Suite 500 Sacramento, CA 95814 Re: Your Request for Advice Our File No. G-00-236 Dear Mr. Garcia: Pursuant to our telephone conversation of October 19, 2000, you stated that no written response was required to your inquiry dated, October 13, 2000. If you have any additional questions, please contact me at 916/322-5660. Sincerely, Luisa Menchaca Assistant General Counsel By: [signature] Kevin S. Moen Political Reform Consultant",
+    "qa_source": "extracted",
+    "first_500_words": "October 23, 2000 Robert B. Garcia 629 J Street, Suite 500 Sacramento, CA 95814 Re: Your Request for Advice Our File No. G-00-236 Dear Mr. Garcia: Pursuant to our telephone conversation of October 19, 2000, you stated that no written response was required to your inquiry dated, October 13, 2000. If you have any additional questions, please contact me at 916/322-5660. Sincerely, Luisa Menchaca Assistant General Counsel By: [signature] Kevin S. Moen Political Reform Consultant",
+    "summary": null
+  }
+}

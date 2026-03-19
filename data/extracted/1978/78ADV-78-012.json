@@ -1,0 +1,73 @@
+{
+  "id": "78ADV-78-012",
+  "year": 1978,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1978/78ADV-78-012.PDF",
+  "pdf_sha256": "c1418c661eba359945cd18f32cb0fa638be63c4bb20e8a6f98c6f90e402e558c",
+  "local_pdf_path": "raw_pdfs/1978/78ADV-78-012.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1978ADV Advice Letter # 78ADV-78-012",
+    "tags": [
+      "Advice Letter",
+      "1978"
+    ],
+    "scraped_at": "2026-01-31 15:24:35",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=24"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:10.756260Z",
+    "page_count": 2,
+    "word_count": 333,
+    "char_count": 2205,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 333
+  },
+  "content": {
+    "full_text": "Mr. Kirk A. Pessner \nDobbs and Nielson \nSuite 2500, The Alcoa Bu~lding \nOne Maritime Plaza \nSan Francisco, c&li~o%'llia 94111 \nDear Mr. Pessner: \nJuly 18, 1978 \nThank you for your letter of May 4, 1978, asking for confirmation \nof telephone advice I gave you on April 28. \nYou are correct that I advised you that guarantors/indemnitors \nof loans to candidate. or com.lttees do not become major donors \nsolely because of their agreements to guarantee or indemnify. \nBy Government Code Section 84210 (g) the recipient of the loan \nmust report the required identifying information for anyone \nliable • directly, indirectly or contingently· 'On the loan. \nIf the condition upon which performance of a guarantee or indem-\nnification agreement depends occurs, then the guarantor/indemni-\ntor would have a reporting obligation if his total contributions \nin the calendar year uaounted to $5000 or more. \nJG:bw \nSincerely, \nJohn Giansello \nPolitical Reform Analyst \n\n\ni l! \n.-.. \n..-\n..... ' \n.... \n\\ \n. \n¥,I~i 1 \nMr. John Giancello \nDOBBS & NIELSEN \nSUITE 2500, THE ALCOA BUILDING \nONE MARITIME PLAZA \nSAN FRANCISCO, CA 94111 \nTELEPHONE (4J5J 362~1940 \nMay 4, 1978 \nFair Political Practices Commission \n1100 K Street \nSacramento, California \n95814 \nRE: \nGuarantors/Indemnitors As Major Donors \nDear Mr. Giance11o: \nf l6ul r \nOn April 28, 1978 you advised me by telephone that \nguarantors/indemnitors of loans to political committees, in \nwhich the guarantee/indemnification is over $5,000.00, would \nnot be required to file Major Donor Statements pursuant to \nthe Political Reform Act. \nI understand that the loan and the names and addresses \nof all guarantors/indemnitors would appear on the campaign \ncommittee's filing, but that the guarantor/indemnitor would \nnot have to file Major Donor Statements until such time as \nthe Committee defaulted on the loan and the guarantor/indemnitor \nactually made a cash or cash equivalent contribution of $5,000.00 \nor more to the campaign. \nPlease advise me in writing if the foregoing information \nis correct1y.stated. \nKAP:ram \nKind regards, \nKIRK ALAN PESSNER \nParalegal. \nSACRAMENTO OFFICE - SUITE 544, 1127 ELEVENTH STREET, SACRAMENTO, CA 95814 \n• \n(916) 446-6752 \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1978-07-18",
+    "date_raw": "July 18, 1978",
+    "requestor_name": "Pessner",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "On April 28, 1978 you advised me by telephone that guarantors/indemnitors of loans to political committees, in which the guarantee/indemnification is over $5,000.00, would not be required to file Major Donor Statements pursuant to the Political Reform Act. I understand that the loan and the names and addresses of all guarantors/indemnitors would appear on the campaign committee's filing, but that the guarantor/indemnitor would not have to file Major Donor Statements until such time as the Committee defaulted on the loan and the guarantor/indemnitor actually made a cash or cash equivalent contribution of $5,000.00 or more to the campaign. Please advise me in writing if the foregoing information is correctly stated.",
+    "conclusion": "You are correct that I advised you that guarantors/indemnitors of loans to candidate or committees do not become major donors solely because of their agreements to guarantee or indemnify. By Government Code Section 84210 (g) the recipient of the loan must report the required identifying information for anyone liable • directly, indirectly or contingently · on the loan. If the condition upon which performance of a guarantee or indemnification agreement depends occurs, then the guarantor/indemni-tor would have a reporting obligation if his total contributions in the calendar year amounted to $5000 or more.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Do guarantors or indemnitors of loans to political committees become major donors solely by virtue of guaranteeing or indemnifying loans over $5,000, and are they required to file Major Donor Statements under the Political Reform Act?",
+    "conclusion_synthetic": "Guarantors and indemnitors do not become major donors solely by guaranteeing or indemnifying loans. However, the loan recipient must report identifying information for anyone contingently liable on the loan. If the guarantee/indemnity is triggered and the guarantor's total contributions reach $5,000 or more in a calendar year, they then have a reporting obligation.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document consists of both the incoming request letter (May 4, 1978) and the FPPC response letter (July 18, 1978). Extracted question and conclusion from both. The FPPC response explicitly confirms the questioner's understanding of prior telephone advice."
+  },
+  "citations": {
+    "government_code": [
+      "84210(g)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:37:10.756260Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: On April 28, 1978 you advised me by telephone that guarantors/indemnitors of loans to political committees, in which the guarantee/indemnification is over $5,000.00, would not be required to file Major Donor Statements pursuant to the Political Reform Act. I understand that the loan and the names and addresses of all guarantors/indemnitors would appear on the campaign committee's filing, but that the guarantor/indemnitor would not have to file Major Donor Statements until such time as the Committee defaulted on the loan and the guarantor/indemnitor actually made a cash or cash equivalent contribution of $5,000.00 or more to the campaign. Please advise me in writing if the foregoing information is correctly stated.\n\nCONCLUSION: You are correct that I advised you that guarantors/indemnitors of loans to candidate or committees do not become major donors solely because of their agreements to guarantee or indemnify. By Government Code Section 84210 (g) the recipient of the loan must report the required identifying information for anyone liable • directly, indirectly or contingently · on the loan. If the condition upon which performance of a guarantee or indemnification agreement depends occurs, then the guarantor/indemni-tor would have a reporting obligation if his total contributions in the calendar year amounted to $5000 or more.",
+    "qa_source": "mixed",
+    "first_500_words": "Mr. Kirk A. Pessner Dobbs and Nielson Suite 2500, The Alcoa Bu~lding One Maritime Plaza San Francisco, c&li~o%'llia 94111 Dear Mr. Pessner: July 18, 1978 Thank you for your letter of May 4, 1978, asking for confirmation of telephone advice I gave you on April 28. You are correct that I advised you that guarantors/indemnitors of loans to candidate. or com.lttees do not become major donors solely because of their agreements to guarantee or indemnify. By Government Code Section 84210 (g) the recipient of the loan must report the required identifying information for anyone liable • directly, indirectly or contingently· 'On the loan. If the condition upon which performance of a guarantee or indem- nification agreement depends occurs, then the guarantor/indemni- tor would have a reporting obligation if his total contributions in the calendar year uaounted to $5000 or more. JG:bw Sincerely, John Giansello Political Reform Analyst i l! .-.. ..- ..... ' .... \\ . ¥,I~i 1 Mr. John Giancello DOBBS & NIELSEN SUITE 2500, THE ALCOA BUILDING ONE MARITIME PLAZA SAN FRANCISCO, CA 94111 TELEPHONE (4J5J 362~1940 May 4, 1978 Fair Political Practices Commission 1100 K Street Sacramento, California 95814 RE: Guarantors/Indemnitors As Major Donors Dear Mr. Giance11o: f l6ul r On April 28, 1978 you advised me by telephone that guarantors/indemnitors of loans to political committees, in which the guarantee/indemnification is over $5,000.00, would not be required to file Major Donor Statements pursuant to the Political Reform Act. I understand that the loan and the names and addresses of all guarantors/indemnitors would appear on the campaign committee's filing, but that the guarantor/indemnitor would not have to file Major Donor Statements until such time as the Committee defaulted on the loan and the guarantor/indemnitor actually made a cash or cash equivalent contribution of $5,000.00 or more to the campaign. Please advise me in writing if the foregoing information is correct1y.stated. KAP:ram Kind regards, KIRK ALAN PESSNER Paralegal. SACRAMENTO OFFICE - SUITE 544, 1127 ELEVENTH STREET, SACRAMENTO, CA 95814 • (916) 446-6752",
+    "summary": "The FPPC confirms prior telephone advice that guarantors/indemnitors of political loans do not automatically become major donors. They only have reporting obligations if the guarantee is triggered and their total contributions reach $5,000 or more in a calendar year."
+  }
+}

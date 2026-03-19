@@ -1,0 +1,72 @@
+{
+  "id": "82A044",
+  "year": 1982,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1982/82A044.PDF",
+  "pdf_sha256": "9af4af817829824ee17d788080b1b782dbc92fe88ab44414de3565b48a48d4fc",
+  "local_pdf_path": "raw_pdfs/1982/82A044.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1982 Advice Letter # 82A044",
+    "tags": [
+      "1982",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:30:05",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1982&tagCount=1&page=7"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-27T18:14:20.516103Z",
+    "page_count": 1,
+    "word_count": 77,
+    "char_count": 1704,
+    "quality_score": 0.18904025974025968,
+    "olmocr_cost": 0.0026032200000000003,
+    "native_word_count": 92,
+    "haiku_cost": 0.002216
+  },
+  "content": {
+    "full_text": "TO: [ ]JEANNE      [ ]JAY                                    TA-83-044\n     [ ]LYNN         [ ]BARBARA              FROM:_____________\n     [ ]RICH         [ ]BOB S.\n     [ ]HELEN        [ ]OTHER___________     DATE:_____________\n\n[ ]TELEPHONE ADVICE - SEE BELOW\n\n[ ]CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT\n     (IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY)\n\n     FILE LOCATION:________________________________\n\n     INCLUDE IN ADVICE PACKAGE:        YES [ ]        NO [ ]\n\n     ________________________________________________________________\n\n     CALLER____________________________________\n\n     REPRESENTING_____________________________________\n\n     PHONE NUMBER:_____________________________\n\n\nQUESTION: __________________________________________________________________\n     ________________________________________________________________\n     ________________________________________________________________\n     ________________________________________________________________\n     ________________________________________________________________\n\nANSWER:  ________________________________________________________________\n     ________________________________________________________________\n     ________________________________________________________________\n     ________________________________________________________________\n     ________________________________________________________________\n     ________________________________________________________________\n     ________________________________________________________________\n     ________________________________________________________________\n     ________________________________________________________________",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1978-12-04",
+    "date_raw": "12/4/78",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Mr. McFerrick purchased a ticket to the Brown for Senate fundraiser. Is this a reportable item on Mr. McFerrick's lobbyist statement since it is a contribution to a federal committee?\n\nANSWER: Regulation 18G16 (d)(1)(A) states that \"All monetary & non-monetary contributions of $25 or more made from the lobbyist's personal funds to state candidates, elected state officers, & committees supporting such candidates\" shall be reported on the lobbyist's report. Brown is an elected state officer & will be at least until the end of 1982 so contributions to any committees under",
+    "conclusion": "Regulation 18G16 (d)(1)(A) states that \"All monetary & non-monetary contributions of $25 or more made from the lobbyist's personal funds to state candidates, elected state officers, & committees supporting such candidates\" shall be reported on the lobbyist's report. Brown is an elected state officer & will be at least until the end of 1982 so contributions to any committees under",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a lobbyist's purchase of a ticket to a fundraiser for an elected state officer's federal campaign committee constitutes a reportable contribution on the lobbyist's statement.",
+    "conclusion_synthetic": "The contribution is reportable under Regulation 18G16(d)(1)(A) because Brown is an elected state officer, and contributions of $25 or more from a lobbyist's personal funds to committees supporting such officers must be reported on the lobbyist's statement.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.75,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern; LLM: Document appears to be internal FPPC routing memo with embedded advice letter content. Conclusion section is incomplete/cut off. Date discrepancy: memo dated 12/4/78 but document header indicates 1982. Respondent names and routing information suggest this is pre-advice review stage."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T16:27:18.148038Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Mr. McFerrick purchased a ticket to the Brown for Senate fundraiser. Is this a reportable item on Mr. McFerrick's lobbyist statement since it is a contribution to a federal committee?\n\nANSWER: Regulation 18G16 (d)(1)(A) states that \"All monetary & non-monetary contributions of $25 or more made from the lobbyist's personal funds to state candidates, elected state officers, & committees supporting such candidates\" shall be reported on the lobbyist's report. Brown is an elected state officer & will be at least until the end of 1982 so contributions to any committees under\n\nCONCLUSION: Regulation 18G16 (d)(1)(A) states that \"All monetary & non-monetary contributions of $25 or more made from the lobbyist's personal funds to state candidates, elected state officers, & committees supporting such candidates\" shall be reported on the lobbyist's report. Brown is an elected state officer & will be at least until the end of 1982 so contributions to any committees under",
+    "qa_source": "mixed",
+    "first_500_words": "TO: [ ] JEANNE [ ] JAY FROM: LYNN [ ] LYNN [X] BARBARA DATE: 12/4/78 [ ] RICH [X] BOB S. [ ] HELEN [ ] OTHER Bob L. Ecker [ ] TELEPHONE ADVICE - SEE BELOW [ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT (IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY) FILE LOCATION: /8616 INCLUDE IN ADVICE PACKAGE: YES [ ] NO [ ] CALLER Rose REPRESENTING Lobbyist Preston H. Ferrick PHONE NUMBER: 4447-4413 QUESTION: Mr. McFerrick purchased a ticket to the Brown for Senate fundraiser. Is this a reportable item on Mr. McFerrick's lobbyist statement since it is a contribution to a federal committee? ANSWER: Regulation 18G16 (d)(1)(A) states that \"All monetary & non-monetary contributions of $25 or more made from the lobbyist's personal funds to state candidates, elected state officers, & committees supporting such candidates\" shall be reported on the lobbyist's report. Brown is an elected state officer & will be at least until the end of 1982 so contributions to any committees under",
+    "summary": "Internal FPPC memo regarding whether a lobbyist's purchase of a ticket to a fundraiser for an elected state officer's campaign committee constitutes a reportable contribution under lobbying disclosure rules."
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "78ADV-78-154",
+  "year": 1978,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1978/78ADV-78-154.PDF",
+  "pdf_sha256": "7e8350bf9833a6aebc9e3dd985c83fbcc690d7d2306b8e666f7e1e6a8db2a0f8",
+  "local_pdf_path": "raw_pdfs/1978/78ADV-78-154.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1978ADV Advice Letter # 78ADV-78-154",
+    "tags": [
+      "Advice Letter",
+      "1978"
+    ],
+    "scraped_at": "2026-01-31 15:24:31",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=23"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-27T16:38:26.662865Z",
+    "page_count": 1,
+    "word_count": 253,
+    "char_count": 1596,
+    "quality_score": 0.8848487537585782,
+    "olmocr_cost": 0.0046139,
+    "native_word_count": 278,
+    "haiku_cost": 0.0027832000000000004
+  },
+  "content": {
+    "full_text": "State of California\n\nMemorandum\n\nTo : [illegible]                                    Date: November 21, 1 9 [illegible]\n\nFrom : FAIR POLITICAL PRACTICES COMMISSION\n       Overlight\n\nSubject: Real Estate Salesperson's Income of the Seller to Buyer\n\nThe following question was posed to the city attorney of\nBlue Lake, Richard Harris, regarding the source of income of a\nreal estate salesperson. To whom does a real estate salesperson\nperson attribute his/her income if:\n\n1) Each individual, the seller and buyer, are both\n   represented to their individual salesperson.\n\n2) If one real estate salesperson represents both\n   the seller and buyer when handling the sale\n   of a piece of real estate.\n\nThe advice rendered to Mr. Harris is the following. With\nrespect to a seller and buyer who are represented by their own\nreal estate agent, the real estate salesperson's source of income\nshall be attributed to his source which is represented in the\ntransaction. Therefore, the real estate person who represented\nthe seller shall list the seller as his/her source of income;\nand the real estate salesperson representing the buyer shall\nattribute his/her income to the buyer.\n\nWith respect to the second transaction where the real estate\nagent represents both the seller and the buyer, the salesperson's\nsource of income is both the seller and buyer on an equally\nproportionate basis. However, if the amount attributed allow\nfor a 6% commission or for out of the real estate sale to go\nto the salesperson handling the transaction, then it shall be\nattributed to the buyer and it to the seller.\n\n\nDFD:rw",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": "city attorney",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "The following question was posed by the city attorney of Blue Lake, Richard Pratt, regarding the source of income of a real estate salesperson. To whom does the real estate salesperson attribute his/her income?\n\n1) Each individual, the seller and buyer, are both represented by their individual salesperson.\n\n2) If one real estate salesperson represents both the seller and buyer when finalizing the sale of a piece of real estate.",
+    "conclusion": "With respect to a seller and buyer who are represented by their own real estate agent, the real estate salesperson's source of income shall be attributed to the source which he/she represented in the transaction. Therefore, the real estate person who represented the seller shall list the seller as his/her source of income; and the real estate salesperson representing the buyer shall attribute his/her income to the buyer.\n\nWith respect to the second transaction where the real estate agent represents both the seller and the buyer, the salesperson's source of income is both the seller and buyer on an equally proportionate basis. Therefore, if the standard agreement allows for a 6% commission coming out of the real estate sale to go to the salesperson handling the transaction, then 3% shall be attributed to the buyer and 3% to the seller.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "How should a real estate salesperson attribute their source of income when they represent either separate clients (seller and buyer) or both parties in a single transaction?",
+    "conclusion_synthetic": "When representing separate parties, each salesperson should attribute income to their respective client. When representing both parties, income should be attributed equally and proportionately to both the seller and buyer.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is dated 1968 but labeled 78ADV-78-154 (suggesting 1978 processing). Memo format rather than standard letter format. Question and conclusion sections are clearly identifiable despite no explicit headers. FPPC response is evident from the 'advice rendered' language."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T16:58:58.814683Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The following question was posed by the city attorney of Blue Lake, Richard Pratt, regarding the source of income of a real estate salesperson. To whom does the real estate salesperson attribute his/her income?\n\n1) Each individual, the seller and buyer, are both represented by their individual salesperson.\n\n2) If one real estate salesperson represents both the seller and buyer when finalizing the sale of a piece of real estate.\n\nCONCLUSION: With respect to a seller and buyer who are represented by their own real estate agent, the real estate salesperson's source of income shall be attributed to the source which he/she represented in the transaction. Therefore, the real estate person who represented the seller shall list the seller as his/her source of income; and the real estate salesperson representing the buyer shall attribute his/her income to the buyer.\n\nWith respect to the second transaction where the real estate agent represents both the seller and the buyer, the salesperson's source of income is both the seller and buyer on an equally proportionate basis. Therefore, if the standard agreement allows for a 6% commission coming out of the real estate sale to go to the salesperson handling the transaction, then 3% shall be attributed to the buyer and 3% to the seller.",
+    "qa_source": "mixed",
+    "first_500_words": "**Memorandum** **To:** File **Date:** November 21, 1968 **From:** FAIR POLITICAL PRACTICES COMMISSION Dwight **Subject:** Real Estate Salesperson's Source of Income - Seller v. Buyer The following question was posed by the city attorney of Blue Lake, Richard Pratt, regarding the source of income of a real estate salesperson. To whom does the real estate salesperson attribute his/her income? 1) Each individual, the seller and buyer, are both represented by their individual salesperson. 2) If one real estate salesperson represents both the seller and buyer when finalizing the sale of a piece of real estate. The advice rendered to Mr. Pratt is as follows. With respect to a seller and buyer who are represented by their own real estate agent, the real estate salesperson's source of income shall be attributed to the source which he/she represented in the transaction. Therefore, the real estate person who represented the seller shall list the seller as his/her source of income; and the real estate salesperson representing the buyer shall attribute his/her income to the buyer. With respect to the second transaction where the real estate agent represents both the seller and the buyer, the salesperson's source of income is both the seller and buyer on an equally proportionate basis. Therefore, if the standard agreement allows for a 6% commission coming out of the real estate sale to go to the salesperson handling the transaction, then 3% shall be attributed to the buyer and 3% to the seller.",
+    "summary": "The FPPC advises Blue Lake's city attorney that real estate salespersons must attribute their income sources based on whom they represent: to individual clients when representing one party, or equally split between seller and buyer when representing both parties in a transaction."
+  }
+}

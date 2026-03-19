@@ -1,0 +1,71 @@
+{
+  "id": "78ADV-78-241",
+  "year": 1978,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1978/78ADV-78-241.PDF",
+  "pdf_sha256": "3f70ffaded262c32207d8ac06f581c186f1ba3453702c2932cdeb4f63ddfa216",
+  "local_pdf_path": "raw_pdfs/1978/78ADV-78-241.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1978ADV Advice Letter # 78ADV-78-241",
+    "tags": [
+      "Advice Letter",
+      "1978"
+    ],
+    "scraped_at": "2026-01-31 15:23:34",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=10"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-07T16:56:43.216428Z",
+    "page_count": 1,
+    "word_count": 174,
+    "char_count": 1069,
+    "quality_score": 0.6325000000000001,
+    "olmocr_cost": 0.00256452,
+    "native_word_count": 20
+  },
+  "content": {
+    "full_text": "February 22, 1978\n\nBarbara Campbell, Esq.\nLEGAL DEPARTMENT\nFair Political Practice Commission\nPost Office Box 807\nSacramento, California 95804\n\nDear Ms. Campbell:\n\nIt is my understanding that pursuant to a telephone conversation with Mr. Burns of San Diego Gas and Electric Company, it will not be necessary for my client to file any statement under Proposition 9 with the following facts.\n\nSan Diego Gas and Electric Company will make one or more lump sum payments to my client, an Advertising Agency. These funds will be used in turn by my client for lobbying activities such as advertising and public relations. San Diego Gas and Electric will fully report the payments made. Under these facts it will not be necessary for my client to file any statement pursuant to Proposition 9 as codified in the California Government Code. If you concur, please sign below where indicated and return this letter to me.\n\nThank you in advance for your cooperation.\n\nSincerely,\n\nA. DAVID STUTZ\nAttorney at Law\n\nADS:tlr\nencls.\n\nConcurred to:\n\nBarbara Campbell\nBARBARA CAMPBELL, ESQ.",
+    "full_text_markdown": "February 22, 1978\n\nBarbara Campbell, Esq.\nLEGAL DEPARTMENT\nFair Political Practice Commission\nPost Office Box 807\nSacramento, California 95804\n\nDear Ms. Campbell:\n\nIt is my understanding that pursuant to a telephone conversation with Mr. Burns of San Diego Gas and Electric Company, it will not be necessary for my client to file any statement under Proposition 9 with the following facts.\n\nSan Diego Gas and Electric Company will make one or more lump sum payments to my client, an Advertising Agency. These funds will be used in turn by my client for lobbying activities such as advertising and public relations. San Diego Gas and Electric will fully report the payments made. Under these facts it will not be necessary for my client to file any statement pursuant to Proposition 9 as codified in the California Government Code. If you concur, please sign below where indicated and return this letter to me.\n\nThank you in advance for your cooperation.\n\nSincerely,\n\nA. DAVID STUTZ\nAttorney at Law\n\nADS:tlr\nencls.\n\nConcurred to:\n\nBarbara Campbell\nBARBARA CAMPBELL, ESQ."
+  },
+  "parsed": {
+    "date": "1978-02-22",
+    "date_raw": "February 22, 1978",
+    "requestor_name": "Campbell",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Does a lobbying advertising agency that receives lump sum payments from San Diego Gas and Electric Company need to file a statement under Proposition 9 (California's Political Reform Act) if the utility company fully reports the payments?",
+    "conclusion_synthetic": "The FPPC concurred that the advertising agency does not need to file a statement under Proposition 9 when receiving lump sum payments from San Diego Gas and Electric Company for lobbying activities, provided the utility company fully reports the payments made.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an incoming request letter signed for concurrence by FPPC. No formal question/conclusion sections present; question and conclusion derived from letter content. FPPC response indicated by signature of concurrence by Barbara Campbell, ESQ."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T16:56:43.216428Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Does a lobbying advertising agency that receives lump sum payments from San Diego Gas and Electric Company need to file a statement under Proposition 9 (California's Political Reform Act) if the utility company fully reports the payments?\n\nCONCLUSION: The FPPC concurred that the advertising agency does not need to file a statement under Proposition 9 when receiving lump sum payments from San Diego Gas and Electric Company for lobbying activities, provided the utility company fully reports the payments made.",
+    "qa_source": "synthetic",
+    "first_500_words": "February 22, 1978 Barbara Campbell, Esq. LEGAL DEPARTMENT Fair Political Practice Commission Post Office Box 807 Sacramento, California 95804 Dear Ms. Campbell: It is my understanding that pursuant to a telephone conversation with Mr. Burns of San Diego Gas and Electric Company, it will not be necessary for my client to file any statement under Proposition 9 with the following facts. San Diego Gas and Electric Company will make one or more lump sum payments to my client, an Advertising Agency. These funds will be used in turn by my client for lobbying activities such as advertising and public relations. San Diego Gas and Electric will fully report the payments made. Under these facts it will not be necessary for my client to file any statement pursuant to Proposition 9 as codified in the California Government Code. If you concur, please sign below where indicated and return this letter to me. Thank you in advance for your cooperation. Sincerely, A. DAVID STUTZ Attorney at Law ADS:tlr encls. Concurred to: Barbara Campbell BARBARA CAMPBELL, ESQ.",
+    "summary": "An attorney requested FPPC confirmation that his client, an advertising agency receiving lump sum payments from San Diego Gas and Electric Company for lobbying activities, would not need to file a Proposition 9 statement if the utility company fully reported the payments. The FPPC concurred with this interpretation."
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "76071",
+  "year": 1976,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1976/76071.PDF",
+  "pdf_sha256": "1a3cd10c1ff9d7425d87423f3afc8fc68a576ca832c930ab9151f14a9a0cd90e",
+  "local_pdf_path": "raw_pdfs/1976/76071.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1976 Advice Letter # 76071",
+    "tags": [
+      "1976",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:14:48",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1976&tagCount=1&page=3"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:16.956786Z",
+    "page_count": 2,
+    "word_count": 224,
+    "char_count": 1376,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 224
+  },
+  "content": {
+    "full_text": "u \nE \nBe \nI \nEvaluation \nof Finance \nStern \n\n\nState of California \nIf Memorandum \nDate \n: November 8, 1976 \nTo \nRobert Stern, Chief Counsel \n1100 K Street \nP.O. Box 807 \nSacramento, CA 95814 \nFrom: DepartmentofFinance--Program Evaluation \nSubject: Audi ts Mandated by § 90001 Government Code \nAt the request of the Joint Legislative Budget Committee we are engaged \nin an evaluation of the audit workload mandated by the Political Reform \nAct of 1974. \nAn opinion from your office concerning the following questions will \nassist us in reaching conclusions about audit program activity. \n1. \nIs an unopposed candidate for Judge of the Superior Court whose name \ndoes not appear on either the primary or general election ballot \npursuant to § 25304 of the Elections Code considered to be a candi-\ndate for the purposes of § 90001(b) of the Government Code? \n2. \nIs an opposed candidate for Judge of the Superior Court who is \ndeclared the winner based on the results of the primary election \nconsidered to be a candidate for the purposes of Government Code \n§ 90001(b)? \n3. \nMust \"expenditures and contributions\" for purposes of Government \nCode § 82013(b) exceed $500 or more in other than cash, checks \nand other cash equivalents in order for an entity to be considered \na committee for purposes of that section? \nThank you for your assistance. \nBERNARD P. \nProgram Evaluati \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1976-11-08",
+    "date_raw": "November 8, 1976",
+    "requestor_name": null,
+    "requestor_title": "Chief Counsel",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "1. Is an unopposed candidate for Judge of the Superior Court whose name does not appear on either the primary or general election ballot pursuant to § 25304 of the Elections Code considered to be a candidate for the purposes of § 90001(b) of the Government Code?\n\n2. Is an opposed candidate for Judge of the Superior Court who is declared the winner based on the results of the primary election considered to be a candidate for the purposes of Government Code § 90001(b)?\n\n3. Must \"expenditures and contributions\" for purposes of Government Code § 82013(b) exceed $500 or more in other than cash, checks and other cash equivalents in order for an entity to be considered a committee for purposes of that section?",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The Department of Finance seeks clarification on whether unopposed and opposed judicial candidates meet the definition of 'candidate' under Government Code § 90001(b), and whether expenditures and contributions must exceed $500 in non-cash forms to constitute a committee under § 82013(b).",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an incoming request from the Department of Finance to the Chief Counsel's office, not an FPPC response. The document contains three specific legal questions but no section headers or conclusion/answer section. Document appears to be a request for opinion rather than advice being given."
+  },
+  "citations": {
+    "government_code": [
+      "82013(b)",
+      "90001",
+      "90001(b)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.6666666666666666,
+    "classified_at": "2026-02-06T18:37:16.956786Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: 1. Is an unopposed candidate for Judge of the Superior Court whose name does not appear on either the primary or general election ballot pursuant to § 25304 of the Elections Code considered to be a candidate for the purposes of § 90001(b) of the Government Code?\n\n2. Is an opposed candidate for Judge of the Superior Court who is declared the winner based on the results of the primary election considered to be a candidate for the purposes of Government Code § 90001(b)?\n\n3. Must \"expenditures and contributions\" for purposes of Government Code § 82013(b) exceed $500 or more in other than cash, checks and other cash equivalents in order for an entity to be considered a committee for purposes of that section?",
+    "qa_source": "mixed",
+    "first_500_words": "u E Be I Evaluation of Finance Stern State of California If Memorandum Date : November 8, 1976 To Robert Stern, Chief Counsel 1100 K Street P.O. Box 807 Sacramento, CA 95814 From: DepartmentofFinance--Program Evaluation Subject: Audi ts Mandated by § 90001 Government Code At the request of the Joint Legislative Budget Committee we are engaged in an evaluation of the audit workload mandated by the Political Reform Act of 1974. An opinion from your office concerning the following questions will assist us in reaching conclusions about audit program activity. 1. Is an unopposed candidate for Judge of the Superior Court whose name does not appear on either the primary or general election ballot pursuant to § 25304 of the Elections Code considered to be a candi- date for the purposes of § 90001(b) of the Government Code? 2. Is an opposed candidate for Judge of the Superior Court who is declared the winner based on the results of the primary election considered to be a candidate for the purposes of Government Code § 90001(b)? 3. Must \"expenditures and contributions\" for purposes of Government Code § 82013(b) exceed $500 or more in other than cash, checks and other cash equivalents in order for an entity to be considered a committee for purposes of that section? Thank you for your assistance. BERNARD P. Program Evaluati",
+    "summary": "A memorandum from the California Department of Finance's Program Evaluation division requests legal opinions from the Chief Counsel regarding the audit workload mandated by the Political Reform Act of 1974, specifically concerning candidate definitions and committee formation thresholds under Government Code sections 90001 and 82013."
+  }
+}

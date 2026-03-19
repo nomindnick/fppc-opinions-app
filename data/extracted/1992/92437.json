@@ -1,0 +1,71 @@
+{
+  "id": "92437",
+  "year": 1992,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1992/92437.pdf",
+  "pdf_sha256": "793a794bc671fd20a0c7117d6fb7925a46bd0135df3cd3b2fbe780349e5c8fe2",
+  "local_pdf_path": "raw_pdfs/1992/92437.pdf",
+  "source_metadata": {
+    "title_raw": "Miller, Martin Year: 1992 Advice Letter # 92437",
+    "tags": [
+      "Advice Letter",
+      "1992"
+    ],
+    "scraped_at": "2026-01-31 16:29:15",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1992&tagCount=1&page=86"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:19.252643Z",
+    "page_count": 1,
+    "word_count": 234,
+    "char_count": 1424,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 234
+  },
+  "content": {
+    "full_text": "14865 Panoche Road\nPaicines, CA 95043\nJuly 28, 1992\nThe Fair Political Practices Commission\n428 J Street, Suite 800\nSacramento, CA 95814\nr-fC\njus c i $92\n*,-;-'YED\nDear Sirs:\nThe Willow Grove Union School District is a small rural school district located in\nPaicines, California. Since this area is sparsely populated and our non-certif icated\nstaff is hired locally, it is difficult to find board members that are free ot any potential\nconflict of interest.\nThe San Benito County Grand Jury requested that Several rural schools explore the\npossibility that they are in violation ot the rules governing contlicts of interest. Willow\nGrove was one of those districts, as we have a board member whose wife is employed\nby the district. County Counsel rendered the opinion that since the initial employment\nby the district began two years prior to the husband's election to the board of trustees a\nconflict of interest does not exist in this case. However, County Counsel was\nconcerned about a potential conflict of interest involving our budgetary process. We\nask for an opinion trom your commission regarding the propriety of the husband voting\non a budget that includes his wife's wages. Also we would ask for your suggestions as\nto actions necessary to eliminate any conflict of interest.\nThank you for your help with this matter.\nSincerely yours,\n4*A6.?4L\nMartin B. Miller, President\nWillow Grove Union School Board\nMBM/ba\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1992-07-28",
+    "date_raw": "July 28, 1992",
+    "requestor_name": "Miller",
+    "requestor_title": "County Counsel",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "We ask for an opinion from your commission regarding the propriety of the husband voting on a budget that includes his wife's wages. Also we would ask for your suggestions as to actions necessary to eliminate any conflict of interest.",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "May a school board member vote on a budget that includes compensation for his wife who is employed by the district, and what actions are necessary to eliminate any potential conflict of interest?",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an incoming request letter to FPPC, not an FPPC response. No conclusion or advice section present. The letter clearly states the factual situation and poses specific questions seeking FPPC opinion. Document has informal structure without typical Q&A headers."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:35:19.252643Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: We ask for an opinion from your commission regarding the propriety of the husband voting on a budget that includes his wife's wages. Also we would ask for your suggestions as to actions necessary to eliminate any conflict of interest.",
+    "qa_source": "mixed",
+    "first_500_words": "14865 Panoche Road Paicines, CA 95043 July 28, 1992 The Fair Political Practices Commission 428 J Street, Suite 800 Sacramento, CA 95814 r-fC jus c i $92 *,-;-'YED Dear Sirs: The Willow Grove Union School District is a small rural school district located in Paicines, California. Since this area is sparsely populated and our non-certif icated staff is hired locally, it is difficult to find board members that are free ot any potential conflict of interest. The San Benito County Grand Jury requested that Several rural schools explore the possibility that they are in violation ot the rules governing contlicts of interest. Willow Grove was one of those districts, as we have a board member whose wife is employed by the district. County Counsel rendered the opinion that since the initial employment by the district began two years prior to the husband's election to the board of trustees a conflict of interest does not exist in this case. However, County Counsel was concerned about a potential conflict of interest involving our budgetary process. We ask for an opinion trom your commission regarding the propriety of the husband voting on a budget that includes his wife's wages. Also we would ask for your suggestions as to actions necessary to eliminate any conflict of interest. Thank you for your help with this matter. Sincerely yours, 4*A6.?4L Martin B. Miller, President Willow Grove Union School Board MBM/ba",
+    "summary": "Willow Grove Union School District requests FPPC guidance on whether a board member may vote on budgets containing his wife's wages as a district employee, following a Grand Jury inquiry into potential conflicts of interest."
+  }
+}

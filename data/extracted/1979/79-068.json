@@ -1,0 +1,73 @@
+{
+  "id": "79-068",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-068.PDF",
+  "pdf_sha256": "46a7f8e00c8b77f9c029e924794211b47c706efc5e068a5556d619c443a93dbe",
+  "local_pdf_path": "raw_pdfs/1979/79-068.PDF",
+  "source_metadata": {
+    "title_raw": "WARNER, BEVERLY Year: 1979 Advice Letter # 79-068",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:25:28",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=2"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-07T16:41:49.138734Z",
+    "page_count": 2,
+    "word_count": 231,
+    "char_count": 1465,
+    "quality_score": 0.6799999999999999,
+    "olmocr_cost": 0.0050275599999999995,
+    "native_word_count": 88
+  },
+  "content": {
+    "full_text": "May 21, 1979\n\nBeverly A. Warner  \nDeputy Registrar of Voters  \n1300 South Grand Avenue  \nSanta Ana, California 92705\n\nDear Ms. Warner:\n\nIn response to your letter dated April 19, 1979, this letter will confirm the advice I provided you during our telephone conversation on May 21, 1979.\n\nYou asked if the recipient of a contribution of $100 or more may identify the address of the contributor by post office box rather than street address.\n\nPursuant to Government Code Section 84210(g), I advised you that when the contributor has a street address, it must be identified. However, if the contributor does not have a street address, then the post office box or other appropriate address of the contributor may be used.\n\nIf you have further questions, please contact me.\n\nSincerely,\n\nJOHN C. GREENWOOD  \nProgram Coordinator\n\nJCG:mak\n\nApril 19, 1979\n\nTechnical Assistance & Analysis Division  \nFair Political Practices Commission  \n1100 K Street Building  \nSacramento, California 95814\n\nDear Sirs:\n\nMay we have a written opinion regarding the following question:\n\nMay a candidate or committee report the name of an individual contributor on schedule A of their campaign statement by name and post office box number?\n\nExample: John Jones    Retired    $100.00  \nP. O. Box 123  \nSanta Ana, CA\n\nIf there is a question regarding this matter please call 714-834-2269.\n\nVery truly yours,\n\nREGISTRAR OF VOTERS  \nCounty of Orange\n\nBy [signature] Beverly A Warner  \nDeputy  \nbw",
+    "full_text_markdown": "May 21, 1979\n\nBeverly A. Warner  \nDeputy Registrar of Voters  \n1300 South Grand Avenue  \nSanta Ana, California 92705\n\nDear Ms. Warner:\n\nIn response to your letter dated April 19, 1979, this letter will confirm the advice I provided you during our telephone conversation on May 21, 1979.\n\nYou asked if the recipient of a contribution of $100 or more may identify the address of the contributor by post office box rather than street address.\n\nPursuant to Government Code Section 84210(g), I advised you that when the contributor has a street address, it must be identified. However, if the contributor does not have a street address, then the post office box or other appropriate address of the contributor may be used.\n\nIf you have further questions, please contact me.\n\nSincerely,\n\nJOHN C. GREENWOOD  \nProgram Coordinator\n\nJCG:mak\n\nApril 19, 1979\n\nTechnical Assistance & Analysis Division  \nFair Political Practices Commission  \n1100 K Street Building  \nSacramento, California 95814\n\nDear Sirs:\n\nMay we have a written opinion regarding the following question:\n\nMay a candidate or committee report the name of an individual contributor on schedule A of their campaign statement by name and post office box number?\n\nExample: John Jones    Retired    $100.00  \nP. O. Box 123  \nSanta Ana, CA\n\nIf there is a question regarding this matter please call 714-834-2269.\n\nVery truly yours,\n\nREGISTRAR OF VOTERS  \nCounty of Orange\n\nBy [signature] Beverly A Warner  \nDeputy  \nbw"
+  },
+  "parsed": {
+    "date": "1979-05-21",
+    "date_raw": "May 21, 1979",
+    "requestor_name": "Warner",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "May a candidate or committee report the name of an individual contributor on schedule A of their campaign statement by name and post office box number?",
+    "conclusion": "Pursuant to Government Code Section 84210(g), when the contributor has a street address, it must be identified. However, if the contributor does not have a street address, then the post office box or other appropriate address of the contributor may be used.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether contributors' addresses can be reported using post office box numbers instead of street addresses on campaign statements.",
+    "conclusion_synthetic": "Street addresses must be used when available, but post office box addresses are permissible when the contributor does not have a street address.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document contains both the incoming request (dated April 19, 1979) and FPPC response (dated May 21, 1979) in a single transmission. The response confirms telephone advice and provides clear guidance under Government Code Section 84210(g)."
+  },
+  "citations": {
+    "government_code": [
+      "84210(g)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T16:41:49.138734Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: May a candidate or committee report the name of an individual contributor on schedule A of their campaign statement by name and post office box number?\n\nCONCLUSION: Pursuant to Government Code Section 84210(g), when the contributor has a street address, it must be identified. However, if the contributor does not have a street address, then the post office box or other appropriate address of the contributor may be used.",
+    "qa_source": "mixed",
+    "first_500_words": "May 21, 1979 Beverly A. Warner Deputy Registrar of Voters 1300 South Grand Avenue Santa Ana, California 92705 Dear Ms. Warner: In response to your letter dated April 19, 1979, this letter will confirm the advice I provided you during our telephone conversation on May 21, 1979. You asked if the recipient of a contribution of $100 or more may identify the address of the contributor by post office box rather than street address. Pursuant to Government Code Section 84210(g), I advised you that when the contributor has a street address, it must be identified. However, if the contributor does not have a street address, then the post office box or other appropriate address of the contributor may be used. If you have further questions, please contact me. Sincerely, JOHN C. GREENWOOD Program Coordinator JCG:mak April 19, 1979 Technical Assistance & Analysis Division Fair Political Practices Commission 1100 K Street Building Sacramento, California 95814 Dear Sirs: May we have a written opinion regarding the following question: May a candidate or committee report the name of an individual contributor on schedule A of their campaign statement by name and post office box number? Example: John Jones Retired $100.00 P. O. Box 123 Santa Ana, CA If there is a question regarding this matter please call 714-834-2269. Very truly yours, REGISTRAR OF VOTERS County of Orange By [signature] Beverly A Warner Deputy bw",
+    "summary": "The FPPC advises that campaign contribution reports must list contributors' street addresses when available; post office boxes may only be used if no street address exists."
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "90-045",
+  "year": 1990,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1990/90-045.pdf",
+  "pdf_sha256": "9c02a65efcb6001354638ceab09803436dab5ddf98424be9c2a525808731de6c",
+  "local_pdf_path": "raw_pdfs/1990/90-045.pdf",
+  "source_metadata": {
+    "title_raw": "Pessner, Kirk Year: 1990 Advice Letter # 90-045",
+    "tags": [
+      "1990",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:13:27",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1990&tagCount=1&page=101"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:41.332577Z",
+    "page_count": 1,
+    "word_count": 229,
+    "char_count": 1548,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 229
+  },
+  "content": {
+    "full_text": ")\nCalifornia\nFair POlitical\nPractices Cornmission\nFebruary 5, 1990\nKirk ALan Pessner\nPolitical Reports Unit\nNielsen, Uerksamer, Hodgson,\nParrinello & Mueller\n650 California Street, Suite 2650\nSan Francisco, CA 94108\nRe: Your Request For Advice\nOur File No. A-9 0-04 5\nDear Mr. Pessner:\nYou have requested written confirmation of telephone advice\nprovided to you under the carnpaign disclosure provisions of the\nPolitical \nReform Act.1/ \nYou requested this advice on behalf of\nyour client, Gary J. Flynn, a state measure proponent.\nYour letter dated January 10, I99o, accurately surnrnarizes roy\nadvice concerning the requirement to file campaign disclosure\nstatements under Section 84200.5(f) in connection with a proposed\ninitiative \nfor which petitions were never circulated. \nThe\npetitions were not circulated because the proposed initiative \nwas\namended and provided with a new title \nand summary and, therefore,\nnew deadline dates were established for the qualification process.\nIf you have additional questions, please call me at (91G)\n322-5662.\nSincerely,\nKathryn E. Donovan\nGeneral Counsel\nDivision Chief\nTechnical Assistance and\nAnalysis Division\n1/ Government Code Sections 81000-9101-5. A1I statutory references\nare to the Government Code unless otherwise indicated. \nCommission\nregulations appear at 2 California Code of Regulations Section\n18000, et seq. A11 references to reguJ,ations are to Title z\nDivision 6 of the California Code of Regutations.\n428 J Street, suite 8oo o P.o. Box 8oz o Sacramento cA 958o4-o8(r7 o (916) 322-5660\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1990-02-05",
+    "date_raw": "February 5, 1990",
+    "requestor_name": "Pessner",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": "Division\n1, et seq. A11 references to reguJ,ations are to Title z\nDivision 6 of the California Code of Regutations.\n428 J Street, suite 8oo o P.o. Box 8oz o Sacramento cA 958o4-o8(r7 o (916) 322-5660",
+    "question_synthetic": "Whether campaign disclosure statements must be filed under Section 84200.5(f) for a proposed initiative when petitions were never circulated due to the initiative being amended with a new title and summary establishing new qualification deadline dates.",
+    "conclusion_synthetic": "The letter confirms that the earlier telephone advice provided was accurate regarding the campaign disclosure statement filing requirements under Section 84200.5(f) for an initiative where petitions were never circulated because the proposed initiative was amended with a new title and summary, establishing new deadline dates for the qualification process.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "Format: ocr; LLM: Document is a brief confirmation letter of prior telephone advice rather than a detailed opinion. No formal QUESTION or CONCLUSION sections are present; substantive legal analysis appears embedded in body paragraphs. Confidence reduced slightly due to OCR quality issues and lack of traditional Q&A structure."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "84200"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:35:41.332577Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether campaign disclosure statements must be filed under Section 84200.5(f) for a proposed initiative when petitions were never circulated due to the initiative being amended with a new title and summary establishing new qualification deadline dates.\n\nCONCLUSION: The letter confirms that the earlier telephone advice provided was accurate regarding the campaign disclosure statement filing requirements under Section 84200.5(f) for an initiative where petitions were never circulated because the proposed initiative was amended with a new title and summary, establishing new deadline dates for the qualification process.",
+    "qa_source": "synthetic",
+    "first_500_words": ") California Fair POlitical Practices Cornmission February 5, 1990 Kirk ALan Pessner Political Reports Unit Nielsen, Uerksamer, Hodgson, Parrinello & Mueller 650 California Street, Suite 2650 San Francisco, CA 94108 Re: Your Request For Advice Our File No. A-9 0-04 5 Dear Mr. Pessner: You have requested written confirmation of telephone advice provided to you under the carnpaign disclosure provisions of the Political Reform Act.1/ You requested this advice on behalf of your client, Gary J. Flynn, a state measure proponent. Your letter dated January 10, I99o, accurately surnrnarizes roy advice concerning the requirement to file campaign disclosure statements under Section 84200.5(f) in connection with a proposed initiative for which petitions were never circulated. The petitions were not circulated because the proposed initiative was amended and provided with a new title and summary and, therefore, new deadline dates were established for the qualification process. If you have additional questions, please call me at (91G) 322-5662. Sincerely, Kathryn E. Donovan General Counsel Division Chief Technical Assistance and Analysis Division 1/ Government Code Sections 81000-9101-5. A1I statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations Section 18000, et seq. A11 references to reguJ,ations are to Title z Division 6 of the California Code of Regutations. 428 J Street, suite 8oo o P.o. Box 8oz o Sacramento cA 958o4-o8(r7 o (916) 322-5660",
+    "summary": "FPPC General Counsel Kathryn E. Donovan confirms written advice to Kirk Pessner regarding campaign disclosure filing requirements under Section 84200.5(f) for a state measure initiative that was amended before petitions were circulated, resulting in new qualification deadline dates."
+  }
+}

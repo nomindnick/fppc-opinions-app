@@ -1,0 +1,71 @@
+{
+  "id": "02-104",
+  "year": 2002,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2002/02-104.pdf",
+  "pdf_sha256": "1209657ca5249418f35ca801e7c1bbaf87e6bfd195d3271bca6d5e4b23dbae37",
+  "local_pdf_path": "raw_pdfs/2002/02-104.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2002 Advice Letter # 02-104",
+    "tags": [
+      "Advice Letter",
+      "2002"
+    ],
+    "scraped_at": "2026-01-31 14:35:26",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2002&tagCount=1&page=6"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T21:35:10.566277Z",
+    "page_count": 1,
+    "word_count": 71,
+    "char_count": 451,
+    "quality_score": 0.7325980559829566,
+    "olmocr_cost": 0.0024725,
+    "native_word_count": 86
+  },
+  "content": {
+    "full_text": "May 8, 2002\n\nMichael J. Alexander\n710 La Para Avenue\nPalo Alto, CA 94306\n\nRE: Your Request for Advice\nOur File No. A-02-104\n\nDear Mr. Alexander:\n\nPursuant to our telephone conversation of May 7, 2002, you have rescinded your request for written advice.\n\nIf you have any additional questions, please feel free to call me toll-free at 866/275-3772.\n\nSincerely,\n\n[Signature]\nKevin S. Moen, PhD\nPolitical Reform Consultant II\nTechnical Assistance Division",
+    "full_text_markdown": "May 8, 2002\n\nMichael J. Alexander\n710 La Para Avenue\nPalo Alto, CA 94306\n\nRE: Your Request for Advice\nOur File No. A-02-104\n\nDear Mr. Alexander:\n\nPursuant to our telephone conversation of May 7, 2002, you have rescinded your request for written advice.\n\nIf you have any additional questions, please feel free to call me toll-free at 866/275-3772.\n\nSincerely,\n\n[Signature]\nKevin S. Moen, PhD\nPolitical Reform Consultant II\nTechnical Assistance Division"
+  },
+  "parsed": {
+    "date": "2002-05-08",
+    "date_raw": "May 8, 2002",
+    "requestor_name": "Alexander",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T21:35:10.566277Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "May 8, 2002 Michael J. Alexander 710 La Para Avenue Palo Alto, CA 94306 RE: Your Request for Advice Our File No. A-02-104 Dear Mr. Alexander: Pursuant to our telephone conversation of May 7, 2002, you have rescinded your request for written advice. If you have any additional questions, please feel free to call me toll-free at 866/275-3772. Sincerely, [Signature] Kevin S. Moen, PhD Political Reform Consultant II Technical Assistance Division",
+    "qa_source": "extracted",
+    "first_500_words": "May 8, 2002 Michael J. Alexander 710 La Para Avenue Palo Alto, CA 94306 RE: Your Request for Advice Our File No. A-02-104 Dear Mr. Alexander: Pursuant to our telephone conversation of May 7, 2002, you have rescinded your request for written advice. If you have any additional questions, please feel free to call me toll-free at 866/275-3772. Sincerely, [Signature] Kevin S. Moen, PhD Political Reform Consultant II Technical Assistance Division",
+    "summary": null
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "87231",
+  "year": 1987,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1987/fppc-advice/87231.PDF",
+  "pdf_sha256": "51cf5e87b9d842c1487d7312622ed79106ab1a7e1bc2e17bed03f0a752ad3dd0",
+  "local_pdf_path": "raw_pdfs/1987/87231.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1987 Advice Letter # 87231",
+    "tags": [
+      "1987",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:40:40",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1987&tagCount=1&page=12"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:22.982405Z",
+    "page_count": 2,
+    "word_count": 295,
+    "char_count": 1940,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 295
+  },
+  "content": {
+    "full_text": "California \nFair Political \nPractices Commission \nHonorable Lloyd G. connelly \nMember of the Assembly \nstate Capitol, Room 2176 \nSacramento, CA \n95814 \nDear Lloyd: \nAugust 25, 1987 \nRe: \nYour Request for Advice \nOur File No. 1-87-231 \nYour letter of August 18 to Chairman Larson has been \nreferred to me for reponse. \nYou have asked for information concerning personal use of \ncampaign funds. \nI enclose copies of Elections Code sections \n12400-12405, which govern this issue. \nThese statutes are not \npart of the Political Reform Act,lI the body of statutes which \nthe Commission is charged with administering and interpreting. \nTherefore, we are unable to provide advice on their application. \nI suggest that you contact the Attorney General's Office \nwith your questions on this topic. \nThat offic~ is responsible \nfor interpreting the personal use laws. \nPlease feel free to contact us again if we can provide any \nassistance in the future. \nDMG:km \ncc: \nChairman Larson \nSincerely, \n~C0J- h.~ \nDiane M. Griffiths '0 \nGeneral Counsel \n1/ \nGovernment Code sections 81000-91015. \nAll statutory \nreferences are to the Government Code unless otherwise noted. \n428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804,0807 • (916) 322~5660 \n\n\ni\\55tmh1u \nSTATE CAPITOL \nAugust 18, 1987 \nJohn Larson, Chairman \nFair Political Practices Commission \n488 J Street, Suite 800 \nP.O. Box 807 \nSacramento, CA \n95804 \nDear Mr. Larson: \nRecently I have been contacted by a constituent who is concerned \nabout candidates' use of campaign monies for private trips and \npaying the salaries of relatives. \nWould you please forward to me \ncopies of any statutes/regulations which pertain to this issue? \nAny additional information which you believe would clarify my \nunderstanding regarding this issue would be most appreciated as \nwell. \nThank you for your assistance. \nCordially, \nLLOYD G. CONNELLY \nMember of the Assembly \nLGC;sgs \ncc: \nMrs. Mooney \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1987-08-25",
+    "date_raw": "August 25, 1987",
+    "requestor_name": "Larson",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Recently I have been contacted by a constituent who is concerned about candidates' use of campaign monies for private trips and paying the salaries of relatives. Would you please forward to me copies of any statutes/regulations which pertain to this issue?",
+    "conclusion": "These statutes are not part of the Political Reform Act, the body of statutes which the Commission is charged with administering and interpreting. Therefore, we are unable to provide advice on their application. I suggest that you contact the Attorney General's Office with your questions on this topic. That office is responsible for interpreting the personal use laws.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Does the FPPC have guidance on the permissible use of campaign funds for private trips and paying relatives' salaries?",
+    "conclusion_synthetic": "The FPPC declined to provide advice because personal use of campaign funds is governed by Elections Code sections 12400-12405, which fall outside the Political Reform Act that the FPPC administers. The FPPC referred the question to the Attorney General's Office, which has responsibility for interpreting the personal use laws.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document includes both incoming request (Connelly's letter of August 18) and FPPC response (Griffiths' letter of August 25). Extracted question from incoming request and conclusion from FPPC response. No formal CONCLUSION section header, but the explanation of why advice cannot be provided serves as the substantive conclusion. File number 1-87-231 corresponds to document ID 87231."
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:36:22.982405Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Recently I have been contacted by a constituent who is concerned about candidates' use of campaign monies for private trips and paying the salaries of relatives. Would you please forward to me copies of any statutes/regulations which pertain to this issue?\n\nCONCLUSION: These statutes are not part of the Political Reform Act, the body of statutes which the Commission is charged with administering and interpreting. Therefore, we are unable to provide advice on their application. I suggest that you contact the Attorney General's Office with your questions on this topic. That office is responsible for interpreting the personal use laws.",
+    "qa_source": "mixed",
+    "first_500_words": "California Fair Political Practices Commission Honorable Lloyd G. connelly Member of the Assembly state Capitol, Room 2176 Sacramento, CA 95814 Dear Lloyd: August 25, 1987 Re: Your Request for Advice Our File No. 1-87-231 Your letter of August 18 to Chairman Larson has been referred to me for reponse. You have asked for information concerning personal use of campaign funds. I enclose copies of Elections Code sections 12400-12405, which govern this issue. These statutes are not part of the Political Reform Act,lI the body of statutes which the Commission is charged with administering and interpreting. Therefore, we are unable to provide advice on their application. I suggest that you contact the Attorney General's Office with your questions on this topic. That offic~ is responsible for interpreting the personal use laws. Please feel free to contact us again if we can provide any assistance in the future. DMG:km cc: Chairman Larson Sincerely, ~C0J- h.~ Diane M. Griffiths '0 General Counsel 1/ Government Code sections 81000-91015. All statutory references are to the Government Code unless otherwise noted. 428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804,0807 • (916) 322~5660 i\\55tmh1u STATE CAPITOL August 18, 1987 John Larson, Chairman Fair Political Practices Commission 488 J Street, Suite 800 P.O. Box 807 Sacramento, CA 95804 Dear Mr. Larson: Recently I have been contacted by a constituent who is concerned about candidates' use of campaign monies for private trips and paying the salaries of relatives. Would you please forward to me copies of any statutes/regulations which pertain to this issue? Any additional information which you believe would clarify my understanding regarding this issue would be most appreciated as well. Thank you for your assistance. Cordially, LLOYD G. CONNELLY Member of the Assembly LGC;sgs cc: Mrs. Mooney",
+    "summary": "Assemblymember Lloyd Connelly requested FPPC guidance on candidates' use of campaign funds for private trips and paying relatives' salaries. The FPPC declined the request, noting that these matters are governed by Elections Code sections outside its jurisdiction and referred him to the Attorney General's Office."
+  }
+}

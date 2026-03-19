@@ -1,0 +1,74 @@
+{
+  "id": "17-088W",
+  "year": 2017,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2017/17-088W.pdf",
+  "pdf_sha256": "02a29c9a5dfe6069196ed4c6bb1477c8d0c97bed49e1260345c74b2cfde72479",
+  "local_pdf_path": "raw_pdfs/2017/17-088W.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2017 Advice Letter # 17-088W",
+    "tags": [
+      "Advice Letter",
+      "2017"
+    ],
+    "scraped_at": "2026-01-31 15:01:57",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2017&tagCount=1&page=3"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-25T22:43:53.225801Z",
+    "page_count": 1,
+    "word_count": 131,
+    "char_count": 812,
+    "quality_score": 0.8565218585803509,
+    "olmocr_cost": 0.00246648,
+    "native_word_count": 134,
+    "haiku_cost": 0.002296
+  },
+  "content": {
+    "full_text": "STATE OF CALIFORNIA\nFAIR POLITICAL PRACTICES COMMISSION\n428 J Street • Suite 620 • Sacramento, CA 95814-2329\n(916) 322-5660 • Fax (916) 322-0886\n\nApril 17, 2017\n\nColleen Winchester\nSr. Deputy City Attorney\nOffice of the City Attorney\nCity of San Jose\n200 East Santa Clara Street, 16th Floor\nSan Jose, CA 95113-1905\n\nRe: Your Request for Advice\nOur File No. W-17-088\n\nDear Ms. Winchester:\n\nThis letter responds to your request for advice regarding the conflict of interest provisions of\nthe Political Reform Act and Section 1090. Pursuant to your e-mail dated April 17, 2017, we\nconsider your advice request to be withdrawn.\n\nIf you have other questions on this matter, please contact me at (916) 322-5660.\n\nSincerely,\n\nHyla P. Wagner\nGeneral Counsel\n\nBy: Zachary W. Norton\nSenior Counsel, Legal Division\n\nZWN:jgl",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": "City Attorney",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requester sought advice regarding conflict of interest provisions under the Political Reform Act and Section 1090, but subsequently withdrew the request.",
+    "conclusion_synthetic": "The FPPC treats the advice request as withdrawn and invites the requester to contact the Commission if further questions arise.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Withdrawal letter with no formal QUESTION or CONCLUSION sections. Specific details of the original legal question not provided in the document text. Addressed to Colleen Winchester, Sr. Deputy City Attorney."
+  },
+  "citations": {
+    "government_code": [
+      "1090"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T16:14:12.463020Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The requester sought advice regarding conflict of interest provisions under the Political Reform Act and Section 1090, but subsequently withdrew the request.\n\nCONCLUSION: The FPPC treats the advice request as withdrawn and invites the requester to contact the Commission if further questions arise.",
+    "qa_source": "synthetic",
+    "first_500_words": "The letter is from the Fair Political Practices Commission of the State of California, addressed to Colleen Winchester, Sr. Deputy City Attorney at the Office of the City Attorney in San Jose. The letter responds to her request for advice regarding the conflict of interest provisions of the Political Reform Act and Section 1090. It states that the Commission considers her advice request to be withdrawn. If she has other questions on this matter, she should contact the Commission at (916) 322-5660. Sincerely, Hyla P. Wagner General Counsel By: Zachary W. Norton Senior Counsel, Legal Division",
+    "summary": "The FPPC acknowledges withdrawal of an advice request from the City Attorney of San Jose regarding conflict of interest and Section 1090 matters."
+  }
+}

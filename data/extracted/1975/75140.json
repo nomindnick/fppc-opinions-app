@@ -1,0 +1,75 @@
+{
+  "id": "75140",
+  "year": 1975,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1975/75140.PDF",
+  "pdf_sha256": "bb75fae6628ade8d45a9153bd8f121413078f45e319e6ecd21911aa5e61875fc",
+  "local_pdf_path": "raw_pdfs/1975/75140.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1975 Advice Letter # 75140",
+    "tags": [
+      "1975",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:13:51",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1975&tagCount=1"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:22.607250Z",
+    "page_count": 1,
+    "word_count": 330,
+    "char_count": 2238,
+    "quality_score": 0.6475,
+    "olmocr_cost": null,
+    "native_word_count": 330
+  },
+  "content": {
+    "full_text": "_,_ ~'AL!rORNIA \nEDMUN~ G. BROWN JR., Governor \n~:=,,:,--,_-:;::-~-=-:,,:-'::=~_--:::\"7-=-~~-=-=--=--~-=-~==:---=-::::'=--=-~~\":;\"~~~-~~-:'::-::::'---=\"~';::':::::::::'::-~~~\"--===-~~-====---::;:: \nFAIR POLITICAL PRACTICES COMMISSION \n1100 K Street \nSacramento 95814 \n(916) 322-5660 \nDecember 31, 1975 \nMr. Robert L. Holt \nMember, Board of Directors \nSan Clemente Homeowners Association \n229 W. Escalones \nSan Clemente, CA \n92672 \nDear Mr. Holt: \nI \nThank you for your letter of December 17, 1975, regarding \nconflicts of interest in the deliberations of your local \ngovernment. \nYou asked whether the law is satisfied if the public \nservant declares the conflict of interest and abstains from \nvoting on matters that would amount to a direct conflict of \ninterest. \nThe conflict of interest provisions of the Political \nReform Act apply not only to voting but to all participation \nby the public official. \nGovernment Code Section 87100 pro-\nhibits every public official from making, participati.!.1g in the \nmaking or in any way attempting to use his official position \nto influence a governmental decision in which he knows or has \nreason to know he has a financial interest. \nThe meaning of \nthe term \"financial interest\" is set forth in Gov. Code \nSection 87103. \nThe Fair Political Practices Conul1ission \ncurrently is considering regulaLions which clarify the mean-\ning of the statutory section. \nA copy of those draft regula-\ntionsis enclosed, and I direct your attention particularly \nto proposed Sections 18700 (b), (c) and (d). \nAs you can see r \nthese regulations include a broad spectrum of ,conduct \\vi thin \nthe meaning of \"making governmental decisions;\" \"participat.ing \nin the making of governmental decisions,\" and \"in any way \nattempting to use his or her official position.\" \nIn answer to your second question, local government has \nthe right to make the pertinent law more stringent, as long \nas the local law does not prevent a person from complying \nwith the requirements of the Political Reform Act. \nGov. Code \nSection 81013. \nI hope the foregoing information will be helpful. \nPlease \ncontact Del Spurlock, Chief of the Conflicts of Interest Divi-\nsion, at (916) 322-6441, if you have any questions. \nNEtv:pvp \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1975-12-31",
+    "date_raw": "December 31, 1975",
+    "requestor_name": "Holt",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "You asked whether the law is satisfied if the public servant declares the conflict of interest and abstains from voting on matters that would amount to a direct conflict of interest.",
+    "conclusion": "The conflict of interest provisions of the Political Reform Act apply not only to voting but to all participation by the public official. Government Code Section 87100 prohibits every public official from making, participating in the making or in any way attempting to use his official position to influence a governmental decision in which he knows or has reason to know he has a financial interest.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Does a public official satisfy conflict of interest requirements by merely declaring the conflict and abstaining from voting on directly conflicting matters?",
+    "conclusion_synthetic": "Mere abstention from voting is insufficient; the Political Reform Act prohibits all forms of participation and influence, not just voting, requiring public officials to avoid any involvement in matters involving their financial interests.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Standard advice letter format with clear question and conclusion sections. Document addresses two questions; second question regarding local government authority to impose stricter rules also answered. Draft regulations referenced but not included in text."
+  },
+  "citations": {
+    "government_code": [
+      "81013",
+      "87100",
+      "87103"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.6666666666666666,
+    "classified_at": "2026-02-06T18:37:22.607250Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: You asked whether the law is satisfied if the public servant declares the conflict of interest and abstains from voting on matters that would amount to a direct conflict of interest.\n\nCONCLUSION: The conflict of interest provisions of the Political Reform Act apply not only to voting but to all participation by the public official. Government Code Section 87100 prohibits every public official from making, participating in the making or in any way attempting to use his official position to influence a governmental decision in which he knows or has reason to know he has a financial interest.",
+    "qa_source": "mixed",
+    "first_500_words": "_,_ ~'AL!rORNIA EDMUN~ G. BROWN JR., Governor ~:=,,:,--,_-:;::-~-=-:,,:-'::=~_--:::\"7-=-~~-=-=--=--~-=-~==:---=-::::'=--=-~~\":;\"~~~-~~-:'::-::::'---=\"~';::':::::::::'::-~~~\"--===-~~-====---::;:: FAIR POLITICAL PRACTICES COMMISSION 1100 K Street Sacramento 95814 (916) 322-5660 December 31, 1975 Mr. Robert L. Holt Member, Board of Directors San Clemente Homeowners Association 229 W. Escalones San Clemente, CA 92672 Dear Mr. Holt: I Thank you for your letter of December 17, 1975, regarding conflicts of interest in the deliberations of your local government. You asked whether the law is satisfied if the public servant declares the conflict of interest and abstains from voting on matters that would amount to a direct conflict of interest. The conflict of interest provisions of the Political Reform Act apply not only to voting but to all participation by the public official. Government Code Section 87100 pro- hibits every public official from making, participati.!.1g in the making or in any way attempting to use his official position to influence a governmental decision in which he knows or has reason to know he has a financial interest. The meaning of the term \"financial interest\" is set forth in Gov. Code Section 87103. The Fair Political Practices Conul1ission currently is considering regulaLions which clarify the mean- ing of the statutory section. A copy of those draft regula- tionsis enclosed, and I direct your attention particularly to proposed Sections 18700 (b), (c) and (d). As you can see r these regulations include a broad spectrum of ,conduct \\vi thin the meaning of \"making governmental decisions;\" \"participat.ing in the making of governmental decisions,\" and \"in any way attempting to use his or her official position.\" In answer to your second question, local government has the right to make the pertinent law more stringent, as long as the local law does not prevent a person from complying with the requirements of the Political Reform Act. Gov. Code Section 81013. I hope the foregoing information will be helpful. Please contact Del Spurlock, Chief of the Conflicts of Interest Divi- sion, at (916) 322-6441, if you have any questions. NEtv:pvp",
+    "summary": "The FPPC advises that conflict of interest laws require public officials to abstain from all participation—not just voting—in governmental decisions involving their financial interests. The response clarifies that declaration and vote abstention alone do not satisfy the Political Reform Act."
+  }
+}

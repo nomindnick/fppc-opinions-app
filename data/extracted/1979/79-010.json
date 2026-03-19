@@ -1,0 +1,71 @@
+{
+  "id": "79-010",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-010.PDF",
+  "pdf_sha256": "ea7afed013a22b7705f486b73c5385794e0ca2ba730e228f6ecd905bb1daefd6",
+  "local_pdf_path": "raw_pdfs/1979/79-010.PDF",
+  "source_metadata": {
+    "title_raw": "BERRY, CLAIR Year: 1979 Advice Letter # 79-010",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:26:22",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=14"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-07T16:50:47.362491Z",
+    "page_count": 1,
+    "word_count": 145,
+    "char_count": 909,
+    "quality_score": 0.5975,
+    "olmocr_cost": 0.00252324,
+    "native_word_count": 12
+  },
+  "content": {
+    "full_text": "December 13, 1979\n\nClaire Berry  \n425 E.N. Bear Creek Drive  \nMerced, California 95340\n\nDear Ms. or Mr. Berry:\n\nYou have asked whether a committee formed now with the intention of supporting a candidate in an election to be held three years hence may support a candidate in a special election held next year.\n\nThe answer to your question is yes. The Political Reform Act does not forbid the activity you inquired about.\n\nYou should note that if supporting the candidate in the special election becomes a major activity of the committee, the statement of organization should be amended to indicate that the committee is supporting the new candidate. The committee will also have to file disclosure statements in connection with the special election.\n\nI hope this information is helpful. If you desire additional assistance, please call me at 916/322-5662.\n\nSincerely,\n\nJohn Giansello  \nPolitical Reform Analyst",
+    "full_text_markdown": "December 13, 1979\n\nClaire Berry  \n425 E.N. Bear Creek Drive  \nMerced, California 95340\n\nDear Ms. or Mr. Berry:\n\nYou have asked whether a committee formed now with the intention of supporting a candidate in an election to be held three years hence may support a candidate in a special election held next year.\n\nThe answer to your question is yes. The Political Reform Act does not forbid the activity you inquired about.\n\nYou should note that if supporting the candidate in the special election becomes a major activity of the committee, the statement of organization should be amended to indicate that the committee is supporting the new candidate. The committee will also have to file disclosure statements in connection with the special election.\n\nI hope this information is helpful. If you desire additional assistance, please call me at 916/322-5662.\n\nSincerely,\n\nJohn Giansello  \nPolitical Reform Analyst"
+  },
+  "parsed": {
+    "date": "1979-12-13",
+    "date_raw": "December 13, 1979",
+    "requestor_name": "BERRY",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "You have asked whether a committee formed now with the intention of supporting a candidate in an election to be held three years hence may support a candidate in a special election held next year.",
+    "conclusion": "The answer to your question is yes. The Political Reform Act does not forbid the activity you inquired about. You should note that if supporting the candidate in the special election becomes a major activity of the committee, the statement of organization should be amended to indicate that the committee is supporting the new candidate. The committee will also have to file disclosure statements in connection with the special election.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "May a committee formed to support a candidate in a future election three years away also support a candidate in a special election occurring the following year?",
+    "conclusion_synthetic": "Yes, a committee may support a candidate in an earlier special election even if originally formed to support a different candidate in a later election, provided the statement of organization is amended if this becomes a major activity and appropriate disclosure statements are filed.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Standard advice letter format with clear question and conclusion sections. No formal section headers but structure is evident from context. Letter from John Giansello, Political Reform Analyst."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T16:50:47.362491Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: You have asked whether a committee formed now with the intention of supporting a candidate in an election to be held three years hence may support a candidate in a special election held next year.\n\nCONCLUSION: The answer to your question is yes. The Political Reform Act does not forbid the activity you inquired about. You should note that if supporting the candidate in the special election becomes a major activity of the committee, the statement of organization should be amended to indicate that the committee is supporting the new candidate. The committee will also have to file disclosure statements in connection with the special election.",
+    "qa_source": "mixed",
+    "first_500_words": "December 13, 1979 Claire Berry 425 E.N. Bear Creek Drive Merced, California 95340 Dear Ms. or Mr. Berry: You have asked whether a committee formed now with the intention of supporting a candidate in an election to be held three years hence may support a candidate in a special election held next year. The answer to your question is yes. The Political Reform Act does not forbid the activity you inquired about. You should note that if supporting the candidate in the special election becomes a major activity of the committee, the statement of organization should be amended to indicate that the committee is supporting the new candidate. The committee will also have to file disclosure statements in connection with the special election. I hope this information is helpful. If you desire additional assistance, please call me at 916/322-5662. Sincerely, John Giansello Political Reform Analyst",
+    "summary": "FPPC advises that a committee formed to support a candidate in a future election may also support a candidate in an intervening special election without violating the Political Reform Act, subject to amended organizational statements and disclosure requirements if supporting the special election candidate becomes a major activity."
+  }
+}

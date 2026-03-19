@@ -1,0 +1,73 @@
+{
+  "id": "79-178",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-178.PDF",
+  "pdf_sha256": "accf46a2ff5dca8098529041eb52a4d930486a4d45a891f3c07e1ea3f1423221",
+  "local_pdf_path": "raw_pdfs/1979/79-178.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1979 Advice Letter # 79-178",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:25:34",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=3"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-08T17:15:05.950081Z",
+    "page_count": 1,
+    "word_count": 31,
+    "char_count": 215,
+    "quality_score": 0.33999999999999997,
+    "olmocr_cost": 0.0024019799999999997,
+    "native_word_count": 38
+  },
+  "content": {
+    "full_text": "Aunt-in-Law - Not Excluded\n\nSection 82030(b)(5) provides that gifts received from certain relatives including the filer's aunt are not reportable. Ken Finney advised that the term \"aunt\" did not include aunt-in-law.",
+    "full_text_markdown": "Aunt-in-Law - Not Excluded\n\nSection 82030(b)(5) provides that gifts received from certain relatives including the filer's aunt are not reportable. Ken Finney advised that the term \"aunt\" did not include aunt-in-law."
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether gifts received from an aunt-in-law are excluded from reportable gifts under Section 82030(b)(5), which provides an exemption for gifts from certain relatives including aunts.",
+    "conclusion_synthetic": "Gifts from an aunt-in-law are not excluded from reportable gifts, as the term 'aunt' in Section 82030(b)(5) does not include aunt-in-law.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.75,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document lacks traditional QUESTION and CONCLUSION section headers. Information provided in brief factual format. Content extracted from opening sentences. Modest confidence due to minimal document structure and lack of explicit question/answer sections."
+  },
+  "citations": {
+    "government_code": [
+      "82030(b)(5)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-08T17:15:05.950081Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether gifts received from an aunt-in-law are excluded from reportable gifts under Section 82030(b)(5), which provides an exemption for gifts from certain relatives including aunts.\n\nCONCLUSION: Gifts from an aunt-in-law are not excluded from reportable gifts, as the term 'aunt' in Section 82030(b)(5) does not include aunt-in-law.",
+    "qa_source": "synthetic",
+    "first_500_words": "Aunt-in-Law - Not Excluded Section 82030(b)(5) provides that gifts received from certain relatives including the filer's aunt are not reportable. Ken Finney advised that the term \"aunt\" did not include aunt-in-law.",
+    "summary": "FPPC advice letter clarifying that Section 82030(b)(5)'s exemption for gifts from relatives applies to aunts but not aunt-in-law, making gifts from an aunt-in-law reportable."
+  }
+}

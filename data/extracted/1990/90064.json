@@ -1,0 +1,71 @@
+{
+  "id": "90064",
+  "year": 1990,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1990/90064.pdf",
+  "pdf_sha256": "c60ed22371ed8070804402f20bcf70d2715dd96dc4b661667561f74d8fbe038c",
+  "local_pdf_path": "raw_pdfs/1990/90064.pdf",
+  "source_metadata": {
+    "title_raw": "Statham, L. Year: 1990 Advice Letter # 90064",
+    "tags": [
+      "1990",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:10:48",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1990&tagCount=1&page=66"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:37.573126Z",
+    "page_count": 2,
+    "word_count": 375,
+    "char_count": 2488,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 375
+  },
+  "content": {
+    "full_text": "January 19, 1990\nTo: FPPC\nLegal Division\nSacramento, CA 95814\nPlease help me determine which account the following items would,\nif any, be taken from.\nAccount #1 would be a pre Prop 73 account, which has no money\nraised in excess of the limitation.\nAccount #2 would be a campaign account established for the 1990\nelection.\nl. \nProviding travel benefits to a campaign or state employee.\n2. \nProviding travel benefits to the spouse of a campaign or state\nemployee traveling with the employee.\n3. \nPurchase of gifts for campaign employee.\n4. \nPurchase of meals while dining with constituents, legislative\nmatters discussed.\n5 . \nPurchase of meals with campaign employee or volunteer,\ncampaign discussed.\n6. \nPurchase of meals with state employee, legislative matters\ndiscussed.\n7. \nBookkeeping supplies and materials, including but not limited\nto; pencils, paper, folders, etc.\n8. \nGas, oi1 and maintenance on vehicles for meetings with\nvolunteers, employees, and/or constituents on campaign related\nmatters.\n9. \nChristmas cards. Mailing and printing.\n10. Photo sessions. Photos may be used for campaign mailers.\n\n\n1 1. Donations to civic groups. ie; boy scouts, cancer society, farm\nbureau raffles, etc.\n12. Purchase of tickets to functions such as Chamber of Commerce\ndinner, Farm Bureau Crab Feed, Cattlemens Day, etc.\nI 3 . Purchase of tickets to functions such as Chamber of Commerce\ndinner, Farm Bureau Crab Feed, Cattlemens Day, etc. for employee or\nvolunteer traveling on officials behalf.\n14 . Purchase of tickets to functions such as Chamber of Commerce\ndinner, Farm Bureau Crab Feed, Cattlemens Day, etc. for spouse of\nemployee or volunteer traveling on officials behalf.\n15. Photo equipment, supplies, computer hardware, supplies used\nfor ongoing campaign and/or legislative purposes.\n16. The purchase of year round, on-going public service\nannouncements, or greeting card type announcements on the\nelectronic media to maintain name identification.\n17. On-going year round expenses for telephone, PGE, water,\njanitorial, etc in office used for fundraising, and maintaining\ncampaign records.\n18. Insurance for office used for fundraising, and maintaining\ncampaign records.\n19. Security services for office used for fundraising, and\nmaintaining campaign records.\n20. Gifts for constituents. (retirement, birthday, fundraising\ninducements)\n2l. Dues to health club for employees.\nThank you for your assistance.\nSincerely,\nXfu^\nL.G. Statham\n/ois ii,a- fr*s4\n'fri-&)-,''\"'6, & ast\"l\n3\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1990-01-19",
+    "date_raw": "January 19, 1990",
+    "requestor_name": "Statham",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "Please help me determine which account the following items would, if any, be taken from. Account #1 would be a pre Prop 73 account, which has no money raised in excess of the limitation. Account #2 would be a campaign account established for the 1990 election. [Followed by 21 numbered items requesting account classification for various expenditures]",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "A candidate seeks guidance on whether 21 specified expenditure categories (including travel, meals, gifts, office supplies, equipment, and contributions) should be charged to a pre-Proposition 73 account or a 1990 campaign account.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an incoming request letter, not an FPPC response/advice letter. No conclusion or FPPC response is present in this document. The document contains 21 numbered items requesting account classification guidance. Document appears complete with signature from requestor L.G. Statham."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:35:37.573126Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Please help me determine which account the following items would, if any, be taken from. Account #1 would be a pre Prop 73 account, which has no money raised in excess of the limitation. Account #2 would be a campaign account established for the 1990 election. [Followed by 21 numbered items requesting account classification for various expenditures]",
+    "qa_source": "mixed",
+    "first_500_words": "January 19, 1990 To: FPPC Legal Division Sacramento, CA 95814 Please help me determine which account the following items would, if any, be taken from. Account #1 would be a pre Prop 73 account, which has no money raised in excess of the limitation. Account #2 would be a campaign account established for the 1990 election. l. Providing travel benefits to a campaign or state employee. 2. Providing travel benefits to the spouse of a campaign or state employee traveling with the employee. 3. Purchase of gifts for campaign employee. 4. Purchase of meals while dining with constituents, legislative matters discussed. 5 . Purchase of meals with campaign employee or volunteer, campaign discussed. 6. Purchase of meals with state employee, legislative matters discussed. 7. Bookkeeping supplies and materials, including but not limited to; pencils, paper, folders, etc. 8. Gas, oi1 and maintenance on vehicles for meetings with volunteers, employees, and/or constituents on campaign related matters. 9. Christmas cards. Mailing and printing. 10. Photo sessions. Photos may be used for campaign mailers. 1 1. Donations to civic groups. ie; boy scouts, cancer society, farm bureau raffles, etc. 12. Purchase of tickets to functions such as Chamber of Commerce dinner, Farm Bureau Crab Feed, Cattlemens Day, etc. I 3 . Purchase of tickets to functions such as Chamber of Commerce dinner, Farm Bureau Crab Feed, Cattlemens Day, etc. for employee or volunteer traveling on officials behalf. 14 . Purchase of tickets to functions such as Chamber of Commerce dinner, Farm Bureau Crab Feed, Cattlemens Day, etc. for spouse of employee or volunteer traveling on officials behalf. 15. Photo equipment, supplies, computer hardware, supplies used for ongoing campaign and/or legislative purposes. 16. The purchase of year round, on-going public service announcements, or greeting card type announcements on the electronic media to maintain name identification. 17. On-going year round expenses for telephone, PGE, water, janitorial, etc in office used for fundraising, and maintaining campaign records. 18. Insurance for office used for fundraising, and maintaining campaign records. 19. Security services for office used for fundraising, and maintaining campaign records. 20. Gifts for constituents. (retirement, birthday, fundraising inducements) 2l. Dues to health club for employees. Thank you for your assistance. Sincerely, Xfu^ L.G. Statham /ois ii,a- fr*s4 'fri-&)-,''\"'6, & ast\"l 3",
+    "summary": "This is an incoming request letter from L.G. Statham to the FPPC asking for guidance on proper account classification for various campaign and legislative expenditures under Proposition 73, specifically whether items should be charged to a pre-Prop 73 account or a new 1990 campaign account."
+  }
+}

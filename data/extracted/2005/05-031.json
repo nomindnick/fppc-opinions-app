@@ -1,0 +1,71 @@
+{
+  "id": "05-031",
+  "year": 2005,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2005/05-031.pdf",
+  "pdf_sha256": "e46cebab7ebf2c3a4757823c230e2624421586848ad40e119be96655f4c2ae66",
+  "local_pdf_path": "raw_pdfs/2005/05-031.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2005 Advice Letter # 05-031",
+    "tags": [
+      "2005",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:42:08",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2005&tagCount=1&page=2"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T21:43:57.074860Z",
+    "page_count": 1,
+    "word_count": 76,
+    "char_count": 495,
+    "quality_score": 0.7559511546723953,
+    "olmocr_cost": 0.0024862599999999997,
+    "native_word_count": 89
+  },
+  "content": {
+    "full_text": "March 9, 2005\n\nDiana Zavala\nExecutive Assistant\nMichael J. Arnold and Associates, Inc.\n1127 Eleventh Street, Suite 820\nSacramento, CA 95814\n\nRe: Your Request for Advice\nOur File No. W-05-031\n\nDear Ms. Zavala:\n\nPursuant to our telephone conversation of March 9, 2005, you have rescinded your request for written advice.\n\nIf you have any additional questions, please feel free to call me at 916/322-5660.\n\nSincerely,\n\nKevin S. Moen, PhD\nPolitical Reform Consultant II\nTechnical Assistance Division",
+    "full_text_markdown": "March 9, 2005\n\nDiana Zavala\nExecutive Assistant\nMichael J. Arnold and Associates, Inc.\n1127 Eleventh Street, Suite 820\nSacramento, CA 95814\n\nRe: Your Request for Advice\nOur File No. W-05-031\n\nDear Ms. Zavala:\n\nPursuant to our telephone conversation of March 9, 2005, you have rescinded your request for written advice.\n\nIf you have any additional questions, please feel free to call me at 916/322-5660.\n\nSincerely,\n\nKevin S. Moen, PhD\nPolitical Reform Consultant II\nTechnical Assistance Division"
+  },
+  "parsed": {
+    "date": "2005-03-09",
+    "date_raw": "March 9, 2005",
+    "requestor_name": "Zavala",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T21:43:57.074860Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "March 9, 2005 Diana Zavala Executive Assistant Michael J. Arnold and Associates, Inc. 1127 Eleventh Street, Suite 820 Sacramento, CA 95814 Re: Your Request for Advice Our File No. W-05-031 Dear Ms. Zavala: Pursuant to our telephone conversation of March 9, 2005, you have rescinded your request for written advice. If you have any additional questions, please feel free to call me at 916/322-5660. Sincerely, Kevin S. Moen, PhD Political Reform Consultant II Technical Assistance Division",
+    "qa_source": "extracted",
+    "first_500_words": "March 9, 2005 Diana Zavala Executive Assistant Michael J. Arnold and Associates, Inc. 1127 Eleventh Street, Suite 820 Sacramento, CA 95814 Re: Your Request for Advice Our File No. W-05-031 Dear Ms. Zavala: Pursuant to our telephone conversation of March 9, 2005, you have rescinded your request for written advice. If you have any additional questions, please feel free to call me at 916/322-5660. Sincerely, Kevin S. Moen, PhD Political Reform Consultant II Technical Assistance Division",
+    "summary": null
+  }
+}

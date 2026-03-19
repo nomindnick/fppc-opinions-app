@@ -1,0 +1,74 @@
+{
+  "id": "92-631",
+  "year": 1992,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1992/92-631.pdf",
+  "pdf_sha256": "f5485ba7ff963f128f2b3551f30eed151ada04b9dc7aba6268ba60be60642b56",
+  "local_pdf_path": "raw_pdfs/1992/92-631.pdf",
+  "source_metadata": {
+    "title_raw": "Parks, Tom Year: 1992 Advice Letter # 92-631",
+    "tags": [
+      "Advice Letter",
+      "1992"
+    ],
+    "scraped_at": "2026-01-31 16:26:13",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1992&tagCount=1&page=46"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:16.043525Z",
+    "page_count": 2,
+    "word_count": 303,
+    "char_count": 1916,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 303
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\nDecember 10,\n1992\nTorn Parks, et al.\n4907 East Hatch Road\nHughson,\nCA\n95326\nRe:\nYour Request for Advice\nOur File No.\nA—92—63l\nDear Mr. Parks:\nYou have requested advice under the campaign disclosure\nprovisions of the Political Reform Act (the “Act”) •1\nYou have asked if there are reporting requirements under the\nPolitical Reform Act for a group of individuals that spent $276 on\na letter opposing a ballot measure.\nThe Act provides that “committees” must file campaign\ndisclosure statements at specified intervals.\n(Sections 82013;\n84100,\nSection 82013 defines “committee” as any person or conibina—\ntion of persons who directly or indirectly does any of the follow\ning:\n(a)\nReceives contributions totaling one\nthousand dollars\n($1,000) or more in a calendar\nyear; or\nV\n(b)\nMakes independent expenditures totaling\none thousand dollars\n($1,000) or more in a calendar\nyear; or\n1\nGovernment Code Sections 81000—91015.\nAll statutory references\nare to the Government Code unless otherwise indicated.\nCommission\nregulations appear at\n2 California Code of Regulations Section\n18000,\n.\nAll references to regulations are to Title 2,\nDivision\n6 of the California Code of Regulations.\n428 J Street, Suite 800 •\nP.O. Box 807\n•\nSacramento, CA\n95812 •\n(916) 322-5660\n\n\nTom Parks\nA—9 2—631\nPage\n2\n(C)\nMakes contributions totaling ten thousand\ndollars\n($10,000)\nor more in a calendar year to or\nat the behest of candidates or committees.\nBased on the information you have provided concerning the\nfinancial activity of the individuals, the group did not qualify\nas a committee and is not required to file a campaign disclosure\nstatement.\nIf you have further questions concerning this letter, please\ncontact me at\n(916)\n322—5662.\nSincerely,\nScott Hallabrin\nActing General Counsel\nI\nL_-/\nIii\nc’d’24 i2\n-t2c-’\nBy:\nSandra L. Silva\nPolitical Reform Consultant\nTechnical Assistance Division\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1992-12-10",
+    "date_raw": "December 10,\n1992",
+    "requestor_name": "Parks",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "You have asked if there are reporting requirements under the Political Reform Act for a group of individuals that spent $276 on a letter opposing a ballot measure.",
+    "conclusion": "Based on the information you have provided concerning the financial activity of the individuals, the group did not qualify as a committee and is not required to file a campaign disclosure statement.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a group of individuals that spent $276 on a letter opposing a ballot measure must file campaign disclosure statements under the Political Reform Act.",
+    "conclusion_synthetic": "The group does not qualify as a 'committee' under the Act because their expenditure of $276 does not meet the $1,000 threshold for independent expenditures, and therefore no campaign disclosure statement is required.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Standard advice letter format with clear question and conclusion sections. Document provides statutory framework (Government Code Section 82013) defining 'committee' and applies it to the requestor's factual situation."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "82013"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:35:16.043525Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: You have asked if there are reporting requirements under the Political Reform Act for a group of individuals that spent $276 on a letter opposing a ballot measure.\n\nCONCLUSION: Based on the information you have provided concerning the financial activity of the individuals, the group did not qualify as a committee and is not required to file a campaign disclosure statement.",
+    "qa_source": "mixed",
+    "first_500_words": "California Fair Political Practices Commission December 10, 1992 Torn Parks, et al. 4907 East Hatch Road Hughson, CA 95326 Re: Your Request for Advice Our File No. A—92—63l Dear Mr. Parks: You have requested advice under the campaign disclosure provisions of the Political Reform Act (the “Act”) •1 You have asked if there are reporting requirements under the Political Reform Act for a group of individuals that spent $276 on a letter opposing a ballot measure. The Act provides that “committees” must file campaign disclosure statements at specified intervals. (Sections 82013; 84100, Section 82013 defines “committee” as any person or conibina— tion of persons who directly or indirectly does any of the follow ing: (a) Receives contributions totaling one thousand dollars ($1,000) or more in a calendar year; or V (b) Makes independent expenditures totaling one thousand dollars ($1,000) or more in a calendar year; or 1 Government Code Sections 81000—91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations Section 18000, . All references to regulations are to Title 2, Division 6 of the California Code of Regulations. 428 J Street, Suite 800 • P.O. Box 807 • Sacramento, CA 95812 • (916) 322-5660 Tom Parks A—9 2—631 Page 2 (C) Makes contributions totaling ten thousand dollars ($10,000) or more in a calendar year to or at the behest of candidates or committees. Based on the information you have provided concerning the financial activity of the individuals, the group did not qualify as a committee and is not required to file a campaign disclosure statement. If you have further questions concerning this letter, please contact me at (916) 322—5662. Sincerely, Scott Hallabrin Acting General Counsel I L_-/ Iii c’d’24 i2 -t2c-’ By: Sandra L. Silva Political Reform Consultant Technical Assistance Division",
+    "summary": "FPPC advises Tom Parks and others that a group spending $276 on a letter opposing a ballot measure is not required to file campaign disclosure statements because the expenditure falls below the $1,000 threshold that would classify them as a committee under the Political Reform Act."
+  }
+}

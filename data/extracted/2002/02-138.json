@@ -1,0 +1,75 @@
+{
+  "id": "02-138",
+  "year": 2002,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2002/02-138.pdf",
+  "pdf_sha256": "21aca9d1f4536fce1e9ba968631450cc9065281ee7329a013db202c5c1a3f300",
+  "local_pdf_path": "raw_pdfs/2002/02-138.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2002 Advice Letter # 02-138",
+    "tags": [
+      "Advice Letter",
+      "2002"
+    ],
+    "scraped_at": "2026-01-31 16:53:45",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2002&tagCount=1&page=6"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:29.171790Z",
+    "page_count": 1,
+    "word_count": 183,
+    "char_count": 1177,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 183
+  },
+  "content": {
+    "full_text": "Re\nFarn PolrrrcAt- PRACTTcES C oMMrssroN\nP.O. Box 807 . 428 J Street o Sacramento, CA 95812-0807\n(916) 322-5660 . Fax (916) 322-0886\nMay 29,2002\nMichael Weatherford, President\nAptoslLa Selva Fire Protection District\n6934 Soquel Drive\nAptos, CA 95003\nYour Request for Advice\nOur File No. W-02-138\nDear Mr. Weatherford\nThis letter confirms the receipt of your May 3, 2002 request for advice regarding a\nAptos/La Selva Fire Protection District board member. Under the provisions of California Code\nof Regulations 18329(bX8XB), unless you are anauthorized representative of Marilyn Ramos,\nfor whom you seek assistance, the Fair Political Practices Commission cannot address your\nquestions or provide analysis. I enclose a copy of Regulati on 18329 for your review. Also\nenclosed for your information is a copy of the Ramos Advice Letter No. A-02-108. If you\nbelieve a violation of the Political Reform Act has occurred, you may file a complaint (enclosed\nis a complaint form).\nShould you have any additional questions regarding this matter, please contact the\nCommission at (916) 322-5660\nSincerely,\nMenchaca\nCounsel\n\\\nJoan Giannetta\nLegal Secretary\nEnclosures\ncc: Marilyn Ramos\n€\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2002-05-29",
+    "date_raw": "May 29,2002",
+    "requestor_name": "Weatherford\nThis",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "s or provide analysis. I enclose a copy of Regulati on 18329 for your review. Also\nenclosed for your information is a copy of the Ramos Advice Letter No. A-02-108. If you\nbelieve a violation of the Political Reform Act has occurred, you may file a complaint (enclosed\nis a complaint form).",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.6,
+    "has_standard_format": true,
+    "parsing_notes": "Format: ocr"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [
+      "18329"
+    ],
+    "prior_opinions": [
+      "A-02-108"
+    ],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:34:29.171790Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: s or provide analysis. I enclose a copy of Regulati on 18329 for your review. Also\nenclosed for your information is a copy of the Ramos Advice Letter No. A-02-108. If you\nbelieve a violation of the Political Reform Act has occurred, you may file a complaint (enclosed\nis a complaint form).",
+    "qa_source": "extracted",
+    "first_500_words": "Re Farn PolrrrcAt- PRACTTcES C oMMrssroN P.O. Box 807 . 428 J Street o Sacramento, CA 95812-0807 (916) 322-5660 . Fax (916) 322-0886 May 29,2002 Michael Weatherford, President AptoslLa Selva Fire Protection District 6934 Soquel Drive Aptos, CA 95003 Your Request for Advice Our File No. W-02-138 Dear Mr. Weatherford This letter confirms the receipt of your May 3, 2002 request for advice regarding a Aptos/La Selva Fire Protection District board member. Under the provisions of California Code of Regulations 18329(bX8XB), unless you are anauthorized representative of Marilyn Ramos, for whom you seek assistance, the Fair Political Practices Commission cannot address your questions or provide analysis. I enclose a copy of Regulati on 18329 for your review. Also enclosed for your information is a copy of the Ramos Advice Letter No. A-02-108. If you believe a violation of the Political Reform Act has occurred, you may file a complaint (enclosed is a complaint form). Should you have any additional questions regarding this matter, please contact the Commission at (916) 322-5660 Sincerely, Menchaca Counsel \\ Joan Giannetta Legal Secretary Enclosures cc: Marilyn Ramos €",
+    "summary": null
+  }
+}

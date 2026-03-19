@@ -1,0 +1,76 @@
+{
+  "id": "01-134",
+  "year": 2001,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2001/01-134.pdf",
+  "pdf_sha256": "73b46f8d12ae4e5f7a9734cc40fe964aec2d3eeddda99000d20be03488f1ae35",
+  "local_pdf_path": "raw_pdfs/2001/01-134.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2001 Advice Letter # 01-134",
+    "tags": [
+      "2001",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:33:52",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2001&tagCount=1&page=15"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:30.871315Z",
+    "page_count": 1,
+    "word_count": 175,
+    "char_count": 1141,
+    "quality_score": 0.6675,
+    "olmocr_cost": null,
+    "native_word_count": 175
+  },
+  "content": {
+    "full_text": "Fern Por-rrrcAt. Pnecrrces CoMMrssroN\nP.O. Box 807 o 428 J Street o Sacramenro. CA 95812-0807\n(916) 322-5660 . Fax (916) 322-0886\nJuly 18,2001\nSteve Hartsell, Legal Advisor\nCalifornia' s Coalition for Adequate\nSchool Housing\nI130 K Street Suite 210\nSacramento, CA 95814\nRe: Your Request for Advice\nOur File No. W-01-134\nDear Mr. Hartsell:\nThis correspondence is wriuen confrmation that the Fair Political Practices Commission\n(\"FPPC\") has withdrawn your May 30, 2001 request for advice under the provisions of the\nPolitical Reform Actr.\nAs advised in my June 13, 2001 letterto you, unless you are an authorized representative\nof the citizens' oversight committee for which you seek assistance, the FPPC cannot address\nyour questions or provide analysis. I enclose a copy of Regulation 18329 for your edification.\nShould you have any additional questions regarding this matter, please contact me at\n(el6) 322-s660.\nSincerely,\nLuisa Menchaca\nAssistant General\n}s-\nBy: Jody F\nLegal Di\nJF:jg\nEnclosure\nI Government Code sections 81000- 91014. Commission regulations appear at Title 2, sections 18109-18997, of\nthe Califomia Code of Regulations.\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2001-07-18",
+    "date_raw": "July 18,2001",
+    "requestor_name": "Hartsell",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether the FPPC can provide advice on Political Reform Act matters to a legal advisor who may not be an authorized representative of the citizens' oversight committee in question.",
+    "conclusion_synthetic": "The FPPC has withdrawn the request for advice because the requester does not appear to be an authorized representative of the citizens' oversight committee for which assistance was sought, and therefore the FPPC cannot address the questions or provide analysis under Regulation 18329.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is a withdrawal letter rather than an advice letter. No QUESTION or CONCLUSION sections present in standard format. The document confirms withdrawal of a prior request based on lack of standing/authorization. Enclosure reference to Regulation 18329 suggests eligibility requirements for seeking FPPC advice."
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [
+      "18109",
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:34:30.871315Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether the FPPC can provide advice on Political Reform Act matters to a legal advisor who may not be an authorized representative of the citizens' oversight committee in question.\n\nCONCLUSION: The FPPC has withdrawn the request for advice because the requester does not appear to be an authorized representative of the citizens' oversight committee for which assistance was sought, and therefore the FPPC cannot address the questions or provide analysis under Regulation 18329.",
+    "qa_source": "synthetic",
+    "first_500_words": "Fern Por-rrrcAt. Pnecrrces CoMMrssroN P.O. Box 807 o 428 J Street o Sacramenro. CA 95812-0807 (916) 322-5660 . Fax (916) 322-0886 July 18,2001 Steve Hartsell, Legal Advisor California' s Coalition for Adequate School Housing I130 K Street Suite 210 Sacramento, CA 95814 Re: Your Request for Advice Our File No. W-01-134 Dear Mr. Hartsell: This correspondence is wriuen confrmation that the Fair Political Practices Commission (\"FPPC\") has withdrawn your May 30, 2001 request for advice under the provisions of the Political Reform Actr. As advised in my June 13, 2001 letterto you, unless you are an authorized representative of the citizens' oversight committee for which you seek assistance, the FPPC cannot address your questions or provide analysis. I enclose a copy of Regulation 18329 for your edification. Should you have any additional questions regarding this matter, please contact me at (el6) 322-s660. Sincerely, Luisa Menchaca Assistant General }s- By: Jody F Legal Di JF:jg Enclosure I Government Code sections 81000- 91014. Commission regulations appear at Title 2, sections 18109-18997, of the Califomia Code of Regulations.",
+    "summary": "The FPPC withdrew a May 30, 2001 advice request from Steve Hartsell, legal advisor for California's Coalition for Adequate School Housing, because he lacks authorization to represent the citizens' oversight committee at issue."
+  }
+}

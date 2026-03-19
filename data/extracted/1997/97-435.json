@@ -1,0 +1,79 @@
+{
+  "id": "97-435",
+  "year": 1997,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/1997/97-435.pdf",
+  "pdf_sha256": "61093ae30d640ff429d309c7f5d621bfcd079eccc05cff8d8bde0aa496f5b750",
+  "local_pdf_path": "raw_pdfs/1997/97-435.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 1997 Advice Letter # 97-435",
+    "tags": [
+      "1997",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:44:12",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1997&tagCount=1&page=36"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:50.563940Z",
+    "page_count": 2,
+    "word_count": 240,
+    "char_count": 1647,
+    "quality_score": 0.6799999999999999,
+    "olmocr_cost": null,
+    "native_word_count": 240
+  },
+  "content": {
+    "full_text": "RAw MEHTA\nCHAIRMAN\nFAIR POLITICAL PRACTICES COMMISSION\nSeptember 3, 1997\nDavid M. Slosberg\nPolitical Campaign Reporting\n1818 Gilbreth Road, Suite 149\nBurlingame, California 94010\nRe: Your Request for Advice\nOur File No. A-97-435\nDear Mr. Slosberg:\nThis letter is in response to your request for advice regarding the provisions ofthe\nPolitical Reform Act (the “Act”).\n1\nQUESTION AND CONCLUSION\nIn ajurisdiction which has not adopted voluntaiy spending limits, what is the maximum\ncontribution allowedfrom a politicalparty to a local candidate?\nWe have advised that candidates in local jurisdictions that have not adopted voluntary\nexpenditure ceilings, the limits of Section 85304 (which applies to limitations on contributions\nfrom political parties) are 25 percent of the recommended spending ceiling in Section 85400(c),\nwhich is $1 per resident per election in the district in which the candidate is seeking elective\noffice. (Moll Advice Letter, I97-013; Ramirez Advice Letter, No. A-97-262, copies enclosed).\nFor candidates in local jurisdictions that have expenditure ceilings, the limit on contributions\nfrom political parties is 25 percent of that ceiling.\nGovernment Code sections 81000 - 91014. Commission regulations appear at title 2, sections 18109 -\n18995, of the California Code of Regulations.\n428 J STREET, SUITE 800, SACRAMENTO, CALIFORNIA 95814\n(916) 322-5660\n\n\nFile No. A-97-435\nPage 2\nIfyou have any other questions regarding this matter, please contact me at (916) 322-\n5660.\nSincerely,\nSteven G. Churchwell\nGeneral Counsel\nBy:\nJilt tech\nSta’f’f Counsel, Legal Division\nSGC:JS:jlw\nEnclosures\nI:\\LEGALDIV\\Advice Ltrs\\97435.wpd\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1997-09-03",
+    "date_raw": "September 3, 1997",
+    "requestor_name": "Slosberg",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "AND CONCLUSION\nIn ajurisdiction which has not adopted voluntaiy spending limits, what is the maximum\ncontribution allowedfrom a politicalparty to a local candidate?\nWe have advised that candidates in local jurisdictions that have not adopted voluntary\nexpenditure ceilings, the limits of Section 85304 (which applies to limitations on contributions\nfrom political parties) are 25 percent of the recommended spending ceiling in Section 85400(c),\nwhich is $1 per resident per election in the district in which the candidate is seeking elective\noffice. (Moll Advice Letter, I97-013; Ramirez Advice Letter, No. A-97-262, copies enclosed).\nFor candidates in local jurisdictions that have expenditure ceilings, the limit on contributions\nfrom political parties is 25 percent of that ceiling.\n(916) 322-5660\nIfyou have any other questions regarding this matter, please contact me at (916) 322-\n5660.",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.5499999999999999,
+    "has_standard_format": true,
+    "parsing_notes": "Format: ocr"
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "85304",
+      "85400(c)"
+    ],
+    "regulations": [
+      "18109"
+    ],
+    "prior_opinions": [
+      "A-97-262"
+    ],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.6666666666666666,
+    "classified_at": "2026-02-06T18:34:50.563940Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: AND CONCLUSION\nIn ajurisdiction which has not adopted voluntaiy spending limits, what is the maximum\ncontribution allowedfrom a politicalparty to a local candidate?\nWe have advised that candidates in local jurisdictions that have not adopted voluntary\nexpenditure ceilings, the limits of Section 85304 (which applies to limitations on contributions\nfrom political parties) are 25 percent of the recommended spending ceiling in Section 85400(c),\nwhich is $1 per resident per election in the district in which the candidate is seeking elective\noffice. (Moll Advice Letter, I97-013; Ramirez Advice Letter, No. A-97-262, copies enclosed).\nFor candidates in local jurisdictions that have expenditure ceilings, the limit on contributions\nfrom political parties is 25 percent of that ceiling.\n(916) 322-5660\nIfyou have any other questions regarding this matter, please contact me at (916) 322-\n5660.",
+    "qa_source": "extracted",
+    "first_500_words": "RAw MEHTA CHAIRMAN FAIR POLITICAL PRACTICES COMMISSION September 3, 1997 David M. Slosberg Political Campaign Reporting 1818 Gilbreth Road, Suite 149 Burlingame, California 94010 Re: Your Request for Advice Our File No. A-97-435 Dear Mr. Slosberg: This letter is in response to your request for advice regarding the provisions ofthe Political Reform Act (the “Act”). 1 QUESTION AND CONCLUSION In ajurisdiction which has not adopted voluntaiy spending limits, what is the maximum contribution allowedfrom a politicalparty to a local candidate? We have advised that candidates in local jurisdictions that have not adopted voluntary expenditure ceilings, the limits of Section 85304 (which applies to limitations on contributions from political parties) are 25 percent of the recommended spending ceiling in Section 85400(c), which is $1 per resident per election in the district in which the candidate is seeking elective office. (Moll Advice Letter, I97-013; Ramirez Advice Letter, No. A-97-262, copies enclosed). For candidates in local jurisdictions that have expenditure ceilings, the limit on contributions from political parties is 25 percent of that ceiling. Government Code sections 81000 - 91014. Commission regulations appear at title 2, sections 18109 - 18995, of the California Code of Regulations. 428 J STREET, SUITE 800, SACRAMENTO, CALIFORNIA 95814 (916) 322-5660 File No. A-97-435 Page 2 Ifyou have any other questions regarding this matter, please contact me at (916) 322- 5660. Sincerely, Steven G. Churchwell General Counsel By: Jilt tech Sta’f’f Counsel, Legal Division SGC:JS:jlw Enclosures I:\\LEGALDIV\\Advice Ltrs\\97435.wpd",
+    "summary": null
+  }
+}

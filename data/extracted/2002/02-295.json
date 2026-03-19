@@ -1,0 +1,77 @@
+{
+  "id": "02-295",
+  "year": 2002,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2002/02-295.pdf",
+  "pdf_sha256": "33ffe35c0fdf406ff2e93b97ca02a6a439871c219980d77d4b479f634f63b60f",
+  "local_pdf_path": "raw_pdfs/2002/02-295.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2002 Advice Letter # 02-295",
+    "tags": [
+      "Advice Letter",
+      "2002"
+    ],
+    "scraped_at": "2026-01-31 14:37:06",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2002&tagCount=1&page=28"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-25T22:43:48.129360Z",
+    "page_count": 1,
+    "word_count": 168,
+    "char_count": 1132,
+    "quality_score": 0.8825329953115221,
+    "olmocr_cost": 0.00251206,
+    "native_word_count": 164,
+    "haiku_cost": 0.002552
+  },
+  "content": {
+    "full_text": "FAIR POLITICAL PRACTICES COMMISSION\n428 J Street • Suite 620 • Sacramento, CA 95814-2329\n(916) 322-5660 • Fax (916) 322-0886\n\nNovember 8, 2002\n\nAntonette Simarro\nCalifornia Republican Party\n1111 L Street\nSacramento, CA 95814\n\nRe: Your Request for Advice\nOur File No. G-02-295\n\nDear Ms. Simarro:\n\nThis letter is in response to your request for information on general purpose and\ncandidate controlled committees under the provisions of the Political Reform Act (the\n\"Act\").¹ Since you seek guidance as to what defines these committees, we treat your\nletter as a general advice request under enclosed regulation 18329(c)(4)(C).\n\nI have provided in this mailing a number of documents for your review, including\napplicable statutes and previous advice letters requesting similar information.\n\nShould you need further assistance from our agency, please contact me at (916)\n322-5660.\n\nSincerely,\n\nLuisa Menchaca\nGeneral Counsel\n\nBy: John W. Wallace\nAssistant General Counsel\n\nJWW:jg\nEnclosures\n\n¹ Government Code sections 81000 – 91014. Commission regulations appear at Title 2, sections\n18109-18997, of the California Code of Regulations.",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [
+      "18109",
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-20T18:21:42.927561Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "This letter is from the Fair Political Practices Commission (FPPC) in response to a request for advice regarding general purpose and candidate controlled committees under the Political Reform Act (\"Act\"). The FPPC treats the request as a general advice request under regulation 18329(c)(4)(C). The letter provides documents for review, including applicable statutes and previous advice letters requesting similar information. If further assistance is needed, the contact number provided is (916) 322-5660. Sincerely, Luisa Menchaca General Counsel By: John W. Wallace Assistant General Counsel JWW:jg Enclosures 1 Government Code sections 81000 – 91014. Commission regulations appear at Title 2, sections 18109-18997, of the California Code of Regulations.",
+    "qa_source": "extracted",
+    "first_500_words": "This letter is from the Fair Political Practices Commission (FPPC) in response to a request for advice regarding general purpose and candidate controlled committees under the Political Reform Act (\"Act\"). The FPPC treats the request as a general advice request under regulation 18329(c)(4)(C). The letter provides documents for review, including applicable statutes and previous advice letters requesting similar information. If further assistance is needed, the contact number provided is (916) 322-5660. Sincerely, Luisa Menchaca General Counsel By: John W. Wallace Assistant General Counsel JWW:jg Enclosures 1 Government Code sections 81000 – 91014. Commission regulations appear at Title 2, sections 18109-18997, of the California Code of Regulations.",
+    "summary": null
+  }
+}

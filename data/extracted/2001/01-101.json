@@ -1,0 +1,76 @@
+{
+  "id": "01-101",
+  "year": 2001,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2001/01-101.pdf",
+  "pdf_sha256": "29f047ab816b9ea0fd6addee55301d36f99964d3a5b94ac9648cac9aa77f793a",
+  "local_pdf_path": "raw_pdfs/2001/01-101.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2001 Advice Letter # 01-101",
+    "tags": [
+      "2001",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:51:10",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2001&tagCount=1"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T15:02:44.222585Z",
+    "page_count": 1,
+    "word_count": 112,
+    "char_count": 792,
+    "quality_score": 0.8518091990273207,
+    "olmocr_cost": 0.00255678,
+    "native_word_count": 126
+  },
+  "content": {
+    "full_text": "May 2, 2001\n\nDavid Bauer\n400 Capitol Mall, Suite 1560\nSacramento, CA 95814\n\nRe: Your Request for Advice\nOur File No. W-01-101\n\nDear Mr. Bauer:\n\nThis correspondence memorializes our May 1, 2001, conversation concerning the withdrawal your April 20, 2001, letter to the Fair Political Practices Commission requesting hypothetical advice on criteria for contribution itemization. (Regulation 18329(c).)\n\nWe encourage you to contact our toll-free help line with questions you may have regarding the provisions of the Political Reform Act¹ at 1-866-275-3772.\n\nSincerely,\n\nLuisa Menchaca\nGeneral Counsel\n\nBy: Joan Giannetta\nSecretary, Legal Division\n\n/jg\n\n¹ Government Code sections 81000-91014. Commission regulations appear at title 2, sections 18109-18996, of the California Code of Regulations.",
+    "full_text_markdown": "May 2, 2001\n\nDavid Bauer\n400 Capitol Mall, Suite 1560\nSacramento, CA 95814\n\nRe: Your Request for Advice\nOur File No. W-01-101\n\nDear Mr. Bauer:\n\nThis correspondence memorializes our May 1, 2001, conversation concerning the withdrawal your April 20, 2001, letter to the Fair Political Practices Commission requesting hypothetical advice on criteria for contribution itemization. (Regulation 18329(c).)\n\nWe encourage you to contact our toll-free help line with questions you may have regarding the provisions of the Political Reform Act¹ at 1-866-275-3772.\n\nSincerely,\n\nLuisa Menchaca\nGeneral Counsel\n\nBy: Joan Giannetta\nSecretary, Legal Division\n\n/jg\n\n¹ Government Code sections 81000-91014. Commission regulations appear at title 2, sections 18109-18996, of the California Code of Regulations."
+  },
+  "parsed": {
+    "date": "2001-05-02",
+    "date_raw": "May 2, 2001",
+    "requestor_name": "Bauer",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [
+      "18109",
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-20T15:02:44.222585Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "May 2, 2001 David Bauer 400 Capitol Mall, Suite 1560 Sacramento, CA 95814 Re: Your Request for Advice Our File No. W-01-101 Dear Mr. Bauer: This correspondence memorializes our May 1, 2001, conversation concerning the withdrawal your April 20, 2001, letter to the Fair Political Practices Commission requesting hypothetical advice on criteria for contribution itemization. (Regulation 18329(c).) We encourage you to contact our toll-free help line with questions you may have regarding the provisions of the Political Reform Act¹ at 1-866-275-3772. Sincerely, Luisa Menchaca General Counsel By: Joan Giannetta Secretary, Legal Division /jg ¹ Government Code sections 81000-91014. Commission regulations appear at title 2, sections 18109-18996, of the California Code of Regulations.",
+    "qa_source": "extracted",
+    "first_500_words": "May 2, 2001 David Bauer 400 Capitol Mall, Suite 1560 Sacramento, CA 95814 Re: Your Request for Advice Our File No. W-01-101 Dear Mr. Bauer: This correspondence memorializes our May 1, 2001, conversation concerning the withdrawal your April 20, 2001, letter to the Fair Political Practices Commission requesting hypothetical advice on criteria for contribution itemization. (Regulation 18329(c).) We encourage you to contact our toll-free help line with questions you may have regarding the provisions of the Political Reform Act¹ at 1-866-275-3772. Sincerely, Luisa Menchaca General Counsel By: Joan Giannetta Secretary, Legal Division /jg ¹ Government Code sections 81000-91014. Commission regulations appear at title 2, sections 18109-18996, of the California Code of Regulations.",
+    "summary": null
+  }
+}

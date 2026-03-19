@@ -1,0 +1,73 @@
+{
+  "id": "82A185",
+  "year": 1982,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1982/82A185.PDF",
+  "pdf_sha256": "17379fecdbbc07ea3430cfff585f25bcb33ad135e0ebf0918f73070b101e4166",
+  "local_pdf_path": "raw_pdfs/1982/82A185.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1982 Advice Letter # 82A185",
+    "tags": [
+      "1982",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:30:05",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1982&tagCount=1&page=7"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T22:00:15.399866Z",
+    "page_count": 1,
+    "word_count": 69,
+    "char_count": 434,
+    "quality_score": 0.7716478642257819,
+    "olmocr_cost": 0.00245874,
+    "native_word_count": 72
+  },
+  "content": {
+    "full_text": "State of California\n\nMemorandum\n\nTo: File\n\nDate: Nov. 3, 1982\n\nAdvice No. M-82-145\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION\n        Janis McLean and Bob Leidigh\n\nSubject: Promise to Pay\n\nAn employer is a source of income to an official, if the official and the employer have made mutual promises (job offer and acceptance) and the agreement is specific in its terms. This constitutes a \"promise to pay\" $250 or more.\n\nJM:plh",
+    "full_text_markdown": "State of California\n\nMemorandum\n\nTo: File\n\nDate: Nov. 3, 1982\n\nAdvice No. M-82-145\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION\n        Janis McLean and Bob Leidigh\n\nSubject: Promise to Pay\n\nAn employer is a source of income to an official, if the official and the employer have made mutual promises (job offer and acceptance) and the agreement is specific in its terms. This constitutes a \"promise to pay\" $250 or more.\n\nJM:plh"
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [
+      "M-82-145"
+    ],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T22:00:15.399866Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "**State of California** **Memorandum** To: File Date: Nov. 3, 1982 Advice No. M-82-145 From: FAIR POLITICAL PRACTICES COMMISSION Janis McLean and Bob Leidigh Subject: Promise to Pay An employer is a source of income to an official, if the official and the employer have made mutual promises (job offer and acceptance) and the agreement is specific in its terms. This constitutes a \"promise to pay\" $250 or more. JM:plh",
+    "qa_source": "extracted",
+    "first_500_words": "**State of California** **Memorandum** To: File Date: Nov. 3, 1982 Advice No. M-82-145 From: FAIR POLITICAL PRACTICES COMMISSION Janis McLean and Bob Leidigh Subject: Promise to Pay An employer is a source of income to an official, if the official and the employer have made mutual promises (job offer and acceptance) and the agreement is specific in its terms. This constitutes a \"promise to pay\" $250 or more. JM:plh",
+    "summary": null
+  }
+}

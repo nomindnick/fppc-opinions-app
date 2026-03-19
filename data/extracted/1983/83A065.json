@@ -1,0 +1,71 @@
+{
+  "id": "83A065",
+  "year": 1983,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1983/83A065.PDF",
+  "pdf_sha256": "b425ba6072f2bb6b2f1b8aceb1f73ca28571bf65ccb2675bbc9230603685c2fa",
+  "local_pdf_path": "raw_pdfs/1983/83A065.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1983 Advice Letter # 83A065",
+    "tags": [
+      "1983",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:31:41",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1983&tagCount=1&page=3"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:50.929040Z",
+    "page_count": 1,
+    "word_count": 232,
+    "char_count": 1410,
+    "quality_score": 0.5625,
+    "olmocr_cost": null,
+    "native_word_count": 232
+  },
+  "content": {
+    "full_text": "TO: \nBOB S. \nBARBARA \nFROM: \nHelen \nJAY \n[ ] BOB L. \nDATE: 2/2/83 \n[ \nJEANNE \n[vJ JANIS \n[vi LYNN \n] DIANE \nHELEN \n] BOB B. \n[ ] OTHER \nfX] TELEPHONE ADVICE - SEE BELOW \n[ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT \n(IF YOU HAVE ANY Cm1MENTS, NOTIFY ADVISOR WITHIN 1 DAY) \nFILE LOCATION: 82015, 18215 \n--------------------------------------------------------------------------\nINCLUDE IN ADVICE PACKAGE: \nYES [ ] \nNO [X] \nCALLER. ________ J_o_h __ \nn __ \nM_c_F_a_r_l_a __ \nn_e ____________________ _ \nREPRESENTING Morongo Unified School District \nPHONE NUMBER. ______________________________ __ \nQUESTION: \nCan a PAC use a school district Directory for PAC mailer re \nlocal measure? \nIf so, is it reportable and how is it reported? \nANSWER: \nUse of the district's directory may be prohibited \"misuse \nof public resources\" and PAC should check with the local D.A. \nor the A.G. on the legality of use of the directory. \nIf a school district allows all people who request it the USE \nANS~.JER : \nof the directory, then an \"in-kind contribution has not been \nmade to the PAC. \nHowever, if the school districtis selective in whom they \nallow the use of the directory, then an \"in-kind\" contribution \nhas been made and must be reported as such by the school \ndistrict and by the PAC. \nThe fair market value is based on the cost of a \nsimilarly sized list that could be purchased by the PAC from \na mailing house. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1983-02-02",
+    "date_raw": "2/2/83",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Can a PAC use a school district Directory for PAC mailer re \nlocal measure? \nIf so, is it reportable and how is it reported? \nANSWER: \nUse of the district's directory may be prohibited \"misuse \nof public resources\" and PAC should check with the local D.A. \nor the A.G. on the legality of use of the directory. \nIf a school district allows all people who request it the USE \nANS~.JER : \nof the directory, then an \"in-kind contribution has not been \nmade to the PAC. \nHowever, if the school districtis selective in whom they \nallow the use of the directory, then an \"in-kind\" contribution \nhas been made and must be reported as such by the school \ndistrict and by the PAC. \nThe fair market value is based on the cost of a \nsimilarly sized list that could be purchased by the PAC from \na mailing house.",
+    "conclusion": "Use of the district's directory may be prohibited \"misuse of public resources\" and PAC should check with the local D.A. or the A.G. on the legality of use of the directory. If a school district allows all people who request it the use of the directory, then an \"in-kind contribution\" has not been made to the PAC. However, if the school district is selective in whom they allow the use of the directory, then an \"in-kind\" contribution has been made and must be reported as such by the school district and by the PAC. The fair market value is based on the cost of a similarly sized list that could be purchased by the PAC from a mailing house.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a Political Action Committee (PAC) may use a school district's directory for a mailing related to a local measure, and if so, whether such use constitutes a reportable in-kind contribution.",
+    "conclusion_synthetic": "FPPC advises that PAC use of a school directory may violate public resources rules and requires local D.A./A.G. review. Use constitutes a non-reportable benefit only if the directory is available to all requesters; selective access creates a reportable in-kind contribution valued at the fair market cost of a comparable commercial mailing list.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern; LLM: Telephone advice format with both QUESTION and ANSWER sections present. Caller: John McFarlane representing Morongo Unified School District. Document marked not to be included in advice package (NO marked). Minor OCR irregularities noted but content is clear."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:36:50.929040Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Can a PAC use a school district Directory for PAC mailer re \nlocal measure? \nIf so, is it reportable and how is it reported? \nANSWER: \nUse of the district's directory may be prohibited \"misuse \nof public resources\" and PAC should check with the local D.A. \nor the A.G. on the legality of use of the directory. \nIf a school district allows all people who request it the USE \nANS~.JER : \nof the directory, then an \"in-kind contribution has not been \nmade to the PAC. \nHowever, if the school districtis selective in whom they \nallow the use of the directory, then an \"in-kind\" contribution \nhas been made and must be reported as such by the school \ndistrict and by the PAC. \nThe fair market value is based on the cost of a \nsimilarly sized list that could be purchased by the PAC from \na mailing house.\n\nCONCLUSION: Use of the district's directory may be prohibited \"misuse of public resources\" and PAC should check with the local D.A. or the A.G. on the legality of use of the directory. If a school district allows all people who request it the use of the directory, then an \"in-kind contribution\" has not been made to the PAC. However, if the school district is selective in whom they allow the use of the directory, then an \"in-kind\" contribution has been made and must be reported as such by the school district and by the PAC. The fair market value is based on the cost of a similarly sized list that could be purchased by the PAC from a mailing house.",
+    "qa_source": "mixed",
+    "first_500_words": "TO: BOB S. BARBARA FROM: Helen JAY [ ] BOB L. DATE: 2/2/83 [ JEANNE [vJ JANIS [vi LYNN ] DIANE HELEN ] BOB B. [ ] OTHER fX] TELEPHONE ADVICE - SEE BELOW [ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT (IF YOU HAVE ANY Cm1MENTS, NOTIFY ADVISOR WITHIN 1 DAY) FILE LOCATION: 82015, 18215 -------------------------------------------------------------------------- INCLUDE IN ADVICE PACKAGE: YES [ ] NO [X] CALLER. ________ J_o_h __ n __ M_c_F_a_r_l_a __ n_e ____________________ _ REPRESENTING Morongo Unified School District PHONE NUMBER. ______________________________ __ QUESTION: Can a PAC use a school district Directory for PAC mailer re local measure? If so, is it reportable and how is it reported? ANSWER: Use of the district's directory may be prohibited \"misuse of public resources\" and PAC should check with the local D.A. or the A.G. on the legality of use of the directory. If a school district allows all people who request it the USE ANS~.JER : of the directory, then an \"in-kind contribution has not been made to the PAC. However, if the school districtis selective in whom they allow the use of the directory, then an \"in-kind\" contribution has been made and must be reported as such by the school district and by the PAC. The fair market value is based on the cost of a similarly sized list that could be purchased by the PAC from a mailing house.",
+    "summary": "Telephone advice letter regarding whether a PAC may use a school district directory for mailings on a local measure and the reporting requirements for such use, depending on whether the directory access is selective or open to all requesters."
+  }
+}

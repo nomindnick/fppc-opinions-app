@@ -1,0 +1,77 @@
+{
+  "id": "80A042",
+  "year": 1980,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1980/80A042.PDF",
+  "pdf_sha256": "fee4fdf283be887f4cb7cb297aeb23fc3511103d67d7e8773575c147c9cf5b57",
+  "local_pdf_path": "raw_pdfs/1980/80A042.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1980 Advice Letter # 80A042",
+    "tags": [
+      "1980",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:27:54",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1980&tagCount=1&page=14"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T16:17:08.949550Z",
+    "page_count": 2,
+    "word_count": 578,
+    "char_count": 3904,
+    "quality_score": 0.9246490642319547,
+    "olmocr_cost": 0.005387899999999999,
+    "native_word_count": 39,
+    "haiku_cost": 0.006328
+  },
+  "content": {
+    "full_text": "State of California\nFair Political Practices Commission\nP.O. BOX 807 • SACRAMENTO, 95804 • 1100 K STREET BUILDING, SACRAMENTO, 95814\n107 SOUTH BROADWAY • • • SUITE 7007 • • •\nLOS ANGELES, 90012\n\nJuly 25, 1980\n\nPAUL FARBER & ASSOCIATES\nAttn: Peggy\n1990 South Coast Highway, Suite #5\nLaguna Beach, California 92651\n\nA-80-07-042\n\nGentlemen:\n\nThis letter is in response to your request during our\ntelephone conversation of July 23, 1980.\n\nYou presented the following facts: Mr. Paul Farber,\ntreasurer for a local candidate would like to terminate as\ntreasurer for the committee organized specifically to support\nthis particular candidate, and you asked how this can be done.\n\n2 Cal. Administrative Code Section 18404(b) states that\nthe treasurer of a committee which qualifies pursuant to\nGovernment Code Section 82013(a) may terminate the committee's\nstatus as a committee only by filing a Statement of Termination\ndeclaring, under penalty of perjury, that the committee:\n\n(1) has ceased to receive contributions or make expendi-\ntures and does not anticipate receiving contributions or making\nexpenditures in the future;\n\n(2) has eliminated or has declared that it has no intention\nor ability to discharge all of its debts, loans received and other\nobligations;\n\n(3) has no surplus funds; and\n\n(4) has filed all required campaign statements disclosing\nall reportable transactions.\n\nTherefore, if the committee meets the requirements set\nforth in this adopted regulation, a form 415, Termination of\nCommittee may be filed with the City Clerk of Laguna Beach as\nwell as the Secretary of State. By doing so, the committee\nceases to have any obligation to file campaign statements.\nHowever, if at any time in the future, any contributions are\n\nSACRAMENTO (916) 322-5660 • LOS ANGELES (213) 620-5196\n\n5904(b)\n82013\n84206\n\nPaul Farber & Associates\nPage 2\n\nraised, or expenditures made towards the deficit of the committee,\nthe committee would then be required to file semi-annual campaign\nstatements pursuant to Government Code Section 84206. The schedule\nfor filing semi-annual campaign statement is:\n\nPeriod Covered                                Due By\n\nJanuary 1 through June 30                     July 31\n\nJuly 1 through December 31                    January 31\n\n     It should be noted that the reporting period for statements\nfiled will be from the day following the closing date of your last\ncampaign statement filed, to either June 30 or December 31\ndepending on which period the reportable transaction occurs.\n\n     I also advised that since the committee may prefer to\ntransfer all of its obligations (accrued expenses and outstanding\nloans) to the candidate, both the committee and candidate must\nreport the transfer of the obligations on their respective semi-\nannual campaign statements.\n\n     The committee is required to report the transfer of the\nobligations as an expenditure to the candidate, and the candidate\nmust report receipt of the transfer from the committee.\n\n     Prepare and attach a statement of explanation to the\ncandidate's and committee's reports indicating that the candidate\nhas assumed the responsibility of the unpaid loans and accrued\nexpenses. Since this will be the committee's final campaign\nstatement, the committee could then file a form 415, Termination\nof Committee.\n\n     The candidate must file a form 430, Candidate's Long Form,\nto show receipt of the obligations from the committee.\n\n     I have enclosed a copy of adopted regulations 18404, a\ncopy of the Political Reform Act, and copies of forms 420, 430\nand 415 for your use and information. If I can be of further\nassistance, please do not hesitate to contact me.\n\n                                        Sincerely,\n\n                                        Helen P. Arriola\n                                        Political Reform\n                                        Consultant\n\nHPA:jg\n\nEnclosures: (5)",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1980-07-25",
+    "date_raw": "July 25, 1980",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Mr. Paul Farber, treasurer for a local candidate would like to terminate as treasurer for the committee organized specifically to support this particular candidate, and you asked how this can be done.",
+    "conclusion": "If the committee meets the requirements set forth in 2 Cal. Administrative Code Section 18404(b) (ceased receiving contributions/making expenditures, eliminated all debts and obligations, has no surplus funds, and filed all required campaign statements), a Form 415 Termination of Committee may be filed with the City Clerk and Secretary of State. The committee may transfer its obligations to the candidate, which must be reported on respective semi-annual campaign statements with an explanation statement attached, and the candidate must file Form 430 to show receipt of the obligations.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "How can a committee treasurer terminate the committee's status and cease filing campaign statements?",
+    "conclusion_synthetic": "The committee can terminate by filing Form 415 if it meets four statutory requirements including ceasing all financial activity and filing all required statements. If the committee has outstanding obligations, these must be transferred to the candidate and reported on both the committee's final statement and the candidate's Form 430 with an explanation.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Telephone advice letter converted to written response. Clear question and conclusion sections present. Document includes regulatory citations and forms guidance. High confidence extraction due to well-structured content and clear Q&A format."
+  },
+  "citations": {
+    "government_code": [
+      "82013(a)",
+      "84206"
+    ],
+    "regulations": [
+      "18404"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T16:39:49.266111Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Mr. Paul Farber, treasurer for a local candidate would like to terminate as treasurer for the committee organized specifically to support this particular candidate, and you asked how this can be done.\n\nCONCLUSION: If the committee meets the requirements set forth in 2 Cal. Administrative Code Section 18404(b) (ceased receiving contributions/making expenditures, eliminated all debts and obligations, has no surplus funds, and filed all required campaign statements), a Form 415 Termination of Committee may be filed with the City Clerk and Secretary of State. The committee may transfer its obligations to the candidate, which must be reported on respective semi-annual campaign statements with an explanation statement attached, and the candidate must file Form 430 to show receipt of the obligations.",
+    "qa_source": "mixed",
+    "first_500_words": "**State of California Fair Political Practices Commission** P.O. BOX 807 • SACRAMENTO, 95804 • 1100 K STREET BUILDING, SACRAMENTO, 95814 107 SOUTH BROADWAY • • • SUITE 7007 • • • LOS ANGELES, 90012 July 25, 1980 PAUL FARBER & ASSOCIATES Attn: Peggy 1990 South Coast Highway, Suite #5 Laguna Beach, California 92651 Gentlemen: This letter is in response to your request during our telephone conversation of July 23, 1980. You presented the following facts: Mr. Paul Farber, treasurer for a local candidate would like to terminate as treasurer for the committee organized specifically to support this particular candidate, and you asked how this can be done. 2 Cal. Administrative Code Section 18404(b) states that the treasurer of a committee which qualifies pursuant to Government Code Section 82013(a) may terminate the committee's status as a committee only by filing a Statement of Termination declaring, under penalty of perjury, that the committee: (1) has ceased to receive contributions or make expenditures and does not anticipate receiving contributions or making expenditures in the future; (2) has eliminated or has declared that it has no intention or ability to discharge all of its debts, loans received and other obligations; (3) has no surplus funds; and (4) has filed all required campaign statements disclosing all reportable transactions. Therefore, if the committee meets the requirements set forth in this adopted regulation, a form 415, Termination of Committee may be filed with the City Clerk of Laguna Beach as well as the Secretary of State. By doing so, the committee ceases to have any obligation to file campaign statements. However, if at any time in the future, any contributions are raised, or expenditures made towards the deficit of the committee, the committee would then be required to file semi-annual campaign statements pursuant to Government Code Section 84206. The schedule for filing semi-annual campaign statement is: Period Covered Due By January 1 through June 30 July 31 July 1 through December 31 January 31 It should be noted that the reporting period for statements filed will be from the day following the closing date of your last campaign statement filed, to either June 30 or December 31 depending on which period the reportable transaction occurs. I also advised that since the committee may prefer to transfer all of its obligations (accrued expenses and outstanding loans) to the candidate, both the committee and candidate must report the transfer of the obligations on their respective semi-annual campaign statements. The committee is required to report the transfer of the obligations as an expenditure to the candidate, and the candidate must report receipt of the transfer from the committee. Prepare and attach a statement of explanation to the candidate's and committee's reports indicating that the candidate has assumed the responsibility of the unpaid loans and accrued expenses. Since this will be the committee's final campaign statement, the committee could then file a form 415, Termination of Committee. The candidate must file a form 430, Candidate's Long form, to show receipt of",
+    "summary": "FPPC advises Paul Farber's committee on the procedures to terminate its status as a candidate committee, including the required conditions under Administrative Code Section 18404(b) and the process for transferring any outstanding obligations to the candidate."
+  }
+}

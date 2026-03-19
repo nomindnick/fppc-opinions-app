@@ -1,0 +1,71 @@
+{
+  "id": "01-100",
+  "year": 2001,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2001/01-100.pdf",
+  "pdf_sha256": "6e89fdd4f1241db3c2bec03ae0ad75d7525eabc1f6e60fe65334119be709f803",
+  "local_pdf_path": "raw_pdfs/2001/01-100.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2001 Advice Letter # 01-100",
+    "tags": [
+      "2001",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:33:25",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2001&tagCount=1&page=9"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:30.162913Z",
+    "page_count": 1,
+    "word_count": 171,
+    "char_count": 1025,
+    "quality_score": 0.6325000000000001,
+    "olmocr_cost": null,
+    "native_word_count": 171
+  },
+  "content": {
+    "full_text": "Re:\nFarn Polrrrcar Pnacrrcps CovrurrssroN\nP.O. Box 807 . -t28 J Street . Sacramento. CA 95812-0807\n(916) 322-5660 . Fax (916) 322-0886\nMay 21, 2001\nDavid Keller, Councilmember\nCity of Patterson\n729 No. Third Street\nPatterson, CA 95363\nYour Request for Advice\nOur File No. W-01-100\nDear Mr. Keller:\n.'This letter is to confirm our telephone conversation of May 17,2001, in which\nyou informed me that the decision about which you requested advice has already been\nmade. Because we do not advise with respect to past conduct, we decline to provide\nadvice on this matter. You have indicated that there is another decision related to this\nmatter that will be coming before the city council, and that you will submit a new request\nfor advice on that matter. We hope that we may be of assistance on that matter.\n,' \nIf you have any other questions regarding this matter, please contact me at (916)\n322-5660.\nSincerely,\nLuisa Menchaca\nGeneral Counsel\n{\nBy: Holly\nArmstrong\nStaff Counsel, Legal Division\nt{BA:jg\nI:\\Adviceltrs\\01- 100\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2001-05-21",
+    "date_raw": "May 21, 2001",
+    "requestor_name": "Keller",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "Because we do not advise with respect to past conduct, we decline to provide advice on this matter.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether the FPPC would provide advice regarding a decision that had already been made by the city council.",
+    "conclusion_synthetic": "The FPPC declines to provide advice because the decision in question has already been made, as the FPPC does not advise on past conduct. However, the FPPC indicates willingness to advise on a related future decision that will come before the city council.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Declination letter with no formal QUESTION or CONCLUSION sections. Document appears to follow up on a telephone conversation. Advice was declined due to timing (past conduct). FPPC expressed willingness to advise on future related matter."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:34:30.162913Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether the FPPC would provide advice regarding a decision that had already been made by the city council.\n\nCONCLUSION: Because we do not advise with respect to past conduct, we decline to provide advice on this matter.",
+    "qa_source": "mixed",
+    "first_500_words": "Re: Farn Polrrrcar Pnacrrcps CovrurrssroN P.O. Box 807 . -t28 J Street . Sacramento. CA 95812-0807 (916) 322-5660 . Fax (916) 322-0886 May 21, 2001 David Keller, Councilmember City of Patterson 729 No. Third Street Patterson, CA 95363 Your Request for Advice Our File No. W-01-100 Dear Mr. Keller: .'This letter is to confirm our telephone conversation of May 17,2001, in which you informed me that the decision about which you requested advice has already been made. Because we do not advise with respect to past conduct, we decline to provide advice on this matter. You have indicated that there is another decision related to this matter that will be coming before the city council, and that you will submit a new request for advice on that matter. We hope that we may be of assistance on that matter. ,' If you have any other questions regarding this matter, please contact me at (916) 322-5660. Sincerely, Luisa Menchaca General Counsel { By: Holly Armstrong Staff Counsel, Legal Division t{BA:jg I:\\Adviceltrs\\01- 100",
+    "summary": "The FPPC declines to provide advice to Councilmember David Keller regarding a decision that has already been made by the city council, consistent with its policy of not advising on past conduct. The FPPC indicates availability to advise on a related future decision."
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "77ADV-77-427",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-427.PDF",
+  "pdf_sha256": "1de41f333c73b886228f89eda82d34b235344c97760bfc73acc7a1a1c2194ca5",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-427.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-427",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:21:40",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=37"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:15.656014Z",
+    "page_count": 2,
+    "word_count": 176,
+    "char_count": 989,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 176
+  },
+  "content": {
+    "full_text": "Mr. \n32 -\nDear lJIr. \nI \nto \n:bw \n9, 1917 \n8 \nif I can \n, \n\n\nHenry Giler \n32 - 7th Place, !l501 \nLong Beach, California 90802 \nFair Political Practices Commission \n1100 K Street \nSacramento, Ca. 95814 \nDear Sir: \nNovember 26, 1917 \nI am going to be treasurer for Edith Pollach, who is going to \nrun for City Council in The First District of Long Beach. The \nonly material I have is a January, 1976 information manual. \nWould you please send me whatever you think I would need including \nthe required forms. \nGoing through your manual, I find at least two questions unanswered. \nWhat happens when one party donates an art object, and it is sold \nat a party? Who made the donation- the one who contributed the \narticle or the one who buys it7 \nAnother question is along the same line. A local theatre owner \nis willing to refund to our campaign one half of the admission \nprice of those persons who attend his theatre after being \nreferred by us. Again, who is the contributor? \nSincerely, \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "What happens when one party donates an art object, and it is sold at a party? Who made the donation- the one who contributed the article or the one who buys it? Another question is along the same line. A local theatre owner is willing to refund to our campaign one half of the admission price of those persons who attend his theatre after being referred by us. Again, who is the contributor?",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requester seeks clarification on campaign contribution attribution rules, specifically regarding donated art objects sold at fundraising events and theatre admission price refunds from a local theatre owner.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.75,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an incoming request/letter from a member of the public to the FPPC, not an FPPC response letter. No CONCLUSION section exists. Document is dated November 26, 1917 (likely a typo for 1977 based on document ID year). Some text appears corrupted or illegible at the top of the document."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:15.656014Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: What happens when one party donates an art object, and it is sold at a party? Who made the donation- the one who contributed the article or the one who buys it? Another question is along the same line. A local theatre owner is willing to refund to our campaign one half of the admission price of those persons who attend his theatre after being referred by us. Again, who is the contributor?",
+    "qa_source": "mixed",
+    "first_500_words": "Mr. 32 - Dear lJIr. I to :bw 9, 1917 8 if I can , Henry Giler 32 - 7th Place, !l501 Long Beach, California 90802 Fair Political Practices Commission 1100 K Street Sacramento, Ca. 95814 Dear Sir: November 26, 1917 I am going to be treasurer for Edith Pollach, who is going to run for City Council in The First District of Long Beach. The only material I have is a January, 1976 information manual. Would you please send me whatever you think I would need including the required forms. Going through your manual, I find at least two questions unanswered. What happens when one party donates an art object, and it is sold at a party? Who made the donation- the one who contributed the article or the one who buys it7 Another question is along the same line. A local theatre owner is willing to refund to our campaign one half of the admission price of those persons who attend his theatre after being referred by us. Again, who is the contributor? Sincerely,",
+    "summary": "Henry Giler, serving as treasurer for a City Council candidate in Long Beach, requests FPPC forms and materials, and asks two questions about contribution attribution for donated art sold at fundraisers and theatre admission refunds."
+  }
+}

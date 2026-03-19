@@ -1,0 +1,73 @@
+{
+  "id": "89-699",
+  "year": 1989,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1989/fppc-advice/89-699.PDF",
+  "pdf_sha256": "973b5147fe30c2447d32070fc10deab022e0339d2a04b645b9417b37654ea8c4",
+  "local_pdf_path": "raw_pdfs/1989/89-699.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1989 Advice Letter # 89-699",
+    "tags": [
+      "Advice Letter",
+      "1989"
+    ],
+    "scraped_at": "2026-01-31 16:02:22",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1989&tagCount=1&page=20"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:50.824875Z",
+    "page_count": 1,
+    "word_count": 221,
+    "char_count": 1405,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 221
+  },
+  "content": {
+    "full_text": "California \nFair Political \nPractices Commission \nHonorable Doug Vagim \nFresno County Supervisor \nHall of Records, Room 300 \n2281 Tulare Street \nFresno, CA \n93721-2198 \nDear Mr. Vagim: \nDecember 22, 1989 \nRe: \nLetter No. 89-699 \nYour letter requesting advice under the Political Reform Act \nwas received on December 19, 1989 by the Fair Political Practices \nCommission. \nIf you have any questions about your advice request, \nyou may contact Jill Stecher an attorney in the Legal Division, \ndirectly at (916) 322-5901. \nWe try to answer all advice requests promptly. \nTherefore, \nunless your request poses particularly complex legal questions, or \nmore information is needed, you should expect a response within 21 \nworking days if your request seeks formal written advice. \nIf more \ninformation is needed, the person assigned to prepare a response \nto your request will contact you shortly to advise you as to \ninformation needed. \nIf your request is for informal assistance, \nwe will answer it as quickly as we can. \n(See Commission \nRegulation 18329 (2 Cal. Code of Regs. Sec. 18329).) \nYou also should be aware that your letter and our response \nare public records which may be disclosed to the public upon \nreceipt of a proper request for disclosure. \nKED:plh \nVery truly yours, \nKathryn E: Donovan \nGeneral Counsel \n428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804*0807 9 \n(916)322~5660 \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1989-12-22",
+    "date_raw": "December 22, 1989",
+    "requestor_name": "Vagim",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "This document is an acknowledgment letter confirming receipt of an advice request from Fresno County Supervisor Doug Vagim under the Political Reform Act, but does not contain the substantive legal question.",
+    "conclusion_synthetic": "The FPPC confirms receipt of the advice request and advises that a response will be provided within 21 working days for formal requests or as quickly as possible for informal assistance requests, with notification if additional information is needed.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an acknowledgment/receipt letter rather than a substantive advice letter. No QUESTION or CONCLUSION sections present. The document confirms the request was received and outlines the FPPC's response procedures and timeline. Contact attorney Jill Stecher identified for follow-up questions."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:35:50.824875Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: This document is an acknowledgment letter confirming receipt of an advice request from Fresno County Supervisor Doug Vagim under the Political Reform Act, but does not contain the substantive legal question.\n\nCONCLUSION: The FPPC confirms receipt of the advice request and advises that a response will be provided within 21 working days for formal requests or as quickly as possible for informal assistance requests, with notification if additional information is needed.",
+    "qa_source": "synthetic",
+    "first_500_words": "California Fair Political Practices Commission Honorable Doug Vagim Fresno County Supervisor Hall of Records, Room 300 2281 Tulare Street Fresno, CA 93721-2198 Dear Mr. Vagim: December 22, 1989 Re: Letter No. 89-699 Your letter requesting advice under the Political Reform Act was received on December 19, 1989 by the Fair Political Practices Commission. If you have any questions about your advice request, you may contact Jill Stecher an attorney in the Legal Division, directly at (916) 322-5901. We try to answer all advice requests promptly. Therefore, unless your request poses particularly complex legal questions, or more information is needed, you should expect a response within 21 working days if your request seeks formal written advice. If more information is needed, the person assigned to prepare a response to your request will contact you shortly to advise you as to information needed. If your request is for informal assistance, we will answer it as quickly as we can. (See Commission Regulation 18329 (2 Cal. Code of Regs. Sec. 18329).) You also should be aware that your letter and our response are public records which may be disclosed to the public upon receipt of a proper request for disclosure. KED:plh Very truly yours, Kathryn E: Donovan General Counsel 428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804*0807 9 (916)322~5660",
+    "summary": "This is an FPPC acknowledgment letter confirming receipt of an advice request from Honorable Doug Vagim, Fresno County Supervisor, dated December 22, 1989, and setting expectations for response timeline and procedures."
+  }
+}

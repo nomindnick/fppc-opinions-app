@@ -1,0 +1,73 @@
+{
+  "id": "77ADV-77-386",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-386.PDF",
+  "pdf_sha256": "d8f1663c2df4c05d05d17d7898d84b6522ab0bfdfe8fa57d769550298c299111",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-386.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-386",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:22:02",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=42"
+  },
+  "extraction": {
+    "method": "native+olmocr",
+    "extracted_at": "2026-02-08T17:18:03.991151Z",
+    "page_count": 1,
+    "word_count": 48,
+    "char_count": 323,
+    "quality_score": 0.425,
+    "olmocr_cost": 0.00241918,
+    "native_word_count": 48
+  },
+  "content": {
+    "full_text": "State of California \nMemorandum \nTo \n: File \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nTed Prim \nDate \n-7?-3cr? \nSubject: Legal description of home location. \nFeb. 7, 1977 \nI advised Judge Bonnie Lee Martin that a legal description \nof her home location satisfied the reporting requirements \nof Section 87206(c). \nTP: jo \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a legal description of a home location satisfies the reporting requirements under Section 87206(c).",
+    "conclusion_synthetic": "A legal description of a home location satisfies the reporting requirements of Section 87206(c).",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.75,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is a brief internal memorandum documenting oral advice rather than a formal advice letter with structured Q&C sections. No formal question or conclusion sections present; content extracted from subject line and body text."
+  },
+  "citations": {
+    "government_code": [
+      "87206(c)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-08T17:18:03.991151Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether a legal description of a home location satisfies the reporting requirements under Section 87206(c).\n\nCONCLUSION: A legal description of a home location satisfies the reporting requirements of Section 87206(c).",
+    "qa_source": "synthetic",
+    "first_500_words": "State of California Memorandum To : File From FAIR POLITICAL PRACTICES COMMISSION Ted Prim Date -7?-3cr? Subject: Legal description of home location. Feb. 7, 1977 I advised Judge Bonnie Lee Martin that a legal description of her home location satisfied the reporting requirements of Section 87206(c). TP: jo",
+    "summary": "FPPC memorandum from Ted Prim documenting advice given to Judge Bonnie Lee Martin that a legal description of her home location meets Section 87206(c) reporting requirements."
+  }
+}

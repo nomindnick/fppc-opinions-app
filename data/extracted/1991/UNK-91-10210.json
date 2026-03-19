@@ -1,0 +1,83 @@
+{
+  "id": "UNK-91-10210",
+  "year": 1991,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1991/91-318.pdf",
+  "pdf_sha256": "91da5119dd24dcc4223ad034dd8cdc452a1f3bb9c42e123c5667f949d3e61988",
+  "local_pdf_path": "raw_pdfs/1991/91-318.pdf",
+  "source_metadata": {
+    "title_raw": "91-318.pdf",
+    "tags": [
+      "1991",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:18:07",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1991&tagCount=1&page=33"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T17:30:03.731759Z",
+    "page_count": 2,
+    "word_count": 478,
+    "char_count": 3142,
+    "quality_score": 0.9712878406316853,
+    "olmocr_cost": 0.00518838,
+    "native_word_count": 502,
+    "haiku_cost": 0.005686400000000001
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\n\nJuly 18, 1991\n\nGladys M. Houston\nDeputy County Counsel\nCounty of Alameda\n1221 Oak Street\nOakland, CA 94612\n\nRE: Your Request for\nInformal Assistance\nOur File No. I-91-318\n\nDear Ms. Houston:\n\nYou have requested advice under the conflict of interest\nprovisions of the Political Reform Act.1/ Because your question is\ngeneral in nature, we consider your letter to be a request for\ninformal assistance pursuant to Regulation 18329(c) (copy\nenclosed).2/\n\nQUESTION\n\nDoes the County Clerk have the sole authority to destroy\ncopies of statements of economic interests after four years from\nthe filing deadline if the statements have not been microfilmed?\n\nCONCLUSION\n\nUnder the provisions of the Political Reform Act, filing\nofficers/officials must retain copies of statements of economic\ninterests for four years from the filing deadline. The Commission\nhas no authority to interpret Government Code Sections 26202,\n26205, and 26205.1.\n\n_________________________________\n\n1/ Government Code Sections 81000-91015. All statutory\nreferences are to the Government Code unless otherwise indicated.\nCommission regulations appear at 2 California Code of Regulations\nSection 18000, et seq. All references to regulations are to Title\n2, Division 6 of the California Code of Regulations.\n\n2/ Informal assistance does not provide the requestor with the\nimmunity provided by an opinion or formal written advice. (Section\n83114; Regulation 18329(c).)\n\n428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804-0807 • (916) 322-5660\n\nGladys M. Houston\nPage 2\n\n\nANALYSIS\n\nAs defined in Regulation 18115 (copy enclosed), a filing\nofficer is the person or agency which receives and retains original\nstatements of economic interests. (Section 87500.) The filing\nofficial is the person or agency which receives original statements\nof economic interests and is required to make and retain copies of\nthe statements and forward the originals to the filing officer.\nBecause many county clerks receive and retain both originals and\ncopies of statements of economic interests, they may be both a\nfiling officer and a filing official.\n\nFiling officials are required to retain copies of reports or\nstatements for a period of not less than four years. (Section\n81009(f).) After an original report or statement or a copy has\nbeen on file for at least two years, the officer may retain a copy\non microfilm or other space-saving materials available for public\ninspection instead of the original or copy. (Section 81009(g).)\n\nThe Act requires only that copies of reports or statements be\nretained for not less than four years. (Government Code Sections\n26202, 26205, and 26205.1) Other provisions of the law\nappear to\nimpose restrictions on the destruction of documents. The\nCommission has no authority to interpret these provisions of the\nlaw.\n\nI hope the information provided in this letter has been\nhelpful. If you have any additional questions, please contact me\nat (916) 322-5662.\n\nSincerely,\n\nScott Hallabrin\nActing General Counsel\n\n[signature: Linda Moureaux]\n\nBy: Linda Moureaux\n    Political Reform Consultant\n\nEnclosures",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1991-07-18",
+    "date_raw": "July 18, 1991",
+    "requestor_name": "Houston",
+    "requestor_title": "County Counsel",
+    "requestor_city": null,
+    "document_type": "informal_advice"
+  },
+  "sections": {
+    "question": "Does the County Clerk have the sole authority to destroy copies of statements of economic interests after four years from the filing deadline if the statements have not been microfilmed?",
+    "conclusion": "Under the provisions of the Political Reform Act, filing officers/officials must retain copies of statements of economic interests for four years from the filing deadline. The Commission has no authority to interpret Government Code Sections 26202, 26205, and 26205.1.\n\n1, et seq. All references to regulations are to Title 2, Division 6 of the California Code of Regulations.\n\n2/ Informal assistance does not provide the requestor with the immunity provided by an opinion or formal written advice. (Section 83114; Regulation 18329(c).)",
+    "facts": null,
+    "analysis": "As defined in Regulation 18115 (copy enclosed), a filing officer is the person or agency which receives and retains original statements of economic interests. (Section 87500.) The filing official is the person or agency which receives original statements of economic interests and is required to make and retain copies of the statements and forward the originals to the filing officer. Because many county clerks receive and retain both originals and copies of statements of economic interests, they may be both a filing officer and a filing official.\n\nFiling officials are required to retain copies of reports or statements for a period of not less than four years. (Section 81009(f).) After an original report or statement or a copy has been on file for at least two years, the officer may retain a copy on microfilm or other space-saving materials available for public inspection instead of the original or copy. (Section 81009(g).)\n\nThe Act requires only that copies of reports or statements be retained for not less than four years. Other provisions of the law (Government Code Sections 26202,, 26205, and 26205.1) appear to impose restrictions on the destruction of documents. The Commission has no authority to interpret these provisions of the law.\n\nI hope the information provided in this letter has been helpful. If you have any additional questions, please contact me at (916) 322-5662.",
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.85,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern"
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "81009(f)",
+      "81009(g)",
+      "83114",
+      "87500"
+    ],
+    "regulations": [
+      "18115",
+      "18329"
+    ],
+    "prior_opinions": [
+      "I-91-318"
+    ],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.6,
+    "classified_at": "2026-02-20T00:10:10.323945Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Does the County Clerk have the sole authority to destroy copies of statements of economic interests after four years from the filing deadline if the statements have not been microfilmed?\n\nCONCLUSION: Under the provisions of the Political Reform Act, filing officers/officials must retain copies of statements of economic interests for four years from the filing deadline. The Commission has no authority to interpret Government Code Sections 26202, 26205, and 26205.1.\n\n1, et seq. All references to regulations are to Title 2, Division 6 of the California Code of Regulations.\n\n2/ Informal assistance does not provide the requestor with the immunity provided by an opinion or formal written advice. (Section 83114; Regulation 18329(c).)",
+    "qa_source": "extracted",
+    "first_500_words": "July 18, 1991 Gladys M. Houston Deputy County Counsel County of Alameda 1221 Oak Street Oakland, CA 94612 RE: Your Request for Informal Assistance Our File No. I-91-318 Dear Ms. Houston: You have requested advice under the conflict of interest provisions of the Political Reform Act.1/ Because your question is general in nature, we consider your letter to be a request for informal assistance pursuant to Regulation 18329(c) (copy enclosed).2/ QUESTION Does the County Clerk have the sole authority to destroy copies of statements of economic interests after four years from the filing deadline if the statements have not been microfilmed? CONCLUSION Under the provisions of the Political Reform Act, filing officers/officials must retain copies of statements of economic interests for four years from the filing deadline. The Commission has no authority to interpret Government Code Sections 26202, 26205, and 26205.1. 1/ Government Code Sections 81000-91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations Section 18000, et seq. All references to regulations are to Title 2, Division 6 of the California Code of Regulations. 2/ Informal assistance does not provide the requestor with the immunity provided by an opinion or formal written advice. (Section 83114; Regulation 18329(c).) ANALYSIS As defined in Regulation 18115 (copy enclosed), a filing officer is the person or agency which receives and retains original statements of economic interests. (Section 87500.) The filing official is the person or agency which receives original statements of economic interests and is required to make and retain copies of the statements and forward the originals to the filing officer. Because many county clerks receive and retain both originals and copies of statements of economic interests, they may be both a filing officer and a filing official. Filing officials are required to retain copies of reports or statements for a period of not less than four years. (Section 81009(f).) After an original report or statement or a copy has been on file for at least two years, the officer may retain a copy on microfilm or other space-saving materials available for public inspection instead of the original or copy. (Section 81009(g).) The Act requires only that copies of reports or statements be retained for not less than four years. Other provisions of the law (Government Code Sections 26202,, 26205, and 26205.1) appear to impose restrictions on the destruction of documents. The Commission has no authority to interpret these provisions of the law. I hope the information provided in this letter has been helpful. If you have any additional questions, please contact me at (916) 322-5662. Sincerely, Scott Hallabrin Acting General Counsel By: Linda Moureaux Political Reform Consultant Enclosures",
+    "summary": null
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "79-162",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-162.PDF",
+  "pdf_sha256": "085f99f6352dbf98c63934aecf6442784a9aecdfcac1990d77da743a14301d67",
+  "local_pdf_path": "raw_pdfs/1979/79-162.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1979 Advice Letter # 79-162",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:26:00",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=9"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:06.137232Z",
+    "page_count": 2,
+    "word_count": 322,
+    "char_count": 2010,
+    "quality_score": 0.55,
+    "olmocr_cost": null,
+    "native_word_count": 322
+  },
+  "content": {
+    "full_text": "DRAFT: \nTP: gb \nMEM:) TO FILE \nFroM TED PRIM \nRE: \nInterpretation of Materiality \nThe general standard set forth in Regulation 18702, according to \nChainnan Lowenstein I is to be interpreted in the follcwing fashion: \n(1) \nIf the facts suggest that the official \"WOuld be biased in his \ndecision-making, the decision \\vill have a material effect. \n(2) \nIf the quantitative guidelines are met, the decision \nlikely \nto be material. \nThe fact that the quanti tati ve guidelines are satisfied \ndoes not necessarily mean that materiality exists since quantitative guide-\nlines are only guidelines and not absolute standards. \n(3) \nIf a decision clearly will have a material effect on an official's \nfinancial interests, the official may not avoid disqualification by offering \nevidence that he is not biased. For example -- assume that a decision will \ncause an investment to drop py 30 percent and $100,000. \nBy any measurerrent, \nit is obvious that such a decision \"WOuld have a material effect on the \ninvestrrent. \nAssume further that the official has submitted a s-worn declaration \nof his intention to vote so as to bring about this negative effect on his \nfinancial interest. In \nI the official is stating that, \nthe \nfinancial interest, he is willing to vote in favor of the \nUnder these conditions, the official \n\"WOuld be prohibited from \nvoting because the decision will foreseeably and materially \nhis \nfinancial interest. \npurpose \nsuch a construction \nto avoid, \npossjble, \ndelving into subjective questions of an official's bias. However! when the \nfacts clearly suggest \nis biased, he should be disqualified. If it does \n\n\n-2-\n\\ \nnot apIJear that he is biased and if I pursuant to the quanti tati ve standards, \nthe decision will not have a material effect, the official is not disqualified. \nthe decision will have a material effect on a financial interest \nin a quantitative sense, the official must be disqualified regardless of \nany evidence which suggests that he is not in fact biased. \nEND \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "How should the materiality standard in Regulation 18702 be interpreted when determining whether an official must be disqualified from decision-making due to potential conflicts of interest?",
+    "conclusion_synthetic": "Materiality exists when: (1) facts suggest bias in decision-making; (2) quantitative guidelines are met; or (3) a decision will clearly have a material effect on financial interests, even if the official claims lack of bias. The analysis prioritizes objective financial impact over subjective assessments of bias when facts clearly demonstrate material effect.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.65,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Draft memo to file with no formal Q/A structure. Document appears incomplete (text cuts off mid-sentence). Interpreted as internal FPPC correspondence rather than formal advice letter due to 'MEMO TO FILE' header and lack of addressee/formal response structure. Materiality interpretation guidance extracted from body text."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [
+      "18702"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:06.137232Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: How should the materiality standard in Regulation 18702 be interpreted when determining whether an official must be disqualified from decision-making due to potential conflicts of interest?\n\nCONCLUSION: Materiality exists when: (1) facts suggest bias in decision-making; (2) quantitative guidelines are met; or (3) a decision will clearly have a material effect on financial interests, even if the official claims lack of bias. The analysis prioritizes objective financial impact over subjective assessments of bias when facts clearly demonstrate material effect.",
+    "qa_source": "synthetic",
+    "first_500_words": "DRAFT: TP: gb MEM:) TO FILE FroM TED PRIM RE: Interpretation of Materiality The general standard set forth in Regulation 18702, according to Chainnan Lowenstein I is to be interpreted in the follcwing fashion: (1) If the facts suggest that the official \"WOuld be biased in his decision-making, the decision \\vill have a material effect. (2) If the quantitative guidelines are met, the decision likely to be material. The fact that the quanti tati ve guidelines are satisfied does not necessarily mean that materiality exists since quantitative guide- lines are only guidelines and not absolute standards. (3) If a decision clearly will have a material effect on an official's financial interests, the official may not avoid disqualification by offering evidence that he is not biased. For example -- assume that a decision will cause an investment to drop py 30 percent and $100,000. By any measurerrent, it is obvious that such a decision \"WOuld have a material effect on the investrrent. Assume further that the official has submitted a s-worn declaration of his intention to vote so as to bring about this negative effect on his financial interest. In I the official is stating that, the financial interest, he is willing to vote in favor of the Under these conditions, the official \"WOuld be prohibited from voting because the decision will foreseeably and materially his financial interest. purpose such a construction to avoid, possjble, delving into subjective questions of an official's bias. However! when the facts clearly suggest is biased, he should be disqualified. If it does -2- \\ not apIJear that he is biased and if I pursuant to the quanti tati ve standards, the decision will not have a material effect, the official is not disqualified. the decision will have a material effect on a financial interest in a quantitative sense, the official must be disqualified regardless of any evidence which suggests that he is not in fact biased. END",
+    "summary": "This is a memorandum from Ted Prim interpreting the materiality standard under Regulation 18702, establishing a framework for when officials must be disqualified based on bias, quantitative guidelines, or clear material financial impact."
+  }
+}

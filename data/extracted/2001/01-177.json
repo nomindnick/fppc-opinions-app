@@ -1,0 +1,71 @@
+{
+  "id": "01-177",
+  "year": 2001,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2001/01-177.pdf",
+  "pdf_sha256": "22ed61df82646e868675b6b4188e80ded5c77334f4299ef59d66f23f9985d4ff",
+  "local_pdf_path": "raw_pdfs/2001/01-177.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2001 Advice Letter # 01-177",
+    "tags": [
+      "2001",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:51:50",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2001&tagCount=1&page=10"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T22:05:40.666200Z",
+    "page_count": 1,
+    "word_count": 102,
+    "char_count": 620,
+    "quality_score": 0.7925047735034237,
+    "olmocr_cost": 0.00251206,
+    "native_word_count": 127
+  },
+  "content": {
+    "full_text": "December 21, 2001\n\nJune Rady, Mayor Pro Tem\nCity of Escondido\n201 North Broadway\nEscondido, CA 92025\n\nRe: Your Request for Advice\nOur File No. W-01-177\n\nDear Ms. Rady:\n\nPursuant to our telephone conversation of December 14, 2001, this letter will confirm that you have withdrawn your request for advice, as you have now purchased a home and, thus, your request for advice is moot. We thank you for your courtesies in this matter.\n\nIf you have any other questions regarding this matter, please contact me at (916) 322-5660.\n\nSincerely,\n\nLuisa Menchaca\nGeneral Counsel\n\nBy: Holly B. Armstrong\nStaff Counsel, Legal Division",
+    "full_text_markdown": "December 21, 2001\n\nJune Rady, Mayor Pro Tem\nCity of Escondido\n201 North Broadway\nEscondido, CA 92025\n\nRe: Your Request for Advice\nOur File No. W-01-177\n\nDear Ms. Rady:\n\nPursuant to our telephone conversation of December 14, 2001, this letter will confirm that you have withdrawn your request for advice, as you have now purchased a home and, thus, your request for advice is moot. We thank you for your courtesies in this matter.\n\nIf you have any other questions regarding this matter, please contact me at (916) 322-5660.\n\nSincerely,\n\nLuisa Menchaca\nGeneral Counsel\n\nBy: Holly B. Armstrong\nStaff Counsel, Legal Division"
+  },
+  "parsed": {
+    "date": "2001-12-21",
+    "date_raw": "December 21, 2001",
+    "requestor_name": "Rady",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T22:05:40.666200Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "December 21, 2001 June Rady, Mayor Pro Tem City of Escondido 201 North Broadway Escondido, CA 92025 Re: Your Request for Advice Our File No. W-01-177 Dear Ms. Rady: Pursuant to our telephone conversation of December 14, 2001, this letter will confirm that you have withdrawn your request for advice, as you have now purchased a home and, thus, your request for advice is moot. We thank you for your courtesies in this matter. If you have any other questions regarding this matter, please contact me at (916) 322-5660. Sincerely, Luisa Menchaca General Counsel By: Holly B. Armstrong Staff Counsel, Legal Division",
+    "qa_source": "extracted",
+    "first_500_words": "December 21, 2001 June Rady, Mayor Pro Tem City of Escondido 201 North Broadway Escondido, CA 92025 Re: Your Request for Advice Our File No. W-01-177 Dear Ms. Rady: Pursuant to our telephone conversation of December 14, 2001, this letter will confirm that you have withdrawn your request for advice, as you have now purchased a home and, thus, your request for advice is moot. We thank you for your courtesies in this matter. If you have any other questions regarding this matter, please contact me at (916) 322-5660. Sincerely, Luisa Menchaca General Counsel By: Holly B. Armstrong Staff Counsel, Legal Division",
+    "summary": null
+  }
+}

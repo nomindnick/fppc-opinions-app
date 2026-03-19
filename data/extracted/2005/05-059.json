@@ -1,0 +1,71 @@
+{
+  "id": "05-059",
+  "year": 2005,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2005/05-059.pdf",
+  "pdf_sha256": "721e40915f4a8947816adbad84a6e4418a3e495f09ecab70de32017fa815927e",
+  "local_pdf_path": "raw_pdfs/2005/05-059.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2005 Advice Letter # 05-059",
+    "tags": [
+      "2005",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:42:31",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2005&tagCount=1&page=7"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T21:20:02.276624Z",
+    "page_count": 1,
+    "word_count": 75,
+    "char_count": 498,
+    "quality_score": 0.757014534533449,
+    "olmocr_cost": 0.0024854,
+    "native_word_count": 99
+  },
+  "content": {
+    "full_text": "April 14, 2005\n\nMerrie Lee John\nAdministrative Assistant\nChawanakee Unified School District\nP.O. Box 400\nNorth Fork, CA 93643\n\nRe: Your Request for Advice\nOur File No. W-05-059\n\nDear Ms. John:\n\nPursuant to our telephone conversation on April 12, 2005, you have withdrawn your request for written advice.\n\nIf you have any questions regarding this matter, please contact me at (916) 322-5660.\n\nSincerely,\n\nLuisa Menchaca\nGeneral Counsel\n\nBy: Carla Wardlow\nDivision Chief\nTechnical Assistance Division",
+    "full_text_markdown": "April 14, 2005\n\nMerrie Lee John\nAdministrative Assistant\nChawanakee Unified School District\nP.O. Box 400\nNorth Fork, CA 93643\n\nRe: Your Request for Advice\nOur File No. W-05-059\n\nDear Ms. John:\n\nPursuant to our telephone conversation on April 12, 2005, you have withdrawn your request for written advice.\n\nIf you have any questions regarding this matter, please contact me at (916) 322-5660.\n\nSincerely,\n\nLuisa Menchaca\nGeneral Counsel\n\nBy: Carla Wardlow\nDivision Chief\nTechnical Assistance Division"
+  },
+  "parsed": {
+    "date": "2005-04-14",
+    "date_raw": "April 14, 2005",
+    "requestor_name": "John",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T21:20:02.276624Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "April 14, 2005 Merrie Lee John Administrative Assistant Chawanakee Unified School District P.O. Box 400 North Fork, CA 93643 Re: Your Request for Advice Our File No. W-05-059 Dear Ms. John: Pursuant to our telephone conversation on April 12, 2005, you have withdrawn your request for written advice. If you have any questions regarding this matter, please contact me at (916) 322-5660. Sincerely, Luisa Menchaca General Counsel By: Carla Wardlow Division Chief Technical Assistance Division",
+    "qa_source": "extracted",
+    "first_500_words": "April 14, 2005 Merrie Lee John Administrative Assistant Chawanakee Unified School District P.O. Box 400 North Fork, CA 93643 Re: Your Request for Advice Our File No. W-05-059 Dear Ms. John: Pursuant to our telephone conversation on April 12, 2005, you have withdrawn your request for written advice. If you have any questions regarding this matter, please contact me at (916) 322-5660. Sincerely, Luisa Menchaca General Counsel By: Carla Wardlow Division Chief Technical Assistance Division",
+    "summary": null
+  }
+}

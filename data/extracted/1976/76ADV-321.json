@@ -1,0 +1,73 @@
+{
+  "id": "76ADV-321",
+  "year": 1976,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1976/76ADV-321.PDF",
+  "pdf_sha256": "1d606024b43ba70ef40cdd0e9fa3cf81913efec8e2b04a0c903f415e8d9c3452",
+  "local_pdf_path": "raw_pdfs/1976/76ADV-321.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1976ADV Advice Letter # 76ADV-321",
+    "tags": [
+      "1976",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:15:28",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1976&tagCount=1&page=12"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:17.777539Z",
+    "page_count": 1,
+    "word_count": 328,
+    "char_count": 2162,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 328
+  },
+  "content": {
+    "full_text": "State of California \nMemorandum \nTo \nALL OPINION REQUEST MEETING \nPARTICIPANTS \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nKen Finney \nSubject: Closing date for postelection campaign \nstatements -- Section 84205 \nDate \nAugust 31, 1976 \nAt a previous opinion request meeting, we discussed whether \na committee should be permitted to file its postelection campaign \nstatement early when all contributions and expenditures with \nrespect to the election to which the statement will apply have \nbeen made, but the committee will continue to receive and/or make \ncontributions and to make expenditures prior to the closing date \nestablished by Section 84205 (albeit with respect to a different \nelection). \nThe main problem created by permitting an early filing \nis that the committee may close its books early but another com-\nmittee to which it makes a contribution prior to the closing date \nmight keep its books open until the specified closing date. \nIf \nthis occurs, the transaction would be reported on the recipient \ncommittee's postelection statement but not on the donor commit-\ntee's postelection statement. \nTo the contrary, the donor commit-\ntee would report the contribution on its first preelection state-\nment for the next election. \nIn light of this problem, it was \ndetermined that strict adherence to the closing dates specified \nin the statute is desirable. \nAccordingly, at the present time, \nthe staff should inform committees that they may not close their \nbooks prior to the specified closing date if they anticipate any \nfurther contributions or expenditures during the postelection \nperiod established by the statute. \nIn the meantime, the staff will investigate the feasibility \nof interpreting the last sentence of Section 84205 to read, in \neffect: \n\"if all liabilities of the filer have been paid and no \nadditional contributions or expenditures are anticipated with \nrespect to the election for which the campaign statement rs--\nbeing filed. II \nAn interpretation of Section 84205 which reads \ninto the statute the underlined portion of the foregoing quote \nwould permit an early filing under the circumstances outlined \nabove. \nKF:cjb \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1976-08-31",
+    "date_raw": "August 31, 1976",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether political committees may file postelection campaign statements early when all contributions and expenditures for a specific election are complete, even if the committee will continue to receive or make contributions and expenditures for different elections prior to the statutory closing date.",
+    "conclusion_synthetic": "The FPPC staff determined that strict adherence to statutory closing dates in Section 84205 is required, and committees may not close their books early if they anticipate further contributions or expenditures during the postelection period, even if those contributions/expenditures relate to a different election. The staff is investigating whether Section 84205 could be interpreted to permit early filing only when all liabilities are paid and no additional contributions or expenditures are anticipated with respect to that specific election.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is an internal FPPC memorandum to opinion request meeting participants rather than a formal advice letter to an external requester. No traditional QUESTION or CONCLUSION sections present; content was synthesized from narrative discussion. Dated August 31, 1976 and addresses Section 84205 of California campaign finance law."
+  },
+  "citations": {
+    "government_code": [
+      "84205"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:37:17.777539Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether political committees may file postelection campaign statements early when all contributions and expenditures for a specific election are complete, even if the committee will continue to receive or make contributions and expenditures for different elections prior to the statutory closing date.\n\nCONCLUSION: The FPPC staff determined that strict adherence to statutory closing dates in Section 84205 is required, and committees may not close their books early if they anticipate further contributions or expenditures during the postelection period, even if those contributions/expenditures relate to a different election. The staff is investigating whether Section 84205 could be interpreted to permit early filing only when all liabilities are paid and no additional contributions or expenditures are anticipated with respect to that specific election.",
+    "qa_source": "synthetic",
+    "first_500_words": "State of California Memorandum To ALL OPINION REQUEST MEETING PARTICIPANTS From FAIR POLITICAL PRACTICES COMMISSION Ken Finney Subject: Closing date for postelection campaign statements -- Section 84205 Date August 31, 1976 At a previous opinion request meeting, we discussed whether a committee should be permitted to file its postelection campaign statement early when all contributions and expenditures with respect to the election to which the statement will apply have been made, but the committee will continue to receive and/or make contributions and to make expenditures prior to the closing date established by Section 84205 (albeit with respect to a different election). The main problem created by permitting an early filing is that the committee may close its books early but another com- mittee to which it makes a contribution prior to the closing date might keep its books open until the specified closing date. If this occurs, the transaction would be reported on the recipient committee's postelection statement but not on the donor commit- tee's postelection statement. To the contrary, the donor commit- tee would report the contribution on its first preelection state- ment for the next election. In light of this problem, it was determined that strict adherence to the closing dates specified in the statute is desirable. Accordingly, at the present time, the staff should inform committees that they may not close their books prior to the specified closing date if they anticipate any further contributions or expenditures during the postelection period established by the statute. In the meantime, the staff will investigate the feasibility of interpreting the last sentence of Section 84205 to read, in effect: \"if all liabilities of the filer have been paid and no additional contributions or expenditures are anticipated with respect to the election for which the campaign statement rs-- being filed. II An interpretation of Section 84205 which reads into the statute the underlined portion of the foregoing quote would permit an early filing under the circumstances outlined above. KF:cjb",
+    "summary": "This August 31, 1976 FPPC memorandum addresses whether campaign committees may file postelection statements early under Section 84205 when all activity for one election is complete but additional activity for other elections continues during the statutory closing period. The FPPC concludes that strict adherence to closing dates is required to prevent reporting inconsistencies between donor and recipient committees."
+  }
+}

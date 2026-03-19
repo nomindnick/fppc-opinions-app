@@ -1,0 +1,74 @@
+{
+  "id": "79-143",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-143.PDF",
+  "pdf_sha256": "56ef28cae6618ecec9c30231bea95f556f10e7e4ae2bd6d3c35daf5331a0ab08",
+  "local_pdf_path": "raw_pdfs/1979/79-143.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1979 Advice Letter # 79-143",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:26:53",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=21"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:08.231921Z",
+    "page_count": 2,
+    "word_count": 354,
+    "char_count": 2188,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 354
+  },
+  "content": {
+    "full_text": "State of California \nMemoran \nm \nTo \n: Mickey Bennett \nMay 30, 1979 \nfrom \nFAIR POLITICAL PRACTICES COMMISSION \nTed Prim \nPenalties for Failing to Complete Statement of Economic \nInterests Correctly \nRecently, you asked whether we should issue late fines \nto officials who make substantial amendments to their State-\nments of Economic Interests well after the deadline date \nfor filing. \nThe Act and Codes adopted pursuant thereto require \nthe filing of Statements at prescribed times. \nThe late \nfine provisions of Section 91013 are designed to provide \nmild punishments to those filers who fail to file their \nStatements in a timely fashion. \nOther provisions in the \nAct provide for civil, criminal and administrative remedies \nfor either failing to file a Statement or failing to accur-\nately report one's financial interests. \nSections 91000, \n91003.5, 91004, 91005. \nWhen a person files an amendment to a timely filed \nStatement, it does not change the fact that his Statement \nnevertheless was filed in a timely fashioni rather, he is \nindicating that his Statement did not accurately report \nhis financial interests. \nTherefore, the appropriate remedy \nlies in a civil, criminal or administrative action, not \nin the imposition of a late fine. \nIn terms of what it means to file a Statement, the \nCommission opinion issued to Rex Layton, 1 FPPC Opinions \n113, discusses two aspects of the problem. \nFirst, the \nopinion states that a Statement which is not signed under \npenalty of perjury is not deemed to have been filed in \ntimely fashion. \nTherefore, a person may be assessed late \nfiling penalties under Section 91013 for failure to file \nin a timely fashion if he sends in an unsigned Statement. \n\n\nMickey \nMay 30, 1979 \nPage Two \nSecond, a Statement which contains all reportable \ninterests but which is not filed on the proper form is deemed \nto have been timely filed. \nHowever, upon notice from the \nfiling officer, the filer has an obligation to immediately \nfile an amended Statement on the proper form. \nThus, a late \nfiling penalty under Section 91013 may not be assessed \nagainst a person who files in a timely fashion but fails \nto file on the proper form. \nTP:ma \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1979-05-30",
+    "date_raw": "May 30, 1979",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Recently, you asked whether we should issue late fines to officials who make substantial amendments to their Statements of Economic Interests well after the deadline date for filing.",
+    "conclusion": "When a person files an amendment to a timely filed Statement, it does not change the fact that his Statement nevertheless was filed in a timely fashion; rather, he is indicating that his Statement did not accurately report his financial interests. Therefore, the appropriate remedy lies in a civil, criminal or administrative action, not in the imposition of a late fine.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Should the FPPC issue late filing fines under Section 91013 to officials who file substantial amendments to their Statements of Economic Interests well after the original filing deadline?",
+    "conclusion_synthetic": "Late filing fines are not appropriate for substantial amendments filed after the deadline, as the original statement was timely filed; instead, civil, criminal, or administrative remedies apply for inaccurate reporting. However, unsigned statements and statements not filed on the proper form may still be subject to late filing penalties.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Standard advice letter format with clear question and conclusion sections. Document is a memorandum from Ted Prim (FPPC) to Mickey Bennett addressing late filing penalty procedures."
+  },
+  "citations": {
+    "government_code": [
+      "91000",
+      "91013"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:37:08.231921Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Recently, you asked whether we should issue late fines to officials who make substantial amendments to their Statements of Economic Interests well after the deadline date for filing.\n\nCONCLUSION: When a person files an amendment to a timely filed Statement, it does not change the fact that his Statement nevertheless was filed in a timely fashion; rather, he is indicating that his Statement did not accurately report his financial interests. Therefore, the appropriate remedy lies in a civil, criminal or administrative action, not in the imposition of a late fine.",
+    "qa_source": "mixed",
+    "first_500_words": "State of California Memoran m To : Mickey Bennett May 30, 1979 from FAIR POLITICAL PRACTICES COMMISSION Ted Prim Penalties for Failing to Complete Statement of Economic Interests Correctly Recently, you asked whether we should issue late fines to officials who make substantial amendments to their State- ments of Economic Interests well after the deadline date for filing. The Act and Codes adopted pursuant thereto require the filing of Statements at prescribed times. The late fine provisions of Section 91013 are designed to provide mild punishments to those filers who fail to file their Statements in a timely fashion. Other provisions in the Act provide for civil, criminal and administrative remedies for either failing to file a Statement or failing to accur- ately report one's financial interests. Sections 91000, 91003.5, 91004, 91005. When a person files an amendment to a timely filed Statement, it does not change the fact that his Statement nevertheless was filed in a timely fashioni rather, he is indicating that his Statement did not accurately report his financial interests. Therefore, the appropriate remedy lies in a civil, criminal or administrative action, not in the imposition of a late fine. In terms of what it means to file a Statement, the Commission opinion issued to Rex Layton, 1 FPPC Opinions 113, discusses two aspects of the problem. First, the opinion states that a Statement which is not signed under penalty of perjury is not deemed to have been filed in timely fashion. Therefore, a person may be assessed late filing penalties under Section 91013 for failure to file in a timely fashion if he sends in an unsigned Statement. Mickey May 30, 1979 Page Two Second, a Statement which contains all reportable interests but which is not filed on the proper form is deemed to have been timely filed. However, upon notice from the filing officer, the filer has an obligation to immediately file an amended Statement on the proper form. Thus, a late filing penalty under Section 91013 may not be assessed against a person who files in a timely fashion but fails to file on the proper form. TP:ma",
+    "summary": "The FPPC advises that late filing fines should not be imposed on officials who file substantial amendments to timely-filed Statements of Economic Interests after the deadline, as the appropriate remedies are civil, criminal, or administrative actions for inaccurate reporting rather than late filing penalties."
+  }
+}

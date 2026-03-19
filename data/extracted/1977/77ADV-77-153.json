@@ -1,0 +1,71 @@
+{
+  "id": "77ADV-77-153",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-153.PDF",
+  "pdf_sha256": "0a1f128d5d48d7bb26174d004ebfd2da411d4db592b3d8d25e3f812b5df0c49d",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-153.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-153",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:19:05",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=2"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-07T17:01:39.496796Z",
+    "page_count": 1,
+    "word_count": 186,
+    "char_count": 1160,
+    "quality_score": 0.8760148648648649,
+    "olmocr_cost": 0.00256452,
+    "native_word_count": 8
+  },
+  "content": {
+    "full_text": "Memorandum\n\nTo: File\n\nDate: Mar. 14, 1977\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION  \nKen Finney\n\nSubject: Telephone conversation with Pat Herron.\n\nPat Herron, a newly appointed judge, called to inquire about her disclosure obligations. She asked the following questions:\n\n1. She is a partner in several different law partnerships, some of which are inactive and exist only for the purpose of collecting fees still owed to the partnerships. She wondered whether her interest should be disclosed as an investment. I advised her that it should.\n\n2. She has a power-of-attorney for her aunt's estate through which she administers the investments of the estate. I stated that this would not create a disclosure obligation because I thought the situation was similar to that of a trustee who only has legal title but no beneficial interest in the estate.\n\n3. She has interests in real property outside of California. I told her that these need not be disclosed.\n\n4. She inquired about savings accounts and I told her that these need not be disclosed.\n\nShe stated that she would send a letter confirming the substance of our conversation.\n\nKF:jo",
+    "full_text_markdown": "Memorandum\n\nTo: File\n\nDate: Mar. 14, 1977\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION  \nKen Finney\n\nSubject: Telephone conversation with Pat Herron.\n\nPat Herron, a newly appointed judge, called to inquire about her disclosure obligations. She asked the following questions:\n\n1. She is a partner in several different law partnerships, some of which are inactive and exist only for the purpose of collecting fees still owed to the partnerships. She wondered whether her interest should be disclosed as an investment. I advised her that it should.\n\n2. She has a power-of-attorney for her aunt's estate through which she administers the investments of the estate. I stated that this would not create a disclosure obligation because I thought the situation was similar to that of a trustee who only has legal title but no beneficial interest in the estate.\n\n3. She has interests in real property outside of California. I told her that these need not be disclosed.\n\n4. She inquired about savings accounts and I told her that these need not be disclosed.\n\nShe stated that she would send a letter confirming the substance of our conversation.\n\nKF:jo"
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "A newly appointed judge sought clarification on disclosure obligations regarding her law partnership interests, power-of-attorney over her aunt's estate, out-of-state real property, and savings accounts.",
+    "conclusion_synthetic": "Partnership interests should be disclosed as investments; power-of-attorney over aunt's estate does not create disclosure obligations (similar to trustee situations); out-of-state real property and savings accounts need not be disclosed.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is an informal memorandum documenting telephone advice rather than a formal advice letter. No formal QUESTION or CONCLUSION sections present; content extracted from memo body. Advice provided by Ken Finney on behalf of FPPC. Document indicates requestor would send confirming letter."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T17:01:39.496796Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: A newly appointed judge sought clarification on disclosure obligations regarding her law partnership interests, power-of-attorney over her aunt's estate, out-of-state real property, and savings accounts.\n\nCONCLUSION: Partnership interests should be disclosed as investments; power-of-attorney over aunt's estate does not create disclosure obligations (similar to trustee situations); out-of-state real property and savings accounts need not be disclosed.",
+    "qa_source": "synthetic",
+    "first_500_words": "**Memorandum** **To:** File **Date:** Mar. 14, 1977 **From:** FAIR POLITICAL PRACTICES COMMISSION Ken Finney **Subject:** Telephone conversation with Pat Herron. Pat Herron, a newly appointed judge, called to inquire about her disclosure obligations. She asked the following questions: 1. She is a partner in several different law partnerships, some of which are inactive and exist only for the purpose of collecting fees still owed to the partnerships. She wondered whether her interest should be disclosed as an investment. I advised her that it should. 2. She has a power-of-attorney for her aunt's estate through which she administers the investments of the estate. I stated that this would not create a disclosure obligation because I thought the situation was similar to that of a trustee who only has legal title but no beneficial interest in the estate. 3. She has interests in real property outside of California. I told her that these need not be disclosed. 4. She inquired about savings accounts and I told her that these need not be disclosed. She stated that she would send a letter confirming the substance of our conversation. KF:jo",
+    "summary": "FPPC staff member Ken Finney memorialized a telephone conversation with newly appointed judge Pat Herron regarding her disclosure obligations under California law, providing guidance on four specific financial interest categories."
+  }
+}

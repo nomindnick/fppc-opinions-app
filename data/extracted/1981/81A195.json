@@ -1,0 +1,71 @@
+{
+  "id": "81A195",
+  "year": 1981,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1981/81A195.PDF",
+  "pdf_sha256": "b7082ab77265210822bc34def86e9c60a12ffaad462843f31c69ec71b3603f3c",
+  "local_pdf_path": "raw_pdfs/1981/81A195.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1981 Advice Letter # 81A195",
+    "tags": [
+      "Advice Letter",
+      "1981"
+    ],
+    "scraped_at": "2026-01-31 15:28:25",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1981&tagCount=1&page=5"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:00.850607Z",
+    "page_count": 2,
+    "word_count": 263,
+    "char_count": 1734,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 263
+  },
+  "content": {
+    "full_text": "CommissioIL \nP.O. BOX 801 • SACRAMENTO, 95804 ••• 1100 K STREET BUILDING, SACRAMENTO, 95814 \nC.A. Helms \nPacific Telephone \n140 New Montgomery Street \nSan Francisco, California 94105 \nDear Mr. Helms: \nExecvtI ... /legal \n322·5901 \nApril 15, 1981 \nblo_ent \n322-6441 \nStu_.llts of Economic Int .... st \n322-0U4 \nThis is in response to your letter dated April 7, 1981 in which \nyou requested clarification regarding the qualification and \nfiling obligations of a Major Donor Committee. \nA Major Donor committee as defined in Government Code Section \n820l3(c) is a committee which makes contributions totaling \n$5,000 or more in a calendar year. \n2 Cal. Admin. Code l8404(a) (copy enclosed) states that committees \nqualifying pursuant: to~overnment Code Section 820l3(c) terminate \nat the end of the calendar year in which the committee qualified. \nT.herefore, a Major Donor Committee does not incur any filing \nobligations until the committee requalifies in a calendar year. \nIf I can be of further assistance, please feel free to contact me. \nSincerely, \n~~A<,V/fn:~~~ \nLynn Montgomery \nPolitical Reform Consultan~ \n\n\nApril 7, 1981 \nMs. Lyn Montgomery \nFair Political Practices Commission \n1100 K Street \nSacramento, CA. \n95814 \nDear Ms. Montgomery: \nPacific Telephone \n140 New Montgomery Street \nSan Francisco. California 94105 \nPhone (415) 421-9000 \nIt is my understanding that Major Donor Committees do not incur any filing \nobligations until they \"requalify\" for major donor status in a specific \nyear. \nTo requalify as a Major Donor committee, contributions of $5,000 or \nmore must be made. \nIt would be helpful if you could clarify this issue for me. \n/t; /-. '\" I \n/? \n\\J .Lz·l ~C/\"1~' \nC. A. Helms \nAccounting Staff Specialist \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1981-04-15",
+    "date_raw": "April 15, 1981",
+    "requestor_name": "Helms",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "You requested clarification regarding the qualification and filing obligations of a Major Donor Committee.",
+    "conclusion": "A Major Donor committee as defined in Government Code Section 82013(c) is a committee which makes contributions totaling $5,000 or more in a calendar year. 2 Cal. Admin. Code 18404(a) states that committees qualifying pursuant to Government Code Section 82013(c) terminate at the end of the calendar year in which the committee qualified. Therefore, a Major Donor Committee does not incur any filing obligations until the committee requalifies in a calendar year.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "What are the qualification and filing obligations for a Major Donor Committee under California political reform law?",
+    "conclusion_synthetic": "A Major Donor Committee qualifies by making contributions of $5,000 or more in a calendar year and automatically terminates at the end of that year. The committee has no filing obligations until it requalifies in a subsequent calendar year.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document contains both incoming request (April 7, 1981) and FPPC response (April 15, 1981). Response is from Lynn Montgomery, Political Reform Consultant. No formal QUESTION/CONCLUSION section headers present, but question and conclusion content clearly identifiable from letter body."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:00.850607Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: You requested clarification regarding the qualification and filing obligations of a Major Donor Committee.\n\nCONCLUSION: A Major Donor committee as defined in Government Code Section 82013(c) is a committee which makes contributions totaling $5,000 or more in a calendar year. 2 Cal. Admin. Code 18404(a) states that committees qualifying pursuant to Government Code Section 82013(c) terminate at the end of the calendar year in which the committee qualified. Therefore, a Major Donor Committee does not incur any filing obligations until the committee requalifies in a calendar year.",
+    "qa_source": "mixed",
+    "first_500_words": "CommissioIL P.O. BOX 801 • SACRAMENTO, 95804 ••• 1100 K STREET BUILDING, SACRAMENTO, 95814 C.A. Helms Pacific Telephone 140 New Montgomery Street San Francisco, California 94105 Dear Mr. Helms: ExecvtI ... /legal 322·5901 April 15, 1981 blo_ent 322-6441 Stu_.llts of Economic Int .... st 322-0U4 This is in response to your letter dated April 7, 1981 in which you requested clarification regarding the qualification and filing obligations of a Major Donor Committee. A Major Donor committee as defined in Government Code Section 820l3(c) is a committee which makes contributions totaling $5,000 or more in a calendar year. 2 Cal. Admin. Code l8404(a) (copy enclosed) states that committees qualifying pursuant: to~overnment Code Section 820l3(c) terminate at the end of the calendar year in which the committee qualified. T.herefore, a Major Donor Committee does not incur any filing obligations until the committee requalifies in a calendar year. If I can be of further assistance, please feel free to contact me. Sincerely, ~~A<,V/fn:~~~ Lynn Montgomery Political Reform Consultan~ April 7, 1981 Ms. Lyn Montgomery Fair Political Practices Commission 1100 K Street Sacramento, CA. 95814 Dear Ms. Montgomery: Pacific Telephone 140 New Montgomery Street San Francisco. California 94105 Phone (415) 421-9000 It is my understanding that Major Donor Committees do not incur any filing obligations until they \"requalify\" for major donor status in a specific year. To requalify as a Major Donor committee, contributions of $5,000 or more must be made. It would be helpful if you could clarify this issue for me. /t; /-. '\" I /? \\J .Lz·l ~C/\"1~' C. A. Helms Accounting Staff Specialist",
+    "summary": "FPPC response to C.A. Helms of Pacific Telephone clarifying that Major Donor Committees, which contribute $5,000 or more annually, have no filing obligations outside of the calendar year in which they qualify, as they automatically terminate at year-end and must requalify to incur future obligations."
+  }
+}

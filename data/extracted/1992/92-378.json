@@ -1,0 +1,76 @@
+{
+  "id": "92-378",
+  "year": 1992,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1992/92-378.pdf",
+  "pdf_sha256": "00eceb34affe416589f66dfa7dcded8e146ef03c51e542485f67fbc8e27b09a4",
+  "local_pdf_path": "raw_pdfs/1992/92-378.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 1992 Advice Letter # 92-378",
+    "tags": [
+      "Advice Letter",
+      "1992"
+    ],
+    "scraped_at": "2026-01-31 16:24:21",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1992&tagCount=1&page=21"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:13.355546Z",
+    "page_count": 2,
+    "word_count": 374,
+    "char_count": 2343,
+    "quality_score": 0.8,
+    "olmocr_cost": null,
+    "native_word_count": 374
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\nJuly 3,\n1992\nMichael B. Bixler\nMayor of City of Imperial Beach\n1192 Seacoast Drive\nImperial Beach,\nCA\n91932\nRe:\nYour Request for Informal Assistance\nOur File No.\n1-92-378\nDear Mr.\nBixler:\nI\nam writing to confirm our telephone conversation of\nJune 30,\n1992,\nwherein we discussed your request for advice,\nLetter No.\n1-92-378.\nAs the Mayor of the City of Imperial Beach,\nyou were requesting advice regarding the conflict—of-interest\nprovisions of the Political Reform Act\n(the “Act”).\n1\nSince you\nhave not provided specific facts regarding each decision,\nwe are\nproviding informal assistance.\n2\nYou informed me that there are approximately ten decisions\nregarding a number of public accesses to the beach and also a\nseries of decisions regarding the City of Imperial Beach Capital\nImprovement Project.\nYour home is approximately 300 to 2,500 feet\nfrom the subject properties of each decision.\nWe discussed Regulation 18702.3(a) (3)\nand whether there would\nbe an effect of $10,000 or more on the fair market value of your\nproperty as a result of any of the decisions.\nYou stated that,\nin\n1\nGovernment Code Sections 81000-91015.\nAll statutory references\nare to the Government Code unless otherwise indicated.\nCommission\nregulations appear at\n2 California Code of Regulations Section\n18000,\ng.\nAll references to regulations are to Title 2,\nDivision\n6 of the California Code of Regulations.\n2\nInformal assistance does not provide the requestor with the\nimmunity provided by an opinion or formal written advice.\n(Government Code Section 83114;\n2 Cal.\nCode of Regs.\nSection 18329(c) (3).)\n428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804-0807 • (916)322-5660\n\n\nOur File No.\n1-92-378\nPage\n2\nyour opinion,\nsuch an effect was not foreseeable.\nI advised you\nthat this is a factual determination which you must make for each\npending decision.\nI also directed you to the factors in\nRegulation 18702.3(d)\nfor guidance.\n(Regulation 18702.3\nenclosed.)\nI trust this answers your question.\n3\nSincerely,\nScott Hallabrin\nActing General Counsel\nBy:\nCQ\nsel,\nLegal Division\nSH:JS:aa\nEnclosure\nCopies of Commission regulations and Opinions are available in\nmany law libraries.\nAlternatively,\ncopies of these materials and\nCommission advice letters may be obtained from the Commission at a\ncost of l0 per page.\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1992-07-03",
+    "date_raw": "July 3,\n1992",
+    "requestor_name": "Bixler",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "informal_advice"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "As Mayor of Imperial Beach, does the requestor have a conflict of interest under the Political Reform Act regarding approximately ten decisions about public beach access and a capital improvement project, given that his home is 300-2,500 feet from the affected properties?",
+    "conclusion_synthetic": "The FPPC advised that whether there would be a $10,000 or more effect on the fair market value of the requestor's property is a factual determination the requestor must make for each pending decision, and directed the requestor to Regulation 18702.3(d) for guidance on the relevant factors.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Informal advice letter with no explicit QUESTION and CONCLUSION sections; advice conveyed through discussion of telephone conversation and factual determination requirements. Note that informal assistance does not provide immunity unlike formal opinions."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "83114"
+    ],
+    "regulations": [
+      "18702.3"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "gifts_honoraria",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:35:13.355546Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: As Mayor of Imperial Beach, does the requestor have a conflict of interest under the Political Reform Act regarding approximately ten decisions about public beach access and a capital improvement project, given that his home is 300-2,500 feet from the affected properties?\n\nCONCLUSION: The FPPC advised that whether there would be a $10,000 or more effect on the fair market value of the requestor's property is a factual determination the requestor must make for each pending decision, and directed the requestor to Regulation 18702.3(d) for guidance on the relevant factors.",
+    "qa_source": "synthetic",
+    "first_500_words": "California Fair Political Practices Commission July 3, 1992 Michael B. Bixler Mayor of City of Imperial Beach 1192 Seacoast Drive Imperial Beach, CA 91932 Re: Your Request for Informal Assistance Our File No. 1-92-378 Dear Mr. Bixler: I am writing to confirm our telephone conversation of June 30, 1992, wherein we discussed your request for advice, Letter No. 1-92-378. As the Mayor of the City of Imperial Beach, you were requesting advice regarding the conflict—of-interest provisions of the Political Reform Act (the “Act”). 1 Since you have not provided specific facts regarding each decision, we are providing informal assistance. 2 You informed me that there are approximately ten decisions regarding a number of public accesses to the beach and also a series of decisions regarding the City of Imperial Beach Capital Improvement Project. Your home is approximately 300 to 2,500 feet from the subject properties of each decision. We discussed Regulation 18702.3(a) (3) and whether there would be an effect of $10,000 or more on the fair market value of your property as a result of any of the decisions. You stated that, in 1 Government Code Sections 81000-91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations Section 18000, g. All references to regulations are to Title 2, Division 6 of the California Code of Regulations. 2 Informal assistance does not provide the requestor with the immunity provided by an opinion or formal written advice. (Government Code Section 83114; 2 Cal. Code of Regs. Section 18329(c) (3).) 428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804-0807 • (916)322-5660 Our File No. 1-92-378 Page 2 your opinion, such an effect was not foreseeable. I advised you that this is a factual determination which you must make for each pending decision. I also directed you to the factors in Regulation 18702.3(d) for guidance. (Regulation 18702.3 enclosed.) I trust this answers your question. 3 Sincerely, Scott Hallabrin Acting General Counsel By: CQ sel, Legal Division SH:JS:aa Enclosure Copies of Commission regulations and Opinions are available in many law libraries. Alternatively, copies of these materials and Commission advice letters may be obtained from the Commission at a cost of l0 per page.",
+    "summary": "FPPC informal advice letter to the Mayor of Imperial Beach regarding potential conflict-of-interest implications of his decisions affecting properties near his home. The Commission clarified that the requestor must determine on a case-by-case basis whether decisions would result in a $10,000+ impact on his property's fair market value."
+  }
+}

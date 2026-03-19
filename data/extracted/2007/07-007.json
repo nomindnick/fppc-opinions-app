@@ -1,0 +1,75 @@
+{
+  "id": "07-007",
+  "year": 2007,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2007/07-007.pdf",
+  "pdf_sha256": "e059d88ec90abae48d029d24ab2ef72604cb938064056c934a3561a845170b25",
+  "local_pdf_path": "raw_pdfs/2007/07-007.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2007 Advice Letter # 07-007",
+    "tags": [
+      "2007",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:46:04",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2007&tagCount=1&page=6"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T19:17:14.025542Z",
+    "page_count": 1,
+    "word_count": 128,
+    "char_count": 800,
+    "quality_score": 0.8715483446626384,
+    "olmocr_cost": 0.00255506,
+    "native_word_count": 147
+  },
+  "content": {
+    "full_text": "February 1, 2007\n\nShelia Young\nP.O. Box 3175\nSan Leandro, CA 94578\n\nRe: Your Request for Advice\nOur File No. W-07-007\n\nDear Ms. Young:\n\nThis letter is in response to your request for advice regarding the provisions of the Political Reform Act.¹\n\nPer our conversation on January 23, 2007 and in an email dated that same day, you stated that you would no longer need formal written advice due to a vendor error that made your request moot.\n\nYour request for advice has therefore been withdrawn. Should you have any questions, please contact me at (916) 322-5660.\n\nSincerely,\n\nLuisa Menchaca\nGeneral Counsel\n\nBy: Emelyn Rodriguez\nCounsel, Legal Division\n\nER:jl\n\n¹ Government Code sections 81000-91014. Commission regulations appear at Title 2, sections 18109-18997 of the California Code of Regulations.",
+    "full_text_markdown": "February 1, 2007\n\nShelia Young\nP.O. Box 3175\nSan Leandro, CA 94578\n\nRe: Your Request for Advice\nOur File No. W-07-007\n\nDear Ms. Young:\n\nThis letter is in response to your request for advice regarding the provisions of the Political Reform Act.¹\n\nPer our conversation on January 23, 2007 and in an email dated that same day, you stated that you would no longer need formal written advice due to a vendor error that made your request moot.\n\nYour request for advice has therefore been withdrawn. Should you have any questions, please contact me at (916) 322-5660.\n\nSincerely,\n\nLuisa Menchaca\nGeneral Counsel\n\nBy: Emelyn Rodriguez\nCounsel, Legal Division\n\nER:jl\n\n¹ Government Code sections 81000-91014. Commission regulations appear at Title 2, sections 18109-18997 of the California Code of Regulations."
+  },
+  "parsed": {
+    "date": "2007-02-01",
+    "date_raw": "February 1, 2007",
+    "requestor_name": "Young",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [
+      "18109"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-20T19:17:14.025542Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "February 1, 2007 Shelia Young P.O. Box 3175 San Leandro, CA 94578 Re: Your Request for Advice Our File No. W-07-007 Dear Ms. Young: This letter is in response to your request for advice regarding the provisions of the Political Reform Act.¹ Per our conversation on January 23, 2007 and in an email dated that same day, you stated that you would no longer need formal written advice due to a vendor error that made your request moot. Your request for advice has therefore been withdrawn. Should you have any questions, please contact me at (916) 322-5660. Sincerely, Luisa Menchaca General Counsel By: Emelyn Rodriguez Counsel, Legal Division ER:jl ¹ Government Code sections 81000-91014. Commission regulations appear at Title 2, sections 18109-18997 of the California Code of Regulations.",
+    "qa_source": "extracted",
+    "first_500_words": "February 1, 2007 Shelia Young P.O. Box 3175 San Leandro, CA 94578 Re: Your Request for Advice Our File No. W-07-007 Dear Ms. Young: This letter is in response to your request for advice regarding the provisions of the Political Reform Act.¹ Per our conversation on January 23, 2007 and in an email dated that same day, you stated that you would no longer need formal written advice due to a vendor error that made your request moot. Your request for advice has therefore been withdrawn. Should you have any questions, please contact me at (916) 322-5660. Sincerely, Luisa Menchaca General Counsel By: Emelyn Rodriguez Counsel, Legal Division ER:jl ¹ Government Code sections 81000-91014. Commission regulations appear at Title 2, sections 18109-18997 of the California Code of Regulations.",
+    "summary": null
+  }
+}

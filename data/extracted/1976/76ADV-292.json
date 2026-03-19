@@ -1,0 +1,73 @@
+{
+  "id": "76ADV-292",
+  "year": 1976,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1976/76ADV-292.PDF",
+  "pdf_sha256": "b83db708a91e2f81b2c6bedcef5737014be8bf27140f42c218a8a09afc1fdae5",
+  "local_pdf_path": "raw_pdfs/1976/76ADV-292.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1976ADV Advice Letter # 76ADV-292",
+    "tags": [
+      "1976",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:15:50",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1976&tagCount=1&page=17"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:18.459171Z",
+    "page_count": 3,
+    "word_count": 272,
+    "char_count": 1690,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 272
+  },
+  "content": {
+    "full_text": "Pomona, Cali \nDear Mr. S \n91769 \ns \n1 00 K \n15, \n76 \nSACRAMENTO, 95814 \n\n\n- . . \nFinal \nthe \nabove that it \nmake no \nwhether \njoint \nauthority board \nwas comprised solely of Council members who are filing Statements \nof \nc Interest pursuant to Govt. Code Section 87200 or whether \nthe board was made up of city staff and/or private citizens. \nAs general propos \npersonally. \nIf you \nless harsh result, please \nthe Commission. \nDLS: jhm \nresults seems somewhat harsh to \nany \ntion which would lead to a \ninform me and/or seek formal advice from \nSincerely, \nDelbert L. Spurlock, Jr., \nCh \nI Conflicts of Interest \nDivision \n916/322-6444 \n\n\nPATRICK J. SAMPSON \nCity Attorney \nSTATE OF CALIFORNIA \nFAIR POLITICAL PRACTICES COMMISSION \nP.O. Box 807 \nSacramento, California 95804 \nGentlemen: \nCITJbf POMONA \nAugust 24, 1976 \nI am the attorney for the Tri-City Mental Health Authority, as well as other \njoint powers authorities which have been formed by Pomona and other cities in \nthe area. \nEach board of the joint powers authorities, with one exception, \nis made up with City Council members of the several cities. \nOne authority, \nthe Valley Association of Cities, does have board members or alternates who \nare not City Council members. \nHas the FPPC set a deadline for entity conflict of interest codes for joint \npowers authorities? \nIs the City of Nina ordinance sufficient for such code? \nDoes it make a difference whether the joint powers authority board is made up \nsolely of Council members who are themselves filing Proposition 9 statements \nor if the board can be made up of city staff and/or private citizens? \nPlease answer these questions as expeditiously as possible. \nPJS:tb \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1976-08-24",
+    "date_raw": "August 24, 1976",
+    "requestor_name": null,
+    "requestor_title": "City Attorney",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Has the FPPC set a deadline for entity conflict of interest codes for joint powers authorities? Is the City of Nina ordinance sufficient for such code? Does it make a difference whether the joint powers authority board is made up solely of Council members who are themselves filing Proposition 9 statements or if the board can be made up of city staff and/or private citizens?",
+    "conclusion": "The document indicates that it makes no material difference whether the joint powers authority board was comprised solely of Council members who are filing Statements of Interest pursuant to Govt. Code Section 87200 or whether the board was made up of city staff and/or private citizens. The FPPC notes that the results seem somewhat harsh as a general proposition and invites the requester to seek further formal advice if a less harsh result is desired.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The City Attorney of Pomona seeks FPPC guidance on conflict of interest code requirements for joint powers authorities, including deadlines, whether an existing city ordinance is sufficient, and whether the composition of the board (Council members vs. staff/private citizens) affects the requirements.",
+    "conclusion_synthetic": "The FPPC concluded that the composition of the joint powers authority board (whether solely Council members or including staff/private citizens) does not affect conflict of interest code requirements. The FPPC acknowledged the conclusion may seem harsh and invited the requester to seek formal advice if alternative interpretations were desired.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.72,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is fragmented and contains formatting issues typical of scanned documents from 1976. The conclusion section is present but somewhat unclear due to document quality. The question section is clearly identifiable from the incoming letter. The response is from Delbert L. Spurlock, Jr., Chief of the Conflicts of Interest Division."
+  },
+  "citations": {
+    "government_code": [
+      "87200"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:37:18.459171Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Has the FPPC set a deadline for entity conflict of interest codes for joint powers authorities? Is the City of Nina ordinance sufficient for such code? Does it make a difference whether the joint powers authority board is made up solely of Council members who are themselves filing Proposition 9 statements or if the board can be made up of city staff and/or private citizens?\n\nCONCLUSION: The document indicates that it makes no material difference whether the joint powers authority board was comprised solely of Council members who are filing Statements of Interest pursuant to Govt. Code Section 87200 or whether the board was made up of city staff and/or private citizens. The FPPC notes that the results seem somewhat harsh as a general proposition and invites the requester to seek further formal advice if a less harsh result is desired.",
+    "qa_source": "mixed",
+    "first_500_words": "Pomona, Cali Dear Mr. S 91769 s 1 00 K 15, 76 SACRAMENTO, 95814 - . . Final the above that it make no whether joint authority board was comprised solely of Council members who are filing Statements of c Interest pursuant to Govt. Code Section 87200 or whether the board was made up of city staff and/or private citizens. As general propos personally. If you less harsh result, please the Commission. DLS: jhm results seems somewhat harsh to any tion which would lead to a inform me and/or seek formal advice from Sincerely, Delbert L. Spurlock, Jr., Ch I Conflicts of Interest Division 916/322-6444 PATRICK J. SAMPSON City Attorney STATE OF CALIFORNIA FAIR POLITICAL PRACTICES COMMISSION P.O. Box 807 Sacramento, California 95804 Gentlemen: CITJbf POMONA August 24, 1976 I am the attorney for the Tri-City Mental Health Authority, as well as other joint powers authorities which have been formed by Pomona and other cities in the area. Each board of the joint powers authorities, with one exception, is made up with City Council members of the several cities. One authority, the Valley Association of Cities, does have board members or alternates who are not City Council members. Has the FPPC set a deadline for entity conflict of interest codes for joint powers authorities? Is the City of Nina ordinance sufficient for such code? Does it make a difference whether the joint powers authority board is made up solely of Council members who are themselves filing Proposition 9 statements or if the board can be made up of city staff and/or private citizens? Please answer these questions as expeditiously as possible. PJS:tb",
+    "summary": "An FPPC advice letter responding to questions from the City Attorney of Pomona regarding conflict of interest code requirements and deadlines for joint powers authorities. The letter addresses whether board composition affects the applicability of conflict of interest provisions."
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "10-010",
+  "year": 2010,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2010/10-010.pdf",
+  "pdf_sha256": "30b12a57fa6a452ce66e5939eca6e6be5d872b6b75ef190072de593a76740fec",
+  "local_pdf_path": "raw_pdfs/2010/10-010.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2010 Advice Letter # 10-010",
+    "tags": [
+      "2010",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:51:05",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2010&tagCount=1&page=2"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T21:29:06.536002Z",
+    "page_count": 1,
+    "word_count": 77,
+    "char_count": 481,
+    "quality_score": 0.7671238415074565,
+    "olmocr_cost": 0.00248024,
+    "native_word_count": 97
+  },
+  "content": {
+    "full_text": "April 7, 2010\n\nJolie Houston\nCity Attorney, City of Los Altos\nBerliner Cohen\n10 Almaden Blvd., 11th Fl.\nSan Jose, CA 95113\n\nRe: Your Request for Advice\n    Our File No. 10-010\n\nDear Ms. Houston,\n\nThis letter confirms that you have withdrawn the request for advice on behalf of Councilmember Ronald D. Packard.\n\nIf you have other questions on this matter, please contact me at (916) 322-5660.\n\nSincerely,\n\nScott Hallabrin\nGeneral Counsel\n\nBy: Valentina Joyce\nCounsel, Legal Division",
+    "full_text_markdown": "April 7, 2010\n\nJolie Houston\nCity Attorney, City of Los Altos\nBerliner Cohen\n10 Almaden Blvd., 11th Fl.\nSan Jose, CA 95113\n\nRe: Your Request for Advice\n    Our File No. 10-010\n\nDear Ms. Houston,\n\nThis letter confirms that you have withdrawn the request for advice on behalf of Councilmember Ronald D. Packard.\n\nIf you have other questions on this matter, please contact me at (916) 322-5660.\n\nSincerely,\n\nScott Hallabrin\nGeneral Counsel\n\nBy: Valentina Joyce\nCounsel, Legal Division"
+  },
+  "parsed": {
+    "date": "2010-04-07",
+    "date_raw": "April 7, 2010",
+    "requestor_name": "Houston",
+    "requestor_title": "City Attorney",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T21:29:06.536002Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "April 7, 2010 Jolie Houston City Attorney, City of Los Altos Berliner Cohen 10 Almaden Blvd., 11th Fl. San Jose, CA 95113 Re: Your Request for Advice Our File No. 10-010 Dear Ms. Houston, This letter confirms that you have withdrawn the request for advice on behalf of Councilmember Ronald D. Packard. If you have other questions on this matter, please contact me at (916) 322-5660. Sincerely, Scott Hallabrin General Counsel By: Valentina Joyce Counsel, Legal Division",
+    "qa_source": "extracted",
+    "first_500_words": "April 7, 2010 Jolie Houston City Attorney, City of Los Altos Berliner Cohen 10 Almaden Blvd., 11th Fl. San Jose, CA 95113 Re: Your Request for Advice Our File No. 10-010 Dear Ms. Houston, This letter confirms that you have withdrawn the request for advice on behalf of Councilmember Ronald D. Packard. If you have other questions on this matter, please contact me at (916) 322-5660. Sincerely, Scott Hallabrin General Counsel By: Valentina Joyce Counsel, Legal Division",
+    "summary": null
+  }
+}

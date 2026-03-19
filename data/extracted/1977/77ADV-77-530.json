@@ -1,0 +1,71 @@
+{
+  "id": "77ADV-77-530",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-530.PDF",
+  "pdf_sha256": "38994521d2ff1ead64211b501cd266e98eb574e1a87ec96ebf8a73912ed6e703",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-530.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-530",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:22:50",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=53"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T23:44:50.463341Z",
+    "page_count": 1,
+    "word_count": 104,
+    "char_count": 639,
+    "quality_score": 0.8150095634095634,
+    "olmocr_cost": 0.00249228,
+    "native_word_count": 118
+  },
+  "content": {
+    "full_text": "February 2, 1977\n\nKen Finney\n\nRich Eichman\n\nDisclosure by lobbyists\n\nSituation: Lobbyists A & B arrange to take Legislator X to lunch. The luncheon cost is $21.00 ($7.00 per person).\n\nQuestions:\n\n1. Assume lobbyist A pays for the entire luncheon:\n   a) Has lobbyist B incurred an expense?\n   b) Does lobbyist B have a reporting requirement?\n\n2. Assume both lobbyists pay equally for the meal, what are their respective reporting requirements?\n\n3. What is the difference between the terms \"arranging\" and \"incurring\"?\n\nRE: av Arranging for the gift is not incurring the gift. Arrangement is not reportable until we get a reg.\n\ncc: Bob Stern",
+    "full_text_markdown": "February 2, 1977\n\nKen Finney\n\nRich Eichman\n\nDisclosure by lobbyists\n\nSituation: Lobbyists A & B arrange to take Legislator X to lunch. The luncheon cost is $21.00 ($7.00 per person).\n\nQuestions:\n\n1. Assume lobbyist A pays for the entire luncheon:\n   a) Has lobbyist B incurred an expense?\n   b) Does lobbyist B have a reporting requirement?\n\n2. Assume both lobbyists pay equally for the meal, what are their respective reporting requirements?\n\n3. What is the difference between the terms \"arranging\" and \"incurring\"?\n\nRE: av Arranging for the gift is not incurring the gift. Arrangement is not reportable until we get a reg.\n\ncc: Bob Stern"
+  },
+  "parsed": {
+    "date": "1977-02-02",
+    "date_raw": "February 2, 1977",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "1. Assume lobbyist A pays for the entire luncheon:\n   a) Has lobbyist B incurred an expense?\n   b) Does lobbyist B have a reporting requirement?\n\n2. Assume both lobbyists pay equally for the meal, what are their respective reporting requirements?\n\n3. What is the difference between the terms \"arranging\" and \"incurring\"?\n\nRE: av Arranging for the gift is not incurring the gift. Arrangement is not reportable until we get a reg.\n\ncc: Bob Stern",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.44999999999999996,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T23:44:50.463341Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: 1. Assume lobbyist A pays for the entire luncheon:\n   a) Has lobbyist B incurred an expense?\n   b) Does lobbyist B have a reporting requirement?\n\n2. Assume both lobbyists pay equally for the meal, what are their respective reporting requirements?\n\n3. What is the difference between the terms \"arranging\" and \"incurring\"?\n\nRE: av Arranging for the gift is not incurring the gift. Arrangement is not reportable until we get a reg.\n\ncc: Bob Stern",
+    "qa_source": "extracted",
+    "first_500_words": "February 2, 1977 Ken Finney Rich Eichman Disclosure by lobbyists Situation: Lobbyists A & B arrange to take Legislator X to lunch. The luncheon cost is $21.00 ($7.00 per person). Questions: 1. Assume lobbyist A pays for the entire luncheon: a) Has lobbyist B incurred an expense? b) Does lobbyist B have a reporting requirement? 2. Assume both lobbyists pay equally for the meal, what are their respective reporting requirements? 3. What is the difference between the terms \"arranging\" and \"incurring\"? RE: av Arranging for the gift is not incurring the gift. Arrangement is not reportable until we get a reg. cc: Bob Stern",
+    "summary": null
+  }
+}

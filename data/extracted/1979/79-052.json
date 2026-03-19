@@ -1,0 +1,71 @@
+{
+  "id": "79-052",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-052.PDF",
+  "pdf_sha256": "4b78f5a47ec34c421ef6d90374d6b21955806009286dfb5855b5635f9ff20998",
+  "local_pdf_path": "raw_pdfs/1979/79-052.PDF",
+  "source_metadata": {
+    "title_raw": "WHITLEY, NELSON Year: 1979 Advice Letter # 79-052",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:26:49",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=20"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:08.215543Z",
+    "page_count": 2,
+    "word_count": 245,
+    "char_count": 1564,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 245
+  },
+  "content": {
+    "full_text": "te of CaiiforILia \nlfi'air \n~ \nP.O. BOX 807 • SACRAMENTO, 95804 ••• 1100 K STREET BUILDING, SACRAMENTO, 95814 \nTechnical Assistance \n••• \nAdministration \n(916) 322-.5662 \n322-.5660 \nExecutive/legal \n322-5901 \n.December 3, 1979 \nNelson v~hi tely \nSenate Mail Room \nState Capitol \nSacramento, CA \n95814 \nDear Mr. Whitely: \nEnforcement \n322-6441 \nConflict of Inleres' \n322-6444 \nThere is no reporting responsibility under the Polit \nReform Act with respect to rides to and from work which you \nreceive from a lobbyist. \nAccording to the information you \nhave provided me, you are not covered by a Conflict of Interest \nCode, and thus have no reporting responsibilities of any \nkind. \nSince your duties in the mail room consist only of \nsorting mail and framing bills, you are neither a legislat \nofficial nor engaged in legislative action within the mean \nof the Act so as to create any reporting responsibilities in \na lobbyist. \nDD:kp \n• \n~y truly plu,s, 0 \no ~O'h, ~ \\ V\\ \nThomas M. Sobel \n\\ \nChief, Legal Division \n\n\nDecember 18, 1979 \nThomas M. Sobel \nChief, Legal Division \nFair Political Practices Commission \n1100 K Street Building \nSacramento, CA \n95814 \nDear Mr. Sobel: \nPursuant to our previous conversation relating to your \nletter dated September 3 to Nelson Whitely, do I understand \ncorrectly that I have no lobbyist reporting responsibilities \narising from the fact that I give Mr. Whitely a ride to and \nfrom work daily? \nThanks very much for your counsel. \nA confirming response \nwould be greatly appreciated. \nVery truly yours, \nRobert P. Houston \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1979-12-03",
+    "date_raw": "December 3, 1979",
+    "requestor_name": "Whitely",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "There is no reporting responsibility under the Political Reform Act with respect to rides to and from work which you receive from a lobbyist. According to the information you have provided me, you are not covered by a Conflict of Interest Code, and thus have no reporting responsibilities of any kind. Since your duties in the mail room consist only of sorting mail and framing bills, you are neither a legislative official nor engaged in legislative action within the meaning of the Act so as to create any reporting responsibilities in a lobbyist.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Does a lobbyist have reporting responsibilities under the Political Reform Act for providing rides to work to a Senate mail room employee?",
+    "conclusion_synthetic": "A lobbyist has no reporting responsibilities for providing rides to work to a Senate mail room employee because the employee is not a legislative official and is not engaged in legislative action under the Political Reform Act.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Two separate documents presented together - initial FPPC advice letter followed by confirming inquiry from affected lobbyist. No formal 'QUESTION' or 'CONCLUSION' section headers; conclusion synthesized from body text. Document quality is poor with OCR artifacts affecting readability (e.g., 'te of CaiiforILia', 'legislat'). Letter references prior correspondence dated September 3 (which is not included in this extraction)."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:08.215543Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Does a lobbyist have reporting responsibilities under the Political Reform Act for providing rides to work to a Senate mail room employee?\n\nCONCLUSION: There is no reporting responsibility under the Political Reform Act with respect to rides to and from work which you receive from a lobbyist. According to the information you have provided me, you are not covered by a Conflict of Interest Code, and thus have no reporting responsibilities of any kind. Since your duties in the mail room consist only of sorting mail and framing bills, you are neither a legislative official nor engaged in legislative action within the meaning of the Act so as to create any reporting responsibilities in a lobbyist.",
+    "qa_source": "mixed",
+    "first_500_words": "te of CaiiforILia lfi'air ~ P.O. BOX 807 • SACRAMENTO, 95804 ••• 1100 K STREET BUILDING, SACRAMENTO, 95814 Technical Assistance ••• Administration (916) 322-.5662 322-.5660 Executive/legal 322-5901 .December 3, 1979 Nelson v~hi tely Senate Mail Room State Capitol Sacramento, CA 95814 Dear Mr. Whitely: Enforcement 322-6441 Conflict of Inleres' 322-6444 There is no reporting responsibility under the Polit Reform Act with respect to rides to and from work which you receive from a lobbyist. According to the information you have provided me, you are not covered by a Conflict of Interest Code, and thus have no reporting responsibilities of any kind. Since your duties in the mail room consist only of sorting mail and framing bills, you are neither a legislat official nor engaged in legislative action within the mean of the Act so as to create any reporting responsibilities in a lobbyist. DD:kp • ~y truly plu,s, 0 o ~O'h, ~ \\ V\\ Thomas M. Sobel \\ Chief, Legal Division December 18, 1979 Thomas M. Sobel Chief, Legal Division Fair Political Practices Commission 1100 K Street Building Sacramento, CA 95814 Dear Mr. Sobel: Pursuant to our previous conversation relating to your letter dated September 3 to Nelson Whitely, do I understand correctly that I have no lobbyist reporting responsibilities arising from the fact that I give Mr. Whitely a ride to and from work daily? Thanks very much for your counsel. A confirming response would be greatly appreciated. Very truly yours, Robert P. Houston",
+    "summary": "This document contains an FPPC advice letter dated December 3, 1979 from Thomas M. Sobel to Nelson Whitely regarding reporting responsibilities for rides provided by a lobbyist, followed by a confirming inquiry from the lobbyist Robert P. Houston dated December 18, 1979."
+  }
+}

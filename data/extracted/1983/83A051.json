@@ -1,0 +1,74 @@
+{
+  "id": "83A051",
+  "year": 1983,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1983/83A051.PDF",
+  "pdf_sha256": "d628bdcc0bfd47dd00d721d44a45f1bcafe9e3979481cb50de93072f286ba8d6",
+  "local_pdf_path": "raw_pdfs/1983/83A051.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1983 Advice Letter # 83A051",
+    "tags": [
+      "1983",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:32:21",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1983&tagCount=1&page=12"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:52.269218Z",
+    "page_count": 2,
+    "word_count": 337,
+    "char_count": 2159,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 337
+  },
+  "content": {
+    "full_text": "P.O. BOX 807 • SACRAMENTO, 95804 ••• 1100 K STREET BUILDING, SACRAMENTO, 95814 \nTechnical Assistanc8' \n(916) 322·5662 \nMike Kelly, Director \nAdministration \n322·5660 \nExecutive/le<,;al \n322-5901 \nMarch 4, 1983 \nEnforcement \n322-64.41 \nStatements of Economic Interest \n322-6444 \nShafter Recreation and Park District \n505 Sunset \nShafter, CA \n93263 \nDear Mr. Kelly: \nRe: \nYour Request for Advice, Our \nAdvice No. A-83-05l \nThank you for your request for advice on behalf of David \nMizener, a member of the Shafter Parks and Recreation District \nBoard. \nThe Recreation District is considering entering into a \njoint powers agreement with the Kern High School District for \nthe construction of softball fields. \nYour question is whether \nMr. Mizener, as a teacher for the High School District, may \nparticipate in the discussions and decisions related to this \nissue. \nThe Political Reform Act prevents a public official from \nmaking, or participating in the making of a governmental \ndecision in which he knows or has reason to know he has a \nfinancial interest. \n(Government Code Section 87100.1:,/) \nAn \nofficial has a \"financial interest\" in a decision within the \nmeaning of Section 87100 if it is reasonably foreseeable that \nthe decision will materially effect a source of income \naggregating $250 or more received by the public official within \n12 months prior to the time when the decision is made. \nSection 82030 (b) (2) excludes from the defini tion of \"income\" \nsalary received from a local government agency. \nThus, the High \nSchool District is not a source of income to Mr. Mizener within \nthe meaning of the Act and he is not pronibited from making and \n1/ All statutory references made are to the Government \nCode unless otherwise indicated. \n\n\nMike Kelly, Director \nMarch 4, 1983 \nPage Two \nparticipating in the making of the decisions related to the \njoint agreement or the proposed construction. \nI hope I have clarified this matter for you. \nIf you have \nany additional questions, please feel free to contact me at \n916/322-5901. \n~ Very. truly y,ours, \n)r£,~~~~ \nC I~CL-v \n. \nf \n........ JJanis Shank McLean \nCounsel \nLegal Division \nJSM:km \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1983-03-04",
+    "date_raw": "March 4, 1983",
+    "requestor_name": "Kelly",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Your question is whether Mr. Mizener, as a teacher for the High School District, may participate in the discussions and decisions related to this issue.",
+    "conclusion": "Thus, the High School District is not a source of income to Mr. Mizener within the meaning of the Act and he is not prohibited from making and participating in the making of the decisions related to the joint agreement or the proposed construction.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a Parks and Recreation District board member who is employed as a teacher by the High School District may participate in board discussions and decisions regarding a proposed joint powers agreement between the two districts for softball field construction.",
+    "conclusion_synthetic": "The board member may participate in the discussions and decisions because his salary from the High School District is excluded from the definition of 'income' under Government Code Section 82030(b)(2), meaning he has no disqualifying financial interest in the decision.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Well-structured advice letter with clear question and conclusion sections. Document number A-83-051 dated March 4, 1983. Sent to Mike Kelly regarding David Mizener."
+  },
+  "citations": {
+    "government_code": [
+      "82030(b)(2)",
+      "87100"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:36:52.269218Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Your question is whether Mr. Mizener, as a teacher for the High School District, may participate in the discussions and decisions related to this issue.\n\nCONCLUSION: Thus, the High School District is not a source of income to Mr. Mizener within the meaning of the Act and he is not prohibited from making and participating in the making of the decisions related to the joint agreement or the proposed construction.",
+    "qa_source": "mixed",
+    "first_500_words": "P.O. BOX 807 • SACRAMENTO, 95804 ••• 1100 K STREET BUILDING, SACRAMENTO, 95814 Technical Assistanc8' (916) 322·5662 Mike Kelly, Director Administration 322·5660 Executive/le<,;al 322-5901 March 4, 1983 Enforcement 322-64.41 Statements of Economic Interest 322-6444 Shafter Recreation and Park District 505 Sunset Shafter, CA 93263 Dear Mr. Kelly: Re: Your Request for Advice, Our Advice No. A-83-05l Thank you for your request for advice on behalf of David Mizener, a member of the Shafter Parks and Recreation District Board. The Recreation District is considering entering into a joint powers agreement with the Kern High School District for the construction of softball fields. Your question is whether Mr. Mizener, as a teacher for the High School District, may participate in the discussions and decisions related to this issue. The Political Reform Act prevents a public official from making, or participating in the making of a governmental decision in which he knows or has reason to know he has a financial interest. (Government Code Section 87100.1:,/) An official has a \"financial interest\" in a decision within the meaning of Section 87100 if it is reasonably foreseeable that the decision will materially effect a source of income aggregating $250 or more received by the public official within 12 months prior to the time when the decision is made. Section 82030 (b) (2) excludes from the defini tion of \"income\" salary received from a local government agency. Thus, the High School District is not a source of income to Mr. Mizener within the meaning of the Act and he is not pronibited from making and 1/ All statutory references made are to the Government Code unless otherwise indicated. Mike Kelly, Director March 4, 1983 Page Two participating in the making of the decisions related to the joint agreement or the proposed construction. I hope I have clarified this matter for you. If you have any additional questions, please feel free to contact me at 916/322-5901. ~ Very. truly y,ours, )r£,~~~~ C I~CL-v . f ........ JJanis Shank McLean Counsel Legal Division JSM:km",
+    "summary": "FPPC advised that a Shafter Parks and Recreation District board member who is employed as a teacher by Kern High School District is not prohibited from participating in discussions regarding a joint powers agreement between the two districts, as salary from a local government agency is excluded from the definition of 'financial interest' under the Political Reform Act."
+  }
+}

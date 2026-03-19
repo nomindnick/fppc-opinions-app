@@ -1,0 +1,76 @@
+{
+  "id": "93-450",
+  "year": 1993,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1993/93-450.pdf",
+  "pdf_sha256": "f5e16ac07a49ce25a2ef35da547eefb08f72ca358c13fdbc440e4ce0e8d1b8fc",
+  "local_pdf_path": "raw_pdfs/1993/93-450.pdf",
+  "source_metadata": {
+    "title_raw": ", Wardlow Year: 1993 Advice Letter # 93-450",
+    "tags": [
+      "1993",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:33:57",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1993&tagCount=1&page=41"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:10.782265Z",
+    "page_count": 2,
+    "word_count": 303,
+    "char_count": 1951,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 303
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\nJanuary 11,\n1994\nPeter A.\nBagatelos\nBagatelos\n& Fadem\n601 California St.,\nSte.\n1801\nSan Francisco,\nCA\n94108\nRe:\nYour Request for Confirmation\nof Telephone Advice\nOur File No.\n1—93—450\nDear Mr.\nBagatelos:\nYou have requested confirmation of telephone advice provided\nto you concerning the campaign provisions of the Political Reform\nAct\n(the “Act”) •1/\nBecause you have not identified the client on\nwhose behalf you have requested this advice,\nwe will treat your\nletter as a request for informal assistance pursuant to Regulation\n18329(c)\n2/\nYour letter,\ndated November 22,\n1993, accurately summarizes\nmy advice that your corporate client will not receive a\ncontribution as defined in the Act by virtue of receiving\ndiscounted legal services.\nThe discounted legal services were\noffered by the law firm as an alternative to making a\ncontribution to the corporation’s sponsored ballot measure\ncommittee and were not offered and will not be used by the\ncommittee or the corporation in connection with the ballot measure\nor for any other political purposes.\nUnder these circumstances,\nthe law firm’s services would not be deemed a contribution under\nthe Act.\n1/\nGovernment Code Sections 81000-91015.\nAll statutory\nreferences are to the Government Code unless otherwise indicated.\nCommission regulations appear at\n2 California Code of Regulations\nSection 18000,\net\nAll references to regulations are to Title\n2,\nDivision\n6 of the California Code of Regulations.\n2/\nInformal assistance does not provide the requestor with the\nimmunity provided by an opinion or formal written advice.\n(Section 83114; Regulation 18329(c) (3).)\n428 J Street, Suite 800\n•\nP.O. Box 807\n•\nSacramento, CA\n95804-0807\n•\n(916) 322-5660\n\n\nPeter A.\nBagatelos\nOur File No.\n1—93-450\nPage\n2\nIf you have questions concerning this letter, please contact\nme at\n(916)\n322—5662.\nSincerely,\nCarla Wardlow\nDivision Chief\nTechnical Assistance Division\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1994-01-11",
+    "date_raw": "January 11,\n1994",
+    "requestor_name": "Bagatelos",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "informal_advice"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "Your letter, dated November 22, 1993, accurately summarizes my advice that your corporate client will not receive a contribution as defined in the Act by virtue of receiving discounted legal services. The discounted legal services were offered by the law firm as an alternative to making a contribution to the corporation's sponsored ballot measure committee and were not offered and will not be used by the committee or the corporation in connection with the ballot measure or for any other political purposes. Under these circumstances, the law firm's services would not be deemed a contribution under the Act.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a corporate client receiving discounted legal services from a law firm (offered as an alternative to making a contribution to a ballot measure committee) constitutes a reportable contribution under the Political Reform Act.",
+    "conclusion_synthetic": "The FPPC confirms that discounted legal services offered by a law firm as an alternative to a direct contribution to a ballot measure committee do not constitute a reportable contribution under the Political Reform Act, provided the services are not used for political purposes.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is confirmation of prior telephone advice treated as informal assistance request under Regulation 18329(c). No formal Q/C sections present, but advice is clearly stated. File number 1-93-450 from January 1994."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "83114"
+    ],
+    "regulations": [
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "gifts_honoraria",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:35:10.782265Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether a corporate client receiving discounted legal services from a law firm (offered as an alternative to making a contribution to a ballot measure committee) constitutes a reportable contribution under the Political Reform Act.\n\nCONCLUSION: Your letter, dated November 22, 1993, accurately summarizes my advice that your corporate client will not receive a contribution as defined in the Act by virtue of receiving discounted legal services. The discounted legal services were offered by the law firm as an alternative to making a contribution to the corporation's sponsored ballot measure committee and were not offered and will not be used by the committee or the corporation in connection with the ballot measure or for any other political purposes. Under these circumstances, the law firm's services would not be deemed a contribution under the Act.",
+    "qa_source": "mixed",
+    "first_500_words": "California Fair Political Practices Commission January 11, 1994 Peter A. Bagatelos Bagatelos & Fadem 601 California St., Ste. 1801 San Francisco, CA 94108 Re: Your Request for Confirmation of Telephone Advice Our File No. 1—93—450 Dear Mr. Bagatelos: You have requested confirmation of telephone advice provided to you concerning the campaign provisions of the Political Reform Act (the “Act”) •1/ Because you have not identified the client on whose behalf you have requested this advice, we will treat your letter as a request for informal assistance pursuant to Regulation 18329(c) 2/ Your letter, dated November 22, 1993, accurately summarizes my advice that your corporate client will not receive a contribution as defined in the Act by virtue of receiving discounted legal services. The discounted legal services were offered by the law firm as an alternative to making a contribution to the corporation’s sponsored ballot measure committee and were not offered and will not be used by the committee or the corporation in connection with the ballot measure or for any other political purposes. Under these circumstances, the law firm’s services would not be deemed a contribution under the Act. 1/ Government Code Sections 81000-91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations Section 18000, et All references to regulations are to Title 2, Division 6 of the California Code of Regulations. 2/ Informal assistance does not provide the requestor with the immunity provided by an opinion or formal written advice. (Section 83114; Regulation 18329(c) (3).) 428 J Street, Suite 800 • P.O. Box 807 • Sacramento, CA 95804-0807 • (916) 322-5660 Peter A. Bagatelos Our File No. 1—93-450 Page 2 If you have questions concerning this letter, please contact me at (916) 322—5662. Sincerely, Carla Wardlow Division Chief Technical Assistance Division",
+    "summary": "This is an FPPC confirmation letter responding to a request for confirmation of telephone advice regarding whether discounted legal services constitute a reportable contribution under the Political Reform Act. The FPPC confirms that such services do not constitute a contribution when offered as an alternative to a direct contribution and not used for political purposes."
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "77A-320",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77A-320.PDF",
+  "pdf_sha256": "4df71e2238e4312cdf0b191d65d5144bac5b73a6cede3f689b2ff91ddd3b4b0b",
+  "local_pdf_path": "raw_pdfs/1977/77A-320.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977A Advice Letter # 77A-320",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:20:51",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=26"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T12:30:21.017064Z",
+    "page_count": 2,
+    "word_count": 452,
+    "char_count": 2798,
+    "quality_score": 0.9331188244009907,
+    "olmocr_cost": 0.00524428,
+    "native_word_count": 72,
+    "haiku_cost": 0.005336
+  },
+  "content": {
+    "full_text": "State of California\n\nFair Political Practices Commission\nP.O. BOX 807 • SACRAMENTO, 95804 • • • 1100 K STREET BUILDING, SACRAMENTO, 95814\n\nJanuary 7, 1977\n\nDr. Malcolm Richland\n3304 White Oak Court\nSacramento, CA 95825\n\nDear Dr. Richland:\n\nThis is in response to your letter of October 22.\nPlease forgive our delay in replying. You request advice with\nrespect to a possible conflict of interest under the Political\nReform Act of an attorney who represents the Sacramento\nArea Economic Opportunity Council. Section 87100 of the Government\nCode, the general prohibition against conflicts of interest provides:\n\nNo public official at any level of state or local gov-\nernment shall make, participate in making or in any way\nattempt to use his official position to influence a\ngovernmental decision in which he knows or has reason\nto know he has a financial interest.\n\n\"Public official\" is defined in Government Code Section 82048 as:\n\n\"Public official\" means every member, officer, employee\nor consultant of a state or local government agency.\n\nIf the Attorney, Mr. Long, is to be considered a public official\nit would be by virtue of his status as a \"consultant\" to your\nagency. \"Consultant\" has been further defined by a regulation of\nthe Fair Political Practices Commission, 2 Cal. Adm. Code Section\n18700(a)(2), which provides:\n\n\"Consultant\" shall include any natural person who pro-\nvides, under contract, information, advice, recommendation\nor counsel to a state or local government agency, provided,\nhowever, that \"consultant\" shall not include a person\nwho:\n\n(A) Conducts research and arrives at conclusions\nwith respect to his or her rendition of information,\nadvice, recommendation or counsel independent\nof the control and direction of the agency or of\nany agency official, other than normal contract\nmonitoring; and\n\nDr. Malcolm Richl\nJanuary 7, 1977\nPage Two\n\n\n(B) Possesses no authority with respect to any\nagency decision beyond the rendition of informa-\ntion, advice, recommendation or counsel.\n\nMr. Long receives no retainer from the agency. He is available\nto provide legal services to the agency purely on an ad-hoc basis,\nand attends meetings only upon specific request of the Board.\nWhen he performs legal services at the request of the agency he\nis paid on an hourly basis. He has no real or apparent authority\nto act on behalf of the agency or bind it to a specific course of\naction. Accordingly, we cannot conclude that the attorney is a\n\"consultant\" within the meaning of the regulation and hence is\nnot subject to the prohibitions of Government Code Section 87100.\n\nIf you wish to present us with more detailed facts\nconcerning the situation or have further questions, please feel\nfree to call me at (916) 322-6444.\n\nSincerely,\n\nKenneth W. Goshorn\nResearch Specialist\n\nKWG:plh",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1977-01-07",
+    "date_raw": "January 7, 1977",
+    "requestor_name": "Richland",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether an attorney (Mr. Long) who provides legal services on an ad-hoc basis to the Sacramento Area Economic Opportunity Council constitutes a 'public official' or 'consultant' under the Political Reform Act and is therefore subject to conflict of interest prohibitions.",
+    "conclusion_synthetic": "The attorney does not qualify as a 'consultant' under FPPC regulations because he works purely on an ad-hoc basis with no retainer, possesses no authority to bind the agency, and conducts work independent of agency control. Therefore, he is not subject to the conflict of interest prohibitions of Government Code Section 87100.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: No formal QUESTION or CONCLUSION section headers present; content extracted from letter body. Request letter dated October 22, 1977 referenced but not included in document. Response provided by Kenneth W. Goshorn, Research Specialist."
+  },
+  "citations": {
+    "government_code": [
+      "82048",
+      "87100"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T17:09:34.735024Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether an attorney (Mr. Long) who provides legal services on an ad-hoc basis to the Sacramento Area Economic Opportunity Council constitutes a 'public official' or 'consultant' under the Political Reform Act and is therefore subject to conflict of interest prohibitions.\n\nCONCLUSION: The attorney does not qualify as a 'consultant' under FPPC regulations because he works purely on an ad-hoc basis with no retainer, possesses no authority to bind the agency, and conducts work independent of agency control. Therefore, he is not subject to the conflict of interest prohibitions of Government Code Section 87100.",
+    "qa_source": "synthetic",
+    "first_500_words": "**State of California** **Fair Political Practices Commission** P.O. BOX 807 · SACRAMENTO, 95804 ·· 1100 K STREET BUILDING, SACRAMENTO, 95814 January 7, 1977 Dr. Malcolm Richland 3304 White Oak Court Sacramento, CA 95825 Dear Dr. Richland: This is in response to your letter of October 22. Please forgive our delay in replying. You request advice with respect to a possible conflict of interest under the Political Reform Act of an attorney who represents the Sacramento Area Economic Opportunity Council. Section 87100 of the Government Code, the general prohibition against conflicts of interest provides: No public official at any level of state or local government shall make, participate in making or in any way attempt to use his official position to influence a governmental decision in which he knows or has reason to know he has a financial interest. \"Public official\" is defined in Government Code Section 82048 as: \"Public official\" means every member, officer, employee or consultant of a state or local government agency. If the Attorney, Mr. Long, is to be considered a public official it would be by virtue of his status as a \"consultant\" to your agency. \"Consultant\" has been further defined by a regulation of the Fair Political Practices Commission, 2 Cal. Adm. Code Section 18700(a)(2), which provides: \"Consultant\" shall include any natural person who provides, under contract, information, advice, recommendation or counsel to a state or local government agency, provided, however, that \"consultant\" shall not include a person who: (A) Conducts research and arrives at conclusions with respect to his or her rendition of information, advice, recommendation or counsel independent of the control and direction of the agency or of any agency official, other than normal contract monitoring; and (B) Possesses no authority with respect to any agency decision beyond the rendition of information, advice, recommendation or counsel. Mr. Long receives no retainer from the agency. He is available to provide legal services to the agency purely on an ad-hoc basis, and attends meetings only upon specific request of the Board. When he performs legal services at the request of the agency he is paid on an hourly basis. He has no real or apparent authority to act on behalf of the agency or bind it to a specific course of action. Accordingly, we cannot conclude that the attorney is a \"consultant\" within the meaning of the regulation and hence is not subject to the prohibitions of Government Code Section 87100. If you wish to present us with more detailed facts concerning the situation or have further questions, please feel free to call me at (916) 322-6444. Sincerely, [Signature] Kenneth W. Goshorn Research Specialist KWG:plh",
+    "summary": "FPPC advises that an attorney providing ad-hoc legal services to a government agency on an hourly basis without retainer or authority to act on behalf of the agency does not constitute a 'consultant' and is not subject to conflict of interest prohibitions under the Political Reform Act."
+  }
+}

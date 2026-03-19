@@ -1,0 +1,71 @@
+{
+  "id": "78ADV-78-197",
+  "year": 1978,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1978/78ADV-78-197.PDF",
+  "pdf_sha256": "8a2634b907f22780036b1803ef3ee3d9e7766359c10659c2bd0dfc297ef4b3e3",
+  "local_pdf_path": "raw_pdfs/1978/78ADV-78-197.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1978ADV Advice Letter # 78ADV-78-197",
+    "tags": [
+      "Advice Letter",
+      "1978"
+    ],
+    "scraped_at": "2026-01-31 15:24:18",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=20"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:10.159645Z",
+    "page_count": 2,
+    "word_count": 147,
+    "char_count": 908,
+    "quality_score": 0.5075,
+    "olmocr_cost": null,
+    "native_word_count": 147
+  },
+  "content": {
+    "full_text": "Mr. Peter L. Coye \nCommittee to Elect John Dunlap \n410 Tuolumne street \nVallejo, California 94590 \nDear Mr. Coye: \nJuly 19, 1978 \nThank you for your letter of July 5, 1978. \nAs I advised you \nover the telephone, there is no basic difference in termsof the \napplication of the disclosure and prohibitory provisions of the \nPolitical Reform Act between door to door solicitation and any-\nother solicitation of funds. \nRecords must be kept according to the standard of reason-\nable diligence; therefore, if you know or have reason to believe \nthat any donor will be contributing $50 or more to your campaign, \nyou should \nrecords of the amounts contributed and of the \nrequired information to identify the donors. \nThe requirements of the Act that apply to your activity \nare explained in our Information Manual, of which a copy is \nenclosed. \nSincerely, \nJohn Giansello \nPolitical Reform Analyst \nJG:bw \n\n\n.. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1978-07-19",
+    "date_raw": "July 19, 1978",
+    "requestor_name": "Coye",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "What are the disclosure and recordkeeping requirements for door-to-door fundraising solicitation under the Political Reform Act?",
+    "conclusion_synthetic": "Door-to-door solicitation is subject to the same disclosure and prohibitory provisions as any other fundraising method. Records must be kept with reasonable diligence, and donors contributing $50 or more must be identified with required information documented.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: No formal QUESTION or CONCLUSION section headers present; extracted question and conclusion from body text. Letter is informal response format dated July 19, 1978. References prior telephone advice. Information Manual mentioned as enclosure."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:10.159645Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: What are the disclosure and recordkeeping requirements for door-to-door fundraising solicitation under the Political Reform Act?\n\nCONCLUSION: Door-to-door solicitation is subject to the same disclosure and prohibitory provisions as any other fundraising method. Records must be kept with reasonable diligence, and donors contributing $50 or more must be identified with required information documented.",
+    "qa_source": "synthetic",
+    "first_500_words": "Mr. Peter L. Coye Committee to Elect John Dunlap 410 Tuolumne street Vallejo, California 94590 Dear Mr. Coye: July 19, 1978 Thank you for your letter of July 5, 1978. As I advised you over the telephone, there is no basic difference in termsof the application of the disclosure and prohibitory provisions of the Political Reform Act between door to door solicitation and any- other solicitation of funds. Records must be kept according to the standard of reason- able diligence; therefore, if you know or have reason to believe that any donor will be contributing $50 or more to your campaign, you should records of the amounts contributed and of the required information to identify the donors. The requirements of the Act that apply to your activity are explained in our Information Manual, of which a copy is enclosed. Sincerely, John Giansello Political Reform Analyst JG:bw ..",
+    "summary": "FPPC responds to a campaign committee regarding recordkeeping and disclosure requirements for door-to-door fundraising, clarifying that such solicitation is treated the same as other fundraising methods under the Political Reform Act."
+  }
+}

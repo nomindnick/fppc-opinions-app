@@ -1,0 +1,71 @@
+{
+  "id": "85018",
+  "year": 1985,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1985/fppc-advice/85018.PDF",
+  "pdf_sha256": "13d8c446c2d46726f7cb64f8de49d00c0deb297b1b1e04f411f53935d5c1093a",
+  "local_pdf_path": "raw_pdfs/1985/85018.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1985 Advice Letter # 85018",
+    "tags": [
+      "Advice Letter",
+      "1985"
+    ],
+    "scraped_at": "2026-01-31 15:37:10",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1985&tagCount=1&page=21"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:42.814143Z",
+    "page_count": 1,
+    "word_count": 146,
+    "char_count": 1002,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 146
+  },
+  "content": {
+    "full_text": "P.O. BOX 807 • SACRAMENTO, 9580.4 ••• 1100 K STREET BUILDING, SACRAMENTO, 95814 \nTechnical Assistance \n(916) 322·5662 \nStanley Sniff \nP.o. Box 1414 \nLa Quinta, CA \n92253 \nDear Mr. Sniff: \nAdministration \n322·5660 \nExecutive/Legal \n322·5901 \nMarch 1, 1985 \nEnforcement \n322-6441 \nStatements of Economic Interest \n322-6444 \nRe: \nYour Request for Advice \nOur File No. A-85-0l8 \nWe have received your letter concerning the La Quinta City \nCouncil. \nAs I explained in our telephone conversation, the Fair \nPolitical Practices Commission issues specific advice to a \nperson only with respect to that person's duties under the \nPolitical Reform Act. \nFurthermore, the Fair Political Practices \nCommission does not have jurisdiction with regard to the Brown \nAct or other statutory provisions not included in the Political \nReform Act. \nTherefore, I have not answered your questions about \nthe La Quinta City Council. \nKED:plh \nVery truly yours, \n#dt~ t:-. ~w--v~ \nKathryn E. Donovan \nCounsel \nLegal Division \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1985-03-01",
+    "date_raw": "March 1, 1985",
+    "requestor_name": "Sniff",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requester asked for FPPC advice regarding matters related to the La Quinta City Council, including questions about the Brown Act and other statutory provisions.",
+    "conclusion_synthetic": "The FPPC declines to provide advice because it only issues guidance on matters under the Political Reform Act, not the Brown Act or other statutory provisions outside its jurisdiction.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is a declination letter with no formal QUESTION or CONCLUSION sections. The letter explains jurisdictional limitations rather than providing substantive legal advice. Document contains only brief explanation of why advice cannot be provided."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:36:42.814143Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The requester asked for FPPC advice regarding matters related to the La Quinta City Council, including questions about the Brown Act and other statutory provisions.\n\nCONCLUSION: The FPPC declines to provide advice because it only issues guidance on matters under the Political Reform Act, not the Brown Act or other statutory provisions outside its jurisdiction.",
+    "qa_source": "synthetic",
+    "first_500_words": "P.O. BOX 807 • SACRAMENTO, 9580.4 ••• 1100 K STREET BUILDING, SACRAMENTO, 95814 Technical Assistance (916) 322·5662 Stanley Sniff P.o. Box 1414 La Quinta, CA 92253 Dear Mr. Sniff: Administration 322·5660 Executive/Legal 322·5901 March 1, 1985 Enforcement 322-6441 Statements of Economic Interest 322-6444 Re: Your Request for Advice Our File No. A-85-0l8 We have received your letter concerning the La Quinta City Council. As I explained in our telephone conversation, the Fair Political Practices Commission issues specific advice to a person only with respect to that person's duties under the Political Reform Act. Furthermore, the Fair Political Practices Commission does not have jurisdiction with regard to the Brown Act or other statutory provisions not included in the Political Reform Act. Therefore, I have not answered your questions about the La Quinta City Council. KED:plh Very truly yours, #dt~ t:-. ~w--v~ Kathryn E. Donovan Counsel Legal Division",
+    "summary": "The FPPC declines to provide advice to Stanley Sniff regarding his questions about the La Quinta City Council because those questions fall outside the FPPC's jurisdiction under the Political Reform Act."
+  }
+}

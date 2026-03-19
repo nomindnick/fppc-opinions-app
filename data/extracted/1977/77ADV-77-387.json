@@ -1,0 +1,73 @@
+{
+  "id": "77ADV-77-387",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-387.PDF",
+  "pdf_sha256": "c27e7a2c6540f8dbc09f1c4c2ce45901bd15e6cf0532f3c49e80ab2753d2f82c",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-387.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-387",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:21:22",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=33"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:15.384959Z",
+    "page_count": 1,
+    "word_count": 198,
+    "char_count": 1203,
+    "quality_score": 0.635,
+    "olmocr_cost": null,
+    "native_word_count": 198
+  },
+  "content": {
+    "full_text": "Sta~ of California \nemorandum \nTo \nDan \nNatalie \ncJohn G. \nG. \nMickey \nJohn K. \nJay \nBarbara \nKen F • ...;' \nRich E. \nBob \nKen G. \nMike \nGina \nFred \nDel \nTed \nDawn \nRichard \nAlfredo \nfrom \nFAIR POLITICAL PRACTICES COMMISSION -\nSubject: Policy Interpretation of New Government Code §87206. 5 \nFrequently, particularly in \nareas, \nemployee's principal residence is located on a \ns \nparcel of property, whether la, 100, or 1 000 acres. \nreal property is required to be \ns \npursuant to a Conflict of Interest Code, \nportion of this real property is \nin light of new Government Code §87 \n\"For purposes of this artie \nin real property' does not include \nprincipal residence of the filer.\"? \nAt the opinion request meeting on December \nI \n1976, \nit was agreed that in the usual residenti \nf this \nCode section excludes the principal residence i \nf and \nthe lot or real property on which the principal residence \nis located, so long as the property does not constitute \nany other type of reportable interest, such as a report-\nable investment or reportable income. \nWhen the real \nproperty consists of land in addition to the \nwhich the principal residence sits, all such addi \nproperty is disclosable. \nEK:gb \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "In the usual residential situation, Government Code §87206.5 excludes the principal residence itself and the lot or real property on which the principal residence is located from disclosure, so long as the property does not constitute any other type of reportable interest such as a reportable investment or reportable income. When the real property consists of land in addition to the lot on which the principal residence sits, all such additional property is disclosable.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a filer's principal residence and the lot on which it is located must be disclosed under new Government Code §87206.5, which exempts principal residences from real property disclosure requirements.",
+    "conclusion_synthetic": "The FPPC concludes that a principal residence and its lot are excluded from disclosure under Government Code §87206.5, but any additional real property beyond the residential lot must be disclosed if it would otherwise be reportable.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.82,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is internal FPPC memorandum with distribution list rather than traditional letter format. No formal 'QUESTION' or 'CONCLUSION' headers present, but content provides clear policy interpretation. Image quality affects confidence - some text is unclear or partially obscured. Parsed as advice letter based on FPPC providing interpretive guidance."
+  },
+  "citations": {
+    "government_code": [
+      "87206"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:37:15.384959Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether a filer's principal residence and the lot on which it is located must be disclosed under new Government Code §87206.5, which exempts principal residences from real property disclosure requirements.\n\nCONCLUSION: In the usual residential situation, Government Code §87206.5 excludes the principal residence itself and the lot or real property on which the principal residence is located from disclosure, so long as the property does not constitute any other type of reportable interest such as a reportable investment or reportable income. When the real property consists of land in addition to the lot on which the principal residence sits, all such additional property is disclosable.",
+    "qa_source": "mixed",
+    "first_500_words": "Sta~ of California emorandum To Dan Natalie cJohn G. G. Mickey John K. Jay Barbara Ken F • ...;' Rich E. Bob Ken G. Mike Gina Fred Del Ted Dawn Richard Alfredo from FAIR POLITICAL PRACTICES COMMISSION - Subject: Policy Interpretation of New Government Code §87206. 5 Frequently, particularly in areas, employee's principal residence is located on a s parcel of property, whether la, 100, or 1 000 acres. real property is required to be s pursuant to a Conflict of Interest Code, portion of this real property is in light of new Government Code §87 \"For purposes of this artie in real property' does not include principal residence of the filer.\"? At the opinion request meeting on December I 1976, it was agreed that in the usual residenti f this Code section excludes the principal residence i f and the lot or real property on which the principal residence is located, so long as the property does not constitute any other type of reportable interest, such as a report- able investment or reportable income. When the real property consists of land in addition to the which the principal residence sits, all such addi property is disclosable. EK:gb",
+    "summary": "FPPC memorandum providing policy interpretation of Government Code §87206.5 regarding which real property interests must be disclosed, clarifying that principal residences and their lots are excluded from disclosure requirements."
+  }
+}

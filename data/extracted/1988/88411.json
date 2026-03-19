@@ -1,0 +1,73 @@
+{
+  "id": "88411",
+  "year": 1988,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1988/fppc-advice/88411.PDF",
+  "pdf_sha256": "be40e80fabb09782c063400a5791f037a6d22a74e9920ebc9a459dd5581b5bbb",
+  "local_pdf_path": "raw_pdfs/1988/88411.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1988 Advice Letter # 88411",
+    "tags": [
+      "1988",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:59:28",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1988&tagCount=1&page=25"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:12.381904Z",
+    "page_count": 1,
+    "word_count": 194,
+    "char_count": 1207,
+    "quality_score": 0.7150000000000001,
+    "olmocr_cost": null,
+    "native_word_count": 194
+  },
+  "content": {
+    "full_text": "MENO \nDATE: \nADVICE No.: \nFRCM: \nRE: \nCODE: \nFACTS \nQUESTION \nAl.~SWER \nOctober 28, 1988 \nT-88-t..j\" \nIt \nA \n. \n/) I \n. \nBruce Robeck ,~~ \nTelephone advice to Ronald Sohigian, Superior Court Judge \nSection 87200(a) (2) , 82020. \nA newly appointed superior court judge was sworn-in to \noffice on October 1st. Prior to assuming office, the judge \nhad made political contributions from personal funds but \ndid not have any filing obigations because of the contri-\nbution activity. He has not made any contributions nor \nhas he received any contributions since he was svJOrn-in. \nWhat is the campaign disclosure obligation of a newly \nappointed judge and when does the filing obligation begin? \nA newly appointed judge incurs a campaign disclosure \nfiling obligation: \n(1) \nfrom the date of swearing-in through the remainder \nof the calendar year (no activity prior to being \nsworn-in would trigger a new filing obligation as \nas a judge; \n(2) \nany contributions or expenditures after being \nsworn-in to office may create a filing obligation \nfor the judge (a 470 or a 490). \nNote: \nSB 2798, Ch. 708, Stats. 1988 changes the filing \nobligation of a judge who contributes less than $1 000 \nfrom personal ftmds. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1988-10-28",
+    "date_raw": "October 28, 1988",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Al.~SWER \nOctober 28, 1988 \nT-88-t..j\" \nIt \nA \n. \n/) I \n. \nBruce Robeck ,~~ \nTelephone advice to Ronald Sohigian, Superior Court Judge \nSection 87200(a) (2) , 82020. \nA newly appointed superior court judge was sworn-in to \noffice on October 1st. Prior to assuming office, the judge \nhad made political contributions from personal funds but \ndid not have any filing obigations because of the contri-\nbution activity. He has not made any contributions nor \nhas he received any contributions since he was svJOrn-in. \nWhat is the campaign disclosure obligation of a newly \nappointed judge and when does the filing obligation begin? \nA newly appointed judge incurs a campaign disclosure \nfiling obligation: \n(1) \nfrom the date of swearing-in through the remainder \nof the calendar year (no activity prior to being \nsworn-in would trigger a new filing obligation as \nas a judge; \n(2) \nany contributions or expenditures after being \nsworn-in to office may create a filing obligation \nfor the judge (a 470 or a 490). \nNote: \nSB 2798, Ch. 708, Stats. 1988 changes the filing \nobligation of a judge who contributes less than $1 000 \nfrom personal ftmds.",
+    "conclusion": "A newly appointed judge incurs a campaign disclosure filing obligation: (1) from the date of swearing-in through the remainder of the calendar year (no activity prior to being sworn-in would trigger a new filing obligation as a judge; (2) any contributions or expenditures after being sworn-in to office may create a filing obligation for the judge (a 470 or a 490).",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "A newly appointed superior court judge seeks clarification on when campaign disclosure filing obligations commence and what activities trigger such obligations.",
+    "conclusion_synthetic": "Campaign disclosure obligations for a newly appointed judge begin from the date of swearing-in and apply to contributions or expenditures made after assuming office, not to any activity prior to taking office.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern; Skipped (too short): facts; FACTS has only 0 words; LLM: Document is a telephone advice letter. FACTS section is minimal but adequate. Question and Answer sections are clearly present. Reference to SB 2798 regarding contributions under $1,000 is included. High confidence extraction despite some OCR artifacts in header."
+  },
+  "citations": {
+    "government_code": [
+      "87200(a)(2)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:36:12.381904Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Al.~SWER \nOctober 28, 1988 \nT-88-t..j\" \nIt \nA \n. \n/) I \n. \nBruce Robeck ,~~ \nTelephone advice to Ronald Sohigian, Superior Court Judge \nSection 87200(a) (2) , 82020. \nA newly appointed superior court judge was sworn-in to \noffice on October 1st. Prior to assuming office, the judge \nhad made political contributions from personal funds but \ndid not have any filing obigations because of the contri-\nbution activity. He has not made any contributions nor \nhas he received any contributions since he was svJOrn-in. \nWhat is the campaign disclosure obligation of a newly \nappointed judge and when does the filing obligation begin? \nA newly appointed judge incurs a campaign disclosure \nfiling obligation: \n(1) \nfrom the date of swearing-in through the remainder \nof the calendar year (no activity prior to being \nsworn-in would trigger a new filing obligation as \nas a judge; \n(2) \nany contributions or expenditures after being \nsworn-in to office may create a filing obligation \nfor the judge (a 470 or a 490). \nNote: \nSB 2798, Ch. 708, Stats. 1988 changes the filing \nobligation of a judge who contributes less than $1 000 \nfrom personal ftmds.\n\nCONCLUSION: A newly appointed judge incurs a campaign disclosure filing obligation: (1) from the date of swearing-in through the remainder of the calendar year (no activity prior to being sworn-in would trigger a new filing obligation as a judge; (2) any contributions or expenditures after being sworn-in to office may create a filing obligation for the judge (a 470 or a 490).",
+    "qa_source": "mixed",
+    "first_500_words": "MENO DATE: ADVICE No.: FRCM: RE: CODE: FACTS QUESTION Al.~SWER October 28, 1988 T-88-t..j\" It A . /) I . Bruce Robeck ,~~ Telephone advice to Ronald Sohigian, Superior Court Judge Section 87200(a) (2) , 82020. A newly appointed superior court judge was sworn-in to office on October 1st. Prior to assuming office, the judge had made political contributions from personal funds but did not have any filing obigations because of the contri- bution activity. He has not made any contributions nor has he received any contributions since he was svJOrn-in. What is the campaign disclosure obligation of a newly appointed judge and when does the filing obligation begin? A newly appointed judge incurs a campaign disclosure filing obligation: (1) from the date of swearing-in through the remainder of the calendar year (no activity prior to being sworn-in would trigger a new filing obligation as as a judge; (2) any contributions or expenditures after being sworn-in to office may create a filing obligation for the judge (a 470 or a 490). Note: SB 2798, Ch. 708, Stats. 1988 changes the filing obligation of a judge who contributes less than $1 000 from personal ftmds.",
+    "summary": "This FPPC advice letter addresses the campaign disclosure filing obligations of a newly appointed superior court judge who was sworn in on October 1, 1988. The FPPC advises that filing obligations commence from the swearing-in date and apply only to contributions and expenditures made after assuming office."
+  }
+}

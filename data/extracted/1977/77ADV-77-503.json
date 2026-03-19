@@ -1,0 +1,73 @@
+{
+  "id": "77ADV-77-503",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-503.PDF",
+  "pdf_sha256": "c944af0c7409ea223b3eb66d5e027f9037f4ea3b2e0d30fdd8a86e1fcd97ac4f",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-503.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-503",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:22:32",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=49"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-07T17:13:47.263216Z",
+    "page_count": 2,
+    "word_count": 379,
+    "char_count": 2393,
+    "quality_score": 0.635,
+    "olmocr_cost": 0.0051729,
+    "native_word_count": 278
+  },
+  "content": {
+    "full_text": "State of California\n\nMemorandum\n\nTo: File\n\nDate: 4-29-77\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION\n        Ted Prim\n\nSubject: Influencing an agency.\n\nTheoretically, the standards for determining whether a person is a filer pursuant to Section 86108(a) and 86108(b) are separate. However, if one employs a lobbyist, and thereby becomes a 108(a) filer, he will necessarily spend the $250 required to make him a 108(b) filer.\n\nHowever, assume that the employer's lobbyist influences the PUC. Another employee, who is not a lobbyist, attempts to influence the Energy Commission. The employee's time should not be counted as \"influencing\" unless it amounts to 10% or more of his compensated time during the month. Thus, if the employee spends 9% of his time communicating with the Energy Commission, he will not be deemed to be \"influencing\" the Energy Commission and his salary payments need not be reported by his employer. However, if he spends 10% of his compensated time communicating with the Energy Commission, he will be \"influencing\" the Energy Commission and his salary payments therefore must be reported. Once the employee has triggered the 10% time threshold, his employer also will have triggered the de minimus threshold for \"influencing\" an agency. Moreover, all of the employee's salary payments attributable to communicating or influencing state agencies may be counted. Thus, if he spends an additional 3% of his time influencing the Coastal Commission, such payments may be reportable if they are sufficient to mean that the employer is \"influencing\" the Coastal Commission.\n\nTo recapitulate, an employee's time is not counted unless he spends 10% or more of his time influencing state agencies. The 10% rule is applied per employee, not per agency. Thus, an employee who spends 5% of his time influencing the Energy Commission and 5% of his time influencing the Coastal Commission will have his time counted and reported.\n\nHowever, there is a de minimus test for determining which agencies are being influenced by the employer. If an employee\n\nspent 9-1/2% of his compensated time in a month influencing the water department and 1/2% influencing the health department, he would have triggered the 10% threshold for counting his time. However, his employer might not be deemed to be influencing the health department since so little time had been devoted to that agency.\n\nTP:jo",
+    "full_text_markdown": "State of California\n\nMemorandum\n\nTo: File\n\nDate: 4-29-77\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION\n        Ted Prim\n\nSubject: Influencing an agency.\n\nTheoretically, the standards for determining whether a person is a filer pursuant to Section 86108(a) and 86108(b) are separate. However, if one employs a lobbyist, and thereby becomes a 108(a) filer, he will necessarily spend the $250 required to make him a 108(b) filer.\n\nHowever, assume that the employer's lobbyist influences the PUC. Another employee, who is not a lobbyist, attempts to influence the Energy Commission. The employee's time should not be counted as \"influencing\" unless it amounts to 10% or more of his compensated time during the month. Thus, if the employee spends 9% of his time communicating with the Energy Commission, he will not be deemed to be \"influencing\" the Energy Commission and his salary payments need not be reported by his employer. However, if he spends 10% of his compensated time communicating with the Energy Commission, he will be \"influencing\" the Energy Commission and his salary payments therefore must be reported. Once the employee has triggered the 10% time threshold, his employer also will have triggered the de minimus threshold for \"influencing\" an agency. Moreover, all of the employee's salary payments attributable to communicating or influencing state agencies may be counted. Thus, if he spends an additional 3% of his time influencing the Coastal Commission, such payments may be reportable if they are sufficient to mean that the employer is \"influencing\" the Coastal Commission.\n\nTo recapitulate, an employee's time is not counted unless he spends 10% or more of his time influencing state agencies. The 10% rule is applied per employee, not per agency. Thus, an employee who spends 5% of his time influencing the Energy Commission and 5% of his time influencing the Coastal Commission will have his time counted and reported.\n\nHowever, there is a de minimus test for determining which agencies are being influenced by the employer. If an employee\n\nspent 9-1/2% of his compensated time in a month influencing the water department and 1/2% influencing the health department, he would have triggered the 10% threshold for counting his time. However, his employer might not be deemed to be influencing the health department since so little time had been devoted to that agency.\n\nTP:jo"
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "What are the standards for determining whether a person is a filer under sections 86108(a) and 86108(b), and how should employee time spent influencing state agencies be counted toward the thresholds for reporting salary payments?",
+    "conclusion_synthetic": "An employee's time influencing state agencies is counted only if it reaches 10% or more of compensated time per month (applied per employee, not per agency), and employers must report salary payments once this threshold is triggered. A de minimus test applies to determine which specific agencies are being influenced by the employer.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: No formal QUESTION or CONCLUSION sections present; document is structured as an explanatory memorandum. The legal guidance is presented through hypothetical examples and explanations. Extracted question and conclusion from substantive content analysis."
+  },
+  "citations": {
+    "government_code": [
+      "86108(a)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "lobbying",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T17:13:47.263216Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: What are the standards for determining whether a person is a filer under sections 86108(a) and 86108(b), and how should employee time spent influencing state agencies be counted toward the thresholds for reporting salary payments?\n\nCONCLUSION: An employee's time influencing state agencies is counted only if it reaches 10% or more of compensated time per month (applied per employee, not per agency), and employers must report salary payments once this threshold is triggered. A de minimus test applies to determine which specific agencies are being influenced by the employer.",
+    "qa_source": "synthetic",
+    "first_500_words": "State of California Memorandum To: File Date: 4-29-77 From: FAIR POLITICAL PRACTICES COMMISSION Ted Prim Subject: Influencing an agency. Theoretically, the standards for determining whether a person is a filer pursuant to Section 86108(a) and 86108(b) are separate. However, if one employs a lobbyist, and thereby becomes a 108(a) filer, he will necessarily spend the $250 required to make him a 108(b) filer. However, assume that the employer's lobbyist influences the PUC. Another employee, who is not a lobbyist, attempts to influence the Energy Commission. The employee's time should not be counted as \"influencing\" unless it amounts to 10% or more of his compensated time during the month. Thus, if the employee spends 9% of his time communicating with the Energy Commission, he will not be deemed to be \"influencing\" the Energy Commission and his salary payments need not be reported by his employer. However, if he spends 10% of his compensated time communicating with the Energy Commission, he will be \"influencing\" the Energy Commission and his salary payments therefore must be reported. Once the employee has triggered the 10% time threshold, his employer also will have triggered the de minimus threshold for \"influencing\" an agency. Moreover, all of the employee's salary payments attributable to communicating or influencing state agencies may be counted. Thus, if he spends an additional 3% of his time influencing the Coastal Commission, such payments may be reportable if they are sufficient to mean that the employer is \"influencing\" the Coastal Commission. To recapitulate, an employee's time is not counted unless he spends 10% or more of his time influencing state agencies. The 10% rule is applied per employee, not per agency. Thus, an employee who spends 5% of his time influencing the Energy Commission and 5% of his time influencing the Coastal Commission will have his time counted and reported. However, there is a de minimus test for determining which agencies are being influenced by the employer. If an employee spent 9-1/2% of his compensated time in a month influencing the water department and 1/2% influencing the health department, he would have triggered the 10% threshold for counting his time. However, his employer might not be deemed to be influencing the health department since so little time had been devoted to that agency. TP:jo",
+    "summary": "This FPPC memorandum provides guidance on the standards for determining filer status under sections 86108(a) and 86108(b), explaining that employee time spent influencing state agencies must reach a 10% threshold to be counted, and that this threshold is applied per employee across all agencies combined rather than per individual agency."
+  }
+}

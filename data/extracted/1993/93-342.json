@@ -1,0 +1,82 @@
+{
+  "id": "93-342",
+  "year": 1993,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1993/93-342.pdf",
+  "pdf_sha256": "2d85b51c903c58585f898c768234830980d8e0d91c95b2f20744ddff7f5a8e9b",
+  "local_pdf_path": "raw_pdfs/1993/93-342.pdf",
+  "source_metadata": {
+    "title_raw": ", Moureaux Year: 1993 Advice Letter # 93-342",
+    "tags": [
+      "1993",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:33:18",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1993&tagCount=1&page=32"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:09.499366Z",
+    "page_count": 2,
+    "word_count": 448,
+    "char_count": 2904,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 448
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\nOctober 13,\n1993\nEric Steffenson\n3981 Freed Avenue\nSan Jose,\nCA\n95117\nRe:\nYour Request for Informal Assistance\nOur File No.\n1-93-342\nDear Mr.\nSteffenson:\nYou have requested advice regarding the use of public funds\nto oppose Proposition 174 and the reporting requirements under the\nPolitical Reform Act\n(the ItActIt).l/\nBecause the use of public\nfunds with respect to opposing a ballot measure is outside the\njurisdiction of the Commission,\nwe can only provide the following\ninformal guidelines with respect to the reporting requirements\nunder the Act.\n2\n!\nAlthough the Act does not cover the appropriate use of public\nfunds to oppose ballot measures, Regulation 18420 does provide\nthat government agencies which make expenditures or contributions\nmust file campaign statements if they qualify as a committee under\nGovernment Code Section 82013.\nTherefore, contributions made by a local government agency to\na candidate or committee must be disclosed as contributions on the\ncampaign disclosure statements of the recipient.\n3\n!\nIn addition,\n1/\nGovernment Code Sections 81000—91015.\nAll statutory\nreferences are to the Government Code unless otherwise indicated.\nCommission regulations appear at\n2 California Code of Regulations\nSection 18000,\ngg.\nAll references to regulations are to Title\n2,\nDivision\n6 of the California Code of Regulations.\n2!\nInformal assistance does not provide the requestor with the\nimmunity provided by an opinion or formal written advice.\n(Section 83114; Regulation 18329(c) (3).)\n3/\nRegulation 18420 provides:\n“Nothing in this regulation\nshould be read as condoning or authorizing campaign—related\nactivities by a state or local government agency.\nUnder many\ncircumstances,\nsuch activities may be illegal.\nSee Penal Code\nSection 424; Stanson v.\nMott,\n17 Cal.\n3d 206\n(1976); People v.\nSperl,\n54 Cal.\nApp.\n3d 640\n(1976);\nand People v. Battin,\n77 Cal.\nApp.\n3d 635\n(1978).”\n428 J Street, Suite 800 •\nP.O. Box 807 •\nSacramento, CA\n95804-0807 •\n(916) 322-5660\n\n\nFile No.\n1—93—342\nPage\n2\nif the contributions or expenditures made by the local government\nagency meet the thresholds outlined in Section 82013, the agency\nwill become a committee under of the Act.\nAs a committee, the\nlocal government agency will incur reporting obligations.\n(See\nthe enclosed fact sheet developed by the Commission which was\ndistributed to school district boards throughout California in\nJune of 1992.)\nWith respect to the use of public funds to oppose Proposition\n174,\nwe suggest you contact the Attorney General’s office or the\nlegal office of the California Department Education at\n(916)\n657—2453.\nIf you have any further questions regarding this matter or\nquestions regarding campaign disclosure requirements, please feel\nfree to contact me Monday through Thursday at\n(916)\n322-5662.\nSincerely,\n;,pt&\nLinda Moureaux\nPolitical Reform Consultant\nEnclosure\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1993-10-13",
+    "date_raw": "October 13,\n1993",
+    "requestor_name": "Steffenson",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "informal_advice"
+  },
+  "sections": {
+    "question": "s regarding campaign disclosure requirements, please feel\nfree to contact me Monday through Thursday at\n(916)\n322-5662.",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.5499999999999999,
+    "has_standard_format": true,
+    "parsing_notes": "Format: ocr"
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "82013",
+      "83114"
+    ],
+    "regulations": [
+      "18329",
+      "18420"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": [
+      "17 Cal. 3d 206",
+      "54 Cal. App. 3d 640",
+      "77 Cal. App. 3d 635"
+    ]
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.3333333333333333,
+    "classified_at": "2026-02-06T18:35:09.499366Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: s regarding campaign disclosure requirements, please feel\nfree to contact me Monday through Thursday at\n(916)\n322-5662.",
+    "qa_source": "extracted",
+    "first_500_words": "California Fair Political Practices Commission October 13, 1993 Eric Steffenson 3981 Freed Avenue San Jose, CA 95117 Re: Your Request for Informal Assistance Our File No. 1-93-342 Dear Mr. Steffenson: You have requested advice regarding the use of public funds to oppose Proposition 174 and the reporting requirements under the Political Reform Act (the ItActIt).l/ Because the use of public funds with respect to opposing a ballot measure is outside the jurisdiction of the Commission, we can only provide the following informal guidelines with respect to the reporting requirements under the Act. 2 ! Although the Act does not cover the appropriate use of public funds to oppose ballot measures, Regulation 18420 does provide that government agencies which make expenditures or contributions must file campaign statements if they qualify as a committee under Government Code Section 82013. Therefore, contributions made by a local government agency to a candidate or committee must be disclosed as contributions on the campaign disclosure statements of the recipient. 3 ! In addition, 1/ Government Code Sections 81000—91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations Section 18000, gg. All references to regulations are to Title 2, Division 6 of the California Code of Regulations. 2! Informal assistance does not provide the requestor with the immunity provided by an opinion or formal written advice. (Section 83114; Regulation 18329(c) (3).) 3/ Regulation 18420 provides: “Nothing in this regulation should be read as condoning or authorizing campaign—related activities by a state or local government agency. Under many circumstances, such activities may be illegal. See Penal Code Section 424; Stanson v. Mott, 17 Cal. 3d 206 (1976); People v. Sperl, 54 Cal. App. 3d 640 (1976); and People v. Battin, 77 Cal. App. 3d 635 (1978).” 428 J Street, Suite 800 • P.O. Box 807 • Sacramento, CA 95804-0807 • (916) 322-5660 File No. 1—93—342 Page 2 if the contributions or expenditures made by the local government agency meet the thresholds outlined in Section 82013, the agency will become a committee under of the Act. As a committee, the local government agency will incur reporting obligations. (See the enclosed fact sheet developed by the Commission which was distributed to school district boards throughout California in June of 1992.) With respect to the use of public funds to oppose Proposition 174, we suggest you contact the Attorney General’s office or the legal office of the California Department Education at (916) 657—2453. If you have any further questions regarding this matter or questions regarding campaign disclosure requirements, please feel free to contact me Monday through Thursday at (916) 322-5662. Sincerely, ;,pt& Linda Moureaux Political Reform Consultant Enclosure",
+    "summary": null
+  }
+}

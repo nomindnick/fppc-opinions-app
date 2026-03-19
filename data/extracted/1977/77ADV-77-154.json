@@ -1,0 +1,75 @@
+{
+  "id": "77ADV-77-154",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-154.PDF",
+  "pdf_sha256": "a0308d4e28aba6612944f7157bc339aa703b507fe8a30edbc61583df349117ca",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-154.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-154",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:21:35",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=36"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T21:08:16.740369Z",
+    "page_count": 1,
+    "word_count": 125,
+    "char_count": 777,
+    "quality_score": 0.8096053188028627,
+    "olmocr_cost": 0.00451242,
+    "native_word_count": 131
+  },
+  "content": {
+    "full_text": "12 April 1977\n\nFrancis Griener  \nCity Clerk  \n801 N. 1st Street  \nSan Jose, California 95110\n\nDear Frank:\n\nThank you for your letter of March 21, 1977 concerning reporting requirements pursuant to Government Code Sections 87200, et seq.\n\nThe city council member need not report a loan exceeding $1,000 made to a friend or relative where there is no debt instrument as an investment as outlined in Section 82034. Repayment of the loan, however, must be reported as income pursuant to Section 82030 when payments total $250 or more if the payment is received from a person within the jurisdiction of the office.\n\nPlease let me know if you would like additional assistance or information.\n\nVery truly yours,\n\nRegina Siciliaoo-Kutchins  \nProgram Coordinator\n\nRSK/gt\n\nbcc: Jeanne P.",
+    "full_text_markdown": "12 April 1977\n\nFrancis Griener  \nCity Clerk  \n801 N. 1st Street  \nSan Jose, California 95110\n\nDear Frank:\n\nThank you for your letter of March 21, 1977 concerning reporting requirements pursuant to Government Code Sections 87200, et seq.\n\nThe city council member need not report a loan exceeding $1,000 made to a friend or relative where there is no debt instrument as an investment as outlined in Section 82034. Repayment of the loan, however, must be reported as income pursuant to Section 82030 when payments total $250 or more if the payment is received from a person within the jurisdiction of the office.\n\nPlease let me know if you would like additional assistance or information.\n\nVery truly yours,\n\nRegina Siciliaoo-Kutchins  \nProgram Coordinator\n\nRSK/gt\n\nbcc: Jeanne P."
+  },
+  "parsed": {
+    "date": "1977-03-21",
+    "date_raw": "March 21, 1977",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [
+      "82030",
+      "82034",
+      "87200"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-19T21:08:16.740369Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "12 April 1977 Francis Griener City Clerk 801 N. 1st Street San Jose, California 95110 Dear Frank: Thank you for your letter of March 21, 1977 concerning reporting requirements pursuant to Government Code Sections 87200, et seq. The city council member need not report a loan exceeding $1,000 made to a friend or relative where there is no debt instrument as an investment as outlined in Section 82034. Repayment of the loan, however, must be reported as income pursuant to Section 82030 when payments total $250 or more if the payment is received from a person within the jurisdiction of the office. Please let me know if you would like additional assistance or information. Very truly yours, Regina Siciliaoo-Kutchins Program Coordinator RSK/gt bcc: Jeanne P.",
+    "qa_source": "extracted",
+    "first_500_words": "12 April 1977 Francis Griener City Clerk 801 N. 1st Street San Jose, California 95110 Dear Frank: Thank you for your letter of March 21, 1977 concerning reporting requirements pursuant to Government Code Sections 87200, et seq. The city council member need not report a loan exceeding $1,000 made to a friend or relative where there is no debt instrument as an investment as outlined in Section 82034. Repayment of the loan, however, must be reported as income pursuant to Section 82030 when payments total $250 or more if the payment is received from a person within the jurisdiction of the office. Please let me know if you would like additional assistance or information. Very truly yours, Regina Siciliaoo-Kutchins Program Coordinator RSK/gt bcc: Jeanne P.",
+    "summary": null
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "77ADV-77-192",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-192.PDF",
+  "pdf_sha256": "a77f66aa41406761426221553758aaaee9cf0771cd05de387583ddb44d17341c",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-192.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-192",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:19:09",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=3"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:11.917194Z",
+    "page_count": 2,
+    "word_count": 265,
+    "char_count": 1787,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 265
+  },
+  "content": {
+    "full_text": "30, 1977 \nIman, Treasurer \n3875 \nHills, California \n91344 \nDear Ms. Sillman: \nAll candidaees for seaee \nlocal office are noeified at ehe \nehey \noue eheir nominaeion papers ehae a Staeement of \nEconomic Interest (financial disclosure) is due at ehe same \neime ehey file their Declaration of Candidacy. \nElected candi-\nare notified by local or state officials as to when \nadditional financial disclosure is required. \nCandidates who \nare not \nhave no obligation to file another Statement \nof Economic Interese. \nCampaign disclosure \nwhich include all money raised and \nin connection with ehe candidacy are filed with seaee or \nlocal filing officers, depending on \noffice sought. \nCandi-\nfor city offices file with the city clerk, county candi-\nwith the county clerk and state or statewide candidates \nwith the Secretary of State, P.O. Box 1467, Sacramento, CA \n95807. \nNotice of filing deadlines should \nobtained from \nfiling officers along with necessary campaign disclosure forms. \nEnclosed for your use, however, are some general filing dead-\nlines for the March municipal and June and November state \nelections. \ntruly yours, \nRegina Siciliano-Kutchins \nTechnical Assistance \nCoordinator \nRSK: \n\n\nLAW OFFICES \nWILLIAM S. GREENE \nNovember 23, 1977 \nFair Political Practices Commission \n1100 K Street \nSacramento, California \n95814 \nRe: \nCommittee to Elect Bill Greene \nPost Office Box 33444 \nGranada Hills, California 91344 \nGentlemen: \nMAILING ADDRESS: \nP.O. BOX 3875 \nSUITE 107 \n17715 CHATSWORTH STREET \nGRANADA HILLS, CALIFORNIA 91344 \n(213) 363·5694 \nPlease let us know whether we will be notified when the Finan-\ncial Statement or any other forms are due. \nIf no notification will be mailed, please let us know by return \nmail. \nSincerely yours, \nMARTHA SILLMAN \nTreasurer \nMS:gn \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1977-11-23",
+    "date_raw": "November 23, 1977",
+    "requestor_name": "Sillman",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Please let us know whether we will be notified when the Financial Statement or any other forms are due. If no notification will be mailed, please let us know by return mail.",
+    "conclusion": "All candidates for state or local office are notified at the time they file their nomination papers that a Statement of Economic Interest (financial disclosure) is due at the same time they file their Declaration of Candidacy. Elected candidates are notified by local or state officials as to when additional financial disclosure is required. Candidates who are not elected have no obligation to file another Statement of Economic Interest. Campaign disclosure reports, which include all money raised and spent in connection with the candidacy, are filed with state or local filing officers depending on the office sought.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Will the candidate committee receive notification of when financial disclosure statements and other required forms are due?",
+    "conclusion_synthetic": "Candidates receive notification of financial disclosure requirements when filing nomination papers and their Declaration of Candidacy. Elected candidates receive additional notifications from local or state officials, while non-elected candidates have no further filing obligations. Campaign disclosure reports must be filed with appropriate state or local officers.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document contains both the incoming request (from Martha Sillman, Treasurer) and FPPC response (from Regina Siciliano-Kutchins). The response letter lacks explicit \"QUESTION\" and \"CONCLUSION\" headers but the question and conclusion content are clearly identifiable. Some text appears degraded or contains OCR errors (e.g., 'seaee' for 'state', 'eehe' for 'the', 'eheir' for 'their'). Handwritten date at top shows November 30, 1977."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:11.917194Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Please let us know whether we will be notified when the Financial Statement or any other forms are due. If no notification will be mailed, please let us know by return mail.\n\nCONCLUSION: All candidates for state or local office are notified at the time they file their nomination papers that a Statement of Economic Interest (financial disclosure) is due at the same time they file their Declaration of Candidacy. Elected candidates are notified by local or state officials as to when additional financial disclosure is required. Candidates who are not elected have no obligation to file another Statement of Economic Interest. Campaign disclosure reports, which include all money raised and spent in connection with the candidacy, are filed with state or local filing officers depending on the office sought.",
+    "qa_source": "mixed",
+    "first_500_words": "30, 1977 Iman, Treasurer 3875 Hills, California 91344 Dear Ms. Sillman: All candidaees for seaee local office are noeified at ehe ehey oue eheir nominaeion papers ehae a Staeement of Economic Interest (financial disclosure) is due at ehe same eime ehey file their Declaration of Candidacy. Elected candi- are notified by local or state officials as to when additional financial disclosure is required. Candidates who are not have no obligation to file another Statement of Economic Interese. Campaign disclosure which include all money raised and in connection with ehe candidacy are filed with seaee or local filing officers, depending on office sought. Candi- for city offices file with the city clerk, county candi- with the county clerk and state or statewide candidates with the Secretary of State, P.O. Box 1467, Sacramento, CA 95807. Notice of filing deadlines should obtained from filing officers along with necessary campaign disclosure forms. Enclosed for your use, however, are some general filing dead- lines for the March municipal and June and November state elections. truly yours, Regina Siciliano-Kutchins Technical Assistance Coordinator RSK: LAW OFFICES WILLIAM S. GREENE November 23, 1977 Fair Political Practices Commission 1100 K Street Sacramento, California 95814 Re: Committee to Elect Bill Greene Post Office Box 33444 Granada Hills, California 91344 Gentlemen: MAILING ADDRESS: P.O. BOX 3875 SUITE 107 17715 CHATSWORTH STREET GRANADA HILLS, CALIFORNIA 91344 (213) 363·5694 Please let us know whether we will be notified when the Finan- cial Statement or any other forms are due. If no notification will be mailed, please let us know by return mail. Sincerely yours, MARTHA SILLMAN Treasurer MS:gn",
+    "summary": "This FPPC advice letter responds to a candidate committee's inquiry about notification of financial disclosure filing deadlines. The FPPC confirms that candidates are notified of disclosure requirements when they file their nomination papers and provides guidance on where to file campaign disclosure reports."
+  }
+}

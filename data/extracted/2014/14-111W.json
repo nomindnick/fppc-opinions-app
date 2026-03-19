@@ -1,0 +1,73 @@
+{
+  "id": "14-111W",
+  "year": 2014,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2014/14-111W.pdf",
+  "pdf_sha256": "9eaae2d910c6669a20ab1315c9165690e5abe50b51fff00e3b4f32fbdf6643d9",
+  "local_pdf_path": "raw_pdfs/2014/14-111W.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2014 Advice Letter # 14-111W",
+    "tags": [
+      "2014",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:57:29",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2014&tagCount=1&page=10"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:33:32.510988Z",
+    "page_count": 1,
+    "word_count": 191,
+    "char_count": 1210,
+    "quality_score": 0.6675,
+    "olmocr_cost": null,
+    "native_word_count": 191
+  },
+  "content": {
+    "full_text": "FAIR POLITICAL PRACTICES COMMISSION \n428 J Street • Suite 620 • Sacramento, CA 95814-2329 \n(916) 322-5660 • Fax (916) 322-0886 \nDavid A. Prentice, County Counsel \nOffice of the County Counsel \nPO Box 1428 \nWeaverville, CA 96093-1428 \nRe: \nYour Request for Advice \nOur File No. W-14-111 \nDear Mr. Prentice: \nJune 23, 2014 \nThis letter responds to your request for advice dated June 20, 2014, regarding the conflict \nof interest provisions of the Political Reform Act (the \"Act\"). We note your request asks about \napplication of the doctrine of incompatible offices, which is not under the Commission's \npurview. The Commission can only advise on the provisions of the Act (Government Code \nSections 81000 through 91014 ). 1 You may wish to contact the Office of the Attorney General, \nPost Office Box 944255, Sacramento, CA 95814 with respect to your questions. \nIf you have other questions on this matter, please contact me at (916) 322-5660. \nJWW:jgl \nSincerely, \nZackery P. Morazzini \nneral Counsel \nt General Counsel \nivision \n1 We have enclosed a copy of California Code of Regulations l 8329(b )(8)(8 ), which explains the \nprocedures for seeking assistance from the Fair Political Practices Commission. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2014-06-23",
+    "date_raw": "June 23, 2014",
+    "requestor_name": "Prentice",
+    "requestor_title": "County Counsel",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requester asked about the application of the doctrine of incompatible offices under the Political Reform Act's conflict of interest provisions.",
+    "conclusion_synthetic": "The FPPC declined to provide advice because the doctrine of incompatible offices is not within the Commission's purview; the FPPC can only advise on Government Code Sections 81000 through 91014, and the requester was directed to contact the Office of the Attorney General.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is a declination letter (File No. W-14-111W indicates withdrawal/declination). No formal QUESTION or CONCLUSION sections present. The legal question and FPPC's conclusion were synthesized from the letter's body text explaining the scope limitation."
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:33:32.510988Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The requester asked about the application of the doctrine of incompatible offices under the Political Reform Act's conflict of interest provisions.\n\nCONCLUSION: The FPPC declined to provide advice because the doctrine of incompatible offices is not within the Commission's purview; the FPPC can only advise on Government Code Sections 81000 through 91014, and the requester was directed to contact the Office of the Attorney General.",
+    "qa_source": "synthetic",
+    "first_500_words": "FAIR POLITICAL PRACTICES COMMISSION 428 J Street • Suite 620 • Sacramento, CA 95814-2329 (916) 322-5660 • Fax (916) 322-0886 David A. Prentice, County Counsel Office of the County Counsel PO Box 1428 Weaverville, CA 96093-1428 Re: Your Request for Advice Our File No. W-14-111 Dear Mr. Prentice: June 23, 2014 This letter responds to your request for advice dated June 20, 2014, regarding the conflict of interest provisions of the Political Reform Act (the \"Act\"). We note your request asks about application of the doctrine of incompatible offices, which is not under the Commission's purview. The Commission can only advise on the provisions of the Act (Government Code Sections 81000 through 91014 ). 1 You may wish to contact the Office of the Attorney General, Post Office Box 944255, Sacramento, CA 95814 with respect to your questions. If you have other questions on this matter, please contact me at (916) 322-5660. JWW:jgl Sincerely, Zackery P. Morazzini neral Counsel t General Counsel ivision 1 We have enclosed a copy of California Code of Regulations l 8329(b )(8)(8 ), which explains the procedures for seeking assistance from the Fair Political Practices Commission.",
+    "summary": "The FPPC declined an advice request from the County Counsel regarding the incompatible offices doctrine, stating it falls outside the Commission's jurisdiction and recommending the requester contact the Attorney General instead."
+  }
+}

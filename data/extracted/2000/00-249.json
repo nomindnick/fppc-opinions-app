@@ -1,0 +1,71 @@
+{
+  "id": "00-249",
+  "year": 2000,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2000/00-249.pdf",
+  "pdf_sha256": "03671494e3862abc476c99b9faeef38e9e24be49825880ce69282626c9882e95",
+  "local_pdf_path": "raw_pdfs/2000/00-249.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2000 Advice Letter # 00-249",
+    "tags": [
+      "2000",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 00:43:14",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2000&tagCount=1&page=15"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T13:58:10.711331Z",
+    "page_count": 1,
+    "word_count": 87,
+    "char_count": 565,
+    "quality_score": 0.8419206212816017,
+    "olmocr_cost": 0.00249142,
+    "native_word_count": 102
+  },
+  "content": {
+    "full_text": "March 30, 2001\n\nStephen H. Luhrs\n5324 Appletree Court\nOrangevale, CA 95662\n\nRe: Your Request for Advice\nOur File No. W-00-249\n\nDear Mr. Luhrs:\n\nThis letter memorializes our conversation of March 29, 2001, wherein you withdrew your November 7, 2000, request for written advice from the Fair Political Practices Commission. We apologize for any inconvenience caused by our delay in contacting you.\n\nPlease contact the Commission at (916) 322-5660 should you have any additional questions or comments.\n\nVery truly yours,\n\nJohn W. Wallace\nSenior Counsel, Legal Division",
+    "full_text_markdown": "March 30, 2001\n\nStephen H. Luhrs\n5324 Appletree Court\nOrangevale, CA 95662\n\nRe: Your Request for Advice\nOur File No. W-00-249\n\nDear Mr. Luhrs:\n\nThis letter memorializes our conversation of March 29, 2001, wherein you withdrew your November 7, 2000, request for written advice from the Fair Political Practices Commission. We apologize for any inconvenience caused by our delay in contacting you.\n\nPlease contact the Commission at (916) 322-5660 should you have any additional questions or comments.\n\nVery truly yours,\n\nJohn W. Wallace\nSenior Counsel, Legal Division"
+  },
+  "parsed": {
+    "date": "2001-03-30",
+    "date_raw": "March 30, 2001",
+    "requestor_name": "Luhrs",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-20T13:58:10.711331Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "March 30, 2001 Stephen H. Luhrs 5324 Appletree Court Orangevale, CA 95662 Re: Your Request for Advice Our File No. W-00-249 Dear Mr. Luhrs: This letter memorializes our conversation of March 29, 2001, wherein you withdrew your November 7, 2000, request for written advice from the Fair Political Practices Commission. We apologize for any inconvenience caused by our delay in contacting you. Please contact the Commission at (916) 322-5660 should you have any additional questions or comments. Very truly yours, John W. Wallace Senior Counsel, Legal Division",
+    "qa_source": "extracted",
+    "first_500_words": "March 30, 2001 Stephen H. Luhrs 5324 Appletree Court Orangevale, CA 95662 Re: Your Request for Advice Our File No. W-00-249 Dear Mr. Luhrs: This letter memorializes our conversation of March 29, 2001, wherein you withdrew your November 7, 2000, request for written advice from the Fair Political Practices Commission. We apologize for any inconvenience caused by our delay in contacting you. Please contact the Commission at (916) 322-5660 should you have any additional questions or comments. Very truly yours, John W. Wallace Senior Counsel, Legal Division",
+    "summary": null
+  }
+}

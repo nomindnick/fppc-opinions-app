@@ -1,0 +1,76 @@
+{
+  "id": "75165",
+  "year": 1975,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1975/75165.PDF",
+  "pdf_sha256": "69a10c5aa2c641e9963977c47ee518d25eaa6acc176de993968c99833a45a54a",
+  "local_pdf_path": "raw_pdfs/1975/75165.PDF",
+  "source_metadata": {
+    "title_raw": "DARRELL, JOSEPH Year: 1975 Advice Letter # 75165",
+    "tags": [
+      "1975",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:14:00",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1975&tagCount=1&page=3"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-27T00:46:12.956629Z",
+    "page_count": 1,
+    "word_count": 187,
+    "char_count": 1940,
+    "quality_score": 0.746049343815925,
+    "olmocr_cost": 0.00264966,
+    "native_word_count": 1284,
+    "haiku_cost": 0.003168
+  },
+  "content": {
+    "full_text": "# PRACTICE COMMISSION\n\n## User\n\nThe following information is known about a hypothetical corporation. Prepare consolidated financial statements for the corporation and its subsidiaries.\n\nBalance Sheet Data at December 31, 1975\n\nCorporation and Subsidiaries:\n\n---\n\nCash                                    $ 175,000\nAccounts Receivable                      425,000\nInventories                              650,000\nFixed Assets (net)                     1,250,000\nInvestment in Subsidiaries               500,000\n\nTotal Assets                          $3,000,000\n\nAccounts Payable                         $ 250,000\nLong-term Debt                            750,000\nCommon Stock                            1,500,000\nRetained Earnings                         500,000\n\nTotal Liabilities and Equity           $3,000,000\n\n---\n\nSubsidiary A (100% owned):\n\nAssets:\nCash                    $100,000\nAccounts Receivable      150,000\nInventories             200,000\nFixed Assets (net)      400,000\n                        --------\nTotal Assets            $850,000\n\nLiabilities and Equity:\nAccounts Payable        $ 100,000\nCommon Stock             600,000\nRetained Earnings        150,000\n                        --------\nTotal Liabilities \nand Equity              $850,000\n\n---\n\nSubsidiary B (80% owned):\n\nAssets:\nCash                    $ 75,000\nAccounts Receivable      125,000\nInventories             150,000\nFixed Assets (net)      350,000\n                        --------\nTotal Assets            $700,000\n\nLiabilities and Equity:\nAccounts Payable        $ 50,000\nCommon Stock             500,000\nRetained Earnings        150,000\n                        --------\nTotal Liabilities\nand Equity              $700,000\n\n---\n\nThe investment in subsidiaries account represents the parent company's equity in the book value of the subsidiaries at the date of acquisition.\n\nPrepare:\n1. Consolidated Balance Sheet\n2. Analysis of Consolidated Retained Earnings",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1975-07-14",
+    "date_raw": "July 14, 1975",
+    "requestor_name": "Darrell",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "Expenditures incurred by a committee for communications directed to its own members or employees shall not be included within the limitations imposed by this article. Thus, a corporation communicating with its own employees need not file a statement of intent even if such expenditures exceed $10,000.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a statement of intent must be filed under Section 35302 of the Political Reform Act for committee communications to members or employees.",
+    "conclusion_synthetic": "The FPPC declines to issue a formal opinion because the requestor did not disclose their identity as the person whose duties are affected. However, the FPPC provides informational guidance that communications by a corporation to its own employees are exempt from statement of intent filing requirements under Section 85305.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Declination letter with informal guidance provided. No formal QUESTION/CONCLUSION sections; extracted relevant regulatory text and reasoning. Request ID 75-146 referenced."
+  },
+  "citations": {
+    "government_code": [
+      "85305"
+    ],
+    "regulations": [],
+    "prior_opinions": [
+      "A-75-146"
+    ],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T17:19:25.296112Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether a statement of intent must be filed under Section 35302 of the Political Reform Act for committee communications to members or employees.\n\nCONCLUSION: Expenditures incurred by a committee for communications directed to its own members or employees shall not be included within the limitations imposed by this article. Thus, a corporation communicating with its own employees need not file a statement of intent even if such expenditures exceed $10,000.",
+    "qa_source": "mixed",
+    "first_500_words": "The image is a scanned page from a letter sent by the Fair Political Practices Commission of California to Mr. Joseph A. Darrell. The letter is dated July 14, 1975, and is addressed to Mr. Darrell at Joseph A. Darrell, Warner, Johnson & Briggs, Two Embarcadero Center, San Francisco, California 94111. The content of the letter states: --- July 14, 1975 Re: Request for Opinion No. 75-146 Dear Mr. Darrell: Thank you for your letter of July 1, 1975, requesting that the Fair Political Practices Commission issue an opinion regarding the filing of a statement of intent under Section 35302 of the Political Reform Act. Your request for a formal opinion is denied because the Commission will not accept opinion requests from anyone other than the person whose duties are affected under the act, although an opinion request may be submitted through counsel or other representative, the identity of the person requesting the opinion must be disclosed. For your information, however, Section 85305 states that: Expenditures incurred by a committee for communications directed to its own members or employees shall not be included within the limitations imposed by this article. Thus, a corporation communicating with its own employees need not file a statement of intent even if such expenditures exceed $10,000. Although no formal opinion will be issued, I hope the foregoing is sufficiently helpful. If you have questions, please contact a member of the Commission staff. Sincerely, [signature] Daniel H. Lowenstein Chairman, for the Commission",
+    "summary": "The FPPC declines to issue a formal opinion to counsel regarding statement of intent requirements, citing lack of disclosure of the affected person's identity, but provides informational clarification that internal corporate communications are exempt from filing requirements."
+  }
+}

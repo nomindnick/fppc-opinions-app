@@ -1,0 +1,73 @@
+{
+  "id": "80A036",
+  "year": 1980,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1980/80A036.PDF",
+  "pdf_sha256": "eb3acd8bb69b6c143013edda7d74e0bc50d7ab4be78c9986926fbc0568d5bcad",
+  "local_pdf_path": "raw_pdfs/1980/80A036.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1980 Advice Letter # 80A036",
+    "tags": [
+      "1980",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:27:02",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1980&tagCount=1&page=2"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:03.001815Z",
+    "page_count": 2,
+    "word_count": 322,
+    "char_count": 2080,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 322
+  },
+  "content": {
+    "full_text": "tate of Califorllia \nair Political Practices Commissioll \nSACRAMENTO, 95804 ••• \n00 K STREET BUiLDING, SACRAMENTO, 95814 \nTethilica~ Assistance \nAdministration \n1t \nII! \nto \nExecuti,tlr/lego! \nEnforcement *.. Conflict of interes? \nSenator Alex P. Garci \nState Capitol, Room 4032 \nSacramento, CA \n95814 \nDear Senator Garcia: \n322p5660 \n322*5901 \n322-6441 \n322-6444 \nJune 30, 19 0 \nyou \nr your letter request \nadvic \nconcerning \nthe duties \nauthorizi \nprovided \nof campaign committee trea urers in \nard to \nexpenditures. \nThe answer to your question i \nGovernment Code Section 84100 which \nides: \nEve \ncommittee s \n1 have a treasurer. \nNo \nexpenditure shall be made by or on behalf of a \ncommi tee without the authorization of the treasurer or \nthat of his or her des \nnated agents. \nNo contribution \nor expenditure sha I \nac \ned or made \nor on \nbehalf \nf a comm ttee at a t \nwhen there \na \nacancy \nin the \nffice of treasurer. \nAl though the \nof a thorizi \ntreasurer may \nex \nnditur \nt \ntely res \nrecords, \nlIs \ne Section 8 \nTMS:nrw \nibEor ke \nand rec \n04. \nnate \nents for the purpose \nnd the cand \nate are \nng the deta led \"accounts, \nthe comm tte. \nGovernment \nThomas \n. Sobel \nChief \na1 \nis \n\n\nPLEASE RESPOND TO: \no \nSACRAMENTO ADDRESS \nSTATE CAPITOL, ROOM 4032 \nSACRAMENTO, CALIFORNIA 95814 \n(916) 445.3456 \no \nDISTRICT OFFICE \n205 SO. BROADWAY \nSUITE 70S \nLOS ANGELES, CALIFORNIA 900t2 \n(213) 628-5155 \nA~i~X P. GARCIA \nAM st¥JA TE SENATOR \nJune 23, 1980 \nMr. Tom Sobel, Division Chief \nLegal Department \nFair Political Practices Commission \n1100 K Street \nP.O. Box 807 \nSacramento, CA \n95804 \nDear Mr. Sobel: \nCOMMITTEES: \nBUSINESS AND PROFESSIONS \nCHAIRMAN \nAGRICULTURE AND WATER \nRESOURCES \nHEALTH AND WELFARE \nMEMBER; \nCOMMISSION OF THE \nCALIFORNIAS \nPursuant to our discussion today, I would appreciate \na written opinion from you regarding the following question: \nCan a campaign committee or a campaign committee \nmember approve or authorize expenditures, or does the sole \nauthority rest with the campaign treasurer? \nThank you for expediting this matter. \nAPG:sr \nf3 \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1980-06-23",
+    "date_raw": "June 23, 1980",
+    "requestor_name": "Sobel",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Can a campaign committee or a campaign committee member approve or authorize expenditures, or does the sole authority rest with the campaign treasurer?",
+    "conclusion": "Every committee shall have a treasurer. No expenditure shall be made by or on behalf of a committee without the authorization of the treasurer or that of his or her designated agents. No contribution or expenditure shall be accepted or made on or behalf of a committee at any time when there is a vacancy in the office of treasurer. Although the duty of authorizing expenditures may be delegated to designated agents, the treasurer must maintain detailed records per Government Code Section 84104.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether campaign committee members or the full committee can authorize expenditures, or if this authority belongs exclusively to the campaign treasurer.",
+    "conclusion_synthetic": "Under Government Code Section 84100, only the treasurer or their designated agents can authorize committee expenditures; no other committee members have this authority. The treasurer cannot delegate this responsibility when the office is vacant and must maintain detailed accounting records.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document quality is poor with significant OCR errors and missing text. Both the incoming request (June 23, 1980) and FPPC response (June 30, 1980) are included. Question and conclusion extracted despite OCR degradation. Confidence slightly reduced due to text quality but core information is recoverable."
+  },
+  "citations": {
+    "government_code": [
+      "84100"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:37:03.001815Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Can a campaign committee or a campaign committee member approve or authorize expenditures, or does the sole authority rest with the campaign treasurer?\n\nCONCLUSION: Every committee shall have a treasurer. No expenditure shall be made by or on behalf of a committee without the authorization of the treasurer or that of his or her designated agents. No contribution or expenditure shall be accepted or made on or behalf of a committee at any time when there is a vacancy in the office of treasurer. Although the duty of authorizing expenditures may be delegated to designated agents, the treasurer must maintain detailed records per Government Code Section 84104.",
+    "qa_source": "mixed",
+    "first_500_words": "tate of Califorllia air Political Practices Commissioll SACRAMENTO, 95804 ••• 00 K STREET BUiLDING, SACRAMENTO, 95814 Tethilica~ Assistance Administration 1t II! to Executi,tlr/lego! Enforcement *.. Conflict of interes? Senator Alex P. Garci State Capitol, Room 4032 Sacramento, CA 95814 Dear Senator Garcia: 322p5660 322*5901 322-6441 322-6444 June 30, 19 0 you r your letter request advic concerning the duties authorizi provided of campaign committee trea urers in ard to expenditures. The answer to your question i Government Code Section 84100 which ides: Eve committee s 1 have a treasurer. No expenditure shall be made by or on behalf of a commi tee without the authorization of the treasurer or that of his or her des nated agents. No contribution or expenditure sha I ac ed or made or on behalf f a comm ttee at a t when there a acancy in the ffice of treasurer. Al though the of a thorizi treasurer may ex nditur t tely res records, lIs e Section 8 TMS:nrw ibEor ke and rec 04. nate ents for the purpose nd the cand ate are ng the deta led \"accounts, the comm tte. Government Thomas . Sobel Chief a1 is PLEASE RESPOND TO: o SACRAMENTO ADDRESS STATE CAPITOL, ROOM 4032 SACRAMENTO, CALIFORNIA 95814 (916) 445.3456 o DISTRICT OFFICE 205 SO. BROADWAY SUITE 70S LOS ANGELES, CALIFORNIA 900t2 (213) 628-5155 A~i~X P. GARCIA AM st¥JA TE SENATOR June 23, 1980 Mr. Tom Sobel, Division Chief Legal Department Fair Political Practices Commission 1100 K Street P.O. Box 807 Sacramento, CA 95804 Dear Mr. Sobel: COMMITTEES: BUSINESS AND PROFESSIONS CHAIRMAN AGRICULTURE AND WATER RESOURCES HEALTH AND WELFARE MEMBER; COMMISSION OF THE CALIFORNIAS Pursuant to our discussion today, I would appreciate a written opinion from you regarding the following question: Can a campaign committee or a campaign committee member approve or authorize expenditures, or does the sole authority rest with the campaign treasurer? Thank you for expediting this matter. APG:sr f3",
+    "summary": "FPPC advice letter to Senator Garcia clarifying that campaign committee treasurers have sole authority to approve expenditures under Government Code Section 84100, and may only delegate this authority to designated agents."
+  }
+}

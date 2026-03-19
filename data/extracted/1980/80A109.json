@@ -1,0 +1,74 @@
+{
+  "id": "80A109",
+  "year": 1980,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1980/80A109.PDF",
+  "pdf_sha256": "b0ab6e24417e42ad2c4ebd73e97044b8bd2432f44b308d1e3b3079694015f203",
+  "local_pdf_path": "raw_pdfs/1980/80A109.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1980 Advice Letter # 80A109",
+    "tags": [
+      "1980",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:26:57",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1980&tagCount=1"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T01:00:28.545989Z",
+    "page_count": 2,
+    "word_count": 206,
+    "char_count": 1397,
+    "quality_score": 0.8733317421790723,
+    "olmocr_cost": 0.008925939999999999,
+    "native_word_count": 228,
+    "haiku_cost": 0.003990400000000001
+  },
+  "content": {
+    "full_text": "State of California\n\nMemorandum\n\nTo : File                                          Date : April 30, 1980\n\n\nFrom : FAIR POLITICAL PRACTICES COMMISSION\n       Dwight Hickerson\n\nSubject: Disclosure of Collateral used for Loans\n\n     It was decided by staff at the Opinion request\nmeeting of April 24, 1980, that there must be detailed\ndisclosure of collateral used by an official to obtain\na reportable loan. The disclosure is sufficiently\ndetailed if a person reviewing the statement can\nspecifically identify the collateral used by the\nofficial.\n\nDD:plh\n\nState of California\n\nMemorandum\n\nTo : Opinion Request Meeting Participants                    Date : April 22, 1980\n\n\nFrom : FAIR POLITICAL PRACTICES COMMISSION\n       Dwight Dickerson\n\nSubject: Disclosure of collateral used for loans\n\n       Government Code Section 87207(a)(5) requires that\nthe security, if any, given for a reportable loan be\ndisclosed. With respect to an interest in real property\nused as collateral, how detailed must the description\nbe? Can the collateral be described as real property or\nmust the property be described by lot and parcel number?\nIf an official uses a deed of trust as collateral for a\nreportable loan, must the real property be identified?\n\n       The instruction manual for the Form 730 provides an\nexample that describes the collateral for a reportable\nloan, which I have attached.\n\nDD:Plb\nAttachment",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1980-04-30",
+    "date_raw": "April 30, 1980",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [
+      "87207(a)(5)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-19T18:37:05.066089Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "**Memorandum** To: File Date: April 30, 1980 From: FAIR POLITICAL PRACTICES COMMISSION Dwight Dickerson Subject: Disclosure of Collateral used for Loans It was decided by staff at the Opinion request meeting of April 24, 1980, that there must be detailed disclosure of collateral used by an official to obtain a reportable loan. The disclosure is sufficiently detailed if a person reviewing the statement can specifically identify the collateral used by the official. DD:plh **Memorandum** To: Opinion Request Meeting Participants Date: April 22, 1980 From: FAIR POLITICAL PRACTICES COMMISSION Dwight Dickerson Subject: Disclosure of collateral used for loans Government Code Section 87207(a)(5) requires that the security, if any, given for a reportable loan be disclosed. With respect to an interest in real property used as collateral, how detailed must the description be? Can the collateral be described as real property or must the property be described by lot and parcel number? If an official uses a deed of trust as collateral for a reportable loan, must the real property be identified? The instruction manual for the Form 730 provides an example that describes the collateral for a reportable loan, which I have attached. DD:plh Attachment",
+    "qa_source": "extracted",
+    "first_500_words": "**Memorandum** To: File Date: April 30, 1980 From: FAIR POLITICAL PRACTICES COMMISSION Dwight Dickerson Subject: Disclosure of Collateral used for Loans It was decided by staff at the Opinion request meeting of April 24, 1980, that there must be detailed disclosure of collateral used by an official to obtain a reportable loan. The disclosure is sufficiently detailed if a person reviewing the statement can specifically identify the collateral used by the official. DD:plh **Memorandum** To: Opinion Request Meeting Participants Date: April 22, 1980 From: FAIR POLITICAL PRACTICES COMMISSION Dwight Dickerson Subject: Disclosure of collateral used for loans Government Code Section 87207(a)(5) requires that the security, if any, given for a reportable loan be disclosed. With respect to an interest in real property used as collateral, how detailed must the description be? Can the collateral be described as real property or must the property be described by lot and parcel number? If an official uses a deed of trust as collateral for a reportable loan, must the real property be identified? The instruction manual for the Form 730 provides an example that describes the collateral for a reportable loan, which I have attached. DD:plh Attachment",
+    "summary": null
+  }
+}

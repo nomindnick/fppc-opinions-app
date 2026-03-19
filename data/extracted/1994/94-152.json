@@ -1,0 +1,78 @@
+{
+  "id": "94-152",
+  "year": 1994,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1994/94-152.pdf",
+  "pdf_sha256": "5169b6dd026427ddfc49d28294064cf57c951f79d6f6091d2c6e2403cd7213cb",
+  "local_pdf_path": "raw_pdfs/1994/94-152.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 1994 Advice Letter # 94-152",
+    "tags": [
+      "1994",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:35:14",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1994&tagCount=1&page=16"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:02.609459Z",
+    "page_count": 1,
+    "word_count": 277,
+    "char_count": 1739,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 277
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\nMay 13,\n1994\nJoe Pandit\n6929 Azalea Drive\nSan Jose,\nCA 95120\nRe:\nYour Request For Advice\nOur File No.\n1—94-152\nDear Mr. Pandit:\nYou have requested advice regarding potential conflicts\narising out of your intended candidacy for two elective offices.\nThe Political Reform Act,\nGovernment Code Sections 81000—91015,\ndoes not address this issue.\nAs we cannot advise you on matters\noutside of our jurisdiction,\nwe are unable to answer the questions\nyou have raised.\nThe Attorney General’s Office has issued many opinions on the\nincompatibility of simultaneously held offices.\nIn particular,\nwe\ndirect your attention to _65 Ops. Att’y.\nGen._ 606\n(1982)\nwhich\naddresses the compatibility of the office of city councilmember\nand school trustee.\nCalifornia law may prohibit an individual\nfrom running for two incompatible offices simultaneously.\n•g\nKeane v.\nSmith,\n4 Cal.\n3d 932,\n942—43,\n95 Cal. Rptr.\n197\n(1971).\nBoth the opinions of the attorney general and the Keene opinion\nare available at your county law library.\nAny further questions you may have on this particular matter\nare more properly addressed to either: the office of the attorney\ngeneral; the office of the county counsel; the office of the city\nattorney; or the legal counsel for the college district for which\nyou intend to run.\nWe regret that we are unable to answer your questions.\nIn\nthe future,\nshould you have questions concerning your obligations\nand responsibilities under the Political Reform Act, this office\nremains available to assist you.\nSincerely,\nSteven G.\nChurchwell\nGenera—Counsel\n/\nDanialE.\nMuallem\n/\nCounsel,\nLegal Division\n7’21\n428 J Street, Suite 800 •\nP.O. Box 807 •\nSacramento, CA\n95804-0807 •\n(916) 322-5660\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1994-05-13",
+    "date_raw": "May 13,\n1994",
+    "requestor_name": "Pandit",
+    "requestor_title": "county counsel",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "Your Request For Advice regarding potential conflicts arising out of your intended candidacy for two elective offices.",
+    "conclusion": "The Political Reform Act, Government Code Sections 81000—91015, does not address this issue. As we cannot advise you on matters outside of our jurisdiction, we are unable to answer the questions you have raised.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Does the Political Reform Act address conflicts of interest arising from candidacy for two elective offices simultaneously?",
+    "conclusion_synthetic": "The FPPC lacks jurisdiction over the issue of simultaneous candidacy for multiple offices, as this matter is outside the scope of the Political Reform Act. The inquirer should consult the Attorney General's Office, county counsel, city attorney, or college district legal counsel for guidance on office compatibility.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Declination letter with no formal Q/C sections; however, the request and conclusion are clearly identifiable. The letter references relevant Attorney General opinions and case law rather than providing FPPC guidance."
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [
+      "97-624"
+    ],
+    "external": [
+      "4 Cal. 3d 932",
+      "95 Cal. Rptr. 197"
+    ]
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:35:02.609459Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Your Request For Advice regarding potential conflicts arising out of your intended candidacy for two elective offices.\n\nCONCLUSION: The Political Reform Act, Government Code Sections 81000—91015, does not address this issue. As we cannot advise you on matters outside of our jurisdiction, we are unable to answer the questions you have raised.",
+    "qa_source": "mixed",
+    "first_500_words": "California Fair Political Practices Commission May 13, 1994 Joe Pandit 6929 Azalea Drive San Jose, CA 95120 Re: Your Request For Advice Our File No. 1—94-152 Dear Mr. Pandit: You have requested advice regarding potential conflicts arising out of your intended candidacy for two elective offices. The Political Reform Act, Government Code Sections 81000—91015, does not address this issue. As we cannot advise you on matters outside of our jurisdiction, we are unable to answer the questions you have raised. The Attorney General’s Office has issued many opinions on the incompatibility of simultaneously held offices. In particular, we direct your attention to _65 Ops. Att’y. Gen._ 606 (1982) which addresses the compatibility of the office of city councilmember and school trustee. California law may prohibit an individual from running for two incompatible offices simultaneously. •g Keane v. Smith, 4 Cal. 3d 932, 942—43, 95 Cal. Rptr. 197 (1971). Both the opinions of the attorney general and the Keene opinion are available at your county law library. Any further questions you may have on this particular matter are more properly addressed to either: the office of the attorney general; the office of the county counsel; the office of the city attorney; or the legal counsel for the college district for which you intend to run. We regret that we are unable to answer your questions. In the future, should you have questions concerning your obligations and responsibilities under the Political Reform Act, this office remains available to assist you. Sincerely, Steven G. Churchwell Genera—Counsel / DanialE. Muallem / Counsel, Legal Division 7’21 428 J Street, Suite 800 • P.O. Box 807 • Sacramento, CA 95804-0807 • (916) 322-5660",
+    "summary": "FPPC declines to provide advice on potential conflicts arising from intended candidacy for two elective offices, determining the matter falls outside the Political Reform Act's jurisdiction. The letter directs the inquirer to the Attorney General's Office and other appropriate legal authorities."
+  }
+}

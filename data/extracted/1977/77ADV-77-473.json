@@ -1,0 +1,73 @@
+{
+  "id": "77ADV-77-473",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-473.PDF",
+  "pdf_sha256": "20e974001c6cf3f5d1233a6959594c9e885f4a20ea69cda8ed9d083a0c6d07b3",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-473.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-473",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:22:37",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=50"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-07T17:13:48.705244Z",
+    "page_count": 1,
+    "word_count": 103,
+    "char_count": 663,
+    "quality_score": 0.43,
+    "olmocr_cost": 0.00246992,
+    "native_word_count": 78
+  },
+  "content": {
+    "full_text": "Ken Finney  \nTed Prim  \nSection 84206 Terminating Committee\n\nJohn Corzine of the Legislative Counsel asked whether a controlled committee of a retiring officeholder could file its semi-annual statement early. He indicated to me that the committee did not intend to engage in any political activity after it filed its statement.\n\nEven though the committee is not covered by 18426, you and I decided to permit the committee to file early since the commission has ratified previous staff advice which permitted certain persons to file semi-annual statements early. We agreed that 18426 should be amended to include the control committee of the retiring officeholder.",
+    "full_text_markdown": "Ken Finney  \nTed Prim  \nSection 84206 Terminating Committee\n\nJohn Corzine of the Legislative Counsel asked whether a controlled committee of a retiring officeholder could file its semi-annual statement early. He indicated to me that the committee did not intend to engage in any political activity after it filed its statement.\n\nEven though the committee is not covered by 18426, you and I decided to permit the committee to file early since the commission has ratified previous staff advice which permitted certain persons to file semi-annual statements early. We agreed that 18426 should be amended to include the control committee of the retiring officeholder."
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a controlled committee of a retiring officeholder could file its semi-annual statement early when the committee does not intend to engage in political activity after filing.",
+    "conclusion_synthetic": "The FPPC permitted the committee to file its semi-annual statement early based on prior commission ratification of similar early filing permissions, and agreed that Section 18426 should be amended to explicitly include retiring officeholders' controlled committees.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.75,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document contains no formal Q&A section headers but presents a request and staff response. Content is substantive but brief. Missing formal conclusion/short answer sections. John Corzine is identified as inquirer from Legislative Counsel. The memo appears to be internal FPPC communication between staff members Ken Finney and Ted Prim."
+  },
+  "citations": {
+    "government_code": [
+      "84206"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T17:13:48.705244Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether a controlled committee of a retiring officeholder could file its semi-annual statement early when the committee does not intend to engage in political activity after filing.\n\nCONCLUSION: The FPPC permitted the committee to file its semi-annual statement early based on prior commission ratification of similar early filing permissions, and agreed that Section 18426 should be amended to explicitly include retiring officeholders' controlled committees.",
+    "qa_source": "synthetic",
+    "first_500_words": "Ken Finney Ted Prim Section 84206 Terminating Committee John Corzine of the Legislative Counsel asked whether a controlled committee of a retiring officeholder could file its semi-annual statement early. He indicated to me that the committee did not intend to engage in any political activity after it filed its statement. Even though the committee is not covered by 18426, you and I decided to permit the committee to file early since the commission has ratified previous staff advice which permitted certain persons to file semi-annual statements early. We agreed that 18426 should be amended to include the control committee of the retiring officeholder.",
+    "summary": "FPPC staff advised that a retiring officeholder's controlled committee may file its semi-annual statement early when ceasing political activity, and recommended amending Section 18426 to codify this practice."
+  }
+}

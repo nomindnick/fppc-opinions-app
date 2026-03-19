@@ -1,0 +1,73 @@
+{
+  "id": "87251",
+  "year": 1987,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1987/fppc-advice/87251.PDF",
+  "pdf_sha256": "a243669ec0397dd94516d92a2b982c212097fcee98a97c61ee05aa3cd8ed683e",
+  "local_pdf_path": "raw_pdfs/1987/87251.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1987 Advice Letter # 87251",
+    "tags": [
+      "1987",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:41:25",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1987&tagCount=1&page=22"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:26.757389Z",
+    "page_count": 2,
+    "word_count": 435,
+    "char_count": 2640,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 435
+  },
+  "content": {
+    "full_text": "California \nFair Political \nPractices Commission \nDavid Tucker \n1715 Donner Ave. #1 \nDavis, CA \n95616 \nDear Mr. Tucker: \nOctober 7, 1987 \nRe: \nOur File No. G-87-251 \nIn response to your questions concerning the Political \nReform Act of 1974, I have enclosed the following materials: \n1. \nThree reports summarizing the activities and \naccomplishments of the Fair Political Practices commission from \n1974 to 1984. \n2. \nA pamphlet entitled \"A Guide to the Political Reform \nAct of 1974--California's Conflict of Interest Law for Public \nOfficials.\" \n3. \nA pamphlet entitled \"A Guide to Government Code section \n84308 of the Political Reform Act of 1974--Conflicts of \nInterest and campaign contributions.\" \nThese materials should assist you in developing the answers \nto your questions. \nAlso enclosed is a list of other \npUblications prepared by the commission which you may order \nfrom this office. \nKED: j aj \nEnclosures \nSincerely, \nKathryn E. Donovan \nCounsel, Legal Division \n\n\nFair Pol tical Practice commission \nMs. Betty Brown \n428 J Street,Suite 800 \nP.O. Box 807 \nSacramento, Ca. 95804 \nDear Ms. Brown \n/ \nMy name is David Tucker and I am currently doing a research paper \non the Political Reform Act of 1974 and how has it faired thirteen \nyears later. This paper is apart of my senior project at Calif. \nState Polytechnic University San Luis Obispo. \nBelow is a list of five questions that I feel are critical to this paper \nand I am asking for your assistance in helping to locate the proper \nsources or for your input to help make this a quality paper. \nThe issue that I am covering is the conflict-of-interest part of the \nPoltical reform Act of 1974. I would like to know the following; \n1) Was the original intent of the act achieved and to what degree? \n2) Has the act helped or hindered the political stability on the local \nand state level? Are people interested in politics feeling intimidated \nby the harsh rules and regulations that go with entering the political \narena? \n3) Is the act still a viable solution for politics in the 80's? \n4)Are the enforcement procedures adequately administered on the state \nand local level? \n5) Is there a possibility of new legislation to clarify the intent \nof the Political Reform Act of 1974? \nAs a political science major I am concerned about the impact of many \nlaws and regulations that where implimented in the 60's and 70's, and \nif the reasons then are still valid today. \nYour help in this research will be greatly appreciated. I hope to hear \nfrom you soon. \nPlease send any replies to \n1715 Donner ave. #1 \nDavis, Ca. 95616 \nSi cerely, \n~r..r/·0,1~ \n---\"\"\"-avid Tucker \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1987-10-07",
+    "date_raw": "October 7, 1987",
+    "requestor_name": "Tucker",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "1) Was the original intent of the act achieved and to what degree? 2) Has the act helped or hindered the political stability on the local and state level? Are people interested in politics feeling intimidated by the harsh rules and regulations that go with entering the political arena? 3) Is the act still a viable solution for politics in the 80's? 4) Are the enforcement procedures adequately administered on the state and local level? 5) Is there a possibility of new legislation to clarify the intent of the Political Reform Act of 1974?",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "A student researcher seeks information and assistance regarding five critical questions about the effectiveness and impact of the Political Reform Act of 1974's conflict-of-interest provisions, including whether the original intent was achieved, effects on political participation, current viability, enforcement adequacy, and potential for clarifying legislation.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.75,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document includes both incoming request from David Tucker and FPPC response letter. The response (from Kathryn E. Donovan) provides materials rather than specific legal advice or conclusions, so classified as incoming_request with response included. No formal CONCLUSION section in response letter."
+  },
+  "citations": {
+    "government_code": [
+      "84308"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:36:26.757389Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: 1) Was the original intent of the act achieved and to what degree? 2) Has the act helped or hindered the political stability on the local and state level? Are people interested in politics feeling intimidated by the harsh rules and regulations that go with entering the political arena? 3) Is the act still a viable solution for politics in the 80's? 4) Are the enforcement procedures adequately administered on the state and local level? 5) Is there a possibility of new legislation to clarify the intent of the Political Reform Act of 1974?",
+    "qa_source": "mixed",
+    "first_500_words": "California Fair Political Practices Commission David Tucker 1715 Donner Ave. #1 Davis, CA 95616 Dear Mr. Tucker: October 7, 1987 Re: Our File No. G-87-251 In response to your questions concerning the Political Reform Act of 1974, I have enclosed the following materials: 1. Three reports summarizing the activities and accomplishments of the Fair Political Practices commission from 1974 to 1984. 2. A pamphlet entitled \"A Guide to the Political Reform Act of 1974--California's Conflict of Interest Law for Public Officials.\" 3. A pamphlet entitled \"A Guide to Government Code section 84308 of the Political Reform Act of 1974--Conflicts of Interest and campaign contributions.\" These materials should assist you in developing the answers to your questions. Also enclosed is a list of other pUblications prepared by the commission which you may order from this office. KED: j aj Enclosures Sincerely, Kathryn E. Donovan Counsel, Legal Division Fair Pol tical Practice commission Ms. Betty Brown 428 J Street,Suite 800 P.O. Box 807 Sacramento, Ca. 95804 Dear Ms. Brown / My name is David Tucker and I am currently doing a research paper on the Political Reform Act of 1974 and how has it faired thirteen years later. This paper is apart of my senior project at Calif. State Polytechnic University San Luis Obispo. Below is a list of five questions that I feel are critical to this paper and I am asking for your assistance in helping to locate the proper sources or for your input to help make this a quality paper. The issue that I am covering is the conflict-of-interest part of the Poltical reform Act of 1974. I would like to know the following; 1) Was the original intent of the act achieved and to what degree? 2) Has the act helped or hindered the political stability on the local and state level? Are people interested in politics feeling intimidated by the harsh rules and regulations that go with entering the political arena? 3) Is the act still a viable solution for politics in the 80's? 4)Are the enforcement procedures adequately administered on the state and local level? 5) Is there a possibility of new legislation to clarify the intent of the Political Reform Act of 1974? As a political science major I am concerned about the impact of many laws and regulations that where implimented in the 60's and 70's, and if the reasons then are still valid today. Your help in this research will be greatly appreciated. I hope to hear from you soon. Please send any replies to 1715 Donner ave. #1 Davis, Ca. 95616 Si cerely, ~r..r/·0,1~ ---\"\"\"-avid Tucker",
+    "summary": "This document contains a student's incoming request to the FPPC asking for research assistance on the Political Reform Act of 1974 and its conflict-of-interest provisions for a senior project paper, along with the FPPC's response providing reference materials and publications."
+  }
+}

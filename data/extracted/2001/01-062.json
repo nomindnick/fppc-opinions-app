@@ -1,0 +1,75 @@
+{
+  "id": "01-062",
+  "year": 2001,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2001/01-062.pdf",
+  "pdf_sha256": "7bb82cabab7841dfde2c3ac9de55e153fccce71dbc230755a770d91f43f1eb96",
+  "local_pdf_path": "raw_pdfs/2001/01-062.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2001 Advice Letter # 01-062",
+    "tags": [
+      "2001",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:33:21",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2001&tagCount=1&page=8"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:30.028600Z",
+    "page_count": 2,
+    "word_count": 366,
+    "char_count": 2357,
+    "quality_score": 0.635,
+    "olmocr_cost": null,
+    "native_word_count": 366
+  },
+  "content": {
+    "full_text": "F,q,rn Porrrrcal Pucrrcns CouurssroN\nP.O. Box 807 . 428 J Street . Sacramento. CA 95812-0807\n(916) 322-5660 . Fax (916) 322-0886\nMarch 29,2001\nAntonio Camcam, Chairman\nConception Life Committee\n1109 San Rafael Avenue, #14\nGlendale, CA9l202\nRe:\nYour Request for Informal Assistance\nOur File No. I-01-062\nDear Mr. Camcam:\nThis letter is in response to your request for advice regarding the provisions of the\nPolitical Refprm Act (the \"Act\").r You asked what informational material on the\nPolitical Reform Act is available for committees.\nA committee has several sources of information available through the Fair\nPolitical Practices Commission. The Commission's website, www.fppc.ca.gov, contains\nup-to-date information on pending regulatory matters concerning all aspects of the Act.\nWe are currently embarking on a major review of campaign disclosure rules. I have\nadded your name and address to our Interested Persons List, which will notifu you of\nupcoming events, as well as provide information on the project as it progresses.\nAdditionally, you may contact us in one of the following ways\n1. The FPPC website also contains the agendas for past and future Commission\nmeetings and instructions on how to obtain relevant materials. Question and\nAnswer sheets designed to address common questions to the Commission are\navailable as well.\n2. For more particular advice, you may reach a Commission consultant and\nreceive telephone advice by calling 866-ASK-FPPC. While this advice does\nI Govemment Code sections 81000 - 91014. Commission regulations appear at Tifle 2, sections\n18109-18996, of the California Code of Regulations.\n6Ll\n\n\nFile No. 01-062\nPage No. 2\nnot afford the immunity provided recipients of written advice, telephone\nadvice is ideal for routine questions that can be answered in a short time.\n3. You may either provide or request information by submitting a facsimile\naddressed to the Campaign Reporting Task Force at (916) 327-2026\nor via U.S. Mail to the Campaign Reporting Task Force at P.O. Box 807,\nSacramento, CA. 95812-0807.\nI have enclosed a copy of Regulation 18329 which will assist you should you\nneed to submit a request for written advice.\nIf you have any other questions regarding this matter, please contact me at (916)\n322-5660\nSincerely,\nLuisa Menchaca\nBy:\nJoan Giannetta\nSecretary, Legal\ntie\nEnclosure\nI:\\Adviceltrs\\01-062\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2001-03-29",
+    "date_raw": "March 29,2001",
+    "requestor_name": "Camcam",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "informal_advice"
+  },
+  "sections": {
+    "question": "You asked what informational material on the Political Reform Act is available for committees.",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "What informational resources and materials related to the Political Reform Act are available to political committees?",
+    "conclusion_synthetic": "The FPPC provides multiple resources including its website (www.fppc.ca.gov), an Interested Persons List for notifications, telephone advice via 866-ASK-FPPC, and written advice through the Campaign Reporting Task Force via facsimile or mail.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Informal advice letter without formal QUESTION and CONCLUSION section headers. Question and conclusion extracted from body text. Document provides directory of resources rather than legal analysis of a specific compliance question."
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:34:30.028600Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: You asked what informational material on the Political Reform Act is available for committees.\n\nCONCLUSION: The FPPC provides multiple resources including its website (www.fppc.ca.gov), an Interested Persons List for notifications, telephone advice via 866-ASK-FPPC, and written advice through the Campaign Reporting Task Force via facsimile or mail.",
+    "qa_source": "mixed",
+    "first_500_words": "F,q,rn Porrrrcal Pucrrcns CouurssroN P.O. Box 807 . 428 J Street . Sacramento. CA 95812-0807 (916) 322-5660 . Fax (916) 322-0886 March 29,2001 Antonio Camcam, Chairman Conception Life Committee 1109 San Rafael Avenue, #14 Glendale, CA9l202 Re: Your Request for Informal Assistance Our File No. I-01-062 Dear Mr. Camcam: This letter is in response to your request for advice regarding the provisions of the Political Refprm Act (the \"Act\").r You asked what informational material on the Political Reform Act is available for committees. A committee has several sources of information available through the Fair Political Practices Commission. The Commission's website, www.fppc.ca.gov, contains up-to-date information on pending regulatory matters concerning all aspects of the Act. We are currently embarking on a major review of campaign disclosure rules. I have added your name and address to our Interested Persons List, which will notifu you of upcoming events, as well as provide information on the project as it progresses. Additionally, you may contact us in one of the following ways 1. The FPPC website also contains the agendas for past and future Commission meetings and instructions on how to obtain relevant materials. Question and Answer sheets designed to address common questions to the Commission are available as well. 2. For more particular advice, you may reach a Commission consultant and receive telephone advice by calling 866-ASK-FPPC. While this advice does I Govemment Code sections 81000 - 91014. Commission regulations appear at Tifle 2, sections 18109-18996, of the California Code of Regulations. 6Ll File No. 01-062 Page No. 2 not afford the immunity provided recipients of written advice, telephone advice is ideal for routine questions that can be answered in a short time. 3. You may either provide or request information by submitting a facsimile addressed to the Campaign Reporting Task Force at (916) 327-2026 or via U.S. Mail to the Campaign Reporting Task Force at P.O. Box 807, Sacramento, CA. 95812-0807. I have enclosed a copy of Regulation 18329 which will assist you should you need to submit a request for written advice. If you have any other questions regarding this matter, please contact me at (916) 322-5660 Sincerely, Luisa Menchaca By: Joan Giannetta Secretary, Legal tie Enclosure I:\\Adviceltrs\\01-062",
+    "summary": "The FPPC responds to a committee chairman's inquiry about available informational materials on the Political Reform Act by directing him to multiple resources including the FPPC website, telephone consultation, and written advice procedures."
+  }
+}

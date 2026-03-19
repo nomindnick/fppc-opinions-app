@@ -1,0 +1,71 @@
+{
+  "id": "09-105",
+  "year": 2009,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2009/09-105.pdf",
+  "pdf_sha256": "17548adb112393b1b247c5b23772975d99726e86218959eabe7b94ae4a8e3977",
+  "local_pdf_path": "raw_pdfs/2009/09-105.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2009 Advice Letter # 09-105",
+    "tags": [
+      "2009",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:49:18",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2009&tagCount=1&page=7"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T21:14:10.447633Z",
+    "page_count": 1,
+    "word_count": 75,
+    "char_count": 465,
+    "quality_score": 0.7441106020942408,
+    "olmocr_cost": 0.00247938,
+    "native_word_count": 97
+  },
+  "content": {
+    "full_text": "June 1, 2009\n\nPaul Arney\n1260 Brookmere Road\nPasadena, CA 91105\n\nRe: Your Request for Advice\nOur File No. W-09-105\n\nDear Mr. Arney:\n\nThis letter is to notify you that we have withdrawn the above captioned request for advice per our telephone conversation on May 29, 2009.\n\nIf you have any questions, feel free to call me at (916) 322-5660.\n\nSincerely,\n\nScott Hallabrin\nGeneral Counsel\n\nBy: Dixie Howard\nAssistant Division Chief\nTechnical Assistance Division\n\nDH:jgl",
+    "full_text_markdown": "June 1, 2009\n\nPaul Arney\n1260 Brookmere Road\nPasadena, CA 91105\n\nRe: Your Request for Advice\nOur File No. W-09-105\n\nDear Mr. Arney:\n\nThis letter is to notify you that we have withdrawn the above captioned request for advice per our telephone conversation on May 29, 2009.\n\nIf you have any questions, feel free to call me at (916) 322-5660.\n\nSincerely,\n\nScott Hallabrin\nGeneral Counsel\n\nBy: Dixie Howard\nAssistant Division Chief\nTechnical Assistance Division\n\nDH:jgl"
+  },
+  "parsed": {
+    "date": "2009-06-01",
+    "date_raw": "June 1, 2009",
+    "requestor_name": "Arney",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T21:14:10.447633Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "June 1, 2009 Paul Arney 1260 Brookmere Road Pasadena, CA 91105 Re: Your Request for Advice Our File No. W-09-105 Dear Mr. Arney: This letter is to notify you that we have withdrawn the above captioned request for advice per our telephone conversation on May 29, 2009. If you have any questions, feel free to call me at (916) 322-5660. Sincerely, Scott Hallabrin General Counsel By: Dixie Howard Assistant Division Chief Technical Assistance Division DH:jgl",
+    "qa_source": "extracted",
+    "first_500_words": "June 1, 2009 Paul Arney 1260 Brookmere Road Pasadena, CA 91105 Re: Your Request for Advice Our File No. W-09-105 Dear Mr. Arney: This letter is to notify you that we have withdrawn the above captioned request for advice per our telephone conversation on May 29, 2009. If you have any questions, feel free to call me at (916) 322-5660. Sincerely, Scott Hallabrin General Counsel By: Dixie Howard Assistant Division Chief Technical Assistance Division DH:jgl",
+    "summary": null
+  }
+}

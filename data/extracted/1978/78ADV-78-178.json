@@ -1,0 +1,74 @@
+{
+  "id": "78ADV-78-178",
+  "year": 1978,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1978/78ADV-78-178.PDF",
+  "pdf_sha256": "09dbc7c09f587b880bb3d09d2f552d50b5926e372b7127b74c9b41e56ce67c97",
+  "local_pdf_path": "raw_pdfs/1978/78ADV-78-178.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1978ADV Advice Letter # 78ADV-78-178",
+    "tags": [
+      "Advice Letter",
+      "1978"
+    ],
+    "scraped_at": "2026-01-31 15:23:16",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=6"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-25T22:41:25.833405Z",
+    "page_count": 1,
+    "word_count": 313,
+    "char_count": 1986,
+    "quality_score": 0.9352806977801036,
+    "olmocr_cost": 0.00275458,
+    "native_word_count": 290,
+    "haiku_cost": 0.003036
+  },
+  "content": {
+    "full_text": "Memorandu\n\nTo : OPINION REQUEST WRITTEN A [illegible]\nApril 14, 1978\n\nFrom : FAIR POLITICAL PRACTICES COMMISSION\nJohn Qiuasello\n\nSubject:\n\nA statewide miscellaneous committee recipient contributed $300 to a candidate for city council in a local jurisdiction. The contribution is used to pay January 28. The miscellaneous committee files an abbreviated statement but did not file it final. On February 23 the committee files together abbreviated statement for the city council election period, which closed February 7. From February 7 to March 7, the date of the local election, each committee which filed a late contribution must report it to such office with which that committee is required to file a complete statement for the election (see Section 84211).\n\nOn March 1 the miscellaneous committee receives a contribution of $1,000 which it intends to use, that will be used, in connection with the upcoming election. None of the $1,000 will be spent in the local election and the miscellaneous committee has no intention to make further contribution to the local campaign. Must the miscellaneous committee file a late contribution report in the local jurisdiction?\n\nRESPONSE:\n\n1. Recipient:\n\nCommittee that receives $1,000 must file a late contribution report and report receipt of contribution on post election statement.\n\n84214 does not distinguish among reasons that contributions are received (so filing obligation if committee had declared the second abbreviated statement to be \"final\").\n\n2. Donor:\n\na. If donor is not a committee, no filing obligations at all - 84214 applies only to \"candidates or committees\".\n\nb. If donor is a committee - still no filing obligation (unless the committee has made other contributions in this election because 84214 applies only to committees \"required to file a campaign statement for the election,\" and this committee has no filing obligations in this election.\n\nIn summary:\n\nThe recipient must file but the donor is not required to do so.",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1978-04-14",
+    "date_raw": "April 14, 1978",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "A statewide miscellaneous committee (Recipient Committee) contributes $300 to a candidate for city council in a local jurisdiction. The contribution is made January 22. The first pre-election filing for the local election closes January 23 and is the January 26. The miscellaneous committee files an abbreviated statement but does not declare it final. On February 23 the committee files another abbreviated statement for the second pre-election period, which closes February 29. From February 21 to March 7, the date of the local election, each committee which receives a late contribution must report it to each office with which that committee is required to file a campaign statement for the election (see Section 84214). On March 1 the miscellaneous committee receives a contribution of $1,000 which it intends to use, and when the donor intends to be used, in connection with the upcoming June statewide primary. None of the $1,000 will be spent in the local election and the miscellaneous committee has no intention to make further contributions to the local campaign. Must the miscellaneous committee file a late contribution report in the local jurisdiction?",
+    "conclusion": "The recipient must file but the donor is not required to do so. The committee that receives $1,000 must file a late contribution report and report receipt of contribution on post election statement. Section 84214 does not distinguish among reasons that contributions are received. If the donor is not a committee, no filing obligations apply. If the donor is a committee, still no filing obligation unless the committee has made other contributions in this election.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a statewide miscellaneous committee that receives a $1,000 contribution on March 1 (intended for the June statewide primary, not the local election) must file a late contribution report in the local jurisdiction for the March 7 local election.",
+    "conclusion_synthetic": "The recipient committee must file a late contribution report under Section 84214 regardless of the intended use of the funds. The donor has no filing obligation unless it is a committee with other contributions in this election.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is structured as a memorandum with embedded opinion request and response. No explicit 'QUESTION' or 'CONCLUSION' headers, but question and response sections are clearly delineated. Summary statement provided at end of document."
+  },
+  "citations": {
+    "government_code": [
+      "84214"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T16:55:56.636299Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: A statewide miscellaneous committee (Recipient Committee) contributes $300 to a candidate for city council in a local jurisdiction. The contribution is made January 22. The first pre-election filing for the local election closes January 23 and is the January 26. The miscellaneous committee files an abbreviated statement but does not declare it final. On February 23 the committee files another abbreviated statement for the second pre-election period, which closes February 29. From February 21 to March 7, the date of the local election, each committee which receives a late contribution must report it to each office with which that committee is required to file a campaign statement for the election (see Section 84214). On March 1 the miscellaneous committee receives a contribution of $1,000 which it intends to use, and when the donor intends to be used, in connection with the upcoming June statewide primary. None of the $1,000 will be spent in the local election and the miscellaneous committee has no intention to make further contributions to the local campaign. Must the miscellaneous committee file a late contribution report in the local jurisdiction?\n\nCONCLUSION: The recipient must file but the donor is not required to do so. The committee that receives $1,000 must file a late contribution report and report receipt of contribution on post election statement. Section 84214 does not distinguish among reasons that contributions are received. If the donor is not a committee, no filing obligations apply. If the donor is a committee, still no filing obligation unless the committee has made other contributions in this election.",
+    "qa_source": "mixed",
+    "first_500_words": "**Memorandum** **To:** OPINION REQUEST RE: FILING REQUIREMENTS **Date:** April 14, 1978 **From:** FAIR POLITICAL PRACTICES COMMISSION John Giansello **Subject:** A statewide miscellaneous committee (Recipient Committee) contributes $300 to a candidate for city council in a local jurisdiction. The contribution is made January 22. The first pre-election filing for the local election closes January 23 and is the January 26. The miscellaneous committee files an abbreviated statement but does not declare it final. On February 23 the committee files another abbreviated statement for the second pre-election period, which closes February 29. From February 21 to March 7, the date of the local election, each committee which receives a late contribution must report it to each office with which that committee is required to file a campaign statement for the election (see Section 84214). On March 1 the miscellaneous committee receives a contribution of $1,000 which it intends to use, and when the donor intends to be used, in connection with the upcoming June statewide primary. None of the $1,000 will be spent in the local election and the miscellaneous committee has no intention to make further contributions to the local campaign. Must the miscellaneous committee file a late contribution report in the local jurisdiction? **Response:** 1. Recipient: Committee that receives $1,000 must file a late contribution report and report receipt of contribution on post election statement. 84214 does not distinguish among reasons that contributions are received (no filing obligation if committee had declared the second abbreviated statement to be \"final\"). 2. Donor: a. If donor is not a committee, no filing obligations at all - 84214 applies only to \"candidates or committees\". b. If donor is a committee - still no filing obligation (unless the committee has made other contributions in this election because 84214 applies only to committees \"required to file a campaign statement for the election,\" and this committee has no filing obligations in this election. In summary: The recipient must file but the donor is not required to do so.",
+    "summary": "The FPPC advises that a miscellaneous committee receiving a $1,000 contribution on March 1 must file a late contribution report for the local election closing March 7, even though the funds are intended for the June statewide primary. The donor has no filing obligation unless it is a committee with other contributions in this election."
+  }
+}

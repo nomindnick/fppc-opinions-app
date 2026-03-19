@@ -1,0 +1,77 @@
+{
+  "id": "82A173",
+  "year": 1982,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1982/82A173.PDF",
+  "pdf_sha256": "cb7db04cc4e0b1a8e820944e82b5ae52938b8f4f0242af3db8f62faa33821b4f",
+  "local_pdf_path": "raw_pdfs/1982/82A173.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1982 Advice Letter # 82A173",
+    "tags": [
+      "1982",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:30:10",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1982&tagCount=1&page=8"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T23:21:08.635040Z",
+    "page_count": 1,
+    "word_count": 95,
+    "char_count": 668,
+    "quality_score": 0.8340112100298642,
+    "olmocr_cost": 0.00250346,
+    "native_word_count": 95
+  },
+  "content": {
+    "full_text": "State of California\n\nMemorandum\n\nDATE: October 21, 1982\nNO.: M-82-173\n\nTO: Advice File Sections 82034 and 87206\nFROM: Fair Political Practices Commission\n        Diane Maura Fishburn\nRE: Interest in a Private Pension Plan\n\nInvestments in a private pension plan must normally be disclosed. See M-79-181. However, payments received from a defined benefit pension plan qualified under Internal Revenue Code Section 401(a) are excluded from the definition of \"income.\" Section 82030(b)(11). Accordingly, interests in this type of pension plan should not be included within the definition of \"investment,\" and disclosure of these interests is not required.\n\nDMF:plh",
+    "full_text_markdown": "State of California\n\nMemorandum\n\nDATE: October 21, 1982\nNO.: M-82-173\n\nTO: Advice File Sections 82034 and 87206\nFROM: Fair Political Practices Commission\n        Diane Maura Fishburn\nRE: Interest in a Private Pension Plan\n\nInvestments in a private pension plan must normally be disclosed. See M-79-181. However, payments received from a defined benefit pension plan qualified under Internal Revenue Code Section 401(a) are excluded from the definition of \"income.\" Section 82030(b)(11). Accordingly, interests in this type of pension plan should not be included within the definition of \"investment,\" and disclosure of these interests is not required.\n\nDMF:plh"
+  },
+  "parsed": {
+    "date": "1982-10-21",
+    "date_raw": "October 21, 1982",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [
+      "82030(b)(11)",
+      "82034"
+    ],
+    "regulations": [],
+    "prior_opinions": [
+      "M-79-181",
+      "M-82-173"
+    ],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-19T23:21:08.635040Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "**State of California** **Memorandum** DATE: October 21, 1982 NO.: M-82-173 TO: Advice File Sections 82034 and 87206 FROM: Fair Political Practices Commission Diane Maura Fishburn RE: Interest in a Private Pension Plan Investments in a private pension plan must normally be disclosed. See M-79-181. However, payments received from a defined benefit pension plan qualified under Internal Revenue Code Section 401(a) are excluded from the definition of \"income.\" Section 82030(b)(11). Accordingly, interests in this type of pension plan should not be included within the definition of \"investment,\" and disclosure of these interests is not required. DMF:plh",
+    "qa_source": "extracted",
+    "first_500_words": "**State of California** **Memorandum** DATE: October 21, 1982 NO.: M-82-173 TO: Advice File Sections 82034 and 87206 FROM: Fair Political Practices Commission Diane Maura Fishburn RE: Interest in a Private Pension Plan Investments in a private pension plan must normally be disclosed. See M-79-181. However, payments received from a defined benefit pension plan qualified under Internal Revenue Code Section 401(a) are excluded from the definition of \"income.\" Section 82030(b)(11). Accordingly, interests in this type of pension plan should not be included within the definition of \"investment,\" and disclosure of these interests is not required. DMF:plh",
+    "summary": null
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "89-442",
+  "year": 1989,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1989/fppc-advice/89-442.PDF",
+  "pdf_sha256": "1fd52139bed929a73863acf021a90187206a0dbd5b6711e3ac1f258cbaff051a",
+  "local_pdf_path": "raw_pdfs/1989/89-442.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1989 Advice Letter # 89-442",
+    "tags": [
+      "Advice Letter",
+      "1989"
+    ],
+    "scraped_at": "2026-01-31 16:01:25",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1989&tagCount=1&page=7"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:46.536088Z",
+    "page_count": 1,
+    "word_count": 110,
+    "char_count": 755,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 110
+  },
+  "content": {
+    "full_text": "California \nFair Political \nPractices Commission \nTO: \nAdvice Files \nFROM: \nSandra Taylor \nRE: \nPhone Advice \nReg. 18523.1A \nJuly 25, 1989 \nHellena Postrk of Assemblyman Bob Campbell office received \nadvice regarding written solicitation of contributions (18523.1A). \nShe stated that Assemblyman Campbell was going to have a \nfundraiser for his current officeholder expenses. \nThe regulation \nstates that a candidate shall identify the committee by name, the \nspecific office and the particular election. \nShe was told that \nCampbell could have on the solicitation ... name, the specific \noffice and officeholder expenses (because the election date would \nbe outdated). \n428 J Street, Suite BOO • P.O. Box 807 • Sacramento CA 95B04~OB07 • (916) 322~5660 \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1989-07-25",
+    "date_raw": "July 25, 1989",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "What disclosure requirements apply to written solicitation of contributions for an officeholder's current expenses fundraiser, specifically regarding the identification of the committee, office, and election information?",
+    "conclusion_synthetic": "Assemblyman Campbell may identify the committee by name and specific office, and may reference officeholder expenses instead of a particular election date, because the election date would become outdated for current officeholder expense fundraising.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.75,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is a phone advice memo with minimal formal structure. No formal QUESTION or CONCLUSION sections present; advice is embedded in narrative format. Confidence reduced due to informal memo structure and lack of explicit question/answer formatting."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:35:46.536088Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: What disclosure requirements apply to written solicitation of contributions for an officeholder's current expenses fundraiser, specifically regarding the identification of the committee, office, and election information?\n\nCONCLUSION: Assemblyman Campbell may identify the committee by name and specific office, and may reference officeholder expenses instead of a particular election date, because the election date would become outdated for current officeholder expense fundraising.",
+    "qa_source": "synthetic",
+    "first_500_words": "California Fair Political Practices Commission TO: Advice Files FROM: Sandra Taylor RE: Phone Advice Reg. 18523.1A July 25, 1989 Hellena Postrk of Assemblyman Bob Campbell office received advice regarding written solicitation of contributions (18523.1A). She stated that Assemblyman Campbell was going to have a fundraiser for his current officeholder expenses. The regulation states that a candidate shall identify the committee by name, the specific office and the particular election. She was told that Campbell could have on the solicitation ... name, the specific office and officeholder expenses (because the election date would be outdated). 428 J Street, Suite BOO • P.O. Box 807 • Sacramento CA 95B04~OB07 • (916) 322~5660",
+    "summary": "FPPC advice provided to Hellena Postrk regarding written solicitation requirements for Assemblyman Bob Campbell's fundraiser for current officeholder expenses, clarifying that identification requirements under Regulation 18523.1A can be satisfied by listing the committee name, specific office, and officeholder expenses rather than a specific election date."
+  }
+}

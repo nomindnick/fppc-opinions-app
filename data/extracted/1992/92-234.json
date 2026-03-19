@@ -1,0 +1,76 @@
+{
+  "id": "92-234",
+  "year": 1992,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1992/92-234.pdf",
+  "pdf_sha256": "a37fb440a9afd18c9586a44d815fa54f4003b07dbf4ce4c2888afdbeb2fadd69",
+  "local_pdf_path": "raw_pdfs/1992/92-234.pdf",
+  "source_metadata": {
+    "title_raw": "Kimbrell, Paula Year: 1992 Advice Letter # 92-234",
+    "tags": [
+      "Advice Letter",
+      "1992"
+    ],
+    "scraped_at": "2026-01-31 16:24:30",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1992&tagCount=1&page=23"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:13.582629Z",
+    "page_count": 1,
+    "word_count": 230,
+    "char_count": 1503,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 230
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\nJuly 7,\n1992\nPaula Kimbrell\nAssistant City Attorney\nCity of Oxnard\n300\nW. Third Street\nOakland,\nCA\n93030\nRe:\nYour Request for Advice\nOur File No.\n1-92-234\nDear Ms.\nKimbrell:\nAs the Assistant City Attorney for the City of Oxnard,\nyou\nhave requested advice concerning the conflict—of—interest\nprovisions of the Political Reform Act\n(the “Act”)J/\nYou have asked if an unidentified city councilmember should\nhave disqualified himself in August of 1990 from participating in\na decision to designate a specific area a greenbelt area.\nYou\nfurther asked if the councilmember should have disqualified\nhimself,\nis the decision of the city council invalid.\nSince you are requesting advice on past conduct,\nthe\nCommission is declining to give informal assistance.\n(Regulation\n18329(c)(4).)\nI have enclosed\na copy of Commission Regulation\n18702.3 which discusses the material financial effect on real\nproperty which is indirectly involved in a decision and a copy of\nthe Act.\nPerhaps this regulation will assist you in the future.\nIf you have any questions, please feel free to contact me at\n(916)\n322—5901.\nSincerely,\nJeánette E. Turvill\nPolitical Reform Consultant\nLegal Division\nJET/jt\nEnclosures\n1/\nGovernment Code Sections 81000-91015.\nAll statutory\nreferences are to the Government Code unless otherwise indicated.\nCommission regulations appear at\n2 California Code of Regulations\n428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804-0807 • (916)322-5660\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1992-07-07",
+    "date_raw": "July 7,\n1992",
+    "requestor_name": "Kimbrell",
+    "requestor_title": "City Attorney",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "You have asked if an unidentified city councilmember should have disqualified himself in August of 1990 from participating in a decision to designate a specific area a greenbelt area. You further asked if the councilmember should have disqualified himself, is the decision of the city council invalid.",
+    "conclusion": "Since you are requesting advice on past conduct, the Commission is declining to give informal assistance. (Regulation 18329(c)(4).)",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a city councilmember should have disqualified themselves from a 1990 greenbelt designation decision under the Political Reform Act's conflict-of-interest provisions, and whether the council's decision would be invalid if disqualification was required.",
+    "conclusion_synthetic": "The FPPC declined to provide informal advice because the request concerns past conduct, citing Regulation 18329(c)(4). The FPPC provided relevant regulations for future reference.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Declination letter with clear question and conclusion sections. Document addresses conflict-of-interest question under Political Reform Act but explicitly declines to advise on past conduct per regulation."
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [
+      "18329",
+      "18702.3"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:35:13.582629Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: You have asked if an unidentified city councilmember should have disqualified himself in August of 1990 from participating in a decision to designate a specific area a greenbelt area. You further asked if the councilmember should have disqualified himself, is the decision of the city council invalid.\n\nCONCLUSION: Since you are requesting advice on past conduct, the Commission is declining to give informal assistance. (Regulation 18329(c)(4).)",
+    "qa_source": "mixed",
+    "first_500_words": "California Fair Political Practices Commission July 7, 1992 Paula Kimbrell Assistant City Attorney City of Oxnard 300 W. Third Street Oakland, CA 93030 Re: Your Request for Advice Our File No. 1-92-234 Dear Ms. Kimbrell: As the Assistant City Attorney for the City of Oxnard, you have requested advice concerning the conflict—of—interest provisions of the Political Reform Act (the “Act”)J/ You have asked if an unidentified city councilmember should have disqualified himself in August of 1990 from participating in a decision to designate a specific area a greenbelt area. You further asked if the councilmember should have disqualified himself, is the decision of the city council invalid. Since you are requesting advice on past conduct, the Commission is declining to give informal assistance. (Regulation 18329(c)(4).) I have enclosed a copy of Commission Regulation 18702.3 which discusses the material financial effect on real property which is indirectly involved in a decision and a copy of the Act. Perhaps this regulation will assist you in the future. If you have any questions, please feel free to contact me at (916) 322—5901. Sincerely, Jeánette E. Turvill Political Reform Consultant Legal Division JET/jt Enclosures 1/ Government Code Sections 81000-91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations 428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804-0807 • (916)322-5660",
+    "summary": "The FPPC declined to provide informal advice to the City of Oxnard's Assistant City Attorney regarding whether a councilmember should have disqualified themselves from a 1990 greenbelt decision, because the request concerns past conduct. The FPPC enclosed relevant regulations for future guidance."
+  }
+}

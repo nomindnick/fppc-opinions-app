@@ -1,0 +1,73 @@
+{
+  "id": "78ADV-78-284",
+  "year": 1978,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1978/78ADV-78-284.PDF",
+  "pdf_sha256": "1ecfcbf71e4bab52739d17ba9dafbe2fda9cac61d751869a005e0ad80a8a04d1",
+  "local_pdf_path": "raw_pdfs/1978/78ADV-78-284.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1978ADV Advice Letter # 78ADV-78-284",
+    "tags": [
+      "Advice Letter",
+      "1978"
+    ],
+    "scraped_at": "2026-01-31 15:25:01",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=30"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:11.298504Z",
+    "page_count": 2,
+    "word_count": 232,
+    "char_count": 1415,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 232
+  },
+  "content": {
+    "full_text": "CITY OF La Caijada FIil1tridge \nMayor \nGEORGE l. PARRISH \nCity Council \n0, WARREN HILLGREN \nEDMUND J, KRAUSE \nMICHAEL C, MOUNT \nJ, D, SMITH \nMr. Ted Prim \nChief, Conflict of Interest Division \nFair Political Practices Commission \nP.o. Box 807 \nSacramento, California \n95804 \nDear Mr. Prim: \nFebruary 28, 1978 \nThis is in response to your letter of February 23, concerning \nmy earlier letter of February 7 concerning regulation 18116. \nYour point is well taken that it is probably unlikely that \nthere will be local holidays which will not be State holidays \nwhich are likely to be filing dates. \nI am not aware of all of \nthe dates which are likely to be filing dates, especially for \ncharter cities which have different election dates, but some \nof the following holidays might be different for cities than \nfor the state: \nLincoln's Birthday, Armed Forces Day, Columbus \nDay, veteran's Day, and the day after Thanksgiving. \nIt is \nprobably unlikely that cities would have very many special \nholidays exclusive to that city, but it would seem to me that \nas long as a regulation was being adopted, it should prohably \ntake into account the possibility of that sort of conflict. \nI thank you for your response and appreciate your consideration \nof this matter. \nClark L. Smithson \nCity Manager \nCLS:nm \nPost Office Box 456 \n• \nLa Canada Flintridge, California 91011 \n• \n(213) 790-8880 - 681-3266 \n\n\n· . \nLa \nMayol \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1978-02-28",
+    "date_raw": "February 28, 1978",
+    "requestor_name": "Prim",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The city manager is responding to FPPC feedback regarding regulation 18116 and the potential for local holidays that differ from state holidays to conflict with filing dates.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.75,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an incoming correspondence from a city manager responding to FPPC feedback, not an FPPC advice letter. No formal QUESTION or CONCLUSION sections present. References a prior letter of February 7 and FPPC's response of February 23. Document discusses regulation 18116 and holiday/filing date conflicts."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [
+      "18116"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:11.298504Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The city manager is responding to FPPC feedback regarding regulation 18116 and the potential for local holidays that differ from state holidays to conflict with filing dates.",
+    "qa_source": "synthetic",
+    "first_500_words": "CITY OF La Caijada FIil1tridge Mayor GEORGE l. PARRISH City Council 0, WARREN HILLGREN EDMUND J, KRAUSE MICHAEL C, MOUNT J, D, SMITH Mr. Ted Prim Chief, Conflict of Interest Division Fair Political Practices Commission P.o. Box 807 Sacramento, California 95804 Dear Mr. Prim: February 28, 1978 This is in response to your letter of February 23, concerning my earlier letter of February 7 concerning regulation 18116. Your point is well taken that it is probably unlikely that there will be local holidays which will not be State holidays which are likely to be filing dates. I am not aware of all of the dates which are likely to be filing dates, especially for charter cities which have different election dates, but some of the following holidays might be different for cities than for the state: Lincoln's Birthday, Armed Forces Day, Columbus Day, veteran's Day, and the day after Thanksgiving. It is probably unlikely that cities would have very many special holidays exclusive to that city, but it would seem to me that as long as a regulation was being adopted, it should prohably take into account the possibility of that sort of conflict. I thank you for your response and appreciate your consideration of this matter. Clark L. Smithson City Manager CLS:nm Post Office Box 456 • La Canada Flintridge, California 91011 • (213) 790-8880 - 681-3266 · . La Mayol",
+    "summary": "This is a letter from City Manager Clark L. Smithson of La Canada Flintridge responding to FPPC's February 23 correspondence about regulation 18116 and the conflict between local and state holidays as filing dates. The city manager acknowledges FPPC's point about the unlikelihood of local holidays creating conflicts but suggests the regulation should account for the possibility."
+  }
+}

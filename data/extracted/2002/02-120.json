@@ -1,0 +1,76 @@
+{
+  "id": "02-120",
+  "year": 2002,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2002/02-120.pdf",
+  "pdf_sha256": "b74af29fb80636c094f4c204b6c0064cb12cb86c1b1c6013675119527231d09d",
+  "local_pdf_path": "raw_pdfs/2002/02-120.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2002 Advice Letter # 02-120",
+    "tags": [
+      "Advice Letter",
+      "2002"
+    ],
+    "scraped_at": "2026-01-31 14:36:20",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2002&tagCount=1&page=18"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T13:26:41.245182Z",
+    "page_count": 1,
+    "word_count": 155,
+    "char_count": 1057,
+    "quality_score": 0.8366329088304896,
+    "olmocr_cost": 0.00263934,
+    "native_word_count": 159
+  },
+  "content": {
+    "full_text": "FAIR POLITICAL PRACTICES COMMISSION\nP.O. Box 807 • 428 J Street • Sacramento, CA 95812-0807\n(916) 322-5660 • Fax (916) 322-0886\n\nSeptember 4, 2002\n\nGarrett Biggs\nBlair • Biggs Campaigns\n21000 Devonshire Street, Suite 101A\nChatsworth, CA 91311\n\nRe: Your Request for Advice\nOur File No. W-02-120\n\nDear Mr. Biggs:\n\nThis letter is in response to your request for written advice on the campaign provisions of the Political Reform Act.1 Under California Code of Regulations 18329(b)(8)(B), copy enclosed, unless you are an authorized representative of the candidate for whom you seek assistance, the Fair Political Practices Commission cannot address your questions or provide analysis.\n\nShould you have additional questions regarding this matter, please do not hesitate to contact me at (916) 322-5660.\n\nSincerely,\n\nLuisa Menchaca\nGeneral Counsel\n\n[Signature]\nHyla P. Wagner\nSenior Legal Counsel\n\nEnclosure\nHPW/jg\n\n1. Government Code sections 81000-91014. Commission regulations appear at Title 2, sections 18109-18997, of the California Code of Regulations.",
+    "full_text_markdown": "FAIR POLITICAL PRACTICES COMMISSION\nP.O. Box 807 • 428 J Street • Sacramento, CA 95812-0807\n(916) 322-5660 • Fax (916) 322-0886\n\nSeptember 4, 2002\n\nGarrett Biggs\nBlair • Biggs Campaigns\n21000 Devonshire Street, Suite 101A\nChatsworth, CA 91311\n\nRe: Your Request for Advice\nOur File No. W-02-120\n\nDear Mr. Biggs:\n\nThis letter is in response to your request for written advice on the campaign provisions of the Political Reform Act.1 Under California Code of Regulations 18329(b)(8)(B), copy enclosed, unless you are an authorized representative of the candidate for whom you seek assistance, the Fair Political Practices Commission cannot address your questions or provide analysis.\n\nShould you have additional questions regarding this matter, please do not hesitate to contact me at (916) 322-5660.\n\nSincerely,\n\nLuisa Menchaca\nGeneral Counsel\n\n[Signature]\nHyla P. Wagner\nSenior Legal Counsel\n\nEnclosure\nHPW/jg\n\n1. Government Code sections 81000-91014. Commission regulations appear at Title 2, sections 18109-18997, of the California Code of Regulations."
+  },
+  "parsed": {
+    "date": "2002-09-04",
+    "date_raw": "September 4, 2002",
+    "requestor_name": "Biggs",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [
+      "18109",
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-20T13:26:41.245182Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "**FAIR POLITICAL PRACTICES COMMISSION** P.O. Box 807 • 428 J Street • Sacramento, CA 95812-0807 (916) 322-5660 • Fax (916) 322-0886 September 4, 2002 Garrett Biggs Blair • Biggs Campaigns 21000 Devonshire Street, Suite 101A Chatsworth, CA 91311 Re: Your Request for Advice Our File No. W-02-120 Dear Mr. Biggs: This letter is in response to your request for written advice on the campaign provisions of the Political Reform Act.1 Under California Code of Regulations 18329(b)(8)(B), copy enclosed, unless you are an authorized representative of the candidate for whom you seek assistance, the Fair Political Practices Commission cannot address your questions or provide analysis. Should you have additional questions regarding this matter, please do not hesitate to contact me at (916) 322-5660. Sincerely, Luisa Menchaca General Counsel [Signature] Hyla P. Wagner Senior Legal Counsel Enclosure HPW/jg 1. Government Code sections 81000-91014. Commission regulations appear at Title 2, sections 18109-18997, of the California Code of Regulations.",
+    "qa_source": "extracted",
+    "first_500_words": "**FAIR POLITICAL PRACTICES COMMISSION** P.O. Box 807 • 428 J Street • Sacramento, CA 95812-0807 (916) 322-5660 • Fax (916) 322-0886 September 4, 2002 Garrett Biggs Blair • Biggs Campaigns 21000 Devonshire Street, Suite 101A Chatsworth, CA 91311 Re: Your Request for Advice Our File No. W-02-120 Dear Mr. Biggs: This letter is in response to your request for written advice on the campaign provisions of the Political Reform Act.1 Under California Code of Regulations 18329(b)(8)(B), copy enclosed, unless you are an authorized representative of the candidate for whom you seek assistance, the Fair Political Practices Commission cannot address your questions or provide analysis. Should you have additional questions regarding this matter, please do not hesitate to contact me at (916) 322-5660. Sincerely, Luisa Menchaca General Counsel [Signature] Hyla P. Wagner Senior Legal Counsel Enclosure HPW/jg 1. Government Code sections 81000-91014. Commission regulations appear at Title 2, sections 18109-18997, of the California Code of Regulations.",
+    "summary": null
+  }
+}

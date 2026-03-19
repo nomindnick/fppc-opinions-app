@@ -1,0 +1,71 @@
+{
+  "id": "84316",
+  "year": 1984,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1984/fppc-advice/84316.PDF",
+  "pdf_sha256": "879d01fe4e7e6238de222e3b3fcd4d8a5435ddc5439e7820b60d3d0bae9a94ee",
+  "local_pdf_path": "raw_pdfs/1984/84316.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1984 Advice Letter # 84316",
+    "tags": [
+      "1984",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:34:14",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1984&tagCount=1&page=11"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:46.889885Z",
+    "page_count": 1,
+    "word_count": 240,
+    "char_count": 1477,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 240
+  },
+  "content": {
+    "full_text": "State of C;:tlifornia \nMemorandum \nTo \n: Advice Request Meeting Participants \nDote : August 1, 1984 \nNo. M-84-3l6 \nFrom \n: \nFAIR POLITICAL PRACTICES COMMISSION \nCarla Wardlow \nSubject: Reporting Expenditures by Agents and Independent \nContractors \nANSWERS: \n1. \nA committee contracts with an independent fundraiser \nand agrees to pay her 20 percent of the amount she \nraises. \nPrior to the June 30 campaign closing date, \nshe had made some expenditures to raise funds for the \ncommittee which she will cover out of her 20 percent. \nHowever, the committee has received no money as a \nresult of her efforts\" has paid her nothing and \nwill not pay her until her efforts result in receipt \nof contributions, at which time she will receive a \nflat 20 percent. \nIf she fails to raise any funds \nfor the committee, she will receive no payments. \nAre her expenditures reportable by the committee? If \nyes, when should they be reported? \n2. \nA committee hires a campaign consultant who makes \nexpenditures on behalf of the committee. \nThe committee \nis refusing to reimburse some of the expenditures because \nit believes the consultant was not authorized to make \nthem. \nThe consultant is suing the committee. \nAre the disputed expenditures reportable by the \ncommittee? \nIf yes, how should they be reported? \n\\ I \\! .. \n;' \n1. \nReport on a Schedule E-l with an eXDlanation. \n2. \nReport on a Schedule E-l with an explanation that \nthe committee is in litigation over the expenditures. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1984-08-01",
+    "date_raw": "August 1, 1984",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "1. A committee contracts with an independent fundraiser and agrees to pay her 20 percent of the amount she raises. Prior to the June 30 campaign closing date, she had made some expenditures to raise funds for the committee which she will cover out of her 20 percent. However, the committee has received no money as a result of her efforts, has paid her nothing and will not pay her until her efforts result in receipt of contributions, at which time she will receive a flat 20 percent. If she fails to raise any funds for the committee, she will receive no payments. Are her expenditures reportable by the committee? If yes, when should they be reported? 2. A committee hires a campaign consultant who makes expenditures on behalf of the committee. The committee is refusing to reimburse some of the expenditures because it believes the consultant was not authorized to make them. The consultant is suing the committee. Are the disputed expenditures reportable by the committee? If yes, how should they be reported?",
+    "conclusion": "1. Report on a Schedule E-1 with an explanation. 2. Report on a Schedule E-1 with an explanation that the committee is in litigation over the expenditures.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The FPPC is asked whether expenditures made by an independent fundraiser (paid on contingency for funds raised) and disputed consultant expenditures (subject to litigation) are reportable by the committee, and if so, how and when they should be reported.",
+    "conclusion_synthetic": "Both the independent fundraiser's contingency-based expenditures and the disputed consultant expenditures are reportable by the committee on Schedule E-1, with the latter requiring an additional explanation noting the litigation status.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is internal FPPC memorandum formatted as meeting material rather than traditional advice letter format. Contains clear Q&A structure without traditional QUESTION/CONCLUSION section headers. No withdrawal, declination indicators present."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:36:46.889885Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: 1. A committee contracts with an independent fundraiser and agrees to pay her 20 percent of the amount she raises. Prior to the June 30 campaign closing date, she had made some expenditures to raise funds for the committee which she will cover out of her 20 percent. However, the committee has received no money as a result of her efforts, has paid her nothing and will not pay her until her efforts result in receipt of contributions, at which time she will receive a flat 20 percent. If she fails to raise any funds for the committee, she will receive no payments. Are her expenditures reportable by the committee? If yes, when should they be reported? 2. A committee hires a campaign consultant who makes expenditures on behalf of the committee. The committee is refusing to reimburse some of the expenditures because it believes the consultant was not authorized to make them. The consultant is suing the committee. Are the disputed expenditures reportable by the committee? If yes, how should they be reported?\n\nCONCLUSION: 1. Report on a Schedule E-1 with an explanation. 2. Report on a Schedule E-1 with an explanation that the committee is in litigation over the expenditures.",
+    "qa_source": "mixed",
+    "first_500_words": "State of C;:tlifornia Memorandum To : Advice Request Meeting Participants Dote : August 1, 1984 No. M-84-3l6 From : FAIR POLITICAL PRACTICES COMMISSION Carla Wardlow Subject: Reporting Expenditures by Agents and Independent Contractors ANSWERS: 1. A committee contracts with an independent fundraiser and agrees to pay her 20 percent of the amount she raises. Prior to the June 30 campaign closing date, she had made some expenditures to raise funds for the committee which she will cover out of her 20 percent. However, the committee has received no money as a result of her efforts\" has paid her nothing and will not pay her until her efforts result in receipt of contributions, at which time she will receive a flat 20 percent. If she fails to raise any funds for the committee, she will receive no payments. Are her expenditures reportable by the committee? If yes, when should they be reported? 2. A committee hires a campaign consultant who makes expenditures on behalf of the committee. The committee is refusing to reimburse some of the expenditures because it believes the consultant was not authorized to make them. The consultant is suing the committee. Are the disputed expenditures reportable by the committee? If yes, how should they be reported? \\ I \\! .. ;' 1. Report on a Schedule E-l with an eXDlanation. 2. Report on a Schedule E-l with an explanation that the committee is in litigation over the expenditures.",
+    "summary": "FPPC memorandum addressing two questions regarding reporting requirements for expenditures made by agents and independent contractors, specifically regarding contingency-based fundraiser expenses and disputed consultant expenditures under litigation."
+  }
+}

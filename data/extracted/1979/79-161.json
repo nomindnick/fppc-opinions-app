@@ -1,0 +1,71 @@
+{
+  "id": "79-161",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-161.PDF",
+  "pdf_sha256": "9a6cc023f998edf637b0f27422eb4ef55d4ccd73f69c732e5a05666528d17b56",
+  "local_pdf_path": "raw_pdfs/1979/79-161.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1979 Advice Letter # 79-161",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:25:34",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=3"
+  },
+  "extraction": {
+    "method": "native+olmocr",
+    "extracted_at": "2026-02-07T16:42:22.570852Z",
+    "page_count": 1,
+    "word_count": 18,
+    "char_count": 87,
+    "quality_score": 0.2,
+    "olmocr_cost": 0.00237274,
+    "native_word_count": 18
+  },
+  "content": {
+    "full_text": "87100 \nOffici 1 Must Announce Con \nic \nthe \nof \nDisqualificat \nI \n~T -- J \n1 \n00 \n) . \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether an official must announce their disqualification from a matter under the Political Reform Act.",
+    "conclusion_synthetic": "An official must announce their disqualification from a matter when required by law or ethics rules.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.35,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document appears heavily degraded or poorly scanned with fragmented text. No clear QUESTION or CONCLUSION sections visible. Title/subject line extracted from partial visible text: 'Official Must Announce Conflict/Disqualification'. Unable to extract full substantive content due to document quality. High uncertainty in extraction."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T16:42:22.570852Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether an official must announce their disqualification from a matter under the Political Reform Act.\n\nCONCLUSION: An official must announce their disqualification from a matter when required by law or ethics rules.",
+    "qa_source": "synthetic",
+    "first_500_words": "87100 Offici 1 Must Announce Con ic the of Disqualificat I ~T -- J 1 00 ) .",
+    "summary": "FPPC advice letter 79-161 addressing whether officials must announce disqualification from matters under California's Political Reform Act."
+  }
+}

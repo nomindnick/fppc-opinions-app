@@ -1,0 +1,75 @@
+{
+  "id": "78ADV-78-120",
+  "year": 1978,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1978/78ADV-78-120.PDF",
+  "pdf_sha256": "8e2e82ffd6317e8bc852ef55f9dea222fd8a630776571a093180115feae9e581",
+  "local_pdf_path": "raw_pdfs/1978/78ADV-78-120.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1978ADV Advice Letter # 78ADV-78-120",
+    "tags": [
+      "Advice Letter",
+      "1978"
+    ],
+    "scraped_at": "2026-01-31 15:23:08",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=4"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T00:41:42.045463Z",
+    "page_count": 2,
+    "word_count": 440,
+    "char_count": 2722,
+    "quality_score": 0.9226777877295118,
+    "olmocr_cost": 0.00516258,
+    "native_word_count": 21,
+    "haiku_cost": 0.005396
+  },
+  "content": {
+    "full_text": "State of California\nFair Political Practices Commission\n\nP.O. BOX 807 • SACRAMENTO, 95804 • • • 1100 K STREET BUILDING, SACRAMENTO, 95814\n\nTechnical Assistance Administration • • • Executive Legal • • • Enforcement • • • Conduct of Interest\n\n(916) 322 5660        322 5901        322 6441        322 6444\n\nFebruary 1, 1978\n\n78-06-120\n\nAssemblyman Larry Chimbole\nState Capitol\nSacramento, California 95814\n\nDear Assemblyman Chimbole:\n\nThank you for your letter of January 18, 1978, in which you ask whether a real estate course provided to you is reportable under the Political Reform Act. For this course you have received a set of books and have attended two lectures.\n\nThe Political Reform Act requires a legislator to report any gift of $25 or more on his Statement of Economic Interest. Section 87200.* The term gift is defined by the Act as \"any payment to the extent that consideration of equal or greater value is not received.\" However, the definition excludes \"informational material such as books, reports, pamphlets, calendars or periodicals.\" Section 82028. Under this section, we believe that you do not have to report the receipt of the books. However, we do not believe this exception can be extended to the value of the lectures you attend. Therefore, if the value of the lectures is $25 or more in a calendar year, you must report the receipt of the gift on your Statement of Economic Interest.\n\nPlease feel free to call on me if you have any further questions.\n\nSincerely,\n\nRobert M. Stern\nGeneral Counsel\n\nRMS:nc\n\n* All references are to the Government Code unless otherwise noted.\n\n7212D\n\nCOMMITTEES\nRULES\nLOCAL GOVERNMENT\nGOVERNMENTAL\nORGANIZATION\nJOINT COMMITTEES\nELECTIONS AND\nCLASSIFICATION\nSTATE'S ECONOMY\n\nCHAIRMAN\nSUBCOMMITTEE ON\nHORSERACING\n\nAssembly\nCalifornia Legislature\n\nLARRY CHIMBOLE\nASSEMBLYMAN, THIRTY-FOURTH DISTRICT\n\nJanuary 18, 1978\n\nMr.Daniel Lowenstein\nFair Political Practices Commission\nP. O. Box 807\nSacramento, California 95814\n\nDear Mr. Lowenstein:\n\nEarly in 1977, the Lumbleau Real Estate School made\navailable to me a set of books along with an offer to\nattend their courses at my leisure. Because of a busy\nschedule, I did not take advantage of the offer at that\ntime.\n\nIn January 1978, I started to attend the schools. The\ncourse consists of nine subjects with lectures at selected\ntimes so that the student can attend at his leisure. So\nfar, I have attended two and have no idea how or what\nmy schedule of attendance will be.\n\nMy basic interest in the course stems from my interest in\nlegislation affecting the industry. At this time, I have\nnot made plans to take the State exam.\n\nPlease advise me regarding my report responsibilities.\n\nSincerely,\n\nLARRY CHIMBOLE\n\nLC:pl",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1978-02-01",
+    "date_raw": "February 1, 1978",
+    "requestor_name": "Lowenstein",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Whether a real estate course provided to Assemblyman Chimbole, consisting of a set of books and attendance at lectures, is reportable under the Political Reform Act.",
+    "conclusion": "Under Section 82028 of the Political Reform Act, the receipt of books is excluded from the definition of gifts as \"informational material.\" Therefore, the books do not have to be reported. However, the exception for informational material does not extend to the value of the lectures. If the value of the lectures is $25 or more in a calendar year, the receipt of the gift must be reported on the Statement of Economic Interest under Section 87200.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Must a legislator report the value of free real estate course materials (books) and lecture attendance as gifts under the Political Reform Act's $25 reporting threshold?",
+    "conclusion_synthetic": "Books provided as informational material are not reportable gifts, but the value of lecture attendance must be reported if it totals $25 or more in a calendar year under the Political Reform Act's gift reporting requirements.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document includes both incoming request (Assemblyman's letter of January 18, 1978) and FPPC response (General Counsel's reply of February 1, 1978). Extraction focuses on the FPPC response portion as the primary document."
+  },
+  "citations": {
+    "government_code": [
+      "82028",
+      "87200"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T16:55:25.972219Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether a real estate course provided to Assemblyman Chimbole, consisting of a set of books and attendance at lectures, is reportable under the Political Reform Act.\n\nCONCLUSION: Under Section 82028 of the Political Reform Act, the receipt of books is excluded from the definition of gifts as \"informational material.\" Therefore, the books do not have to be reported. However, the exception for informational material does not extend to the value of the lectures. If the value of the lectures is $25 or more in a calendar year, the receipt of the gift must be reported on the Statement of Economic Interest under Section 87200.",
+    "qa_source": "mixed",
+    "first_500_words": "February 1, 1978 Assemblyman Larry Chimbole State Capitol Sacramento, California 95814 Dear Assemblyman Chimbole: Thank you for your letter of January 18, 1978, in which you ask whether a real estate course provided to you is reportable under the Political Reform Act. For this course you have received a set of books and have attended two lectures. The Political Reform Act requires a legislator to report any gift of $25 or more on his Statement of Economic Interest. Section 87200.* The term gift is defined by the Act as \"any payment to the extent that consideration of equal or greater value is not received.\" However, the definition excludes \"informational material such as books, reports, pamphlets, calendars or periodicals.\" Section 82028. Under this section, we believe that you do not have to report the receipt of the books. However, we do not believe this exception can be extended to the value of the lectures you attend. Therefore, if the value of the lectures is $25 or more in a calendar year, you must report the receipt of the gift on your Statement of Economic Interest. Please feel free to call on me if you have any further questions. Sincerely, Robert M. Stern General Counsel *RMS:nc * All references are to the Government Code unless otherwise noted. Assembly California Legislature LARRY CHIMBOLE ASSEMBLYMAN THIRTY-FOURTH DISTRICT January 18, 1978 Mr. Daniel Lowenstein Fair Political Practices Commission P.O. Box 807 Sacramento, California 95814 Dear Mr. Lowenstein: Early in 1977, the Lumbleau Real Estate School made available to me a set of books along with an offer to attend their courses at my leisure. Because of a busy schedule, I did not take advantage of the offer at that time. In January 1978, I started to attend the schools. The course consists of nine subjects with lectures at selected times so that the student can attend at his leisure. So far, I have attended two and have no idea how or what my schedule of attendance will be. My basic interest in the course stems from my interest in legislation affecting the industry. At this time, I have not made plans to take the State exam. Please advise me regarding my report responsibilities. Sincerely, LARRY CHIMBOLE LC:pl",
+    "summary": "FPPC General Counsel Robert M. Stern advises Assemblyman Chimbole that while books provided in a real estate course are excludable as informational material, the value of lecture attendance must be reported as a gift if it reaches $25 or more annually under Political Reform Act Section 87200."
+  }
+}

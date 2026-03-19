@@ -1,0 +1,74 @@
+{
+  "id": "81A083",
+  "year": 1981,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1981/81A083.PDF",
+  "pdf_sha256": "f67473f49fa286eddb934cf79ab2a40e3be95d6876eeb4e59fb1b57e78170e1f",
+  "local_pdf_path": "raw_pdfs/1981/81A083.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1981 Advice Letter # 81A083",
+    "tags": [
+      "Advice Letter",
+      "1981"
+    ],
+    "scraped_at": "2026-01-31 15:29:08",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1981&tagCount=1&page=15"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T16:22:37.335591Z",
+    "page_count": 2,
+    "word_count": 494,
+    "char_count": 3357,
+    "quality_score": 0.9344231583050663,
+    "olmocr_cost": 0.00516602,
+    "native_word_count": 102,
+    "haiku_cost": 0.005552
+  },
+  "content": {
+    "full_text": "State of California\nFair Political Practices Commission\nP.O. BOX 807 • SACRAMENTO, 95804 • • • 1100 K STREET BUILDING, SACRAMENTO, 95814\n\nTechnical Assistance • • Administration • • Executive/Legal • • Enforcement • • Statements of Economic Interest\n(916) 322-5662          322-5660               322-5901            322-6441                322-6444\n\nFebruary 17, 1981\n\n\nBill Cerruti\nLegal Division\nDepartment of Alcohol\nand Drug Programs\n111 Capitol Mall\nSacramento, CA  95814\n\nDear Mr. Cerruti:\n\n     The purpose of this letter is to confirm in writing the\nadvice I gave you over the telephone. You asked about the\ndisclosure and disqualification obligations imposed by the\nPolitical Reform Act on the Director of the Department of\nDrug and Alcohol Programs. The facts, as I understand them,\nare as follows.\n\n     The primary function of the Department of Drug and\nAlcohol Programs is to fund drug treatment programs. The\nDirector of this Department also sits on the board of directors\nof a National Association of directors of state drug and\nalcohol programs. The National Association is considering\nforming a wholly owned subsidiary which would engage in\nprofit making activities. Specifically, the subsidiary\nwould carry out drug and alcohol treatment programs.\n\n     These facts indicate that the Director may have a conflict\nof interest with respect to decisions affecting the National\nAssociation and/or the subsidiary. However, without further\ninformation it is impossible to advise you as to whether or\nnot a conflict exists.\n\n     In order to advise you, I need to have the following\ninformation.\n\n1.  The type of programs funded by the Department\nand whether they are profit or nonprofit programs.\n\n2.  A full description of the National Association\nincluding its profit or nonprofit status, its sources\nof funding and the character of its membership.\n\nBill Cerruti\nFebruary 17, 1981\nPage Two\n\n\n     3.  Whether and to what extent the Director is\npaid or receives benefits as a result of his position\non the Board of the National Association.\n\n     4.  A full description of the subsidiary including\nits relationship to the parent and its potential relation-\nship to the Department.\n\nThe disqualification provisions of the Political Reform\nAct are contained in Government Code Sections 87100-87103.\nSection 87100 provides that:\n\n     \"No public official at any level of state or local\ngovernment shall make, participate in making or in any\nway attempt to use his official position to influence a\ngovernmental decision in which he knows or has reason\nto know he has a financial interest.\"\n\nSince the Director may have a financial interest in the\nNational Association and the subsidiary, he may wish to\nexercise caution by disqualifying himself from making or\ninfluencing decisions which would have a material financial\neffect on the National Association or the subsidiary.\n\nThe Director's disclosure obligations are spelled out\nin the Conflict of Interest Code for the Department of Drug\nand Alcohol Programs.  If you have any specific questions as\nto how this code applies to the Director, please feel free\nto call me.\n\n                              Sincerely,\n\n                              [signature]\n                              Stella Connell Levy\n                              Counsel\n                              Legal Division\n\nSCL:plh",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1981-02-17",
+    "date_raw": "February 17, 1981",
+    "requestor_name": "Cerruti",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "What are the disclosure and disqualification obligations under the Political Reform Act for a Department Director who serves on the board of a national association that is considering forming a for-profit subsidiary engaged in drug and alcohol treatment programs?",
+    "conclusion_synthetic": "The Director may have a conflict of interest and should exercise caution by disqualifying himself from decisions with material financial effects on the National Association or subsidiary; however, definitive conflict analysis requires additional information about program types, funding sources, board compensation, and subsidiary details.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: No formal QUESTION/CONCLUSION section headers present; letter follows telephone advice confirmation format. Question and conclusion reconstructed from letter body. Four specific information requests outlined but no definitive conclusion provided pending receipt of additional facts."
+  },
+  "citations": {
+    "government_code": [
+      "87100"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T16:35:51.207795Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: What are the disclosure and disqualification obligations under the Political Reform Act for a Department Director who serves on the board of a national association that is considering forming a for-profit subsidiary engaged in drug and alcohol treatment programs?\n\nCONCLUSION: The Director may have a conflict of interest and should exercise caution by disqualifying himself from decisions with material financial effects on the National Association or subsidiary; however, definitive conflict analysis requires additional information about program types, funding sources, board compensation, and subsidiary details.",
+    "qa_source": "synthetic",
+    "first_500_words": "February 17, 1981 Bill Cerruti Legal Division Department of Alcohol and Drug Programs 111 Capitol Mall Sacramento, CA 95814 Dear Mr. Cerruti: The purpose of this letter is to confirm in writing the advice I gave you over the telephone. You asked about the disclosure and disqualification obligations imposed by the Political Reform Act on the Director of the Department of Drug and Alcohol Programs. The facts, as I understand them, are as follows. The primary function of the Department of Drug and Alcohol Programs is to fund drug treatment programs. The Director of this Department also sits on the board of directors of a National Association of directors of state drug and alcohol programs. The National Association is considering forming a wholly owned subsidiary which would engage in profit making activities. Specifically, the subsidiary would carry out drug and alcohol treatment programs. These facts indicate that the Director may have a conflict of interest with respect to decisions affecting the National Association and/or the subsidiary. However, without further information it is impossible to advise you as to whether or not a conflict exists. In order to advise you, I need to have the following information. 1. The type of programs funded by the Department and whether they are profit or nonprofit programs. 2. A full description of the National Association including its profit or nonprofit status, its sources of funding and the character of its membership. 3. Whether and to what extent the Director is paid or receives benefits as a result of his position on the Board of the National Association. 4. A full description of the subsidiary including its relationship to the parent and its potential relationship to the Department. The disqualification provisions of the Political Reform Act are contained in Government Code Sections 87100-87103. Section 87100 provides that: \"No public official at any level of state or local government shall make, participate in making or in any way attempt to use his official position to influence a governmental decision in which he knows or has reason to know he has a financial interest.\" Since the Director may have a financial interest in the National Association and the subsidiary, he may wish to exercise caution by disqualifying himself from making or influencing decisions which would have a material financial effect on the National Association or the subsidiary. The Director's disclosure obligations are spelled out in the Conflict of Interest Code for the Department of Drug and Alcohol Programs. If you have any specific questions as to how this code applies to the Director, please feel free to call me. Sincerely, Stella Connell Levy Counsel Legal Division SCL:plh",
+    "summary": "FPPC counsel advises a Department of Alcohol and Drug Programs Director regarding potential conflicts of interest arising from his board position with a national association considering formation of a for-profit treatment program subsidiary. The counsel identifies potential conflicts under Government Code Section 87100 but requests additional factual information before providing final advice on disqualification obligations."
+  }
+}

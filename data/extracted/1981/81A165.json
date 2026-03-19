@@ -1,0 +1,73 @@
+{
+  "id": "81A165",
+  "year": 1981,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1981/81A165.PDF",
+  "pdf_sha256": "538767d355ac20d6f1708e0e42315d305087938f5c179c18ddd92cdf2badacc2",
+  "local_pdf_path": "raw_pdfs/1981/81A165.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1981 Advice Letter # 81A165",
+    "tags": [
+      "Advice Letter",
+      "1981"
+    ],
+    "scraped_at": "2026-01-31 15:28:07",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1981&tagCount=1"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:59.605401Z",
+    "page_count": 1,
+    "word_count": 264,
+    "char_count": 1626,
+    "quality_score": 0.7150000000000001,
+    "olmocr_cost": null,
+    "native_word_count": 264
+  },
+  "content": {
+    "full_text": "• \n..... \nJtr U \nI \n~ R -p:-'!:,mlSS1°It \n• \n1 rod K STRhi\"\\rum::IiNgJ SACRAMENTO. 95814 \nSUITE 7007 \n• • • \nlOS ANGElES, 900 12 \nP.O. BOX 807 \n• \nSAL~ .... \" .... \".,-, . .\".:>1504 \n1 07 SOUTH BROADWAY \ne • • \nMs. Mary Lou Rushing \nRepublican Central Committee \n777 South Main, Suite 200 \nOrange, California 92668 \nDear Ms. Rushing: \nJuly 8, 1981 \nTnis letter is to confirm my advice to you during our \ntelephone conversation this date. \nThe facts as I understand them to be are as follows: \nA member of the County Republican Central Committee wrote a \npersonal check to pay for printing goods received by this person \nfor the County Central Committee. \nThe member was reimbursed \nby another person who was, in turn, reimbursed by the state \norganization of the Republican party. \nThe question you asked was since the County Central \nCommittee received an in-kind contribution from the State \nRepublican Party organization and will report the contribution \nas corning from the state organization, is it necessary to \nreport the two individuals that wrote personal checks for the \ntransaction as intermediaries? \nI advised that both individuals that wrote their own \npersonal checks and were ultimately reimbursed by the state \norganization of the Republican party must be reported as \n\"intermediaries\" pursuant to Government Code Section 84302. \nI hope this information has been helpful to you. \nPlease \n·let me know if I can be of any further assistance. \nHPA: j g \nACRAMENTO 1916) 3225660 \n• \nSincerely, \n/' -'\\ \n-~y~/ . . \nI~ \n~_/->~~~/(. ~~<-•• \nHelen P. Arriola \nPolitical Reform \nConsultant \nlOS ANGELES (213) 6205196 \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1981-07-08",
+    "date_raw": "July 8, 1981",
+    "requestor_name": "Rushing",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Since the County Central Committee received an in-kind contribution from the State Republican Party organization and will report the contribution as coming from the state organization, is it necessary to report the two individuals that wrote personal checks for the transaction as intermediaries?",
+    "conclusion": "Both individuals that wrote their own personal checks and were ultimately reimbursed by the state organization of the Republican party must be reported as \"intermediaries\" pursuant to Government Code Section 84302.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether individuals who wrote personal checks for printing goods received by a County Central Committee and were subsequently reimbursed by the State Republican Party must be reported as intermediaries in campaign contribution disclosures.",
+    "conclusion_synthetic": "The FPPC advises that both individuals who wrote personal checks and were reimbursed by the State Republican Party organization must be reported as intermediaries under Government Code Section 84302.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: No formal section headers present; question and conclusion reconstructed from letter body. Telephone advice confirmed in writing. Clear intermediary reporting requirement identified."
+  },
+  "citations": {
+    "government_code": [
+      "84302"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:36:59.605401Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Since the County Central Committee received an in-kind contribution from the State Republican Party organization and will report the contribution as coming from the state organization, is it necessary to report the two individuals that wrote personal checks for the transaction as intermediaries?\n\nCONCLUSION: Both individuals that wrote their own personal checks and were ultimately reimbursed by the state organization of the Republican party must be reported as \"intermediaries\" pursuant to Government Code Section 84302.",
+    "qa_source": "mixed",
+    "first_500_words": "• ..... Jtr U I ~ R -p:-'!:,mlSS1°It • 1 rod K STRhi\"\\rum::IiNgJ SACRAMENTO. 95814 SUITE 7007 • • • lOS ANGElES, 900 12 P.O. BOX 807 • SAL~ .... \" .... \".,-, . .\".:>1504 1 07 SOUTH BROADWAY e • • Ms. Mary Lou Rushing Republican Central Committee 777 South Main, Suite 200 Orange, California 92668 Dear Ms. Rushing: July 8, 1981 Tnis letter is to confirm my advice to you during our telephone conversation this date. The facts as I understand them to be are as follows: A member of the County Republican Central Committee wrote a personal check to pay for printing goods received by this person for the County Central Committee. The member was reimbursed by another person who was, in turn, reimbursed by the state organization of the Republican party. The question you asked was since the County Central Committee received an in-kind contribution from the State Republican Party organization and will report the contribution as corning from the state organization, is it necessary to report the two individuals that wrote personal checks for the transaction as intermediaries? I advised that both individuals that wrote their own personal checks and were ultimately reimbursed by the state organization of the Republican party must be reported as \"intermediaries\" pursuant to Government Code Section 84302. I hope this information has been helpful to you. Please ·let me know if I can be of any further assistance. HPA: j g ACRAMENTO 1916) 3225660 • Sincerely, /' -'\\ -~y~/ . . I~ ~_/->~~~/(. ~~<-•• Helen P. Arriola Political Reform Consultant lOS ANGELES (213) 6205196",
+    "summary": "FPPC advice letter confirming that individuals who personally paid for in-kind contributions (printing goods) to a County Central Committee that were later reimbursed by the State Republican Party must be disclosed as intermediaries in campaign finance reports."
+  }
+}

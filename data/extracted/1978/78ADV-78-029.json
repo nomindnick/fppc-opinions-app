@@ -1,0 +1,72 @@
+{
+  "id": "78ADV-78-029",
+  "year": 1978,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1978/78ADV-78-029.PDF",
+  "pdf_sha256": "099ede3e622abac435bf21004c7a1abe73cdca9549a68579c1bea959d10e9669",
+  "local_pdf_path": "raw_pdfs/1978/78ADV-78-029.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1978ADV Advice Letter # 78ADV-78-029",
+    "tags": [
+      "Advice Letter",
+      "1978"
+    ],
+    "scraped_at": "2026-01-31 15:25:10",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=32"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T16:09:20.791203Z",
+    "page_count": 2,
+    "word_count": 176,
+    "char_count": 1436,
+    "quality_score": 0.863484965034965,
+    "olmocr_cost": 0.0049114599999999994,
+    "native_word_count": 71,
+    "haiku_cost": 0.0037879999999999997
+  },
+  "content": {
+    "full_text": "State of California\n\nMemorandum\n\nTo      :   File                                           Date  :   May 6, 1978\n\n\nFrom  :   FAIR POLITICAL PRACTICES COMMISSION\n           Gina S-K\n\nSubject:  Agenda item at opinion request meeting of March 31, 1978\n\n\nA media business which produces campaign material for sale\nto the public for the sole purpose of making money without\nan intent to influence the action of voters is not a\ncommittee and has no reporting obligation as a result of\nthe sale of the material.\n\nState of California\n\nMemorandum\n\nTo : Opinion Request Meeting Participants                Date : 3/21/78\n\n                    Gina S-K\nFrom : FAIR POLITICAL PRACTICES COMMISSION\n\nSubject: Item for discussion\n\n\n     If a media business produces campaign material (buttons,\nbumper strips, etc.) for sale to the public for the\nsole purpose of making money without an intent to influence\nthe action of the voters, are the funds received reportable.\nThe material may or may not expressly advocate the election\nor defeat of a candidate or measure.\n\n                                        [illegible]\n                                        to log as strictly\n                                        money makers of\n                                        not for the purpose\n                                        of influencing\n                                        the action of the\n                                        votes.",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1978-05-06",
+    "date_raw": "May 6, 1978",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "If a media business produces campaign material (buttons, bumper strips, etc.) for sale to the public for the sole purpose of making money without an intent to influence the action of the voters, are the funds received reportable. The material may or may not expressly advocate the election or defeat of a candidate or measure.",
+    "conclusion": "A media business which produces campaign material for sale to the public for the sole purpose of making money without an intent to influence the action of voters is not a committee and has no reporting obligation as a result of the sale of the material.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a media business that produces and sells campaign materials (such as buttons and bumper strips) to the public solely for profit, without intent to influence voters, must report the funds received and whether such a business constitutes a committee.",
+    "conclusion_synthetic": "The FPPC concludes that funds from selling campaign materials are not reportable as long as the media business is strictly profit-motivated and not attempting to influence voter action, and such a business does not qualify as a committee.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document includes both an internal memo and opinion request meeting materials. The conclusion and question are clearly identified from the source material. Document dated May 6, 1978, concerning agenda item from March 31, 1978 meeting."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-08T17:14:36.882463Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: If a media business produces campaign material (buttons, bumper strips, etc.) for sale to the public for the sole purpose of making money without an intent to influence the action of the voters, are the funds received reportable. The material may or may not expressly advocate the election or defeat of a candidate or measure.\n\nCONCLUSION: A media business which produces campaign material for sale to the public for the sole purpose of making money without an intent to influence the action of voters is not a committee and has no reporting obligation as a result of the sale of the material.",
+    "qa_source": "mixed",
+    "first_500_words": "**Memorandum** To: File Date: May 6, 1978 From: FAIR POLITICAL PRACTICES COMMISSION Gina S-K Subject: Agenda item at opinion request meeting of March 31, 1978 A media business which produces campaign material for sale to the public for the sole purpose of making money without an intent to influence the action of voters is not a committee and has no reporting obligation as a result of the sale of the material. State of California Memorandum To: Opinion Request Meeting Participants Date: 3/21/78 Gina S-K From: FAIR POLITICAL PRACTICES COMMISSION Subject: Item for discussion If a media business produces campaign material (buttons, bumper strips, etc.) for sale to the public for the sole purpose of making money without an intent to influence the action of the voters, are the funds received reportable. The material may or may not expressly advocate the election or defeat of a candidate or measure. not reportable as long as strictly money making and not for the purpose of influencing the action of the voters.",
+    "summary": "The FPPC addresses whether a media business selling campaign materials (buttons, bumper strips, etc.) to the public for profit has reporting obligations. The FPPC concludes that no reporting is required if the business is solely profit-motivated without intent to influence voters."
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "77ADV-77-523",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-523.PDF",
+  "pdf_sha256": "28807d1a89d7a3adec0f8e022cc433458fa59ee2a48534d1dcff8e5b341e5c42",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-523.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-523",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:22:32",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=49"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:16.613626Z",
+    "page_count": 1,
+    "word_count": 78,
+    "char_count": 469,
+    "quality_score": 0.5075,
+    "olmocr_cost": null,
+    "native_word_count": 78
+  },
+  "content": {
+    "full_text": "February 25, 1977 \nBob Stern \nFair Political Practices Commission \nPost Office Box 807 \nSacramento, California 95804 \nDear Bob: \nI would like a written opinion to the following \nquestion. \nDoes the fact that a bank issues a credit \ncard to a campaign constitute a loan to \nthe campaign, especially if the balance \nowed on the charge card were not paid \noff within 30 days. \nI would appreciate your answer to this question \nas soon as possible. \nSincerely, \nBOB WILSON \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1977-02-25",
+    "date_raw": "February 25, 1977",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": ". \nDoes the fact that a bank issues a credit \ncard to a campaign constitute a loan to \nthe campaign, especially if the balance \nowed on the charge card were not paid \noff within 30 days. \nI would appreciate your answer to this question \nas soon as possible.",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requester asks whether a bank-issued credit card provided to a campaign constitutes a loan under campaign finance law, particularly when the balance is not paid within 30 days.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": true,
+    "parsing_notes": "Format: ocr; LLM: This is an incoming request letter from Bob Wilson to Bob Stern at the FPPC, not an FPPC response. No CONCLUSION section present. The question section is clearly marked and extracted verbatim."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:16.613626Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: . \nDoes the fact that a bank issues a credit \ncard to a campaign constitute a loan to \nthe campaign, especially if the balance \nowed on the charge card were not paid \noff within 30 days. \nI would appreciate your answer to this question \nas soon as possible.",
+    "qa_source": "mixed",
+    "first_500_words": "February 25, 1977 Bob Stern Fair Political Practices Commission Post Office Box 807 Sacramento, California 95804 Dear Bob: I would like a written opinion to the following question. Does the fact that a bank issues a credit card to a campaign constitute a loan to the campaign, especially if the balance owed on the charge card were not paid off within 30 days. I would appreciate your answer to this question as soon as possible. Sincerely, BOB WILSON",
+    "summary": "Bob Wilson requests a written FPPC opinion on whether a bank credit card issued to a campaign constitutes a loan, particularly when balances are not paid off within 30 days."
+  }
+}

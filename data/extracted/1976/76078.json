@@ -1,0 +1,74 @@
+{
+  "id": "76078",
+  "year": 1976,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1976/76078.PDF",
+  "pdf_sha256": "c9641ad674f8120f2e57a81f4d75e4cea51905146578a04744f9c677a1c9c81c",
+  "local_pdf_path": "raw_pdfs/1976/76078.PDF",
+  "source_metadata": {
+    "title_raw": "HEINRICH, JACK Year: 1976 Advice Letter # 76078",
+    "tags": [
+      "1976",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:17:27",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1976&tagCount=1&page=39"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-07T17:18:11.153239Z",
+    "page_count": 1,
+    "word_count": 165,
+    "char_count": 1074,
+    "quality_score": 0.7175,
+    "olmocr_cost": 0.0025903199999999997,
+    "native_word_count": 4
+  },
+  "content": {
+    "full_text": "July 27, 1976\n\nMr. Jack Heinrich  \nKaiser Industries Corporation  \n300 Lakeside Drive  \nOakland, California 94666\n\nDear Mr. Heinrich:\n\nThis letter is to confirm my advice to you today by telephone.\n\nYou stated the following facts: (1) Edgar F. Kaiser was a major donor committee in 1975 and filed campaign statements reporting his contributions through December 31, 1975. (2) Mr. Kaiser's monetary contributions in 1976 total less than $5,000. (3) Mr. Kaiser has made no expenditures in behalf of candidates or ballot measure campaigns in 1976. You asked whether Mr. Kaiser must file an off-year campaign disclosure statement under Government Code Section 84206, covering the period from January 1, 1976 through June 30, 1976.\n\nI advised that, based on the facts stated above, Mr. Kaiser does not qualify as a committee under Government Code Section 82013 and therefore at the present time has no reporting obligations under the campaign disclosure provisions of the Political Reform Act.\n\nSincerely,\n\nNan Hambleton  \nSpecial Compliance Representative\n\nNH:bw\n\nbcc: Jeanne P.",
+    "full_text_markdown": "July 27, 1976\n\nMr. Jack Heinrich  \nKaiser Industries Corporation  \n300 Lakeside Drive  \nOakland, California 94666\n\nDear Mr. Heinrich:\n\nThis letter is to confirm my advice to you today by telephone.\n\nYou stated the following facts: (1) Edgar F. Kaiser was a major donor committee in 1975 and filed campaign statements reporting his contributions through December 31, 1975. (2) Mr. Kaiser's monetary contributions in 1976 total less than $5,000. (3) Mr. Kaiser has made no expenditures in behalf of candidates or ballot measure campaigns in 1976. You asked whether Mr. Kaiser must file an off-year campaign disclosure statement under Government Code Section 84206, covering the period from January 1, 1976 through June 30, 1976.\n\nI advised that, based on the facts stated above, Mr. Kaiser does not qualify as a committee under Government Code Section 82013 and therefore at the present time has no reporting obligations under the campaign disclosure provisions of the Political Reform Act.\n\nSincerely,\n\nNan Hambleton  \nSpecial Compliance Representative\n\nNH:bw\n\nbcc: Jeanne P."
+  },
+  "parsed": {
+    "date": "1976-07-27",
+    "date_raw": "July 27, 1976",
+    "requestor_name": "Heinrich",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Must Mr. Kaiser file an off-year campaign disclosure statement under Government Code Section 84206, covering the period from January 1, 1976 through June 30, 1976?",
+    "conclusion": "Based on the facts stated above, Mr. Kaiser does not qualify as a committee under Government Code Section 82013 and therefore at the present time has no reporting obligations under the campaign disclosure provisions of the Political Reform Act.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether Edgar F. Kaiser must file an off-year campaign disclosure statement for the first half of 1976 given his 1975 major donor status and 2016 contributions totaling less than $5,000.",
+    "conclusion_synthetic": "Mr. Kaiser is not required to file an off-year campaign disclosure statement because his current contributions and activities do not meet the threshold to qualify as a committee under state law.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Standard advice letter format with facts, question, and conclusion sections clearly presented. Telephone confirmation letter. Document is from 1976 addressing campaign finance disclosure requirements."
+  },
+  "citations": {
+    "government_code": [
+      "82013",
+      "84206"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T17:18:11.153239Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Must Mr. Kaiser file an off-year campaign disclosure statement under Government Code Section 84206, covering the period from January 1, 1976 through June 30, 1976?\n\nCONCLUSION: Based on the facts stated above, Mr. Kaiser does not qualify as a committee under Government Code Section 82013 and therefore at the present time has no reporting obligations under the campaign disclosure provisions of the Political Reform Act.",
+    "qa_source": "mixed",
+    "first_500_words": "July 27, 1976 Mr. Jack Heinrich Kaiser Industries Corporation 300 Lakeside Drive Oakland, California 94666 Dear Mr. Heinrich: This letter is to confirm my advice to you today by telephone. You stated the following facts: (1) Edgar F. Kaiser was a major donor committee in 1975 and filed campaign statements reporting his contributions through December 31, 1975. (2) Mr. Kaiser's monetary contributions in 1976 total less than $5,000. (3) Mr. Kaiser has made no expenditures in behalf of candidates or ballot measure campaigns in 1976. You asked whether Mr. Kaiser must file an off-year campaign disclosure statement under Government Code Section 84206, covering the period from January 1, 1976 through June 30, 1976. I advised that, based on the facts stated above, Mr. Kaiser does not qualify as a committee under Government Code Section 82013 and therefore at the present time has no reporting obligations under the campaign disclosure provisions of the Political Reform Act. Sincerely, Nan Hambleton Special Compliance Representative NH:bw bcc: Jeanne P.",
+    "summary": "FPPC confirms telephonic advice that Edgar F. Kaiser, a former major donor, does not have reporting obligations for 1976 because his contributions and activities fall below the threshold to qualify as a committee."
+  }
+}

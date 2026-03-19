@@ -1,0 +1,73 @@
+{
+  "id": "78ADV-78-182",
+  "year": 1978,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1978/78ADV-78-182.PDF",
+  "pdf_sha256": "bcdd014b0d162ad485a53bc5ba55b59b0642bc3703cee2338aee7486affc2c4d",
+  "local_pdf_path": "raw_pdfs/1978/78ADV-78-182.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1978ADV Advice Letter # 78ADV-78-182",
+    "tags": [
+      "Advice Letter",
+      "1978"
+    ],
+    "scraped_at": "2026-01-31 15:25:06",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=31"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:11.413056Z",
+    "page_count": 2,
+    "word_count": 316,
+    "char_count": 2019,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 316
+  },
+  "content": {
+    "full_text": "State of California \nMemorandum \nTo \nFile -\nR~ T. Denny, Registrar of Voters, \nSan Diego, Letter of 8/29/78 \nDate \n10/78 \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nJay Greenwood \nSubject: \nInformed Keith Boyer, R. T. Denny's replacement, \nby phone that my original advice was correct. \nIn addition, \nI advised that the statement required to be filed with \nthe city need only disclose receipts and expenditures in \nconnection with the city, if any. \n\n\nAugust 29, 1978 \nFair Political Practices Commission \nTechnical Assistance & Analysis Division \nP. O. Box 807 \nSacramento, CA 95804 \nI would appreciate clarification of recent oral advice given by John Greenwood \nto the San Diego City Clerk. \nCouncilman Tom Gade was a candidate for Municipal Court Judge in the June 6, \n1978, Primary Election and filed Consolidated Form 490 Campaign Statements \nthree times as required. \nHe has no committees as a councilman. \nThis office \ninformed him that he need not file an \"off year\" statement for the period \nending June 30, 1978, because of the wording of Section 84206: \n\"Every \ncandidate and committee that receives contributions or makes expenditures \nduring the periods specified in this section, and every elected officer \nexcept as provided below, shall file campaign statements as provided in \nthis section, unless the candidate, committee or elected officer is required \nto file cam ai n statements in connection with an \nelection or elections \nheld within the periods specified in subsections a and \nIn a telephone conversation with the City Clerk's Office, Mr. Greenwood \nstated that Councilman Gade was also required to file an \"off year\" campaign \nstatement with the San Diego City Clerk. \nThis is not a request for an opinion. \nYour commission has stated previously \nthat filing officers lack standing in the matter of requesting opinions. \nBecause local candidates rely on this office for information and advice, I \nwould like to give them the correct information. \nR. 1. DENNY \nRegistrar of Voters \nRTD:YS:hl \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1978-08-29",
+    "date_raw": "August 29, 1978",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Clarification of recent oral advice given by John Greenwood to the San Diego City Clerk regarding whether Councilman Tom Gade, a candidate for Municipal Court Judge in the June 6, 1978 Primary Election who filed Consolidated Form 490 Campaign Statements three times as required, must file an 'off year' statement for the period ending June 30, 1978 with the San Diego City Clerk, given Section 84206's language regarding required campaign statements.",
+    "conclusion": "Informed Keith Boyer, R. T. Denny's replacement, by phone that my original advice was correct. In addition, I advised that the statement required to be filed with the city need only disclose receipts and expenditures in connection with the city, if any.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a candidate for judicial office who filed required campaign statements for an election must also file an 'off year' campaign statement with the city, and clarification of conflicting oral advice on this matter.",
+    "conclusion_synthetic": "The FPPC confirmed that the original advice was correct and clarified that any statement filed with the city need only disclose receipts and expenditures connected to city matters.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.75,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is a memorandum to file dated 10/78 with an attached letter dated 8/29/78. The question is reconstructed from the incoming letter from R.T. Denny. The conclusion is brief and appears to be a summary of phone advice given. No formal 'QUESTION' or 'CONCLUSION' section headers present; content extracted from body text. Confidence reduced due to fragmented nature of advice (oral communication to replacement) and limited detail in the formal response."
+  },
+  "citations": {
+    "government_code": [
+      "84206"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:37:11.413056Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Clarification of recent oral advice given by John Greenwood to the San Diego City Clerk regarding whether Councilman Tom Gade, a candidate for Municipal Court Judge in the June 6, 1978 Primary Election who filed Consolidated Form 490 Campaign Statements three times as required, must file an 'off year' statement for the period ending June 30, 1978 with the San Diego City Clerk, given Section 84206's language regarding required campaign statements.\n\nCONCLUSION: Informed Keith Boyer, R. T. Denny's replacement, by phone that my original advice was correct. In addition, I advised that the statement required to be filed with the city need only disclose receipts and expenditures in connection with the city, if any.",
+    "qa_source": "mixed",
+    "first_500_words": "State of California Memorandum To File - R~ T. Denny, Registrar of Voters, San Diego, Letter of 8/29/78 Date 10/78 From FAIR POLITICAL PRACTICES COMMISSION Jay Greenwood Subject: Informed Keith Boyer, R. T. Denny's replacement, by phone that my original advice was correct. In addition, I advised that the statement required to be filed with the city need only disclose receipts and expenditures in connection with the city, if any. August 29, 1978 Fair Political Practices Commission Technical Assistance & Analysis Division P. O. Box 807 Sacramento, CA 95804 I would appreciate clarification of recent oral advice given by John Greenwood to the San Diego City Clerk. Councilman Tom Gade was a candidate for Municipal Court Judge in the June 6, 1978, Primary Election and filed Consolidated Form 490 Campaign Statements three times as required. He has no committees as a councilman. This office informed him that he need not file an \"off year\" statement for the period ending June 30, 1978, because of the wording of Section 84206: \"Every candidate and committee that receives contributions or makes expenditures during the periods specified in this section, and every elected officer except as provided below, shall file campaign statements as provided in this section, unless the candidate, committee or elected officer is required to file cam ai n statements in connection with an election or elections held within the periods specified in subsections a and In a telephone conversation with the City Clerk's Office, Mr. Greenwood stated that Councilman Gade was also required to file an \"off year\" campaign statement with the San Diego City Clerk. This is not a request for an opinion. Your commission has stated previously that filing officers lack standing in the matter of requesting opinions. Because local candidates rely on this office for information and advice, I would like to give them the correct information. R. 1. DENNY Registrar of Voters RTD:YS:hl",
+    "summary": "The Registrar of Voters sought clarification regarding conflicting FPPC oral advice about whether a municipal council candidate who ran for judicial office must file an 'off year' campaign statement with the city. The FPPC confirmed its original advice and clarified the scope of required local filings."
+  }
+}

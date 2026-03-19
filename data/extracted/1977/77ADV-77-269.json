@@ -1,0 +1,73 @@
+{
+  "id": "77ADV-77-269",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-269.PDF",
+  "pdf_sha256": "ecf102352fef634083c6efa078046bcf2be3fff14247ed9a9d4bee138a007ae9",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-269.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-269",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:19:49",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=12"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:12.802050Z",
+    "page_count": 1,
+    "word_count": 188,
+    "char_count": 1119,
+    "quality_score": 0.8,
+    "olmocr_cost": null,
+    "native_word_count": 188
+  },
+  "content": {
+    "full_text": "or \nTo \nNancy Conzett \nDate \nDecember 29, 1977 \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nDwight Dickerson \nSubject: Phone Advice \nI received a call December 28, 1977, from City Attorney \nMichael Miller of Gardena, California concerning the follow-\ning question: \nIn light of Section 82033, is a Councilman \nrequired to report on a Schedule 720 property that is currently \nbeing held in escrow? \nThe facts as I understand them were that the Councilman was \nin the process of purchasing the property but it was still \nbeing held in escrow near the time his Schedule 720 Statement \nwas due. \nI advised the City Attorney that the Councilman should report \nthe property but describe on the form that it was still being \nheld in escrow. \nIt was the opinion of various members of the \nstaff that the Councilman had a beneficial interest in the \nproperty, and that if a vote came up that would have an impact \non the property, the Councilman would be sufficiently interested \nin the property in that his ability to be free from bias could \nbe impaired. \nThe City Attorney agreed with the analysis and our conclusion. \nDD:ma \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1977-12-29",
+    "date_raw": "December 29, 1977",
+    "requestor_name": null,
+    "requestor_title": "City Attorney",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "In light of Section 82033, is a Councilman required to report on a Schedule 720 property that is currently being held in escrow?",
+    "conclusion": "The Councilman should report the property but describe on the form that it was still being held in escrow. The Councilman had a beneficial interest in the property, and if a vote came up that would have an impact on the property, the Councilman would be sufficiently interested in the property in that his ability to be free from bias could be impaired.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a councilman must disclose property on Schedule 720 (statement of economic interests) when the property is still in escrow during the purchase process.",
+    "conclusion_synthetic": "The councilman must report the escrowed property on Schedule 720 with a notation that it is in escrow, as the councilman has a beneficial interest that could create a conflict of interest if votes affecting the property arise.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Informal phone advice letter format documented in writing; no formal QUESTION/CONCLUSION section headers; facts and analysis clearly presented; written by Dwight Dickerson; recipient was Nancy Conzett (likely internal routing)"
+  },
+  "citations": {
+    "government_code": [
+      "82033"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:37:12.802050Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: In light of Section 82033, is a Councilman required to report on a Schedule 720 property that is currently being held in escrow?\n\nCONCLUSION: The Councilman should report the property but describe on the form that it was still being held in escrow. The Councilman had a beneficial interest in the property, and if a vote came up that would have an impact on the property, the Councilman would be sufficiently interested in the property in that his ability to be free from bias could be impaired.",
+    "qa_source": "mixed",
+    "first_500_words": "or To Nancy Conzett Date December 29, 1977 From FAIR POLITICAL PRACTICES COMMISSION Dwight Dickerson Subject: Phone Advice I received a call December 28, 1977, from City Attorney Michael Miller of Gardena, California concerning the follow- ing question: In light of Section 82033, is a Councilman required to report on a Schedule 720 property that is currently being held in escrow? The facts as I understand them were that the Councilman was in the process of purchasing the property but it was still being held in escrow near the time his Schedule 720 Statement was due. I advised the City Attorney that the Councilman should report the property but describe on the form that it was still being held in escrow. It was the opinion of various members of the staff that the Councilman had a beneficial interest in the property, and that if a vote came up that would have an impact on the property, the Councilman would be sufficiently interested in the property in that his ability to be free from bias could be impaired. The City Attorney agreed with the analysis and our conclusion. DD:ma",
+    "summary": "FPPC staff advised a Gardena city attorney that a councilman purchasing property held in escrow must disclose it on Schedule 720 with notation of escrow status, as the beneficial interest could impair the councilman's objectivity on related votes."
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "76028",
+  "year": 1976,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1976/76028.PDF",
+  "pdf_sha256": "cdfe0b0ef925c9c32f301fcdbe2f5f99594d5d1f098eb07dd76e39e62eaeec28",
+  "local_pdf_path": "raw_pdfs/1976/76028.PDF",
+  "source_metadata": {
+    "title_raw": "POLGAR, ARLINE Year: 1976 Advice Letter # 76028",
+    "tags": [
+      "1976",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:15:59",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1976&tagCount=1&page=19"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:18.990870Z",
+    "page_count": 2,
+    "word_count": 337,
+    "char_count": 2062,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 337
+  },
+  "content": {
+    "full_text": "air Political Practices CommissioIL \nMs. Arline Ray Polgar \n10391 Ballard Avenue \nGarden Grove, CA \n92640 \nDear Ms. Polgar: \n1100 K STREET BUILDING, SACRAMENTO, 95814 \n-\n-\nOctober 19, 1976 \nMr. David Shapiro has referred your question concern-\ning how loans must be reported under the provisions of the \nPolitical Reform Act, to us for a response. \nA loan which is made to a candidate or committee for \nuse in a political campaign, is treated as a contribution \nto the campaign in the event it is forgiven by the lendor. \nThe loan would not be listed as income as defined in \nSection 82030 unless it is clear from the surrounding \ncircumstances that the loan was made for personal and not \npolitical purposes. \nI trust this answers your question, if you desire \nadditional information, please do not hesitate to call me. \nRSK:dw \nVery truly yours, \nRegina Siciliano-Kutchins \nTechnical Assistance Progarm \nCoordinator \n\n\nDAVID I. SHAPIRO \n11905 KUNG STREET, APT. 6 \nNORTH HOLLYWOOD, CALIFORNIA 91607 \n(213) 763-8938 \nOctober \n7th \n1 976 \nMr. John Keplinger \nFair Political Practices Commission \n1100 K Street \nSacramento, California \nDear Mr. Keplinger: \nLast weekend I participated in a USC forum at which Dan \nLoewenstein was a featured speaker. I told him of my interest in \nserving on your staff. He answered that although there were no \nopenings currently I should apply to you. \nI am enclosing my resumes. My value lies in my eagerness for \nthe Reform Act to work, having assisted in its enactment, mixed with \nempathy with those, like myself, who have to live under its mandates \nand strictures. \nP. S. \nDIS:pl \nEncl: \nSincerely, \nArline Ray Polgar, 10391 Ballard Avenue. Garden \nGrove, California 92640 (714) 6;J6-79I7, handed me \na question during our workshop to present to Mr. \nLoewenstein. He in turn, asked me to write it. She \nwants to know whether or not a campaign loan, not \nforgiven, is treated as \"contribution\" or \"income\" \nunder 8~015 or 8~030 of the Political Reform Act. \nPlease mail \nanswer to her. Thanks for your time \nin this regard. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1976-10-19",
+    "date_raw": "October 19, 1976",
+    "requestor_name": "Polgar",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "She wants to know whether or not a campaign loan, not forgiven, is treated as \"contribution\" or \"income\" under 82015 or 82030 of the Political Reform Act.",
+    "conclusion": "A loan which is made to a candidate or committee for use in a political campaign, is treated as a contribution to the campaign in the event it is forgiven by the lendor. The loan would not be listed as income as defined in Section 82030 unless it is clear from the surrounding circumstances that the loan was made for personal and not political purposes.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a campaign loan that is not forgiven should be reported as a contribution or as income under the Political Reform Act.",
+    "conclusion_synthetic": "An unforgiven campaign loan is generally not treated as a contribution unless forgiven; it should not be listed as income under Section 82030 unless circumstances indicate it was made for personal rather than political purposes.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document contains both incoming request (Shapiro's letter with referral) and FPPC response (Siciliano-Kutchins' letter). Extracted information from the FPPC response portion. Question text reconstructed from the postscript of Shapiro's referral letter since formal question section was not present in response letter itself."
+  },
+  "citations": {
+    "government_code": [
+      "82030"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [
+      "76350"
+    ],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:37:18.990870Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: She wants to know whether or not a campaign loan, not forgiven, is treated as \"contribution\" or \"income\" under 82015 or 82030 of the Political Reform Act.\n\nCONCLUSION: A loan which is made to a candidate or committee for use in a political campaign, is treated as a contribution to the campaign in the event it is forgiven by the lendor. The loan would not be listed as income as defined in Section 82030 unless it is clear from the surrounding circumstances that the loan was made for personal and not political purposes.",
+    "qa_source": "mixed",
+    "first_500_words": "air Political Practices CommissioIL Ms. Arline Ray Polgar 10391 Ballard Avenue Garden Grove, CA 92640 Dear Ms. Polgar: 1100 K STREET BUILDING, SACRAMENTO, 95814 - - October 19, 1976 Mr. David Shapiro has referred your question concern- ing how loans must be reported under the provisions of the Political Reform Act, to us for a response. A loan which is made to a candidate or committee for use in a political campaign, is treated as a contribution to the campaign in the event it is forgiven by the lendor. The loan would not be listed as income as defined in Section 82030 unless it is clear from the surrounding circumstances that the loan was made for personal and not political purposes. I trust this answers your question, if you desire additional information, please do not hesitate to call me. RSK:dw Very truly yours, Regina Siciliano-Kutchins Technical Assistance Progarm Coordinator DAVID I. SHAPIRO 11905 KUNG STREET, APT. 6 NORTH HOLLYWOOD, CALIFORNIA 91607 (213) 763-8938 October 7th 1 976 Mr. John Keplinger Fair Political Practices Commission 1100 K Street Sacramento, California Dear Mr. Keplinger: Last weekend I participated in a USC forum at which Dan Loewenstein was a featured speaker. I told him of my interest in serving on your staff. He answered that although there were no openings currently I should apply to you. I am enclosing my resumes. My value lies in my eagerness for the Reform Act to work, having assisted in its enactment, mixed with empathy with those, like myself, who have to live under its mandates and strictures. P. S. DIS:pl Encl: Sincerely, Arline Ray Polgar, 10391 Ballard Avenue. Garden Grove, California 92640 (714) 6;J6-79I7, handed me a question during our workshop to present to Mr. Loewenstein. He in turn, asked me to write it. She wants to know whether or not a campaign loan, not forgiven, is treated as \"contribution\" or \"income\" under 8~015 or 8~030 of the Political Reform Act. Please mail answer to her. Thanks for your time in this regard.",
+    "summary": "FPPC response to a question about loan reporting requirements under the Political Reform Act, clarifying that forgiven campaign loans are treated as contributions while unforgiven loans are typically not reported as income unless made for personal purposes."
+  }
+}

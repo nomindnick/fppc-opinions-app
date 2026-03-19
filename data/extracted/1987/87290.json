@@ -1,0 +1,73 @@
+{
+  "id": "87290",
+  "year": 1987,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1987/fppc-advice/87290.PDF",
+  "pdf_sha256": "037ee24add12659a66d7818eee6cf0fded0a8635c0fa12fb80752f730ca1b2eb",
+  "local_pdf_path": "raw_pdfs/1987/87290.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1987 Advice Letter # 87290",
+    "tags": [
+      "1987",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:57:23",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1987&tagCount=1&page=27"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T17:19:27.547271Z",
+    "page_count": 1,
+    "word_count": 106,
+    "char_count": 647,
+    "quality_score": 0.7667841406938598,
+    "olmocr_cost": 0.0025026,
+    "native_word_count": 161
+  },
+  "content": {
+    "full_text": "CALLER: Ron Reisman, Food Processors Assoc.\n\nFOR: Food Processors Assoc.\n\nDATE: Oct. 6, 1987\n\nT-87-290\n\nQUESTION: Lobbyist employer asks March Fong Eu to speak at a function it sponsors. Ms. Eu requests that her honorarium be given to a charitable organization. Is the honorarium considered a reportable activity expense?\n\nANSWER: Yes. Even though Ms. Eu did not accept the honorarium and, in fact, never received it, the fact that she earned it and was able to direct its use means it was \"income\" to her. Therefore it is a reportable activity expense by the lobbyist employer which made the payment.\n\nFILE REFERENCE: Sections 82030, 86112, 87207",
+    "full_text_markdown": "CALLER: Ron Reisman, Food Processors Assoc.\n\nFOR: Food Processors Assoc.\n\nDATE: Oct. 6, 1987\n\nT-87-290\n\nQUESTION: Lobbyist employer asks March Fong Eu to speak at a function it sponsors. Ms. Eu requests that her honorarium be given to a charitable organization. Is the honorarium considered a reportable activity expense?\n\nANSWER: Yes. Even though Ms. Eu did not accept the honorarium and, in fact, never received it, the fact that she earned it and was able to direct its use means it was \"income\" to her. Therefore it is a reportable activity expense by the lobbyist employer which made the payment.\n\nFILE REFERENCE: Sections 82030, 86112, 87207"
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Lobbyist employer asks March Fong Eu to speak at a function it sponsors. Ms. Eu requests that her honorarium be given to a charitable organization. Is the honorarium considered a reportable activity expense?\n\nANSWER: Yes. Even though Ms. Eu did not accept the honorarium and, in fact, never received it, the fact that she earned it and was able to direct its use means it was \"income\" to her. Therefore it is a reportable activity expense by the lobbyist employer which made the payment.\n\nFILE REFERENCE: Sections 82030, 86112, 87207",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.5499999999999999,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern"
+  },
+  "citations": {
+    "government_code": [
+      "82030"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-19T17:19:27.547271Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Lobbyist employer asks March Fong Eu to speak at a function it sponsors. Ms. Eu requests that her honorarium be given to a charitable organization. Is the honorarium considered a reportable activity expense?\n\nANSWER: Yes. Even though Ms. Eu did not accept the honorarium and, in fact, never received it, the fact that she earned it and was able to direct its use means it was \"income\" to her. Therefore it is a reportable activity expense by the lobbyist employer which made the payment.\n\nFILE REFERENCE: Sections 82030, 86112, 87207",
+    "qa_source": "extracted",
+    "first_500_words": "CALLER: Ron Reisman, Food Processors Assoc. FOR: Food Processors Assoc. DATE: Oct. 6, 1987 T-87-290 QUESTION: Lobbyist employer asks March Fong Eu to speak at a function it sponsors. Ms. Eu requests that her honorarium be given to a charitable organization. Is the honorarium considered a reportable activity expense? ANSWER: Yes. Even though Ms. Eu did not accept the honorarium and, in fact, never received it, the fact that she earned it and was able to direct its use means it was \"income\" to her. Therefore it is a reportable activity expense by the lobbyist employer which made the payment. FILE REFERENCE: Sections 82030, 86112, 87207",
+    "summary": null
+  }
+}

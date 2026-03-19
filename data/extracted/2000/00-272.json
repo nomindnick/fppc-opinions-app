@@ -1,0 +1,77 @@
+{
+  "id": "00-272",
+  "year": 2000,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2000/00-272.pdf",
+  "pdf_sha256": "8d60cfc5be85811db6990dafa99c135cd40906fc16b961ffca4316a6cbbf32a9",
+  "local_pdf_path": "raw_pdfs/2000/00-272.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2000 Advice Letter # 00-272",
+    "tags": [
+      "2000",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 00:43:00",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2000&tagCount=1&page=12"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T18:52:22.741175Z",
+    "page_count": 1,
+    "word_count": 205,
+    "char_count": 1359,
+    "quality_score": 0.8914348613652929,
+    "olmocr_cost": 0.0026746,
+    "native_word_count": 225
+  },
+  "content": {
+    "full_text": "December 20, 2000\n\nMarsha Jones Moutrie, City Attorney\nOffice of the City Attorney\nCity Hall\n1685 Main Street\nPost Office Box 2200\nSanta Monica, California 90407-2200\n\nRe: Your Request for Advice\nOur File No. 00-272\n\nDear Ms. Moutrie:\n\nThis letter is in response to your request for advice regarding the conflict of interest provisions of the Political Reform Act (the \"Act\").1 The Act requires the Commission to provide written advice to any person whose duties under the Act are in question or to that person's authorized representative. (Section 83114(b); Regulation 18329(b)(1), enclosed.) However, the Commission does not provide advice where the requestor is seeking advice about another person's duties under the Act and has not been authorized to do so by that person. (Section 83114(b); Regulation 18329(b)(8)(B).) Since your request relates to Christopher Joseph and you are not the authorized representative of that individual, we are unable to provide you with advice.\n\nIf you have any other questions regarding this matter, please contact me at (916) 322-5660.\n\nSincerely,\n\nLuisa Menchaca\nAssistant General Counsel\n\nBy: Natalie Bocanegra\nStaff Counsel, Legal Division\n\nNB:jg\nI:\\AdviceLtrs\\00272.doc\n\n1 Government Code sections 81000 - 91015. Commission regulations appear at title 2, sections 18109 - 18996, of the California Code of Regulations.",
+    "full_text_markdown": "December 20, 2000\n\nMarsha Jones Moutrie, City Attorney\nOffice of the City Attorney\nCity Hall\n1685 Main Street\nPost Office Box 2200\nSanta Monica, California 90407-2200\n\nRe: Your Request for Advice\nOur File No. 00-272\n\nDear Ms. Moutrie:\n\nThis letter is in response to your request for advice regarding the conflict of interest provisions of the Political Reform Act (the \"Act\").1 The Act requires the Commission to provide written advice to any person whose duties under the Act are in question or to that person's authorized representative. (Section 83114(b); Regulation 18329(b)(1), enclosed.) However, the Commission does not provide advice where the requestor is seeking advice about another person's duties under the Act and has not been authorized to do so by that person. (Section 83114(b); Regulation 18329(b)(8)(B).) Since your request relates to Christopher Joseph and you are not the authorized representative of that individual, we are unable to provide you with advice.\n\nIf you have any other questions regarding this matter, please contact me at (916) 322-5660.\n\nSincerely,\n\nLuisa Menchaca\nAssistant General Counsel\n\nBy: Natalie Bocanegra\nStaff Counsel, Legal Division\n\nNB:jg\nI:\\AdviceLtrs\\00272.doc\n\n1 Government Code sections 81000 - 91015. Commission regulations appear at title 2, sections 18109 - 18996, of the California Code of Regulations."
+  },
+  "parsed": {
+    "date": "2000-12-20",
+    "date_raw": "December 20, 2000",
+    "requestor_name": "Moutrie",
+    "requestor_title": "City Attorney",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "83114(b)"
+    ],
+    "regulations": [
+      "18109",
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "gifts_honoraria",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-20T18:52:22.741175Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "December 20, 2000 Marsha Jones Moutrie, City Attorney Office of the City Attorney City Hall 1685 Main Street Post Office Box 2200 Santa Monica, California 90407-2200 Re: Your Request for Advice Our File No. 00-272 Dear Ms. Moutrie: This letter is in response to your request for advice regarding the conflict of interest provisions of the Political Reform Act (the \"Act\").1 The Act requires the Commission to provide written advice to any person whose duties under the Act are in question or to that person's authorized representative. (Section 83114(b); Regulation 18329(b)(1), enclosed.) However, the Commission does not provide advice where the requestor is seeking advice about another person's duties under the Act and has not been authorized to do so by that person. (Section 83114(b); Regulation 18329(b)(8)(B).) Since your request relates to Christopher Joseph and you are not the authorized representative of that individual, we are unable to provide you with advice. If you have any other questions regarding this matter, please contact me at (916) 322-5660. Sincerely, Luisa Menchaca Assistant General Counsel By: Natalie Bocanegra Staff Counsel, Legal Division NB:jg I:\\AdviceLtrs\\00272.doc 1 Government Code sections 81000 - 91015. Commission regulations appear at title 2, sections 18109 - 18996, of the California Code of Regulations.",
+    "qa_source": "extracted",
+    "first_500_words": "December 20, 2000 Marsha Jones Moutrie, City Attorney Office of the City Attorney City Hall 1685 Main Street Post Office Box 2200 Santa Monica, California 90407-2200 Re: Your Request for Advice Our File No. 00-272 Dear Ms. Moutrie: This letter is in response to your request for advice regarding the conflict of interest provisions of the Political Reform Act (the \"Act\").1 The Act requires the Commission to provide written advice to any person whose duties under the Act are in question or to that person's authorized representative. (Section 83114(b); Regulation 18329(b)(1), enclosed.) However, the Commission does not provide advice where the requestor is seeking advice about another person's duties under the Act and has not been authorized to do so by that person. (Section 83114(b); Regulation 18329(b)(8)(B).) Since your request relates to Christopher Joseph and you are not the authorized representative of that individual, we are unable to provide you with advice. If you have any other questions regarding this matter, please contact me at (916) 322-5660. Sincerely, Luisa Menchaca Assistant General Counsel By: Natalie Bocanegra Staff Counsel, Legal Division NB:jg I:\\AdviceLtrs\\00272.doc 1 Government Code sections 81000 - 91015. Commission regulations appear at title 2, sections 18109 - 18996, of the California Code of Regulations.",
+    "summary": null
+  }
+}

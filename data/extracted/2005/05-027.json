@@ -1,0 +1,75 @@
+{
+  "id": "05-027",
+  "year": 2005,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2005/05-027.pdf",
+  "pdf_sha256": "0a3babae660ff863facebf51638666d818874c4024aab48ee5e09a67a2cdfc3c",
+  "local_pdf_path": "raw_pdfs/2005/05-027.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2005 Advice Letter # 05-027",
+    "tags": [
+      "2005",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:42:13",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2005&tagCount=1&page=3"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:11.999339Z",
+    "page_count": 2,
+    "word_count": 332,
+    "char_count": 2028,
+    "quality_score": 0.635,
+    "olmocr_cost": null,
+    "native_word_count": 332
+  },
+  "content": {
+    "full_text": "{\nRe\nFarn Por-rrrcal PRACTTcEs C ouurssroN\n428 J Street r Suite 620 r Sacramento, CA 95814-2329\n(916) 322-5660 r Fax (916) 322-0886\nMarch 7,2005\nHelen Holmes Peak, City Attorney\nCity of San Marcos\nI Civic Center Drive\nSan Marcos, CA 92069-2918\nYour Request for Advice\nOur FiIe No. W-05-027\nDear Ms. Peak\nThis letter is in response to your request for advice regarding the conflict of\ninterest provisions of the Political Reform Act (the \"Act\")l on behalf of the members of\nthe San Marcos City Council. In your letter, you ask if a rnember of the city council may\nvote on his or her own appointment by the city council to a joint powers agency if the\nmember disclaims or waives the stipend that the position would otherwise carry. you\nconcluded by stating that you \"have informed the city council of the intent to submit this\nrequest for advice, and the council has proceeded to make the appointments with the\ncaveat that they are subject to the Commission,s response.,,\nPlease be advised that the Commission will not provide advice with respect to\npast conduct, such as that relating to votes that have already taken place. (Regulation\n18329(bX8)(A), copy enclosed.) As the vote(s) pertaining to the issue raised in yo,r.\nletter has already taken place, the Commission is unable to provide advice on this matter.\nt Govemment Code sections 81000 - 91014. Commission regulations appear at Title 2, sections\nI 8109- 1 8997, of the Califomia Code of Regulations. All statutory references herein are to the Government\nCode unless otherwise indicated. All regulatory references herein are to Title 2 of the California Code of\nRegulations unless otherwise indicated.\n\n\nFor your information, we have enclosed thepamphlet ,.can r yoter' a guide to\npreventing conflicts of interest for public officials. If you have any other q,r\".iio6\nregarding this matter, please contact me at (916) 322-5660.\nSincerely\nLuisa Menchaca\nGeneral Counsel\nBy: William\nCounsel,\nFile No. W-05-027\nPage No. 2\nDivision\nEnclosures\nWJL:rd\nI:\\Adviceltrs W-\\05-027\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2005-03-07",
+    "date_raw": "March 7,2005",
+    "requestor_name": "Peak\nThis",
+    "requestor_title": "City Attorney",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "May a member of the city council vote on his or her own appointment by the city council to a joint powers agency if the member disclaims or waives the stipend that the position would otherwise carry?",
+    "conclusion": "The Commission will not provide advice with respect to past conduct, such as that relating to votes that have already taken place. As the vote(s) pertaining to the issue raised in your letter has already taken place, the Commission is unable to provide advice on this matter.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The City Attorney of San Marcos requests advice on whether city council members can vote on their own appointments to a joint powers agency if they waive the associated stipend, citing the Political Reform Act's conflict of interest provisions.",
+    "conclusion_synthetic": "The FPPC declined to provide advice because the votes in question had already occurred, as FPPC regulations prohibit advice regarding past conduct.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is properly formatted advice letter with clear Question and Conclusion sections. File number is W-05-027 (W prefix indicates withdrawal or declination category). FPPC declined jurisdiction based on regulatory prohibition against advising on past conduct."
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:34:11.999339Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: May a member of the city council vote on his or her own appointment by the city council to a joint powers agency if the member disclaims or waives the stipend that the position would otherwise carry?\n\nCONCLUSION: The Commission will not provide advice with respect to past conduct, such as that relating to votes that have already taken place. As the vote(s) pertaining to the issue raised in your letter has already taken place, the Commission is unable to provide advice on this matter.",
+    "qa_source": "mixed",
+    "first_500_words": "{ Re Farn Por-rrrcal PRACTTcEs C ouurssroN 428 J Street r Suite 620 r Sacramento, CA 95814-2329 (916) 322-5660 r Fax (916) 322-0886 March 7,2005 Helen Holmes Peak, City Attorney City of San Marcos I Civic Center Drive San Marcos, CA 92069-2918 Your Request for Advice Our FiIe No. W-05-027 Dear Ms. Peak This letter is in response to your request for advice regarding the conflict of interest provisions of the Political Reform Act (the \"Act\")l on behalf of the members of the San Marcos City Council. In your letter, you ask if a rnember of the city council may vote on his or her own appointment by the city council to a joint powers agency if the member disclaims or waives the stipend that the position would otherwise carry. you concluded by stating that you \"have informed the city council of the intent to submit this request for advice, and the council has proceeded to make the appointments with the caveat that they are subject to the Commission,s response.,, Please be advised that the Commission will not provide advice with respect to past conduct, such as that relating to votes that have already taken place. (Regulation 18329(bX8)(A), copy enclosed.) As the vote(s) pertaining to the issue raised in yo,r. letter has already taken place, the Commission is unable to provide advice on this matter. t Govemment Code sections 81000 - 91014. Commission regulations appear at Title 2, sections I 8109- 1 8997, of the Califomia Code of Regulations. All statutory references herein are to the Government Code unless otherwise indicated. All regulatory references herein are to Title 2 of the California Code of Regulations unless otherwise indicated. For your information, we have enclosed thepamphlet ,.can r yoter' a guide to preventing conflicts of interest for public officials. If you have any other q,r\".iio6 regarding this matter, please contact me at (916) 322-5660. Sincerely Luisa Menchaca General Counsel By: William Counsel, File No. W-05-027 Page No. 2 Division Enclosures WJL:rd I:\\Adviceltrs W-\\05-027",
+    "summary": "The FPPC declined to advise on whether city council members can vote on their own joint powers agency appointments while waiving stipends because the votes had already taken place and the FPPC does not provide advice on past conduct."
+  }
+}

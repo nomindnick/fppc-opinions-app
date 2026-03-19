@@ -1,0 +1,74 @@
+{
+  "id": "82A179",
+  "year": 1982,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1982/82A179.PDF",
+  "pdf_sha256": "cdad57355e27009fd923cd59bb76132352097b6101e9d28ae95dda2deffb8768",
+  "local_pdf_path": "raw_pdfs/1982/82A179.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1982 Advice Letter # 82A179",
+    "tags": [
+      "1982",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:31:15",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1982&tagCount=1&page=23"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T13:13:56.821353Z",
+    "page_count": 1,
+    "word_count": 110,
+    "char_count": 728,
+    "quality_score": 0.8091021041006673,
+    "olmocr_cost": 0.0025112,
+    "native_word_count": 127
+  },
+  "content": {
+    "full_text": "DATE: October 29, 1982\nAdvice No. M-82-179\n\nTO: Advice Files 82013, 82036, 84206,\n    Jay, Jeanne, Lynn\n\nFROM: Diane Maura Fishburn\n\nRE: Reporting by Federal Candidate's Committees as Major Donors.\n\nIn an advice letter to Jonathan Redding (A-81-034), I concluded that federal candidates' committees did not have to file as recipient committees if they participated in state or local elections.\n\nIt has been brought to our attention that several federal candidates' committees are participating in California elections to the tune of $5,000 and more. In light of this fact and our previous advice, we have determined that these committees must file campaign statements as major donors including late contribution reports.\n\nDMF:km",
+    "full_text_markdown": "DATE: October 29, 1982\nAdvice No. M-82-179\n\nTO: Advice Files 82013, 82036, 84206,\n    Jay, Jeanne, Lynn\n\nFROM: Diane Maura Fishburn\n\nRE: Reporting by Federal Candidate's Committees as Major Donors.\n\nIn an advice letter to Jonathan Redding (A-81-034), I concluded that federal candidates' committees did not have to file as recipient committees if they participated in state or local elections.\n\nIt has been brought to our attention that several federal candidates' committees are participating in California elections to the tune of $5,000 and more. In light of this fact and our previous advice, we have determined that these committees must file campaign statements as major donors including late contribution reports.\n\nDMF:km"
+  },
+  "parsed": {
+    "date": "1982-10-29",
+    "date_raw": "October 29, 1982",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [
+      "A-81-034",
+      "M-82-179"
+    ],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-20T13:13:56.821353Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "DATE: October 29, 1982 Advice No. M-82-179 TO: Advice Files 82013, 82036, 84206, Jay, Jeanne, Lynn FROM: Diane Maura Fishburn RE: Reporting by Federal Candidate's Committees as Major Donors. In an advice letter to Jonathan Redding (A-81-034), I concluded that federal candidates' committees did not have to file as recipient committees if they participated in state or local elections. It has been brought to our attention that several federal candidates' committees are participating in California elections to the tune of $5,000 and more. In light of this fact and our previous advice, we have determined that these committees must file campaign statements as major donors including late contribution reports. DMF:km",
+    "qa_source": "extracted",
+    "first_500_words": "DATE: October 29, 1982 Advice No. M-82-179 TO: Advice Files 82013, 82036, 84206, Jay, Jeanne, Lynn FROM: Diane Maura Fishburn RE: Reporting by Federal Candidate's Committees as Major Donors. In an advice letter to Jonathan Redding (A-81-034), I concluded that federal candidates' committees did not have to file as recipient committees if they participated in state or local elections. It has been brought to our attention that several federal candidates' committees are participating in California elections to the tune of $5,000 and more. In light of this fact and our previous advice, we have determined that these committees must file campaign statements as major donors including late contribution reports. DMF:km",
+    "summary": null
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "01-051",
+  "year": 2001,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2001/01-051.pdf",
+  "pdf_sha256": "594d2d87732596b1a45a90a13330d49e3ccfc14233973f2cccb20c47e7a93e95",
+  "local_pdf_path": "raw_pdfs/2001/01-051.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2001 Advice Letter # 01-051",
+    "tags": [
+      "2001",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:32:59",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2001&tagCount=1&page=3"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T22:24:59.037600Z",
+    "page_count": 1,
+    "word_count": 84,
+    "char_count": 558,
+    "quality_score": 0.7960859090938994,
+    "olmocr_cost": 0.00249486,
+    "native_word_count": 111
+  },
+  "content": {
+    "full_text": "May 3, 2001\n\nRobert Thompson, Deputy General Counsel\nPublic Employment Relations Board\nOffice of the General Counsel\n1031 18th Street\nSacramento, CA 95814-4174\n\nRe: Your Request for Advice\nOur File No. 01-051\n\nDear Mr. Thompson:\n\nPursuant to our phone conversation of April 26, 2001, your request for advice on behalf of Anita Martinez has been withdrawn.\n\nIf you have any other questions regarding this matter, please contact me at (916) 322-5660.\n\nSincerely,\n\nLuisa Menchaca\nGeneral Counsel\n\nBy: Margaret Figeroid\nPolitical Reform Consultant\nLegal Division",
+    "full_text_markdown": "May 3, 2001\n\nRobert Thompson, Deputy General Counsel\nPublic Employment Relations Board\nOffice of the General Counsel\n1031 18th Street\nSacramento, CA 95814-4174\n\nRe: Your Request for Advice\nOur File No. 01-051\n\nDear Mr. Thompson:\n\nPursuant to our phone conversation of April 26, 2001, your request for advice on behalf of Anita Martinez has been withdrawn.\n\nIf you have any other questions regarding this matter, please contact me at (916) 322-5660.\n\nSincerely,\n\nLuisa Menchaca\nGeneral Counsel\n\nBy: Margaret Figeroid\nPolitical Reform Consultant\nLegal Division"
+  },
+  "parsed": {
+    "date": "2001-05-03",
+    "date_raw": "May 3, 2001",
+    "requestor_name": "Thompson",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T22:24:59.037600Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "May 3, 2001 Robert Thompson, Deputy General Counsel Public Employment Relations Board Office of the General Counsel 1031 18th Street Sacramento, CA 95814-4174 Re: Your Request for Advice Our File No. 01-051 Dear Mr. Thompson: Pursuant to our phone conversation of April 26, 2001, your request for advice on behalf of Anita Martinez has been withdrawn. If you have any other questions regarding this matter, please contact me at (916) 322-5660. Sincerely, Luisa Menchaca General Counsel By: Margaret Figeroid Political Reform Consultant Legal Division",
+    "qa_source": "extracted",
+    "first_500_words": "May 3, 2001 Robert Thompson, Deputy General Counsel Public Employment Relations Board Office of the General Counsel 1031 18th Street Sacramento, CA 95814-4174 Re: Your Request for Advice Our File No. 01-051 Dear Mr. Thompson: Pursuant to our phone conversation of April 26, 2001, your request for advice on behalf of Anita Martinez has been withdrawn. If you have any other questions regarding this matter, please contact me at (916) 322-5660. Sincerely, Luisa Menchaca General Counsel By: Margaret Figeroid Political Reform Consultant Legal Division",
+    "summary": null
+  }
+}

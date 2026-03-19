@@ -1,0 +1,71 @@
+{
+  "id": "84151",
+  "year": 1984,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1984/fppc-advice/84151.PDF",
+  "pdf_sha256": "46481cf4e850739a54c35f233e174f9f95505dfabe03a8b97d74069d535aa347",
+  "local_pdf_path": "raw_pdfs/1984/84151.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1984 Advice Letter # 84151",
+    "tags": [
+      "1984",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:34:19",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1984&tagCount=1&page=12"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:46.991432Z",
+    "page_count": 1,
+    "word_count": 241,
+    "char_count": 1498,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 241
+  },
+  "content": {
+    "full_text": "State of California \n!0- g4~ /5/ \nMemorandum \nTo \nAdvice Request Meeting \nDote \nApril 30, 1984 \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nCarla Wardlow \nSubject: \nANSWER: \nRegulation l8423--Personal Services \n1. \nWe have received a request for some guidelines for determining \nwhether an employee has spent 10 percent of his or her compen-\nsated time on political activities. \nFor example, how would a \ncorporate executive who has no set working hours determine if \nshe has spent 10 percent of more of her compensated time on \npolitical activities? \nShould we use a 40-hour week? \nCould she \nuse the average time worked per week for the previous six months \nas a guide? \n2. \nSection 18423 says that the payment of salary, etc .• to an \nemployee who spends more than 10 percent of his or her time \nrendering services for political purposes is a contribution \nif: \n(2) \nThe employee, with consent of the employer, is \nrelieved of any normal working responsibilities related \nto his employment in order to render the personal services, \nunless the employee engages in political activity on a \nbona fide, although compensable, vacation time, or pur-\nsuant to a uniform policy allowing employees to engage \nin political activity. \nWhat does the underscored language mean? \n1. \nAssume that the individual works a 40-hour week, 9 a.m. to \n5 p.m. \n2. \nA \"uniform policy\" means that all employees are allowed to \nspend some amount of their compensable time on political \nactivities of their own choosing. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1984-04-30",
+    "date_raw": "April 30, 1984",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "We have received a request for some guidelines for determining whether an employee has spent 10 percent of his or her compensated time on political activities. For example, how would a corporate executive who has no set working hours determine if she has spent 10 percent of more of her compensated time on political activities? Should we use a 40-hour week? Could she use the average time worked per week for the previous six months as a guide? What does the underscored language mean regarding Section 18423's requirement that an employee be relieved of normal working responsibilities to render personal services for political purposes?",
+    "conclusion": "1. Assume that the individual works a 40-hour week, 9 a.m. to 5 p.m. 2. A \"uniform policy\" means that all employees are allowed to spend some amount of their compensable time on political activities of their own choosing.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "How should employers determine whether an employee has spent more than 10 percent of compensated time on political activities, particularly for employees without set working hours, and what does Section 18423 mean by requiring employees to be relieved of normal working responsibilities unless engaging in political activity on vacation or under a uniform policy?",
+    "conclusion_synthetic": "For determining compensated time spent on political activities, assume a standard 40-hour work week baseline, and a \"uniform policy\" means all employees are permitted to spend some compensable time on political activities of their choice.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document appears to be internal FPPC memorandum to Advice Request Meeting rather than traditional advice letter format; no formal section headers but clear Q&A structure present; conclusion is brief and directive; some regulatory context provided but limited analysis."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:36:46.991432Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: We have received a request for some guidelines for determining whether an employee has spent 10 percent of his or her compensated time on political activities. For example, how would a corporate executive who has no set working hours determine if she has spent 10 percent of more of her compensated time on political activities? Should we use a 40-hour week? Could she use the average time worked per week for the previous six months as a guide? What does the underscored language mean regarding Section 18423's requirement that an employee be relieved of normal working responsibilities to render personal services for political purposes?\n\nCONCLUSION: 1. Assume that the individual works a 40-hour week, 9 a.m. to 5 p.m. 2. A \"uniform policy\" means that all employees are allowed to spend some amount of their compensable time on political activities of their own choosing.",
+    "qa_source": "mixed",
+    "first_500_words": "State of California !0- g4~ /5/ Memorandum To Advice Request Meeting Dote April 30, 1984 From FAIR POLITICAL PRACTICES COMMISSION Carla Wardlow Subject: ANSWER: Regulation l8423--Personal Services 1. We have received a request for some guidelines for determining whether an employee has spent 10 percent of his or her compen- sated time on political activities. For example, how would a corporate executive who has no set working hours determine if she has spent 10 percent of more of her compensated time on political activities? Should we use a 40-hour week? Could she use the average time worked per week for the previous six months as a guide? 2. Section 18423 says that the payment of salary, etc .• to an employee who spends more than 10 percent of his or her time rendering services for political purposes is a contribution if: (2) The employee, with consent of the employer, is relieved of any normal working responsibilities related to his employment in order to render the personal services, unless the employee engages in political activity on a bona fide, although compensable, vacation time, or pur- suant to a uniform policy allowing employees to engage in political activity. What does the underscored language mean? 1. Assume that the individual works a 40-hour week, 9 a.m. to 5 p.m. 2. A \"uniform policy\" means that all employees are allowed to spend some amount of their compensable time on political activities of their own choosing.",
+    "summary": "FPPC memorandum providing guidance on Section 18423 regarding how to calculate whether an employee has spent more than 10 percent of compensated time on political activities and clarifying the meaning of \"uniform policy\" under the personal services contribution rules."
+  }
+}

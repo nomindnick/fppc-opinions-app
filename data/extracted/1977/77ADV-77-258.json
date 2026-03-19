@@ -1,0 +1,71 @@
+{
+  "id": "77ADV-77-258",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-258.PDF",
+  "pdf_sha256": "6ae4a2f89614686f4caea5ff1920c869c1c0b22b14af00e484de0e0d7051f33a",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-258.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-258",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:22:19",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=46"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:16.224116Z",
+    "page_count": 1,
+    "word_count": 243,
+    "char_count": 1435,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 243
+  },
+  "content": {
+    "full_text": "N DIEGO GAS & ELECTRIC COMPANY \nMr. John Giansello \nSAN \n1714) \nJanuary 20, 1977 \nFair Political Practices Commission \n1100 \"K\" Street \nSacramento, California \n95814 \nDear Mr. Giansello: \nOn December 4, 1976, it was brought to your \nattention that state government agencies avail themselves \nof my Company's auditorium facilities from time to time. \nThese facilities are made available to state agencies on \nthe same basis as they are offered to the general public. \nNo charge is levied, but use is conditioned upon agree-\nment that no admission be charged by the user and that \nnothing be sold. \nIn a general sense, permitted gatherings \nmust be of a public service, educational, civic or profes-\nsional nature. \nIt is our position that such a benefit is neither a \n\"gift\" nor a \"payment to influence legislative or adminis-\ntrative action\" for purposes of the Political Reform Act \nof 1974. \nThis conclusion rests on the fact that the transfer \nis made to the agency itself and not to or for the benefit \nof any state official or officer. \nAs I understand our conver-\nsation of December 4, both you and Rich Eichman concur \nwith this result. \nPlease note that this advice will be relied upon, \nand no report will be made to the state of any benefit in \ncases such as those described above. \nShould your position \non this matter change, please advise me. \nThank you. \nflam \nAN INVt S TOH-UVvNrD CUf1PUlfA nON \nyours, \n.. ,-... ~ \n~\\ \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1977-01-20",
+    "date_raw": "January 20, 1977",
+    "requestor_name": "Giansello",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether providing free use of San Diego Gas & Electric Company's auditorium facilities to state government agencies constitutes a gift or payment to influence legislative or administrative action under the Political Reform Act of 1974.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.75,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an incoming request/inquiry from a private company to FPPC, not an FPPC response letter. The document describes a conversation with FPPC staff (Mr. Giansello and Rich Eichman) and requests written confirmation of their alleged verbal agreement. No formal QUESTION or CONCLUSION sections are present; the question and conclusion are embedded in the body text. The company claims reliance on this advice and states no report will be made unless FPPC changes its position."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:16.224116Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether providing free use of San Diego Gas & Electric Company's auditorium facilities to state government agencies constitutes a gift or payment to influence legislative or administrative action under the Political Reform Act of 1974.",
+    "qa_source": "synthetic",
+    "first_500_words": "N DIEGO GAS & ELECTRIC COMPANY Mr. John Giansello SAN 1714) January 20, 1977 Fair Political Practices Commission 1100 \"K\" Street Sacramento, California 95814 Dear Mr. Giansello: On December 4, 1976, it was brought to your attention that state government agencies avail themselves of my Company's auditorium facilities from time to time. These facilities are made available to state agencies on the same basis as they are offered to the general public. No charge is levied, but use is conditioned upon agree- ment that no admission be charged by the user and that nothing be sold. In a general sense, permitted gatherings must be of a public service, educational, civic or profes- sional nature. It is our position that such a benefit is neither a \"gift\" nor a \"payment to influence legislative or adminis- trative action\" for purposes of the Political Reform Act of 1974. This conclusion rests on the fact that the transfer is made to the agency itself and not to or for the benefit of any state official or officer. As I understand our conver- sation of December 4, both you and Rich Eichman concur with this result. Please note that this advice will be relied upon, and no report will be made to the state of any benefit in cases such as those described above. Should your position on this matter change, please advise me. Thank you. flam AN INVt S TOH-UVvNrD CUf1PUlfA nON yours, .. ,-... ~ ~\\",
+    "summary": "San Diego Gas & Electric Company writes to the FPPC seeking confirmation that providing free auditorium facilities to state agencies does not constitute a gift or improper payment under the Political Reform Act, asserting the benefit transfers to the agency itself rather than individual officials."
+  }
+}

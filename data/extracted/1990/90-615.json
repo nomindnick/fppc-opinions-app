@@ -1,0 +1,81 @@
+{
+  "id": "90-615",
+  "year": 1990,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1990/90-615.pdf",
+  "pdf_sha256": "21758e19867ae04dbb858b964adb92de397a43156d33f41b32da5d91c4b61e3b",
+  "local_pdf_path": "raw_pdfs/1990/90-615.pdf",
+  "source_metadata": {
+    "title_raw": "Mims, Rodney Year: 1990 Advice Letter # 90-615",
+    "tags": [
+      "1990",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:11:06",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1990&tagCount=1&page=70"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T17:03:13.097294Z",
+    "page_count": 2,
+    "word_count": 500,
+    "char_count": 3315,
+    "quality_score": 0.9078179681771057,
+    "olmocr_cost": 0.00533716,
+    "native_word_count": 492,
+    "haiku_cost": 0.0059624000000000005
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\n\nNovember 2, 1990\n\n\nRodney Mims\nAlbrecht, Mims & Battle\n1440 Lincoln Street\nOroville, CA 95965-4857\n\nRe: Your Request for\nConfirmation of\nTelephone Advice\nOur File No. I 90-615\n\nDear Mr. Mims:\n\nThis is in response to your request for confirmation of\ntelephone advice I provided you on September 19, 1990, regarding\nthe contribution limits and reporting requirements of the\nPolitical Reform Act (the \"Act\").1 You represent Oroville mayoral\ncandidate Buss Roberts. With the exceptions noted below, your\nletter accurately reflects my advice.\n\nThe Act requires that campaign statements contain the name,\naddress, occupation, and employer of each contributor who\ncontributes over $100 to the campaign. (Section 84211.) Although\nthe campaign statement must contain the total amount of\ncontributions received that were less than $100 (Section\n84420(d)), there is no requirement that the statement identify\nthese small contributors by name. Candidates must, however,\nmaintain records of all contributions over $25. (Regulation\n18401, copy enclosed.)\n\nSince I spoke with you, the contribution limits in the\nPolitical Reform Act have been declared unconstitutional. Service\nEmployees International Union, AFL-CIO, CLC, et al. v. FPPC, (E.D.\n\n_________________________\n1    Government Code Sections 81000-91015. All statutory\nreferences are to the Government Code unless otherwise indicated.\nCommission regulations appear at 2 California Code of Regulations\nSection 18000, et seq. All references to regulations are to\nTitle 2, Division 6 of the California Code of Regulations.\n\n\n428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804-0807 • (916) 322-5660\n\nCalif. 1990) _____ F.Supp._____. Accordingly, state law\ncurrently provides no limits for local candidates.2\n\nThe conflict-of-interest provisions of the Act prohibit a\npublic official from participating in a governmental decision in\nwhich he knows or has reason to know he has a financial interest.\n(Section 87100.) An official has a financial interest in a\ndecision if it is reasonably foreseeable that the decision will\nhave a material financial effect on the official, a member of his\nor her immediate family, any business entity or real property in\nwhich the official has an investment of $1,000 or more, or any\nsource of income or gifts totaling $250 or more. Income and gifts\ndo not include contributions. (Section 82030 and 82028.)\nTherefore, the mere fact that a person has given a campaign\ncontribution to the mayor will not require the mayor to disqualify\nhimself from a governmental decision affecting that person.3\n\nI trust this letter has provided you with the guidance you\nrequested. If you have any further questions regarding this\nmatter, please contact me at (916) 322-5901.\n\nSincerely,\n\nScott Hallabrin\nActing General Counsel\n\nBy: Peggy Bernardy\nCounsel, Legal Division\n\nSH:PB:dg\n\n2     Local ordinances establishing limits were not challenged in\nthe federal lawsuit, however, and you should consult with the city\nattorney concerning the current viability of any local ordinances.\n\n3     Please be aware, however, that if the mayor is serving as an\nappointed member of a governmental agency, a contribution of $250\ncould bar him from participating in certain governmental\ndecisions. (Section 84308.)",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1990-11-02",
+    "date_raw": "November 2, 1990",
+    "requestor_name": "Mims",
+    "requestor_title": "city attorney",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "82030",
+      "84211",
+      "84211(d)",
+      "84308",
+      "87100"
+    ],
+    "regulations": [
+      "18401"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-19T22:46:48.236341Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "**California Fair Political Practices Commission** November 2, 1990 Rodney Mims Albrecht, Mims & Battle 1440 Lincoln Street Oroville, CA 95965-4857 Re: Your Request for Confirmation of Telephone Advice Our File No. I 90-615 Dear Mr. Mims: This is in response to your request for confirmation of telephone advice I provided you on September 19, 1990, regarding the contribution limits and reporting requirements of the Political Reform Act (the \"Act\").1 You represent Oroville mayoral candidate Buss Roberts. With the exceptions noted below, your letter accurately reflects my advice. The Act requires that campaign statements contain the name, address, occupation, and employer of each contributor who contributes over $100 to the campaign. (Section 84211.) Although the campaign statement must contain the total amount of contributions received that were less than $100 (Section 84211(d)), there is no requirement that the statement identify these small contributors by name. Candidates must, however, maintain records of all contributions over $25. (Regulation 18401, copy enclosed.) Since I spoke with you, the contribution limits in the Political Reform Act have been declared unconstitutional. Service Employees International Union, AFL-CIO, CLC, et al. v. FPPC, (E.D. --- 1 Government Code Sections 81000-91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations Section 18000, et seq. All references to regulations are to Title 2, Division 6 of the California Code of Regulations. Calif. 1990) _____ F.Supp._____. Accordingly, state law currently provides no limits for local candidates. The conflict-of-interest provisions of the Act prohibit a public official from participating in a governmental decision in which he knows or has reason to know he has a financial interest. (Section 87100.) An official has a financial interest in a decision if it is reasonably foreseeable that the decision will have a material financial effect on the official, a member of his or her immediate family, any business entity or real property in which the official has an investment of $1,000 or more, or any source of income or gifts totaling $250 or more. Income and gifts do not include contributions. (Section 82030 and 82028.) Therefore, the mere fact that a person has given a campaign contribution to the mayor will not require the mayor to disqualify himself from a governmental decision affecting that person. I trust this letter has provided you with the guidance you requested. If you have any further questions regarding this matter, please contact me at (916) 322-5901. Sincerely, Scott Hallabrin Acting General Counsel By: Peggy Bernardy Counsel, Legal Division SH:PB:dg 2 Local ordinances establishing limits were not challenged in the federal lawsuit, however, and you should consult with the city attorney concerning the current viability of any local ordinances. 3 Please be aware, however, that if the mayor is serving as an appointed member of a governmental agency, a contribution of $250 could bar him from participating in certain governmental decisions. (Section 84308.)",
+    "qa_source": "extracted",
+    "first_500_words": "**California Fair Political Practices Commission** November 2, 1990 Rodney Mims Albrecht, Mims & Battle 1440 Lincoln Street Oroville, CA 95965-4857 Re: Your Request for Confirmation of Telephone Advice Our File No. I 90-615 Dear Mr. Mims: This is in response to your request for confirmation of telephone advice I provided you on September 19, 1990, regarding the contribution limits and reporting requirements of the Political Reform Act (the \"Act\").1 You represent Oroville mayoral candidate Buss Roberts. With the exceptions noted below, your letter accurately reflects my advice. The Act requires that campaign statements contain the name, address, occupation, and employer of each contributor who contributes over $100 to the campaign. (Section 84211.) Although the campaign statement must contain the total amount of contributions received that were less than $100 (Section 84211(d)), there is no requirement that the statement identify these small contributors by name. Candidates must, however, maintain records of all contributions over $25. (Regulation 18401, copy enclosed.) Since I spoke with you, the contribution limits in the Political Reform Act have been declared unconstitutional. Service Employees International Union, AFL-CIO, CLC, et al. v. FPPC, (E.D. --- 1 Government Code Sections 81000-91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations Section 18000, et seq. All references to regulations are to Title 2, Division 6 of the California Code of Regulations. Calif. 1990) _____ F.Supp._____. Accordingly, state law currently provides no limits for local candidates. The conflict-of-interest provisions of the Act prohibit a public official from participating in a governmental decision in which he knows or has reason to know he has a financial interest. (Section 87100.) An official has a financial interest in a decision if it is reasonably foreseeable that the decision will have a material financial effect on the official, a member of his or her immediate family, any business entity or real property in which the official has an investment of $1,000 or more, or any source of income or gifts totaling $250 or more. Income and gifts do not include contributions. (Section 82030 and 82028.) Therefore, the mere fact that a person has given a campaign contribution to the mayor will not require the mayor to disqualify himself from a governmental decision affecting that person. I trust this letter has provided you with the guidance you requested. If you have any further questions regarding this matter, please contact me at (916) 322-5901. Sincerely, Scott Hallabrin Acting General Counsel By: Peggy Bernardy Counsel, Legal Division SH:PB:dg 2 Local ordinances establishing limits were not challenged in the federal lawsuit, however, and you should consult with the city attorney concerning the current viability of any local ordinances. 3 Please be aware, however, that if the mayor is serving as an appointed member of a governmental agency, a contribution of $250 could bar him from participating in certain governmental decisions. (Section 84308.)",
+    "summary": null
+  }
+}

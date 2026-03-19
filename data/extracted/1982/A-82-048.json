@@ -1,0 +1,77 @@
+{
+  "id": "A-82-048",
+  "year": 1982,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1982/82A048.PDF",
+  "pdf_sha256": "da6376fd70a7e8de3ec7ac8a499aba80d460c7bf6a04a1223d1ac37c3b4fee61",
+  "local_pdf_path": "raw_pdfs/1982/82A048.PDF",
+  "source_metadata": {
+    "title_raw": "Don Lindberg - A-82-048 - march 10, 1982 - Chula Vista",
+    "tags": [
+      "1982",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:29:39",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1982&tagCount=1"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T01:17:42.427284Z",
+    "page_count": 2,
+    "word_count": 402,
+    "char_count": 2719,
+    "quality_score": 0.9071099090593782,
+    "olmocr_cost": 0.00514108,
+    "native_word_count": 0,
+    "haiku_cost": 0.005272000000000001
+  },
+  "content": {
+    "full_text": "State of California\nFair Political Practices Commission\nP.O. BOX 807 • SACRAMENTO, 95804 • •• 1100 K STREET BUILDING, SACRAMENTO, 95814\nTechnical Assistance • • Administration • • Executive/Legal • • Enforcement • • Statement of Economic Interest\n(916) 322-5660        322-5660          322-5901          322-6441          322-6444\n\nMarch 10, 1982\n\n\nDon Lindberg\nChula Vista City Attorney's\nOffice\nP.O. Box 1087\nChula Vista, CA 92012\n\nDear Mr. Lindberg:\n\nThank you for your telephone call requesting information\non the Political Reform Act. Your question was whether the\nmayor of Chula Vista can assume a position as the director\nof the Chula Vista Economic Development Corporation (\"EDC\").\nHe will be paid approximately $18,000 per year. It is my\nunderstanding that this is a private organization and not a\ngovernment entity.\n\nAs we discussed, the Act does not prevent the mayor\nfrom accepting this position. The Act only deals with his\ndecision-making as mayor. The Act requires public officials\nto disqualify themselves from making, or participating in\nthe making, of a governmental decision in which he knows or\nhas reason to know he has a financial interest. (Government\nCode Section 87100.-/) An official has a financial interest\nin a decision if it is reasonably foreseeable that the decision\nwill have a material financial effect on a source of income\nto the official. (Section 87103(c).)\n\nIf the Mayor accepts this position, the EDC will become\na source of income to him of over $250. (See Section 82030.)\nThe mayor must then disqualify himself from participating in\ndecisions which have a reasonably foreseeable material financial\neffect on this source of income.\n\nThis advice is based on the assumption that the mayor's\nsalary is paid by EDC, and that EDC is not a government\nagency. However, if EDC is in fact a government agency,\nthen this salary is excluded from the definition of \"income.\"\nIn that case, the fact that the mayor received the income\nwould not prohibit him from participating in decisions in-\nvolving the EDC. (See Section 82030(b)(2).)\n\nDon Lindberg\nMarch 10, 1982\nPage Two\n\n\n     I am enclosing a copy of the Siegel Opinion, 3 FPPC 62,\nwhich provides guidance in determining whether an entity\nconstitutes a \"local government agency.\"  Additionally, I am\nsending copies of two Attorney General opinions that consider\nthe \"incompatibility doctrine,\" and copies of two past advice\nletters that I feel would be helpful.\n\n                                    Very truly yours,\n\n                                    [signature]\n                                    Janis Shank McLean\n                                    Counsel\n                                    Legal Division\n\nJSM:km\nEnclosures",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1982-03-10",
+    "date_raw": "March 10, 1982",
+    "requestor_name": "Lindberg",
+    "requestor_title": "City Attorney",
+    "requestor_city": "Chula Vista",
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Whether the mayor of Chula Vista can assume a position as the director of the Chula Vista Economic Development Corporation (EDC) while receiving approximately $18,000 per year, with the understanding that EDC is a private organization and not a government entity.",
+    "conclusion": "The Act does not prevent the mayor from accepting this position. The Act only deals with his decision-making as mayor. If the Mayor accepts this position, the EDC will become a source of income to him of over $250, and the mayor must then disqualify himself from participating in decisions which have a reasonably foreseeable material financial effect on this source of income. However, if EDC is in fact a government agency, then this salary is excluded from the definition of \"income,\" and the mayor would not be prohibited from participating in decisions involving the EDC.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Can a city mayor serve as director of a private economic development corporation and receive compensation without violating the Political Reform Act?",
+    "conclusion_synthetic": "The mayor may accept the EDC director position, but must disqualify himself from decisions affecting the EDC as a source of income, unless the EDC is determined to be a government agency, in which case the income exclusion applies.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Standard advice letter format. Question and conclusion sections present in narrative form rather than as labeled sections. Clear legal analysis with conditional conclusions based on EDC classification. Document includes reference materials enclosed with letter."
+  },
+  "citations": {
+    "government_code": [
+      "82030",
+      "82030(b)(2)",
+      "87100",
+      "87103(c)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T16:25:24.895775Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether the mayor of Chula Vista can assume a position as the director of the Chula Vista Economic Development Corporation (EDC) while receiving approximately $18,000 per year, with the understanding that EDC is a private organization and not a government entity.\n\nCONCLUSION: The Act does not prevent the mayor from accepting this position. The Act only deals with his decision-making as mayor. If the Mayor accepts this position, the EDC will become a source of income to him of over $250, and the mayor must then disqualify himself from participating in decisions which have a reasonably foreseeable material financial effect on this source of income. However, if EDC is in fact a government agency, then this salary is excluded from the definition of \"income,\" and the mayor would not be prohibited from participating in decisions involving the EDC.",
+    "qa_source": "mixed",
+    "first_500_words": "March 10, 1982 Don Lindberg Chula Vista City Attorney's Office P.O. Box 1087 Chula Vista, CA 92012 Dear Mr. Lindberg: Thank you for your telephone call requesting information on the Political Reform Act. Your question was whether the mayor of Chula Vista can assume a position as the director of the Chula Vista Economic Development Corporation (\"EDC\"). He will be paid approximately $18,000 per year. It is my understanding that this is a private organization and not a government entity. As we discussed, the Act does not prevent the mayor from accepting this position. The Act only deals with his decision-making as mayor. The Act requires public officials to disqualify themselves from making, or participating in the making, of a governmental decision in which he knows or has reason to know he has a financial interest. (Government Code Section 87100.) An official has a financial interest in a decision if it is reasonably foreseeable that the decision will have a material financial effect on a source of income to the official. (Section 87103(c).) If the Mayor accepts this position, the EDC will become a source of income to him of over $250. (See Section 82030.) The mayor must then disqualify himself from participating in decisions which have a reasonably foreseeable material financial effect on this source of income. This advice is based on the assumption that the mayor's salary is paid by EDC, and that EDC is not a government agency. However, if EDC is in fact a government agency, then this salary is excluded from the definition of \"income.\" In that case, the fact that the mayor received the income would not prohibit him from participating in decisions involving the EDC. (See Section 82030(b)(2).) Don Lindberg March 10, 1982 Page Two I am enclosing a copy of the Siegel Opinion, 3 FPPC 62, which provides guidance in determining whether an entity constitutes a \"local government agency.\" Additionally, I am sending copies of two Attorney General opinions that consider the \"incompatibility doctrine,\" and copies of two past advice letters that I feel would be helpful. Very truly yours, Janis Shank McLean Counsel Legal Division JSM:km Enclosures",
+    "summary": "FPPC advises that a city mayor may serve as director of a private economic development corporation receiving $18,000 annually, but must disqualify himself from governmental decisions affecting this income source. The analysis hinges on whether the EDC is classified as a private or government entity."
+  }
+}

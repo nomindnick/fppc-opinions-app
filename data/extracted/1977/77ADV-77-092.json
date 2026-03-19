@@ -1,0 +1,71 @@
+{
+  "id": "77ADV-77-092",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-092.PDF",
+  "pdf_sha256": "4dd22e2feaff996aa14359e1c365539e5625054dab8ce1a74380e623a412ba48",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-092.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-092",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:19:58",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=14"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:12.929892Z",
+    "page_count": 1,
+    "word_count": 254,
+    "char_count": 1595,
+    "quality_score": 0.635,
+    "olmocr_cost": null,
+    "native_word_count": 254
+  },
+  "content": {
+    "full_text": "State of Cr.dlfornia \nMemorandum \nTo \nFile \nDate \n:Jan. 20, 1977 \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nSU~Kh Telephone conversation with Pat Kennedy, staff member of \nthe Republican Caucus. \nIn a telephone conversation today with Mr. Kennedy I gave \nhim the following advice based on the following facts. \nHe \nindicated that Paul Bannai is going to attend a fund-raiser \nfor Senator Hayakawa and that Mr. Bannai's campaign com-\nmittee is going to purchase tickets, both for Mr. Bannai \nand his wife. \nMr. Kennedy inquired about the appropriate \nway to report the transaction. \nAfter discussing with him the reporting standards under the \nWillie Brown opinion and the Janet Gray Hayes opinion, I \nindicated to him that in this instance the appropriate way \nto report the transaction would be as an expenditure by the \ncampaign committee. \nI indicated that because attendance at \nthe function was essentially a political matter, the payment \nby the campaign committee would not be a gift to Mr. Bannai \nthat would have to be reported on his Statement of Economic \nInterests. \nAlso, I indicated that although the committee \nmay be making a gift to Mrs. Bannai, this would not create any \nreporting obligation either because she does not have to file \nStatements of Economic Interests and the separate gift to her \ndoes not create any reporting obligation for Mr. Bannai. \nTo reiterate, I informed Mr. Kennedy that the only reporting \nobligation would be the obligation of the campaign committee \nto report the expenditure for the fund-raiser on the commit-\ntee's campaign statement. \nKF: jo \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "How should a candidate's campaign committee report the purchase of tickets to a political fund-raiser for the candidate and their spouse?",
+    "conclusion_synthetic": "The campaign committee should report the ticket purchases as an expenditure on the committee's campaign statement. The payment is not a reportable gift to the candidate because attendance is a political matter, and no separate reporting obligation exists for the spouse's ticket.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Memorandum format rather than formal advice letter. No formal QUESTION or CONCLUSION sections; advice given via telephone conversation and documented in memo. References Willie Brown opinion and Janet Gray Hayes opinion as precedent. Document lacks traditional section headers but clearly conveys FPPC guidance on reporting obligations."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:12.929892Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: How should a candidate's campaign committee report the purchase of tickets to a political fund-raiser for the candidate and their spouse?\n\nCONCLUSION: The campaign committee should report the ticket purchases as an expenditure on the committee's campaign statement. The payment is not a reportable gift to the candidate because attendance is a political matter, and no separate reporting obligation exists for the spouse's ticket.",
+    "qa_source": "synthetic",
+    "first_500_words": "State of Cr.dlfornia Memorandum To File Date :Jan. 20, 1977 From FAIR POLITICAL PRACTICES COMMISSION SU~Kh Telephone conversation with Pat Kennedy, staff member of the Republican Caucus. In a telephone conversation today with Mr. Kennedy I gave him the following advice based on the following facts. He indicated that Paul Bannai is going to attend a fund-raiser for Senator Hayakawa and that Mr. Bannai's campaign com- mittee is going to purchase tickets, both for Mr. Bannai and his wife. Mr. Kennedy inquired about the appropriate way to report the transaction. After discussing with him the reporting standards under the Willie Brown opinion and the Janet Gray Hayes opinion, I indicated to him that in this instance the appropriate way to report the transaction would be as an expenditure by the campaign committee. I indicated that because attendance at the function was essentially a political matter, the payment by the campaign committee would not be a gift to Mr. Bannai that would have to be reported on his Statement of Economic Interests. Also, I indicated that although the committee may be making a gift to Mrs. Bannai, this would not create any reporting obligation either because she does not have to file Statements of Economic Interests and the separate gift to her does not create any reporting obligation for Mr. Bannai. To reiterate, I informed Mr. Kennedy that the only reporting obligation would be the obligation of the campaign committee to report the expenditure for the fund-raiser on the commit- tee's campaign statement. KF: jo",
+    "summary": "FPPC staff advised on the proper reporting treatment for a campaign committee's purchase of fund-raiser tickets for a candidate and spouse, concluding the transaction should be reported solely as a committee expenditure."
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "04-051",
+  "year": 2004,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2004/04-051.pdf",
+  "pdf_sha256": "f9d73b793df367d0af77f89400bcb0f823b627d6f1843563a9d87d132ad6ceeb",
+  "local_pdf_path": "raw_pdfs/2004/04-051.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2004 Advice Letter # 04-051",
+    "tags": [
+      "2004",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:41:28",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2004&tagCount=1&page=20"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:18.080458Z",
+    "page_count": 2,
+    "word_count": 278,
+    "char_count": 1793,
+    "quality_score": 0.515,
+    "olmocr_cost": null,
+    "native_word_count": 278
+  },
+  "content": {
+    "full_text": "Re\nFarn PorrucAI- PRACTTcES CouvrrssroN\n428 J Street o Suite 620 o Sacramento, CA 95814-2329\n(916) 322-5660 o Fax (916) 322-0886\nMarch 23,2004\nBrad W. Constantine, CPA\nBartig, Basler & Ray\n1520 Eureka Road, Suite 100\nRoseville, CA9566l\nYour Request for Advice\nOur File No. W-04-051\nDear Mr. Constantine:\nThis letter is in response to your request for advice regarding the statement of\neconomic interests provisions of the political Reform Act (the..Act).t\nYou are asking if you are a consultant under the provisions of the Act requiring\nyou to complete the statement of economic interests (Form 700) under the conflict of\ninterest code for the Napa County Flood Control and Water Conservation District. We\nare declining to provide this advice.\nThe determination that you met the criteria of a consultant under the Act was\nmade by the Napa County Flood Control and Water Conservation District. your recourse\nI Government Code sections 81000 - 91014. Commission regulations appeuat Title 2, sections\n18109-18997, of the California Code of Regulations.\n\n\nFile No. W-04-051\nPage No. 2\nis with that agency, followed by a request to the Napa County Board of Supervisors, the\ndistrict's code reviewing body.2\nIf you have any other questions regarding this matter, please contact me at (916)\n322-5660.\nSincerely,\nLuisa Menchaca\nGeneral Counsel\ni\nBy:\nJeanette E. Turvill\nPolitical Reform Consultant\nTechnical Assistance Division\nEnclosure\nJErjg\nI:\\Adviceltrs\\04-051\nEnclosure\nzwhen the Commission is not the code reviewing body for an agency's conflict of interest code,\nan individual seeking an interpretation of the code or its application must frsi request a determination from\nthe agency and the code reviewing body for such conflict of interest code. (Reguiation 18329.5(a)(3)(B),\ncopy enclosed.)\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2004-03-23",
+    "date_raw": "March 23,2004",
+    "requestor_name": "Constantine",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "You are asking if you are a consultant under the provisions of the Act requiring you to complete the statement of economic interests (Form 700) under the conflict of interest code for the Napa County Flood Control and Water Conservation District.",
+    "conclusion": "We are declining to provide this advice. The determination that you met the criteria of a consultant under the Act was made by the Napa County Flood Control and Water Conservation District. Your recourse is with that agency, followed by a request to the Napa County Board of Supervisors, the district's code reviewing body.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether the requestor qualifies as a consultant under the Political Reform Act and must file a Statement of Economic Interests (Form 700) for the Napa County Flood Control and Water Conservation District.",
+    "conclusion_synthetic": "The FPPC declines to provide advice, stating that the Napa County Flood Control and Water Conservation District has already made the determination regarding consultant status. The requestor's recourse is to appeal to that agency and then to the Napa County Board of Supervisors as the code reviewing body.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is a declination letter (W-04-051). Document contains clear QUESTION and CONCLUSION sections. The FPPC declines jurisdiction because the determination was made by the local agency, not the FPPC, and regulatory procedures require the requestor to exhaust local remedies first."
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [
+      "18109"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:34:18.080458Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: You are asking if you are a consultant under the provisions of the Act requiring you to complete the statement of economic interests (Form 700) under the conflict of interest code for the Napa County Flood Control and Water Conservation District.\n\nCONCLUSION: We are declining to provide this advice. The determination that you met the criteria of a consultant under the Act was made by the Napa County Flood Control and Water Conservation District. Your recourse is with that agency, followed by a request to the Napa County Board of Supervisors, the district's code reviewing body.",
+    "qa_source": "mixed",
+    "first_500_words": "Re Farn PorrucAI- PRACTTcES CouvrrssroN 428 J Street o Suite 620 o Sacramento, CA 95814-2329 (916) 322-5660 o Fax (916) 322-0886 March 23,2004 Brad W. Constantine, CPA Bartig, Basler & Ray 1520 Eureka Road, Suite 100 Roseville, CA9566l Your Request for Advice Our File No. W-04-051 Dear Mr. Constantine: This letter is in response to your request for advice regarding the statement of economic interests provisions of the political Reform Act (the..Act).t You are asking if you are a consultant under the provisions of the Act requiring you to complete the statement of economic interests (Form 700) under the conflict of interest code for the Napa County Flood Control and Water Conservation District. We are declining to provide this advice. The determination that you met the criteria of a consultant under the Act was made by the Napa County Flood Control and Water Conservation District. your recourse I Government Code sections 81000 - 91014. Commission regulations appeuat Title 2, sections 18109-18997, of the California Code of Regulations. File No. W-04-051 Page No. 2 is with that agency, followed by a request to the Napa County Board of Supervisors, the district's code reviewing body.2 If you have any other questions regarding this matter, please contact me at (916) 322-5660. Sincerely, Luisa Menchaca General Counsel i By: Jeanette E. Turvill Political Reform Consultant Technical Assistance Division Enclosure JErjg I:\\Adviceltrs\\04-051 Enclosure zwhen the Commission is not the code reviewing body for an agency's conflict of interest code, an individual seeking an interpretation of the code or its application must frsi request a determination from the agency and the code reviewing body for such conflict of interest code. (Reguiation 18329.5(a)(3)(B), copy enclosed.)",
+    "summary": "The FPPC declines to advise whether a CPA qualifies as a consultant requiring Form 700 filing under the Napa County Flood Control and Water Conservation District's conflict of interest code, directing the requestor instead to challenge the district's determination with the agency and the Board of Supervisors."
+  }
+}

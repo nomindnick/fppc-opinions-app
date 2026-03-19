@@ -1,0 +1,71 @@
+{
+  "id": "10-070",
+  "year": 2010,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2010/10-070.pdf",
+  "pdf_sha256": "0607909a33fa6cfe68b47a7e630578e0e65710529c98eb7b515f52ee60204bfb",
+  "local_pdf_path": "raw_pdfs/2010/10-070.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2010 Advice Letter # 10-070",
+    "tags": [
+      "2010",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:51:41",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2010&tagCount=1&page=10"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T21:38:45.849325Z",
+    "page_count": 1,
+    "word_count": 80,
+    "char_count": 505,
+    "quality_score": 0.7660795018120842,
+    "olmocr_cost": 0.00249142,
+    "native_word_count": 103
+  },
+  "content": {
+    "full_text": "May 4, 2010\n\nTrent Benedetti, CPA\n2151 S. College Drive, Suite 101\nSanta Maria, CA 93455-1304\n\nRe: Your Request for Advice\nOur File No. W-10-070\n\nDear Mr. Benedetti:\n\nThis letter is to notify you that we have withdrawn the above captioned request for advice per our telephone conversation on April 28, 2010.\n\nIf you have any questions, feel free to call me at (916) 322-5660.\n\nSincerely,\n\nScott Hallabrin\nGeneral Counsel\n\nBy: Sandy Johnson\nPolitical Reform Consultant\nTechnical Assistance Division\n\nSJ:jgl",
+    "full_text_markdown": "May 4, 2010\n\nTrent Benedetti, CPA\n2151 S. College Drive, Suite 101\nSanta Maria, CA 93455-1304\n\nRe: Your Request for Advice\nOur File No. W-10-070\n\nDear Mr. Benedetti:\n\nThis letter is to notify you that we have withdrawn the above captioned request for advice per our telephone conversation on April 28, 2010.\n\nIf you have any questions, feel free to call me at (916) 322-5660.\n\nSincerely,\n\nScott Hallabrin\nGeneral Counsel\n\nBy: Sandy Johnson\nPolitical Reform Consultant\nTechnical Assistance Division\n\nSJ:jgl"
+  },
+  "parsed": {
+    "date": "2010-05-04",
+    "date_raw": "May 4, 2010",
+    "requestor_name": "Benedetti",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T21:38:45.849325Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "May 4, 2010 Trent Benedetti, CPA 2151 S. College Drive, Suite 101 Santa Maria, CA 93455-1304 Re: Your Request for Advice Our File No. W-10-070 Dear Mr. Benedetti: This letter is to notify you that we have withdrawn the above captioned request for advice per our telephone conversation on April 28, 2010. If you have any questions, feel free to call me at (916) 322-5660. Sincerely, Scott Hallabrin General Counsel By: Sandy Johnson Political Reform Consultant Technical Assistance Division SJ:jgl",
+    "qa_source": "extracted",
+    "first_500_words": "May 4, 2010 Trent Benedetti, CPA 2151 S. College Drive, Suite 101 Santa Maria, CA 93455-1304 Re: Your Request for Advice Our File No. W-10-070 Dear Mr. Benedetti: This letter is to notify you that we have withdrawn the above captioned request for advice per our telephone conversation on April 28, 2010. If you have any questions, feel free to call me at (916) 322-5660. Sincerely, Scott Hallabrin General Counsel By: Sandy Johnson Political Reform Consultant Technical Assistance Division SJ:jgl",
+    "summary": null
+  }
+}

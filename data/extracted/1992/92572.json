@@ -1,0 +1,71 @@
+{
+  "id": "92572",
+  "year": 1992,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1992/92572.pdf",
+  "pdf_sha256": "c2f73615be986cadc2b6458ad735b627ab1bbff0b6510433160de6369b0257a5",
+  "local_pdf_path": "raw_pdfs/1992/92572.pdf",
+  "source_metadata": {
+    "title_raw": "Edgerton, Wallace Year: 1992 Advice Letter # 92572",
+    "tags": [
+      "Advice Letter",
+      "1992"
+    ],
+    "scraped_at": "2026-01-31 16:30:41",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1992&tagCount=1&page=105"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:20.856065Z",
+    "page_count": 1,
+    "word_count": 320,
+    "char_count": 1983,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 320
+  },
+  "content": {
+    "full_text": "WALLACE EDGERTON 805 Coronado Avenue, Long Beach CA 90804\nAugust 12, 1992\nState of California Fair Political Practices Commission \nFDFC\nPost Office Box 807 Attention: Blanca Breeze \nAU$ 1 I ,ggz\nSacramento, California 9581 2\ni'\nDear Ms. Breeze\nI am requesting an opinion in ivritir-rg regarding are telephone conversation of 817192\nabout the definition of surplus campaign funds.\nMy term ended on July 20th (midnight) 1992. Surplus funds would begin at the end of\nthe post election reporcing period covering my term in of{ice (\"my defeat\") which\nended July 2fth.\nSince the reporting period covering July 20th has not occurred, I wish to roll my\ncampaign funds into another re-election campaign fund. This campaign fund would be\ntreated as a campaign fund not as surplus funds.\nThis issue seems to be made clear in the California Election Code, Chapter 5, 12400.\nuse of surplus campaign funds: \"...or at the end of the post election reporting period\nfollowing the defeat of the candidate... whichever occurs last...\" the operative term\nwould appear to be following the \"defeat\" - which must mean last day in office-\notherwise one could be confused between the primary and general election, either one\nperhaps being the cause of the defeat. Further confusion could arise because of\ndifferent dates for primaries-and lastly,the absurdity of referring to a campaign repoftint\nperiod as surplus funds when in fact it covered a portion of incumbency. The latter\nwould occur with me if the reporting period were used which ended June 31, 1992,\nleaving another 20 days of incumbency unaccounted for.\nI also note that under #87204, (Leaving Office) that my disclosure statement is not due\nuntil August 20, 1992,30 days after my incumbency.\nYour kind and prompt attention to this matter would be gratefully appreciated-since my\nre-election committee is concerned that I not proceed without the written\nconfirmation of the conclusion we reached during our telephone conversation of\nAugust 7th.\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1992-08-12",
+    "date_raw": "August 12, 1992",
+    "requestor_name": "Breeze",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "I am requesting an opinion in writing regarding are telephone conversation of 8/7/92 about the definition of surplus campaign funds. My term ended on July 20th (midnight) 1992. Surplus funds would begin at the end of the post election reporting period covering my term in office (\"my defeat\") which ended July 20th. Since the reporting period covering July 20th has not occurred, I wish to roll my campaign funds into another re-election campaign fund. This campaign fund would be treated as a campaign fund not as surplus funds.",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Can a candidate whose term ended on July 20, 1992, roll campaign funds into a re-election campaign fund rather than treating them as surplus funds, based on the timing of post-election reporting periods under California Election Code Section 12400?",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an incoming request letter from a candidate to FPPC, not an FPPC response. No formal QUESTION or CONCLUSION sections are present. The requestor references a prior telephone conversation with Ms. Blanca Breeze on August 7, 1992, and seeks written confirmation. Document contains legal citations to California Election Code sections 12400 and 87204."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:35:20.856065Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: I am requesting an opinion in writing regarding are telephone conversation of 8/7/92 about the definition of surplus campaign funds. My term ended on July 20th (midnight) 1992. Surplus funds would begin at the end of the post election reporting period covering my term in office (\"my defeat\") which ended July 20th. Since the reporting period covering July 20th has not occurred, I wish to roll my campaign funds into another re-election campaign fund. This campaign fund would be treated as a campaign fund not as surplus funds.",
+    "qa_source": "mixed",
+    "first_500_words": "WALLACE EDGERTON 805 Coronado Avenue, Long Beach CA 90804 August 12, 1992 State of California Fair Political Practices Commission FDFC Post Office Box 807 Attention: Blanca Breeze AU$ 1 I ,ggz Sacramento, California 9581 2 i' Dear Ms. Breeze I am requesting an opinion in ivritir-rg regarding are telephone conversation of 817192 about the definition of surplus campaign funds. My term ended on July 20th (midnight) 1992. Surplus funds would begin at the end of the post election reporcing period covering my term in of{ice (\"my defeat\") which ended July 2fth. Since the reporting period covering July 20th has not occurred, I wish to roll my campaign funds into another re-election campaign fund. This campaign fund would be treated as a campaign fund not as surplus funds. This issue seems to be made clear in the California Election Code, Chapter 5, 12400. use of surplus campaign funds: \"...or at the end of the post election reporting period following the defeat of the candidate... whichever occurs last...\" the operative term would appear to be following the \"defeat\" - which must mean last day in office- otherwise one could be confused between the primary and general election, either one perhaps being the cause of the defeat. Further confusion could arise because of different dates for primaries-and lastly,the absurdity of referring to a campaign repoftint period as surplus funds when in fact it covered a portion of incumbency. The latter would occur with me if the reporting period were used which ended June 31, 1992, leaving another 20 days of incumbency unaccounted for. I also note that under #87204, (Leaving Office) that my disclosure statement is not due until August 20, 1992,30 days after my incumbency. Your kind and prompt attention to this matter would be gratefully appreciated-since my re-election committee is concerned that I not proceed without the written confirmation of the conclusion we reached during our telephone conversation of August 7th.",
+    "summary": "Wallace Edgerton requests written FPPC advice regarding the treatment of campaign funds following the end of his term in office on July 20, 1992, seeking clarification on whether funds can be rolled into a re-election campaign rather than treated as surplus funds."
+  }
+}

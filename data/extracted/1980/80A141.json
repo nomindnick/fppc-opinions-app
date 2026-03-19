@@ -1,0 +1,71 @@
+{
+  "id": "80A141",
+  "year": 1980,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1980/80A141.PDF",
+  "pdf_sha256": "a226e73e4eb74b9ad0b6caf3478b6647b02f5ea71b2b925a1d9e7e0f6bb7ee6e",
+  "local_pdf_path": "raw_pdfs/1980/80A141.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1980 Advice Letter # 80A141",
+    "tags": [
+      "1980",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:27:28",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1980&tagCount=1&page=8"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:03.930036Z",
+    "page_count": 2,
+    "word_count": 402,
+    "char_count": 2556,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 402
+  },
+  "content": {
+    "full_text": "March 7, 1980 \nE.T. Jaco:':'s \ncertifiad Public .Accountant \nE.T. Jacobs, Accountancy Corporation \n3610 Central Aven~e, Suite 600 \nRi~r.ida, CA \n92506 \nO:..ar Mr. Jacobs: \n... \nThank you .for your letter of February 5, 1980, in which you asked. \nabout the proper reportinq by 4 political campaign committee tor \nthe purche.se of shares in a municipal bond t...-ust. \n'l'h.is latter \nwill conlir.m my phone conversa~o~ with Jan Knight of your office \non 3/3/30. \nThe purchase of certificate' a of depos'i 1:,# stccks, shares in a \nmunicipal bond trtust or any other asset that can be readily con-\nverted to cash should not be report~ as expenditures, nor should \n~~e committee'. cash balance be reduced by ~~iachange in as •• ts. \nAt -the time the asa~-:: is converted back. to cash, any increaa. or \n&ecreaae to ~~o asset value should be reported 83 a misc~llaneous \nadjustment to cash on the conui ttae campaign statement. \nIf I can be of further assi:::tance plaaso contact ma. \nbec: \nHelen Arriola \nSincerely \nJ. Rcchard Eichman \nAccountiaq S9ecialiat \n\n\n,;\", \nI \nI-\n,... \n... \n\\ \nE. :or. '.JACOSS. ACCOUNTANCY CORPORATION \n9 3~~~'~~~NIA FOROFESSIONAL. CO~FOO~ATION \n3e10 CENI~Ai.,.. AVE£. . SUtTl£ 800 \nAIVttFU!I1OtE. O .... i.,..,,..: easo. \nFebruary 5, 1980 \nFair Political Practices Commission \nTechnical Assistance \nP.O. Box 807 \nSacramento, CA \n95804 \nGentlemen: \nA question has arisen as to the proper treatment of the \npurchase of shares in a municipal bond trust by a political \ncampaign committee. \nYour Los Angeles office recommended that such an invest-\nment be treated as an expenditure of the period, thus reducing \nthe committee's cash balance. \nwnen the shares are sold, they \nare to be recognized as a miscellaneous increase to cash. \nThis \nis the treatment which we have followed in our reports to date. \nThe question arises because subsequent reports appear to \nmisrepresent the committee's financial position. \nThe cash \nbalance is the only asset shown on the report. \nThe investment \nin the trust does not appear again until the shares are sold, \nalthough at any point in time they are readily convertible to \ncash. \nWe would appreciate your opinion as to which alternative \ntreatment of this item is correct for the committee reporting \npurposes. \nIn that this situation is similar to the purchase \nof certificates of deposit, we would appreciate an opinion with \nregard to both types of transactions. \nThank you for your consideration. \nSincerely, \n(. (:71 ~f!!:,(/«~~ \n- y, \nE, ..... Jacobs \nCertified Public Accountant \nETj/kg \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1980-03-07",
+    "date_raw": "March 7, 1980",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "A question has arisen as to the proper treatment of the purchase of shares in a municipal bond trust by a political campaign committee. Your Los Angeles office recommended that such an investment be treated as an expenditure of the period, thus reducing the committee's cash balance. When the shares are sold, they are to be recognized as a miscellaneous increase to cash. This is the treatment which we have followed in our reports to date. The question arises because subsequent reports appear to misrepresent the committee's financial position. The cash balance is the only asset shown on the report. The investment in the trust does not appear again until the shares are sold, although at any point in time they are readily convertible to cash. We would appreciate your opinion as to which alternative treatment of this item is correct for the committee reporting purposes. In that this situation is similar to the purchase of certificates of deposit, we would appreciate an opinion with regard to both types of transactions.",
+    "conclusion": "The purchase of certificates of deposit, stocks, shares in a municipal bond trust or any other asset that can be readily converted to cash should not be reported as expenditures, nor should the committee's cash balance be reduced by the change in assets. At the time the asset is converted back to cash, any increase or decrease to the asset value should be reported as a miscellaneous adjustment to cash on the committee campaign statement.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Should a political campaign committee report the purchase of shares in a municipal bond trust (or certificates of deposit) as an expenditure that reduces cash balance, or should such readily convertible assets be handled differently for reporting purposes?",
+    "conclusion_synthetic": "Assets readily convertible to cash, including municipal bond trust shares and certificates of deposit, should not be reported as expenditures or reduce the cash balance. Instead, gains or losses from converting these assets back to cash should be reported as miscellaneous adjustments to cash at the time of conversion.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document contains both incoming request (February 5, 1980 letter from E.T. Jacobs) and FPPC response (March 7, 1980 letter from J. Richard Eichman). Extracted response sections. No formal QUESTION/CONCLUSION headers present; question and conclusion identified by content context. Minor OCR errors present in original document (e.g., 'conlir.m' for 'confirm', 'asa~-::' for 'asset')."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:03.930036Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: A question has arisen as to the proper treatment of the purchase of shares in a municipal bond trust by a political campaign committee. Your Los Angeles office recommended that such an investment be treated as an expenditure of the period, thus reducing the committee's cash balance. When the shares are sold, they are to be recognized as a miscellaneous increase to cash. This is the treatment which we have followed in our reports to date. The question arises because subsequent reports appear to misrepresent the committee's financial position. The cash balance is the only asset shown on the report. The investment in the trust does not appear again until the shares are sold, although at any point in time they are readily convertible to cash. We would appreciate your opinion as to which alternative treatment of this item is correct for the committee reporting purposes. In that this situation is similar to the purchase of certificates of deposit, we would appreciate an opinion with regard to both types of transactions.\n\nCONCLUSION: The purchase of certificates of deposit, stocks, shares in a municipal bond trust or any other asset that can be readily converted to cash should not be reported as expenditures, nor should the committee's cash balance be reduced by the change in assets. At the time the asset is converted back to cash, any increase or decrease to the asset value should be reported as a miscellaneous adjustment to cash on the committee campaign statement.",
+    "qa_source": "mixed",
+    "first_500_words": "March 7, 1980 E.T. Jaco:':'s certifiad Public .Accountant E.T. Jacobs, Accountancy Corporation 3610 Central Aven~e, Suite 600 Ri~r.ida, CA 92506 O:..ar Mr. Jacobs: ... Thank you .for your letter of February 5, 1980, in which you asked. about the proper reportinq by 4 political campaign committee tor the purche.se of shares in a municipal bond t...-ust. 'l'h.is latter will conlir.m my phone conversa~o~ with Jan Knight of your office on 3/3/30. The purchase of certificate' a of depos'i 1:,# stccks, shares in a municipal bond trtust or any other asset that can be readily con- verted to cash should not be report~ as expenditures, nor should ~~e committee'. cash balance be reduced by ~~iachange in as •• ts. At -the time the asa~-:: is converted back. to cash, any increaa. or &ecreaae to ~~o asset value should be reported 83 a misc~llaneous adjustment to cash on the conui ttae campaign statement. If I can be of further assi:::tance plaaso contact ma. bec: Helen Arriola Sincerely J. Rcchard Eichman Accountiaq S9ecialiat ,;\", I I- ,... ... \\ E. :or. '.JACOSS. ACCOUNTANCY CORPORATION 9 3~~~'~~~NIA FOROFESSIONAL. CO~FOO~ATION 3e10 CENI~Ai.,.. AVE£. . SUtTl£ 800 AIVttFU!I1OtE. O .... i.,..,,..: easo. February 5, 1980 Fair Political Practices Commission Technical Assistance P.O. Box 807 Sacramento, CA 95804 Gentlemen: A question has arisen as to the proper treatment of the purchase of shares in a municipal bond trust by a political campaign committee. Your Los Angeles office recommended that such an invest- ment be treated as an expenditure of the period, thus reducing the committee's cash balance. wnen the shares are sold, they are to be recognized as a miscellaneous increase to cash. This is the treatment which we have followed in our reports to date. The question arises because subsequent reports appear to misrepresent the committee's financial position. The cash balance is the only asset shown on the report. The investment in the trust does not appear again until the shares are sold, although at any point in time they are readily convertible to cash. We would appreciate your opinion as to which alternative treatment of this item is correct for the committee reporting purposes. In that this situation is similar to the purchase of certificates of deposit, we would appreciate an opinion with regard to both types of transactions. Thank you for your consideration. Sincerely, (. (:71 ~f!!:,(/«~~ - y, E, ..... Jacobs Certified Public Accountant ETj/kg",
+    "summary": "The FPPC clarifies that purchases of readily convertible assets like municipal bond trust shares and certificates of deposit should not be treated as expenditures or reduce a political campaign committee's cash balance; rather, any gains or losses should be reported as miscellaneous adjustments when the assets are converted back to cash."
+  }
+}

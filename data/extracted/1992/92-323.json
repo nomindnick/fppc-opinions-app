@@ -1,0 +1,73 @@
+{
+  "id": "92-323",
+  "year": 1992,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1992/92-323.pdf",
+  "pdf_sha256": "02c7b84e58589e6aec4166b415169e73a00aa159f566f07e5a7f846a7c98f2a3",
+  "local_pdf_path": "raw_pdfs/1992/92-323.pdf",
+  "source_metadata": {
+    "title_raw": "Alva, Dr. Year: 1992 Advice Letter # 92-323",
+    "tags": [
+      "Advice Letter",
+      "1992"
+    ],
+    "scraped_at": "2026-01-31 16:26:04",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1992&tagCount=1&page=44"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:15.731920Z",
+    "page_count": 1,
+    "word_count": 225,
+    "char_count": 1440,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 225
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\nJune 11,\n1992\nDr.\nSylvia Alatorre Alva\n7615 Pacific Blvd.\nHuntington Park,\nCA\n90255\nRe:\nYour Request for Advice\nOur File No.\nA-92-323\nDear Dr.\nAlva:\nThis is in response to your request for confirmation of\ntelephone advice regarding the campaign disclosure provisions of\nthe Political Reform Act (the “Act”).’\nYou are requesting this\nadvice on behalf of Salvador Alva.\nYour letter, dated May 26,\n1992, accurately summarizes the\ntelephone advice I provided to you that the Political Reform Act\ndoes not prohibit a judicial candidate from identifying his or her\nopponent’s political party in mass mailings.\nThe Commission only\nhas jurisdiction over the Political Reform Act.\nYou may wish to\ncontact the Attorney General’s office or the Secretary of State to\ndetermine whether any other law may apply.\nIf you have any further questions regarding this matter,\nplease feel free to contact me at\n(916)\n322-5662.\nSincerely,\nScott Hallabrin\nActing General Counsel\nc4dozi\nBy:\nSandra L. Taylor\nPolitical Reform Consultant\n1\nGovernment Code Sections 81000-91015.\nAll statutory references\nare to the Government Code unless otherwise indicated.\nCommission\nregulations appear at\n2 California Code of Regulations Section\n18000,\ng.\nAll references to regulations are to Title 2,\nDivision\n6 of the California Code of Regulations.\n428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804-0807 • (916)322-5660\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1992-06-11",
+    "date_raw": "June 11,\n1992",
+    "requestor_name": "Alva",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether the Political Reform Act prohibits a judicial candidate from identifying his or her opponent's political party in mass mailings.",
+    "conclusion_synthetic": "The Political Reform Act does not prohibit a judicial candidate from identifying his or her opponent's political party in mass mailings. The FPPC only has jurisdiction over the Political Reform Act and recommends contacting the Attorney General's office or Secretary of State to determine if other laws may apply.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is a confirmation letter of previously provided telephone advice. No formal QUESTION or CONCLUSION sections exist, but the advice is clearly stated in the body of the letter. Document references Political Reform Act (Gov. Code §§81000-91015) and California Code of Regulations Title 2, Division 6."
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:35:15.731920Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether the Political Reform Act prohibits a judicial candidate from identifying his or her opponent's political party in mass mailings.\n\nCONCLUSION: The Political Reform Act does not prohibit a judicial candidate from identifying his or her opponent's political party in mass mailings. The FPPC only has jurisdiction over the Political Reform Act and recommends contacting the Attorney General's office or Secretary of State to determine if other laws may apply.",
+    "qa_source": "synthetic",
+    "first_500_words": "California Fair Political Practices Commission June 11, 1992 Dr. Sylvia Alatorre Alva 7615 Pacific Blvd. Huntington Park, CA 90255 Re: Your Request for Advice Our File No. A-92-323 Dear Dr. Alva: This is in response to your request for confirmation of telephone advice regarding the campaign disclosure provisions of the Political Reform Act (the “Act”).’ You are requesting this advice on behalf of Salvador Alva. Your letter, dated May 26, 1992, accurately summarizes the telephone advice I provided to you that the Political Reform Act does not prohibit a judicial candidate from identifying his or her opponent’s political party in mass mailings. The Commission only has jurisdiction over the Political Reform Act. You may wish to contact the Attorney General’s office or the Secretary of State to determine whether any other law may apply. If you have any further questions regarding this matter, please feel free to contact me at (916) 322-5662. Sincerely, Scott Hallabrin Acting General Counsel c4dozi By: Sandra L. Taylor Political Reform Consultant 1 Government Code Sections 81000-91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations Section 18000, g. All references to regulations are to Title 2, Division 6 of the California Code of Regulations. 428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804-0807 • (916)322-5660",
+    "summary": "FPPC confirms telephone advice to Dr. Alva regarding Salvador Alva's campaign that the Political Reform Act does not prohibit judicial candidates from identifying opponents' political party affiliation in mass mailings."
+  }
+}

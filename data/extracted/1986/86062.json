@@ -1,0 +1,71 @@
+{
+  "id": "86062",
+  "year": 1986,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1986/fppc-advice/86062.PDF",
+  "pdf_sha256": "89c54c50e294db6f72a586922df401644ad5793bd4dd30f7878af5a78980e0f8",
+  "local_pdf_path": "raw_pdfs/1986/86062.PDF",
+  "source_metadata": {
+    "title_raw": "ROBERTI, DAVID Year: 1986 Advice Letter # 86062",
+    "tags": [
+      "1986",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:39:04",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1986&tagCount=1&page=21"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:34.382439Z",
+    "page_count": 2,
+    "word_count": 318,
+    "char_count": 1930,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 318
+  },
+  "content": {
+    "full_text": "California \nFair Political \nPractices Commission \nHonorable David Roberti \nstate Senator \nState Capitol \nSacramento, \nCA \n95814 \nDear Senator Roberti: \nMarch 5, 1986 \nRe: \nYour Request for Advice \nFPPC No. A-86-062 \nThis is in response to your letter regarding a notice you \nreceived from the Los Angeles Turf Club that they had reported you \nas the recipient of a dinner on their Report of Lobbyist Employer \n(Form 650). \nYou indicated that you did not attend the dinner. \nSince you did not accept the invitation, you should notify \nMr. Engle of the Los Angeles Turf Club to amend the Club's Form \n650 to delete you as the recipient of the gift. \nPlease feel free to contact me at (916) 322-5662 if you have \nany additional questions. \nSincerely, \n/ \n.. , \nA \n\\........ /: \n{I.ti.a j:!t:ut/'...£<1../ \n,J \nAlice Hughes \nTechnical Assistance & Analysis \nAH:kt \n428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804-0807 • (916)322-5660 \n\n\nSTATE 0 F CALI FO RN IA \nDAVID ROBERTI \nPRESIDENT PRO TEMPORE \nFebruary 18, 1986 \nMs. Alice Hughes \nDocuments Examiner \nSENATE \nSACRAMENTO, CALIFORNIA 95814 \nFair Political Practices Commission \n428 \"J\" Street, 8th Floor \nSacramento, CA \n95814 \nDear Ms. Hughes: \nSubject: \nSchedule F, (Gifts) for Form 721 \nto be submitted March 3, 1986 \nA discrepancy may exist In the Schedule F (Gifts) section of \nthe above report. \nA Los Angeles Turf Club, Arcadia, California letter (copy enclosed) \nstated a dinner event was reported under date of April 29, 1985 \nin the amount of $105.50; this represented a dinner at Lautrec \nRestaurant, 2711 Fulton Avenue, Sacramento, CA. \nI believe this statement is in error as I did not attend this dinner. \nThe mistake is an honest error since I was invited to attend the \ndinner but did not accept the invitation. \nIf there is any problem, please inform me. \nThank you. \nSincerely, \nDAVID ROBERTI \nDR/mbg \nEncl: \nL.A. Turf Club 1 tr \ndted Sep. 4, 1985 \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1986-03-05",
+    "date_raw": "March 5, 1986",
+    "requestor_name": "Hughes",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "You indicated that you did not attend the dinner. Since you did not accept the invitation, you should notify Mr. Engle of the Los Angeles Turf Club to amend the Club's Form 650 to delete you as the recipient of the gift.",
+    "conclusion": "Since you did not accept the invitation, you should notify Mr. Engle of the Los Angeles Turf Club to amend the Club's Form 650 to delete you as the recipient of the gift.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Senator Roberti reported receiving a dinner gift from the Los Angeles Turf Club on a Form 721 Schedule F, but clarified he did not actually attend the dinner event and had declined the invitation. What action should be taken regarding this discrepancy?",
+    "conclusion_synthetic": "The FPPC advises Senator Roberti to contact the Los Angeles Turf Club and request that they amend their Form 650 report to remove him as a gift recipient, since he did not attend the dinner.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document contains both incoming request letter (Feb 18, 1986) and FPPC response letter (Mar 5, 1986). Question and conclusion sections not formally labeled with headers but clearly present in the response. Extracted question text from FPPC response letter as this is the formal advice letter."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:36:34.382439Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: You indicated that you did not attend the dinner. Since you did not accept the invitation, you should notify Mr. Engle of the Los Angeles Turf Club to amend the Club's Form 650 to delete you as the recipient of the gift.\n\nCONCLUSION: Since you did not accept the invitation, you should notify Mr. Engle of the Los Angeles Turf Club to amend the Club's Form 650 to delete you as the recipient of the gift.",
+    "qa_source": "mixed",
+    "first_500_words": "California Fair Political Practices Commission Honorable David Roberti state Senator State Capitol Sacramento, CA 95814 Dear Senator Roberti: March 5, 1986 Re: Your Request for Advice FPPC No. A-86-062 This is in response to your letter regarding a notice you received from the Los Angeles Turf Club that they had reported you as the recipient of a dinner on their Report of Lobbyist Employer (Form 650). You indicated that you did not attend the dinner. Since you did not accept the invitation, you should notify Mr. Engle of the Los Angeles Turf Club to amend the Club's Form 650 to delete you as the recipient of the gift. Please feel free to contact me at (916) 322-5662 if you have any additional questions. Sincerely, / .. , A \\........ /: {I.ti.a j:!t:ut/'...£<1../ ,J Alice Hughes Technical Assistance & Analysis AH:kt 428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804-0807 • (916)322-5660 STATE 0 F CALI FO RN IA DAVID ROBERTI PRESIDENT PRO TEMPORE February 18, 1986 Ms. Alice Hughes Documents Examiner SENATE SACRAMENTO, CALIFORNIA 95814 Fair Political Practices Commission 428 \"J\" Street, 8th Floor Sacramento, CA 95814 Dear Ms. Hughes: Subject: Schedule F, (Gifts) for Form 721 to be submitted March 3, 1986 A discrepancy may exist In the Schedule F (Gifts) section of the above report. A Los Angeles Turf Club, Arcadia, California letter (copy enclosed) stated a dinner event was reported under date of April 29, 1985 in the amount of $105.50; this represented a dinner at Lautrec Restaurant, 2711 Fulton Avenue, Sacramento, CA. I believe this statement is in error as I did not attend this dinner. The mistake is an honest error since I was invited to attend the dinner but did not accept the invitation. If there is any problem, please inform me. Thank you. Sincerely, DAVID ROBERTI DR/mbg Encl: L.A. Turf Club 1 tr dted Sep. 4, 1985",
+    "summary": "FPPC responds to Senator David Roberti's inquiry about a reported dinner gift he did not accept, advising him to request amendment of the lobbyist employer's gift report form."
+  }
+}

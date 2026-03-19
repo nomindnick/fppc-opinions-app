@@ -1,0 +1,74 @@
+{
+  "id": "90550",
+  "year": 1990,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1990/90550.pdf",
+  "pdf_sha256": "eee55e0701cd2d39aead532e35539d7794e598ed8e00426e7fa3434f863628af",
+  "local_pdf_path": "raw_pdfs/1990/90550.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 1990 Advice Letter # 90550",
+    "tags": [
+      "1990",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:07:04",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1990&tagCount=1&page=17"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-07T16:18:42.271910Z",
+    "page_count": 1,
+    "word_count": 100,
+    "char_count": 641,
+    "quality_score": 0.5975,
+    "olmocr_cost": 0.0025189400000000003,
+    "native_word_count": 80
+  },
+  "content": {
+    "full_text": "FAIR POLITICAL PRACTICES COMMISSION\nAdvice File Summary\n\nPLEASE FILL IN ALL THE BLANKS!\n\nType: Telephone\nStaff: Alice Hughes\nYear: 1990\nAdvisee:\nNo.: M-90-550\nRequestor: Byrna\nDate: 7/30/90\nAgency:\n\nSubject:\nX Campaign\nSEI\nSection 84308\nMass Mail\n\nC/I\nC/I Code\nLobbying\nRevolving Door\nPersonal Use\nMisc.\n\nComputer Entry Summary: (No more than 5 typed lines for summary.)\nA political committee which received a contribution of $6,000 from a trust, pursuant to the terms in a will, must return the contribution to the trustee.\n\nCode Section and/or Regulation Nos.\nSection 85302\n\nBulletin Summary: (If you need more space please write on back.)",
+    "full_text_markdown": "FAIR POLITICAL PRACTICES COMMISSION\nAdvice File Summary\n\nPLEASE FILL IN ALL THE BLANKS!\n\nType: Telephone\nStaff: Alice Hughes\nYear: 1990\nAdvisee:\nNo.: M-90-550\nRequestor: Byrna\nDate: 7/30/90\nAgency:\n\nSubject:\nX Campaign\nSEI\nSection 84308\nMass Mail\n\nC/I\nC/I Code\nLobbying\nRevolving Door\nPersonal Use\nMisc.\n\nComputer Entry Summary: (No more than 5 typed lines for summary.)\nA political committee which received a contribution of $6,000 from a trust, pursuant to the terms in a will, must return the contribution to the trustee.\n\nCode Section and/or Regulation Nos.\nSection 85302\n\nBulletin Summary: (If you need more space please write on back.)"
+  },
+  "parsed": {
+    "date": "1990-07-30",
+    "date_raw": "7/30/90",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a political committee may retain a $6,000 contribution received from a trust pursuant to the terms of a will, or must return it to the trustee.",
+    "conclusion_synthetic": "A political committee that received a $6,000 contribution from a trust pursuant to the terms in a will must return the contribution to the trustee.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.75,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is a telephone advice summary sheet rather than a full advice letter. No formal question or conclusion sections present; information extracted from 'Computer Entry Summary' field. Staff: Alice Hughes. Requestor: Byrna. Relevant code sections: 85302 and reference to Section 84308. Subject matter involves campaign finance and contribution restrictions."
+  },
+  "citations": {
+    "government_code": [
+      "84308",
+      "85302"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T16:18:42.271910Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether a political committee may retain a $6,000 contribution received from a trust pursuant to the terms of a will, or must return it to the trustee.\n\nCONCLUSION: A political committee that received a $6,000 contribution from a trust pursuant to the terms in a will must return the contribution to the trustee.",
+    "qa_source": "synthetic",
+    "first_500_words": "FAIR POLITICAL PRACTICES COMMISSION Advice File Summary PLEASE FILL IN ALL THE BLANKS! Type: Telephone Staff: Alice Hughes Year: 1990 Advisee: No.: M-90-550 Requestor: Byrna Date: 7/30/90 Agency: Subject: X Campaign SEI Section 84308 Mass Mail C/I C/I Code Lobbying Revolving Door Personal Use Misc. Computer Entry Summary: (No more than 5 typed lines for summary.) A political committee which received a contribution of $6,000 from a trust, pursuant to the terms in a will, must return the contribution to the trustee. Code Section and/or Regulation Nos. Section 85302 Bulletin Summary: (If you need more space please write on back.)",
+    "summary": "FPPC advice letter regarding campaign contributions from trusts. The Commission advised that a political committee must return a $6,000 contribution received from a trust pursuant to will provisions to the trustee."
+  }
+}

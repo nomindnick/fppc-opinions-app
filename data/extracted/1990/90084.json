@@ -1,0 +1,73 @@
+{
+  "id": "90084",
+  "year": 1990,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1990/90084.pdf",
+  "pdf_sha256": "88fd682698a3929eef9e83b40fc9c83213fcda490e7336477bf7ce3974e182c6",
+  "local_pdf_path": "raw_pdfs/1990/90084.pdf",
+  "source_metadata": {
+    "title_raw": "Winter, William Year: 1990 Advice Letter # 90084",
+    "tags": [
+      "1990",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:10:35",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1990&tagCount=1&page=63"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T22:42:56.695336Z",
+    "page_count": 1,
+    "word_count": 128,
+    "char_count": 843,
+    "quality_score": 0.8744674948425818,
+    "olmocr_cost": 0.00248368,
+    "native_word_count": 164
+  },
+  "content": {
+    "full_text": "January 29, 1990\n\nMs. Linda Cassidy\nPolitical Reform Consultant\nFair Political Practices Commission\n428 J Street, Suite 800\nP.O. Box 807\nSacramento, CA 95804\n\nDear Ms. Cassidy:\n\nThis is to confirm our telephone conversation of last week in which you advised me that the issuance of \"Assessors' Handbooks\" by the California State Board of Equalization does not constitute an \"Administrative Action\" as defined by Section 82002 of the Government Code. We concluded, therefore, that efforts of the California Cable Television Association to influence the contents of such handbooks is not an activity that is reportable under the Political Reform Act of 1974, as amended.\n\nThank you for your courtesy and cooperation in this matter.\n\nSincerely,\n\nWilliam M. Winter\n\nWMW:nm\ncc: Spencer Kaitz\n    Dennis Mangers\n    Sharon Reneau\n    Richard Eichman",
+    "full_text_markdown": "January 29, 1990\n\nMs. Linda Cassidy\nPolitical Reform Consultant\nFair Political Practices Commission\n428 J Street, Suite 800\nP.O. Box 807\nSacramento, CA 95804\n\nDear Ms. Cassidy:\n\nThis is to confirm our telephone conversation of last week in which you advised me that the issuance of \"Assessors' Handbooks\" by the California State Board of Equalization does not constitute an \"Administrative Action\" as defined by Section 82002 of the Government Code. We concluded, therefore, that efforts of the California Cable Television Association to influence the contents of such handbooks is not an activity that is reportable under the Political Reform Act of 1974, as amended.\n\nThank you for your courtesy and cooperation in this matter.\n\nSincerely,\n\nWilliam M. Winter\n\nWMW:nm\ncc: Spencer Kaitz\n    Dennis Mangers\n    Sharon Reneau\n    Richard Eichman"
+  },
+  "parsed": {
+    "date": "1990-01-29",
+    "date_raw": "January 29, 1990",
+    "requestor_name": "Cassidy",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [
+      "82002"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-19T22:42:56.695336Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "January 29, 1990 Ms. Linda Cassidy Political Reform Consultant Fair Political Practices Commission 428 J Street, Suite 800 P.O. Box 807 Sacramento, CA 95804 Dear Ms. Cassidy: This is to confirm our telephone conversation of last week in which you advised me that the issuance of \"Assessors' Handbooks\" by the California State Board of Equalization does not constitute an \"Administrative Action\" as defined by Section 82002 of the Government Code. We concluded, therefore, that efforts of the California Cable Television Association to influence the contents of such handbooks is not an activity that is reportable under the Political Reform Act of 1974, as amended. Thank you for your courtesy and cooperation in this matter. Sincerely, William M. Winter WMW:nm cc: Spencer Kaitz Dennis Mangers Sharon Reneau Richard Eichman",
+    "qa_source": "extracted",
+    "first_500_words": "January 29, 1990 Ms. Linda Cassidy Political Reform Consultant Fair Political Practices Commission 428 J Street, Suite 800 P.O. Box 807 Sacramento, CA 95804 Dear Ms. Cassidy: This is to confirm our telephone conversation of last week in which you advised me that the issuance of \"Assessors' Handbooks\" by the California State Board of Equalization does not constitute an \"Administrative Action\" as defined by Section 82002 of the Government Code. We concluded, therefore, that efforts of the California Cable Television Association to influence the contents of such handbooks is not an activity that is reportable under the Political Reform Act of 1974, as amended. Thank you for your courtesy and cooperation in this matter. Sincerely, William M. Winter WMW:nm cc: Spencer Kaitz Dennis Mangers Sharon Reneau Richard Eichman",
+    "summary": null
+  }
+}

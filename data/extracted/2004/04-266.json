@@ -1,0 +1,76 @@
+{
+  "id": "04-266",
+  "year": 2004,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2004/04-266.pdf",
+  "pdf_sha256": "3fe3038522fd2704e2fa65a8e829bef09ab563776e44ce23956df740345a68f5",
+  "local_pdf_path": "raw_pdfs/2004/04-266.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2004 Advice Letter # 04-266",
+    "tags": [
+      "2004",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:41:06",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2004&tagCount=1&page=15"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:17.660288Z",
+    "page_count": 1,
+    "word_count": 217,
+    "char_count": 1445,
+    "quality_score": 0.635,
+    "olmocr_cost": null,
+    "native_word_count": 217
+  },
+  "content": {
+    "full_text": "Farn Porrrtcal PnecrrcEs CourrarssroN\n428 J Street o Suite 620 r Sacramento, CA 95814-2329\n(916) 322-5660 o Fax (916) 322-0886\nMay 17,2005\nFelice M. Bakre\nHuman Resources Administration\nC alifornia State University\n401 Golden Shore,4th Floor\nLong Beach, CA 90802-4210\nRe\nYour Request for Advice\nOur File No. C,-04-266\nDear Ms. Bakre:\nThis letter is in response to your request on behalf of the California State\nUniversity for advice regarding the conflict-of-interest provisions of the Political Reform\nAct (the \"Act').I As we discussed on several occasions, the Commission decided to\nreview the disclosure obligations ofpublic officials who teach or conduct research at\ninstitutions of higher education in a regulatory proceeding.\nOn May 12,2005, the Commission adopted new regulation 18755 which codifies\nthe disclosure requirements applicable to researchers and the list of exempted private\nentities. We have enclosed a copy of the draft regulation. The regulation is currently in\nthe review process with the Office ofAdministrative Law and will be effective upon\nfiling with the Secretary of State's Office. If you have any other questions regarding this\nmatter, please contact me at (916) 322-5660.\nSincerely,\nLuisa Menchaca\nCounsel\nJohn W. Wallace\nAssistant General Counsel\nLegal Division\nI Government Code sections 81000 - gl}l4. Commission regulations appear at Title 2, sections\n18109-18997, of the Califomia Code of Regulations.\n4e]r!\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2005-05-17",
+    "date_raw": "May 17,2005",
+    "requestor_name": "Bakre",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "What are the disclosure obligations for public officials at California State University who teach or conduct research, and which private entities are exempt from disclosure requirements?",
+    "conclusion_synthetic": "The FPPC adopted new regulation 18755 on May 12, 2005, which codifies disclosure requirements for researchers and provides a list of exempted private entities. The regulation is under review with the Office of Administrative Law and will become effective upon filing with the Secretary of State's Office.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Advice letter lacks traditional Q/A section headers; question and conclusion extracted from letter body and regulatory context. File number shows '04-266' but letter dated May 2005, suggesting delayed response. Primarily informational regarding regulatory adoption rather than providing specific guidance on hypothetical scenario."
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [
+      "18109",
+      "18755"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:34:17.660288Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: What are the disclosure obligations for public officials at California State University who teach or conduct research, and which private entities are exempt from disclosure requirements?\n\nCONCLUSION: The FPPC adopted new regulation 18755 on May 12, 2005, which codifies disclosure requirements for researchers and provides a list of exempted private entities. The regulation is under review with the Office of Administrative Law and will become effective upon filing with the Secretary of State's Office.",
+    "qa_source": "synthetic",
+    "first_500_words": "Farn Porrrtcal PnecrrcEs CourrarssroN 428 J Street o Suite 620 r Sacramento, CA 95814-2329 (916) 322-5660 o Fax (916) 322-0886 May 17,2005 Felice M. Bakre Human Resources Administration C alifornia State University 401 Golden Shore,4th Floor Long Beach, CA 90802-4210 Re Your Request for Advice Our File No. C,-04-266 Dear Ms. Bakre: This letter is in response to your request on behalf of the California State University for advice regarding the conflict-of-interest provisions of the Political Reform Act (the \"Act').I As we discussed on several occasions, the Commission decided to review the disclosure obligations ofpublic officials who teach or conduct research at institutions of higher education in a regulatory proceeding. On May 12,2005, the Commission adopted new regulation 18755 which codifies the disclosure requirements applicable to researchers and the list of exempted private entities. We have enclosed a copy of the draft regulation. The regulation is currently in the review process with the Office ofAdministrative Law and will be effective upon filing with the Secretary of State's Office. If you have any other questions regarding this matter, please contact me at (916) 322-5660. Sincerely, Luisa Menchaca Counsel John W. Wallace Assistant General Counsel Legal Division I Government Code sections 81000 - gl}l4. Commission regulations appear at Title 2, sections 18109-18997, of the Califomia Code of Regulations. 4e]r!",
+    "summary": "FPPC responds to California State University's request regarding conflict-of-interest disclosure obligations for public officials engaged in teaching or research at higher education institutions, advising that new regulation 18755 has been adopted to address these requirements."
+  }
+}

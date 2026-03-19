@@ -1,0 +1,73 @@
+{
+  "id": "78ADV-78-085",
+  "year": 1978,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1978/78ADV-78-085.PDF",
+  "pdf_sha256": "d3807dd04c60c662580e7361cd5020e645ff1f22cb9e720eb16cf024fb7c68c5",
+  "local_pdf_path": "raw_pdfs/1978/78ADV-78-085.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1978ADV Advice Letter # 78ADV-78-085",
+    "tags": [
+      "Advice Letter",
+      "1978"
+    ],
+    "scraped_at": "2026-01-31 15:25:01",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=30"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T19:15:08.614839Z",
+    "page_count": 1,
+    "word_count": 64,
+    "char_count": 447,
+    "quality_score": 0.8501940069576217,
+    "olmocr_cost": 0.00244756,
+    "native_word_count": 62
+  },
+  "content": {
+    "full_text": "Memorandum\n\nTo: File - Government Code Section 81005\n\nDate: January 23, 1978\n\nFrom: Barbara Campbell  \nFAIR POLITICAL PRACTICES COMMISSION\n\nSubject:\n\nAt the January 23, 1978, Opinion Request meeting, the staff concluded that major donor committees who contribute only to multi-purpose committees should file their campaign statements in the following places: Secretary of State, Los Angeles, San Francisco and County of Domicile.\n\ncc: Ted Prim",
+    "full_text_markdown": "Memorandum\n\nTo: File - Government Code Section 81005\n\nDate: January 23, 1978\n\nFrom: Barbara Campbell  \nFAIR POLITICAL PRACTICES COMMISSION\n\nSubject:\n\nAt the January 23, 1978, Opinion Request meeting, the staff concluded that major donor committees who contribute only to multi-purpose committees should file their campaign statements in the following places: Secretary of State, Los Angeles, San Francisco and County of Domicile.\n\ncc: Ted Prim"
+  },
+  "parsed": {
+    "date": "1978-01-23",
+    "date_raw": "January 23, 1978",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [
+      "81005"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-20T19:15:08.614839Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "**Memorandum** To: File - Government Code Section 81005 Date: January 23, 1978 From: Barbara Campbell FAIR POLITICAL PRACTICES COMMISSION Subject: At the January 23, 1978, Opinion Request meeting, the staff concluded that major donor committees who contribute only to multi-purpose committees should file their campaign statements in the following places: Secretary of State, Los Angeles, San Francisco and County of Domicile. cc: Ted Prim",
+    "qa_source": "extracted",
+    "first_500_words": "**Memorandum** To: File - Government Code Section 81005 Date: January 23, 1978 From: Barbara Campbell FAIR POLITICAL PRACTICES COMMISSION Subject: At the January 23, 1978, Opinion Request meeting, the staff concluded that major donor committees who contribute only to multi-purpose committees should file their campaign statements in the following places: Secretary of State, Los Angeles, San Francisco and County of Domicile. cc: Ted Prim",
+    "summary": null
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "95179",
+  "year": 1995,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/1995/95179.pdf",
+  "pdf_sha256": "336464e0fdcbbc6bac6295a91fd64cb04209a752e7edb6aab2ccab3e4f99ce0c",
+  "local_pdf_path": "raw_pdfs/1995/95179.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 1995 Advice Letter # 95179",
+    "tags": [
+      "1995",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:39:00",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1995&tagCount=1&page=31"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T00:53:27.430101Z",
+    "page_count": 1,
+    "word_count": 187,
+    "char_count": 1178,
+    "quality_score": 0.8617420063594413,
+    "olmocr_cost": 0.0026204199999999996,
+    "native_word_count": 190
+  },
+  "content": {
+    "full_text": "CONFIRMATION OF ADVICE\n\nNUMBER: M-95-179\nDATE: May 25, 1995\nSUBJECT: Filing Fee Payments\nSenate Bill 704 (Beverly) as amended April 18, 1995\nISSUE: Reimbursement of Filing fees with campaign funds\n\nAt an advice meeting held May 25, 1995, attended by General Counsel, Steve Churchwell and C. Wardlow, L. Cassady, D. Muallem, L. Menchaca, and H. Wagner, a provision of SB 704 relating to filing fees was discussed.\n\nBackground: At the Commission's request this bill amends Section 82015 and 82025 so that a candidate's personal funds used to pay a filing fee for a declaration of candidacy or a candidate statement prepared pursuant to Section 1337 of the Election Code is not a contribution or expenditure.\n\nQuestion: If a candidate paid a filing fee with personal funds, would reimbursement be permissible from campaign funds under the personal use statutes, Sections 89510-89522?\n\nAnswer: Yes, since the payment would no longer be defined as a contribution or expenditure it does not fall under the restrictions of Section 89511.5. For reporting purposes, the committee statement would disclose the candidate as the payee and identify the payment as a filing fee reimbursement.",
+    "full_text_markdown": "CONFIRMATION OF ADVICE\n\nNUMBER: M-95-179\nDATE: May 25, 1995\nSUBJECT: Filing Fee Payments\nSenate Bill 704 (Beverly) as amended April 18, 1995\nISSUE: Reimbursement of Filing fees with campaign funds\n\nAt an advice meeting held May 25, 1995, attended by General Counsel, Steve Churchwell and C. Wardlow, L. Cassady, D. Muallem, L. Menchaca, and H. Wagner, a provision of SB 704 relating to filing fees was discussed.\n\nBackground: At the Commission's request this bill amends Section 82015 and 82025 so that a candidate's personal funds used to pay a filing fee for a declaration of candidacy or a candidate statement prepared pursuant to Section 1337 of the Election Code is not a contribution or expenditure.\n\nQuestion: If a candidate paid a filing fee with personal funds, would reimbursement be permissible from campaign funds under the personal use statutes, Sections 89510-89522?\n\nAnswer: Yes, since the payment would no longer be defined as a contribution or expenditure it does not fall under the restrictions of Section 89511.5. For reporting purposes, the committee statement would disclose the candidate as the payee and identify the payment as a filing fee reimbursement."
+  },
+  "parsed": {
+    "date": "1995-05-25",
+    "date_raw": "May 25, 1995",
+    "requestor_name": null,
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "If a candidate paid a filing fee with personal funds, would reimbursement be permissible from campaign funds under the personal use statutes, Sections 89510-89522?\n\nAnswer: Yes, since the payment would no longer be defined as a contribution or expenditure it does not fall under the restrictions of Section 89511.5. For reporting purposes, the committee statement would disclose the candidate as the payee and identify the payment as a filing fee reimbursement.",
+    "conclusion": null,
+    "facts": "At the Commission's request this bill amends Section 82015 and 82025 so that a candidate's personal funds used to pay a filing fee for a declaration of candidacy or a candidate statement prepared pursuant to Section 1337 of the Election Code is not a contribution or expenditure.",
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.5499999999999999,
+    "has_standard_format": true,
+    "parsing_notes": "Mixed formats: modern, old"
+  },
+  "citations": {
+    "government_code": [
+      "82015",
+      "89510",
+      "89511"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "gifts_honoraria",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.6666666666666666,
+    "classified_at": "2026-02-20T00:53:27.430101Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: If a candidate paid a filing fee with personal funds, would reimbursement be permissible from campaign funds under the personal use statutes, Sections 89510-89522?\n\nAnswer: Yes, since the payment would no longer be defined as a contribution or expenditure it does not fall under the restrictions of Section 89511.5. For reporting purposes, the committee statement would disclose the candidate as the payee and identify the payment as a filing fee reimbursement.",
+    "qa_source": "extracted",
+    "first_500_words": "CONFIRMATION OF ADVICE NUMBER: M-95-179 DATE: May 25, 1995 SUBJECT: Filing Fee Payments Senate Bill 704 (Beverly) as amended April 18, 1995 ISSUE: Reimbursement of Filing fees with campaign funds At an advice meeting held May 25, 1995, attended by General Counsel, Steve Churchwell and C. Wardlow, L. Cassady, D. Muallem, L. Menchaca, and H. Wagner, a provision of SB 704 relating to filing fees was discussed. Background: At the Commission's request this bill amends Section 82015 and 82025 so that a candidate's personal funds used to pay a filing fee for a declaration of candidacy or a candidate statement prepared pursuant to Section 1337 of the Election Code is not a contribution or expenditure. Question: If a candidate paid a filing fee with personal funds, would reimbursement be permissible from campaign funds under the personal use statutes, Sections 89510-89522? Answer: Yes, since the payment would no longer be defined as a contribution or expenditure it does not fall under the restrictions of Section 89511.5. For reporting purposes, the committee statement would disclose the candidate as the payee and identify the payment as a filing fee reimbursement.",
+    "summary": null
+  }
+}

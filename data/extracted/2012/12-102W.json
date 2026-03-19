@@ -1,0 +1,71 @@
+{
+  "id": "12-102W",
+  "year": 2012,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2012/12-102W.pdf",
+  "pdf_sha256": "1f5e63b432e5e2418575ad9ab502bf3a9fcaf539cb7d545a308cffc5d49118ba",
+  "local_pdf_path": "raw_pdfs/2012/12-102W.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2012 Advice Letter # 12-102W",
+    "tags": [
+      "2012",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:55:28",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2012&tagCount=1&page=15"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:33:43.393009Z",
+    "page_count": 1,
+    "word_count": 130,
+    "char_count": 814,
+    "quality_score": 0.5475,
+    "olmocr_cost": null,
+    "native_word_count": 130
+  },
+  "content": {
+    "full_text": "FAIR POLITICAL PRACTICES COMMISSION \n428 J Street • Suite 620 • Sacramento. CA 95814-2329 \n(916) 322-5660 • Fax (916) 322-0886 \nPaul J. Mehnert \nSenior Deputy Counsel \nCounty Administration Center \n1600 Pacific Highway, Room 355 \nSan Diego, CA 92101-2469 \nRe: \nYour Request for Advice \nOur file No. W-12-102 \nDear Mr. Mehnert: \nDecember 11, 2012 \nThe purpose of this correspondence is to advise you that because we have not received \nword from you since our last correspondence dated October 10, 2012, we have withdrawn your \nrequest for advice. \nHowever, if at a later date you determine that you do desire advice, you may simply \nrequest it anew at that time. \nVJ:jgl \nIf you have any questions on this matter, please contact me at (916) 322-5783. \nSincerely, \n1'\u00039'1--\nValentina Joyce \nCounsel, Legal Division \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2012-12-11",
+    "date_raw": "December 11, 2012",
+    "requestor_name": "Mehnert",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Not applicable; this is a withdrawal notice rather than a response to a substantive legal question.",
+    "conclusion_synthetic": "The FPPC has withdrawn the requestor's advice request due to lack of communication since October 10, 2012, but notes that a new request may be submitted at any time.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Withdrawal letter with no substantive QUESTION or CONCLUSION sections. Document confirms withdrawal status through explicit statement of purpose. Contact information provided for follow-up."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:33:43.393009Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Not applicable; this is a withdrawal notice rather than a response to a substantive legal question.\n\nCONCLUSION: The FPPC has withdrawn the requestor's advice request due to lack of communication since October 10, 2012, but notes that a new request may be submitted at any time.",
+    "qa_source": "synthetic",
+    "first_500_words": "FAIR POLITICAL PRACTICES COMMISSION 428 J Street • Suite 620 • Sacramento. CA 95814-2329 (916) 322-5660 • Fax (916) 322-0886 Paul J. Mehnert Senior Deputy Counsel County Administration Center 1600 Pacific Highway, Room 355 San Diego, CA 92101-2469 Re: Your Request for Advice Our file No. W-12-102 Dear Mr. Mehnert: December 11, 2012 The purpose of this correspondence is to advise you that because we have not received word from you since our last correspondence dated October 10, 2012, we have withdrawn your request for advice. However, if at a later date you determine that you do desire advice, you may simply request it anew at that time. VJ:jgl If you have any questions on this matter, please contact me at (916) 322-5783. Sincerely, 1'\u00039'1-- Valentina Joyce Counsel, Legal Division",
+    "summary": "The FPPC withdrew Paul J. Mehnert's request for advice (File No. W-12-102) due to absence of communication for over two months, while permitting resubmission in the future."
+  }
+}

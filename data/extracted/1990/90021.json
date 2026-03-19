@@ -1,0 +1,73 @@
+{
+  "id": "90021",
+  "year": 1990,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1990/90021.pdf",
+  "pdf_sha256": "55fb7c20f532d3ea7f4209ca3094152231ed9883b76855be7d60869b3708f05d",
+  "local_pdf_path": "raw_pdfs/1990/90021.pdf",
+  "source_metadata": {
+    "title_raw": "Henley, Albert Year: 1990 Advice Letter # 90021",
+    "tags": [
+      "1990",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:10:44",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1990&tagCount=1&page=65"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T21:48:18.593499Z",
+    "page_count": 1,
+    "word_count": 126,
+    "char_count": 832,
+    "quality_score": 0.8850743880978684,
+    "olmocr_cost": 0.00252926,
+    "native_word_count": 172
+  },
+  "content": {
+    "full_text": "December 28, 1989\n\nFair Political Practices Commission\n428 J Street, Suite 610\nSacramento, California 95814\n\nSUBJECT: Ch. 403, Stats 1989\n\nWe request your informal legal opinion on this question:\n\nThe investment of District funds is made by or under the direct supervision of the District's Finance Manager. This officer is a designated employee who files an annual disclosure statement under the District's approved Conflict of Interest Code. Does the filing of such a statement satisfy the requirement of disclosure made upon \"public officials who manage public investments\" as contained in the amendment to Section 87200 of the Government Code made by Ch. 403, Stats 1989 (AB 941, Lempert)?\n\nYour assistance will be appreciated.\n\nFaithfully,\n\nAlbert Thomas Henley\nGeneral Counsel\n\ncc: Charles G. Wilson\n    Finance Manager, SCVWD",
+    "full_text_markdown": "December 28, 1989\n\nFair Political Practices Commission\n428 J Street, Suite 610\nSacramento, California 95814\n\nSUBJECT: Ch. 403, Stats 1989\n\nWe request your informal legal opinion on this question:\n\nThe investment of District funds is made by or under the direct supervision of the District's Finance Manager. This officer is a designated employee who files an annual disclosure statement under the District's approved Conflict of Interest Code. Does the filing of such a statement satisfy the requirement of disclosure made upon \"public officials who manage public investments\" as contained in the amendment to Section 87200 of the Government Code made by Ch. 403, Stats 1989 (AB 941, Lempert)?\n\nYour assistance will be appreciated.\n\nFaithfully,\n\nAlbert Thomas Henley\nGeneral Counsel\n\ncc: Charles G. Wilson\n    Finance Manager, SCVWD"
+  },
+  "parsed": {
+    "date": "1989-12-28",
+    "date_raw": "December 28, 1989",
+    "requestor_name": "Henley",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [
+      "87200"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-19T21:48:18.593499Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "December 28, 1989 Fair Political Practices Commission 428 J Street, Suite 610 Sacramento, California 95814 SUBJECT: Ch. 403, Stats 1989 We request your informal legal opinion on this question: The investment of District funds is made by or under the direct supervision of the District's Finance Manager. This officer is a designated employee who files an annual disclosure statement under the District's approved Conflict of Interest Code. Does the filing of such a statement satisfy the requirement of disclosure made upon \"public officials who manage public investments\" as contained in the amendment to Section 87200 of the Government Code made by Ch. 403, Stats 1989 (AB 941, Lempert)? Your assistance will be appreciated. Faithfully, Albert Thomas Henley General Counsel cc: Charles G. Wilson Finance Manager, SCVWD",
+    "qa_source": "extracted",
+    "first_500_words": "December 28, 1989 Fair Political Practices Commission 428 J Street, Suite 610 Sacramento, California 95814 SUBJECT: Ch. 403, Stats 1989 We request your informal legal opinion on this question: The investment of District funds is made by or under the direct supervision of the District's Finance Manager. This officer is a designated employee who files an annual disclosure statement under the District's approved Conflict of Interest Code. Does the filing of such a statement satisfy the requirement of disclosure made upon \"public officials who manage public investments\" as contained in the amendment to Section 87200 of the Government Code made by Ch. 403, Stats 1989 (AB 941, Lempert)? Your assistance will be appreciated. Faithfully, Albert Thomas Henley General Counsel cc: Charles G. Wilson Finance Manager, SCVWD",
+    "summary": null
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "79-089",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-089.PDF",
+  "pdf_sha256": "bc73d378931bd2748ea37d0dd1e9b3275bbe4c2db92c093be34206e8b3b2c065",
+  "local_pdf_path": "raw_pdfs/1979/79-089.PDF",
+  "source_metadata": {
+    "title_raw": "THAL, BERNHARDT Year: 1979 Advice Letter # 79-089",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:26:39",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=18"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T00:58:18.085276Z",
+    "page_count": 2,
+    "word_count": 420,
+    "char_count": 2948,
+    "quality_score": 0.8989535400622999,
+    "olmocr_cost": 0.0052821199999999995,
+    "native_word_count": 50,
+    "haiku_cost": 0.005468000000000001
+  },
+  "content": {
+    "full_text": "May 7, 1979\nBernhardt Thal, O.D., President\nCAL-OPAC\nP.O. Box 2591\nSacramento, California 95812\n\nDear Dr. Thal:\n\nThank you for your letter of April 4, 1979 in which you ask for advice regarding the reporting obligations of the Public Vision League (PVL) and the California Optometric Political Action Committee (CAL-OPAC). Your letter states that PVL originally collected funds for political purposes prior to the adoption of the Political Reform Act, and these funds now total $38,777.07. You ask if PVL may transfer these funds to CAL-OPAC with the intention that CAL-OPAC will use the funds for campaign and lobbying activities.\n\nThe proposed transfer described in your letter from PVL to CAL-OPAC is permitted under the Act. With regard to the transfer of funds for campaign activities, PVL must file a Major Donor Statement (Form 461) and report the lump sum amount contributed to CAL-OPAC. With regard to the transfer of funds for lobbying activities, if $250 or more is transferred for lobbying activities, PVL must file a Report of Person Spending $250 or More to Influence Legislative or Administrative Action (Form 650), and this report must be filed in the month following the month in which the transfer was made.\n\nIf you have further questions, please contact me.\n\nSincerely,\n\nLee Rosenthal\nChief, Legal Division\n\nApril 4, 1979\n\n\nFair Political Practices Commission\n1100 K Street\nP.O. Box 807\nSacramento, CA    95804\n\nDear Commissioners:\n\nPrior to 1975, monies were collected by the Public Vision League, a\ntax exempt corporation for political action purposes. Currently, there\nare $38,777.07 held in a Home Federal Savings account in Coronado, California. There has been no activity in this account since June of 1975.\n\nBecause these monies were originally collected for political action purposes prior to the passage of the Political Reform Act of 1974, the Public\nVision League (ID#742-642) would like to transfer these monies to the account of the California Optometric Political Action Committee (ID#745-825).\n\nSpecifically, is this transaction allowable and what are the reporting\nobligations of both the Public Vision League and Cal-OPAC?\n\nIf these monies can be so transferred, may a portion be allocated:\n\n     1.  To Legislative-Cal-OPAC Administrative Expense used to cover the\n         cost of lobbying activities and the administrative/accounting/\n         bookkeeping/reporting costs incurred pursuant to the Political\n         Reform Act; and\n\n     2.  To the general Cal-OPAC fund used for direct campaign contributions.\n\nBecause we wish to complete the transaction by April 15, 1979, we would\nappreciate your response by April 13th.\n\nThank you for your assistance.\n\n                                             Sincerely,\n\n                                             [signature]\n                                             Bernhardt Thal, O.D., President\n                                             Cal-OPAC\n\nET/ira",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1979-05-07",
+    "date_raw": "May 7, 1979",
+    "requestor_name": "Thal",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Prior to 1975, monies were collected by the Public Vision League, a tax exempt corporation for political action purposes. Currently, there are $38,777.07 held in a Home Federal Savings account in Coronado, California. There has been no activity in this account since June of 1975. Because these monies were originally collected for political action purposes prior to the passage of the Political Reform Act of 1974, the Public Vision League (ID#742-642) would like to transfer these monies to the account of the California Optometric Political Action Committee (ID#745-825). Specifically, is this transaction allowable and what are the reporting obligations of both the Public Vision League and Cal-OPAC? If these monies can be so transferred, may a portion be allocated: 1. To Legislative-Cal-OPAC Administrative Expense used to cover the cost of lobbying activities and the administrative/accounting/bookkeeping/reporting costs incurred pursuant to the Political Reform Act; and 2. To the general Cal-OPAC fund used for direct campaign contributions.",
+    "conclusion": "The proposed transfer described in your letter from PVL to CAL-OPAC is permitted under the Act. With regard to the transfer of funds for campaign activities, PVL must file a Major Donor Statement (Form 461) and report the lump sum amount contributed to CAL-OPAC. With regard to the transfer of funds for lobbying activities, if $250 or more is transferred for lobbying activities, PVL must file a Report of Person Spending $250 or More to Influence Legislative or Administrative Action (Form 650), and this report must be filed in the month following the month in which the transfer was made.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether the Public Vision League may transfer pre-Political Reform Act funds ($38,777.07) to the California Optometric Political Action Committee, and what reporting obligations apply to both organizations when funds are allocated for campaign and lobbying activities.",
+    "conclusion_synthetic": "The transfer is permitted under the Political Reform Act. PVL must file Form 461 (Major Donor Statement) for campaign fund transfers and Form 650 for lobbying transfers of $250 or more, with Form 650 to be filed in the month following the transfer.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document contains both the incoming request letter (dated April 4, 1979) and the FPPC response letter (dated May 7, 1979). Extracted question and conclusion from respective sections. Formatted as FPPC advice letter response with clear legal ruling and compliance requirements."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T16:53:11.589127Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Prior to 1975, monies were collected by the Public Vision League, a tax exempt corporation for political action purposes. Currently, there are $38,777.07 held in a Home Federal Savings account in Coronado, California. There has been no activity in this account since June of 1975. Because these monies were originally collected for political action purposes prior to the passage of the Political Reform Act of 1974, the Public Vision League (ID#742-642) would like to transfer these monies to the account of the California Optometric Political Action Committee (ID#745-825). Specifically, is this transaction allowable and what are the reporting obligations of both the Public Vision League and Cal-OPAC? If these monies can be so transferred, may a portion be allocated: 1. To Legislative-Cal-OPAC Administrative Expense used to cover the cost of lobbying activities and the administrative/accounting/bookkeeping/reporting costs incurred pursuant to the Political Reform Act; and 2. To the general Cal-OPAC fund used for direct campaign contributions.\n\nCONCLUSION: The proposed transfer described in your letter from PVL to CAL-OPAC is permitted under the Act. With regard to the transfer of funds for campaign activities, PVL must file a Major Donor Statement (Form 461) and report the lump sum amount contributed to CAL-OPAC. With regard to the transfer of funds for lobbying activities, if $250 or more is transferred for lobbying activities, PVL must file a Report of Person Spending $250 or More to Influence Legislative or Administrative Action (Form 650), and this report must be filed in the month following the month in which the transfer was made.",
+    "qa_source": "mixed",
+    "first_500_words": "May 7, 1979 Bernhardt Thal, O.D., President CAL-OPAC P.O. Box 2591 Sacramento, California 95812 Dear Dr. Thal: Thank you for your letter of April 4, 1979 in which you ask for advice regarding the reporting obligations of the Public Vision League (PVL) and the California Optometric Political Action Committee (CAL-OPAC). Your letter states that PVL originally collected funds for political purposes prior to the adoption of the Political Reform Act, and these funds now total $38,777.07. You ask if PVL may transfer these funds to CAL-OPAC with the intention that CAL-OPAC will use the funds for campaign and lobbying activities. The proposed transfer described in your letter from PVL to CAL-OPAC is permitted under the Act. With regard to the transfer of funds for campaign activities, PVL must file a Major Donor Statement (Form 461) and report the lump sum amount contributed to CAL-OPAC. With regard to the transfer of funds for lobbying activities, if $250 or more is transferred for lobbying activities, PVL must file a Report of Person Spending $250 or More to Influence Legislative or Administrative Action (Form 650), and this report must be filed in the month following the month in which the transfer was made. If you have further questions, please contact me. Sincerely, Lee Rosenthal Chief, Legal Division April 4, 1979 Fair Political Practices Commission 1100 K Street P.O. Box 807 Sacramento, CA 95804 Dear Commissioners: Prior to 1975, monies were collected by the Public Vision League, a tax exempt corporation for political action purposes. Currently, there are $38,777.07 held in a Home Federal Savings account in Coronado, California. There has been no activity in this account since June of 1975. Because these monies were originally collected for political action purposes prior to the passage of the Political Reform Act of 1974, the Public Vision League (ID#742-642) would like to transfer these monies to the account of the California Optometric Political Action Committee (ID#745-825). Specifically, is this transaction allowable and what are the reporting obligations of both the Public Vision League and Cal-OPAC? If these monies can be so transferred, may a portion be allocated: 1. To Legislative-Cal-OPAC Administrative Expense used to cover the cost of lobbying activities and the administrative/accounting/bookkeeping/reporting costs incurred pursuant to the Political Reform Act; and 2. To the general Cal-OPAC fund used for direct campaign contributions. Because we wish to complete the transaction by April 15, 1979, we would appreciate your response by April 13th. Thank you for your assistance. Sincerely, Bernhardt Thal, O.D. Bernhardt Thal, O.D., President Cal-OPAC BT/lra",
+    "summary": "FPPC advises that the Public Vision League may transfer pre-1975 collected funds ($38,777.07) to the California Optometric Political Action Committee for both campaign and lobbying purposes, subject to specific filing requirements for each use of funds."
+  }
+}

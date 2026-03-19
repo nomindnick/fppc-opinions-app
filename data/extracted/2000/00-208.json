@@ -1,0 +1,71 @@
+{
+  "id": "00-208",
+  "year": 2000,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2000/00-208.pdf",
+  "pdf_sha256": "c888a5c6e8b4a2477c60edd7424999879df2a94692ebfc481ba94de7f8abffe2",
+  "local_pdf_path": "raw_pdfs/2000/00-208.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2000 Advice Letter # 00-208",
+    "tags": [
+      "2000",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 00:43:09",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2000&tagCount=1&page=14"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T21:43:01.608942Z",
+    "page_count": 1,
+    "word_count": 86,
+    "char_count": 570,
+    "quality_score": 0.847534627352195,
+    "olmocr_cost": 0.00249314,
+    "native_word_count": 106
+  },
+  "content": {
+    "full_text": "September 12, 2000\n\nDouglas Williams, Fire Chief\nRincon Valley Fire Protection District\n91 Middle Rincon Road\nSanta Rosa, CA 95409-3406\n\nRe: Your Request for Advice\nOur File No. W-00-208\n\nDear Chief Williams:\n\nThis letter is to confirm that your request for advice, received via facsimile by the Fair Political Practices Commission on September 6, 2000, has been withdrawn. If you have any other questions regarding this matter, please contact me at (916) 322-5660.\n\nSincerely,\n\nLuisa Menchaca\nAssistant General Counsel\n\nBy: Deborah Allison\nStaff Counsel, Legal Division",
+    "full_text_markdown": "September 12, 2000\n\nDouglas Williams, Fire Chief\nRincon Valley Fire Protection District\n91 Middle Rincon Road\nSanta Rosa, CA 95409-3406\n\nRe: Your Request for Advice\nOur File No. W-00-208\n\nDear Chief Williams:\n\nThis letter is to confirm that your request for advice, received via facsimile by the Fair Political Practices Commission on September 6, 2000, has been withdrawn. If you have any other questions regarding this matter, please contact me at (916) 322-5660.\n\nSincerely,\n\nLuisa Menchaca\nAssistant General Counsel\n\nBy: Deborah Allison\nStaff Counsel, Legal Division"
+  },
+  "parsed": {
+    "date": "2000-09-12",
+    "date_raw": "September 12, 2000",
+    "requestor_name": null,
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T21:43:01.608942Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "September 12, 2000 Douglas Williams, Fire Chief Rincon Valley Fire Protection District 91 Middle Rincon Road Santa Rosa, CA 95409-3406 Re: Your Request for Advice Our File No. W-00-208 Dear Chief Williams: This letter is to confirm that your request for advice, received via facsimile by the Fair Political Practices Commission on September 6, 2000, has been withdrawn. If you have any other questions regarding this matter, please contact me at (916) 322-5660. Sincerely, Luisa Menchaca Assistant General Counsel By: Deborah Allison Staff Counsel, Legal Division",
+    "qa_source": "extracted",
+    "first_500_words": "September 12, 2000 Douglas Williams, Fire Chief Rincon Valley Fire Protection District 91 Middle Rincon Road Santa Rosa, CA 95409-3406 Re: Your Request for Advice Our File No. W-00-208 Dear Chief Williams: This letter is to confirm that your request for advice, received via facsimile by the Fair Political Practices Commission on September 6, 2000, has been withdrawn. If you have any other questions regarding this matter, please contact me at (916) 322-5660. Sincerely, Luisa Menchaca Assistant General Counsel By: Deborah Allison Staff Counsel, Legal Division",
+    "summary": null
+  }
+}

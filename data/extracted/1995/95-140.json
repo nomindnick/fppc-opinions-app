@@ -1,0 +1,76 @@
+{
+  "id": "95-140",
+  "year": 1995,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/1995/95-140.pdf",
+  "pdf_sha256": "9921bac64bed45c231d846152ab915f16d79c012d7671b305f134b9f9ff1610d",
+  "local_pdf_path": "raw_pdfs/1995/95-140.pdf",
+  "source_metadata": {
+    "title_raw": "Fessler, Daniel Year: 1995 Advice Letter # 95-140",
+    "tags": [
+      "1995",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:37:18",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1995&tagCount=1&page=8"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:57.323932Z",
+    "page_count": 2,
+    "word_count": 325,
+    "char_count": 2248,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 325
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\nApril 25,\n1995\nCathy Mattias\nPublic Utilities Commission\nOffice of the President\nState Building\n505 Van Ness Avenue\nSan Francisco,\nCA 94102\nRe:\nYour Request for Confirmation\nof Telephone Assistance\nOur File No.\n1-95—140\nDear Ms. Mattias:\nYou have requested confirmation of telephone assistance\nconcerning the conflict of interest disclosure provisions of the\nPolitical Reform Act on behalf of Commissioner Daniel Fessler,\nwhose term with the California Transportation Commission ended on\nApril 1,\n1995.1/\nSince your letter is a general inquiry,\nwe\nconsider your letter to be a request for informal assistance\npursuant to Regulation 18329(c).\n2\n!\nAs we discussed, the conflict of interest code for the\nCalifornia Transportation Commission\n(copy enclosed)\nrequires\ncommissioners to disclose their financial interests under\nDisclosure Category 1.\nDisclosure Category\n1 requires disclosure\nof “all sources of income,\ninterests in real property,\nand\ninvestments and business positions”.\nTherefore,\nCommissioner\nFessler must disclose all reportable investments, interests in\nreal property,\nsources of income,\nand business positions for the\nperiod beginning January 1,\n1995 through the date he left office.\nThe California Transportation Commission’s., conflict of interest\ncode does not limit disclosure of travel payments, advances,\nand\nreimbursements to only those pertaining to the California\nTransportation Commission.\nGovernment Code Sections 81000-91015.\nAll statutory\nreferences are to the Government Code unless otherwise indicated.\nCommission regulations appear at\n2 California Code of Regulations\nSection 18000,\n,g.\nAll references to regulations are to Title\n2,\nDivision\n6 of the California Code of Regulations.\n2!\nInformal assistance does not provide the requestor with the\nimmunity provided by an opinion or formal written advice.\n(Section 83114; Regulation 18329(c) (3).)\n428 J Street, Suite 800\n•\nP.O. Box 807\n•\nSacramento, CA\n95804-0807\n•\n(916) 322-5660\n\n\nMs. Nattias\nOur File No.\n1-95-140\nPage Two\nIf you have any questions or need further assistance, please\ncontact me at\n(916)\n322—5660.\nSincerely,\nSteven G.\nChurchwell\nGeneral Counsel\nby:\nDixie Howard\nPolitical Reform Consultant\nEnclosure\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1995-04-25",
+    "date_raw": "April 25,\n1995",
+    "requestor_name": "Mattias",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "informal_advice"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "What conflict of interest disclosure requirements apply to a departing California Transportation Commission commissioner under the Political Reform Act's disclosure provisions?",
+    "conclusion_synthetic": "Commissioner Fessler must disclose all reportable investments, interests in real property, sources of income, and business positions under Disclosure Category 1 for the period from January 1, 1995 through his departure date, with no limitation to Commission-related travel payments, advances, and reimbursements.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Informal advice letter (not formal written advice per Regulation 18329(c)). No explicit QUESTION or CONCLUSION sections; content inferred from body text. Document provides confirmation of prior telephone assistance. Disclosure requirements and statutory references clearly stated."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "83114"
+    ],
+    "regulations": [
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "gifts_honoraria",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:34:57.323932Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: What conflict of interest disclosure requirements apply to a departing California Transportation Commission commissioner under the Political Reform Act's disclosure provisions?\n\nCONCLUSION: Commissioner Fessler must disclose all reportable investments, interests in real property, sources of income, and business positions under Disclosure Category 1 for the period from January 1, 1995 through his departure date, with no limitation to Commission-related travel payments, advances, and reimbursements.",
+    "qa_source": "synthetic",
+    "first_500_words": "California Fair Political Practices Commission April 25, 1995 Cathy Mattias Public Utilities Commission Office of the President State Building 505 Van Ness Avenue San Francisco, CA 94102 Re: Your Request for Confirmation of Telephone Assistance Our File No. 1-95—140 Dear Ms. Mattias: You have requested confirmation of telephone assistance concerning the conflict of interest disclosure provisions of the Political Reform Act on behalf of Commissioner Daniel Fessler, whose term with the California Transportation Commission ended on April 1, 1995.1/ Since your letter is a general inquiry, we consider your letter to be a request for informal assistance pursuant to Regulation 18329(c). 2 ! As we discussed, the conflict of interest code for the California Transportation Commission (copy enclosed) requires commissioners to disclose their financial interests under Disclosure Category 1. Disclosure Category 1 requires disclosure of “all sources of income, interests in real property, and investments and business positions”. Therefore, Commissioner Fessler must disclose all reportable investments, interests in real property, sources of income, and business positions for the period beginning January 1, 1995 through the date he left office. The California Transportation Commission’s., conflict of interest code does not limit disclosure of travel payments, advances, and reimbursements to only those pertaining to the California Transportation Commission. Government Code Sections 81000-91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations Section 18000, ,g. All references to regulations are to Title 2, Division 6 of the California Code of Regulations. 2! Informal assistance does not provide the requestor with the immunity provided by an opinion or formal written advice. (Section 83114; Regulation 18329(c) (3).) 428 J Street, Suite 800 • P.O. Box 807 • Sacramento, CA 95804-0807 • (916) 322-5660 Ms. Nattias Our File No. 1-95-140 Page Two If you have any questions or need further assistance, please contact me at (916) 322—5660. Sincerely, Steven G. Churchwell General Counsel by: Dixie Howard Political Reform Consultant Enclosure",
+    "summary": "FPPC provides informal advice confirming that a departing Transportation Commission commissioner must disclose all financial interests under Disclosure Category 1 of the agency's conflict of interest code for the applicable period."
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "75190",
+  "year": 1975,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1975/75190.PDF",
+  "pdf_sha256": "044c263c6c149439e69a1ee8394e6e2293a5b11f7374b27ce72d83842d29b685",
+  "local_pdf_path": "raw_pdfs/1975/75190.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1975 Advice Letter # 75190",
+    "tags": [
+      "1975",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:14:00",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1975&tagCount=1&page=3"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-25T22:47:21.961427Z",
+    "page_count": 1,
+    "word_count": 158,
+    "char_count": 998,
+    "quality_score": 0.9083449579831933,
+    "olmocr_cost": 0.00255764,
+    "native_word_count": 117,
+    "haiku_cost": 0.00234
+  },
+  "content": {
+    "full_text": "October 24, 1975\n\nMr. Edward Allebes\nAttorney at Law\nP.O. Box 670\nCorona, Calif. 91720\n\nDear Mr. Allebes:\n\nPursuant to our recent telephone conversation,\nI am enclosing 2 Cal. Admin. Code Section 18728, a\nregulation that was adopted by the Fair Political\nPractices Commission on October 2, 1975. This regulation describes reporting requirements for honoraria\nreceived for a speaking engagement or similar service.\nThe regulation exempts free admission, food, beverages,\nor similar nominal benefits provided at the event, and\nintrastate travel to attend the event, from income.\nHonoraria for food and lodging provided outside of the\nevent would be a payment and subject to disclosure.\n\nMy apologies for[thbedday] in sending this\nregulation you. Although adopted by the Commission,\nthere was some delay in filing the regulation with the\nSecretary of State, and I would not send a formal\nadopted copy until now.\n\nI hope this will be of assistance to you.\n\nSincerely,\n\nNatalie E. West\nCounsel\n\njp\nencl.",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1975-10-24",
+    "date_raw": "October 24, 1975",
+    "requestor_name": "Allebes",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "What are the reporting requirements for honoraria received for speaking engagements and similar services under California political practices law?",
+    "conclusion_synthetic": "Honoraria for speaking engagements are subject to disclosure, but the regulation exempts free admission, food, beverages, or similar nominal benefits provided at the event and intrastate travel from income reporting. However, honoraria for food and lodging provided outside the event would constitute a payment subject to disclosure.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an informal correspondence rather than a formal advice letter; no explicit QUESTION or CONCLUSION sections are present, but the document clearly explains FPPC guidance on a regulatory matter in response to a telephone conversation."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T17:19:00.303072Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: What are the reporting requirements for honoraria received for speaking engagements and similar services under California political practices law?\n\nCONCLUSION: Honoraria for speaking engagements are subject to disclosure, but the regulation exempts free admission, food, beverages, or similar nominal benefits provided at the event and intrastate travel from income reporting. However, honoraria for food and lodging provided outside the event would constitute a payment subject to disclosure.",
+    "qa_source": "synthetic",
+    "first_500_words": "October 24, 1975 Mr. Edward Allebes Attorney at Law P.O. Box 670 Corona, Calif. 91720 Dear Mr. Allebes: Pursuant to our recent telephone conversation, I am enclosing 2 Cal. Admin. Code Section 18728, a regulation that was adopted by the Fair Political Practices Commission on October 2, 1975. This regulation describes reporting requirements for honoraria received for a speaking engagement or similar service. The regulation exempts free admission, food, beverages, or similar nominal benefits provided at the event, and intrastate travel to attend the event from income. Honoraria for food and lodging provided outside of the event would be a payment and subject to disclosure. My apologies for the delay in sending this regulation you. Although adopted by the Commission, there was some delay in filing the regulation with the Secretary of State, and I would not send a formal adopted copy until now. I hope this will be of assistance to you. Sincerely, Natalie E. West Counsel jp encl.",
+    "summary": "FPPC Counsel Natalie E. West provides Mr. Edward Allebes with a copy of newly adopted Cal. Admin. Code Section 18728 regarding reporting requirements for honoraria from speaking engagements and similar services, with clarification on what benefits are exempt versus reportable."
+  }
+}

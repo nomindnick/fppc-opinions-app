@@ -8,6 +8,7 @@ class Settings(BaseSettings):
     port: int = 8000
     openai_api_key: str = ""
     r2_pdf_base_url: str = ""
+    r2_index_base_url: str = ""
 
     model_config = {
         "env_file": ".env",

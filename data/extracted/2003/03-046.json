@@ -1,0 +1,76 @@
+{
+  "id": "03-046",
+  "year": 2003,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2003/03-046.pdf",
+  "pdf_sha256": "fa14304943ec59867384256e72e981e35399803d51a7e16a2317b981ad6e01c8",
+  "local_pdf_path": "raw_pdfs/2003/03-046.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2003 Advice Letter # 03-046",
+    "tags": [
+      "2003",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:37:53",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2003&tagCount=1&page=3"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:19.997556Z",
+    "page_count": 1,
+    "word_count": 176,
+    "char_count": 1181,
+    "quality_score": 0.635,
+    "olmocr_cost": null,
+    "native_word_count": 176
+  },
+  "content": {
+    "full_text": "Farn PoLrrrcAL PnacrrcEs CouMrssroN\n428 J Street. Suite 620 . Sacramento, CA 95814-2329\n(916) 322-5660. Fax (916) 322-0886\nMarch 17,2003\nKen Miller, M.D.\n1658 Ocean Drive\nMcKinleyville, CA 95519\nRe:\nYour Request for Advice\nOur FiIe No. W-03-046\nDear Dr. Miller:\nThis letter is in response to your request for written advice on the conflict-of-interest\nprovisions of the Political Reform Act.r Under California Code of Regulations 18329(b)(8XB),\ncopy enclosed, unless you are an authorized representative of Roger Rodoni, for whom you seek\nassistance, the Fair Political Practices Commission cannot address your questions or provide\nanalysis. However, if you believe a violation of the Political Reform Act has occurred, you have\nthe option of filing a complaint with our Enforcement Division. I have enclosed a fact sheet\nexplaining the complaint process procedure.\nShould you have additional questions regarding this matter, please do not hesitate to\ncontact me at (916) 322-5660.\nSincerely\nW. Wallace\nGeneral. Counsel\nJwwjg\nEnclosure\n1. Government Code sections 81000-91014. Commission regulations appear at Title 2, sections 18109-\n18997, of the California Code of Regulations.\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2003-03-17",
+    "date_raw": "March 17,2003",
+    "requestor_name": "Miller",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "Under California Code of Regulations 18329(b)(8)(B), unless the requestor is an authorized representative of Roger Rodoni, the FPPC cannot address the questions or provide analysis. The requestor is directed to file a complaint with the Enforcement Division if a violation is believed to have occurred.",
+    "facts": null,
+    "analysis": ". However, if you believe a violation of the Political Reform Act has occurred, you have\nthe option of filing a complaint with our Enforcement Division. I have enclosed a fact sheet\nexplaining the complaint process procedure.",
+    "question_synthetic": "Dr. Miller requested written advice on conflict-of-interest provisions of the Political Reform Act, apparently regarding Roger Rodoni.",
+    "conclusion_synthetic": "The FPPC declined to provide advice because the requestor is not an authorized representative of the subject (Roger Rodoni), citing regulatory restrictions on third-party requests.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "Format: ocr; LLM: This is a declination/rejection letter. No traditional QUESTION or CONCLUSION sections present; letter explains regulatory barrier to providing advice. File number references 'W-03-046' which may indicate a withdrawal or ineligible request."
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [
+      "18109",
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:34:19.997556Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Dr. Miller requested written advice on conflict-of-interest provisions of the Political Reform Act, apparently regarding Roger Rodoni.\n\nCONCLUSION: Under California Code of Regulations 18329(b)(8)(B), unless the requestor is an authorized representative of Roger Rodoni, the FPPC cannot address the questions or provide analysis. The requestor is directed to file a complaint with the Enforcement Division if a violation is believed to have occurred.",
+    "qa_source": "mixed",
+    "first_500_words": "Farn PoLrrrcAL PnacrrcEs CouMrssroN 428 J Street. Suite 620 . Sacramento, CA 95814-2329 (916) 322-5660. Fax (916) 322-0886 March 17,2003 Ken Miller, M.D. 1658 Ocean Drive McKinleyville, CA 95519 Re: Your Request for Advice Our FiIe No. W-03-046 Dear Dr. Miller: This letter is in response to your request for written advice on the conflict-of-interest provisions of the Political Reform Act.r Under California Code of Regulations 18329(b)(8XB), copy enclosed, unless you are an authorized representative of Roger Rodoni, for whom you seek assistance, the Fair Political Practices Commission cannot address your questions or provide analysis. However, if you believe a violation of the Political Reform Act has occurred, you have the option of filing a complaint with our Enforcement Division. I have enclosed a fact sheet explaining the complaint process procedure. Should you have additional questions regarding this matter, please do not hesitate to contact me at (916) 322-5660. Sincerely W. Wallace General. Counsel Jwwjg Enclosure 1. Government Code sections 81000-91014. Commission regulations appear at Title 2, sections 18109- 18997, of the California Code of Regulations.",
+    "summary": "The FPPC declined Dr. Miller's request for written advice on Political Reform Act conflict-of-interest provisions because he is not an authorized representative of the subject, Roger Rodoni, and directed him to the Enforcement Division's complaint process if appropriate."
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "89-113",
+  "year": 1989,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1989/fppc-advice/89-113.PDF",
+  "pdf_sha256": "3c2ba14cdef231a787b0dcb3984fba568d30cb389272858c2d41c5485af63ea1",
+  "local_pdf_path": "raw_pdfs/1989/89-113.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1989 Advice Letter # 89-113",
+    "tags": [
+      "Advice Letter",
+      "1989"
+    ],
+    "scraped_at": "2026-01-31 16:03:45",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1989&tagCount=1&page=38"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:55.894049Z",
+    "page_count": 2,
+    "word_count": 204,
+    "char_count": 1365,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 204
+  },
+  "content": {
+    "full_text": "California \nFair Political \nPractices Commission \nFebruary 23, 1989 \nBob Connelly \nChief Administrative Officer \nAssembly Rules Committee \nstate Capitol, Room 3016 \nP.O. Box 942849 \nSacramento, CA \n94249-0001 \nRe: \nLetter No. 89-113 \nDear Mr. Connelly: \nYou have asked for confirmation of advice given concerning \nthe press release exemption in Regulation 18901. \nYour letter \naccurately states the advice we have given. \nDMG:plh \nSincerely, \nC)' <' V,J »t):Lt6 H, \nDiane M. Griffiths \nGeneral Counsel \n428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804-0807 • (916)322-5660 \n\n\ncanl ifnrttin \ncgislnturc \nCA TriE WRiGHT \nFebruary 9, 1989 \nMs. Diane Griffith \nGeneral Counsel \nF.P.P.C. \n428 J Street, Suite 800 \nSacramento, CA 95804 \nDear Ms. Griffith: \nI am writing to confirm telephone advice received by Barbara \nMilman from John McLean on January 12, 1989, and from yourself \non February 7, 1989, concerning the exception for press \nreleases in regulation 18901. \nYou and Mr. McLean advised: \n1. \nAny communication sent to the media is a press \nrelease, whether or not it is titled \"Press \nRelease\" . \n2. \nPress releases sent to high school newspapers are \npress releases within the meaning of the \nregulation. \nI would appreciate receiving written confirmation of this \nadvice. \nSincerely, \n#(~~ \nBOB CONNELLY \nChief Administrative Officer \nBC:BM:dd \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1989-02-23",
+    "date_raw": "February 23, 1989",
+    "requestor_name": "Connelly",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "What constitutes a press release under Regulation 18901, specifically whether communications sent to media (including high school newspapers) qualify as press releases under the exemption?",
+    "conclusion_synthetic": "The FPPC confirms prior telephone advice that any communication sent to the media is a press release regardless of title, and that press releases sent to high school newspapers qualify as press releases under Regulation 18901.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document includes both the incoming request (dated February 9, 1989) and FPPC response (dated February 23, 1989). No formal QUESTION or CONCLUSION sections present; question and conclusion derived from letter content. Confirmation letter format rather than detailed advisory response."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [
+      "18901"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:35:55.894049Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: What constitutes a press release under Regulation 18901, specifically whether communications sent to media (including high school newspapers) qualify as press releases under the exemption?\n\nCONCLUSION: The FPPC confirms prior telephone advice that any communication sent to the media is a press release regardless of title, and that press releases sent to high school newspapers qualify as press releases under Regulation 18901.",
+    "qa_source": "synthetic",
+    "first_500_words": "California Fair Political Practices Commission February 23, 1989 Bob Connelly Chief Administrative Officer Assembly Rules Committee state Capitol, Room 3016 P.O. Box 942849 Sacramento, CA 94249-0001 Re: Letter No. 89-113 Dear Mr. Connelly: You have asked for confirmation of advice given concerning the press release exemption in Regulation 18901. Your letter accurately states the advice we have given. DMG:plh Sincerely, C)' <' V,J »t):Lt6 H, Diane M. Griffiths General Counsel 428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804-0807 • (916)322-5660 canl ifnrttin cgislnturc CA TriE WRiGHT February 9, 1989 Ms. Diane Griffith General Counsel F.P.P.C. 428 J Street, Suite 800 Sacramento, CA 95804 Dear Ms. Griffith: I am writing to confirm telephone advice received by Barbara Milman from John McLean on January 12, 1989, and from yourself on February 7, 1989, concerning the exception for press releases in regulation 18901. You and Mr. McLean advised: 1. Any communication sent to the media is a press release, whether or not it is titled \"Press Release\" . 2. Press releases sent to high school newspapers are press releases within the meaning of the regulation. I would appreciate receiving written confirmation of this advice. Sincerely, #(~~ BOB CONNELLY Chief Administrative Officer BC:BM:dd",
+    "summary": "This is an FPPC response letter confirming prior telephone advice concerning the press release exemption in Regulation 18901, specifically addressing what communications qualify as press releases."
+  }
+}

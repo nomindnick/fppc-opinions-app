@@ -1,0 +1,73 @@
+{
+  "id": "79-206",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-206.PDF",
+  "pdf_sha256": "5678b93e73f939049be9369b40d1f3bb3957e8131ce576545afa40698e5c07d8",
+  "local_pdf_path": "raw_pdfs/1979/79-206.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1979 Advice Letter # 79-206",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:25:56",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=8"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T16:18:38.861028Z",
+    "page_count": 1,
+    "word_count": 98,
+    "char_count": 549,
+    "quality_score": 0.7762486441151802,
+    "olmocr_cost": 0.00245358,
+    "native_word_count": 102
+  },
+  "content": {
+    "full_text": "Reporting Payment in Support of a Lobbyist\n\nWhen employer pays lobbyist credit card bill, he has made a payment to influence in the form of a payment in support of a lobbyist pursuant to Section 82045(b). The lobbyist must report each expense at the time it is incurred (i.e., each time the credit card is used) together with any information about the time, place or recipient as required by the Act. Since the expenses have already been reported on an itemized basis, the employer need only report the payment of the credit card bill as a lump sum.",
+    "full_text_markdown": "Reporting Payment in Support of a Lobbyist\n\nWhen employer pays lobbyist credit card bill, he has made a payment to influence in the form of a payment in support of a lobbyist pursuant to Section 82045(b). The lobbyist must report each expense at the time it is incurred (i.e., each time the credit card is used) together with any information about the time, place or recipient as required by the Act. Since the expenses have already been reported on an itemized basis, the employer need only report the payment of the credit card bill as a lump sum."
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [
+      "82045(b)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-20T16:18:38.861028Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "Reporting Payment in Support of a Lobbyist When employer pays lobbyist credit card bill, he has made a payment to influence in the form of a payment in support of a lobbyist pursuant to Section 82045(b). The lobbyist must report each expense at the time it is incurred (i.e., each time the credit card is used) together with any information about the time, place or recipient as required by the Act. Since the expenses have already been reported on an itemized basis, the employer need only report the payment of the credit card bill as a lump sum.",
+    "qa_source": "extracted",
+    "first_500_words": "Reporting Payment in Support of a Lobbyist When employer pays lobbyist credit card bill, he has made a payment to influence in the form of a payment in support of a lobbyist pursuant to Section 82045(b). The lobbyist must report each expense at the time it is incurred (i.e., each time the credit card is used) together with any information about the time, place or recipient as required by the Act. Since the expenses have already been reported on an itemized basis, the employer need only report the payment of the credit card bill as a lump sum.",
+    "summary": null
+  }
+}

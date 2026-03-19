@@ -1,0 +1,75 @@
+{
+  "id": "UNK-91-10470",
+  "year": 1991,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1991/91273.pdf",
+  "pdf_sha256": "6e09e0eb918ededbf52937f75aa44703767113ce79160f2b890c1d3c98427523",
+  "local_pdf_path": "raw_pdfs/1991/91273.pdf",
+  "source_metadata": {
+    "title_raw": "1991-91273",
+    "tags": [
+      "1991",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:20:32",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1991&tagCount=1&page=65"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T21:25:41.536929Z",
+    "page_count": 1,
+    "word_count": 68,
+    "char_count": 496,
+    "quality_score": 0.6745034894808988,
+    "olmocr_cost": 0.0024252,
+    "native_word_count": 67
+  },
+  "content": {
+    "full_text": "MEMORANDUM\n\nApril 24, 1991\n\nTO: ADVICE FILE\nNo. M-91-273\na1-273\n\nFROM: KEVIN S. BRAATEN-MOEN\n\nSUBJECT: TELEPHONE ADVICE TO RICH EICHMAN RE: REPORTABLE COSTS ASSOCIATED WITH HOLDING A LUNCHEON\n\n-------------------------------------------------------------\n\nWhen a lobbyist employer is reporting costs associated with holding a luncheon which reportable individuals attend, the cost of flying the speaker to the event must be included in determining the total cost of the event. (§§86116 and 86111)",
+    "full_text_markdown": "MEMORANDUM\n\nApril 24, 1991\n\nTO: ADVICE FILE\nNo. M-91-273\na1-273\n\nFROM: KEVIN S. BRAATEN-MOEN\n\nSUBJECT: TELEPHONE ADVICE TO RICH EICHMAN RE: REPORTABLE COSTS ASSOCIATED WITH HOLDING A LUNCHEON\n\n-------------------------------------------------------------\n\nWhen a lobbyist employer is reporting costs associated with holding a luncheon which reportable individuals attend, the cost of flying the speaker to the event must be included in determining the total cost of the event. (§§86116 and 86111)"
+  },
+  "parsed": {
+    "date": "1991-04-24",
+    "date_raw": "April 24, 1991",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [
+      "86116"
+    ],
+    "regulations": [],
+    "prior_opinions": [
+      "M-91-273"
+    ],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "lobbying",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-19T21:25:41.536929Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "MEMORANDUM April 24, 1991 TO: ADVICE FILE No. M-91-273 a1-273 FROM: KEVIN S. BRAATEN-MOEN SUBJECT: TELEPHONE ADVICE TO RICH EICHMAN RE: REPORTABLE COSTS ASSOCIATED WITH HOLDING A LUNCHEON ------------------------------------------------------------- When a lobbyist employer is reporting costs associated with holding a luncheon which reportable individuals attend, the cost of flying the speaker to the event must be included in determining the total cost of the event. (§§86116 and 86111)",
+    "qa_source": "extracted",
+    "first_500_words": "MEMORANDUM April 24, 1991 TO: ADVICE FILE No. M-91-273 a1-273 FROM: KEVIN S. BRAATEN-MOEN SUBJECT: TELEPHONE ADVICE TO RICH EICHMAN RE: REPORTABLE COSTS ASSOCIATED WITH HOLDING A LUNCHEON ------------------------------------------------------------- When a lobbyist employer is reporting costs associated with holding a luncheon which reportable individuals attend, the cost of flying the speaker to the event must be included in determining the total cost of the event. (§§86116 and 86111)",
+    "summary": null
+  }
+}

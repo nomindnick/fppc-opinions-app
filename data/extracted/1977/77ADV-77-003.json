@@ -1,0 +1,71 @@
+{
+  "id": "77ADV-77-003",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-003.PDF",
+  "pdf_sha256": "51882a2fd03db6b64aa9b61d6fd777eb830931a96478fba4f1bd23ac4ad9649c",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-003.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-003",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:21:40",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=37"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-07T17:11:24.205214Z",
+    "page_count": 1,
+    "word_count": 192,
+    "char_count": 1198,
+    "quality_score": 0.7175,
+    "olmocr_cost": 0.00258774,
+    "native_word_count": 41
+  },
+  "content": {
+    "full_text": "March 14, 1977\n\nMr. Clark Polak  \nStonewall Democratic Club  \nof the San Fernando Valley  \n7007 Los Tilos Road  \nLos Angeles, California 90068\n\nDear Mr. Polak:\n\nThis letter is to confirm my advice to you by telephone on March 2, 1977.\n\nYou asked whether a federally chartered savings and loan association may make available a room within its offices for meetings of a political committee. I advised that the Political Reform Act does not prohibit such a practice but that the fair market value rental of the facility may be reportable as an expenditure by the association, provided it qualifies as a committee under the Political Reform Act, and reportable by your club as an in-kind contribution since, as you state, it is a \"Committee\". If the facility is offered to all political organizations on an equal basis, however, its use would not be reportable in any event as either an expenditure or contribution.\n\nSince questions concerning the applicability of federal laws are beyond our jurisdiction, I suggest you also contact the Federal Elections Commission in Washington, D.C. at its toll free number, (800) 424-9530.\n\nSincerely yours,\n\nNan Emmerson  \nSpecial Compliance Representative\n\nNE:jg",
+    "full_text_markdown": "March 14, 1977\n\nMr. Clark Polak  \nStonewall Democratic Club  \nof the San Fernando Valley  \n7007 Los Tilos Road  \nLos Angeles, California 90068\n\nDear Mr. Polak:\n\nThis letter is to confirm my advice to you by telephone on March 2, 1977.\n\nYou asked whether a federally chartered savings and loan association may make available a room within its offices for meetings of a political committee. I advised that the Political Reform Act does not prohibit such a practice but that the fair market value rental of the facility may be reportable as an expenditure by the association, provided it qualifies as a committee under the Political Reform Act, and reportable by your club as an in-kind contribution since, as you state, it is a \"Committee\". If the facility is offered to all political organizations on an equal basis, however, its use would not be reportable in any event as either an expenditure or contribution.\n\nSince questions concerning the applicability of federal laws are beyond our jurisdiction, I suggest you also contact the Federal Elections Commission in Washington, D.C. at its toll free number, (800) 424-9530.\n\nSincerely yours,\n\nNan Emmerson  \nSpecial Compliance Representative\n\nNE:jg"
+  },
+  "parsed": {
+    "date": "1977-03-14",
+    "date_raw": "March 14, 1977",
+    "requestor_name": "Polak",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "May a federally chartered savings and loan association make available a room within its offices for meetings of a political committee, and what are the reporting requirements under the Political Reform Act?",
+    "conclusion_synthetic": "The Political Reform Act does not prohibit a savings and loan association from providing a meeting room to a political committee. The fair market value rental may be reportable as an expenditure by the association and as an in-kind contribution by the political committee, unless the facility is offered to all political organizations on an equal basis, in which case it is not reportable as either.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document lacks formal QUESTION and CONCLUSION section headers; structured as a confirmation letter following prior telephone advice. Advice clearly identified in body paragraphs. Letter includes referral to Federal Elections Commission for federal law questions."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T17:11:24.205214Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: May a federally chartered savings and loan association make available a room within its offices for meetings of a political committee, and what are the reporting requirements under the Political Reform Act?\n\nCONCLUSION: The Political Reform Act does not prohibit a savings and loan association from providing a meeting room to a political committee. The fair market value rental may be reportable as an expenditure by the association and as an in-kind contribution by the political committee, unless the facility is offered to all political organizations on an equal basis, in which case it is not reportable as either.",
+    "qa_source": "synthetic",
+    "first_500_words": "March 14, 1977 Mr. Clark Polak Stonewall Democratic Club of the San Fernando Valley 7007 Los Tilos Road Los Angeles, California 90068 Dear Mr. Polak: This letter is to confirm my advice to you by telephone on March 2, 1977. You asked whether a federally chartered savings and loan association may make available a room within its offices for meetings of a political committee. I advised that the Political Reform Act does not prohibit such a practice but that the fair market value rental of the facility may be reportable as an expenditure by the association, provided it qualifies as a committee under the Political Reform Act, and reportable by your club as an in-kind contribution since, as you state, it is a \"Committee\". If the facility is offered to all political organizations on an equal basis, however, its use would not be reportable in any event as either an expenditure or contribution. Since questions concerning the applicability of federal laws are beyond our jurisdiction, I suggest you also contact the Federal Elections Commission in Washington, D.C. at its toll free number, (800) 424-9530. Sincerely yours, Nan Emmerson Special Compliance Representative NE:jg",
+    "summary": "FPPC advice letter confirming telephonic advice regarding whether a federally chartered savings and loan association may provide meeting space to a political committee and the associated reporting requirements under California's Political Reform Act."
+  }
+}

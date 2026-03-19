@@ -1,0 +1,74 @@
+{
+  "id": "02-243",
+  "year": 2002,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2002/02-243.pdf",
+  "pdf_sha256": "d6a96d0b101260e12ee271af47ae893b5c16bad14b0fdf7e509fc106d5ce96cd",
+  "local_pdf_path": "raw_pdfs/2002/02-243.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2002 Advice Letter # 02-243",
+    "tags": [
+      "Advice Letter",
+      "2002"
+    ],
+    "scraped_at": "2026-01-31 14:37:34",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2002&tagCount=1&page=34"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:28.882321Z",
+    "page_count": 1,
+    "word_count": 144,
+    "char_count": 973,
+    "quality_score": 0.5475,
+    "olmocr_cost": null,
+    "native_word_count": 144
+  },
+  "content": {
+    "full_text": "Fern Polrrrcnl PRACTrces C oMMrssroN\nP.O. Box 807 o 428 J Street . Sacramento, CA 95812-0807\n(916) 322-5660 o Fax (916) 322-0886\nSeptember 16,2002\nDebra A. Benci-Woodward\nPost Office Box 635\nOjai, CA 93024\nRe\nYour Request for Advice\nOur File No. W-02-243\nDear Ms. Benci-Woodward:\nThis letter confirms the receipt of your August 28,2002 request for advice regarding an\nunnamed council member. Under the provisions of Califomia Code of Regulations\n18329(b)(8)(B), unless you are al authorized representative of the council member for whom\nyou seek assistance, the Fair Political Practices Commission cannot address your question or\nprovide analysis. I enclose regulations 18704.2, 18705.2 and our pamphlet, \"Can I Vote?\nConflict of Interest Overview\" for your examination.\nShould you have any additional questions regarding this matter,please contact the\nCommission at (916) 322-5660.\nSincerely,\nLuisa Menchaca\nCounsel\nJohn W. Wallace\nAssistant General Counsel\nEnclosures\np4\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2002-09-16",
+    "date_raw": "September 16,2002",
+    "requestor_name": "Benci",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "Under California Code of Regulations 18329(b)(8)(B), the FPPC cannot address the question or provide analysis unless the requestor is an authorized representative of the council member.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether the FPPC can provide advice regarding an unnamed council member's potential conflict of interest or ethics issue.",
+    "conclusion_synthetic": "The FPPC declines to provide advice because the requestor is not an authorized representative of the unnamed council member, which is required under applicable regulations.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Declination letter with no substantive QUESTION or CONCLUSION sections; regulatory requirement cited as basis for declining advice. File number given as W-02-243."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [
+      "18329",
+      "18704.2"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:34:28.882321Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether the FPPC can provide advice regarding an unnamed council member's potential conflict of interest or ethics issue.\n\nCONCLUSION: Under California Code of Regulations 18329(b)(8)(B), the FPPC cannot address the question or provide analysis unless the requestor is an authorized representative of the council member.",
+    "qa_source": "mixed",
+    "first_500_words": "Fern Polrrrcnl PRACTrces C oMMrssroN P.O. Box 807 o 428 J Street . Sacramento, CA 95812-0807 (916) 322-5660 o Fax (916) 322-0886 September 16,2002 Debra A. Benci-Woodward Post Office Box 635 Ojai, CA 93024 Re Your Request for Advice Our File No. W-02-243 Dear Ms. Benci-Woodward: This letter confirms the receipt of your August 28,2002 request for advice regarding an unnamed council member. Under the provisions of Califomia Code of Regulations 18329(b)(8)(B), unless you are al authorized representative of the council member for whom you seek assistance, the Fair Political Practices Commission cannot address your question or provide analysis. I enclose regulations 18704.2, 18705.2 and our pamphlet, \"Can I Vote? Conflict of Interest Overview\" for your examination. Should you have any additional questions regarding this matter,please contact the Commission at (916) 322-5660. Sincerely, Luisa Menchaca Counsel John W. Wallace Assistant General Counsel Enclosures p4",
+    "summary": "The FPPC declines to provide advice on a conflict of interest matter involving an unnamed council member because the requestor is not an authorized representative of that official."
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": "98-272",
+  "year": 1998,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/1998/98-272.pdf",
+  "pdf_sha256": "82621f46f81dd9d9fbd39cb7eea198bb775bb1e9f131bc154e720725bca90a25",
+  "local_pdf_path": "raw_pdfs/1998/98-272.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 1998 Advice Letter # 98-272",
+    "tags": [
+      "1998",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:46:38",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1998&tagCount=1&page=18"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:44.482726Z",
+    "page_count": 2,
+    "word_count": 373,
+    "char_count": 2377,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 373
+  },
+  "content": {
+    "full_text": "FAIR POLITICAL PRACTICES COMMISSION\nP.O. Box 807\n• 428 J Street\nSacramento, CA 958 12-0807\n(916) 322-5660\n• Fax (916) 322-0886\nNovember 20, 1998\nDebi Fletcher\nAssociation of California Water Agencies\n910 K Street, Suite 100\nSacramento, California 95814-3512\nRe: Your Request for Advice\nOur File No. G-98-272\nDear Ms. Fletcher:\nThis letter is in response to your request for advice regarding the provisions ofthe\nPolitical Reform Act (the “Act”).’ The Commission does not respond to requests where all the\nmaterial facts have not been provided or to requests for hypothetical advice. (Regulation 18329\n(copy enclosed).) I have provided references to the applicable law and copies of advice letters\nthat may be helpful to you. Please write again with specific facts for more assistance.\nSection 86203 provides:\n“It shall be unlawful for a lobbyist, or lobbying finn, to make\ngifts to one person aggregating more than ten dollars ($10) in a\ncalendar month, or to act as an agent or intermediary in the making\nof any gift, or to arrange for the making of any gift by any other\nperson.”\nSection 86204 provides:\n“It shall be unlawful for any person knowingly to receive any gift\nwhich is made unlawful by Section 86203.”\nGovernment Code sections 81000\n- 91014. Commission regulations appear at title 2, sections 18109 -\n18995, of the California Code of Regulations.\n\n\nFile No. 1-98-272\nPage 2\nSection 86201 provides:\n“Gift’ as used in this article means a gift made directly or\nindirectly to any state candidate, elected state officer, or legislative\nofficial, or to an agency official of any agency required to be listed\non the registration statement ofthe lobbying firm or the lobbyist\nemployer of the lobbyist.”\nFor the definition of “lobbyist,” see Section 82039 and Regulation 18239. For the\ndefinition of “lobbying firm,” see Section 82038.5 and Regulation 18238.5. For the definition of\n“lobbyist employer,” see Section 82039.5 and Regulation 18239.5. For the definition of\n“arranging,” see Regulation 18624. (Copies ofthese regulations are enclosed.)\nIf you have any other questions regarding this matter, please contact me at\n(916) 322-5660.\nSincerely,\nSteven G. Churchwell\nGeneral Counsel\nBy:\nMarte Castaftos\nStaff Counsel, Legal Division\nSGC:MC:tls\nAdvice Letters Enclosed:\nMicheli Advice Letter, No. 1-93-424\nMicheli Advice Letter, No. A-94-136\nI:’sAdvice Ltrs\\98272.wpd\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1998-11-20",
+    "date_raw": "November 20, 1998",
+    "requestor_name": "Fletcher",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requestor asked for advice regarding the Political Reform Act's provisions on gifts made by lobbyists and lobbying firms, but the FPPC determined that insufficient material facts were provided to give specific guidance.",
+    "conclusion_synthetic": "The FPPC declined to provide advice because the request lacked sufficient material facts and appeared to seek hypothetical guidance. The FPPC provided relevant statutory citations (sections 86201-86204) defining gifts and prohibitions on lobbyist gift-giving, and referenced regulations and prior advice letters for further assistance.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is a declination letter with no explicit QUESTION or CONCLUSION sections. The document provides statutory references and enclosures but does not answer a specific factual question. Confidence reduced due to lack of clear question/conclusion structure."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "82038",
+      "82039",
+      "86201",
+      "86203",
+      "86204"
+    ],
+    "regulations": [
+      "18109",
+      "18238.5",
+      "18239",
+      "18239.5",
+      "18329",
+      "18624"
+    ],
+    "prior_opinions": [
+      "A-94-136",
+      "I-93-424"
+    ],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "lobbying",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:34:44.482726Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The requestor asked for advice regarding the Political Reform Act's provisions on gifts made by lobbyists and lobbying firms, but the FPPC determined that insufficient material facts were provided to give specific guidance.\n\nCONCLUSION: The FPPC declined to provide advice because the request lacked sufficient material facts and appeared to seek hypothetical guidance. The FPPC provided relevant statutory citations (sections 86201-86204) defining gifts and prohibitions on lobbyist gift-giving, and referenced regulations and prior advice letters for further assistance.",
+    "qa_source": "synthetic",
+    "first_500_words": "FAIR POLITICAL PRACTICES COMMISSION P.O. Box 807 • 428 J Street Sacramento, CA 958 12-0807 (916) 322-5660 • Fax (916) 322-0886 November 20, 1998 Debi Fletcher Association of California Water Agencies 910 K Street, Suite 100 Sacramento, California 95814-3512 Re: Your Request for Advice Our File No. G-98-272 Dear Ms. Fletcher: This letter is in response to your request for advice regarding the provisions ofthe Political Reform Act (the “Act”).’ The Commission does not respond to requests where all the material facts have not been provided or to requests for hypothetical advice. (Regulation 18329 (copy enclosed).) I have provided references to the applicable law and copies of advice letters that may be helpful to you. Please write again with specific facts for more assistance. Section 86203 provides: “It shall be unlawful for a lobbyist, or lobbying finn, to make gifts to one person aggregating more than ten dollars ($10) in a calendar month, or to act as an agent or intermediary in the making of any gift, or to arrange for the making of any gift by any other person.” Section 86204 provides: “It shall be unlawful for any person knowingly to receive any gift which is made unlawful by Section 86203.” Government Code sections 81000 - 91014. Commission regulations appear at title 2, sections 18109 - 18995, of the California Code of Regulations. File No. 1-98-272 Page 2 Section 86201 provides: “Gift’ as used in this article means a gift made directly or indirectly to any state candidate, elected state officer, or legislative official, or to an agency official of any agency required to be listed on the registration statement ofthe lobbying firm or the lobbyist employer of the lobbyist.” For the definition of “lobbyist,” see Section 82039 and Regulation 18239. For the definition of “lobbying firm,” see Section 82038.5 and Regulation 18238.5. For the definition of “lobbyist employer,” see Section 82039.5 and Regulation 18239.5. For the definition of “arranging,” see Regulation 18624. (Copies ofthese regulations are enclosed.) If you have any other questions regarding this matter, please contact me at (916) 322-5660. Sincerely, Steven G. Churchwell General Counsel By: Marte Castaftos Staff Counsel, Legal Division SGC:MC:tls Advice Letters Enclosed: Micheli Advice Letter, No. 1-93-424 Micheli Advice Letter, No. A-94-136 I:’sAdvice Ltrs\\98272.wpd",
+    "summary": "The FPPC responded to a request for advice from the Association of California Water Agencies regarding gift restrictions under the Political Reform Act, but declined to provide specific guidance due to insufficient factual information and the hypothetical nature of the request."
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "94-040",
+  "year": 1994,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1994/94-040.pdf",
+  "pdf_sha256": "e0c7a469a1b0035bf9ae7050e76e8e7e9bfc99f45f38ea4163097dc6043c033b",
+  "local_pdf_path": "raw_pdfs/1994/94-040.pdf",
+  "source_metadata": {
+    "title_raw": "Steve, Peace Year: 1994 Advice Letter # 94-040",
+    "tags": [
+      "1994",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:35:01",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1994&tagCount=1&page=13"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:02.277119Z",
+    "page_count": 2,
+    "word_count": 408,
+    "char_count": 2648,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 408
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\nMarch 24; 1994\nBeth Reno, Treasurer\n1,\nSteve Peace for Senate\n-\nP. 0.\nBox 120190\nChula Vista,\nCA 91912\nRe:\nYour Request for Advice\nOur File No.\nA—94—040\nDear Ms.\nReno:\nYou have requested confirmation of telephone advice on behalf\nof the Steve Peace for Senate Committee concerning the campaign\ndisclosure provisions of the Political Reform Act\n(the “Act”).’!\nYou inquired as to what actions should be taken by the Steve\nPeace for Senate Committee since the committee received\nnotification from Zenith Insurance Company that the company\nreimbursed one of its executives for a $100 contribution the\nexecutive made at a fundraiser that was held on September 27,\n1993.\nThe Steve.Peace for Senate Committee reported Gerald Curtin\nas the contributor on the committee’s second pre—election\nstatement in connection with the November 2,\n1993 special\nelection.\nIn addition,\nyou stated that the Steve Peace for Senate\nCommittee received a transfer of funds from the regular Assembly\ncommittee on October 29,\n1993.\nA $1,000 contribution that was\nattributed to Zenith Insurance Company was included in this\ntransfer.\nYour letter correctly summarizes my telephone advice to amend\nthe second pre—election statement to reflect Gerald Curtin as an\nintermediary for the $100 contribution received from Zenith\nInsurance Company.\nA person is an intermediary for a contribution\nif the recipient of the contribution would consider the person to\nbe the contributor without the disclosure of the identity of the\ntrue source of the contribution.\n(Regulation 18432.5.)\n1!\nGovernment Code Sections 81000-91015.\nAll statutory\nreferences are to the Government Code unless otherwise indicated.\nCommission regulations appear at\n2 California Code of Regulations\nSection 18000,\nq.\nAll references to ‘regulations are to Title\n2, Division\n6 of the California Code of Regulations.\n428 J Street, Suite 800 •\nP.O. Box 807 •\nSacramento, CA\n95804-0807 •\n(916) 322-5660\n\n\nMs.\nReno\nOur File No.\nA—94-040\nPage Two\nSince the Assembly committee had previously transferred funds\nto the Steve Peace for Senate Committee that included a $1,000\ncontribution attributed to Zenith Insurance Company, you were\nadvised that the Steve Peace for Senate Committee should return\n$100 to the Assembly committee.\nDuring a special election.. cycle,\nthe maximum\nallowable contribution from a “person” is $1,000.\nThe\nterm “person” includes a company.\n(Sections 82047 and 85305.)\nIf you have any questions or need further assistance, please\ncontact me at\n(916)\n322—5662.\nSincerely,\nSteven G. Churchwell\nGeneral Counsel\nby:\nDixie Howard\nPolitical Reform Consultant\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1993-09-27",
+    "date_raw": "September 27,\n1993",
+    "requestor_name": "Reno",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "What actions should be taken by the Steve Peace for Senate Committee since the committee received notification from Zenith Insurance Company that the company reimbursed one of its executives for a $100 contribution the executive made at a fundraiser that was held on September 27, 1993?",
+    "conclusion": "The Steve Peace for Senate Committee should amend the second pre-election statement to reflect Gerald Curtin as an intermediary for the $100 contribution received from Zenith Insurance Company. The committee should return $100 to the Assembly committee because the maximum allowable contribution from a person (including a company) during a special election cycle is $1,000, and Zenith Insurance Company's contributions exceeded this limit.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The Steve Peace for Senate Committee received a $100 contribution from an executive that was reimbursed by Zenith Insurance Company, and also received a $1,000 transfer attributed to Zenith Insurance Company. What disclosure and reporting corrections are required?",
+    "conclusion_synthetic": "The committee must amend its pre-election statement to name Gerald Curtin as an intermediary, and return $100 to the Assembly committee since Zenith Insurance Company's total contributions ($1,100) exceeded the $1,000 maximum per election cycle.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Standard FPPC advice letter format with clear question and conclusion sections. Document addresses campaign disclosure requirements under the Political Reform Act. No withdrawal or declination language present."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "82047"
+    ],
+    "regulations": [
+      "18432.5"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:35:02.277119Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: What actions should be taken by the Steve Peace for Senate Committee since the committee received notification from Zenith Insurance Company that the company reimbursed one of its executives for a $100 contribution the executive made at a fundraiser that was held on September 27, 1993?\n\nCONCLUSION: The Steve Peace for Senate Committee should amend the second pre-election statement to reflect Gerald Curtin as an intermediary for the $100 contribution received from Zenith Insurance Company. The committee should return $100 to the Assembly committee because the maximum allowable contribution from a person (including a company) during a special election cycle is $1,000, and Zenith Insurance Company's contributions exceeded this limit.",
+    "qa_source": "mixed",
+    "first_500_words": "California Fair Political Practices Commission March 24; 1994 Beth Reno, Treasurer 1, Steve Peace for Senate - P. 0. Box 120190 Chula Vista, CA 91912 Re: Your Request for Advice Our File No. A—94—040 Dear Ms. Reno: You have requested confirmation of telephone advice on behalf of the Steve Peace for Senate Committee concerning the campaign disclosure provisions of the Political Reform Act (the “Act”).’! You inquired as to what actions should be taken by the Steve Peace for Senate Committee since the committee received notification from Zenith Insurance Company that the company reimbursed one of its executives for a $100 contribution the executive made at a fundraiser that was held on September 27, 1993. The Steve.Peace for Senate Committee reported Gerald Curtin as the contributor on the committee’s second pre—election statement in connection with the November 2, 1993 special election. In addition, you stated that the Steve Peace for Senate Committee received a transfer of funds from the regular Assembly committee on October 29, 1993. A $1,000 contribution that was attributed to Zenith Insurance Company was included in this transfer. Your letter correctly summarizes my telephone advice to amend the second pre—election statement to reflect Gerald Curtin as an intermediary for the $100 contribution received from Zenith Insurance Company. A person is an intermediary for a contribution if the recipient of the contribution would consider the person to be the contributor without the disclosure of the identity of the true source of the contribution. (Regulation 18432.5.) 1! Government Code Sections 81000-91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations Section 18000, q. All references to ‘regulations are to Title 2, Division 6 of the California Code of Regulations. 428 J Street, Suite 800 • P.O. Box 807 • Sacramento, CA 95804-0807 • (916) 322-5660 Ms. Reno Our File No. A—94-040 Page Two Since the Assembly committee had previously transferred funds to the Steve Peace for Senate Committee that included a $1,000 contribution attributed to Zenith Insurance Company, you were advised that the Steve Peace for Senate Committee should return $100 to the Assembly committee. During a special election.. cycle, the maximum allowable contribution from a “person” is $1,000. The term “person” includes a company. (Sections 82047 and 85305.) If you have any questions or need further assistance, please contact me at (916) 322—5662. Sincerely, Steven G. Churchwell General Counsel by: Dixie Howard Political Reform Consultant",
+    "summary": "The FPPC confirmed telephone advice to the Steve Peace for Senate Committee regarding the proper reporting and handling of a $100 contribution reimbursed by Zenith Insurance Company, including the requirement to designate an intermediary and return excess funds to comply with contribution limits."
+  }
+}

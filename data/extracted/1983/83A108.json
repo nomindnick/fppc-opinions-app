@@ -1,0 +1,71 @@
+{
+  "id": "83A108",
+  "year": 1983,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1983/83A108.PDF",
+  "pdf_sha256": "f6c4bad17cf1375c1b44e2aa23567cb4b5b30acd09280d0cb4a7fbe5d0a9bd9b",
+  "local_pdf_path": "raw_pdfs/1983/83A108.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1983 Advice Letter # 83A108",
+    "tags": [
+      "1983",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:31:50",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1983&tagCount=1&page=5"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:51.158032Z",
+    "page_count": 1,
+    "word_count": 126,
+    "char_count": 826,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 126
+  },
+  "content": {
+    "full_text": "State of California \nMemorandum \nTo \n: File \nDate :April 20, 1983 \nFrom \nfAIR POLITICAL PRACTICES COMMISSION \nTed Prim \nSubiect: Conversation with Vance Raye \nVance RaYe counsel to the Governor, called with the following \nquestion. \nChuck Imbrecht, Chairman of the Energy Commission, has \nbeen offered a trip to Paris by the French government. \nAside from \nfull reporting of the trip, are there any other requirements under \nthe Political Reform Act? \nI told Vance that if the Energy Commission made decisions \nwhich materially affected the government of France, Mr. Imbrecht \nmight be required to disqualify himself. \nVance indicated that \nit was his understanding that the oil business in France was \ngovernment owned and so it was possible that the Energy Commission \ncould make decisions affecting the French government. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1983-04-20",
+    "date_raw": "April 20, 1983",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": ". \nChuck Imbrecht, Chairman of the Energy Commission, has \nbeen offered a trip to Paris by the French government. \nAside from \nfull reporting of the trip, are there any other requirements under \nthe Political Reform Act? \nI told Vance that if the Energy Commission made decisions \nwhich materially affected the government of France, Mr. Imbrecht \nmight be required to disqualify himself. \nVance indicated that \nit was his understanding that the oil business in France was \ngovernment owned and so it was possible that the Energy Commission \ncould make decisions affecting the French government.",
+    "conclusion": "If the Energy Commission made decisions which materially affected the government of France, Mr. Imbrecht might be required to disqualify himself.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a state official accepting a trip from a foreign government must comply with any requirements beyond reporting, and whether disqualification may be required if the official's agency makes decisions affecting that foreign government.",
+    "conclusion_synthetic": "The FPPC advised that disqualification may be required if the Energy Commission makes decisions materially affecting France, particularly since French oil operations are government-owned.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": true,
+    "parsing_notes": "Format: ocr; LLM: Internal memorandum documenting informal telephone advice; no formal Q&A sections but clear question and answer content; OCR quality appears good with minor formatting variations"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:36:51.158032Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: . \nChuck Imbrecht, Chairman of the Energy Commission, has \nbeen offered a trip to Paris by the French government. \nAside from \nfull reporting of the trip, are there any other requirements under \nthe Political Reform Act? \nI told Vance that if the Energy Commission made decisions \nwhich materially affected the government of France, Mr. Imbrecht \nmight be required to disqualify himself. \nVance indicated that \nit was his understanding that the oil business in France was \ngovernment owned and so it was possible that the Energy Commission \ncould make decisions affecting the French government.\n\nCONCLUSION: If the Energy Commission made decisions which materially affected the government of France, Mr. Imbrecht might be required to disqualify himself.",
+    "qa_source": "mixed",
+    "first_500_words": "State of California Memorandum To : File Date :April 20, 1983 From fAIR POLITICAL PRACTICES COMMISSION Ted Prim Subiect: Conversation with Vance Raye Vance RaYe counsel to the Governor, called with the following question. Chuck Imbrecht, Chairman of the Energy Commission, has been offered a trip to Paris by the French government. Aside from full reporting of the trip, are there any other requirements under the Political Reform Act? I told Vance that if the Energy Commission made decisions which materially affected the government of France, Mr. Imbrecht might be required to disqualify himself. Vance indicated that it was his understanding that the oil business in France was government owned and so it was possible that the Energy Commission could make decisions affecting the French government.",
+    "summary": "FPPC memorandum documenting a conversation with the Governor's counsel regarding gift and conflict of interest requirements when the Energy Commission Chairman receives a trip offer from the French government, advising that disqualification may be necessary if the agency makes decisions materially affecting France."
+  }
+}

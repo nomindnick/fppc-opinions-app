@@ -1,0 +1,71 @@
+{
+  "id": "90-187",
+  "year": 1990,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1990/90-187.pdf",
+  "pdf_sha256": "9b5e1a1da3d9b548c97255687fcaa62cb84556cde5135cce823042a13de5b585",
+  "local_pdf_path": "raw_pdfs/1990/90-187.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 1990 Advice Letter # 90-187",
+    "tags": [
+      "1990",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:15:07",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1990&tagCount=1&page=123"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T21:19:59.203024Z",
+    "page_count": 1,
+    "word_count": 130,
+    "char_count": 886,
+    "quality_score": 0.8406868932038835,
+    "olmocr_cost": 0.0025172199999999997,
+    "native_word_count": 141
+  },
+  "content": {
+    "full_text": "CONFIRMATION OF TELEPHONE ADVICE\n\nFrom: Lynda Cassady, Political Reform Consultant\nDate: March 6, 1990\nCaller: Chris, staff assistant\nAssemblyman Paul Woodruff\nPhone Number: 714-798-0337\n\nQuestion:\nDoes a cable television station make a contribution when it requests Assemblyman Woodruff to participate in a cable television program in which Assemblyman Woodruff would interview government related persons such as a representative of the water quality control board?\n\nAnswer:\nThe Cable television station would be providing an in-kind contribution to Assemblyman Woodruff, subject to the contribution limits, when the program is shown during an election period. The election period begins when the Assemblyman files his statement to be listed on the ballot, and ends the day after the election. The definition of \"election period\" may be considered by the Commission in the near future.",
+    "full_text_markdown": "CONFIRMATION OF TELEPHONE ADVICE\n\nFrom: Lynda Cassady, Political Reform Consultant\nDate: March 6, 1990\nCaller: Chris, staff assistant\nAssemblyman Paul Woodruff\nPhone Number: 714-798-0337\n\nQuestion:\nDoes a cable television station make a contribution when it requests Assemblyman Woodruff to participate in a cable television program in which Assemblyman Woodruff would interview government related persons such as a representative of the water quality control board?\n\nAnswer:\nThe Cable television station would be providing an in-kind contribution to Assemblyman Woodruff, subject to the contribution limits, when the program is shown during an election period. The election period begins when the Assemblyman files his statement to be listed on the ballot, and ends the day after the election. The definition of \"election period\" may be considered by the Commission in the near future."
+  },
+  "parsed": {
+    "date": "1990-03-06",
+    "date_raw": "March 6, 1990",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Does a cable television station make a contribution when it requests Assemblyman Woodruff to participate in a cable television program in which Assemblyman Woodruff would interview government related persons such as a representative of the water quality control board?\n\nAnswer:\nThe Cable television station would be providing an in-kind contribution to Assemblyman Woodruff, subject to the contribution limits, when the program is shown during an election period. The election period begins when the Assemblyman files his statement to be listed on the ballot, and ends the day after the election. The definition of \"election period\" may be considered by the Commission in the near future.",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.5499999999999999,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T21:19:59.203024Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Does a cable television station make a contribution when it requests Assemblyman Woodruff to participate in a cable television program in which Assemblyman Woodruff would interview government related persons such as a representative of the water quality control board?\n\nAnswer:\nThe Cable television station would be providing an in-kind contribution to Assemblyman Woodruff, subject to the contribution limits, when the program is shown during an election period. The election period begins when the Assemblyman files his statement to be listed on the ballot, and ends the day after the election. The definition of \"election period\" may be considered by the Commission in the near future.",
+    "qa_source": "extracted",
+    "first_500_words": "CONFIRMATION OF TELEPHONE ADVICE From: Lynda Cassady, Political Reform Consultant Date: March 6, 1990 Caller: Chris, staff assistant Assemblyman Paul Woodruff Phone Number: 714-798-0337 Question: Does a cable television station make a contribution when it requests Assemblyman Woodruff to participate in a cable television program in which Assemblyman Woodruff would interview government related persons such as a representative of the water quality control board? Answer: The Cable television station would be providing an in-kind contribution to Assemblyman Woodruff, subject to the contribution limits, when the program is shown during an election period. The election period begins when the Assemblyman files his statement to be listed on the ballot, and ends the day after the election. The definition of \"election period\" may be considered by the Commission in the near future.",
+    "summary": null
+  }
+}

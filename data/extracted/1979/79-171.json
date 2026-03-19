@@ -1,0 +1,71 @@
+{
+  "id": "79-171",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-171.PDF",
+  "pdf_sha256": "142ae002d527a48f16eaf1bb54255b78a6c59b674cd999cf97ecaddd32e2f1c5",
+  "local_pdf_path": "raw_pdfs/1979/79-171.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1979 Advice Letter # 79-171",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:26:00",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=9"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T00:52:08.903065Z",
+    "page_count": 1,
+    "word_count": 81,
+    "char_count": 439,
+    "quality_score": 0.7622617021276596,
+    "olmocr_cost": 0.00243466,
+    "native_word_count": 84
+  },
+  "content": {
+    "full_text": "Receipt of Free Ticket to Political Fundraiser -- Reporting Standards\n\nX buys a ticket to Y's political fundraiser and gives it to Z.\n\nY must report receipt of a contribution from X.\nZ must report the ticket as a contribution if he is a candidate or elected officeholder. If Z is a public official, other than an elected official, Z must report the ticket as a gift. The value of the contribution/gift to Z is the face value of the ticket.",
+    "full_text_markdown": "Receipt of Free Ticket to Political Fundraiser -- Reporting Standards\n\nX buys a ticket to Y's political fundraiser and gives it to Z.\n\nY must report receipt of a contribution from X.\nZ must report the ticket as a contribution if he is a candidate or elected officeholder. If Z is a public official, other than an elected official, Z must report the ticket as a gift. The value of the contribution/gift to Z is the face value of the ticket."
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-20T00:52:08.903065Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "Receipt of Free Ticket to Political Fundraiser -- Reporting Standards X buys a ticket to Y's political fundraiser and gives it to Z. Y must report receipt of a contribution from X. Z must report the ticket as a contribution if he is a candidate or elected officeholder. If Z is a public official, other than an elected official, Z must report the ticket as a gift. The value of the contribution/gift to Z is the face value of the ticket.",
+    "qa_source": "extracted",
+    "first_500_words": "Receipt of Free Ticket to Political Fundraiser -- Reporting Standards X buys a ticket to Y's political fundraiser and gives it to Z. Y must report receipt of a contribution from X. Z must report the ticket as a contribution if he is a candidate or elected officeholder. If Z is a public official, other than an elected official, Z must report the ticket as a gift. The value of the contribution/gift to Z is the face value of the ticket.",
+    "summary": null
+  }
+}

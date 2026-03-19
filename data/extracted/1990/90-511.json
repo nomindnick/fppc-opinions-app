@@ -1,0 +1,74 @@
+{
+  "id": "90-511",
+  "year": 1990,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1990/90-511.pdf",
+  "pdf_sha256": "2a541dc9367cc62592ef11675489a42a2e6c4fd3416e1e76b08866406435ccef",
+  "local_pdf_path": "raw_pdfs/1990/90-511.pdf",
+  "source_metadata": {
+    "title_raw": "Alliance, for Year: 1990 Advice Letter # 90-511",
+    "tags": [
+      "1990",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:12:59",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1990&tagCount=1&page=95"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T17:09:52.285953Z",
+    "page_count": 1,
+    "word_count": 154,
+    "char_count": 979,
+    "quality_score": 0.8901790422676954,
+    "olmocr_cost": 0.0025060399999999997,
+    "native_word_count": 150,
+    "haiku_cost": 0.0024192000000000003
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\n\nAugust 21, 1990\n\n\nCatherine R. Jasper\nJasper & Jasper\nAttorneys at Law\nCommerce Bank Building\n1201 Dove Street, Sixth Floor\nNewport Beach, CA 92660\n\nRe: Your Request for Advice\nOur File No. A-90-511\n\nDear Ms. Jasper:\n\nI am writing in response to your letter requesting\nconfirmation of telephone advice which I provided you on July 31,\n1990. Your letter accurately reflects our telephone conversation,\nwherein we discussed Government Code Section 85803 and the use of\ncampaign funds for charitable donations. I advised you that\npursuant to this section, the recall campaign committee, which\nwould like to close its account, may make a donation to the\nspecial education school for the purchase of a van.\n\nI trust this answers your question.\n\nSincerely,\n\nScott Hallabrin\nActing General Counsel\n\nBy: Jill R. Stecher\nCounsel, Legal Division\n\nSH:JRS:plh\n\n\n428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804-0807 • (916)322-5660",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1990-08-21",
+    "date_raw": "August 21, 1990",
+    "requestor_name": "Alliance",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [
+      "85803"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-20T17:11:21.836740Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "This letter is from the California Fair Political Practices Commission and is dated August 21, 1990. It is addressed to Catherine R. Jasper at Jasper & Jasper Attorneys at Law, Commerce Bank Building, 1201 Dove Street, Sixth Floor, Newport Beach, CA 92660. The letter responds to Ms. Jasper's request for advice regarding confirmation of telephone advice provided on July 31, 1990. The Commission confirms that the recall campaign committee, which would like to close its account, may make a donation to the special education school for the purchase of a van pursuant to Government Code Section 85803. The letter concludes with the signature of Scott Hallabrin, Acting General Counsel, and is signed by Jill R. Stecher, Counsel, Legal Division. SH:JRS:plh",
+    "qa_source": "extracted",
+    "first_500_words": "This letter is from the California Fair Political Practices Commission and is dated August 21, 1990. It is addressed to Catherine R. Jasper at Jasper & Jasper Attorneys at Law, Commerce Bank Building, 1201 Dove Street, Sixth Floor, Newport Beach, CA 92660. The letter responds to Ms. Jasper's request for advice regarding confirmation of telephone advice provided on July 31, 1990. The Commission confirms that the recall campaign committee, which would like to close its account, may make a donation to the special education school for the purchase of a van pursuant to Government Code Section 85803. The letter concludes with the signature of Scott Hallabrin, Acting General Counsel, and is signed by Jill R. Stecher, Counsel, Legal Division. SH:JRS:plh",
+    "summary": null
+  }
+}

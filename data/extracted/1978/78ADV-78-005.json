@@ -1,0 +1,71 @@
+{
+  "id": "78ADV-78-005",
+  "year": 1978,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1978/78ADV-78-005.PDF",
+  "pdf_sha256": "c504ad7ec808af8a84b3486f0eb158ea3ca43a7516c816a45570e6dc524a2f92",
+  "local_pdf_path": "raw_pdfs/1978/78ADV-78-005.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1978ADV Advice Letter # 78ADV-78-005",
+    "tags": [
+      "Advice Letter",
+      "1978"
+    ],
+    "scraped_at": "2026-01-31 15:22:59",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=2"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:08.493518Z",
+    "page_count": 1,
+    "word_count": 152,
+    "char_count": 1009,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 152
+  },
+  "content": {
+    "full_text": "of California \nTo \nfrom \nSubject: \nm \nr \nu \nFile \nFAiR POLITICAL PRACTIC~S CqMMISSION \nBarbara Campbell.~~ \n/ \nDate \nMarch 24, 1978 \nAt its March 7, 1978, meeting the Fair Political \nPractices Commission decided that gifts of free tickets \nto bona fide political campaign events are not reportable \nor prohibited under the campaign disclosure, conflict of \ninterest or lobbyist provisions of the Political Reform \nAct. \nThe exclusion is only applicable to tickets given \nand received as gifts to bona fide political campaign \nevents. \nThe payments received from purchasers of tickets \nas well as any payments that the sponsoring committee \nmakes in connection with the bona fide political campaign \nevents will have to be reported by the sponsoring committee. \nLobbyists would continue to be prohibited from \npurchasing tickets to a bona fide political campaign \nevent sponsored by a state candidate, elected state officer \nor committee supporting either a state candidate or elected \nstate officer. \nBC:plh \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1978-03-24",
+    "date_raw": "March 24, 1978",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "At its March 7, 1978, meeting the Fair Political Practices Commission decided that gifts of free tickets to bona fide political campaign events are not reportable or prohibited under the campaign disclosure, conflict of interest or lobbyist provisions of the Political Reform Act. The exclusion is only applicable to tickets given and received as gifts to bona fide political campaign events. The payments received from purchasers of tickets as well as any payments that the sponsoring committee makes in connection with the bona fide political campaign events will have to be reported by the sponsoring committee. Lobbyists would continue to be prohibited from purchasing tickets to a bona fide political campaign event sponsored by a state candidate, elected state officer or committee supporting either a state candidate or elected state officer.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Are gifts of free tickets to bona fide political campaign events reportable or prohibited under the Political Reform Act?",
+    "conclusion_synthetic": "Free tickets to bona fide political campaign events are not reportable or prohibited as gifts, but ticket payments and sponsoring committee expenditures must be reported. Lobbyists remain prohibited from purchasing such tickets.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document lacks traditional QUESTION section header; legal question inferred from the FPPC's substantive response. Recipient is Barbara Campbell. No explicit section headers found but conclusion content is clearly stated."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:08.493518Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Are gifts of free tickets to bona fide political campaign events reportable or prohibited under the Political Reform Act?\n\nCONCLUSION: At its March 7, 1978, meeting the Fair Political Practices Commission decided that gifts of free tickets to bona fide political campaign events are not reportable or prohibited under the campaign disclosure, conflict of interest or lobbyist provisions of the Political Reform Act. The exclusion is only applicable to tickets given and received as gifts to bona fide political campaign events. The payments received from purchasers of tickets as well as any payments that the sponsoring committee makes in connection with the bona fide political campaign events will have to be reported by the sponsoring committee. Lobbyists would continue to be prohibited from purchasing tickets to a bona fide political campaign event sponsored by a state candidate, elected state officer or committee supporting either a state candidate or elected state officer.",
+    "qa_source": "mixed",
+    "first_500_words": "of California To from Subject: m r u File FAiR POLITICAL PRACTIC~S CqMMISSION Barbara Campbell.~~ / Date March 24, 1978 At its March 7, 1978, meeting the Fair Political Practices Commission decided that gifts of free tickets to bona fide political campaign events are not reportable or prohibited under the campaign disclosure, conflict of interest or lobbyist provisions of the Political Reform Act. The exclusion is only applicable to tickets given and received as gifts to bona fide political campaign events. The payments received from purchasers of tickets as well as any payments that the sponsoring committee makes in connection with the bona fide political campaign events will have to be reported by the sponsoring committee. Lobbyists would continue to be prohibited from purchasing tickets to a bona fide political campaign event sponsored by a state candidate, elected state officer or committee supporting either a state candidate or elected state officer. BC:plh",
+    "summary": "The FPPC advises that gifts of free tickets to bona fide political campaign events are not reportable or prohibited, though payments for tickets and related committee expenditures must be reported, and lobbyists are prohibited from purchasing such tickets."
+  }
+}

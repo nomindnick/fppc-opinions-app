@@ -1,0 +1,72 @@
+{
+  "id": "78ADV-78-313",
+  "year": 1978,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1978/78ADV-78-313.PDF",
+  "pdf_sha256": "2aa1782fe310c21cb5251bcf00458fcca23d8998637b903a05d90ee042bf2051",
+  "local_pdf_path": "raw_pdfs/1978/78ADV-78-313.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1978ADV Advice Letter # 78ADV-78-313",
+    "tags": [
+      "Advice Letter",
+      "1978"
+    ],
+    "scraped_at": "2026-01-31 15:23:34",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=10"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T16:02:30.914385Z",
+    "page_count": 1,
+    "word_count": 165,
+    "char_count": 1020,
+    "quality_score": 0.9154971359940872,
+    "olmocr_cost": 0.00250432,
+    "native_word_count": 9,
+    "haiku_cost": 0.002296
+  },
+  "content": {
+    "full_text": "State of California\n\nMemorandum\n\nTo: Dwight Dickerson, Esq.\nFair Political Practices Commission\n1100 K Street\nP.O. Box 807\nSacramento, CA 95804\n\nFrom: Office of the Attorney General\n\nSubject: Gifts of Tickets - Reporting Requirements\n\nDepartment of Justice\n\nDate: September 14, 1978\n\nFile No.:\n\nTelephone: ATSS ( )\n\nThis is to confirm our telephone conversation today in which\nyou advised that public employees would not be required to\nreport as gifts or income tickets to a political fund raising\ndinner purchased by a corporation and given to the public employee,\neven when the cost of the ticket exceeded $25.00.\n\nMoreover, the corporation purchasing the fund raising tickets would\nnot be required to report the gift of the tickets given to any\npublic employees.\n\nIn the event your office has a change in position, please let me\nknow immediately in order that our client may be notified before\nthe event takes place.\n\nThank you for your assistance in this matter.\n\nCONSTANCE M. BARTON\nDeputy Attorney General\n\nCM:ital",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether public employees must report as gifts or income tickets to a political fundraising dinner purchased by a corporation, and whether the corporation must report the gift of such tickets.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.75,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an incoming correspondence from Attorney General's office to FPPC, not an FPPC advice letter response. No formal Q/A sections present. Document confirms FPPC's oral position rather than requesting advice. Date and year inferred from document ID (1978)."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T16:56:41.177374Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether public employees must report as gifts or income tickets to a political fundraising dinner purchased by a corporation, and whether the corporation must report the gift of such tickets.",
+    "qa_source": "synthetic",
+    "first_500_words": "This is a memorandum from the Office of the Attorney General to Dwight Dickerson, Esq., Fair Political Practices Commission, regarding gifts of tickets and reporting requirements. The memo states: This is to confirm our telephone conversation today in which you advised that public employees would not be required to report as gifts or income tickets to a political fund raising dinner purchased by a corporation and given to the public employee, even when the cost of the ticket exceeded $25.00. Moreover, the corporation purchasing the fund raising tickets would not be required to report the gift of the tickets given to any public employees. In the event your office has a change in position, please let me know immediately in order that our client may be notified before the event takes place. Thank you for your assistance in this matter. CONSTANCE M. BARTON Deputy Attorney General CMB:tal",
+    "summary": "A memorandum from the Office of the Attorney General to the FPPC confirming a telephone conversation in which the FPPC advised that public employees need not report political fundraising dinner tickets as gifts or income (even if exceeding $25), and corporations need not report such gifts to public employees."
+  }
+}

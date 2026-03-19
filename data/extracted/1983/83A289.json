@@ -1,0 +1,75 @@
+{
+  "id": "83A289",
+  "year": 1983,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1983/83A289.PDF",
+  "pdf_sha256": "f86b529678aaca2fe74c66a934f5f5ac730249424302375133ed03fd19364cf8",
+  "local_pdf_path": "raw_pdfs/1983/83A289.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1983 Advice Letter # 83A289",
+    "tags": [
+      "1983",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:31:32",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1983&tagCount=1"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T15:23:09.578636Z",
+    "page_count": 1,
+    "word_count": 84,
+    "char_count": 546,
+    "quality_score": 0.8180786862235767,
+    "olmocr_cost": 0.00247766,
+    "native_word_count": 86
+  },
+  "content": {
+    "full_text": "State of California\n\nMemorandum\n\nTo: Advice File: Section 82015\nDate: 12/21/83\nM-83-289\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION\nCarla Wardlow\n\nSubject: Fundraising events held in someone's home or office\n\nSection 82015 excludes from the definition of \"contribution\" fundraising events held in a person's home or office if the cost is $500 or less. This exclusion also applies to fundraising events held in the home of another officeholder or candidate, except that use of an official's public office would probably be a misuse of public funds.",
+    "full_text_markdown": "State of California\n\nMemorandum\n\nTo: Advice File: Section 82015\nDate: 12/21/83\nM-83-289\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION\nCarla Wardlow\n\nSubject: Fundraising events held in someone's home or office\n\nSection 82015 excludes from the definition of \"contribution\" fundraising events held in a person's home or office if the cost is $500 or less. This exclusion also applies to fundraising events held in the home of another officeholder or candidate, except that use of an official's public office would probably be a misuse of public funds."
+  },
+  "parsed": {
+    "date": "1983-12-21",
+    "date_raw": "12/21/83",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [
+      "82015"
+    ],
+    "regulations": [],
+    "prior_opinions": [
+      "M-83-289"
+    ],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-20T15:23:09.578636Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "State of California Memorandum To: Advice File: Section 82015 Date: 12/21/83 M-83-289 From: FAIR POLITICAL PRACTICES COMMISSION Carla Wardlow Subject: Fundraising events held in someone's home or office Section 82015 excludes from the definition of \"contribution\" fundraising events held in a person's home or office if the cost is $500 or less. This exclusion also applies to fundraising events held in the home of another officeholder or candidate, except that use of an official's public office would probably be a misuse of public funds.",
+    "qa_source": "extracted",
+    "first_500_words": "State of California Memorandum To: Advice File: Section 82015 Date: 12/21/83 M-83-289 From: FAIR POLITICAL PRACTICES COMMISSION Carla Wardlow Subject: Fundraising events held in someone's home or office Section 82015 excludes from the definition of \"contribution\" fundraising events held in a person's home or office if the cost is $500 or less. This exclusion also applies to fundraising events held in the home of another officeholder or candidate, except that use of an official's public office would probably be a misuse of public funds.",
+    "summary": null
+  }
+}

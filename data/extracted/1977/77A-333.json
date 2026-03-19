@@ -1,0 +1,73 @@
+{
+  "id": "77A-333",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77A-333.PDF",
+  "pdf_sha256": "754ff2ec8b0686a167a465476a8f5b56e96b6a3a928e31fed6a4d86abc3b3a9b",
+  "local_pdf_path": "raw_pdfs/1977/77A-333.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977A Advice Letter # 77A-333",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:22:28",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=48"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-07T17:13:34.281131Z",
+    "page_count": 1,
+    "word_count": 283,
+    "char_count": 1882,
+    "quality_score": 0.6325000000000001,
+    "olmocr_cost": 0.00269868,
+    "native_word_count": 21
+  },
+  "content": {
+    "full_text": "February 2, 1977\n\nMarilyn Stonum  \nJones, Day, Reavis and Pogue  \n1801 Century Park E, Suite 900  \nLos Angeles, CA 90067\n\nDear Ms. Stonum:\n\nThis letter confirms our telephone conversation of January 31, 1977, concerning contributions made by an employee to a political action committee. As I told you, regular ongoing administrative and overhead costs incurred by a corporation in support of a political action committee are not contributions to the committee. Only additional overhead costs constitute a contribution. Although not expressly provided in the regulation defining \"contribution,\" 2 Cal. Adm. Code Section 18215, the Commission has made it clear that the provision of 2 Cal. Adm. Code Section 18225(c)(3)(A) limiting expenditure to additional overhead applies as well to contributions.\n\nI have enclosed copies of applicable forms for campaign statements and the information manual for campaign disclosure. With regard to the allocation of expenditures among various candidates, if the committee files a Form 420 the committee is not required to allocate general overhead expenses among the candidates and committees supported. (See Campaign Manual, p.16.)\n\nWith regard to the other issues we discussed, salary paid to an employee is not a contribution unless the employee spends more than 10% of his compensated time in any one month in political activities. The committee that receives the services is not required to report receipt of an in-kind contribution unless the 10% threshold is exceeded. Finally, the expenditure limitations set forth in Government Code Sections 85100-85108 do not affect transfers of funds between committees and should not be interpreted as contribution limitations.\n\nI hope this information will be of assistance. Please contact the staff if you have any additional questions.\n\nSincerely,\n\nNatalie E. West  \nStaff Counsel  \nLegal Division",
+    "full_text_markdown": "February 2, 1977\n\nMarilyn Stonum  \nJones, Day, Reavis and Pogue  \n1801 Century Park E, Suite 900  \nLos Angeles, CA 90067\n\nDear Ms. Stonum:\n\nThis letter confirms our telephone conversation of January 31, 1977, concerning contributions made by an employee to a political action committee. As I told you, regular ongoing administrative and overhead costs incurred by a corporation in support of a political action committee are not contributions to the committee. Only additional overhead costs constitute a contribution. Although not expressly provided in the regulation defining \"contribution,\" 2 Cal. Adm. Code Section 18215, the Commission has made it clear that the provision of 2 Cal. Adm. Code Section 18225(c)(3)(A) limiting expenditure to additional overhead applies as well to contributions.\n\nI have enclosed copies of applicable forms for campaign statements and the information manual for campaign disclosure. With regard to the allocation of expenditures among various candidates, if the committee files a Form 420 the committee is not required to allocate general overhead expenses among the candidates and committees supported. (See Campaign Manual, p.16.)\n\nWith regard to the other issues we discussed, salary paid to an employee is not a contribution unless the employee spends more than 10% of his compensated time in any one month in political activities. The committee that receives the services is not required to report receipt of an in-kind contribution unless the 10% threshold is exceeded. Finally, the expenditure limitations set forth in Government Code Sections 85100-85108 do not affect transfers of funds between committees and should not be interpreted as contribution limitations.\n\nI hope this information will be of assistance. Please contact the staff if you have any additional questions.\n\nSincerely,\n\nNatalie E. West  \nStaff Counsel  \nLegal Division"
+  },
+  "parsed": {
+    "date": "1977-02-02",
+    "date_raw": "February 2, 1977",
+    "requestor_name": "Stonum",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "What constitutes a contribution to a political action committee, specifically regarding corporate overhead costs, employee salary allocations, and how expenditures should be reported?",
+    "conclusion_synthetic": "Regular ongoing administrative and overhead costs are not contributions; only additional overhead costs qualify. Employee salary is not a contribution unless the employee spends more than 10% of compensated time on political activities in a month. Expenditure limitations do not apply to transfers between committees.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: No formal QUESTION or CONCLUSION section headers; extracted question and conclusion from body text. Telephone conversation confirmation letter providing regulatory guidance on contribution definitions under California Political Reform Act."
+  },
+  "citations": {
+    "government_code": [
+      "85100"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T17:13:34.281131Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: What constitutes a contribution to a political action committee, specifically regarding corporate overhead costs, employee salary allocations, and how expenditures should be reported?\n\nCONCLUSION: Regular ongoing administrative and overhead costs are not contributions; only additional overhead costs qualify. Employee salary is not a contribution unless the employee spends more than 10% of compensated time on political activities in a month. Expenditure limitations do not apply to transfers between committees.",
+    "qa_source": "synthetic",
+    "first_500_words": "February 2, 1977 Marilyn Stonum Jones, Day, Reavis and Pogue 1801 Century Park E, Suite 900 Los Angeles, CA 90067 Dear Ms. Stonum: This letter confirms our telephone conversation of January 31, 1977, concerning contributions made by an employee to a political action committee. As I told you, regular ongoing administrative and overhead costs incurred by a corporation in support of a political action committee are not contributions to the committee. Only additional overhead costs constitute a contribution. Although not expressly provided in the regulation defining \"contribution,\" 2 Cal. Adm. Code Section 18215, the Commission has made it clear that the provision of 2 Cal. Adm. Code Section 18225(c)(3)(A) limiting expenditure to additional overhead applies as well to contributions. I have enclosed copies of applicable forms for campaign statements and the information manual for campaign disclosure. With regard to the allocation of expenditures among various candidates, if the committee files a Form 420 the committee is not required to allocate general overhead expenses among the candidates and committees supported. (See Campaign Manual, p.16.) With regard to the other issues we discussed, salary paid to an employee is not a contribution unless the employee spends more than 10% of his compensated time in any one month in political activities. The committee that receives the services is not required to report receipt of an in-kind contribution unless the 10% threshold is exceeded. Finally, the expenditure limitations set forth in Government Code Sections 85100-85108 do not affect transfers of funds between committees and should not be interpreted as contribution limitations. I hope this information will be of assistance. Please contact the staff if you have any additional questions. Sincerely, Natalie E. West Staff Counsel Legal Division",
+    "summary": "FPPC staff counsel confirms that ongoing corporate overhead costs supporting a PAC are not contributions, only additional costs are; employee salary is not a contribution unless exceeding 10% time threshold; and expenditure limitations do not restrict inter-committee transfers."
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "17-011W",
+  "year": 2017,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2017/17-011W.pdf",
+  "pdf_sha256": "56677c17e5305f90921204040591b49d3c6580b5d7018b5391c5b217576870f7",
+  "local_pdf_path": "raw_pdfs/2017/17-011W.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2017 Advice Letter # 17-011W",
+    "tags": [
+      "Advice Letter",
+      "2017"
+    ],
+    "scraped_at": "2026-01-31 15:02:19",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2017&tagCount=1&page=8"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:33:11.772327Z",
+    "page_count": 1,
+    "word_count": 211,
+    "char_count": 1348,
+    "quality_score": 0.8,
+    "olmocr_cost": null,
+    "native_word_count": 211
+  },
+  "content": {
+    "full_text": "STATE OF CALIFORNIA \nFAIR POLITICAL PRACTICES COMMISSION \n· 428 J Street • Suite 620 • Sacramento, CA 95814-2329 \nI (916) 322-5660 • Fax (916) 322-0886 \nVincent C. Ewing \nChico City Attorney \nAlvarez-Glasman & Colvin \n13181 Crossroads Parkway North \nSuite 400 - West Tower \nCity oflndustry, CA 91746 \nRe: \nYour Request for Advice \nOur File No. W-17-011 \nDear Mr. Ewing: \nJanuary 25, 2017 \nThis letter is in response to your request for advice regarding the conflict of interest \nprovisions of the Political Reform Act (the \"Act\"). The Act requires the Commission to provide \nwritten advice to any person whose duties under the Act are in question or to that person's \nauthorized representative. {Section 83114(b); Regulation 18329(a).) However, the Commission may \ndecline to provide written advice if it would be inappropriate or otherwise not in the public interest \nto do so. (Regulation 18329(b)(8)(F).) \nAfter a careful review of the facts you provided, we decline to provide written advice to \nyou at this time, since the same or similar issues are currently the subject of a court proceeding in \nwhich both the City of Chico and Councilmember Karl Ory are litigants. \nShould you have any questions, please contact the Commission at (916) 322-5660. \nZWN:jgl \nSincerely, \nHyla Wagner \nGeneral Counsel \ng-\n:W.Norton \nSenior Commission Council \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2017-01-25",
+    "date_raw": "January 25, 2017",
+    "requestor_name": "Ewing",
+    "requestor_title": "City Attorney",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "After a careful review of the facts you provided, we decline to provide written advice to you at this time, since the same or similar issues are currently the subject of a court proceeding in which both the City of Chico and Councilmember Karl Ory are litigants.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requestor (Chico City Attorney) sought FPPC advice regarding conflict of interest provisions of the Political Reform Act.",
+    "conclusion_synthetic": "The FPPC declined to provide written advice because the same or similar issues are currently pending in court litigation involving the City of Chico and Councilmember Karl Ory.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is a declination letter (W-17-011W). No separate QUESTION or CONCLUSION sections with headers; conclusion text is embedded in the body of the letter. The 'W' in document ID suffix and filename indicates withdrawal/declination."
+  },
+  "citations": {
+    "government_code": [
+      "83114(b)"
+    ],
+    "regulations": [
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "gifts_honoraria",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:33:11.772327Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The requestor (Chico City Attorney) sought FPPC advice regarding conflict of interest provisions of the Political Reform Act.\n\nCONCLUSION: After a careful review of the facts you provided, we decline to provide written advice to you at this time, since the same or similar issues are currently the subject of a court proceeding in which both the City of Chico and Councilmember Karl Ory are litigants.",
+    "qa_source": "mixed",
+    "first_500_words": "STATE OF CALIFORNIA FAIR POLITICAL PRACTICES COMMISSION · 428 J Street • Suite 620 • Sacramento, CA 95814-2329 I (916) 322-5660 • Fax (916) 322-0886 Vincent C. Ewing Chico City Attorney Alvarez-Glasman & Colvin 13181 Crossroads Parkway North Suite 400 - West Tower City oflndustry, CA 91746 Re: Your Request for Advice Our File No. W-17-011 Dear Mr. Ewing: January 25, 2017 This letter is in response to your request for advice regarding the conflict of interest provisions of the Political Reform Act (the \"Act\"). The Act requires the Commission to provide written advice to any person whose duties under the Act are in question or to that person's authorized representative. {Section 83114(b); Regulation 18329(a).) However, the Commission may decline to provide written advice if it would be inappropriate or otherwise not in the public interest to do so. (Regulation 18329(b)(8)(F).) After a careful review of the facts you provided, we decline to provide written advice to you at this time, since the same or similar issues are currently the subject of a court proceeding in which both the City of Chico and Councilmember Karl Ory are litigants. Should you have any questions, please contact the Commission at (916) 322-5660. ZWN:jgl Sincerely, Hyla Wagner General Counsel g- :W.Norton Senior Commission Council",
+    "summary": "The FPPC declined to provide written advice to the Chico City Attorney regarding Political Reform Act conflict of interest provisions because the issues are subject to ongoing court proceedings."
+  }
+}

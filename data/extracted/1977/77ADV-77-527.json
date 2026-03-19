@@ -1,0 +1,72 @@
+{
+  "id": "77ADV-77-527",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-527.PDF",
+  "pdf_sha256": "b4304ea8aba4bd0f4559cfef24f00316b47cfaea68fcd424797cb240adfc1d58",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-527.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-527",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:22:32",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=49"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-27T16:10:14.895359Z",
+    "page_count": 1,
+    "word_count": 110,
+    "char_count": 859,
+    "quality_score": 0.8360227272727273,
+    "olmocr_cost": 0.00247336,
+    "native_word_count": 105,
+    "haiku_cost": 0.002092
+  },
+  "content": {
+    "full_text": "State of California\n\nMemorandum\n\nTo : Opinion Request Mailing Participants                    Date : 6-2-77\n\n                                                              M7-77-527\n\nFrom : FAIR POLITICAL PRACTICES COMMISSION\n        732 Prim\n\nSubject:\n\n[illegible] Employers [illegible] report all contributions\nin their monthly statements. May they also report\nindebtedness or indebtedness U.S. for the purpose\nof the publication, the form calculation\nprevents independent expenditures. This\ninterpretation does not restrict First\nAmendment freedoms since it does not\nlimit independent expenditures but merely\nrequire the donor to disclose them. Disclosure\nas expenditures poses a problem if the\nbeneficiary is required to disclose the\nexpenditure of funds which he has not\nactually received. This, however, is not a\nproblem with respect to donor disclosure.",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether employers or laborists must report independent expenditures in their monthly statements in addition to reporting contributions.",
+    "conclusion_synthetic": "Yes, the term 'contribution' includes independent expenditures for reporting purposes. This disclosure requirement does not violate the First Amendment as it merely requires donors to disclose expenditures rather than limiting them.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.75,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is an internal memorandum to opinion request meeting participants rather than a formal letter response. No formal QUESTION or CONCLUSION sections; content is presented in subject line format. Confident interpretation of legal question and conclusion based on substantive content provided."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T17:13:42.524724Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether employers or laborists must report independent expenditures in their monthly statements in addition to reporting contributions.\n\nCONCLUSION: Yes, the term 'contribution' includes independent expenditures for reporting purposes. This disclosure requirement does not violate the First Amendment as it merely requires donors to disclose expenditures rather than limiting them.",
+    "qa_source": "synthetic",
+    "first_500_words": "**Memorandum** To: Opinion Request Meeting Participants Date: 6-2-77 From: FAIR POLITICAL PRACTICES COMMISSION Ted Prim Subject: Employers or laborists must report all contributions in their monthly statements. Must they also report independent expenditures? Yes, for the purpose of the prohibition the term \"contribution\" includes independent expenditures. This interpretation does not restrict First Amendment freedoms since it does not limit independent expenditures but merely requires the donor to disclose them. Disclosure of expenditures poses a problem if the beneficiary is required to disclose the expenditure of funds which he has not actually received. This, however, is not a problem with respect to donor disclosure.",
+    "summary": "FPPC memorandum advising that employers and laborists must report independent expenditures as contributions in their monthly statements, with this disclosure requirement being constitutionally permissible under the First Amendment."
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "97-355",
+  "year": 1997,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/1997/97-355.pdf",
+  "pdf_sha256": "b845910ddea8ed2423bb7f1b3cdcd2413aa2c79b08ee89d3536e438c3ad00a58",
+  "local_pdf_path": "raw_pdfs/1997/97-355.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 1997 Advice Letter # 97-355",
+    "tags": [
+      "1997",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:43:19",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1997&tagCount=1&page=24"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:49.241073Z",
+    "page_count": 1,
+    "word_count": 220,
+    "char_count": 1396,
+    "quality_score": 0.8,
+    "olmocr_cost": null,
+    "native_word_count": 220
+  },
+  "content": {
+    "full_text": "Ann Batman\n8 Alderwood Way\nSan Rafael, CA 94901\nRe:\nYour Request for Assistance\nOur File No. G-97-355\nDear Ms. Batman:\nYour letter requesting advice under the Political Reform Act was received on June 27,\n1997, by the Fair Political Practices Commission.\nThe Political Reform Act (the “Act”)’ requires the Commission to provide formal written\nadvice to any person whose duties under the Act are in question or by that person’s authorized\nrepresentative. (Section 83114 (b).)\nHowever, 2 Cal. Code Regulations Section 18329 (b) (8) (A) provides that written advice\nwill be declined where the “requestor is seeking advice relating to past conduct.” Consequently,\nwe are unable to provide written advice with respect to the issues you raise in your letter.\nNonetheless, we have provided you with a number of advice letters that may be of assistance to\nyou and a copy of Regulation 18329.\nIf you need assistance with respect to a specific prospective situation, you should request\nfurther assistance. However, we will need specific facts regarding the situation to which the\nrequest relates.\nIfyou have any further questions regarding this matter, please feel free to contact me at\n(916) 322-5660.\nDW:tls\nGovernment Code Sections 81000-91015.\nRAVE MEHTA\nCH AIRMAN\nFAIR POLITICAL PRACTICES COMMISSION\nAugust 8, 1997\nSincerely,\nGraduate Assistant, Legal Division\n428 J STREET, SUITE 800, SACRAMENTO Cit\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1997-06-27",
+    "date_raw": "June 27,\n1997",
+    "requestor_name": "Batman",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "Written advice will be declined where the requestor is seeking advice relating to past conduct, pursuant to 2 Cal. Code Regulations Section 18329(b)(8)(A). The FPPC is unable to provide written advice with respect to the issues raised in Ms. Batman's letter.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Ms. Batman sought FPPC advice regarding her duties under the Political Reform Act, but the specific subject matter of her inquiry related to past conduct.",
+    "conclusion_synthetic": "The FPPC declined to provide written advice because the request concerns past conduct, which is outside the scope of permissible advice letters under California Code of Regulations Section 18329(b)(8)(A). The FPPC encouraged Ms. Batman to resubmit if she has questions about prospective situations with specific facts.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is a declination letter with no formal QUESTION or CONCLUSION sections. The legal basis for declination is clearly stated in the body of the letter. Request date was June 27, 1997; response date was August 8, 1997."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "83114(b)"
+    ],
+    "regulations": [
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "gifts_honoraria",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:34:49.241073Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Ms. Batman sought FPPC advice regarding her duties under the Political Reform Act, but the specific subject matter of her inquiry related to past conduct.\n\nCONCLUSION: Written advice will be declined where the requestor is seeking advice relating to past conduct, pursuant to 2 Cal. Code Regulations Section 18329(b)(8)(A). The FPPC is unable to provide written advice with respect to the issues raised in Ms. Batman's letter.",
+    "qa_source": "mixed",
+    "first_500_words": "Ann Batman 8 Alderwood Way San Rafael, CA 94901 Re: Your Request for Assistance Our File No. G-97-355 Dear Ms. Batman: Your letter requesting advice under the Political Reform Act was received on June 27, 1997, by the Fair Political Practices Commission. The Political Reform Act (the “Act”)’ requires the Commission to provide formal written advice to any person whose duties under the Act are in question or by that person’s authorized representative. (Section 83114 (b).) However, 2 Cal. Code Regulations Section 18329 (b) (8) (A) provides that written advice will be declined where the “requestor is seeking advice relating to past conduct.” Consequently, we are unable to provide written advice with respect to the issues you raise in your letter. Nonetheless, we have provided you with a number of advice letters that may be of assistance to you and a copy of Regulation 18329. If you need assistance with respect to a specific prospective situation, you should request further assistance. However, we will need specific facts regarding the situation to which the request relates. Ifyou have any further questions regarding this matter, please feel free to contact me at (916) 322-5660. DW:tls Government Code Sections 81000-91015. RAVE MEHTA CH AIRMAN FAIR POLITICAL PRACTICES COMMISSION August 8, 1997 Sincerely, Graduate Assistant, Legal Division 428 J STREET, SUITE 800, SACRAMENTO Cit",
+    "summary": "The FPPC declined Ms. Batman's request for advice regarding her Political Reform Act duties because her inquiry related to past conduct rather than prospective situations. The FPPC provided reference materials and invited her to submit a new request if she has questions about future conduct."
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "02-068",
+  "year": 2002,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2002/02-068.pdf",
+  "pdf_sha256": "edb6bbdceb5e9596aabddae8d1e597f63fdd27d3c0d363a49fe562839e3b9a0a",
+  "local_pdf_path": "raw_pdfs/2002/02-068.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2002 Advice Letter # 02-068",
+    "tags": [
+      "Advice Letter",
+      "2002"
+    ],
+    "scraped_at": "2026-01-31 14:35:31",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2002&tagCount=1&page=7"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T23:01:08.542305Z",
+    "page_count": 1,
+    "word_count": 98,
+    "char_count": 624,
+    "quality_score": 0.8548159079016222,
+    "olmocr_cost": 0.00250948,
+    "native_word_count": 122
+  },
+  "content": {
+    "full_text": "March 27, 2002\n\nTrent J. Benedetti, CPA\nBenedetti & Associates\nPost Office Box 5958\nSanta Maria, CA 93456-5958\n\nRe: Your Request for Advice\nOur File No. W-02-068\n\nDear Mr. Benedetti:\n\nThis letter confirms your conversation with Patricia Mayer of March 20, 2000, wherein you advised her that you sought phone advice from the Fair Political Practices Commission. Therefore, we will not provide a written response to your letter of March 15, 2002.\n\nShould you have any future questions, please feel free to contact the Commission at (916) 322-5660.\n\nVery truly yours,\n\nCarla Wardlow\nDivision Chief\nTechnical Assistance Division",
+    "full_text_markdown": "March 27, 2002\n\nTrent J. Benedetti, CPA\nBenedetti & Associates\nPost Office Box 5958\nSanta Maria, CA 93456-5958\n\nRe: Your Request for Advice\nOur File No. W-02-068\n\nDear Mr. Benedetti:\n\nThis letter confirms your conversation with Patricia Mayer of March 20, 2000, wherein you advised her that you sought phone advice from the Fair Political Practices Commission. Therefore, we will not provide a written response to your letter of March 15, 2002.\n\nShould you have any future questions, please feel free to contact the Commission at (916) 322-5660.\n\nVery truly yours,\n\nCarla Wardlow\nDivision Chief\nTechnical Assistance Division"
+  },
+  "parsed": {
+    "date": "2002-03-27",
+    "date_raw": "March 27, 2002",
+    "requestor_name": "Benedetti",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T23:01:08.542305Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "March 27, 2002 Trent J. Benedetti, CPA Benedetti & Associates Post Office Box 5958 Santa Maria, CA 93456-5958 Re: Your Request for Advice Our File No. W-02-068 Dear Mr. Benedetti: This letter confirms your conversation with Patricia Mayer of March 20, 2000, wherein you advised her that you sought phone advice from the Fair Political Practices Commission. Therefore, we will not provide a written response to your letter of March 15, 2002. Should you have any future questions, please feel free to contact the Commission at (916) 322-5660. Very truly yours, Carla Wardlow Division Chief Technical Assistance Division",
+    "qa_source": "extracted",
+    "first_500_words": "March 27, 2002 Trent J. Benedetti, CPA Benedetti & Associates Post Office Box 5958 Santa Maria, CA 93456-5958 Re: Your Request for Advice Our File No. W-02-068 Dear Mr. Benedetti: This letter confirms your conversation with Patricia Mayer of March 20, 2000, wherein you advised her that you sought phone advice from the Fair Political Practices Commission. Therefore, we will not provide a written response to your letter of March 15, 2002. Should you have any future questions, please feel free to contact the Commission at (916) 322-5660. Very truly yours, Carla Wardlow Division Chief Technical Assistance Division",
+    "summary": null
+  }
+}

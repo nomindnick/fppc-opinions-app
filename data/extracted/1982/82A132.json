@@ -1,0 +1,73 @@
+{
+  "id": "82A132",
+  "year": 1982,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1982/82A132.PDF",
+  "pdf_sha256": "c9e140bc30b47ec0e8d53d24fd109d6c1171f2825ec93ebfad763cd8bbd81e45",
+  "local_pdf_path": "raw_pdfs/1982/82A132.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1982 Advice Letter # 82A132",
+    "tags": [
+      "1982",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:30:23",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1982&tagCount=1&page=11"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:56.137285Z",
+    "page_count": 1,
+    "word_count": 278,
+    "char_count": 1799,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 278
+  },
+  "content": {
+    "full_text": "P.O. BOX 807 • SACRAMENTO, 95804 ••• 1100 K STREET BUILDING, SACRAMENTO, 95814 \n•• Administrotl_ •• \nExecutiw/L...,a1 \n•• \nEnforcement •• Statements of Economic Infen \n322~ \n322..5901 \n322-6441 \n322-6444 \nMay 18, 1982 \nMr. Dick SwaYne \n4427 Freeport Blvd. \nSacramento, C~ 95822 \nDear Mr. Swayne: \nThis letter will confirm my advice to you during our recent \ntelephone conversation in which you asked about the requirements \nfor reporting volunteer professional services being donated to a \ncampaign, specifically an employee or partner of a public relations \nfirm donating volunteer services to a campaign. \nGovernment Code Section 82015 of the Political Reform Act \nwhich defines the term contribution states in part: \nNotwithstanding the foregoing definition of Itcontribution,\" \nthe term does not include volunteer personal services or \npayments made by any individual for his or her own travel \nexpenses if such payments are made voluntarily without any \nunderstanding or agreement that they shall be, directly or \nindirectly, repaid to him or her. \nIf the employee or.partner of a public relations firm does \nnot receive compensation from the campaign and is providing the \nservices on his or her own time (time not compensated by the firm) \nsuch volunteer activity is not reportable as stated above. \nHowever, \nif any of the public relations firm's supplies or materials are \nused, or other employees, such as a secretary, are providing \nservices for 10% or more of their compensated time, then such goods \nor services are reportable as non-monetary contributions from the \npublic relations firm to the campaign. \nPlease feel free to contact me if I can be of any further \nassistance. \nLM:st \nYours Very Truly, \n~ \nc-~·ZL y \n~~';/ \nI 1'\"\"7 0----\nLynn M~ntgOmZ \n; \nPolitical Reform Consultant \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1982-05-18",
+    "date_raw": "May 18, 1982",
+    "requestor_name": "Swayne",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "What are the reporting requirements for volunteer professional services donated to a campaign, specifically when an employee or partner of a public relations firm provides volunteer services?",
+    "conclusion_synthetic": "Volunteer personal services provided by a public relations firm employee or partner are not reportable if unpaid and performed on the volunteer's own time. However, if the firm's supplies, materials, or other employees (providing 10% or more of compensated time) are used, these must be reported as non-monetary contributions from the firm.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Standard advice letter format with greeting and signature. No formal 'QUESTION' or 'CONCLUSION' section headers present, but content structure follows typical FPPC response pattern. Letter references prior telephone conversation. Statute citation (Gov. Code §82015) provided to support advice."
+  },
+  "citations": {
+    "government_code": [
+      "82015"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:36:56.137285Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: What are the reporting requirements for volunteer professional services donated to a campaign, specifically when an employee or partner of a public relations firm provides volunteer services?\n\nCONCLUSION: Volunteer personal services provided by a public relations firm employee or partner are not reportable if unpaid and performed on the volunteer's own time. However, if the firm's supplies, materials, or other employees (providing 10% or more of compensated time) are used, these must be reported as non-monetary contributions from the firm.",
+    "qa_source": "synthetic",
+    "first_500_words": "P.O. BOX 807 • SACRAMENTO, 95804 ••• 1100 K STREET BUILDING, SACRAMENTO, 95814 •• Administrotl_ •• Executiw/L...,a1 •• Enforcement •• Statements of Economic Infen 322~ 322..5901 322-6441 322-6444 May 18, 1982 Mr. Dick SwaYne 4427 Freeport Blvd. Sacramento, C~ 95822 Dear Mr. Swayne: This letter will confirm my advice to you during our recent telephone conversation in which you asked about the requirements for reporting volunteer professional services being donated to a campaign, specifically an employee or partner of a public relations firm donating volunteer services to a campaign. Government Code Section 82015 of the Political Reform Act which defines the term contribution states in part: Notwithstanding the foregoing definition of Itcontribution,\" the term does not include volunteer personal services or payments made by any individual for his or her own travel expenses if such payments are made voluntarily without any understanding or agreement that they shall be, directly or indirectly, repaid to him or her. If the employee or.partner of a public relations firm does not receive compensation from the campaign and is providing the services on his or her own time (time not compensated by the firm) such volunteer activity is not reportable as stated above. However, if any of the public relations firm's supplies or materials are used, or other employees, such as a secretary, are providing services for 10% or more of their compensated time, then such goods or services are reportable as non-monetary contributions from the public relations firm to the campaign. Please feel free to contact me if I can be of any further assistance. LM:st Yours Very Truly, ~ c-~·ZL y ~~';/ I 1'\"\"7 0---- Lynn M~ntgOmZ ; Political Reform Consultant",
+    "summary": "FPPC confirms that volunteer professional services from a public relations firm employee are not reportable contributions if unpaid and performed on personal time, but becomes reportable if firm resources or significant employee time are used."
+  }
+}

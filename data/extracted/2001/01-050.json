@@ -1,0 +1,71 @@
+{
+  "id": "01-050",
+  "year": 2001,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2001/01-050.pdf",
+  "pdf_sha256": "a5632a648eaac1b9852a4040dd40eebd13e0974dff553e90e1788c19d293f5c2",
+  "local_pdf_path": "raw_pdfs/2001/01-050.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2001 Advice Letter # 01-050",
+    "tags": [
+      "2001",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:33:12",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2001&tagCount=1&page=6"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T20:42:43.260784Z",
+    "page_count": 1,
+    "word_count": 82,
+    "char_count": 509,
+    "quality_score": 0.7627220309506528,
+    "olmocr_cost": 0.00248884,
+    "native_word_count": 100
+  },
+  "content": {
+    "full_text": "April 23, 2001\n\nJohn Brown\nCity Attorney, City of San Jacinto\nBest, Best & Krieger LLP\nP.O. Box 1028\nRiverside, California 92502-1028\n\nRe: Your Request for Advice\nOur File No. W-01-050\n\nDear Mr. Brown,\n\nPursuant to a telephone message on April 20, 2001 from Kim Byron of your office, we are withdrawing your request for advice. In lieu of written advice, you received oral informal assistance on April 4, 2001, regarding the public generally exception.\n\nSincerely,\n\nJulia Bilaver\nStaff Counsel, Legal Division",
+    "full_text_markdown": "April 23, 2001\n\nJohn Brown\nCity Attorney, City of San Jacinto\nBest, Best & Krieger LLP\nP.O. Box 1028\nRiverside, California 92502-1028\n\nRe: Your Request for Advice\nOur File No. W-01-050\n\nDear Mr. Brown,\n\nPursuant to a telephone message on April 20, 2001 from Kim Byron of your office, we are withdrawing your request for advice. In lieu of written advice, you received oral informal assistance on April 4, 2001, regarding the public generally exception.\n\nSincerely,\n\nJulia Bilaver\nStaff Counsel, Legal Division"
+  },
+  "parsed": {
+    "date": "2001-04-23",
+    "date_raw": "April 23, 2001",
+    "requestor_name": "Brown",
+    "requestor_title": "City Attorney",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T20:42:43.260784Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "April 23, 2001 John Brown City Attorney, City of San Jacinto Best, Best & Krieger LLP P.O. Box 1028 Riverside, California 92502-1028 Re: Your Request for Advice Our File No. W-01-050 Dear Mr. Brown, Pursuant to a telephone message on April 20, 2001 from Kim Byron of your office, we are withdrawing your request for advice. In lieu of written advice, you received oral informal assistance on April 4, 2001, regarding the public generally exception. Sincerely, Julia Bilaver Staff Counsel, Legal Division",
+    "qa_source": "extracted",
+    "first_500_words": "April 23, 2001 John Brown City Attorney, City of San Jacinto Best, Best & Krieger LLP P.O. Box 1028 Riverside, California 92502-1028 Re: Your Request for Advice Our File No. W-01-050 Dear Mr. Brown, Pursuant to a telephone message on April 20, 2001 from Kim Byron of your office, we are withdrawing your request for advice. In lieu of written advice, you received oral informal assistance on April 4, 2001, regarding the public generally exception. Sincerely, Julia Bilaver Staff Counsel, Legal Division",
+    "summary": null
+  }
+}

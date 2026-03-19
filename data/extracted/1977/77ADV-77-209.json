@@ -1,0 +1,71 @@
+{
+  "id": "77ADV-77-209",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-209.PDF",
+  "pdf_sha256": "3455dd4728857aaba56731d1beda54fb2ce70788ca5b4773535f4b6a7f71c84d",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-209.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-209",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:21:18",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=32"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-07T17:10:54.916417Z",
+    "page_count": 1,
+    "word_count": 197,
+    "char_count": 1143,
+    "quality_score": 0.7175,
+    "olmocr_cost": 0.00260752,
+    "native_word_count": 33
+  },
+  "content": {
+    "full_text": "December 28, 1977\n\nJerome Fishkin  \nFishkin, Plastiras & Redmond  \n5026 Geary Boulevard  \nSan Francisco, CA 94118\n\nDear Mr. Fishkin:\n\nIn response to your letter of December 12, 1977, I am providing the following advice. You propose a contract whereby the campaign manager of your campaign, Rich Meagher, will be paid $550 owed to him by you and the Fishkin Campaign Committee (I.D. No. 770041). As I understand it, Meagher will be paid through cancellation of a $500 debt owed to T & R Investments and a $60 debt owed to you. You, in turn, will credit T & R in the amount of $550 for attorney's fees.\n\nThis proposed transaction does not violate the Political Reform Act. However, as I pointed out in our telephone conversation, the committee should report an expenditure to Meagher and non-monetary contributions by you to the committee in the form of forgivenesses of your loan of $60 (parking tickets) to Meagher and your payment of the debt owed by Meagher to T & R.\n\nI hope this information has been useful. If you have any further questions, please do not hesitate to call me.\n\nSincerely,\n\nLee C. Rosenthal  \nActing Chief  \nLegal Division",
+    "full_text_markdown": "December 28, 1977\n\nJerome Fishkin  \nFishkin, Plastiras & Redmond  \n5026 Geary Boulevard  \nSan Francisco, CA 94118\n\nDear Mr. Fishkin:\n\nIn response to your letter of December 12, 1977, I am providing the following advice. You propose a contract whereby the campaign manager of your campaign, Rich Meagher, will be paid $550 owed to him by you and the Fishkin Campaign Committee (I.D. No. 770041). As I understand it, Meagher will be paid through cancellation of a $500 debt owed to T & R Investments and a $60 debt owed to you. You, in turn, will credit T & R in the amount of $550 for attorney's fees.\n\nThis proposed transaction does not violate the Political Reform Act. However, as I pointed out in our telephone conversation, the committee should report an expenditure to Meagher and non-monetary contributions by you to the committee in the form of forgivenesses of your loan of $60 (parking tickets) to Meagher and your payment of the debt owed by Meagher to T & R.\n\nI hope this information has been useful. If you have any further questions, please do not hesitate to call me.\n\nSincerely,\n\nLee C. Rosenthal  \nActing Chief  \nLegal Division"
+  },
+  "parsed": {
+    "date": "1977-12-28",
+    "date_raw": "December 28, 1977",
+    "requestor_name": "Fishkin",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "This proposed transaction does not violate the Political Reform Act. However, the committee should report an expenditure to Meagher and non-monetary contributions by the candidate to the committee in the form of forgivenesses of the candidate's loan to Meagher and payment of the debt owed by Meagher to T & R.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a proposed transaction involving campaign manager payment through debt cancellation and attorney fee credit violates the Political Reform Act and what reporting obligations arise.",
+    "conclusion_synthetic": "The FPPC concludes the transaction does not violate the Political Reform Act but requires the committee to report an expenditure to the campaign manager and the candidate to report non-monetary contributions representing the forgiveness of loans and debt payments.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: No formal QUESTION or CONCLUSION section headers present; content extracted from body text. Letter references prior telephone conversation. Document discusses complex multi-party transaction involving campaign committee, candidate, campaign manager, and third-party investor."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T17:10:54.916417Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether a proposed transaction involving campaign manager payment through debt cancellation and attorney fee credit violates the Political Reform Act and what reporting obligations arise.\n\nCONCLUSION: This proposed transaction does not violate the Political Reform Act. However, the committee should report an expenditure to Meagher and non-monetary contributions by the candidate to the committee in the form of forgivenesses of the candidate's loan to Meagher and payment of the debt owed by Meagher to T & R.",
+    "qa_source": "mixed",
+    "first_500_words": "December 28, 1977 Jerome Fishkin Fishkin, Plastiras & Redmond 5026 Geary Boulevard San Francisco, CA 94118 Dear Mr. Fishkin: In response to your letter of December 12, 1977, I am providing the following advice. You propose a contract whereby the campaign manager of your campaign, Rich Meagher, will be paid $550 owed to him by you and the Fishkin Campaign Committee (I.D. No. 770041). As I understand it, Meagher will be paid through cancellation of a $500 debt owed to T & R Investments and a $60 debt owed to you. You, in turn, will credit T & R in the amount of $550 for attorney's fees. This proposed transaction does not violate the Political Reform Act. However, as I pointed out in our telephone conversation, the committee should report an expenditure to Meagher and non-monetary contributions by you to the committee in the form of forgivenesses of your loan of $60 (parking tickets) to Meagher and your payment of the debt owed by Meagher to T & R. I hope this information has been useful. If you have any further questions, please do not hesitate to call me. Sincerely, Lee C. Rosenthal Acting Chief Legal Division",
+    "summary": "FPPC advises that a proposed debt cancellation arrangement to pay a campaign manager does not violate the Political Reform Act, but requires specific reporting of expenditures and non-monetary contributions by both the committee and candidate."
+  }
+}

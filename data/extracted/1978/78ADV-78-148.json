@@ -1,0 +1,73 @@
+{
+  "id": "78ADV-78-148",
+  "year": 1978,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1978/78ADV-78-148.PDF",
+  "pdf_sha256": "17678d489cbb81acf8f6989fac5d991162c0bee98a3aa9acebf0fcef806bf317",
+  "local_pdf_path": "raw_pdfs/1978/78ADV-78-148.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1978ADV Advice Letter # 78ADV-78-148",
+    "tags": [
+      "Advice Letter",
+      "1978"
+    ],
+    "scraped_at": "2026-01-31 15:24:52",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=28"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-07T17:00:30.159649Z",
+    "page_count": 1,
+    "word_count": 270,
+    "char_count": 1696,
+    "quality_score": 0.7175,
+    "olmocr_cost": 0.0027047,
+    "native_word_count": 10
+  },
+  "content": {
+    "full_text": "July 11, 1978\n\nMr. George Rhodes  \n18321 Ventura Blvd., Suite 896  \nTarzana, California 91356\n\nDear Mr. Rhodes:\n\nPursuant to our telephone conversation of June 29, 1978, I am writing to you in order to clarify the method of cumulating receipts on the campaign disclosure statements you file on behalf of Evelle J. Younger.\n\nGovernment Code Section 82018 states: \"'Cumulative amount' in a campaign statement means the amount contributed or expended since the closing date of the most recent post-election statement which was required to be filed by the filer.\"\n\nThis means that the period for cumulation on a campaign disclosure statement may be more or less than one calendar year, depending upon when your committee last filed a post-election statement. For example, if your committee has been in existence since the effective date of the Political Reform Act (January 7, 1975), and the committee has not been required to file campaign statements in connection with any elections, then the period for cumulation begins with January 7, 1975. When you file the post-election statement for the 1978 primary election (due July 31, 1978, with a closing date of June 30, 1978), the cumulation period ends. Therefore, the cumulation period for the campaign disclosure statements you will file for the November 7, 1978 general election will begin on July 1, 1978.\n\nEnclosed please find a fact sheet which discusses cumulation. Also, please note the discussion of \"cumulative amount\" found on Page 10 of the \"1978 Information Manual on Campaign Disclosure Provisions of the Political Reform Act.\"\n\nIf I can be of further assistance, please contact me.\n\nSincerely,\n\nJohn C. Greenwood  \nProgram Coordinator",
+    "full_text_markdown": "July 11, 1978\n\nMr. George Rhodes  \n18321 Ventura Blvd., Suite 896  \nTarzana, California 91356\n\nDear Mr. Rhodes:\n\nPursuant to our telephone conversation of June 29, 1978, I am writing to you in order to clarify the method of cumulating receipts on the campaign disclosure statements you file on behalf of Evelle J. Younger.\n\nGovernment Code Section 82018 states: \"'Cumulative amount' in a campaign statement means the amount contributed or expended since the closing date of the most recent post-election statement which was required to be filed by the filer.\"\n\nThis means that the period for cumulation on a campaign disclosure statement may be more or less than one calendar year, depending upon when your committee last filed a post-election statement. For example, if your committee has been in existence since the effective date of the Political Reform Act (January 7, 1975), and the committee has not been required to file campaign statements in connection with any elections, then the period for cumulation begins with January 7, 1975. When you file the post-election statement for the 1978 primary election (due July 31, 1978, with a closing date of June 30, 1978), the cumulation period ends. Therefore, the cumulation period for the campaign disclosure statements you will file for the November 7, 1978 general election will begin on July 1, 1978.\n\nEnclosed please find a fact sheet which discusses cumulation. Also, please note the discussion of \"cumulative amount\" found on Page 10 of the \"1978 Information Manual on Campaign Disclosure Provisions of the Political Reform Act.\"\n\nIf I can be of further assistance, please contact me.\n\nSincerely,\n\nJohn C. Greenwood  \nProgram Coordinator"
+  },
+  "parsed": {
+    "date": "1978-07-11",
+    "date_raw": "July 11, 1978",
+    "requestor_name": "Rhodes",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "How should cumulative receipts be calculated and reported on campaign disclosure statements filed on behalf of Evelle J. Younger, and what is the appropriate cumulation period?",
+    "conclusion_synthetic": "The cumulation period for campaign disclosure statements is measured from the closing date of the most recent post-election statement required to be filed, which may span more or less than one calendar year. For the committee in question, the cumulation period for the November 1978 general election statements begins July 1, 1978, following the post-election statement filing for the 1978 primary election.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.88,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document lacks formal 'QUESTION' and 'CONCLUSION' section headers typical of structured advice letters. Question and conclusion information extracted from letter body. Telephone conversation reference suggests this is responsive correspondence to an inquiry. Confidence reduced due to lack of explicit section markers."
+  },
+  "citations": {
+    "government_code": [
+      "82018"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T17:00:30.159649Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: How should cumulative receipts be calculated and reported on campaign disclosure statements filed on behalf of Evelle J. Younger, and what is the appropriate cumulation period?\n\nCONCLUSION: The cumulation period for campaign disclosure statements is measured from the closing date of the most recent post-election statement required to be filed, which may span more or less than one calendar year. For the committee in question, the cumulation period for the November 1978 general election statements begins July 1, 1978, following the post-election statement filing for the 1978 primary election.",
+    "qa_source": "synthetic",
+    "first_500_words": "July 11, 1978 Mr. George Rhodes 18321 Ventura Blvd., Suite 896 Tarzana, California 91356 Dear Mr. Rhodes: Pursuant to our telephone conversation of June 29, 1978, I am writing to you in order to clarify the method of cumulating receipts on the campaign disclosure statements you file on behalf of Evelle J. Younger. Government Code Section 82018 states: \"'Cumulative amount' in a campaign statement means the amount contributed or expended since the closing date of the most recent post-election statement which was required to be filed by the filer.\" This means that the period for cumulation on a campaign disclosure statement may be more or less than one calendar year, depending upon when your committee last filed a post-election statement. For example, if your committee has been in existence since the effective date of the Political Reform Act (January 7, 1975), and the committee has not been required to file campaign statements in connection with any elections, then the period for cumulation begins with January 7, 1975. When you file the post-election statement for the 1978 primary election (due July 31, 1978, with a closing date of June 30, 1978), the cumulation period ends. Therefore, the cumulation period for the campaign disclosure statements you will file for the November 7, 1978 general election will begin on July 1, 1978. Enclosed please find a fact sheet which discusses cumulation. Also, please note the discussion of \"cumulative amount\" found on Page 10 of the \"1978 Information Manual on Campaign Disclosure Provisions of the Political Reform Act.\" If I can be of further assistance, please contact me. Sincerely, John C. Greenwood Program Coordinator",
+    "summary": "An FPPC program coordinator clarifies the method for calculating cumulative amounts on campaign disclosure statements by explaining that the cumulation period is determined by the closing date of the most recent required post-election statement, not by calendar year."
+  }
+}

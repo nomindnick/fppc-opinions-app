@@ -1,0 +1,73 @@
+{
+  "id": "85059",
+  "year": 1985,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1985/fppc-advice/85059.PDF",
+  "pdf_sha256": "185937fab58e68139405fcfb0fdb4d92aee2b080fb854ef172f8e7aa1a9d47e9",
+  "local_pdf_path": "raw_pdfs/1985/85059.PDF",
+  "source_metadata": {
+    "title_raw": "MARSHALL, ARTHUR Year: 1985 Advice Letter # 85059",
+    "tags": [
+      "Advice Letter",
+      "1985"
+    ],
+    "scraped_at": "2026-01-31 15:35:55",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1985&tagCount=1&page=4"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T19:08:20.300186Z",
+    "page_count": 1,
+    "word_count": 119,
+    "char_count": 781,
+    "quality_score": 0.8341858485898069,
+    "olmocr_cost": 0.00250776,
+    "native_word_count": 135
+  },
+  "content": {
+    "full_text": "March 7, 1985\n\nHonorable Arthur Marshall  \n606 South Olive St., Ste. 1900  \nLos Angeles, CA 90014  \n\nRe: Our File No. A-85-059  \n\nDear Judge Marshall:\n\nThis letter will confirm the telephone advice you received last month regarding your Statement of Economic Interests. You had asked whether you must disclose an investment in a private pension plan.\n\nGovernment Code Section 82030 excludes from the definition of \"income\" payments received under a defined benefit pension plan qualified under Internal Revenue Code Section 401(a). The Commission staff has concluded that such pension plans are also not reportable as investments.\n\nI hope this information is helpful. Please let me know if I can be of further assistance.\n\nSincerely,\n\nCarla J. Wardlow  \nPolitical Reform Consultant",
+    "full_text_markdown": "March 7, 1985\n\nHonorable Arthur Marshall  \n606 South Olive St., Ste. 1900  \nLos Angeles, CA 90014  \n\nRe: Our File No. A-85-059  \n\nDear Judge Marshall:\n\nThis letter will confirm the telephone advice you received last month regarding your Statement of Economic Interests. You had asked whether you must disclose an investment in a private pension plan.\n\nGovernment Code Section 82030 excludes from the definition of \"income\" payments received under a defined benefit pension plan qualified under Internal Revenue Code Section 401(a). The Commission staff has concluded that such pension plans are also not reportable as investments.\n\nI hope this information is helpful. Please let me know if I can be of further assistance.\n\nSincerely,\n\nCarla J. Wardlow  \nPolitical Reform Consultant"
+  },
+  "parsed": {
+    "date": "1985-03-07",
+    "date_raw": "March 7, 1985",
+    "requestor_name": "MARSHALL",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [
+      "82030"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-20T19:08:20.300186Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "March 7, 1985 Honorable Arthur Marshall 606 South Olive St., Ste. 1900 Los Angeles, CA 90014 Re: Our File No. A-85-059 Dear Judge Marshall: This letter will confirm the telephone advice you received last month regarding your Statement of Economic Interests. You had asked whether you must disclose an investment in a private pension plan. Government Code Section 82030 excludes from the definition of \"income\" payments received under a defined benefit pension plan qualified under Internal Revenue Code Section 401(a). The Commission staff has concluded that such pension plans are also not reportable as investments. I hope this information is helpful. Please let me know if I can be of further assistance. Sincerely, Carla J. Wardlow Political Reform Consultant",
+    "qa_source": "extracted",
+    "first_500_words": "March 7, 1985 Honorable Arthur Marshall 606 South Olive St., Ste. 1900 Los Angeles, CA 90014 Re: Our File No. A-85-059 Dear Judge Marshall: This letter will confirm the telephone advice you received last month regarding your Statement of Economic Interests. You had asked whether you must disclose an investment in a private pension plan. Government Code Section 82030 excludes from the definition of \"income\" payments received under a defined benefit pension plan qualified under Internal Revenue Code Section 401(a). The Commission staff has concluded that such pension plans are also not reportable as investments. I hope this information is helpful. Please let me know if I can be of further assistance. Sincerely, Carla J. Wardlow Political Reform Consultant",
+    "summary": null
+  }
+}

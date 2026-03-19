@@ -1,0 +1,75 @@
+{
+  "id": "77ADV-77-270",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-270.PDF",
+  "pdf_sha256": "34a9721bca538d17d68d355cba35cd2abf98b645cca01bbcc473e4927f24bf38",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-270.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-270",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:21:22",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=33"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T12:33:43.635913Z",
+    "page_count": 3,
+    "word_count": 361,
+    "char_count": 2854,
+    "quality_score": 0.9250203352977802,
+    "olmocr_cost": 0.00761272,
+    "native_word_count": 140,
+    "haiku_cost": 0.006576
+  },
+  "content": {
+    "full_text": "July 21, 1977\n\nFrederick J. Whisman\nExecutive Officer\nCity Hall 480\nSan Francisco, CA\n\nDear Mr. Whisman:\n\n     Thank you for your letter of July 5, 1977, regarding\nthe requirements of the Political Reform Act.\n\n     The Political Reform Act requires that judges of\ncourts of record file financial disclosure statements\npursuant to Government Code Section 87200.  Court commissioners and other court personnel, of any court, are not\nrequired to file Statements of Economic Interest pursuant\nto that Section.  Furthermore, Government Code Section 82041\nspecifically exempts courts or any agency in the judicial\nbranch of government from the requirements of adopting Conflict of Interests Codes, which require officials of the\nagency to file financial disclosure statements.\n\n     I hope this has answered your question.  If you need\nfurther assistance, please contact this office.\n\n                                        Sincerely,\n\n\n\n                                        Dawn Wiser\n                                        Technical Assistance and\n                                            Analysis Division\n\nDW/gt\n\n\nbcc:  Jeanne P.\n\nFREDERICK J. WHISMAN\nEXECUTIVE OFFICER\nCITY HALL 480\n(415) 558-3169\n\nSuperior Court of California\nSan Francisco\n\nJuly 5, 1977\n\nFair Political Practices Commission\nP. O. Box 807\nSacramento, CA 95804\n\nAttention: Dawn Wiser, Technical Assistance and\nAnalysis Division\n\nGentlemen:\n\nThe copy of your letter of 12/14/76 to Commissioner\nDana of Los Angeles was forwarded to this office. Will you\nplease advise if the same rule of that letter opinion applies\nto commissioners and other court personnel, exclusive of\njudges of course, of the San Francisco Superior Court.\n\nThank you.\n\nYours truly,\n\nFREDERICK J. WHISMAN\nExecutive Officer\n\nFJW:te\nEnclosure\n\ncc: Honorable Lawrence S. Mana\n\nState of California\nFair Political Practices Commission\nP.O. BOX 807 • SACRAMENTO, 95804 • • • 1100 K STREET-BUILDING, SACRAMENTO, 95814\n\nTechnical Assistance/Administration . . . Executive/Legal . . . Enforcement/Conflict of Interest\n(916) 322-5660                                322-5501                              322-6441\n\nDecember 14, 1976\n\nFranklin E. Dana\nCommissioner, Dept. 1\n111 North Hill\nLos Angeles, CA    90012\n\nDear Mr. Dana:\n\n     As I indicated in our telephone conversation on December 10, 1976, this letter is to confirm the fact that Commissioners of the court are not required to file Statements of Economic Interests pursuant to the Political Reform Act.\n\n     If you have any further questions, please do not hesitate to contact me.\n\n                                        Sincerely,\n\n                                        [signature]\n                                        Dawn Wiser\n                                        Technical Assistance and\n                                        Analysis Division",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1977-07-21",
+    "date_raw": "July 21, 1977",
+    "requestor_name": "Whisman",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Will you please advise if the same rule of that letter opinion applies to commissioners and other court personnel, exclusive of judges of course, of the San Francisco Superior Court.",
+    "conclusion": "The Political Reform Act requires that judges of courts of record file financial disclosure statements pursuant to Government Code Section 87200. Court commissioners and other court personnel, of any court, are not required to file Statements of Economic Interest pursuant to that Section. Furthermore, Government Code Section 82041 specifically exempts courts or any agency in the judicial branch of government from the requirements of adopting Conflict of Interests Codes, which require officials of the agency to file financial disclosure statements.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requester asks whether court commissioners and other court personnel at the San Francisco Superior Court are subject to the same financial disclosure requirements as judges under the Political Reform Act.",
+    "conclusion_synthetic": "Court commissioners and other court personnel (excluding judges) are not required to file Statements of Economic Interest. Courts are exempt from adopting Conflict of Interest Codes that would otherwise require such filings.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document contains both incoming request (July 5, 1977 letter from Whisman) and FPPC response letter (July 21, 1977 from Wiser). Also includes reference correspondence from December 14, 1976 to Commissioner Dana on same topic. Explicit question and conclusion sections extracted from the primary FPPC response letter."
+  },
+  "citations": {
+    "government_code": [
+      "82041",
+      "87200"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-08T17:17:45.893258Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Will you please advise if the same rule of that letter opinion applies to commissioners and other court personnel, exclusive of judges of course, of the San Francisco Superior Court.\n\nCONCLUSION: The Political Reform Act requires that judges of courts of record file financial disclosure statements pursuant to Government Code Section 87200. Court commissioners and other court personnel, of any court, are not required to file Statements of Economic Interest pursuant to that Section. Furthermore, Government Code Section 82041 specifically exempts courts or any agency in the judicial branch of government from the requirements of adopting Conflict of Interests Codes, which require officials of the agency to file financial disclosure statements.",
+    "qa_source": "mixed",
+    "first_500_words": "July 21, 1977 Frederick J. Whisman Executive Officer City Hall 480 San Francisco, CA Dear Mr. Whisman: Thank you for your letter of July 5, 1977, regarding the requirements of the Political Reform Act. The Political Reform Act requires that judges of courts of record file financial disclosure statements pursuant to Government Code Section 87200. Court commissioners and other court personnel, of any court, are not required to file Statements of Economic Interest pursuant to that Section. Furthermore, Government Code Section 82041 specifically exempts courts or any agency in the judicial branch of government from the requirements of adopting Conflict of Interests Codes, which require officials of the agency to file financial disclosure statements. I hope this has answered your question. If you need further assistance, please contact this office. Sincerely, Dawn Wiser Technical Assistance and Analysis Division DW/gt bcc: Jeanne P. Superior Court of California San Francisco July 5, 1977 FREDERICK J. WHISMAN EXECUTIVE OFFICER CITY HALL 480 (415) 558-3169 Fair Political Practices Commission P.O. Box 807 Sacramento, CA 95804 Attention: Dawn Wiser, Technical Assistance and Analysis Division Gentlemen: The copy of your letter of 12/14/76 to Commissioner Dana of Los Angeles was forwarded to this office. Will you please advise if the same rule of that letter opinion applies to commissioners and other court personnel, exclusive of judges of course, of the San Francisco Superior Court. Thank you. Yours truly, [signature] Frederick J. Whisman FREDERICK J. WHISMAN Executive Officer FJW:te Enclosure cc: Honorable Lawrence S. Mana **State of California** **Fair Political Practices Commission** P.O. BOX 807 · SACRAMENTO, 95804 ··· 1100 K STREET BUILDING, SACRAMENTO, 95814 Technical Assistance/Administration ··· Executive/Legal ··· Enforcement/Conflict of Interest (916) 322-5660 322-5901 322-6441 December 14, 1976 Franklin E. Dana Commissioner, Dept. 1 111 North Hill Los Angeles, CA 90012 Dear Mr. Dana: As I indicated in our telephone conversation on December 10, 1976, this letter is to confirm the fact that Commissioners of the court are not required to file Statements of Economic Interests pursuant to the Political Reform Act. If you have any further questions, please do not hesitate to contact me. Sincerely, Dawn Wiser Technical Assistance and Analysis Division",
+    "summary": "FPPC confirms that judges of courts of record must file financial disclosure statements, but court commissioners and other court personnel are exempt from this requirement under the Political Reform Act."
+  }
+}

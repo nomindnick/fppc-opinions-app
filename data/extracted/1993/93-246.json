@@ -1,0 +1,71 @@
+{
+  "id": "93-246",
+  "year": 1993,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1993/93-246.pdf",
+  "pdf_sha256": "785ef69cb78d43b1183c4516bdae4da076eebc5ee98fd145174ae70cdf9013ae",
+  "local_pdf_path": "raw_pdfs/1993/93-246.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 1993 Advice Letter # 93-246",
+    "tags": [
+      "1993",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:31:35",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1993&tagCount=1&page=9"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:06.379544Z",
+    "page_count": 1,
+    "word_count": 158,
+    "char_count": 947,
+    "quality_score": 0.8,
+    "olmocr_cost": null,
+    "native_word_count": 158
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\nJune 15,\n1993\nTorn Heaton\n725 Edgewood Road\nSan Mateo,\nCA\n94402\nRe:\nYour Request for Advice\nOur File No.\nG—93--246\nDear Mr.\nHeaton:\n-\nThis.is in reply to Senator Quentin Kopp’s request that we\nassist in addressing your question as to whether there are any\nlaws prohibiting a former director of a state agency from\nendorsing products utilized by that agency.\nWe have researched this issue and find no law or agency\nregulation that prohibits former state agency employees\n(including\ndirectors and management level employees)\nfrom engaging in this\nactivity after they have left office.\nIf there are additional facts which you think may alter our\nconclusion, please contact us at the above address and we will\nassist you as best we can..\nSincer ly,\nScott Halla nfl\n‘Assistant General Counsel\ncc:\nSenator Quentin L.\nKopp\n428 J Street, Suite 800 •\nP.O. Box 807 •\nSacramento, CA\n95804-0807\n•\n(916) 322-5660\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1993-06-15",
+    "date_raw": "June 15,\n1993",
+    "requestor_name": "Heaton",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": ", please contact us at the above address and we will\nassist you as best we can..\nSincer ly,\nScott Halla nfl\n‘Assistant General Counsel\ncc:\nSenator Quentin L.\nKopp\n\n•\n(916) 322-5660",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.5499999999999999,
+    "has_standard_format": true,
+    "parsing_notes": "Format: ocr"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:35:06.379544Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "CONCLUSION: , please contact us at the above address and we will\nassist you as best we can..\nSincer ly,\nScott Halla nfl\n‘Assistant General Counsel\ncc:\nSenator Quentin L.\nKopp\n\n•\n(916) 322-5660",
+    "qa_source": "extracted",
+    "first_500_words": "California Fair Political Practices Commission June 15, 1993 Torn Heaton 725 Edgewood Road San Mateo, CA 94402 Re: Your Request for Advice Our File No. G—93--246 Dear Mr. Heaton: - This.is in reply to Senator Quentin Kopp’s request that we assist in addressing your question as to whether there are any laws prohibiting a former director of a state agency from endorsing products utilized by that agency. We have researched this issue and find no law or agency regulation that prohibits former state agency employees (including directors and management level employees) from engaging in this activity after they have left office. If there are additional facts which you think may alter our conclusion, please contact us at the above address and we will assist you as best we can.. Sincer ly, Scott Halla nfl ‘Assistant General Counsel cc: Senator Quentin L. Kopp 428 J Street, Suite 800 • P.O. Box 807 • Sacramento, CA 95804-0807 • (916) 322-5660",
+    "summary": null
+  }
+}

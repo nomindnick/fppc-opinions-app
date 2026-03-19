@@ -1,0 +1,73 @@
+{
+  "id": "85141",
+  "year": 1985,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1985/fppc-advice/85141.PDF",
+  "pdf_sha256": "26d6af91dca8f972f2bd210709c10dc780bdacc891bd954e5aade06ba9a977f1",
+  "local_pdf_path": "raw_pdfs/1985/85141.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1985 Advice Letter # 85141",
+    "tags": [
+      "Advice Letter",
+      "1985"
+    ],
+    "scraped_at": "2026-01-31 15:36:30",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1985&tagCount=1&page=12"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:40.399699Z",
+    "page_count": 1,
+    "word_count": 207,
+    "char_count": 1241,
+    "quality_score": 0.6325000000000001,
+    "olmocr_cost": null,
+    "native_word_count": 207
+  },
+  "content": {
+    "full_text": "State of California \nMemurandum \nTo \n: Advice Meeting Participants \nDate \nMay 28, 1985 \nFrom \nFAIR POUTICAL PRACTICES COMMISSION \nMary Ann \nSubject Request for Technical Assistance \nOn May 23, Palmer Madden called with the f0llowing question: \nSmith and Jones put on a fundraiser for candidate X \nat Jones' house. \nThe total cost of the fundraiser \nwas $499. \nThey split the costs. \nHas Smith made a \ncontribution to candidate X? \nGovernment Code Section 82015 states \" ... The term \"contri-\nbution\" does not include a payment made by an occupant of \na home or office for costs related to any meeting or fund-\nraising event held in the occupant's home or office if the \ncosts for the meeting or fundraising event are five hundred \ndollars ($500) or less.\" \nWhat if later, Smith decides to hold a fundraiser in his \nown residence for candidate X, or helps some other person \nhold a fundraiser by splitting the costs, is Smith limited \nto $250 or will all the costs related to the fundraiser \nbecome a contribution??? \n6/11/85 \nANSWER: \nThe amount Smith pays is considered a contribution \nto.candidate X. \nIf later Smith decides to hold a fundraiser in his \nown residence for candidate xk the cite of Gov. \nCode Section 82015 above, app~ies. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1985-05-28",
+    "date_raw": "May 28, 1985",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Smith and Jones put on a fundraiser for candidate X at Jones' house. The total cost of the fundraiser was $499. They split the costs. Has Smith made a contribution to candidate X? What if later, Smith decides to hold a fundraiser in his own residence for candidate X, or helps some other person hold a fundraiser by splitting the costs, is Smith limited to $250 or will all the costs related to the fundraiser become a contribution???",
+    "conclusion": "The amount Smith pays is considered a contribution to candidate X. If later Smith decides to hold a fundraiser in his own residence for candidate X, the cite of Gov. Code Section 82015 above, applies.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether splitting fundraiser costs with another person constitutes a contribution under the $500 exemption in Government Code Section 82015, and whether the exemption applies when the same person holds multiple fundraisers.",
+    "conclusion_synthetic": "Smith's share of the fundraiser costs constitutes a contribution to the candidate. If Smith later holds a fundraiser in his own residence, the $500 exemption under Government Code Section 82015 would apply to that separate event.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.75,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is an internal FPPC memorandum to advice meeting participants documenting a technical assistance request and response. Question and conclusion sections are present but not formally labeled with headers. Answer section appears incomplete or partially cut off."
+  },
+  "citations": {
+    "government_code": [
+      "82015"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:36:40.399699Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Smith and Jones put on a fundraiser for candidate X at Jones' house. The total cost of the fundraiser was $499. They split the costs. Has Smith made a contribution to candidate X? What if later, Smith decides to hold a fundraiser in his own residence for candidate X, or helps some other person hold a fundraiser by splitting the costs, is Smith limited to $250 or will all the costs related to the fundraiser become a contribution???\n\nCONCLUSION: The amount Smith pays is considered a contribution to candidate X. If later Smith decides to hold a fundraiser in his own residence for candidate X, the cite of Gov. Code Section 82015 above, applies.",
+    "qa_source": "mixed",
+    "first_500_words": "State of California Memurandum To : Advice Meeting Participants Date May 28, 1985 From FAIR POUTICAL PRACTICES COMMISSION Mary Ann Subject Request for Technical Assistance On May 23, Palmer Madden called with the f0llowing question: Smith and Jones put on a fundraiser for candidate X at Jones' house. The total cost of the fundraiser was $499. They split the costs. Has Smith made a contribution to candidate X? Government Code Section 82015 states \" ... The term \"contri- bution\" does not include a payment made by an occupant of a home or office for costs related to any meeting or fund- raising event held in the occupant's home or office if the costs for the meeting or fundraising event are five hundred dollars ($500) or less.\" What if later, Smith decides to hold a fundraiser in his own residence for candidate X, or helps some other person hold a fundraiser by splitting the costs, is Smith limited to $250 or will all the costs related to the fundraiser become a contribution??? 6/11/85 ANSWER: The amount Smith pays is considered a contribution to.candidate X. If later Smith decides to hold a fundraiser in his own residence for candidate xk the cite of Gov. Code Section 82015 above, app~ies.",
+    "summary": "FPPC advice letter addressing whether splitting fundraiser costs constitutes a contribution and how the $500 exemption in Government Code Section 82015 applies when the same person hosts multiple fundraisers."
+  }
+}

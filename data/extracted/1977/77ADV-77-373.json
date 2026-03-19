@@ -1,0 +1,71 @@
+{
+  "id": "77ADV-77-373",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-373.PDF",
+  "pdf_sha256": "08093241b963e397c851f445c765fe2dd4c9721ef03b3226c2705626b39bf2b6",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-373.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-373",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:22:28",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=48"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:16.501339Z",
+    "page_count": 1,
+    "word_count": 134,
+    "char_count": 811,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 134
+  },
+  "content": {
+    "full_text": "State af California \nMemorandum \nTo \n: File \nDate \n:Feb. 25, 1977 \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nKen Finney \nSub~~ Telephone conversation with Judge Rothenberg's bailiff. \nJudge Rothenberg's bailiff inquired about what filing obli-\ngations Judge Rothenberg has based on the fact that she was \nrecently appointed to the bench but has not yet assumed \noffice. \nI responded that the Judge would have to file an \nAssuming Office Statement (Form 720) at least ten days prior \nto assuming office, but would not have to file an Annual \nStatement (Form 721) this year. \nI indicated that the Judge's \nfirst Annual Statement would be due on March I, 1978, and \nwould cover the period commencing with the date that the \nJudge files her first Form 720 and closing with the date of \nDecember 31, 1977. \nKF: jo \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1977-12-31",
+    "date_raw": "December 31, 1977",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "What are the filing obligations for a judge who has been recently appointed to the bench but has not yet assumed office?",
+    "conclusion_synthetic": "A newly appointed judge must file an Assuming Office Statement (Form 720) at least ten days prior to assuming office, but is not required to file an Annual Statement (Form 721) in the year of appointment. The judge's first Annual Statement will be due March 1, 1978, and will cover the period from the date the Form 720 is filed through December 31, 1977.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is an internal memorandum rather than a formal advice letter; no formal QUESTION or CONCLUSION sections present; information structured as narrative response to telephone inquiry; high confidence in question_synthetic and conclusion_synthetic as they are explicitly stated in the memorandum text."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:16.501339Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: What are the filing obligations for a judge who has been recently appointed to the bench but has not yet assumed office?\n\nCONCLUSION: A newly appointed judge must file an Assuming Office Statement (Form 720) at least ten days prior to assuming office, but is not required to file an Annual Statement (Form 721) in the year of appointment. The judge's first Annual Statement will be due March 1, 1978, and will cover the period from the date the Form 720 is filed through December 31, 1977.",
+    "qa_source": "synthetic",
+    "first_500_words": "State af California Memorandum To : File Date :Feb. 25, 1977 From FAIR POLITICAL PRACTICES COMMISSION Ken Finney Sub~~ Telephone conversation with Judge Rothenberg's bailiff. Judge Rothenberg's bailiff inquired about what filing obli- gations Judge Rothenberg has based on the fact that she was recently appointed to the bench but has not yet assumed office. I responded that the Judge would have to file an Assuming Office Statement (Form 720) at least ten days prior to assuming office, but would not have to file an Annual Statement (Form 721) this year. I indicated that the Judge's first Annual Statement would be due on March I, 1978, and would cover the period commencing with the date that the Judge files her first Form 720 and closing with the date of December 31, 1977. KF: jo",
+    "summary": "Internal FPPC memorandum documenting a telephone conversation in which Ken Finney advises Judge Rothenberg's bailiff regarding the judge's filing obligations upon assuming office."
+  }
+}

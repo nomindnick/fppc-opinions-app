@@ -1,0 +1,71 @@
+{
+  "id": "77ADV-77-533",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-533.PDF",
+  "pdf_sha256": "d5af12da00bf94480c1b36bd010fadb7526e2195c50f57bfef5be778bec9fa15",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-533.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-533",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:22:37",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=50"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-08T17:17:46.907901Z",
+    "page_count": 1,
+    "word_count": 44,
+    "char_count": 266,
+    "quality_score": 0.4225,
+    "olmocr_cost": 0.00241144,
+    "native_word_count": 47
+  },
+  "content": {
+    "full_text": "When Lobbyist and Wife Arranges For Wedding Gift, the $10 Prohibition Becomes a $20 Prohibition.\n\nSeptember 26, 1977, Opinion Request meeting decided that the Torres opinion permits a lobbyist and his wife to give a $20 gift and not violate the $10 gift prohibition.",
+    "full_text_markdown": "When Lobbyist and Wife Arranges For Wedding Gift, the $10 Prohibition Becomes a $20 Prohibition.\n\nSeptember 26, 1977, Opinion Request meeting decided that the Torres opinion permits a lobbyist and his wife to give a $20 gift and not violate the $10 gift prohibition."
+  },
+  "parsed": {
+    "date": "1977-09-26",
+    "date_raw": "September 26, 1977",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a lobbyist and spouse may jointly give a $20 wedding gift without violating the $10 gift prohibition under California law.",
+    "conclusion_synthetic": "The FPPC determined that a lobbyist and his wife may together give a $20 gift without violating the $10 gift prohibition, based on the Torres opinion.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.65,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document lacks formal QUESTION and CONCLUSION sections; appears to be a summary of an opinion request meeting decision. Title and meeting date suggest this is a meeting decision summary rather than a full advice letter format. Limited context on Torres opinion reference."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-08T17:17:46.907901Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether a lobbyist and spouse may jointly give a $20 wedding gift without violating the $10 gift prohibition under California law.\n\nCONCLUSION: The FPPC determined that a lobbyist and his wife may together give a $20 gift without violating the $10 gift prohibition, based on the Torres opinion.",
+    "qa_source": "synthetic",
+    "first_500_words": "When Lobbyist and Wife Arranges For Wedding Gift, the $10 Prohibition Becomes a $20 Prohibition. September 26, 1977, Opinion Request meeting decided that the Torres opinion permits a lobbyist and his wife to give a $20 gift and not violate the $10 gift prohibition.",
+    "summary": "An FPPC advice letter determining that a lobbyist and spouse may jointly present a $20 wedding gift, with the $10 prohibition effectively doubled when both parties participate together."
+  }
+}

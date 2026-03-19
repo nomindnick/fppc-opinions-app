@@ -1,0 +1,72 @@
+{
+  "id": "90396",
+  "year": 1990,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1990/90396.pdf",
+  "pdf_sha256": "2e613c188e3b5734560dc382e13dfd6012bbde512e8850ea4da2a1709fda8780",
+  "local_pdf_path": "raw_pdfs/1990/90396.pdf",
+  "source_metadata": {
+    "title_raw": "Doubravsky, Betty Year: 1990 Advice Letter # 90396",
+    "tags": [
+      "1990",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:07:50",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1990&tagCount=1&page=27"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-25T22:50:37.315529Z",
+    "page_count": 1,
+    "word_count": 95,
+    "char_count": 762,
+    "quality_score": 0.7346008490727451,
+    "olmocr_cost": 0.00247938,
+    "native_word_count": 94,
+    "haiku_cost": 0.0020592
+  },
+  "content": {
+    "full_text": "May 31, 1990\n\nMrs. John Wallach:\n\nDear Sir:\n    In regards to the check \"Riverside Townway\" now terminated, we received from the State Comptroller's Division turned in for the amount of 378.—\n    Can I to asper resper the checking Account- deposit this make check to an outstanding debt? Or can I purchase a cassier check and play an outstanding debt?\n    Need to get this matter taken care of as soon as possible.\n\nDue P.C. Terminated 12-89-\nAlso will need to refill any forms?\n\n                                        Mrs. E. Dashnawski\n                                        2523 Adams Ave\n                                        Emmett Ca 92304\n                                        Former Foreman\n                                        Riverside Townway",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1990-05-31",
+    "date_raw": "May 31, 1990",
+    "requestor_name": "Doubravsky",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "In regards to the check \"Riverside Tomorrow\" now terminated, have received from the State Compensation Insurance Fund for the amount of $378. Am I to reopen the checking account - deposit then make check to an outstanding debt? Or can I purchase a cashier check and pay an outstanding debt? Need to get this matter taken care of as soon as possible. Our PAC terminated 12-89. Also do I need to resile any forms?",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The former treasurer of a terminated PAC (Riverside Tomorrow, terminated 12/89) seeks guidance on how to handle a $378 check received from the State Compensation Insurance Fund, specifically whether she should reopen the PAC's checking account or use alternative payment methods to settle outstanding debts, and whether any forms need to be filed.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.65,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an incoming request/inquiry letter, not an FPPC response. No formal question and conclusion sections are present. The document contains a practical question about PAC termination procedures and fund handling. Writer appears to have some grammatical uncertainties (\"resile\" may be a misspelling). No FPPC letterhead or response is present."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T16:18:46.896278Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: In regards to the check \"Riverside Tomorrow\" now terminated, have received from the State Compensation Insurance Fund for the amount of $378. Am I to reopen the checking account - deposit then make check to an outstanding debt? Or can I purchase a cashier check and pay an outstanding debt? Need to get this matter taken care of as soon as possible. Our PAC terminated 12-89. Also do I need to resile any forms?",
+    "qa_source": "mixed",
+    "first_500_words": "May 31, 1990 Mr. John Wallace: Dear Sir: In regards to the check \"Riverside Tomorrow\" now terminated, have received from the State Compensation Insurance Fund for the amount of $378. Am I to reopen the checking account - deposit then make check to an outstanding debt? Or can I purchase a cashier check and pay an outstanding debt? Need to get this matter taken care of as soon as possible. Our PAC terminated 12-89. Also do I need to resile any forms? Mrs. B. Donbransky 2523 Adams St. Riverside CA 92504 Former Treasurer Riverside Tomorrow",
+    "summary": "A former PAC treasurer inquires about proper procedures for handling a $378 check received after her political action committee was terminated in December 1989, and asks about whether forms need to be filed."
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "75195",
+  "year": 1975,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1975/75195.PDF",
+  "pdf_sha256": "11443c6166eec75881fd18d2a174ac3e7d5eaaf6aa86cff074baa41118eb36ae",
+  "local_pdf_path": "raw_pdfs/1975/75195.PDF",
+  "source_metadata": {
+    "title_raw": "RUSS, EDMOND Year: 1975 Advice Letter # 75195",
+    "tags": [
+      "1975",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:14:08",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1975&tagCount=1&page=5"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-27T00:46:32.359800Z",
+    "page_count": 1,
+    "word_count": 51,
+    "char_count": 315,
+    "quality_score": 0.7459,
+    "olmocr_cost": 0.00264192,
+    "native_word_count": 1232,
+    "haiku_cost": 0.00156
+  },
+  "content": {
+    "full_text": "[The image quality is too poor and the text is too blurry to accurately transcribe the specific content. The document appears to be a historical or legal document with multiple columns of small, densely packed text that is not legible enough in this image to transcribe verbatim without risking significant errors.]",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1975-07-14",
+    "date_raw": "July 14, 1975",
+    "requestor_name": "Russ",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "whether reciprocal lunches between council members require reporting under the Political Reform Act",
+    "conclusion": "Your request for a formal opinion is denied because the issue you have presented raises no substantial question of interpretation. In the absence of regulations by the Commission, reciprocal lunches between council members are not taxable under the Act if the total expenditure from one individual to another aggregates $25.00 or more.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether reciprocal lunches between city council members are subject to reporting requirements under the Political Reform Act.",
+    "conclusion_synthetic": "The FPPC declined to issue a formal opinion, determining that no substantial question of interpretation was raised. However, the Commission provided guidance that reciprocal lunches between council members are not taxable under the Act if the total expenditure aggregates $25.00 or more, absent Commission regulations.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is a declination letter, not a full advice letter. The FPPC provides informal guidance while declining formal opinion. Request ID noted as NO. 75-144. Letter dated July 14, 1975 responding to June 23, 1975 inquiry."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [
+      "A-75-144"
+    ],
+    "cited_by": [
+      "75180"
+    ],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T17:19:27.947647Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: whether reciprocal lunches between council members require reporting under the Political Reform Act\n\nCONCLUSION: Your request for a formal opinion is denied because the issue you have presented raises no substantial question of interpretation. In the absence of regulations by the Commission, reciprocal lunches between council members are not taxable under the Act if the total expenditure from one individual to another aggregates $25.00 or more.",
+    "qa_source": "mixed",
+    "first_500_words": "The image is a scanned document containing a letter from the Fair Political Practices Commission to Edmond J. Russ, Mayor of the City of Gardena. The letter is dated July 14, 1975, and is addressed as follows: **FAIR POLITICAL PRACTICES COMMISSION** **Edmond J. Russ, Mayor** City of Gardena 1700 West 162nd Street Gardena, Calif. 90247 **Re: Request for Opinion NO. 75-144** Dear Mr. Russ: Thank you for your letter of June 23, 1975, requesting the Fair Political Practices Commission to issue an opinion regarding the reporting of reciprocal lunches between council members under the Political Reform Act. Your request for a formal opinion is denied because the issue you have presented raises no substantial question of interpretation. In the absence of regulations by the Commission, reciprocal lunches between council members are not taxable under the Act if the total expenditure from one individual to another aggregates $25.00 or more. The Commission will consider regulations regarding the reporting requirements applicable to home entertaining at its August 6-7 meeting, and you are encouraged to present your views at that meeting. Enclosed for your information is a copy of the draft regulations which will be submitted by the staff to the Commission for its consideration. Although no formal opinion will be issued, I hope the foregoing is sufficiently helpful. If you have any questions, I urge you to contact a member of the Commission staff. Sincerely, [signature] Daniel H. Lowenstein Chairman, for the Commission",
+    "summary": "The FPPC declined Mayor Edmond J. Russ's request for a formal opinion on reporting reciprocal lunches between council members, finding no substantial interpretive question. The Commission provided informal guidance that such lunches are not taxable if total expenditures aggregate $25.00 or more, pending future regulations on home entertaining."
+  }
+}

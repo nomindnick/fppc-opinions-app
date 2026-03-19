@@ -1,0 +1,74 @@
+{
+  "id": "93-017",
+  "year": 1993,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1993/93-017.pdf",
+  "pdf_sha256": "16f3ce108509a7bb90c753b88c630456ad881aa3f501088c33b1aa4dea37f5c3",
+  "local_pdf_path": "raw_pdfs/1993/93-017.pdf",
+  "source_metadata": {
+    "title_raw": "Stillman, George Year: 1993 Advice Letter # 93-017",
+    "tags": [
+      "1993",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:32:24",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1993&tagCount=1&page=20"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:07.789006Z",
+    "page_count": 1,
+    "word_count": 243,
+    "char_count": 1574,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 243
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\nFebruary 2,\n1993\nGeorge Stiliman\nCounc I linember\nCity of Lompoc\nCity Hall,\n100 Civic Center Plaza\nLompoc,\nCA 93438—8001\nRe:\nYour Request For Confirmation\nof Telephone Advice\nOur File No.\n1—93—17\nDear Mr.\nStillman:\nYou have requested confirmation of telephone advice provided\nto you concerning the conflict of interest disclosure provisions\nof the Political Reform Act\n(the “Act”) .1/\nYour letter states\nonly a general inquiry.\nTherefore,\nwe consider it a request for\ninformal assistance.2/\nYour letter,\ndated December 21,\n1992, correctly summarizes my\ntelephone advice that as a stockbroker for Dean Witter Reynolds,\nInc.,\nyou are required to report only your pro rata share of\ncommission income received by the brokerage firm and not the total\namount received by the firi.\nIf you have any questions regarding this matter, please\ncontact me at\n(916)\n322—5662.\nSincerely,\nAlice Hughes\nPolitical Reform Consultant\nTechnical Assistance Division\nAH:ssa\n1/\nGovernment Code Sections 81000—91015.\nAll statutory\nreferences are to the Government Code unless otherwise indicated.\nCommission regulations appear at\n2 California Code of Regulations\nSection 18000,\ng.\nAll references to regulations are to Title\n2,\nDivision\n6 of the California Code of Regulations.\n2/\nInformal assistance does not provide the requestor with the\nimmunity provided by an opinion or formal written advice.\n(Government Code Section 83114;\n2 Cal.\nCode of Regs.\nSection\n18329(c) (3).)\n428 J Street, Suite 800\n•\nP.O. Box 807 •\nSacramento, CA\n95812 •\n(916) 322-5660\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1993-02-02",
+    "date_raw": "February 2,\n1993",
+    "requestor_name": "Stillman",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "informal_advice"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "Your letter, dated December 21, 1992, correctly summarizes my telephone advice that as a stockbroker for Dean Witter Reynolds, Inc., you are required to report only your pro rata share of commission income received by the brokerage firm and not the total amount received by the firm.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "As a stockbroker for Dean Witter Reynolds, Inc., must a city council member report the total commission income received by the brokerage firm or only their pro rata share for conflict of interest disclosure purposes under the Political Reform Act?",
+    "conclusion_synthetic": "A stockbroker serving as a city council member must report only their pro rata share of commission income received by the brokerage firm, not the total amount received by the firm, for conflict of interest disclosure purposes.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Informal advice letter confirming prior telephone advice. No formal Question/Conclusion sections, but question and conclusion content are clearly present in the letter body. Document explicitly states this is informal assistance without immunity protections."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "83114"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "gifts_honoraria",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:35:07.789006Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: As a stockbroker for Dean Witter Reynolds, Inc., must a city council member report the total commission income received by the brokerage firm or only their pro rata share for conflict of interest disclosure purposes under the Political Reform Act?\n\nCONCLUSION: Your letter, dated December 21, 1992, correctly summarizes my telephone advice that as a stockbroker for Dean Witter Reynolds, Inc., you are required to report only your pro rata share of commission income received by the brokerage firm and not the total amount received by the firm.",
+    "qa_source": "mixed",
+    "first_500_words": "California Fair Political Practices Commission February 2, 1993 George Stiliman Counc I linember City of Lompoc City Hall, 100 Civic Center Plaza Lompoc, CA 93438—8001 Re: Your Request For Confirmation of Telephone Advice Our File No. 1—93—17 Dear Mr. Stillman: You have requested confirmation of telephone advice provided to you concerning the conflict of interest disclosure provisions of the Political Reform Act (the “Act”) .1/ Your letter states only a general inquiry. Therefore, we consider it a request for informal assistance.2/ Your letter, dated December 21, 1992, correctly summarizes my telephone advice that as a stockbroker for Dean Witter Reynolds, Inc., you are required to report only your pro rata share of commission income received by the brokerage firm and not the total amount received by the firi. If you have any questions regarding this matter, please contact me at (916) 322—5662. Sincerely, Alice Hughes Political Reform Consultant Technical Assistance Division AH:ssa 1/ Government Code Sections 81000—91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations Section 18000, g. All references to regulations are to Title 2, Division 6 of the California Code of Regulations. 2/ Informal assistance does not provide the requestor with the immunity provided by an opinion or formal written advice. (Government Code Section 83114; 2 Cal. Code of Regs. Section 18329(c) (3).) 428 J Street, Suite 800 • P.O. Box 807 • Sacramento, CA 95812 • (916) 322-5660",
+    "summary": "FPPC confirms telephone advice to a Lompoc city council member that as a Dean Witter Reynolds stockbroker, he must report only his pro rata share of commission income, not the firm's total commission income."
+  }
+}

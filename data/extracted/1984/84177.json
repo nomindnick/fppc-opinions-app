@@ -1,0 +1,71 @@
+{
+  "id": "84177",
+  "year": 1984,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1984/fppc-advice/84177.PDF",
+  "pdf_sha256": "43e0e4ec66510e1096e0be4d3fc8863fbe7bd1a9494aba8db657d347f6851475",
+  "local_pdf_path": "raw_pdfs/1984/84177.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1984 Advice Letter # 84177",
+    "tags": [
+      "1984",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:34:58",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1984&tagCount=1&page=21"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T18:59:27.500206Z",
+    "page_count": 1,
+    "word_count": 149,
+    "char_count": 856,
+    "quality_score": 0.8282310594603856,
+    "olmocr_cost": 0.00257398,
+    "native_word_count": 149
+  },
+  "content": {
+    "full_text": "TO: [x] JEANNE   [ ] JAY\n[ ] LYNN   [ ] BARBARA\n[ ] RICH   [ ] BOB S.\n[ ] HELEN   [x] OTHER Mary Ann\n\nFROM: Carla\nDATE: 7/2/84\nNo. T-84-177\n\n[x] TELEPHONE ADVICE - SEE BELOW\n[ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT\n(IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY)\n\nFILE LOCATION: 86109\n\nINCLUDE IN ADVICE PACKAGE: YES [ ] NO [x]\n\nCALLER Sue\nREPRESENTING L.A. Unified School District\nPHONE NUMBER: (213) 625-6451\n\nQUESTION: For purposes of determining whether an employee has spent 10% or more of his or her compensated time on lobbying activities, must travel time be counted?\n\nANSWER: No. Travel time should not be counted. However, if an employee's other compensated time for lobbying reaches 10% or more in a calendar month, travel time should be included in the amount reported on the employer's report for gross compensation of employees.",
+    "full_text_markdown": "TO: [x] JEANNE   [ ] JAY\n[ ] LYNN   [ ] BARBARA\n[ ] RICH   [ ] BOB S.\n[ ] HELEN   [x] OTHER Mary Ann\n\nFROM: Carla\nDATE: 7/2/84\nNo. T-84-177\n\n[x] TELEPHONE ADVICE - SEE BELOW\n[ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT\n(IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY)\n\nFILE LOCATION: 86109\n\nINCLUDE IN ADVICE PACKAGE: YES [ ] NO [x]\n\nCALLER Sue\nREPRESENTING L.A. Unified School District\nPHONE NUMBER: (213) 625-6451\n\nQUESTION: For purposes of determining whether an employee has spent 10% or more of his or her compensated time on lobbying activities, must travel time be counted?\n\nANSWER: No. Travel time should not be counted. However, if an employee's other compensated time for lobbying reaches 10% or more in a calendar month, travel time should be included in the amount reported on the employer's report for gross compensation of employees."
+  },
+  "parsed": {
+    "date": "1984-07-02",
+    "date_raw": "7/2/84",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "For purposes of determining whether an employee has spent 10% or more of his or her compensated time on lobbying activities, must travel time be counted?\n\nANSWER: No. Travel time should not be counted. However, if an employee's other compensated time for lobbying reaches 10% or more in a calendar month, travel time should be included in the amount reported on the employer's report for gross compensation of employees.",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.44999999999999996,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-20T18:59:27.500206Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: For purposes of determining whether an employee has spent 10% or more of his or her compensated time on lobbying activities, must travel time be counted?\n\nANSWER: No. Travel time should not be counted. However, if an employee's other compensated time for lobbying reaches 10% or more in a calendar month, travel time should be included in the amount reported on the employer's report for gross compensation of employees.",
+    "qa_source": "extracted",
+    "first_500_words": "TO: [x] JEANNE [ ] JAY [ ] LYNN [ ] BARBARA [ ] RICH [ ] BOB S. [ ] HELEN [x] OTHER Mary Ann FROM: Carla DATE: 7/2/84 No. T-84-177 [x] TELEPHONE ADVICE - SEE BELOW [ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT (IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY) FILE LOCATION: 86109 INCLUDE IN ADVICE PACKAGE: YES [ ] NO [x] CALLER Sue REPRESENTING L.A. Unified School District PHONE NUMBER: (213) 625-6451 QUESTION: For purposes of determining whether an employee has spent 10% or more of his or her compensated time on lobbying activities, must travel time be counted? ANSWER: No. Travel time should not be counted. However, if an employee's other compensated time for lobbying reaches 10% or more in a calendar month, travel time should be included in the amount reported on the employer's report for gross compensation of employees.",
+    "summary": null
+  }
+}

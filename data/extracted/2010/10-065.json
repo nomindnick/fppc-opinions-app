@@ -1,0 +1,71 @@
+{
+  "id": "10-065",
+  "year": 2010,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2010/10-065.pdf",
+  "pdf_sha256": "efa9101448ef7f99005e2fd2c0999da399f7d7107f4f838fbe46901f5da53dc1",
+  "local_pdf_path": "raw_pdfs/2010/10-065.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2010 Advice Letter # 10-065",
+    "tags": [
+      "2010",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:51:41",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2010&tagCount=1&page=10"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T22:43:42.773881Z",
+    "page_count": 1,
+    "word_count": 77,
+    "char_count": 501,
+    "quality_score": 0.7811398401646322,
+    "olmocr_cost": 0.00248368,
+    "native_word_count": 93
+  },
+  "content": {
+    "full_text": "June 23, 2010\n\nMargaret Pennington\n9472 Brookmont Ct.\nElk Grove, CA 95624\n\nRe: Your Request for Advice\n    Our file No. W-10-065\n\nDear Ms. Pennington:\n\nThis letter is to notify you that we have withdrawn the above-captioned request for advice per our telephone conversation on April 15, 2010.\n\nIf you have other questions on this matter, please contact me at (916) 322-5660.\n\nSincerely,\n\nScott Hallabrin\nGeneral Counsel\n\nBy: Cynthia A. Jones\nPolitical Reform Consultant II\nTechnical Assistant Division",
+    "full_text_markdown": "June 23, 2010\n\nMargaret Pennington\n9472 Brookmont Ct.\nElk Grove, CA 95624\n\nRe: Your Request for Advice\n    Our file No. W-10-065\n\nDear Ms. Pennington:\n\nThis letter is to notify you that we have withdrawn the above-captioned request for advice per our telephone conversation on April 15, 2010.\n\nIf you have other questions on this matter, please contact me at (916) 322-5660.\n\nSincerely,\n\nScott Hallabrin\nGeneral Counsel\n\nBy: Cynthia A. Jones\nPolitical Reform Consultant II\nTechnical Assistant Division"
+  },
+  "parsed": {
+    "date": "2010-06-23",
+    "date_raw": "June 23, 2010",
+    "requestor_name": "Pennington",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T22:43:42.773881Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "June 23, 2010 Margaret Pennington 9472 Brookmont Ct. Elk Grove, CA 95624 Re: Your Request for Advice Our file No. W-10-065 Dear Ms. Pennington: This letter is to notify you that we have withdrawn the above-captioned request for advice per our telephone conversation on April 15, 2010. If you have other questions on this matter, please contact me at (916) 322-5660. Sincerely, Scott Hallabrin General Counsel By: Cynthia A. Jones Political Reform Consultant II Technical Assistant Division",
+    "qa_source": "extracted",
+    "first_500_words": "June 23, 2010 Margaret Pennington 9472 Brookmont Ct. Elk Grove, CA 95624 Re: Your Request for Advice Our file No. W-10-065 Dear Ms. Pennington: This letter is to notify you that we have withdrawn the above-captioned request for advice per our telephone conversation on April 15, 2010. If you have other questions on this matter, please contact me at (916) 322-5660. Sincerely, Scott Hallabrin General Counsel By: Cynthia A. Jones Political Reform Consultant II Technical Assistant Division",
+    "summary": null
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "02-007",
+  "year": 2002,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2002/02-007.pdf",
+  "pdf_sha256": "05bfa55b0f62f5b4ad9ec4f20eb45ad14c9ba857fdba8328b546999a591e0194",
+  "local_pdf_path": "raw_pdfs/2002/02-007.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2002 Advice Letter # 02-007",
+    "tags": [
+      "Advice Letter",
+      "2002"
+    ],
+    "scraped_at": "2026-01-31 14:37:39",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2002&tagCount=1&page=35"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:29.041798Z",
+    "page_count": 2,
+    "word_count": 328,
+    "char_count": 2129,
+    "quality_score": 0.635,
+    "olmocr_cost": null,
+    "native_word_count": 328
+  },
+  "content": {
+    "full_text": "Re\nFarn PolrrrcAt- PRACTTcES C oMMrssroN\nP.O. Box 807 o 428 J Sffeet o Sacramento, CA 95812-0807\n(916) 322-s660 r Fax (916) 322-0886\nJanuary 18,2002\nNathan Randal\nCity of Monterey Park\n320W. Newmark Avenue\nMonterey Park, CA 91754\nYour Request for Informal Assistance\nOur File No. I-02-007\nDear Mr. Randal:\nThis letter is in response to your request for advice regarding the provisions of the\nPolitical Reform Act (the \"Act\") and a follow up to my telephone message of\nJanuary 10,2002.\nThe Commission is authorized only to render advice regarding public officials'\nobligations under the Political Reform Act. The Act includes Government Code\nS$ 81000 - 91014. Government Code $ 1090, which bars public officials from entering\ninto certain contractual relationships with governmental entities, is not apart of the Act\nand is implemented by the Attorney General's office. We would suggest you consult\nwith your city attorney orthe Attorney General's Office concerning $ 1090.\nThe Act does include conflict-of-interest prohibitions. ($ 87100 et seq.)\nHowever, the Act's conflict-of-interest provisions apply only in the context of particular\nprospective governmental decisions. For these reasons, it is impossible at this point to\nadvise on your conflict-of-interest obligations as a city employee. However, if you\ncontinue to be a \"public official\" by virtue of employment with the city, you will be\nobligated to disqualify yourself from any decision where it is reasonably foreseeable that\nthe decision will have a material financial effect on your economic interest(s) (including\nthe private\n6_@\n\n\nFile No. I-02-007\nPage No. 2\nfirm for which you wish to work) if that financial effect is distinguishable from the\nfinancial effect on the public generally. ($ 87103.) We enclose a copy of \"Can I Vote?\"\nwhich explains the Act's conflict-of-interest rules in greater detail.\nIf you have any other questions regarding this matter, please contact me at\n(e16) 322-s660.\nSincerely\nLuisa Menchaca\nGeneral Counsel\nohn W. Wallace\nAssistant General Counsel\nLegal Division\nJWW:jg\nI:\\Adviceltrs\\02-007\nEnclosures: Regulation 18329\nCan I Vote?\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2002-01-18",
+    "date_raw": "January 18,2002",
+    "requestor_name": "Randal",
+    "requestor_title": "city attorney",
+    "requestor_city": null,
+    "document_type": "informal_advice"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Does the Political Reform Act's conflict-of-interest provisions apply to a city employee's potential private employment relationships, and what are the relevant disclosure/disqualification obligations?",
+    "conclusion_synthetic": "The FPPC can only advise on Political Reform Act obligations, not Government Code § 1090 (which the Attorney General implements). The Act's conflict-of-interest rules apply only to specific prospective governmental decisions; if the requester remains a public official, they must disqualify themselves from decisions with reasonably foreseeable material financial effects on their economic interests that differ from effects on the general public.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document lacks explicit QUESTION and CONCLUSION section headers but contains clear question, analysis, and conclusion content. File number I-02-007 indicates informal advice letter. Some text appears cut off at bottom of second page. Two signatories listed (Luisa Menchaca and John W. Wallace)."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:34:29.041798Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Does the Political Reform Act's conflict-of-interest provisions apply to a city employee's potential private employment relationships, and what are the relevant disclosure/disqualification obligations?\n\nCONCLUSION: The FPPC can only advise on Political Reform Act obligations, not Government Code § 1090 (which the Attorney General implements). The Act's conflict-of-interest rules apply only to specific prospective governmental decisions; if the requester remains a public official, they must disqualify themselves from decisions with reasonably foreseeable material financial effects on their economic interests that differ from effects on the general public.",
+    "qa_source": "synthetic",
+    "first_500_words": "Re Farn PolrrrcAt- PRACTTcES C oMMrssroN P.O. Box 807 o 428 J Sffeet o Sacramento, CA 95812-0807 (916) 322-s660 r Fax (916) 322-0886 January 18,2002 Nathan Randal City of Monterey Park 320W. Newmark Avenue Monterey Park, CA 91754 Your Request for Informal Assistance Our File No. I-02-007 Dear Mr. Randal: This letter is in response to your request for advice regarding the provisions of the Political Reform Act (the \"Act\") and a follow up to my telephone message of January 10,2002. The Commission is authorized only to render advice regarding public officials' obligations under the Political Reform Act. The Act includes Government Code S$ 81000 - 91014. Government Code $ 1090, which bars public officials from entering into certain contractual relationships with governmental entities, is not apart of the Act and is implemented by the Attorney General's office. We would suggest you consult with your city attorney orthe Attorney General's Office concerning $ 1090. The Act does include conflict-of-interest prohibitions. ($ 87100 et seq.) However, the Act's conflict-of-interest provisions apply only in the context of particular prospective governmental decisions. For these reasons, it is impossible at this point to advise on your conflict-of-interest obligations as a city employee. However, if you continue to be a \"public official\" by virtue of employment with the city, you will be obligated to disqualify yourself from any decision where it is reasonably foreseeable that the decision will have a material financial effect on your economic interest(s) (including the private 6_@ File No. I-02-007 Page No. 2 firm for which you wish to work) if that financial effect is distinguishable from the financial effect on the public generally. ($ 87103.) We enclose a copy of \"Can I Vote?\" which explains the Act's conflict-of-interest rules in greater detail. If you have any other questions regarding this matter, please contact me at (e16) 322-s660. Sincerely Luisa Menchaca General Counsel ohn W. Wallace Assistant General Counsel Legal Division JWW:jg I:\\Adviceltrs\\02-007 Enclosures: Regulation 18329 Can I Vote?",
+    "summary": "FPPC General Counsel responds to Nathan Randal's informal request regarding conflict-of-interest obligations under the Political Reform Act as a city employee. The letter clarifies FPPC's jurisdiction, distinguishes between the Political Reform Act and Government Code § 1090, and explains when disqualification is required under the Act's conflict-of-interest provisions."
+  }
+}

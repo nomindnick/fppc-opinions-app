@@ -1,0 +1,75 @@
+{
+  "id": "76ADV-246",
+  "year": 1976,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1976/76ADV-246.PDF",
+  "pdf_sha256": "9052dd8202ee06c4a28746036893f0fe7d549f1f2ffe3322a532e506777c72de",
+  "local_pdf_path": "raw_pdfs/1976/76ADV-246.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1976ADV Advice Letter # 76ADV-246",
+    "tags": [
+      "1976",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:17:45",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1976&tagCount=1&page=43"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:21.640208Z",
+    "page_count": 4,
+    "word_count": 346,
+    "char_count": 2166,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 346
+  },
+  "content": {
+    "full_text": "air Political Practices Commissiort \nMr. L.A. Jacobson, Secretary \nReclamation District No. 1607 \nVan Sickle Island \nSolano County, California \nDear Mr. Jacobson: \n1100 K STREET BUILDING, SACRAMENTO, 95814 \nJune 17, 1976 \nMr. Spurlock has asked me to reply to your letter \nof June 4 concerning Conflict of Interest Code require-\nments of your agency_ \nWhile I am sympathetic to your problem concerning \npossible difficulties you envision in maintaining a \nBoard of Trustees, the Fair Political Practices Commission \nis without jurisdiction to resolve this matter. \nGovernment Code § 82011 states: \n\"Code reviewing body\" means: \n(a) \nThe Commission, with respect \nto the Conflict of Interest Code \nof a state agency, a county board \nof supervisors, a city councilor \nany local government agency with \njurisdiction in more than one \ncountYi \n(b) \nThe Board of Supervisors, with \nrespect to the Conflict of Interest \nCode of any county agency other than \nthe Board of Supervisors, and of any \nlocal governmen-t agency, other than \na city agency with jurisdiction \nwholly within the county; \n\n\nMr. L.A. Jacobs \nPage Two \nJune 1 , 1976 \nI infer from your letter that your district is wholly \nwithin Solano County. \nThus questions of who must file a \nCode and of what nature and terms that Code is to be must, \nin your case, be addressed to the Board of Supervisors. \nI \nwould point out, however two things. \nFirst, your Board \nmembers are already covered by the general prohibition \nagainst conflicts of interest found in Government Code § \n87100, et seq. \nSecond, the law is quite clear that an agency \nmust develop a Code of some kind where \" •.\n. positions within \nthe agency ..• involve the making or participation in the \nmaking of decisions which may foreseeably have a material \nfinancial effect on any financial interest.\" \nGovernment \nCode § 87302(a). \nIf I can be of further assistance in this matter please \ndo not hesitate to call on me at (9IG) 322-6444. \nKWG:ma \nSincerely, \n$ ... ~~;.~ \nKenneth W. Goshorn \nResearch Specialist \nConflicts of Interest Division \n\n\nReclamation District No. 1607 \nVAN SICKLE ISLAND - SOLANO COUNTY, CALIFORNIA \n415-529-1153 \n\n\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1976-06-17",
+    "date_raw": "June 17, 1976",
+    "requestor_name": "Jacobson",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Does the FPPC have jurisdiction to resolve questions regarding Conflict of Interest Code requirements and Board of Trustees composition for a local reclamation district wholly within Solano County?",
+    "conclusion_synthetic": "The FPPC lacks jurisdiction over this matter. Pursuant to Government Code § 82011, the Board of Supervisors has jurisdiction over Conflict of Interest Codes for county agencies and local government agencies wholly within the county. However, the district's Board members are already covered by general conflict of interest prohibitions under Government Code § 87100 et seq., and the agency must develop a Code if positions involve decisions with material financial effects.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document lacks formal QUESTION and CONCLUSION section headers. Question and conclusion were synthesized from letter body text. Minor date inconsistency noted (June 17 vs June 1 on page two footer). Document is clearly an FPPC response declining jurisdiction with explanatory guidance."
+  },
+  "citations": {
+    "government_code": [
+      "82011",
+      "87100",
+      "87302(a)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.6666666666666666,
+    "classified_at": "2026-02-06T18:37:21.640208Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Does the FPPC have jurisdiction to resolve questions regarding Conflict of Interest Code requirements and Board of Trustees composition for a local reclamation district wholly within Solano County?\n\nCONCLUSION: The FPPC lacks jurisdiction over this matter. Pursuant to Government Code § 82011, the Board of Supervisors has jurisdiction over Conflict of Interest Codes for county agencies and local government agencies wholly within the county. However, the district's Board members are already covered by general conflict of interest prohibitions under Government Code § 87100 et seq., and the agency must develop a Code if positions involve decisions with material financial effects.",
+    "qa_source": "synthetic",
+    "first_500_words": "air Political Practices Commissiort Mr. L.A. Jacobson, Secretary Reclamation District No. 1607 Van Sickle Island Solano County, California Dear Mr. Jacobson: 1100 K STREET BUILDING, SACRAMENTO, 95814 June 17, 1976 Mr. Spurlock has asked me to reply to your letter of June 4 concerning Conflict of Interest Code require- ments of your agency_ While I am sympathetic to your problem concerning possible difficulties you envision in maintaining a Board of Trustees, the Fair Political Practices Commission is without jurisdiction to resolve this matter. Government Code § 82011 states: \"Code reviewing body\" means: (a) The Commission, with respect to the Conflict of Interest Code of a state agency, a county board of supervisors, a city councilor any local government agency with jurisdiction in more than one countYi (b) The Board of Supervisors, with respect to the Conflict of Interest Code of any county agency other than the Board of Supervisors, and of any local governmen-t agency, other than a city agency with jurisdiction wholly within the county; Mr. L.A. Jacobs Page Two June 1 , 1976 I infer from your letter that your district is wholly within Solano County. Thus questions of who must file a Code and of what nature and terms that Code is to be must, in your case, be addressed to the Board of Supervisors. I would point out, however two things. First, your Board members are already covered by the general prohibition against conflicts of interest found in Government Code § 87100, et seq. Second, the law is quite clear that an agency must develop a Code of some kind where \" •. . positions within the agency ..• involve the making or participation in the making of decisions which may foreseeably have a material financial effect on any financial interest.\" Government Code § 87302(a). If I can be of further assistance in this matter please do not hesitate to call on me at (9IG) 322-6444. KWG:ma Sincerely, $ ... ~~;.~ Kenneth W. Goshorn Research Specialist Conflicts of Interest Division Reclamation District No. 1607 VAN SICKLE ISLAND - SOLANO COUNTY, CALIFORNIA 415-529-1153",
+    "summary": "FPPC responds to Reclamation District No. 1607's inquiry regarding Conflict of Interest Code requirements, declining jurisdiction and redirecting the matter to the Solano County Board of Supervisors while noting existing statutory protections already apply."
+  }
+}

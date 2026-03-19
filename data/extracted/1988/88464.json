@@ -1,0 +1,71 @@
+{
+  "id": "88464",
+  "year": 1988,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1988/fppc-advice/88464.PDF",
+  "pdf_sha256": "6ffb8f851cd222e7a47a21684ae89ca9c369e3c83f85285909dbbc7501e28f03",
+  "local_pdf_path": "raw_pdfs/1988/88464.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1988 Advice Letter # 88464",
+    "tags": [
+      "1988",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:59:24",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1988&tagCount=1&page=24"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:11.954537Z",
+    "page_count": 1,
+    "word_count": 215,
+    "char_count": 1317,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 215
+  },
+  "content": {
+    "full_text": "December 12, 1988 \nMs Jeanette Turville \nFair political practices Commission \n428 \n\"J~ Street, 8th ~loor \nsacramento, CA 95814 \nDear Jeanette, \nThis letter is a follow-up to our conversation of last week \nregarding proposition 73 and the effects it will have on \nmunicipal campaigns held this spring. \nI want to confirm my understanding of our conversation relative \nto monies contributed from a controlled committee to my city \ncouncil campaign. specifically, can Good Government in the 80's \n(840218) contribute $2,500 to the Tom Bohigian For Fresno \ncommittee (880129) for the purpose of electing me to the Fresno City \nCouncil? This contribution would be made before January 1, 1988, \nand would be spent anytime thereafter, including in 1989. The \nelection will be held March 7, 1989. \nMy understanding from talking to you is that this would be \npermissable and that after January 1, 1989 I could still use the \n$2,500 for such purposes as the purchase of media time, yardsigns, \nprinting, etc. \nI would appreciate confirmation of this at your earliest \nconvenience. If you could call me at work 209-445-5532 or \nhome 209-224-6966, it would be helpful. I will check with \nyou by the end of the week if I have not heard from you. In \nadvance, I thank you. \nSincerely, \n~IGIAN \n3349 East Holland \nFresno, CA 93726 \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1988-12-12",
+    "date_raw": "December 12, 1988",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "Can Good Government in the 80's (840218) contribute $2,500 to the Tom Bohigian For Fresno committee (880129) for the purpose of electing me to the Fresno City Council? This contribution would be made before January 1, 1989, and would be spent anytime thereafter, including in 1989. After January 1, 1989, could the $2,500 still be used for purposes such as the purchase of media time, yardsigns, printing, etc.?",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The sender seeks confirmation regarding whether a controlled committee can contribute $2,500 to his city council campaign committee before January 1, 1989, with the funds to be spent after that date on campaign expenses, in light of Proposition 73's effects on municipal campaigns.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an incoming request letter, not an FPPC response. The sender is seeking advice rather than providing it. No formal CONCLUSION section exists. Document appears to be follow-up to a prior conversation. Date anomaly noted: letter dated December 12, 1988 but references contribution 'before January 1, 1988' which appears to be a typo for 1989."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:36:11.954537Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Can Good Government in the 80's (840218) contribute $2,500 to the Tom Bohigian For Fresno committee (880129) for the purpose of electing me to the Fresno City Council? This contribution would be made before January 1, 1989, and would be spent anytime thereafter, including in 1989. After January 1, 1989, could the $2,500 still be used for purposes such as the purchase of media time, yardsigns, printing, etc.?",
+    "qa_source": "mixed",
+    "first_500_words": "December 12, 1988 Ms Jeanette Turville Fair political practices Commission 428 \"J~ Street, 8th ~loor sacramento, CA 95814 Dear Jeanette, This letter is a follow-up to our conversation of last week regarding proposition 73 and the effects it will have on municipal campaigns held this spring. I want to confirm my understanding of our conversation relative to monies contributed from a controlled committee to my city council campaign. specifically, can Good Government in the 80's (840218) contribute $2,500 to the Tom Bohigian For Fresno committee (880129) for the purpose of electing me to the Fresno City Council? This contribution would be made before January 1, 1988, and would be spent anytime thereafter, including in 1989. The election will be held March 7, 1989. My understanding from talking to you is that this would be permissable and that after January 1, 1989 I could still use the $2,500 for such purposes as the purchase of media time, yardsigns, printing, etc. I would appreciate confirmation of this at your earliest convenience. If you could call me at work 209-445-5532 or home 209-224-6966, it would be helpful. I will check with you by the end of the week if I have not heard from you. In advance, I thank you. Sincerely, ~IGIAN 3349 East Holland Fresno, CA 93726",
+    "summary": "This is an incoming letter from Tom Bohigian to FPPC staff member Jeanette Turville requesting confirmation of a conversation regarding the permissibility of a $2,500 contribution from a controlled committee to his Fresno City Council campaign, with funds to be contributed before January 1, 1989 but spent thereafter."
+  }
+}

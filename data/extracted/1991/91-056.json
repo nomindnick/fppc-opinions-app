@@ -1,0 +1,73 @@
+{
+  "id": "91-056",
+  "year": 1991,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1991/91-056.pdf",
+  "pdf_sha256": "5f3ee88460914e467fa8815964d279cf90e91965bfcbf8da4a780b29558f0e6d",
+  "local_pdf_path": "raw_pdfs/1991/91-056.pdf",
+  "source_metadata": {
+    "title_raw": "Paule, Philip Year: 1991 Advice Letter # 91-056",
+    "tags": [
+      "1991",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:15:53",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1991&tagCount=1&page=3"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:21.239797Z",
+    "page_count": 2,
+    "word_count": 336,
+    "char_count": 1980,
+    "quality_score": 0.8,
+    "olmocr_cost": null,
+    "native_word_count": 336
+  },
+  "content": {
+    "full_text": "California\nFair P01itical\nPractices Commission\nFebruary 7, \n■99■\nMr. Phi■■ip E. Pau■e\nP.0. Box 9425\nSan Bernardino′  CA 92427\nRe: Your Request for Informal Assistance\nOur File No. f-91-056\nDear Mr. Paule:\nIn response to your letter dated January 23, 1991, in which\nyou seek advice concerning the use of campaign funds under the\nPolitical Reform Act (the trActtr),4 we are unable to provide you\nwith the assistance you seek, and write onl-y after several\nattenpts to reach you by telephone were unsuccessful .\nRegrulation 18329 (copy enclosed) governs the process by which\nthe Conmission provides advice. Among other things, the\nConrnission does not provide advice in the absence of sufficient\nfacts (Regulation 18329 (b) (8) (c) , 1832e (c) (4) (F) ) , or when the\nadvice request is hypotheticaL (Regulation 18329 (b) (D) ,\n18329(c) (4) (D) ), or when the request concerns another person's\nduties under the Act, and the requestor is not authorized to seek\nthe advice (Regulation 1832e (b) (8) (B) , 1832e (c) (4) (c) ) .\nIt is not clear whether you are seeking advice for yourself\nor on behal,f of another person. It is also not clear whether or\nnot your question concerns an actual sj.tuation. Therefore, there\nare insufficient facts to pernit a response to your inguiry. \nIf\nyou wish to contact this office and provide the additional\ninformation necessary, we will be happy to provide you with an\nappropriate response.\n1 corr\".rr.\"nt Code Sections 81OOO-91015. Commission regulations\nappear at 2 California code of ReguLations Section 18OOO, et seq.\nA11 references to regulations are to Title 2, Division 6 of the\nCalifornia Code of Regulations.\n428 J Street, Suite 8OO . P.O. Box 8O7 o Sacramento CA 95804-0807 . (916)322-5660\n\n\nI am sorry that at this time we cannot provide yOu with the\nguidance you requested.  If you have any questions regarding this\nmatter p■ease contact me at (9■\n6)322-590■\n.\nOur Fi■e No. ■-90-056\npage 2\nSH : JSR: Ken\nEncl-osure\nD ivi s ion\nsincerely,\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1991-01-23",
+    "date_raw": "January 23, 1991",
+    "requestor_name": "Paule",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requestor sought advice concerning the use of campaign funds under the Political Reform Act, but the specific nature and context of the question are unclear.",
+    "conclusion_synthetic": "The FPPC declined to provide advice because there were insufficient facts, it was unclear whether the request was hypothetical or actual, and it was unclear whether the requestor was seeking advice for themselves or on behalf of another person.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is a declination letter, not a full advice letter. The document lacks formal QUESTION and CONCLUSION sections. The FPPC declines to advise based on Regulation 18329 requirements regarding factual sufficiency, hypothetical questions, and requestor authorization. Document contains OCR errors (redacted/corrupted characters) but core meaning is clear."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:35:21.239797Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The requestor sought advice concerning the use of campaign funds under the Political Reform Act, but the specific nature and context of the question are unclear.\n\nCONCLUSION: The FPPC declined to provide advice because there were insufficient facts, it was unclear whether the request was hypothetical or actual, and it was unclear whether the requestor was seeking advice for themselves or on behalf of another person.",
+    "qa_source": "synthetic",
+    "first_500_words": "California Fair P01itical Practices Commission February 7, ■99■ Mr. Phi■■ip E. Pau■e P.0. Box 9425 San Bernardino′ CA 92427 Re: Your Request for Informal Assistance Our File No. f-91-056 Dear Mr. Paule: In response to your letter dated January 23, 1991, in which you seek advice concerning the use of campaign funds under the Political Reform Act (the trActtr),4 we are unable to provide you with the assistance you seek, and write onl-y after several attenpts to reach you by telephone were unsuccessful . Regrulation 18329 (copy enclosed) governs the process by which the Conmission provides advice. Among other things, the Conrnission does not provide advice in the absence of sufficient facts (Regulation 18329 (b) (8) (c) , 1832e (c) (4) (F) ) , or when the advice request is hypotheticaL (Regulation 18329 (b) (D) , 18329(c) (4) (D) ), or when the request concerns another person's duties under the Act, and the requestor is not authorized to seek the advice (Regulation 1832e (b) (8) (B) , 1832e (c) (4) (c) ) . It is not clear whether you are seeking advice for yourself or on behal,f of another person. It is also not clear whether or not your question concerns an actual sj.tuation. Therefore, there are insufficient facts to pernit a response to your inguiry. If you wish to contact this office and provide the additional information necessary, we will be happy to provide you with an appropriate response. 1 corr\".rr.\"nt Code Sections 81OOO-91015. Commission regulations appear at 2 California code of ReguLations Section 18OOO, et seq. A11 references to regulations are to Title 2, Division 6 of the California Code of Regulations. 428 J Street, Suite 8OO . P.O. Box 8O7 o Sacramento CA 95804-0807 . (916)322-5660 I am sorry that at this time we cannot provide yOu with the guidance you requested. If you have any questions regarding this matter p■ease contact me at (9■ 6)322-590■ . Our Fi■e No. ■-90-056 page 2 SH : JSR: Ken Encl-osure D ivi s ion sincerely,",
+    "summary": "The FPPC declined to provide informal advice on campaign fund usage under the Political Reform Act due to insufficient facts and ambiguities regarding the requestor's standing and whether the inquiry concerned an actual situation."
+  }
+}

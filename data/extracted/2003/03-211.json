@@ -1,0 +1,75 @@
+{
+  "id": "03-211",
+  "year": 2003,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2003/03-211.pdf",
+  "pdf_sha256": "0ca4e5069d8d35507aec77d524b79144f785860d4b6bf82623b938eef457c820",
+  "local_pdf_path": "raw_pdfs/2003/03-211.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2003 Advice Letter # 03-211",
+    "tags": [
+      "2003",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:38:52",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2003&tagCount=1&page=16"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:22.042704Z",
+    "page_count": 1,
+    "word_count": 176,
+    "char_count": 1128,
+    "quality_score": 0.75,
+    "olmocr_cost": null,
+    "native_word_count": 176
+  },
+  "content": {
+    "full_text": "Re:\nFarn Por-rrrcar- PnacrrcEs CouuIssIoN\n428 J Street . Suite 620 . Sacramento, CA 95814-2329\n(916) 322-5660 o Fax (916\\ 322-0886\nSeptember 24,2003\nRuth R. Perez, Treasurer\nFriends of Terry Terauchi 2000\n15507 South Normandie Avenue, Suite 451\nGardena, CA90247\nYour Request for Advice\nOur FiIe No. W-03-211\nDear Ms. Perez\nThis letter is in response to your request on behalf of Friends of Terry Terauchi\n2000 for advice regarding the campaign provisions of the Political Reform Act (the\n'Act').1\nAs you stated in our telephone conversation of September 18, 2003, the facts in\nyour letter have changed. Since your question dealt with the funds in a bank account that\nno longer exists, we are rescinding your request for written advice.\nIf you have any other questions regarding this matter,please contact me at (916)\n322-5660.\nSincerely,\nLuisa Menchaca\nGeneral Counsel\n&^*-\nBy:\nS. Moen, PhD\nPolitical Reform Consultant II\nTechnical Assistance Division\nKSMjg\nI:\\Adviceltrs\\03-211\nI Government Code sections 81000 - 91014. Commission regulations appear at Title 2, sections\n18109-18997, of the California Code of Regulations.\nL_9\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2003-09-24",
+    "date_raw": "September 24,2003",
+    "requestor_name": "Perez\nThis",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requester sought advice regarding campaign fund provisions of the Political Reform Act related to funds held in a specific bank account.",
+    "conclusion_synthetic": "The FPPC rescinded the request for written advice because the factual circumstances changed and the bank account in question no longer exists.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is a withdrawal letter with no traditional QUESTION or CONCLUSION sections. The request was rescinded due to changed circumstances rather than being resolved on the merits. The letter confirms a prior telephone conversation on September 18, 2003 where the change in facts was communicated."
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [
+      "18109"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:34:22.042704Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The requester sought advice regarding campaign fund provisions of the Political Reform Act related to funds held in a specific bank account.\n\nCONCLUSION: The FPPC rescinded the request for written advice because the factual circumstances changed and the bank account in question no longer exists.",
+    "qa_source": "synthetic",
+    "first_500_words": "Re: Farn Por-rrrcar- PnacrrcEs CouuIssIoN 428 J Street . Suite 620 . Sacramento, CA 95814-2329 (916) 322-5660 o Fax (916\\ 322-0886 September 24,2003 Ruth R. Perez, Treasurer Friends of Terry Terauchi 2000 15507 South Normandie Avenue, Suite 451 Gardena, CA90247 Your Request for Advice Our FiIe No. W-03-211 Dear Ms. Perez This letter is in response to your request on behalf of Friends of Terry Terauchi 2000 for advice regarding the campaign provisions of the Political Reform Act (the 'Act').1 As you stated in our telephone conversation of September 18, 2003, the facts in your letter have changed. Since your question dealt with the funds in a bank account that no longer exists, we are rescinding your request for written advice. If you have any other questions regarding this matter,please contact me at (916) 322-5660. Sincerely, Luisa Menchaca General Counsel &^*- By: S. Moen, PhD Political Reform Consultant II Technical Assistance Division KSMjg I:\\Adviceltrs\\03-211 I Government Code sections 81000 - 91014. Commission regulations appear at Title 2, sections 18109-18997, of the California Code of Regulations. L_9",
+    "summary": "The FPPC withdrew its consideration of an advice request from Friends of Terry Terauchi 2000 regarding campaign fund provisions because the underlying facts changed and the referenced bank account no longer existed."
+  }
+}

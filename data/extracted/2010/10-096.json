@@ -1,0 +1,71 @@
+{
+  "id": "10-096",
+  "year": 2010,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2010/10-096.pdf",
+  "pdf_sha256": "717c5161311690ed9f76bdb54e2e930e1d9416308e3226b94bab9f84da2b1f3e",
+  "local_pdf_path": "raw_pdfs/2010/10-096.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2010 Advice Letter # 10-096",
+    "tags": [
+      "2010",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:52:21",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2010&tagCount=1&page=19"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T21:24:53.919445Z",
+    "page_count": 1,
+    "word_count": 88,
+    "char_count": 555,
+    "quality_score": 0.7632698786507609,
+    "olmocr_cost": 0.0024897,
+    "native_word_count": 111
+  },
+  "content": {
+    "full_text": "July 7, 2010\n\nJill D.S. Maland\nAssistant City Attorney\nCity of Chula Vista\n276 Fourth Avenue\nChula Vista, CA 91910\n\nRe: Your Request for Advice\n    Our file No. 10-096\n\nDear Ms. Maland:\n\nThis letter confirms the telephone conversation that we had wherein you stated you are withdrawing the above-captioned letter as the city council members have changed since you wrote your request.\n\nIf you have any questions, feel free to call me at (916) 322-5660.\n\nSincerely,\n\nScott Hallabrin\nGeneral Counsel\n\n[signature]\n\nBy: Heather M. Rowan\nCounsel, Legal Division",
+    "full_text_markdown": "July 7, 2010\n\nJill D.S. Maland\nAssistant City Attorney\nCity of Chula Vista\n276 Fourth Avenue\nChula Vista, CA 91910\n\nRe: Your Request for Advice\n    Our file No. 10-096\n\nDear Ms. Maland:\n\nThis letter confirms the telephone conversation that we had wherein you stated you are withdrawing the above-captioned letter as the city council members have changed since you wrote your request.\n\nIf you have any questions, feel free to call me at (916) 322-5660.\n\nSincerely,\n\nScott Hallabrin\nGeneral Counsel\n\n[signature]\n\nBy: Heather M. Rowan\nCounsel, Legal Division"
+  },
+  "parsed": {
+    "date": "2010-07-07",
+    "date_raw": "July 7, 2010",
+    "requestor_name": "Maland",
+    "requestor_title": "City Attorney",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T21:24:53.919445Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "July 7, 2010 Jill D.S. Maland Assistant City Attorney City of Chula Vista 276 Fourth Avenue Chula Vista, CA 91910 Re: Your Request for Advice Our file No. 10-096 Dear Ms. Maland: This letter confirms the telephone conversation that we had wherein you stated you are withdrawing the above-captioned letter as the city council members have changed since you wrote your request. If you have any questions, feel free to call me at (916) 322-5660. Sincerely, Scott Hallabrin General Counsel [signature] By: Heather M. Rowan Counsel, Legal Division",
+    "qa_source": "extracted",
+    "first_500_words": "July 7, 2010 Jill D.S. Maland Assistant City Attorney City of Chula Vista 276 Fourth Avenue Chula Vista, CA 91910 Re: Your Request for Advice Our file No. 10-096 Dear Ms. Maland: This letter confirms the telephone conversation that we had wherein you stated you are withdrawing the above-captioned letter as the city council members have changed since you wrote your request. If you have any questions, feel free to call me at (916) 322-5660. Sincerely, Scott Hallabrin General Counsel [signature] By: Heather M. Rowan Counsel, Legal Division",
+    "summary": null
+  }
+}

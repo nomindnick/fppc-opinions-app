@@ -1,0 +1,79 @@
+{
+  "id": "01-026",
+  "year": 2001,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2001/01-026.pdf",
+  "pdf_sha256": "e248d37b61808f8ec1ac9c3eac187ef67ed76e1e17c0be0813f2b5ee08a5b1a9",
+  "local_pdf_path": "raw_pdfs/2001/01-026.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2001 Advice Letter # 01-026",
+    "tags": [
+      "2001",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:32:54",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2001&tagCount=1&page=2"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:29.525360Z",
+    "page_count": 2,
+    "word_count": 407,
+    "char_count": 2669,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 407
+  },
+  "content": {
+    "full_text": "Re\nFa.rn Porrrrcar PnacrrcBs C ourrrssroN\nP.O. Box 807 . ,128 J Street . Sacramento, CA 95812-0807\n(916) 322-5660 . Fax (916) 322-0886\nFebruary 28,2001\nAlan R. Bums, City Attomey\nCity of Fountain Valley\nCity Hall\n10200 Slater Avenue\nFountain Valley, Califonria 92708\nYour Request for Advice\nOur File No. A-01-026\nDear Mr. Burns:\nThis letter is in response to your request for advice on behalf of City Councilman\nJohn Collins regarding the gift reporting provisions of the Political Reform Act (the\n\"Act\").1\nQUESTION\nIf Councilman Collins accepted from a city vendor a ticket to attend a charitable\norganization's fundraiser at which a meal was served, does Regulation 18946.4(b), which\nstates that tickets to such fundraising events have no value, apply?\nCONCLUSION\nYes. Because the organization hosting the fundraiser is a nonprofit organization\nexempt from taxation under Section 501(c)(3) of the Internal Revenue Code, pursuant to\nRegulation 18946.4(b), the ticket has no value and Councilman Collins did not receive a\nreportable gift.\nI Government Code sections 81000 - 91014. Commission regulations appeu at Title 2, sections\n18109-18996, of the California Code of Regulations.\nqil?\n\n\nFile No. A-01-026\nPage No. 2\nFACTS\nJohn Collins, a Fountain Valley Council member, attended a fundraiser for the\nBoys and Girls Club, which is exempt from taxation under Intemal Revenue Code $\n501(c)(3). The tickets to the fundraiser were $50 each. As a part of the fundraiser, each\nparticipant received a meal. The ticket to the fundraiser was purchased for Councilman\nCollins by Rainbow Disposal, the City's franchise fiash hauler.\nANALYSIS\nRegulation 18946.4 deals with the valuation and reporting of tickets to fundraisers\nas gifts. Regulation 18946.40) specifically addresses fundraising events for certain\nnonprofit organizations and states that:\n\"Where the event is a fundraising event for an organization exempt\nfrom ta:<ation under Section 501(c)(3) of the Internal Revenue\nCode, the ticket or other admission privilege has no value.\"\nThe Boys and Girls Club is a nonprofit organization exempt from taxation under\nSection 501(c)(3) of the Intemal Revenue Code. Pursuant to the above regulation, the\nticket for the Boys and Girls Club fundraiser had no value for either disclosure or\ndisqualification purposes. Therefore, the ticket that Councilman Collins received from\nRainbow Disposal has no value and does not constitute a reportable gift. (Whtte Advice\nLetter, No. A-97-056)\nIf you have any other questions regarding this matter, please contact me at (916)\n322-5660.\nSincerely,\nLuisa Menchaca\nGeneral Counsel\nStaff Counsel, Legal Division\nIIABjg\nI:\\Advicelhs\\01-026\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2001-02-28",
+    "date_raw": "February 28,2001",
+    "requestor_name": "Burns",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "If Councilman Collins accepted from a city vendor a ticket to attend a charitable\norganization's fundraiser at which a meal was served, does Regulation 18946.4(b), which\nstates that tickets to such fundraising events have no value, apply?",
+    "conclusion": "Yes. Because the organization hosting the fundraiser is a nonprofit organization\nexempt from taxation under Section 501(c)(3) of the Internal Revenue Code, pursuant to\nRegulation 18946.4(b), the ticket has no value and Councilman Collins did not receive a\nreportable gift.\nqil?",
+    "facts": "John Collins, a Fountain Valley Council member, attended a fundraiser for the\nBoys and Girls Club, which is exempt from taxation under Intemal Revenue Code $\n501(c)(3). The tickets to the fundraiser were $50 each. As a part of the fundraiser, each\nparticipant received a meal. The ticket to the fundraiser was purchased for Councilman\nCollins by Rainbow Disposal, the City's franchise fiash hauler.",
+    "analysis": "Regulation 18946.4 deals with the valuation and reporting of tickets to fundraisers\nas gifts. Regulation 18946.40) specifically addresses fundraising events for certain\nnonprofit organizations and states that:\n\"Where the event is a fundraising event for an organization exempt\nfrom ta:<ation under Section 501(c)(3) of the Internal Revenue\nCode, the ticket or other admission privilege has no value.\"\nThe Boys and Girls Club is a nonprofit organization exempt from taxation under\nSection 501(c)(3) of the Intemal Revenue Code. Pursuant to the above regulation, the\nticket for the Boys and Girls Club fundraiser had no value for either disclosure or\ndisqualification purposes. Therefore, the ticket that Councilman Collins received from\nRainbow Disposal has no value and does not constitute a reportable gift. (Whtte Advice\nLetter, No. A-97-056)",
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.9500000000000001,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern"
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [
+      "18109",
+      "18946.4",
+      "18946.40"
+    ],
+    "prior_opinions": [
+      "A-97-056"
+    ],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:34:29.525360Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: If Councilman Collins accepted from a city vendor a ticket to attend a charitable\norganization's fundraiser at which a meal was served, does Regulation 18946.4(b), which\nstates that tickets to such fundraising events have no value, apply?\n\nCONCLUSION: Yes. Because the organization hosting the fundraiser is a nonprofit organization\nexempt from taxation under Section 501(c)(3) of the Internal Revenue Code, pursuant to\nRegulation 18946.4(b), the ticket has no value and Councilman Collins did not receive a\nreportable gift.\nqil?",
+    "qa_source": "extracted",
+    "first_500_words": "Re Fa.rn Porrrrcar PnacrrcBs C ourrrssroN P.O. Box 807 . ,128 J Street . Sacramento, CA 95812-0807 (916) 322-5660 . Fax (916) 322-0886 February 28,2001 Alan R. Bums, City Attomey City of Fountain Valley City Hall 10200 Slater Avenue Fountain Valley, Califonria 92708 Your Request for Advice Our File No. A-01-026 Dear Mr. Burns: This letter is in response to your request for advice on behalf of City Councilman John Collins regarding the gift reporting provisions of the Political Reform Act (the \"Act\").1 QUESTION If Councilman Collins accepted from a city vendor a ticket to attend a charitable organization's fundraiser at which a meal was served, does Regulation 18946.4(b), which states that tickets to such fundraising events have no value, apply? CONCLUSION Yes. Because the organization hosting the fundraiser is a nonprofit organization exempt from taxation under Section 501(c)(3) of the Internal Revenue Code, pursuant to Regulation 18946.4(b), the ticket has no value and Councilman Collins did not receive a reportable gift. I Government Code sections 81000 - 91014. Commission regulations appeu at Title 2, sections 18109-18996, of the California Code of Regulations. qil? File No. A-01-026 Page No. 2 FACTS John Collins, a Fountain Valley Council member, attended a fundraiser for the Boys and Girls Club, which is exempt from taxation under Intemal Revenue Code $ 501(c)(3). The tickets to the fundraiser were $50 each. As a part of the fundraiser, each participant received a meal. The ticket to the fundraiser was purchased for Councilman Collins by Rainbow Disposal, the City's franchise fiash hauler. ANALYSIS Regulation 18946.4 deals with the valuation and reporting of tickets to fundraisers as gifts. Regulation 18946.40) specifically addresses fundraising events for certain nonprofit organizations and states that: \"Where the event is a fundraising event for an organization exempt from ta:<ation under Section 501(c)(3) of the Internal Revenue Code, the ticket or other admission privilege has no value.\" The Boys and Girls Club is a nonprofit organization exempt from taxation under Section 501(c)(3) of the Intemal Revenue Code. Pursuant to the above regulation, the ticket for the Boys and Girls Club fundraiser had no value for either disclosure or disqualification purposes. Therefore, the ticket that Councilman Collins received from Rainbow Disposal has no value and does not constitute a reportable gift. (Whtte Advice Letter, No. A-97-056) If you have any other questions regarding this matter, please contact me at (916) 322-5660. Sincerely, Luisa Menchaca General Counsel Staff Counsel, Legal Division IIABjg I:\\Advicelhs\\01-026",
+    "summary": null
+  }
+}

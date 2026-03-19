@@ -1,0 +1,71 @@
+{
+  "id": "84075",
+  "year": 1984,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1984/fppc-advice/84075.PDF",
+  "pdf_sha256": "96bdfa909e293ddd7003698e9f0c5545dbbfde69fe78967da8926aaa447f32ed",
+  "local_pdf_path": "raw_pdfs/1984/84075.PDF",
+  "source_metadata": {
+    "title_raw": "DELVENTHAL, BURK Year: 1984 Advice Letter # 84075",
+    "tags": [
+      "1984",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:35:11",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1984&tagCount=1&page=24"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:48.901094Z",
+    "page_count": 1,
+    "word_count": 267,
+    "char_count": 1718,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 267
+  },
+  "content": {
+    "full_text": "P.O. BOX 807 • SACRAMENTO, 95804 ••• 1100 K STREET BUILDING, SACRAMENTO, 95814 \nTechnical Assistance \n(916) 322-5662 \nBurk E. Delventhal \nDeputy City Attorney \nCity Hall, Room 206 \nSan Francisco, CA \n94102 \nDear Buck: \nAdministration \n322-5660 \nApril 9, 1984 \nExecutive/legal \n322-5901 \nEnforcement \n322-6.Ul \nRe: Advice Letter No. A-84-075 \nThis letter is to confirm my advice to you concerning the \ncampaign reporting provisions of the Political Reform Act. \nSpecifically, you asked how a candidate should report the receipt \nof a check for $100, drawn on the account of John Smith and signed \nby John Smith. \nYou asked me to assume both that the candidate \nknows that Mary Smith is John's spouse, and that there are no facts \ndemonstrating that the check was drawn from separate funds. \nDISCUSSION \nFor the purposes of disclosure under the Political Reform Act, \na candidate or committee who receives a contribution from a married \nindividual must assume that the contribution is from joint, rather \nthan separate, funds. \nThis presumption will be refuted if the \nindividual informs the candidate or committee that the contribution \nis from legally separate funds. \nUnder the facts you presented, the contribution will be \nreported as being from John Smith, but it will be cumulated with \nany other contributions received from John Smith, Mary Smith or \nJohn and Mary Smith. \nIf a contribution has been cumulated with a \ncontribution from a spouse, the FPPC recommends that the filer \nindicate this next to the reported contribution, in order to avoid \nconfusion. \nIf you have any additional questions, please feel free to \ncontact me at 916/322-5901. \nVery truly yours, \nta~~~;u~ \nCounsel, Legal Division \nJSM:km \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1984-04-09",
+    "date_raw": "April 9, 1984",
+    "requestor_name": "DELVENTHAL",
+    "requestor_title": "City Attorney",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "You asked me to assume both that the candidate knows that Mary Smith is John's spouse, and that there are no facts demonstrating that the check was drawn from separate funds.",
+    "conclusion": "Under the facts you presented, the contribution will be reported as being from John Smith, but it will be cumulated with any other contributions received from John Smith, Mary Smith or John and Mary Smith. If a contribution has been cumulated with a contribution from a spouse, the FPPC recommends that the filer indicate this next to the reported contribution, in order to avoid confusion.",
+    "facts": null,
+    "analysis": "For the purposes of disclosure under the Political Reform Act, \na candidate or committee who receives a contribution from a married \nindividual must assume that the contribution is from joint, rather \nthan separate, funds. \nThis presumption will be refuted if the \nindividual informs the candidate or committee that the contribution \nis from legally separate funds. \nUnder the facts you presented, the contribution will be \nreported as being from John Smith, but it will be cumulated with \nany other contributions received from John Smith, Mary Smith or \nJohn and Mary Smith. \nIf a contribution has been cumulated with a \ncontribution from a spouse, the FPPC recommends that the filer \nindicate this next to the reported contribution, in order to avoid \nconfusion.",
+    "question_synthetic": "How should a candidate report a $100 contribution received as a check drawn on and signed by John Smith when the candidate knows Mary Smith is John's spouse and there is no evidence the funds are separate?",
+    "conclusion_synthetic": "A contribution from a married individual must be presumed to be from joint funds unless the individual states otherwise. The $100 check should be reported as from John Smith but cumulated with any other contributions from either spouse, with a notation recommended to clarify the cumulation.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "Format: old; LLM: Standard advice letter format from 1984. Contains discussion section but no formal QUESTION or CONCLUSION headers; question and conclusion extracted from narrative text. Clear legal guidance provided on spousal contribution reporting under Political Reform Act."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:36:48.901094Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: You asked me to assume both that the candidate knows that Mary Smith is John's spouse, and that there are no facts demonstrating that the check was drawn from separate funds.\n\nCONCLUSION: Under the facts you presented, the contribution will be reported as being from John Smith, but it will be cumulated with any other contributions received from John Smith, Mary Smith or John and Mary Smith. If a contribution has been cumulated with a contribution from a spouse, the FPPC recommends that the filer indicate this next to the reported contribution, in order to avoid confusion.",
+    "qa_source": "mixed",
+    "first_500_words": "P.O. BOX 807 • SACRAMENTO, 95804 ••• 1100 K STREET BUILDING, SACRAMENTO, 95814 Technical Assistance (916) 322-5662 Burk E. Delventhal Deputy City Attorney City Hall, Room 206 San Francisco, CA 94102 Dear Buck: Administration 322-5660 April 9, 1984 Executive/legal 322-5901 Enforcement 322-6.Ul Re: Advice Letter No. A-84-075 This letter is to confirm my advice to you concerning the campaign reporting provisions of the Political Reform Act. Specifically, you asked how a candidate should report the receipt of a check for $100, drawn on the account of John Smith and signed by John Smith. You asked me to assume both that the candidate knows that Mary Smith is John's spouse, and that there are no facts demonstrating that the check was drawn from separate funds. DISCUSSION For the purposes of disclosure under the Political Reform Act, a candidate or committee who receives a contribution from a married individual must assume that the contribution is from joint, rather than separate, funds. This presumption will be refuted if the individual informs the candidate or committee that the contribution is from legally separate funds. Under the facts you presented, the contribution will be reported as being from John Smith, but it will be cumulated with any other contributions received from John Smith, Mary Smith or John and Mary Smith. If a contribution has been cumulated with a contribution from a spouse, the FPPC recommends that the filer indicate this next to the reported contribution, in order to avoid confusion. If you have any additional questions, please feel free to contact me at 916/322-5901. Very truly yours, ta~~~;u~ Counsel, Legal Division JSM:km",
+    "summary": "FPPC advises that contributions from married individuals should be presumed joint unless the contributor claims separate funds. A $100 check from John Smith should be reported as from John Smith and cumulated with spousal contributions, with recommended notation to avoid confusion."
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "77ADV-77-114",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-114.PDF",
+  "pdf_sha256": "941063bb5263b88a774c2bc849ab2a211994b8f66d92590543b65fa697f03510",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-114.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-114",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:21:26",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=34"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T15:15:27.084684Z",
+    "page_count": 1,
+    "word_count": 75,
+    "char_count": 490,
+    "quality_score": 0.7675,
+    "olmocr_cost": 0.00242348,
+    "native_word_count": 77
+  },
+  "content": {
+    "full_text": "Payment under an insurance policy.\n\nPayments under an insurance policy are specifically excluded from the definition of income. Staff concluded that a person who borrows money under the terms of his insurance policy has received a payment under the insurance policy within the meaning of this provision. This conclusion assumes that all policyholders have the same right to borrow against their insurance policies and that there are no special privileges being accorded the public official.",
+    "full_text_markdown": "Payment under an insurance policy.\n\nPayments under an insurance policy are specifically excluded from the definition of income. Staff concluded that a person who borrows money under the terms of his insurance policy has received a payment under the insurance policy within the meaning of this provision. This conclusion assumes that all policyholders have the same right to borrow against their insurance policies and that there are no special privileges being accorded the public official."
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-20T15:15:27.084684Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "Payment under an insurance policy. Payments under an insurance policy are specifically excluded from the definition of income. Staff concluded that a person who borrows money under the terms of his insurance policy has received a payment under the insurance policy within the meaning of this provision. This conclusion assumes that all policyholders have the same right to borrow against their insurance policies and that there are no special privileges being accorded the public official.",
+    "qa_source": "extracted",
+    "first_500_words": "Payment under an insurance policy. Payments under an insurance policy are specifically excluded from the definition of income. Staff concluded that a person who borrows money under the terms of his insurance policy has received a payment under the insurance policy within the meaning of this provision. This conclusion assumes that all policyholders have the same right to borrow against their insurance policies and that there are no special privileges being accorded the public official.",
+    "summary": null
+  }
+}

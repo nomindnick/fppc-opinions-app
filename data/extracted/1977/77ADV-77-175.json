@@ -1,0 +1,71 @@
+{
+  "id": "77ADV-77-175",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-175.PDF",
+  "pdf_sha256": "0df7b9ee25f553771e1a600019e54a7c9e58af636cf4af941dc3385eb5bd2df4",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-175.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-175",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:20:56",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=27"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:14.664123Z",
+    "page_count": 2,
+    "word_count": 110,
+    "char_count": 634,
+    "quality_score": 0.5075,
+    "olmocr_cost": null,
+    "native_word_count": 110
+  },
+  "content": {
+    "full_text": "25 \n77 \nDear \nbee: \nJiRnne P. \na \n90670 \nan \nare correct \n/ \n\n\n~'\" \nCITY \nCITY HALL, \nALL AMERICA CITY \nFE SPRINGS \nIII' \nROAO 90670 -\nP. O. BOX 2120 \n-\n(213) 868-0511 \nJanuary 18, 1977 \nFair Political Practices Commission \nPost Office Box 807 \nSacramento, Ca. 95804 \nGentlemen: \nIt is my understanding that for Councilmen the proper \ndistribution of Form 470 and Form 430 is for the \nCouncilmen to file an original and one copy with the \nCity Clerk and that no copies are to be forwarded \neither to you or to the County Clerk. \nPlease let me know if my understanding is incorrect. \nRLW:dm \nVery truly yours, \nWilliams \nCity Manager \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1977-01-18",
+    "date_raw": "January 18, 1977",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "It is my understanding that for Councilmen the proper distribution of Form 470 and Form 430 is for the Councilmen to file an original and one copy with the City Clerk and that no copies are to be forwarded either to you or to the County Clerk. Please let me know if my understanding is incorrect.",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The sender seeks confirmation regarding the proper filing procedures for Forms 470 and 430 by city councilmen, specifically whether originals and copies should be filed only with the City Clerk with no distribution to the FPPC or County Clerk.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.75,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an incoming request letter to the FPPC, not an FPPC response. No conclusion or advice from FPPC is present in this document. The document is partially illegible at the top but the main question is clear. Document ID format suggests 1977 vintage."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:14.664123Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: It is my understanding that for Councilmen the proper distribution of Form 470 and Form 430 is for the Councilmen to file an original and one copy with the City Clerk and that no copies are to be forwarded either to you or to the County Clerk. Please let me know if my understanding is incorrect.",
+    "qa_source": "mixed",
+    "first_500_words": "25 77 Dear bee: JiRnne P. a 90670 an are correct / ~'\" CITY CITY HALL, ALL AMERICA CITY FE SPRINGS III' ROAO 90670 - P. O. BOX 2120 - (213) 868-0511 January 18, 1977 Fair Political Practices Commission Post Office Box 807 Sacramento, Ca. 95804 Gentlemen: It is my understanding that for Councilmen the proper distribution of Form 470 and Form 430 is for the Councilmen to file an original and one copy with the City Clerk and that no copies are to be forwarded either to you or to the County Clerk. Please let me know if my understanding is incorrect. RLW:dm Very truly yours, Williams City Manager",
+    "summary": "An incoming letter from a City Manager requesting clarification on the proper filing and distribution procedures for Forms 470 and 430 for city councilmen under FPPC regulations."
+  }
+}

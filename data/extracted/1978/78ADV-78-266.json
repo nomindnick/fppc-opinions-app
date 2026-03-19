@@ -1,0 +1,72 @@
+{
+  "id": "78ADV-78-266",
+  "year": 1978,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1978/78ADV-78-266.PDF",
+  "pdf_sha256": "bbfb0bf313aa385eb51b61d3c98364af8f4f68333d8f2175dbf2f9009338b37e",
+  "local_pdf_path": "raw_pdfs/1978/78ADV-78-266.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1978ADV Advice Letter # 78ADV-78-266",
+    "tags": [
+      "Advice Letter",
+      "1978"
+    ],
+    "scraped_at": "2026-01-31 15:24:26",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=22"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-27T16:37:17.159170Z",
+    "page_count": 1,
+    "word_count": 155,
+    "char_count": 953,
+    "quality_score": 0.8467258725542043,
+    "olmocr_cost": 0.00253786,
+    "native_word_count": 5,
+    "haiku_cost": 0.002212
+  },
+  "content": {
+    "full_text": "State of California\n\nMemorandum\n\nTo : Opinion Request Memo Participants          Date : Oct. 13, 1975\n\n\nFrom : FAIR POLITICAL PRACTICES COMMISSION\n       Dwight\n\nSubject:\n\n     X serves is a Commissioner for the San Francisco\nOpera House Commission. X has invested in the\nFly-By-Night Travel Service. Within the past few months\nthe Tip-Toe Ballet Company has purchased $1,000 worth of\nairline tickets from X's Service. The Travel Service\nhas received a 5% commission on the sale of these\ntickets from the affected airlines. Has X received\n$250 from the ballet company because of her pro rata\nshare of airline ticket fees paid by the Ballet Company\nto the Travel Service for the purpose of disqualification.\n\n     X has not received $250 in income from the Ballet Company.\nX only has to report his pro rata share of the commissions\nreceived by the travel service. The travel service has not\nreceived income except for its commissions on the ticket sales.",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "X serves as a Commissioner for the San Francisco Opera House Commission. X has a 25% interest in the Fly-By-Night Travel Service. Within the past few months the Tip-Toe Ballet Company has purchased $1,000 worth of airline tickets from X's Service. The Travel Service has received a 5% commission on the sale of these tickets from the affected airlines. Has X received $250 from the Ballet Company because of her pro rata share of airline ticket fees paid by the Ballet Company to the Travel Service for the purposes of disqualification.",
+    "conclusion": "X has not received $250 in income from the Ballet Company. X only has to report his pro rata share of the commissions received by the travel service. The travel service has not received income except for its commissions on the ticket sales.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a public official with a 25% interest in a travel service must disqualify themselves based on income from airline ticket commissions received when a ballet company purchases tickets through that service.",
+    "conclusion_synthetic": "The official must report only their pro rata share of the commissions received by the travel service, not a calculated amount from the Ballet Company directly, as the travel service's only income comes from airline commissions on ticket sales.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.75,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document appears to be internal FPPC memorandum rather than formal advice letter format. Question and conclusion sections are present but not formally labeled. Some pronoun inconsistency (her/his) suggests potential OCR or transcription issues. No formal headers but clear Q/A structure exists."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T16:58:56.252119Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: X serves as a Commissioner for the San Francisco Opera House Commission. X has a 25% interest in the Fly-By-Night Travel Service. Within the past few months the Tip-Toe Ballet Company has purchased $1,000 worth of airline tickets from X's Service. The Travel Service has received a 5% commission on the sale of these tickets from the affected airlines. Has X received $250 from the Ballet Company because of her pro rata share of airline ticket fees paid by the Ballet Company to the Travel Service for the purposes of disqualification.\n\nCONCLUSION: X has not received $250 in income from the Ballet Company. X only has to report his pro rata share of the commissions received by the travel service. The travel service has not received income except for its commissions on the ticket sales.",
+    "qa_source": "mixed",
+    "first_500_words": "State of California Memorandum To: Opinion Request Meeting Participants Date: Oct. 13, 1978 From: FAIR POLITICAL PRACTICES COMMISSION Dwight Subject: X serves as a Commissioner for the San Francisco Opera House Commission. X has a 25% interest in the Fly-By-Night Travel Service. Within the past few months the Tip-Toe Ballet Company has purchased $1,000 worth of airline tickets from X's Service. The Travel Service has received a 5% commission on the sale of these tickets from the affected airlines. Has X received $250 from the Ballet Company because of her pro rata share of airline ticket fees paid by the Ballet Company to the Travel Service for the purposes of disqualification. X has not received $250 in income from the Ballet Company. X only has to report his pro rata share of the commissions received by the travel service. The travel service has not received income except for its commissions on the ticket sales.",
+    "summary": "This memorandum addresses whether a San Francisco Opera House Commissioner with a 25% stake in a travel service must disqualify due to commissions earned when a ballet company purchases airline tickets through that service. The FPPC advises that only the official's pro rata share of actual commissions received by the travel service need be reported."
+  }
+}

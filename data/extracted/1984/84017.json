@@ -1,0 +1,71 @@
+{
+  "id": "84017",
+  "year": 1984,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1984/fppc-advice/84017.PDF",
+  "pdf_sha256": "cdc43e46b6f5b6bb413223dc0cf662e88850ce9c6e70349549d928c85ebac98f",
+  "local_pdf_path": "raw_pdfs/1984/84017.PDF",
+  "source_metadata": {
+    "title_raw": "MILLER, NANCY Year: 1984 Advice Letter # 84017",
+    "tags": [
+      "1984",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:35:02",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1984&tagCount=1&page=22"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:21:19.811852Z",
+    "page_count": 2,
+    "word_count": 302,
+    "char_count": 1957,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 302
+  },
+  "content": {
+    "full_text": "P.O. BOX 807 • SACRAMENTO, 95804 ••• 1100 K STREET BUILDING, SACRAMENTO, 95814 \nTechnical Assistance \n(916) 322-5662 \nNancy C. Miller, Esq. \nAdministration \n322-5660 \nExecutive/Legal \n322-5901 \nMarch 2, 1984 \nLaw Offices of Richard H. Hyde, Inc. \nIII Capitol Mall Building, Suite 225 \nSacramento, CA \n95814 \nEnforcement \n322-6441 \nStatements of Economic Interest \n322-6444 \nRe: \nYour Request for Advice \nOur File No. A-84-017 \nDear Nancy: \nThis letter is sent to respond to your request Ior advice \ndated January 30, 1984, concerning the campaign disclosure \nprovisions of the Political Reform Act and to confirm our \ntelephone conversation of February 28, 1984. \nYou asked whether, in reporting expenditures made to a \npartnership operating under a fictitious business name \nstatement, a committee may list the partnership as payee or \nwhether it is required to also list as payees the individual \npartners. \nI advised you that only the name of the actual payee, \ni.e. the partnership in this example, is required. \nIf I can be of further assistance, please feel free to \ncontact me at (916) 322-6444. \nDMF:plh \nSincerely, \nDiane Maura Fishburn \nStaff Counsel \nLegal Division \n\n\nfEI Z \nCarla Wardlow \nFPPC \nLAW OFFICES \nOF \nRICHARD H. HYDE, INC. \n111 Capitol Mall Building, Suite 225 \nSacramento, California 95814 \nTelephone: (916) 447-7933 \nJanuary 30, 1984 \nP.o. Box 807 \nSacramento, CA 95804 \nDear Carla: \nI am requesting an opinion as to reporting requirements for \ncampaign committees. \nSpecifically when a campaign committee is \nreporting an expense or payment made to a Partnership operating \nunder a ficticious business name statement, does the committee \nlist the partnership name only, or is it required to list in-\ndividual partners as well? \nIf a regulation exists as to this question, please send me a \ncopy of it. If you need additional information, please do not \nhesitate to contact me. \nVery truly yours, \nHYDE, MILEER and SAVAGE \nNCM:so \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1984-03-02",
+    "date_raw": "March 2, 1984",
+    "requestor_name": "MILLER",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "You asked whether, in reporting expenditures made to a partnership operating under a fictitious business name statement, a committee may list the partnership as payee or whether it is required to also list as payees the individual partners.",
+    "conclusion": "I advised you that only the name of the actual payee, i.e. the partnership in this example, is required.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "When a campaign committee reports an expense paid to a partnership operating under a fictitious business name, must the committee list only the partnership name or must it also identify the individual partners?",
+    "conclusion_synthetic": "Under campaign disclosure provisions, a committee need only list the actual payee (the partnership) and is not required to also identify individual partners.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document contains both incoming request (dated January 30, 1984) and FPPC response (dated March 2, 1984). The response letter is the primary document. Clear question and conclusion sections present in FPPC response."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:21:19.811852Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: You asked whether, in reporting expenditures made to a partnership operating under a fictitious business name statement, a committee may list the partnership as payee or whether it is required to also list as payees the individual partners.\n\nCONCLUSION: I advised you that only the name of the actual payee, i.e. the partnership in this example, is required.",
+    "qa_source": "mixed",
+    "first_500_words": "P.O. BOX 807 • SACRAMENTO, 95804 ••• 1100 K STREET BUILDING, SACRAMENTO, 95814 Technical Assistance (916) 322-5662 Nancy C. Miller, Esq. Administration 322-5660 Executive/Legal 322-5901 March 2, 1984 Law Offices of Richard H. Hyde, Inc. III Capitol Mall Building, Suite 225 Sacramento, CA 95814 Enforcement 322-6441 Statements of Economic Interest 322-6444 Re: Your Request for Advice Our File No. A-84-017 Dear Nancy: This letter is sent to respond to your request Ior advice dated January 30, 1984, concerning the campaign disclosure provisions of the Political Reform Act and to confirm our telephone conversation of February 28, 1984. You asked whether, in reporting expenditures made to a partnership operating under a fictitious business name statement, a committee may list the partnership as payee or whether it is required to also list as payees the individual partners. I advised you that only the name of the actual payee, i.e. the partnership in this example, is required. If I can be of further assistance, please feel free to contact me at (916) 322-6444. DMF:plh Sincerely, Diane Maura Fishburn Staff Counsel Legal Division fEI Z Carla Wardlow FPPC LAW OFFICES OF RICHARD H. HYDE, INC. 111 Capitol Mall Building, Suite 225 Sacramento, California 95814 Telephone: (916) 447-7933 January 30, 1984 P.o. Box 807 Sacramento, CA 95804 Dear Carla: I am requesting an opinion as to reporting requirements for campaign committees. Specifically when a campaign committee is reporting an expense or payment made to a Partnership operating under a ficticious business name statement, does the committee list the partnership name only, or is it required to list in- dividual partners as well? If a regulation exists as to this question, please send me a copy of it. If you need additional information, please do not hesitate to contact me. Very truly yours, HYDE, MILEER and SAVAGE NCM:so",
+    "summary": "FPPC advice letter responding to a January 30, 1984 request regarding campaign disclosure reporting requirements when expenditures are made to partnerships operating under fictitious business names. The FPPC advised that only the partnership name as the actual payee is required in the report."
+  }
+}

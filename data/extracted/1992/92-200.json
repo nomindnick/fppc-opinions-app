@@ -1,0 +1,78 @@
+{
+  "id": "92-200",
+  "year": 1992,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1992/92-200.pdf",
+  "pdf_sha256": "c6523ce1ecb8fe4db102e89b5bdb4ae747d7bc73fd10dd0d598ef2b4c00c84a9",
+  "local_pdf_path": "raw_pdfs/1992/92-200.pdf",
+  "source_metadata": {
+    "title_raw": "Camp, Kimberly Year: 1992 Advice Letter # 92-200",
+    "tags": [
+      "Advice Letter",
+      "1992"
+    ],
+    "scraped_at": "2026-01-31 16:23:58",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1992&tagCount=1&page=16"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:12.875630Z",
+    "page_count": 2,
+    "word_count": 414,
+    "char_count": 2717,
+    "quality_score": 0.8,
+    "olmocr_cost": null,
+    "native_word_count": 414
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\nApril 20,\n1992\nKimberly Camp\n-\nWeintraub Genshlea\n& Sproul\nP.O.\nBox 15208\nSacramento,\nCA\n95881\nRe:\nYour Request For Informal\n-\nAssistance\nOur File No.\n1-92-200\nDear Ms.\nCamp:\nThis is in reply to your letter requesting advice concerning\nthe campaign and lobbying provisions of the Political Reform\nAct.’!\nBecause your question is a general inquiry,\nwe are\ntreating it as a request for informal assistance pursuant to\nRegulation 18329(c) (3) •2/\nThe provisions of Proposition 73,\nadded to the Political\nReform Act in June of 1988, which established statewide fiscal\nyear contribution limits has been invalidated.\nService Employees\nInternational Union,\nAFL-CIO, et al. v. Fair Political Practices\nCommission\n(9th Cir.\nFeb.\n7,\n1992)\nF.2d\n[Dock.\nNo.\n89—\n15771].\nHowever, the court order did not invalidate the special\nelection and special runoff election contribution limits of\nProposition 73.\nA person,\nincluding an individual, proprietorship,\nfirm,\npartnership, joint venture,\nsyndicate, business trust,\ncompany\ncorporation or association,\nmay contribute up to $1,000 per\ncandidate during a special election cycle and $1,000 per candidate\nduring a special runoff election cycle if a runoff\nelection is needed.\n“Special election cycle” means the day on\n1/\nGovernment CQde Sections 81000-91015.\nAll statutory\nreferences are to the Government Code unless otherwise indicated.\nCommission regulations appear at\n2 California Code of Regulations\nSection 18000,\ng.\nAll references to regulations are to Title\n2,\nDivision\n6 of the California Code of Regulations.\n2/\nInformal assistance does not provide the requestor with the\nimmunity provided by an opinion or formal written advice.\n(Section 83114; Regulation 18329(c) (3) .)\n428 J Street, Suite 800\n• RD. Box 807 •\nSacramento CA 95804-0807\nS (916 322-66C\n\n\nPage\n2\nKimberly Camp\n1—92—200\nwhich an elective office becomes vacant until the day of the\nspecial election.\n“Special runoff election cycle” means the day\nafter the special election until the day of the special runoff\nelection.\n(Section 85305.)\nIn addition, if you are making\ncontributions to candidates for local office,\nyou should contact\nthe local jurisdiction to determine if there are local\ncontribution limits in effect.\nA lobbying firm must disclose on its Form 625 all monetary\nand non—monetary contributions totaling $100 or more made by the\nfirm to elected state officers, state candidates or committees\nsupporting such officers or candidates.\n(Section 86114.)\nIf I can be of further assistance, please contact me at\n(916)\n322—5662.\nSincerely,\nScott Hallabrin\nActing General\nBy:\nColleen McGee\nPolitical Reform Consultant\nTechnical Assistance and\nAnalysis Division\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1992-04-20",
+    "date_raw": "April 20,\n1992",
+    "requestor_name": "Camp",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "informal_advice"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": "Division",
+    "question_synthetic": "The requestor asked a general inquiry regarding campaign and lobbying provisions of the Political Reform Act, specifically concerning contribution limits following the invalidation of Proposition 73's statewide fiscal year contribution limits.",
+    "conclusion_synthetic": "The FPPC clarified that while Proposition 73's statewide fiscal year contribution limits were invalidated, the special election and special runoff election contribution limits of $1,000 per candidate remain valid. Additionally, lobbying firms must disclose contributions of $100 or more to elected state officers and candidates on Form 625.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "Format: ocr; LLM: Document is marked as informal assistance request; no formal QUESTION and CONCLUSION sections are present in standard format, but the legal advice and response are clearly identifiable. Footer information is partially cut off due to OCR quality."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "83114",
+      "85305",
+      "86114"
+    ],
+    "regulations": [
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.25,
+    "classified_at": "2026-02-06T18:35:12.875630Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The requestor asked a general inquiry regarding campaign and lobbying provisions of the Political Reform Act, specifically concerning contribution limits following the invalidation of Proposition 73's statewide fiscal year contribution limits.\n\nCONCLUSION: The FPPC clarified that while Proposition 73's statewide fiscal year contribution limits were invalidated, the special election and special runoff election contribution limits of $1,000 per candidate remain valid. Additionally, lobbying firms must disclose contributions of $100 or more to elected state officers and candidates on Form 625.",
+    "qa_source": "synthetic",
+    "first_500_words": "California Fair Political Practices Commission April 20, 1992 Kimberly Camp - Weintraub Genshlea & Sproul P.O. Box 15208 Sacramento, CA 95881 Re: Your Request For Informal - Assistance Our File No. 1-92-200 Dear Ms. Camp: This is in reply to your letter requesting advice concerning the campaign and lobbying provisions of the Political Reform Act.’! Because your question is a general inquiry, we are treating it as a request for informal assistance pursuant to Regulation 18329(c) (3) •2/ The provisions of Proposition 73, added to the Political Reform Act in June of 1988, which established statewide fiscal year contribution limits has been invalidated. Service Employees International Union, AFL-CIO, et al. v. Fair Political Practices Commission (9th Cir. Feb. 7, 1992) F.2d [Dock. No. 89— 15771]. However, the court order did not invalidate the special election and special runoff election contribution limits of Proposition 73. A person, including an individual, proprietorship, firm, partnership, joint venture, syndicate, business trust, company corporation or association, may contribute up to $1,000 per candidate during a special election cycle and $1,000 per candidate during a special runoff election cycle if a runoff election is needed. “Special election cycle” means the day on 1/ Government CQde Sections 81000-91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations Section 18000, g. All references to regulations are to Title 2, Division 6 of the California Code of Regulations. 2/ Informal assistance does not provide the requestor with the immunity provided by an opinion or formal written advice. (Section 83114; Regulation 18329(c) (3) .) 428 J Street, Suite 800 • RD. Box 807 • Sacramento CA 95804-0807 S (916 322-66C Page 2 Kimberly Camp 1—92—200 which an elective office becomes vacant until the day of the special election. “Special runoff election cycle” means the day after the special election until the day of the special runoff election. (Section 85305.) In addition, if you are making contributions to candidates for local office, you should contact the local jurisdiction to determine if there are local contribution limits in effect. A lobbying firm must disclose on its Form 625 all monetary and non—monetary contributions totaling $100 or more made by the firm to elected state officers, state candidates or committees supporting such officers or candidates. (Section 86114.) If I can be of further assistance, please contact me at (916) 322—5662. Sincerely, Scott Hallabrin Acting General By: Colleen McGee Political Reform Consultant Technical Assistance and Analysis Division",
+    "summary": "FPPC informal advice letter addressing campaign contribution limits under the Political Reform Act, explaining that special election and special runoff election contribution limits ($1,000 per candidate) remain valid despite invalidation of Proposition 73's statewide fiscal year limits, and clarifying lobbying firm disclosure requirements."
+  }
+}

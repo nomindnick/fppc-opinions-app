@@ -1,0 +1,74 @@
+{
+  "id": "78ADV-78-307",
+  "year": 1978,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1978/78ADV-78-307.PDF",
+  "pdf_sha256": "c4cb7fc9f50ac1f44407ea9b3145f61bf08af3fcbe168bd46c4c755cb7f56ff9",
+  "local_pdf_path": "raw_pdfs/1978/78ADV-78-307.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1978ADV Advice Letter # 78ADV-78-307",
+    "tags": [
+      "Advice Letter",
+      "1978"
+    ],
+    "scraped_at": "2026-01-31 15:23:16",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=6"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-07T16:55:59.559308Z",
+    "page_count": 1,
+    "word_count": 152,
+    "char_count": 976,
+    "quality_score": 0.8992153371112339,
+    "olmocr_cost": 0.00254646,
+    "native_word_count": 22
+  },
+  "content": {
+    "full_text": "State of California\n\nMemorandum\n\nTo: Bob Stern\n\nDate: May 9, 1978\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION\n        Ted Prim\n\nSubject: Dan's Comments on 81005.2(j)\n\n1. Dan believes the Section is confusing and should be totally redrafted.\n\n2. Specific attention should be given to the phrase \"under the jurisdiction of the local legislative body\" since the word jurisdiction is vague and used in a different context from that set forth in Section 82035.\n\n3. In a letter issued to William Taylor, Office of the San Diego County Counsel, the staff stated that Section 81005.2(j) sets forth minimum requirements but does not preclude the code reviewing body from requiring local agencies, boards and commissions under its jurisdiction from forwarding some or all of the original Statements of Economic Interests to a filing officer designated by the code reviewing body. Dan thinks this concept should be set forth expressly in any revised version of Section 81005.2(j).",
+    "full_text_markdown": "State of California\n\nMemorandum\n\nTo: Bob Stern\n\nDate: May 9, 1978\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION\n        Ted Prim\n\nSubject: Dan's Comments on 81005.2(j)\n\n1. Dan believes the Section is confusing and should be totally redrafted.\n\n2. Specific attention should be given to the phrase \"under the jurisdiction of the local legislative body\" since the word jurisdiction is vague and used in a different context from that set forth in Section 82035.\n\n3. In a letter issued to William Taylor, Office of the San Diego County Counsel, the staff stated that Section 81005.2(j) sets forth minimum requirements but does not preclude the code reviewing body from requiring local agencies, boards and commissions under its jurisdiction from forwarding some or all of the original Statements of Economic Interests to a filing officer designated by the code reviewing body. Dan thinks this concept should be set forth expressly in any revised version of Section 81005.2(j)."
+  },
+  "parsed": {
+    "date": "1978-05-09",
+    "date_raw": "May 9, 1978",
+    "requestor_name": null,
+    "requestor_title": "County Counsel",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "This document discusses concerns about the language and interpretation of Section 81005.2(j) regarding the jurisdiction of local legislative bodies over filing requirements for Statements of Economic Interests.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.75,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an internal FPPC memorandum, not a formal advice letter responding to an external request. No traditional QUESTION or CONCLUSION sections present. The document conveys editorial and interpretive feedback on a specific statute section rather than providing legal advice to a requester."
+  },
+  "citations": {
+    "government_code": [
+      "81005",
+      "82035"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-07T16:55:59.559308Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: This document discusses concerns about the language and interpretation of Section 81005.2(j) regarding the jurisdiction of local legislative bodies over filing requirements for Statements of Economic Interests.",
+    "qa_source": "synthetic",
+    "first_500_words": "**State of California** **Memorandum** To: Bob Stern Date: May 9, 1978 From: FAIR POLITICAL PRACTICES COMMISSION Ted Prim Subject: Dan's Comments on 81005.2(j) 1. Dan believes the Section is confusing and should be totally redrafted. 2. Specific attention should be given to the phrase \"under the jurisdiction of the local legislative body\" since the word jurisdiction is vague and used in a different context from that set forth in Section 82035. 3. In a letter issued to William Taylor, Office of the San Diego County Counsel, the staff stated that Section 81005.2(j) sets forth minimum requirements but does not preclude the code reviewing body from requiring local agencies, boards and commissions under its jurisdiction from forwarding some or all of the original Statements of Economic Interests to a filing officer designated by the code reviewing body. Dan thinks this concept should be set forth expressly in any revised version of Section 81005.2(j).",
+    "summary": "Internal FPPC memorandum from Ted Prim to Bob Stern conveying Dan's comments on Section 81005.2(j), noting that the section is confusing, the term 'jurisdiction' is vague, and suggesting that revised language should expressly state that code reviewing bodies can require local agencies to forward Statements of Economic Interests to designated filing officers."
+  }
+}

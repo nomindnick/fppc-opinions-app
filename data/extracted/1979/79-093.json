@@ -1,0 +1,72 @@
+{
+  "id": "79-093",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-093.PDF",
+  "pdf_sha256": "856de0d5ad23ceb2ccb9bccdb2af61e91c768e99f1a2b34709f620196aa1f710",
+  "local_pdf_path": "raw_pdfs/1979/79-093.PDF",
+  "source_metadata": {
+    "title_raw": "NEUTERMAN, MOIRA Year: 1979 Advice Letter # 79-093",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:25:42",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=5"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T16:10:22.456759Z",
+    "page_count": 2,
+    "word_count": 424,
+    "char_count": 2695,
+    "quality_score": 0.9213648408419972,
+    "olmocr_cost": 0.00521676,
+    "native_word_count": 38,
+    "haiku_cost": 0.0052640000000000004
+  },
+  "content": {
+    "full_text": "April 4, 1979\n\nMs. Moira Neuterman\nLegislative Secretary\nCalifornia School Board Association\n916 23rd Street\nSacramento, California 95816\n\nDear Ms. Neuterman:\n\nThank you for your letter dated March 14, 1979. In the latter you\nstated that a registered lobbyist for the California School Board\nAssociation (CSBA) is involved in organizing a legislative network\nseminar for CSBA members, arranging for speakers and\nassisting with menu selection for the dinner and with facility\narrangements. Legislators have been invited to the reception and\ndinner. The registered lobbyist is the person to be contacted in\nresponse to the invitation to the reception and dinner. The\nreception is \"no host\" and the dinner ($9.98 per person) will be\npaid for by CSBA. You asked if the registered lobbyist was required\nto disclose the event on the lobbyist report. You also asked if the\nevent must be reported on the lobbyist employer report.\n\nIf a lobbyist participates with an employer in arranging for a gift\nof less than $10.00 to a state official, both the lobbyist and the\nlobbyist's employer have a reporting obligation. The lobbyist's\nemployer must report the entire transaction as an \"activity expense\"\non Form 650.\n\nThe arrangement is not considered an \"activity expense\" incurred by\nthe lobbyist. However, the lobbyist must submit an attachment with\nForm 620 disclosing the same information reported by the employer.\n\nIf I can be of further assistance, please contact me.\n\nSincerely,\n\n\nJ. RICHARD EICHMAN\nCompliance Representative\n\nCalifornia School Boards Association\n\nMarch 14, 1979\n\nMr. Richard Eichman\nFair Political Practices Commission\n1100 K Street\nSacramento, California 95814\n\nDear Mr. Eichman:\n\nWith reference to our telephone conversation today I am enclosing a copy of the contract with the Sacramento Inn signed by Polly Lopez, member of the California School Boards Association staff. CSBA lobbyist Jeanne Werschke has been involved in organizing the legislative network seminar in as far as notifying CSBA members, arranging for speakers, and assisting Ms. Lopez in the menu selection for the dinner and with facility arrangements.\n\nAll letters to legislators were signed by CSBA Executive Director and officers. However, Jeanne Werschke's name appeared on the letters as the person to be contacted in response to the invitation to the reception and dinner. This is a \"no-host\" reception, and the dinner ($9.98 per person) will be paid for by the employer.\n\nI would appreciate your opinion as to whether Jeanne Werschke needs to report any of the above, and if so, does it also have to be reported on the lobbyist employer report?\n\nSincerely,\n\nMoira Neuterman\nLegislative Secretary\n\nEnc.\nmn",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1979-04-04",
+    "date_raw": "April 4, 1979",
+    "requestor_name": "Neuterman",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "You asked if the registered lobbyist was required to disclose the event on the lobbyist report. You also asked if the event must be reported on the lobbyist employer report.",
+    "conclusion": "If a lobbyist participates with an employer in arranging for a gift of less than $10.00 to a state official, both the lobbyist and the lobbyist's employer have a reporting obligation. The lobbyist's employer must report the entire transaction as an \"activity expense\" on Form 650. The arrangement is not considered an \"activity expense\" incurred by the lobbyist. However, the lobbyist must submit an attachment with Form 620 disclosing the same information reported by the employer.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Must a registered lobbyist disclose their participation in organizing a legislative network seminar and dinner (costing $9.98 per person) on lobbyist and employer reports?",
+    "conclusion_synthetic": "Both the lobbyist and employer must report the dinner arrangement, but in different ways: the employer reports it as an activity expense on Form 650, while the lobbyist must submit an attachment to Form 620 with the same information.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document includes both the incoming request (dated March 14, 1979) and the FPPC response (dated April 4, 1979). Formal Q/A structure is implicit rather than explicitly labeled. All key information extracted successfully."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T16:44:24.477032Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: You asked if the registered lobbyist was required to disclose the event on the lobbyist report. You also asked if the event must be reported on the lobbyist employer report.\n\nCONCLUSION: If a lobbyist participates with an employer in arranging for a gift of less than $10.00 to a state official, both the lobbyist and the lobbyist's employer have a reporting obligation. The lobbyist's employer must report the entire transaction as an \"activity expense\" on Form 650. The arrangement is not considered an \"activity expense\" incurred by the lobbyist. However, the lobbyist must submit an attachment with Form 620 disclosing the same information reported by the employer.",
+    "qa_source": "mixed",
+    "first_500_words": "April 4, 1979 Ms. Moira Neuterman Legislative Secretary California School Board Association 916 23rd Street Sacramento, California 95816 Dear Ms. Neuterman: Thank you for your letter dated March 14, 1979. In the letter you stated that a registered lobbyist for the California School Board Association (CSBA) is involved in organizing a legislative network seminar, notifying CSBA members, arranging for speakers and assisting with menu selection for the dinner and with facility arrangements. Legislators have been invited to the reception and dinner. The registered lobbyist is the person to be contacted in response to the invitation to the reception and dinner. The reception is \"no host\" and the dinner ($9.98 per person) will be paid for by CSBA. You asked if the registered lobbyist was required to disclose the event on the lobbyist report. You also asked if the event must be reported on the lobbyist employer report. If a lobbyist participates with an employer in arranging for a gift of less than $10.00 to a state official, both the lobbyist and the lobbyist's employer have a reporting obligation. The lobbyist's employer must report the entire transaction as an \"activity expense\" on Form 650. The arrangement is not considered an \"activity expense\" incurred by the lobbyist. However, the lobbyist must submit an attachment with Form 620 disclosing the same information reported by the employer. If I can be of further assistance, please contact me. Sincerely, J. RICHARD EICHMAN Compliance Representative March 14, 1979 Mr. Richard Eichman Fair Political Practices Commission 1100 K Street Sacramento, California 95814 Dear Mr. Eichman: With reference to our telephone conversation today I am enclosing a copy of the contract with the Sacramento Inn signed by Polly Lopez, member of the California School Boards Association staff. CSBA lobbyist Jeanne Werschke has been involved in organizing the legislative network seminar in as far as notifying CSBA members, arranging for speakers, and assisting Ms. Lopez in the menu selection for the dinner and with facility arrangements. All letters to legislators were signed by CSBA Executive Director and officers. However, Jeanne Werschke's name appeared on the letters as the person to be contacted in response to the invitation to the reception and dinner. This is a \"no-host\" reception, and the dinner ($9.98 per person) will be paid for by the employer. I would appreciate your opinion as to whether Jeanne Werschke needs to report any of the above, and if so, does it also have to be reported on the lobbyist employer report? Sincerely, Moira Neuterman Legislative Secretary Enc. mn",
+    "summary": "The FPPC advises that a registered lobbyist who participates in arranging a legislative dinner for state officials costing less than $10 per person must disclose this on both the lobbyist report (Form 620 with attachment) and the employer report (Form 650 as an activity expense)."
+  }
+}

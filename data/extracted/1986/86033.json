@@ -1,0 +1,75 @@
+{
+  "id": "86033",
+  "year": 1986,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1986/fppc-advice/86033.PDF",
+  "pdf_sha256": "8ea6d862c48809743e46234579c02e9bf57f54c89e686eb0eedede5ba2d1a62e",
+  "local_pdf_path": "raw_pdfs/1986/86033.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1986 Advice Letter # 86033",
+    "tags": [
+      "1986",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:38:29",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1986&tagCount=1&page=13"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:32.723777Z",
+    "page_count": 1,
+    "word_count": 282,
+    "char_count": 1739,
+    "quality_score": 0.6325000000000001,
+    "olmocr_cost": null,
+    "native_word_count": 282
+  },
+  "content": {
+    "full_text": "State of California \nJV'emorandum \nTo \nAdvice Request Meeting Participants \nDate \nJanuary 2, 1986 \nFrom \nFAIR POUTICAL PRACTICES COMMISSION \nCarla l-vardlow \nSubject: Lobbyist Termination \nGovernment Code Section 86107 requires a lobbyist to file a notice \nof termination within 30 days after ceasing the activity which \nrequired registration. \nShould a lobbyist who no longer meets the \ndefinition of a lobbyist in regulation 18239, but who still does \nsome lobbying, be allowed to terminate? \nPlease review the following and we can discuss if either of these \nlobbyists should be allowed to file a notice of termination: \n1. \nLobbyist A qualified and registered under the old compensa-\ntion/time tests contained in regulation 18239. \nHe has \nnever met the $2,000/25 contacts test set out in the \namended version of 18239. \nLobbyist A will have to register \nas a lobbying firm in 1986 and is wondering if he can \nterminate instead. \n(Note: \nWhen 18239 was revised in 1984, \nwe did allow lobbyists who no longer qualified to terminate \nat that time.-\nI do not know whT~Lobbyist A did not \ntermina te. ) \n2. \nLobbyist B qualified and registered as a lobbyist under the \n$2,000/25 contacts tests~ \nShe recently went to work for a \nnew company and does some lobbying along with other duties. \nShe does not receive $2,000 in a calendar month for lobbying \nactivities, and has asked whether she would be allowed to \nterminate if she is very careful to keep her contacts under \n25 in the future. \nANSWER: \nNeither lobbyist may terminate at this time. \nIf an \nindividual no longer qualifies as a lobbyist at the time registra-\ntions are renewed (prior to the regular legislative session) the \nindividual need not renew his or her certification~ \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1986-01-02",
+    "date_raw": "January 2, 1986",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Should a lobbyist who no longer meets the definition of a lobbyist in regulation 18239, but who still does some lobbying, be allowed to terminate? Please review the following and we can discuss if either of these lobbyists should be allowed to file a notice of termination: 1. Lobbyist A qualified and registered under the old compensation/time tests contained in regulation 18239. He has never met the $2,000/25 contacts test set out in the amended version of 18239. Lobbyist A will have to register as a lobbying firm in 1986 and is wondering if he can terminate instead. 2. Lobbyist B qualified and registered as a lobbyist under the $2,000/25 contacts tests. She recently went to work for a new company and does some lobbying along with other duties. She does not receive $2,000 in a calendar month for lobbying activities, and has asked whether she would be allowed to terminate if she is very careful to keep her contacts under 25 in the future.",
+    "conclusion": "Neither lobbyist may terminate at this time. If an individual no longer qualifies as a lobbyist at the time registrations are renewed (prior to the regular legislative session) the individual need not renew his or her certification.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Can two lobbyists who no longer meet current registration thresholds under regulation 18239 terminate their lobbyist registration, or must they continue registering despite reduced lobbying activities?",
+    "conclusion_synthetic": "Neither lobbyist may terminate currently, but individuals who no longer qualify as lobbyists may decline to renew their certification at the next renewal period prior to the legislative session.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is an internal FPPC memorandum formatted as advice letter with clear question and answer sections. Some text appears to have OCR artifacts (e.g., 'JV'emorandum', 'whT~'). The document discusses Government Code Section 86107 and regulation 18239 regarding lobbyist termination requirements."
+  },
+  "citations": {
+    "government_code": [
+      "86107"
+    ],
+    "regulations": [
+      "18239"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "lobbying",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:36:32.723777Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Should a lobbyist who no longer meets the definition of a lobbyist in regulation 18239, but who still does some lobbying, be allowed to terminate? Please review the following and we can discuss if either of these lobbyists should be allowed to file a notice of termination: 1. Lobbyist A qualified and registered under the old compensation/time tests contained in regulation 18239. He has never met the $2,000/25 contacts test set out in the amended version of 18239. Lobbyist A will have to register as a lobbying firm in 1986 and is wondering if he can terminate instead. 2. Lobbyist B qualified and registered as a lobbyist under the $2,000/25 contacts tests. She recently went to work for a new company and does some lobbying along with other duties. She does not receive $2,000 in a calendar month for lobbying activities, and has asked whether she would be allowed to terminate if she is very careful to keep her contacts under 25 in the future.\n\nCONCLUSION: Neither lobbyist may terminate at this time. If an individual no longer qualifies as a lobbyist at the time registrations are renewed (prior to the regular legislative session) the individual need not renew his or her certification.",
+    "qa_source": "mixed",
+    "first_500_words": "State of California JV'emorandum To Advice Request Meeting Participants Date January 2, 1986 From FAIR POUTICAL PRACTICES COMMISSION Carla l-vardlow Subject: Lobbyist Termination Government Code Section 86107 requires a lobbyist to file a notice of termination within 30 days after ceasing the activity which required registration. Should a lobbyist who no longer meets the definition of a lobbyist in regulation 18239, but who still does some lobbying, be allowed to terminate? Please review the following and we can discuss if either of these lobbyists should be allowed to file a notice of termination: 1. Lobbyist A qualified and registered under the old compensa- tion/time tests contained in regulation 18239. He has never met the $2,000/25 contacts test set out in the amended version of 18239. Lobbyist A will have to register as a lobbying firm in 1986 and is wondering if he can terminate instead. (Note: When 18239 was revised in 1984, we did allow lobbyists who no longer qualified to terminate at that time.- I do not know whT~Lobbyist A did not termina te. ) 2. Lobbyist B qualified and registered as a lobbyist under the $2,000/25 contacts tests~ She recently went to work for a new company and does some lobbying along with other duties. She does not receive $2,000 in a calendar month for lobbying activities, and has asked whether she would be allowed to terminate if she is very careful to keep her contacts under 25 in the future. ANSWER: Neither lobbyist may terminate at this time. If an individual no longer qualifies as a lobbyist at the time registra- tions are renewed (prior to the regular legislative session) the individual need not renew his or her certification~",
+    "summary": "FPPC memorandum addressing whether two lobbyists who no longer meet current registration qualification thresholds can terminate their registrations. The FPPC concludes that neither may terminate immediately, but clarifies that individuals no longer meeting the definition may decline to renew at the next renewal period."
+  }
+}

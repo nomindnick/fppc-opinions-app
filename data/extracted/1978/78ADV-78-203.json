@@ -1,0 +1,75 @@
+{
+  "id": "78ADV-78-203",
+  "year": 1978,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1978/78ADV-78-203.PDF",
+  "pdf_sha256": "d5c3d25b723c8c351e13d51e91a247c5fb39514d68303af58cc467de199bc3de",
+  "local_pdf_path": "raw_pdfs/1978/78ADV-78-203.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1978ADV Advice Letter # 78ADV-78-203",
+    "tags": [
+      "Advice Letter",
+      "1978"
+    ],
+    "scraped_at": "2026-01-31 15:24:31",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=23"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T16:07:42.834217Z",
+    "page_count": 1,
+    "word_count": 79,
+    "char_count": 546,
+    "quality_score": 0.7859427822801553,
+    "olmocr_cost": 0.00245444,
+    "native_word_count": 8,
+    "haiku_cost": 0.0018
+  },
+  "content": {
+    "full_text": "State of California\n\nMemorandum\n\nTo     : Opinion Request meeting participants          Date  : Mar. 31, 1978\n\n\nFrom : FAIR POLITICAL PRACTICES COMMISSION\n       Barbara Campbell\n\nSubject: Item for discussion.\n\n\nAre there any variations which can be made by a committee\nwhich reports numerous non-monetary contributions from a\nsingle contributor in light of the requirements of\nGovernment Code Section 84210(g)?\n\nThere was general discussion but no conclusion\nwas reached. It was agreed that a committee\ncould not just attack G.C. §84300 notices.",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "Are there any variations which can be made by a committee which reports numerous non-monetary contributions from a single contributor in light of the requirements of Government Code Section 84210(g)?",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The memorandum asks whether committees have flexibility in reporting multiple non-monetary contributions from a single contributor under Government Code Section 84210(g).",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.75,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an internal memorandum to opinion request meeting participants, not a formal advice letter response. No definitive conclusion was reached. The document discusses Government Code Section 84210(g) and confirms that committees cannot simply attach G.C. §84300 notices."
+  },
+  "citations": {
+    "government_code": [
+      "84210(g)",
+      "84300"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T16:58:59.951442Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Are there any variations which can be made by a committee which reports numerous non-monetary contributions from a single contributor in light of the requirements of Government Code Section 84210(g)?",
+    "qa_source": "mixed",
+    "first_500_words": "**Memorandum** To: Opinion Request meeting participants Date: Mar. 31, 1978 From: FAIR POLITICAL PRACTICES COMMISSION Barbara Campbell Subject: Item for discussion. Are there any variations which can be made by a committee which reports numerous non-monetary contributions from a single contributor in light of the requirements of Government Code Section 84210(g)? There was general discussion but no conclusion was reached. It was agreed that a committee could not just attach G.C. §84300 notices.",
+    "summary": "This is an internal FPPC memorandum from Barbara Campbell dated March 31, 1978, documenting a discussion item about variations in reporting non-monetary contributions from single contributors, noting that general discussion occurred but no conclusion was reached."
+  }
+}

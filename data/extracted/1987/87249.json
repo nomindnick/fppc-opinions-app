@@ -1,0 +1,74 @@
+{
+  "id": "87249",
+  "year": 1987,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1987/fppc-advice/87249.PDF",
+  "pdf_sha256": "d1bb4a2ccbea51ba5daf876545b726bdd696fa37e396998877f7dd913a1f3da0",
+  "local_pdf_path": "raw_pdfs/1987/87249.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1987 Advice Letter # 87249",
+    "tags": [
+      "1987",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:39:52",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1987&tagCount=1"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:19.387562Z",
+    "page_count": 1,
+    "word_count": 284,
+    "char_count": 1929,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 284
+  },
+  "content": {
+    "full_text": "California \nFair Political \nPractices Commission \nOctober 5, 1987 \nGregory G. Cowart, Chief of Police \ncity of Gilroy \n7370 Rosanna street \nGilroy, CA \n95020 \nDear Hr. Cowart: \nRe: \nYour Request for Assistance \nOur File No. I-87-249 \nYou have requested information concerning conflicts of interest \nfor appointed city employees who receive gratuities. \nWe have no \nsample policies which specifically address that subject. \nHowever, \nthe conflict-of-interest provisions of the Political Reform Actll \nrequire that all public officials with decision-making authority \ncomply with disclosure and disqualification requirements regarding \ngratuities and other gifts. \n, Specifically, public officials at all levels of state and local \ngovernment are required to (1) disclose gifts totaling $50 or more \nfrom a single source in a calendar year and (2) disqualify from \nparticipating in any decision which will have a reasonably \nforeseeable material financial effect, distinguishable from the \neffect on the public generally, on the donor or intermediary of \ngifts totaling $250 or more made or promised to them within the \npreceding 12 months. \n(Sections 87103, 87207 and 87302.) \nThe \nconflict-of-interest provisions of the Political Reform Act are \nexplained in greater detail in the enclosed pamphlet entitled \"A \nGuide to the Political Reform Act of 1974 -- California's Conflict \nof Interest Law for Public Officials.\" \nAlso enclosed is a copy of \nthe Political Reform Act. \nIf you have any further questions regarding this matter, please \ncontact me at (916) 322-5901. \nKED: j aj \nEnclosures \nSincerely, \nDiane H. Griffiths \nGeneral Counsel \nt' \nI ,lif h,~y'--' \nBy: \nKathryn E. Donovan \nCounsel, Legal Division \n!I Government Code sections 81000-91015. \nAll statutory \nreferences are to the Government Code unless otherwise \nindicated. \n428 J Street, Suite 800 • \nP.O. Box 807 \nCIt Sacramento CA 95804-0807 • \n(916) 322 -5660 \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1987-10-05",
+    "date_raw": "October 5, 1987",
+    "requestor_name": null,
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "You have requested information concerning conflicts of interest for appointed city employees who receive gratuities.",
+    "conclusion": "Public officials at all levels of state and local government are required to (1) disclose gifts totaling $50 or more from a single source in a calendar year and (2) disqualify from participating in any decision which will have a reasonably foreseeable material financial effect, distinguishable from the effect on the public generally, on the donor or intermediary of gifts totaling $250 or more made or promised to them within the preceding 12 months.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "What conflicts of interest provisions apply to appointed city employees who receive gratuities?",
+    "conclusion_synthetic": "The Political Reform Act requires all public officials with decision-making authority to disclose gifts of $50 or more annually from a single source and to disqualify themselves from decisions affecting donors of gifts totaling $250 or more in the preceding 12 months. The FPPC provided detailed guidance materials and referenced relevant Government Code sections 87103, 87207, and 87302.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: No formal QUESTION/CONCLUSION section headers present; question and conclusion extracted from letter body. Document is FPPC response signed by Counsel. File number I-87-249 indicates incoming request file."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "87103"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:36:19.387562Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: You have requested information concerning conflicts of interest for appointed city employees who receive gratuities.\n\nCONCLUSION: Public officials at all levels of state and local government are required to (1) disclose gifts totaling $50 or more from a single source in a calendar year and (2) disqualify from participating in any decision which will have a reasonably foreseeable material financial effect, distinguishable from the effect on the public generally, on the donor or intermediary of gifts totaling $250 or more made or promised to them within the preceding 12 months.",
+    "qa_source": "mixed",
+    "first_500_words": "California Fair Political Practices Commission October 5, 1987 Gregory G. Cowart, Chief of Police city of Gilroy 7370 Rosanna street Gilroy, CA 95020 Dear Hr. Cowart: Re: Your Request for Assistance Our File No. I-87-249 You have requested information concerning conflicts of interest for appointed city employees who receive gratuities. We have no sample policies which specifically address that subject. However, the conflict-of-interest provisions of the Political Reform Actll require that all public officials with decision-making authority comply with disclosure and disqualification requirements regarding gratuities and other gifts. , Specifically, public officials at all levels of state and local government are required to (1) disclose gifts totaling $50 or more from a single source in a calendar year and (2) disqualify from participating in any decision which will have a reasonably foreseeable material financial effect, distinguishable from the effect on the public generally, on the donor or intermediary of gifts totaling $250 or more made or promised to them within the preceding 12 months. (Sections 87103, 87207 and 87302.) The conflict-of-interest provisions of the Political Reform Act are explained in greater detail in the enclosed pamphlet entitled \"A Guide to the Political Reform Act of 1974 -- California's Conflict of Interest Law for Public Officials.\" Also enclosed is a copy of the Political Reform Act. If you have any further questions regarding this matter, please contact me at (916) 322-5901. KED: j aj Enclosures Sincerely, Diane H. Griffiths General Counsel t' I ,lif h,~y'--' By: Kathryn E. Donovan Counsel, Legal Division !I Government Code sections 81000-91015. All statutory references are to the Government Code unless otherwise indicated. 428 J Street, Suite 800 • P.O. Box 807 CIt Sacramento CA 95804-0807 • (916) 322 -5660",
+    "summary": "FPPC responds to City of Gilroy Police Chief's inquiry about conflict of interest policies for appointed employees receiving gratuities, explaining disclosure and disqualification requirements under the Political Reform Act."
+  }
+}

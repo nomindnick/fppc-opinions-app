@@ -1,0 +1,73 @@
+{
+  "id": "UNK-91-10357",
+  "year": 1991,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1991/91121.pdf",
+  "pdf_sha256": "2637f5542227060a758b7d2c38eafd024edb54f45d03631dcf3c2961b87d2a00",
+  "local_pdf_path": "raw_pdfs/1991/91121.pdf",
+  "source_metadata": {
+    "title_raw": "1991-91121-Kelly, Brian",
+    "tags": [
+      "1991",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:19:33",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1991&tagCount=1&page=52"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T21:25:43.995490Z",
+    "page_count": 1,
+    "word_count": 118,
+    "char_count": 778,
+    "quality_score": 0.881528947368421,
+    "olmocr_cost": 0.0025198,
+    "native_word_count": 167
+  },
+  "content": {
+    "full_text": "February 22, 1991\n\nFair Political Practices Commission\nAttn: Jonathan Rothman, Esq.\n428 J Street, Suite 800\nSacramento, Ca. 95814\n\nDear Mr. Rothman:\n\nIn January, 1991, your office issued an oral opinion that the Berkeley Rent Stabilization Board could not pay for legal representation for Rent Board Commissioners David Bryden and Kathleen DeVries in an election contest challenging their right to serve on the Board. The oral opinion was that such an expenditure of funds would violate Government Code section 85300. We would request a written confirmation of this opinion.\n\nThank you very much for your consideration. Please call if you have any questions.\n\nSincerely,\n\nMANUELA ALBUQUERQUE\nCity Attorney\n\nBRIAN KELLY\nDeputy City Attorney\n\ncc: David Bryden\n    Kathleen DeVries",
+    "full_text_markdown": "February 22, 1991\n\nFair Political Practices Commission\nAttn: Jonathan Rothman, Esq.\n428 J Street, Suite 800\nSacramento, Ca. 95814\n\nDear Mr. Rothman:\n\nIn January, 1991, your office issued an oral opinion that the Berkeley Rent Stabilization Board could not pay for legal representation for Rent Board Commissioners David Bryden and Kathleen DeVries in an election contest challenging their right to serve on the Board. The oral opinion was that such an expenditure of funds would violate Government Code section 85300. We would request a written confirmation of this opinion.\n\nThank you very much for your consideration. Please call if you have any questions.\n\nSincerely,\n\nMANUELA ALBUQUERQUE\nCity Attorney\n\nBRIAN KELLY\nDeputy City Attorney\n\ncc: David Bryden\n    Kathleen DeVries"
+  },
+  "parsed": {
+    "date": "1991-02-22",
+    "date_raw": "February 22, 1991",
+    "requestor_name": "Rothman",
+    "requestor_title": "City Attorney",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [
+      "85300"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-19T21:25:43.995490Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "February 22, 1991 Fair Political Practices Commission Attn: Jonathan Rothman, Esq. 428 J Street, Suite 800 Sacramento, Ca. 95814 Dear Mr. Rothman: In January, 1991, your office issued an oral opinion that the Berkeley Rent Stabilization Board could not pay for legal representation for Rent Board Commissioners David Bryden and Kathleen DeVries in an election contest challenging their right to serve on the Board. The oral opinion was that such an expenditure of funds would violate Government Code section 85300. We would request a written confirmation of this opinion. Thank you very much for your consideration. Please call if you have any questions. Sincerely, MANUELA ALBUQUERQUE City Attorney BRIAN KELLY Deputy City Attorney cc: David Bryden Kathleen DeVries",
+    "qa_source": "extracted",
+    "first_500_words": "February 22, 1991 Fair Political Practices Commission Attn: Jonathan Rothman, Esq. 428 J Street, Suite 800 Sacramento, Ca. 95814 Dear Mr. Rothman: In January, 1991, your office issued an oral opinion that the Berkeley Rent Stabilization Board could not pay for legal representation for Rent Board Commissioners David Bryden and Kathleen DeVries in an election contest challenging their right to serve on the Board. The oral opinion was that such an expenditure of funds would violate Government Code section 85300. We would request a written confirmation of this opinion. Thank you very much for your consideration. Please call if you have any questions. Sincerely, MANUELA ALBUQUERQUE City Attorney BRIAN KELLY Deputy City Attorney cc: David Bryden Kathleen DeVries",
+    "summary": null
+  }
+}

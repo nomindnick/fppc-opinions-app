@@ -1,0 +1,72 @@
+{
+  "id": "02-133",
+  "year": 2002,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2002/02-133.pdf",
+  "pdf_sha256": "f5f8a8d8cdb6f524b228a5dec0f1118fd9bb10ab9e6101acaba5a83885943acb",
+  "local_pdf_path": "raw_pdfs/2002/02-133.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2002 Advice Letter # 02-133",
+    "tags": [
+      "Advice Letter",
+      "2002"
+    ],
+    "scraped_at": "2026-01-31 14:36:24",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2002&tagCount=1&page=19"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T03:29:40.011428Z",
+    "page_count": 1,
+    "word_count": 120,
+    "char_count": 826,
+    "quality_score": 0.8205496131855503,
+    "olmocr_cost": 0.0024742199999999996,
+    "native_word_count": 120,
+    "haiku_cost": 0.002316
+  },
+  "content": {
+    "full_text": "FAIR POLITICAL PRACTICES COMMISSION\nP.O. Box 807 • 428 J Street • Sacramento, CA 95812-0807\n(916) 322-5660 • Fax (916) 322-0886\n\nJuly 2, 2002\n\n\nLinda Howard, Treasurer\nGreen Party of El Dorado County\nPost Office Box 1964\nPlacerville, CA 95667\n\nRe:      Your Request for Advice\n         Our File No. W-02-133\n\nDear Ms. Howard:\n\n     As indicated in my telephone conversation with Michael Bernstein, who responded to my call on your behalf, questions regarding forms 410/450 may be directed to our Technical Assistance Division at 1-866-ASK-FPPC. Accordingly, we are withdrawing your request for advice.\n\n     Should you have any additional questions regarding this matter, please contact me at (916) 322-5660.\n\nSincerely,\n\nLuisa Menchaca\nGeneral Counsel\n\n[signature]\n\nLawrence T. Woodlock\nSenior Counsel, Legal Division\n\nLTW:jg",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T22:45:27.485186Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "The letter is from the Fair Political Practices Commission (FPPC) to Linda Howard, Treasurer of the Green Party of El Dorado County. The FPPC informs Ms. Howard that her request for advice regarding forms 410/450 has been withdrawn because questions can be directed to their Technical Assistance Division at 1-866-ASK-FPPC. The letter also states that Ms. Howard should contact the FPPC at (916) 322-5660 if she has any additional questions. The letter is signed by Luisa Menchaca, General Counsel, and Lawrence T. Woodlock, Senior Counsel, Legal Division.",
+    "qa_source": "extracted",
+    "first_500_words": "The letter is from the Fair Political Practices Commission (FPPC) to Linda Howard, Treasurer of the Green Party of El Dorado County. The FPPC informs Ms. Howard that her request for advice regarding forms 410/450 has been withdrawn because questions can be directed to their Technical Assistance Division at 1-866-ASK-FPPC. The letter also states that Ms. Howard should contact the FPPC at (916) 322-5660 if she has any additional questions. The letter is signed by Luisa Menchaca, General Counsel, and Lawrence T. Woodlock, Senior Counsel, Legal Division.",
+    "summary": null
+  }
+}

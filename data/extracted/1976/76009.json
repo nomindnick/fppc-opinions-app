@@ -1,0 +1,73 @@
+{
+  "id": "76009",
+  "year": 1976,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1976/76009.PDF",
+  "pdf_sha256": "2de099d5729ea1d5b64af54f73c059385bc6461d1aa33d194a2c04f7a39d8561",
+  "local_pdf_path": "raw_pdfs/1976/76009.PDF",
+  "source_metadata": {
+    "title_raw": "SCHMECHEL, R. Year: 1976 Advice Letter # 76009",
+    "tags": [
+      "1976",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:18:11",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1976&tagCount=1&page=49"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:21.779622Z",
+    "page_count": 1,
+    "word_count": 193,
+    "char_count": 1222,
+    "quality_score": 0.635,
+    "olmocr_cost": null,
+    "native_word_count": 193
+  },
+  "content": {
+    "full_text": "~lay II! 1976 \nJ:.lr. R. B. Schmechel \nAccountant \nCOPE \n995 Market Street \nSan Francisco, California \n94103 \nDear !I'.r. Schmechel: \n'l'his letter is in response to your letter of May 4 requesting \nwritten confirmation of verbal advice concerning reportable \npledges. \nYou stated that approximately 1500 affiliated locals are required \nto pay a \"per capita tax\" to the California Labor Federation, of \nwhich COPE is a department, each month. \nYou further stated that \napproximately 20 percent fail to send in the prescribed amount on \nthe date that the taxes are due. \nThe only recourse open to the \nFederation in enforcing the payment of taxes, is to suspend the \nlocal until all back payments are made. \nThe action is a voluntary \npayment by the local. \nOn the basis of the above information, it is our opinion that these \ntaxes would not be an enforceable promise to make a payment within \nthe meaning of Section 82015 of the Political Reform Act. \nThe \nunpaid per capita taxes of affiliated locals, therefore, are not \nconsidered pledges for campaign reporting 9urposes. \nMonies would \nbe reported as they are received. \nbee: \nJeanne \nNan \nVery \nREGINA SICILIANO-KUTCH INS \nTechnical Assistance Program \nCoordinator \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": "SCHMECHEL",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "On the basis of the above information, it is our opinion that these taxes would not be an enforceable promise to make a payment within the meaning of Section 82015 of the Political Reform Act. The unpaid per capita taxes of affiliated locals, therefore, are not considered pledges for campaign reporting purposes. Monies would be reported as they are received.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether per capita taxes owed by affiliated locals to the California Labor Federation constitute reportable pledges under Section 82015 of the Political Reform Act.",
+    "conclusion_synthetic": "The FPPC concludes that per capita taxes owed to the California Labor Federation are not enforceable promises and therefore do not constitute reportable pledges. Instead, monies should be reported as they are received.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document lacks explicit QUESTION and CONCLUSION section headers but contains clear question and answer structure in body text. Letter dated May 11, 1976 responding to May 4 inquiry. Minor OCR issues with signature line formatting."
+  },
+  "citations": {
+    "government_code": [
+      "82015"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:37:21.779622Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether per capita taxes owed by affiliated locals to the California Labor Federation constitute reportable pledges under Section 82015 of the Political Reform Act.\n\nCONCLUSION: On the basis of the above information, it is our opinion that these taxes would not be an enforceable promise to make a payment within the meaning of Section 82015 of the Political Reform Act. The unpaid per capita taxes of affiliated locals, therefore, are not considered pledges for campaign reporting purposes. Monies would be reported as they are received.",
+    "qa_source": "mixed",
+    "first_500_words": "~lay II! 1976 J:.lr. R. B. Schmechel Accountant COPE 995 Market Street San Francisco, California 94103 Dear !I'.r. Schmechel: 'l'his letter is in response to your letter of May 4 requesting written confirmation of verbal advice concerning reportable pledges. You stated that approximately 1500 affiliated locals are required to pay a \"per capita tax\" to the California Labor Federation, of which COPE is a department, each month. You further stated that approximately 20 percent fail to send in the prescribed amount on the date that the taxes are due. The only recourse open to the Federation in enforcing the payment of taxes, is to suspend the local until all back payments are made. The action is a voluntary payment by the local. On the basis of the above information, it is our opinion that these taxes would not be an enforceable promise to make a payment within the meaning of Section 82015 of the Political Reform Act. The unpaid per capita taxes of affiliated locals, therefore, are not considered pledges for campaign reporting 9urposes. Monies would be reported as they are received. bee: Jeanne Nan Very REGINA SICILIANO-KUTCH INS Technical Assistance Program Coordinator",
+    "summary": "This FPPC advice letter responds to COPE's inquiry about whether approximately 20 percent of unpaid per capita taxes from affiliated locals constitute reportable pledges. The FPPC advises that such taxes are voluntary payments without enforcement and therefore are not reportable pledges under the Political Reform Act."
+  }
+}

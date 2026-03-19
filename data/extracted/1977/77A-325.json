@@ -1,0 +1,71 @@
+{
+  "id": "77A-325",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77A-325.PDF",
+  "pdf_sha256": "93087e54ae32e0e15d515b854c4f1713a3305bf7d4ff7b980f274de374d57b66",
+  "local_pdf_path": "raw_pdfs/1977/77A-325.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977A Advice Letter # 77A-325",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:22:24",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=47"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:16.292604Z",
+    "page_count": 2,
+    "word_count": 237,
+    "char_count": 1397,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 237
+  },
+  "content": {
+    "full_text": "25, 1977 \n1 California \n93940 \nDear Mr. \nyou for your letter of \nfrom an \na contribution to a \nPolitical Reform \nCounci \nhad a \n410 I \nwas f \nsurplus \ncommittee \nstatement showing \nsion has not \nthe question \ncontributors, \nthe attorney \nan opinion on \nsue. \nYou might \nGordnier at 916/44 \n5 Capitol \nwho \nan \nto provide you with th \nI \n\n\nMs. Dawn Wiser \nState Fair Political \nPractices Commission \nP. O. Box 807 \nSacramento, CA 95804 \nDear Ms. Wiser: \nSeptember 15, 1977 \nRe: \nExcess Campaign Funds \nI have been asked a question upon which I \nwould appreciate an informal opinion of the FPPC Staff. \nA Councilman was elected in the City's Councilmatic \nelections of last May. \nHe has campaign funds left over. \nI don't know the exact amount but it probably is in the \nrange of $1,000 to $2,000. \nHe asks if he may donate these \nfunds to charity. \nSpecifically, he wishes to make a \ncontribution to a local church. \nThe money is to be used \nfor a specific charitable program of the church and not \ngeneral church purposes. \nMay he do so? \nMy question presumes \nthat he would subsequently be required to report the use \nof these funds as presently required. \nI also understand that the Commission has made \nsome ruling on the distribution of excess campaign funds \nback to the donors. \nI would appreciate copies of any \nrulings. \nThank you for your assistance. \ntruly yours, \n~,ff~ \nCity Attorney \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1977-09-15",
+    "date_raw": "September 15, 1977",
+    "requestor_name": "Wiser",
+    "requestor_title": "City Attorney",
+    "requestor_city": null,
+    "document_type": "opinion"
+  },
+  "sections": {
+    "question": "A Councilman was elected in the City's Councilmatic elections of last May. He has campaign funds left over. I don't know the exact amount but it probably is in the range of $1,000 to $2,000. He asks if he may donate these funds to charity. Specifically, he wishes to make a contribution to a local church. The money is to be used for a specific charitable program of the church and not general church purposes. May he do so? My question presumes that he would subsequently be required to report the use of these funds as presently required. I also understand that the Commission has made some ruling on the distribution of excess campaign funds back to the donors. I would appreciate copies of any rulings.",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "May a newly elected councilman donate excess campaign funds ($1,000-$2,000) to a local church for a specific charitable program, and what are the reporting requirements and Commission rulings on distribution of excess campaign funds?",
+    "conclusion_synthetic": "The document appears to be an incoming request letter rather than a completed FPPC response, so no conclusion/advice is provided in this excerpt.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.6,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document contains both the incoming request letter (dated September 15, 1977) and a fragmentary FPPC response letter (dated September 25, 1977). The response portion is severely damaged/illegible, making extraction of actual FPPC conclusion impossible. Classified as advice_letter based on document type indicator, but actual FPPC response content is not recoverable from this document state."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:16.292604Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: A Councilman was elected in the City's Councilmatic elections of last May. He has campaign funds left over. I don't know the exact amount but it probably is in the range of $1,000 to $2,000. He asks if he may donate these funds to charity. Specifically, he wishes to make a contribution to a local church. The money is to be used for a specific charitable program of the church and not general church purposes. May he do so? My question presumes that he would subsequently be required to report the use of these funds as presently required. I also understand that the Commission has made some ruling on the distribution of excess campaign funds back to the donors. I would appreciate copies of any rulings.\n\nCONCLUSION: The document appears to be an incoming request letter rather than a completed FPPC response, so no conclusion/advice is provided in this excerpt.",
+    "qa_source": "mixed",
+    "first_500_words": "25, 1977 1 California 93940 Dear Mr. you for your letter of from an a contribution to a Political Reform Counci had a 410 I was f surplus committee statement showing sion has not the question contributors, the attorney an opinion on sue. You might Gordnier at 916/44 5 Capitol who an to provide you with th I Ms. Dawn Wiser State Fair Political Practices Commission P. O. Box 807 Sacramento, CA 95804 Dear Ms. Wiser: September 15, 1977 Re: Excess Campaign Funds I have been asked a question upon which I would appreciate an informal opinion of the FPPC Staff. A Councilman was elected in the City's Councilmatic elections of last May. He has campaign funds left over. I don't know the exact amount but it probably is in the range of $1,000 to $2,000. He asks if he may donate these funds to charity. Specifically, he wishes to make a contribution to a local church. The money is to be used for a specific charitable program of the church and not general church purposes. May he do so? My question presumes that he would subsequently be required to report the use of these funds as presently required. I also understand that the Commission has made some ruling on the distribution of excess campaign funds back to the donors. I would appreciate copies of any rulings. Thank you for your assistance. truly yours, ~,ff~ City Attorney",
+    "summary": "A city attorney requests an informal FPPC opinion on whether a councilman may donate excess campaign funds to a local church for charitable purposes and asks for copies of Commission rulings on excess campaign fund distribution."
+  }
+}

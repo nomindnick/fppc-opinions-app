@@ -1,0 +1,71 @@
+{
+  "id": "UNK-82-06350",
+  "year": 1982,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1982/82A034.PDF",
+  "pdf_sha256": "7b5000bf747a3f372949b85252663d1f11570d0e60c304004423c14084991c91",
+  "local_pdf_path": "raw_pdfs/1982/82A034.PDF",
+  "source_metadata": {
+    "title_raw": "January 1982 - TA-82-034",
+    "tags": [
+      "1982",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:29:48",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1982&tagCount=1&page=3"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T20:49:55.325509Z",
+    "page_count": 1,
+    "word_count": 66,
+    "char_count": 442,
+    "quality_score": 0.6306272727272728,
+    "olmocr_cost": 0.00246734,
+    "native_word_count": 57
+  },
+  "content": {
+    "full_text": "ADVICE FILE INDEX\n\nTELEPHONE ADVICE\n\nFILE SUMMARY  A candidate's spouse who gave more than $5,000 to the campaign would not have to file as a major donor if the contribution came from community funds and it was clearly so indicated on candidate's statement.\n\nCODE/REGULATION SECTION(S)  82013(c), 82015\n\nREQUESTING PARTY  -  FILE NO. TA-82-034\n\nPOSITION/CITY/AGENCY  -\n\nSTAFF PERSON  Diane Fishburn  DATE OF CALL  Jan. 1982 (Jeanne Pritchard)",
+    "full_text_markdown": "ADVICE FILE INDEX\n\nTELEPHONE ADVICE\n\nFILE SUMMARY  A candidate's spouse who gave more than $5,000 to the campaign would not have to file as a major donor if the contribution came from community funds and it was clearly so indicated on candidate's statement.\n\nCODE/REGULATION SECTION(S)  82013(c), 82015\n\nREQUESTING PARTY  -  FILE NO. TA-82-034\n\nPOSITION/CITY/AGENCY  -\n\nSTAFF PERSON  Diane Fishburn  DATE OF CALL  Jan. 1982 (Jeanne Pritchard)"
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T20:49:55.325509Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "ADVICE FILE INDEX TELEPHONE ADVICE FILE SUMMARY A candidate's spouse who gave more than $5,000 to the campaign would not have to file as a major donor if the contribution came from community funds and it was clearly so indicated on candidate's statement. CODE/REGULATION SECTION(S) 82013(c), 82015 REQUESTING PARTY - FILE NO. TA-82-034 POSITION/CITY/AGENCY - STAFF PERSON Diane Fishburn DATE OF CALL Jan. 1982 (Jeanne Pritchard)",
+    "qa_source": "extracted",
+    "first_500_words": "ADVICE FILE INDEX TELEPHONE ADVICE FILE SUMMARY A candidate's spouse who gave more than $5,000 to the campaign would not have to file as a major donor if the contribution came from community funds and it was clearly so indicated on candidate's statement. CODE/REGULATION SECTION(S) 82013(c), 82015 REQUESTING PARTY - FILE NO. TA-82-034 POSITION/CITY/AGENCY - STAFF PERSON Diane Fishburn DATE OF CALL Jan. 1982 (Jeanne Pritchard)",
+    "summary": null
+  }
+}

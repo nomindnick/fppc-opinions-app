@@ -1,0 +1,71 @@
+{
+  "id": "90567",
+  "year": 1990,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1990/90567.pdf",
+  "pdf_sha256": "0790834e927391a8b747687041bdae127cd2c52217c9f0219f17ba26c3d84246",
+  "local_pdf_path": "raw_pdfs/1990/90567.pdf",
+  "source_metadata": {
+    "title_raw": "Kopp, Quentin Year: 1990 Advice Letter # 90567",
+    "tags": [
+      "1990",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:06:37",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1990&tagCount=1&page=11"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T22:01:25.478817Z",
+    "page_count": 1,
+    "word_count": 78,
+    "char_count": 507,
+    "quality_score": 0.8319195886932527,
+    "olmocr_cost": 0.00246734,
+    "native_word_count": 105
+  },
+  "content": {
+    "full_text": "August 22, 1990\n\nMr. Scott Hallaprin  \nFair Political Practices Commission  \n428 J Street, Ste. 800  \nSacramento, CA 95814\n\nDear Scott:\n\nIn a telephone conversation with staff, you indicated that, as a cosponsor of Prop 73, I may use my campaign funds to pay for attorney's fees in connection with litigation regarding Proposition 73.\n\nI would appreciate your written confirmation of the above stated information. Thank you for your time and attention.\n\nSincerely yours,\n\n[Signature]\nQUENTIN L. KOPP\n\nQLK:ml",
+    "full_text_markdown": "August 22, 1990\n\nMr. Scott Hallaprin  \nFair Political Practices Commission  \n428 J Street, Ste. 800  \nSacramento, CA 95814\n\nDear Scott:\n\nIn a telephone conversation with staff, you indicated that, as a cosponsor of Prop 73, I may use my campaign funds to pay for attorney's fees in connection with litigation regarding Proposition 73.\n\nI would appreciate your written confirmation of the above stated information. Thank you for your time and attention.\n\nSincerely yours,\n\n[Signature]\nQUENTIN L. KOPP\n\nQLK:ml"
+  },
+  "parsed": {
+    "date": "1990-08-22",
+    "date_raw": "August 22, 1990",
+    "requestor_name": "Kopp",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T22:01:25.478817Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "August 22, 1990 Mr. Scott Hallaprin Fair Political Practices Commission 428 J Street, Ste. 800 Sacramento, CA 95814 Dear Scott: In a telephone conversation with staff, you indicated that, as a cosponsor of Prop 73, I may use my campaign funds to pay for attorney's fees in connection with litigation regarding Proposition 73. I would appreciate your written confirmation of the above stated information. Thank you for your time and attention. Sincerely yours, [Signature] QUENTIN L. KOPP QLK:ml",
+    "qa_source": "extracted",
+    "first_500_words": "August 22, 1990 Mr. Scott Hallaprin Fair Political Practices Commission 428 J Street, Ste. 800 Sacramento, CA 95814 Dear Scott: In a telephone conversation with staff, you indicated that, as a cosponsor of Prop 73, I may use my campaign funds to pay for attorney's fees in connection with litigation regarding Proposition 73. I would appreciate your written confirmation of the above stated information. Thank you for your time and attention. Sincerely yours, [Signature] QUENTIN L. KOPP QLK:ml",
+    "summary": null
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "81A029",
+  "year": 1981,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1981/81A029.PDF",
+  "pdf_sha256": "40d65ac39f2241fe6f19efef9c4a7105bdd43ba5169f0dcf439b1da2a7244c16",
+  "local_pdf_path": "raw_pdfs/1981/81A029.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1981 Advice Letter # 81A029",
+    "tags": [
+      "Advice Letter",
+      "1981"
+    ],
+    "scraped_at": "2026-01-31 15:28:51",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1981&tagCount=1&page=11"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-07T16:35:13.181325Z",
+    "page_count": 1,
+    "word_count": 60,
+    "char_count": 383,
+    "quality_score": 0.7619682956249594,
+    "olmocr_cost": 0.00246562,
+    "native_word_count": 43
+  },
+  "content": {
+    "full_text": "Memorandum\n\nTo: Opinion Request File\n\nDate: June 4, 1981\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION\nBarbara A. Milman\n\nSubject: May 26, 1981 Opinion Request\nSection 87207\n\nUnder 87207(a)(1) a filer must report a pro-rata share of the gross income of any business entity or trust in which the individual or spouse owns a 10-percent or greater interest.\n\nBAM:gs\n\nFiled: 87207\n82030",
+    "full_text_markdown": "Memorandum\n\nTo: Opinion Request File\n\nDate: June 4, 1981\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION\nBarbara A. Milman\n\nSubject: May 26, 1981 Opinion Request\nSection 87207\n\nUnder 87207(a)(1) a filer must report a pro-rata share of the gross income of any business entity or trust in which the individual or spouse owns a 10-percent or greater interest.\n\nBAM:gs\n\nFiled: 87207\n82030"
+  },
+  "parsed": {
+    "date": "1981-06-04",
+    "date_raw": "June 4, 1981",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "Under 87207(a)(1) a filer must report a pro-rata share of the gross income of any business entity or trust in which the individual or spouse owns a 10-percent or greater interest.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "How must a filer report their pro-rata share of gross income from a business entity or trust in which they hold a 10% or greater interest?",
+    "conclusion_synthetic": "Under Government Code Section 87207(a)(1), a filer must report their pro-rata share of gross income from any business entity or trust in which they or their spouse own 10% or greater interest.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Minimal document structure; no formal QUESTION or CONCLUSION sections found. The substantive guidance appears to be the single paragraph statement regarding Section 87207(a)(1) requirements. Dated memorandum format rather than traditional advice letter format."
+  },
+  "citations": {
+    "government_code": [
+      "87207"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T16:35:13.181325Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: How must a filer report their pro-rata share of gross income from a business entity or trust in which they hold a 10% or greater interest?\n\nCONCLUSION: Under 87207(a)(1) a filer must report a pro-rata share of the gross income of any business entity or trust in which the individual or spouse owns a 10-percent or greater interest.",
+    "qa_source": "mixed",
+    "first_500_words": "**Memorandum** To: Opinion Request File Date: June 4, 1981 From: FAIR POLITICAL PRACTICES COMMISSION Barbara A. Milman Subject: May 26, 1981 Opinion Request Section 87207 Under 87207(a)(1) a filer must report a pro-rata share of the gross income of any business entity or trust in which the individual or spouse owns a 10-percent or greater interest. BAM:gs Filed: 87207 82030",
+    "summary": "This FPPC memorandum addresses an opinion request dated May 26, 1981 regarding income reporting requirements under Section 87207. The Commission advises that a filer must report their pro-rata share of gross income from business entities or trusts in which they hold a 10% or greater interest."
+  }
+}

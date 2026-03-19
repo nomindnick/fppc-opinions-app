@@ -1,0 +1,73 @@
+{
+  "id": "09-183",
+  "year": 2009,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2009/09-183.pdf",
+  "pdf_sha256": "8a6274268e96a933a50afae255e14420b9f64506f6e439189e665e0f4228123b",
+  "local_pdf_path": "raw_pdfs/2009/09-183.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2009 Advice Letter # 09-183",
+    "tags": [
+      "2009",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:50:11",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2009&tagCount=1&page=19"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:33:58.576520Z",
+    "page_count": 1,
+    "word_count": 211,
+    "char_count": 1346,
+    "quality_score": 0.635,
+    "olmocr_cost": null,
+    "native_word_count": 211
+  },
+  "content": {
+    "full_text": "Fnrn Por-rrrcAl Pnecrrcns CoMMrssroN\n428 J Street o Suite 620 o Sacramento, CA 95814-2329\n(916) 322-5660 e Fax (916) 322-0886\nJuly 29,2009\nChris Par\nUniversity of California Santa Barbara\nFrancisco Torres Residence Hall\n6850 El Colegio Road\nGoleta, CA 93117-4336\nEmail: cpp@umail.ucsd.edu\nYour Request for Advice\nOur File No. W-09-183\nDear Mr. Par:\nThis letter is in response to your request for advice received by this office onluly 27,\n2009. Your inquiry primarily concems issues which are outside the purview of the Political\nReform Act (\"Act\";r. The Act does not regulate the legal drinking age nor would the\nCommission impose fines for violation of these provisions. Under the provisions of Regulation\n18329(bX8)(D), copy enclosed, any request not meeting the requirements for formal written\nadvice must be declined by this agency.\nWith respect to your question regarding the legal use of campaign funds, we enclose\nsome materials containing general discussions of the Act's \"personal use\" prohibitions.\nShould you need assistance in the future, you may contact me at (916) 322-5660.\nSincerely,\nScott Hallabrin\nCounsel\nW. Wallace\nGeneral Counsel, Legal Division\nJwwjgl\nEnclosures\nI Government Code sestions 8 I 000-9 l0 14. Commission regulations appear at title 2, sections I 8 I 09-\n18996, of the California code of Regulations.\nRe:\nBy: J\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2009-07-29",
+    "date_raw": "July 29,2009",
+    "requestor_name": "Par",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requestor asked about issues including the legal drinking age and the permissible use of campaign funds under the Political Reform Act.",
+    "conclusion_synthetic": "The FPPC declined to provide formal written advice because the primary inquiry concerning the legal drinking age falls outside the Political Reform Act's purview. However, the FPPC provided general reference materials regarding the Act's personal use prohibitions as they relate to campaign funds.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.75,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is a declination letter (W-09-183). No formal QUESTION or CONCLUSION sections present. The document references Regulation 18329(b)(8)(D) as the basis for declining the request. Requestor's primary concern about drinking age laws is outside FPPC jurisdiction; secondary question about campaign funds personal use received general reference materials rather than formal advice."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:33:58.576520Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The requestor asked about issues including the legal drinking age and the permissible use of campaign funds under the Political Reform Act.\n\nCONCLUSION: The FPPC declined to provide formal written advice because the primary inquiry concerning the legal drinking age falls outside the Political Reform Act's purview. However, the FPPC provided general reference materials regarding the Act's personal use prohibitions as they relate to campaign funds.",
+    "qa_source": "synthetic",
+    "first_500_words": "Fnrn Por-rrrcAl Pnecrrcns CoMMrssroN 428 J Street o Suite 620 o Sacramento, CA 95814-2329 (916) 322-5660 e Fax (916) 322-0886 July 29,2009 Chris Par University of California Santa Barbara Francisco Torres Residence Hall 6850 El Colegio Road Goleta, CA 93117-4336 Email: cpp@umail.ucsd.edu Your Request for Advice Our File No. W-09-183 Dear Mr. Par: This letter is in response to your request for advice received by this office onluly 27, 2009. Your inquiry primarily concems issues which are outside the purview of the Political Reform Act (\"Act\";r. The Act does not regulate the legal drinking age nor would the Commission impose fines for violation of these provisions. Under the provisions of Regulation 18329(bX8)(D), copy enclosed, any request not meeting the requirements for formal written advice must be declined by this agency. With respect to your question regarding the legal use of campaign funds, we enclose some materials containing general discussions of the Act's \"personal use\" prohibitions. Should you need assistance in the future, you may contact me at (916) 322-5660. Sincerely, Scott Hallabrin Counsel W. Wallace General Counsel, Legal Division Jwwjgl Enclosures I Government Code sestions 8 I 000-9 l0 14. Commission regulations appear at title 2, sections I 8 I 09- 18996, of the California code of Regulations. Re: By: J",
+    "summary": "The FPPC declined a request for advice from Chris Par at UC Santa Barbara, finding that the primary question about legal drinking age is outside the Political Reform Act's scope, though the FPPC provided general guidance materials on campaign fund personal use restrictions."
+  }
+}

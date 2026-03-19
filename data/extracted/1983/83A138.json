@@ -1,0 +1,73 @@
+{
+  "id": "83A138",
+  "year": 1983,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1983/83A138.PDF",
+  "pdf_sha256": "41ac4816f07d24273a6699d5688ba990151cd38344e1330d96442600ae417e18",
+  "local_pdf_path": "raw_pdfs/1983/83A138.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1983 Advice Letter # 83A138",
+    "tags": [
+      "1983",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:32:34",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1983&tagCount=1&page=15"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:52.685254Z",
+    "page_count": 3,
+    "word_count": 440,
+    "char_count": 2749,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 440
+  },
+  "content": {
+    "full_text": "P.O. BOX 807 • SACRAMENTO, 95804 ••• 1100 K STREET BUILDING, SACRAMENTO, 95814 \nTechnical Assistance \n(916) 322·5662 \nJames H. Marek, Jr. \nAuditor - Controller \nNapa County \nAdministration \n•• \nExecutive/legal \n322·5660 \n322·5901 \nJune 8, 1983 \nEnforcement \n322-6441 \nStatements of Economic Interest \n322-6444 \n1195 Third Street, Room B-10 \nNapa, CA \n94559-3097 \nDear Mr. MareK: \nRe: \nYour Request for Written Advice \nOur No. A-83-138 \nYour request for our advice relates that you have recently \nmarried and wiSh to know your reporting obligations for your \nwedding gifts when you next file your annual Statement of Economic \nInterests, Form 730 Schedule F (Gifts). \nYou are a designated official under the Conflict of Interest \nCode for the County of Napa. \nConsequently, you must report only \nthose gifts received from persons or businesses listed in the \ndisclosure category which applies to you. \nAs to those gifts, tney \nneed be reportectll only if their value is $100 or more. \nIn the \ncase of wedding gifts, one-half of the value is attributed to your \nspouse (unless you received separate gifts). \nUnder the provisions \nof Government COde Section 82028 (b) (3) \n(copy enclosed), you need \nnot report gifts from certain relatives, regardless of their value. \nShoulp you have any further questions, please do not hesitate \nto contact me at (916) 322-5901. \nREL:plh \n~~ncerely, \n) \n(-/ \n.~~ \nRobert E.J.eldigh \nCounsel \nLegal Division \nII Reporting requires that the name of the donor(s) be \nlisted, together with their address, their business, the date of \nthe gift, the gift's value (your one-half share) and a description \nof the gift. \n\n\nMay 27. 1983 \nFair Political Practices Commission \nOffice of Legal Counsel \nP.O. Box 807 \nSacramento, California \n95804 \nDear Sir: \nI am writing you to seek a clarification concerning the reporting \nof my annual Statement of Economic Interest Form 730F, gifts. \nAs you may know. I am the elected County Auditor of Napa County. \nOn saturday April 3D, 1983 I ended my bachelorhood days and was \nmarried. \nSeveral dozen wedding presents were given to me and \nmy wife by relatives. friends and employees of Napa County. \nMy questions are: \nYOJ.r reply to \nJHM: \n1) \nPursuant to Schedule 730F must I report \nmy wedding presents to the FPPC on my \nnext reporting date of April I, 1984? \n2) \nIf so. are names, dates, dollar amounts \nand descriptions of wedding presents given \nme and my wife required to be reported \nonly for gifts received that have a value \nof greater than $f(t'2 \n3) \nAre all presents required to be reported \nregardless of value? \n4) \nAm I exempt from the reporting require-\nments of the Economic Interest Laws in \nregard to \nwedding \n? \nquestions will \nanxiously awaited. \nJames \nMar \n\n\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1983-06-08",
+    "date_raw": "June 8, 1983",
+    "requestor_name": "Mare",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "s will \nanxiously awaited. \nJames \nMar",
+    "conclusion": "You are a designated official under the Conflict of Interest Code for the County of Napa. Consequently, you must report only those gifts received from persons or businesses listed in the disclosure category which applies to you. As to those gifts, they need be reported only if their value is $100 or more. In the case of wedding gifts, one-half of the value is attributed to your spouse (unless you received separate gifts). Under the provisions of Government Code Section 82028 (b) (3), you need not report gifts from certain relatives, regardless of their value.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "A designated official under the Napa County Conflict of Interest Code seeks clarification on whether wedding gifts must be reported on Schedule 730F (Gifts) of his Statement of Economic Interest, what threshold values apply, and whether any exemptions exist for such gifts.",
+    "conclusion_synthetic": "As a designated official, the requestor must report wedding gifts valued at $100 or more from persons or businesses in his applicable disclosure category, with one-half of the gift value attributed to his spouse. Gifts from certain relatives are exempt from reporting under Government Code Section 82028(b)(3) regardless of value.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": true,
+    "parsing_notes": "Format: ocr; LLM: Complete advice letter with incoming request and FPPC response. OCR format with minor typos ('wiSh', 'reportectll', 'Shoulp'). Footnote included specifying required gift reporting details. Document number A-83-138."
+  },
+  "citations": {
+    "government_code": [
+      "82028(b)(3)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:36:52.685254Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: s will \nanxiously awaited. \nJames \nMar\n\nCONCLUSION: You are a designated official under the Conflict of Interest Code for the County of Napa. Consequently, you must report only those gifts received from persons or businesses listed in the disclosure category which applies to you. As to those gifts, they need be reported only if their value is $100 or more. In the case of wedding gifts, one-half of the value is attributed to your spouse (unless you received separate gifts). Under the provisions of Government Code Section 82028 (b) (3), you need not report gifts from certain relatives, regardless of their value.",
+    "qa_source": "mixed",
+    "first_500_words": "P.O. BOX 807 • SACRAMENTO, 95804 ••• 1100 K STREET BUILDING, SACRAMENTO, 95814 Technical Assistance (916) 322·5662 James H. Marek, Jr. Auditor - Controller Napa County Administration •• Executive/legal 322·5660 322·5901 June 8, 1983 Enforcement 322-6441 Statements of Economic Interest 322-6444 1195 Third Street, Room B-10 Napa, CA 94559-3097 Dear Mr. MareK: Re: Your Request for Written Advice Our No. A-83-138 Your request for our advice relates that you have recently married and wiSh to know your reporting obligations for your wedding gifts when you next file your annual Statement of Economic Interests, Form 730 Schedule F (Gifts). You are a designated official under the Conflict of Interest Code for the County of Napa. Consequently, you must report only those gifts received from persons or businesses listed in the disclosure category which applies to you. As to those gifts, tney need be reportectll only if their value is $100 or more. In the case of wedding gifts, one-half of the value is attributed to your spouse (unless you received separate gifts). Under the provisions of Government COde Section 82028 (b) (3) (copy enclosed), you need not report gifts from certain relatives, regardless of their value. Shoulp you have any further questions, please do not hesitate to contact me at (916) 322-5901. REL:plh ~~ncerely, ) (-/ .~~ Robert E.J.eldigh Counsel Legal Division II Reporting requires that the name of the donor(s) be listed, together with their address, their business, the date of the gift, the gift's value (your one-half share) and a description of the gift. May 27. 1983 Fair Political Practices Commission Office of Legal Counsel P.O. Box 807 Sacramento, California 95804 Dear Sir: I am writing you to seek a clarification concerning the reporting of my annual Statement of Economic Interest Form 730F, gifts. As you may know. I am the elected County Auditor of Napa County. On saturday April 3D, 1983 I ended my bachelorhood days and was married. Several dozen wedding presents were given to me and my wife by relatives. friends and employees of Napa County. My questions are: YOJ.r reply to JHM: 1) Pursuant to Schedule 730F must I report my wedding presents to the FPPC on my next reporting date of April I, 1984? 2) If so. are names, dates, dollar amounts and descriptions of wedding presents given me and my wife required to be reported only for gifts received that have a value of greater than $f(t'2 3) Are all presents required to be reported regardless of value? 4) Am I exempt from the reporting require- ments of the Economic Interest Laws in regard to wedding ? questions will anxiously awaited. James Mar",
+    "summary": "The FPPC advises James H. Marek, Jr., County Auditor of Napa, on his obligation to report wedding gifts on Schedule 730F, clarifying that only gifts of $100 or more from applicable disclosure sources must be reported, with one-half value attributed to his spouse, while certain relative gifts are entirely exempt."
+  }
+}

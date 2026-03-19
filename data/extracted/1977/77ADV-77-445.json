@@ -1,0 +1,71 @@
+{
+  "id": "77ADV-77-445",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-445.PDF",
+  "pdf_sha256": "3a6349a538316f8affb087f0dc8e9b776d708a45a6a9cf8c8b298757a3c3831d",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-445.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-445",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:20:56",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=27"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:14.686913Z",
+    "page_count": 1,
+    "word_count": 188,
+    "char_count": 1131,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 188
+  },
+  "content": {
+    "full_text": "State of California \nMemorandum \nTo \n: File \nDate \n: April 11, 1977 \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nKen Finney \nSubject: Telephone conversa tion with Norbert Dall, lobbyis t for the \nSierra Club. \nNorbert Dall, a lobbyist for the Sierra Club, called today \nand inquired about the legality of engaging in the follow-\ning transaction. \nA friend of his who now is the executive \ndirector of a state agency is willing to sell Mr. Dall a \ntypewriter for $75. \nThe state agency is not one which \nMr. Dall attempts to influence and, hence, he has not regis-\ntered with respect to that agency. \nIn addition, he does not \nanticipate that he will attempt to influence the agency in \nthe future. \nI informed Mr. Dall that under these circumstances there \nis no prohibition against purchasing the typewriter from \nthe agency official. \nIn addition, I stated that he would \nnot incur a reporting obligation. \nThis advice was based on \n2 Cal. Adm. Code Section 18600 which states that duties or \nprohibitions imposed on lobbyists apply only to those agency \nofficials of agencies which the lobbyist is registered to \nlobby. \nKF: jo \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1977-04-11",
+    "date_raw": "April 11, 1977",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "A friend of his who now is the executive director of a state agency is willing to sell Mr. Dall a typewriter for $75. The state agency is not one which Mr. Dall attempts to influence and, hence, he has not registered with respect to that agency. In addition, he does not anticipate that he will attempt to influence the agency in the future.",
+    "conclusion": "I informed Mr. Dall that under these circumstances there is no prohibition against purchasing the typewriter from the agency official. In addition, I stated that he would not incur a reporting obligation. This advice was based on 2 Cal. Adm. Code Section 18600 which states that duties or prohibitions imposed on lobbyists apply only to those agency officials of agencies which the lobbyist is registered to lobby.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a registered lobbyist may purchase a typewriter for $75 from an executive director of a state agency that the lobbyist is not registered to lobby and does not intend to lobby in the future.",
+    "conclusion_synthetic": "There is no prohibition against the lobbyist purchasing the typewriter and no reporting obligation is incurred because the relevant agency is not one the lobbyist is registered to lobby, and lobbyist duties and prohibitions only apply to agencies where the lobbyist is registered.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is an internal FPPC memorandum documenting telephone advice rather than a formal written response letter. No formal 'QUESTION' or 'CONCLUSION' headers present, but content clearly reflects Q&A structure. Question and conclusion sections extracted from narrative text. Document dated April 11, 1977 with ID 77ADV-77-445."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:14.686913Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: A friend of his who now is the executive director of a state agency is willing to sell Mr. Dall a typewriter for $75. The state agency is not one which Mr. Dall attempts to influence and, hence, he has not registered with respect to that agency. In addition, he does not anticipate that he will attempt to influence the agency in the future.\n\nCONCLUSION: I informed Mr. Dall that under these circumstances there is no prohibition against purchasing the typewriter from the agency official. In addition, I stated that he would not incur a reporting obligation. This advice was based on 2 Cal. Adm. Code Section 18600 which states that duties or prohibitions imposed on lobbyists apply only to those agency officials of agencies which the lobbyist is registered to lobby.",
+    "qa_source": "mixed",
+    "first_500_words": "State of California Memorandum To : File Date : April 11, 1977 From FAIR POLITICAL PRACTICES COMMISSION Ken Finney Subject: Telephone conversa tion with Norbert Dall, lobbyis t for the Sierra Club. Norbert Dall, a lobbyist for the Sierra Club, called today and inquired about the legality of engaging in the follow- ing transaction. A friend of his who now is the executive director of a state agency is willing to sell Mr. Dall a typewriter for $75. The state agency is not one which Mr. Dall attempts to influence and, hence, he has not regis- tered with respect to that agency. In addition, he does not anticipate that he will attempt to influence the agency in the future. I informed Mr. Dall that under these circumstances there is no prohibition against purchasing the typewriter from the agency official. In addition, I stated that he would not incur a reporting obligation. This advice was based on 2 Cal. Adm. Code Section 18600 which states that duties or prohibitions imposed on lobbyists apply only to those agency officials of agencies which the lobbyist is registered to lobby. KF: jo",
+    "summary": "FPPC memorandum documenting a telephone consultation with a Sierra Club lobbyist regarding the legality of purchasing a typewriter from a state agency official. The FPPC advised that no prohibition applies and no reporting obligation is required under Cal. Adm. Code Section 18600 since the lobbyist is not registered to lobby that particular agency."
+  }
+}

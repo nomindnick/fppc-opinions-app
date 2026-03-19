@@ -1,0 +1,71 @@
+{
+  "id": "90478",
+  "year": 1990,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1990/90478.pdf",
+  "pdf_sha256": "ff66b3988cc34372b2f5549c2648feb840b56b6bcfd6c3ca28a292c1ac8bbc8f",
+  "local_pdf_path": "raw_pdfs/1990/90478.pdf",
+  "source_metadata": {
+    "title_raw": "Bass, Karen Year: 1990 Advice Letter # 90478",
+    "tags": [
+      "1990",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:08:54",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1990&tagCount=1&page=41"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T21:03:23.709782Z",
+    "page_count": 1,
+    "word_count": 67,
+    "char_count": 427,
+    "quality_score": 0.8598760086455332,
+    "olmocr_cost": 0.00238822,
+    "native_word_count": 99
+  },
+  "content": {
+    "full_text": "July 18, 1990\n\nFair Political Practices Commission  \n428 J Street  \nSacramento, California 95814  \n\nDear Commission:\n\nIt is my understanding that there is no longer a need to restrict campaign funds that were received prior to January 1, 1989.\n\nPlease send information as to the legal use and disposition of these funds as we are presently responsible for the accounting of such an account.\n\nSincerely,\n\nKaren Bass  \nAccountant",
+    "full_text_markdown": "July 18, 1990\n\nFair Political Practices Commission  \n428 J Street  \nSacramento, California 95814  \n\nDear Commission:\n\nIt is my understanding that there is no longer a need to restrict campaign funds that were received prior to January 1, 1989.\n\nPlease send information as to the legal use and disposition of these funds as we are presently responsible for the accounting of such an account.\n\nSincerely,\n\nKaren Bass  \nAccountant"
+  },
+  "parsed": {
+    "date": "1990-07-18",
+    "date_raw": "July 18, 1990",
+    "requestor_name": "Bass",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T21:03:23.709782Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "July 18, 1990 Fair Political Practices Commission 428 J Street Sacramento, California 95814 Dear Commission: It is my understanding that there is no longer a need to restrict campaign funds that were received prior to January 1, 1989. Please send information as to the legal use and disposition of these funds as we are presently responsible for the accounting of such an account. Sincerely, Karen Bass Accountant",
+    "qa_source": "extracted",
+    "first_500_words": "July 18, 1990 Fair Political Practices Commission 428 J Street Sacramento, California 95814 Dear Commission: It is my understanding that there is no longer a need to restrict campaign funds that were received prior to January 1, 1989. Please send information as to the legal use and disposition of these funds as we are presently responsible for the accounting of such an account. Sincerely, Karen Bass Accountant",
+    "summary": null
+  }
+}

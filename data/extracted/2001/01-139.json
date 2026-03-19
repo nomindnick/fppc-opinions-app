@@ -1,0 +1,75 @@
+{
+  "id": "01-139",
+  "year": 2001,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2001/01-139.pdf",
+  "pdf_sha256": "3ab69e584de874f4271cf7c316d718ee961e8e5622782e2800117b7a9c20ce0d",
+  "local_pdf_path": "raw_pdfs/2001/01-139.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2001 Advice Letter # 01-139",
+    "tags": [
+      "2001",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:33:43",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2001&tagCount=1&page=13"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:30.470266Z",
+    "page_count": 2,
+    "word_count": 378,
+    "char_count": 2363,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 378
+  },
+  "content": {
+    "full_text": ",f\nFarn Polrrrcar PRACTTcBs C oMMrssroN\nP.O. Box 807 o 428 J Street o Sacramento, CA 95g12-0g07\n(916) 322-5660 o Fax (916) 322-0886\nJuly 3,2001\nNicholas George Rodriguez\nAssistant City Attorney\nCity of Pasadena\nOffice of the City Attorney\nPost Office Box 7115\nPasadena, CA 9 I 109-7215\nRe: Your Request for Advice\nOur File No. 01-139\nDear Mr. Rodriguez:\nThis letter is in response to your request for advice about the conflict-of-interest\nprovisions of the Political Reform Act (the \"Act\").r The Act requires the Commission provide\nwritten advice to any person whose duties under the Act are in question or to that p\"rson,s\nauthorized representative. (Section 8311a@); Regulation 18329(a) (\"opy enclosed).) However,\nthe Commission may decline to provide written advice where the requesior is seeking advice\nwhich requires us to evaluate conduct that has already occured. @egulation 18329(bXg)(A) )\nIn addition, the Commission may also decline to provide written adviie if it would be\ninappropriate or otherwise not in the public interest to do so. (Regulation 18329(bXg)(F) )\nFormal written advice is the application of law to a given set of facts provided by the\nrequestor and has the purpose of conferring immunity on the requestor. (Seciion 83114;\nRegulation 18329(b)(7).) After a careful review of the facts you provided, we decline to provide\nwritten advice to you at this time. The same or very similar issues are currently the subject of a\npending investigation by the Enforcement Division. In addition, your current question involves\nanalysis of a series of interrelated decisions, some of which have ilready occuried, such that\nissuing advice at this time would relate to past conduct and, therefore, would not further the\nimpartial, effective administration of the Act so mandated by Section g3 I 1 l.\n1 Government Code sections 81000 - 91015. Commission regulations appear arlntle 2,sections 1g109 -\n18997, of the Califomia Code of Regulations.\n\n\nI\nI\nOur File No. 01-139\nPage No. 2\nPlease note that our decision is not a determination of the questions posed in your\nrequest. In addition, nothing in the Act prevents the official from seeking legal advice from you\nor private counsel.\nIf you have other questions regarding this matter, please contactme at (916) 322-\n5660\nSincerely,\n(*f-A-4r\nLuisa\nGeneral Counsel\nLM:jg\nI:\\Adviceltrs\\01- 13 9\nEnclosure\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2001-07-03",
+    "date_raw": "July 3,2001",
+    "requestor_name": "Rodriguez",
+    "requestor_title": "City Attorney",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "After a careful review of the facts you provided, we decline to provide written advice to you at this time. The same or very similar issues are currently the subject of a pending investigation by the Enforcement Division. In addition, your current question involves analysis of a series of interrelated decisions, some of which have already occurred, such that issuing advice at this time would relate to past conduct and, therefore, would not further the impartial, effective administration of the Act so mandated by Section 83111.",
+    "facts": null,
+    "analysis": "of a series of interrelated decisions, some of which have ilready occuried, such that\nissuing advice at this time would relate to past conduct and, therefore, would not further the\nimpartial, effective administration of the Act so mandated by Section g3 I 1 l.\nI\nI\nOur Page No. 2\nPlease note that our decision is not a determination of the questions posed in your\nrequest. In addition, nothing in the Act prevents the official from seeking legal advice from you\nor private counsel.",
+    "question_synthetic": "The requestor sought FPPC advice regarding conflict-of-interest provisions of the Political Reform Act applicable to an official's duties.",
+    "conclusion_synthetic": "The FPPC declined to provide written advice because the issues are the subject of a pending Enforcement Division investigation and the question involves analysis of past conduct, which would not further the impartial administration of the Act.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "Format: ocr; LLM: This is a declination letter with explicit CONCLUSION section text. The question section is not verbatim included in the document. OCR formatting shows some minor character issues but core content is clear. File number 01-139, dated July 3, 2001."
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:34:30.470266Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The requestor sought FPPC advice regarding conflict-of-interest provisions of the Political Reform Act applicable to an official's duties.\n\nCONCLUSION: After a careful review of the facts you provided, we decline to provide written advice to you at this time. The same or very similar issues are currently the subject of a pending investigation by the Enforcement Division. In addition, your current question involves analysis of a series of interrelated decisions, some of which have already occurred, such that issuing advice at this time would relate to past conduct and, therefore, would not further the impartial, effective administration of the Act so mandated by Section 83111.",
+    "qa_source": "mixed",
+    "first_500_words": ",f Farn Polrrrcar PRACTTcBs C oMMrssroN P.O. Box 807 o 428 J Street o Sacramento, CA 95g12-0g07 (916) 322-5660 o Fax (916) 322-0886 July 3,2001 Nicholas George Rodriguez Assistant City Attorney City of Pasadena Office of the City Attorney Post Office Box 7115 Pasadena, CA 9 I 109-7215 Re: Your Request for Advice Our File No. 01-139 Dear Mr. Rodriguez: This letter is in response to your request for advice about the conflict-of-interest provisions of the Political Reform Act (the \"Act\").r The Act requires the Commission provide written advice to any person whose duties under the Act are in question or to that p\"rson,s authorized representative. (Section 8311a@); Regulation 18329(a) (\"opy enclosed).) However, the Commission may decline to provide written advice where the requesior is seeking advice which requires us to evaluate conduct that has already occured. @egulation 18329(bXg)(A) ) In addition, the Commission may also decline to provide written adviie if it would be inappropriate or otherwise not in the public interest to do so. (Regulation 18329(bXg)(F) ) Formal written advice is the application of law to a given set of facts provided by the requestor and has the purpose of conferring immunity on the requestor. (Seciion 83114; Regulation 18329(b)(7).) After a careful review of the facts you provided, we decline to provide written advice to you at this time. The same or very similar issues are currently the subject of a pending investigation by the Enforcement Division. In addition, your current question involves analysis of a series of interrelated decisions, some of which have ilready occuried, such that issuing advice at this time would relate to past conduct and, therefore, would not further the impartial, effective administration of the Act so mandated by Section g3 I 1 l. 1 Government Code sections 81000 - 91015. Commission regulations appear arlntle 2,sections 1g109 - 18997, of the Califomia Code of Regulations. I I Our File No. 01-139 Page No. 2 Please note that our decision is not a determination of the questions posed in your request. In addition, nothing in the Act prevents the official from seeking legal advice from you or private counsel. If you have other questions regarding this matter, please contactme at (916) 322- 5660 Sincerely, (*f-A-4r Luisa General Counsel LM:jg I:\\Adviceltrs\\01- 13 9 Enclosure",
+    "summary": "The FPPC declined to provide written advice on conflict-of-interest matters to the Assistant City Attorney of Pasadena due to a pending investigation and the inclusion of past conduct in the analysis."
+  }
+}

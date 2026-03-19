@@ -1,0 +1,73 @@
+{
+  "id": "11-098",
+  "year": 2011,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2011/11-098.pdf",
+  "pdf_sha256": "29f2564c0f43982f1bae568cedaa0835e638449ed8c9c7a0d9959771ef4101f7",
+  "local_pdf_path": "raw_pdfs/2011/11-098.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2011 Advice Letter # 11-098",
+    "tags": [
+      "2011",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:53:51",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2011&tagCount=1&page=17"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:33:49.558032Z",
+    "page_count": 1,
+    "word_count": 153,
+    "char_count": 1007,
+    "quality_score": 0.6675,
+    "olmocr_cost": null,
+    "native_word_count": 153
+  },
+  "content": {
+    "full_text": "• \nFAIR POLITICAL PRACTICES COMMISSION \n428 J Street • Suite 620 • Sacramento, CA 958 I 4-2329 \n(916) 322-5660 • Fax (916) 322-0886 \nRobert F. Clark \nCity Manager \nCity of Ojai \nP.O. Box 1570 \nOjai, CA 93024 \nRe: \nYour Request for Advice \nOur File No. W-11-098 \nDear Mr. Clark: \nJune 3, 2011 \nThis letter confirms the receipt of your May 16, 2011, request for advice regarding \nOjai City Treasurer Alan Rains. Under the provisions of California Code of Regulations 18329, \nunless you are an authorized representative of Mr. Rains, the Fair Political Practices Commission \ncannot address your questions or provide analysis. (Regulation 18329(b)(8)(B) and (c)(l).) \nTherefore, your request is withdrawn. I enclose a copy of Regulation 18329 for your review. \nShould you have any additional questions regarding this matter, please contact the \nCommission at (916) 322-5660. \nER:jgl \nEnclosure \nSincerely, \nJohn W. Wallace \nActing General Counsel \n\u0003\u0004\u0005--\u0006µ-L-\u0007 \n/ By: \nEmelyn Rodriguez \n__/ \nCommission Counsel \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2011-06-03",
+    "date_raw": "June 3, 2011",
+    "requestor_name": "Clark",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "The Fair Political Practices Commission cannot address the questions or provide analysis unless the requester is an authorized representative of Mr. Rains, therefore the request is withdrawn.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Can the FPPC provide advice regarding the City Treasurer's conduct based on a request from the City Manager?",
+    "conclusion_synthetic": "The FPPC declined to provide advice because the requester (City Manager) is not an authorized representative of the subject (City Treasurer), as required by Regulation 18329.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Withdrawal letter with no traditional Q/C sections. Request was rejected on procedural/jurisdictional grounds. File number W-11-098 indicates withdrawal classification."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:33:49.558032Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Can the FPPC provide advice regarding the City Treasurer's conduct based on a request from the City Manager?\n\nCONCLUSION: The Fair Political Practices Commission cannot address the questions or provide analysis unless the requester is an authorized representative of Mr. Rains, therefore the request is withdrawn.",
+    "qa_source": "mixed",
+    "first_500_words": "• FAIR POLITICAL PRACTICES COMMISSION 428 J Street • Suite 620 • Sacramento, CA 958 I 4-2329 (916) 322-5660 • Fax (916) 322-0886 Robert F. Clark City Manager City of Ojai P.O. Box 1570 Ojai, CA 93024 Re: Your Request for Advice Our File No. W-11-098 Dear Mr. Clark: June 3, 2011 This letter confirms the receipt of your May 16, 2011, request for advice regarding Ojai City Treasurer Alan Rains. Under the provisions of California Code of Regulations 18329, unless you are an authorized representative of Mr. Rains, the Fair Political Practices Commission cannot address your questions or provide analysis. (Regulation 18329(b)(8)(B) and (c)(l).) Therefore, your request is withdrawn. I enclose a copy of Regulation 18329 for your review. Should you have any additional questions regarding this matter, please contact the Commission at (916) 322-5660. ER:jgl Enclosure Sincerely, John W. Wallace Acting General Counsel \u0003\u0004\u0005--\u0006µ-L-\u0007 / By: Emelyn Rodriguez __/ Commission Counsel",
+    "summary": "The FPPC received a request for advice from the City Manager of Ojai regarding the City Treasurer but withdrew the request because the requester was not an authorized representative of the subject, as required by California Code of Regulations 18329."
+  }
+}

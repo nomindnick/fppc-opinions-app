@@ -1,0 +1,73 @@
+{
+  "id": "78ADV-78-310",
+  "year": 1978,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1978/78ADV-78-310.PDF",
+  "pdf_sha256": "7b13528e742fbdab9d5b856f58261ba782b6516ff2802ba4eb5ea6e1cc817c2d",
+  "local_pdf_path": "raw_pdfs/1978/78ADV-78-310.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1978ADV Advice Letter # 78ADV-78-310",
+    "tags": [
+      "Advice Letter",
+      "1978"
+    ],
+    "scraped_at": "2026-01-31 15:23:16",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=6"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-07T16:55:53.036192Z",
+    "page_count": 1,
+    "word_count": 221,
+    "char_count": 1504,
+    "quality_score": 0.9376590843388638,
+    "olmocr_cost": 0.00261526,
+    "native_word_count": 117
+  },
+  "content": {
+    "full_text": "Memorandum\n\nTo: Barbara Campbell  \nDate: May 23, 1978\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION  \nGina Siciliano-Kutchins\n\nSubject: Advice pertaining to Sections 84201, 84206 and 84214\n\nThis memo will confirm advice given to the Technical Assistance Division concerning contributions made to candidates or committees by officeholders or candidates not involved in the election to which the contribution was made.\n\nAn officeholder or candidate making a contribution to a candidate or committee involved in an election need not file campaign statements in connection with the election unless contributing officeholder or candidate is also involved in the election.\n\nAn officeholder or candidate not involved in an election to which he/she makes a late contribution need not report the contribution within 48 hours. Contributions outlined above must be included on the next semi-annual or campaign statement in connection with an election the contributing candidate or officeholder is required to file.\n\nThis advice does not apply to any controlled committee of an officeholder or candidate which may make contributions. Committees are required to file campaign statements in connection with contributions made in a primary or general election in even numbered years regardless of the amount and must file in connection with special or local elections when contributing $250 or more to any candidate or committee.\n\ncc: Nan Ted\n    Helen Jeanne P.\n    Jay\n    John G.\n    Alan\n    Bob S.",
+    "full_text_markdown": "Memorandum\n\nTo: Barbara Campbell  \nDate: May 23, 1978\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION  \nGina Siciliano-Kutchins\n\nSubject: Advice pertaining to Sections 84201, 84206 and 84214\n\nThis memo will confirm advice given to the Technical Assistance Division concerning contributions made to candidates or committees by officeholders or candidates not involved in the election to which the contribution was made.\n\nAn officeholder or candidate making a contribution to a candidate or committee involved in an election need not file campaign statements in connection with the election unless contributing officeholder or candidate is also involved in the election.\n\nAn officeholder or candidate not involved in an election to which he/she makes a late contribution need not report the contribution within 48 hours. Contributions outlined above must be included on the next semi-annual or campaign statement in connection with an election the contributing candidate or officeholder is required to file.\n\nThis advice does not apply to any controlled committee of an officeholder or candidate which may make contributions. Committees are required to file campaign statements in connection with contributions made in a primary or general election in even numbered years regardless of the amount and must file in connection with special or local elections when contributing $250 or more to any candidate or committee.\n\ncc: Nan Ted\n    Helen Jeanne P.\n    Jay\n    John G.\n    Alan\n    Bob S."
+  },
+  "parsed": {
+    "date": "1978-05-23",
+    "date_raw": "May 23, 1978",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Under Sections 84201, 84206, and 84214, what are the campaign reporting obligations for officeholders or candidates who make contributions to candidates or committees in elections in which they are not involved?",
+    "conclusion_synthetic": "Officeholders or candidates not involved in an election need not file campaign statements for that election unless they are personally involved in it. Late contributions from uninvolved officeholders/candidates need not be reported within 48 hours but must be included on the next applicable semi-annual or campaign statement. Controlled committees have different reporting requirements and must file for primary/general elections in even-numbered years regardless of amount, and for special/local elections when contributing $250 or more.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: No formal QUESTION or CONCLUSION sections present; advice conveyed in memo format. Contains specific regulatory citations (84201, 84206, 84214). Document addresses reporting thresholds and timing requirements. Carbon copy list included but not substantive to analysis."
+  },
+  "citations": {
+    "government_code": [
+      "84201"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T16:55:53.036192Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Under Sections 84201, 84206, and 84214, what are the campaign reporting obligations for officeholders or candidates who make contributions to candidates or committees in elections in which they are not involved?\n\nCONCLUSION: Officeholders or candidates not involved in an election need not file campaign statements for that election unless they are personally involved in it. Late contributions from uninvolved officeholders/candidates need not be reported within 48 hours but must be included on the next applicable semi-annual or campaign statement. Controlled committees have different reporting requirements and must file for primary/general elections in even-numbered years regardless of amount, and for special/local elections when contributing $250 or more.",
+    "qa_source": "synthetic",
+    "first_500_words": "**Memorandum** **To:** Barbara Campbell **Date:** May 23, 1978 **From:** FAIR POLITICAL PRACTICES COMMISSION Gina Siciliano-Kutchins **Subject:** Advice pertaining to Sections 84201, 84206 and 84214 This memo will confirm advice given to the Technical Assistance Division concerning contributions made to candidates or committees by officeholders or candidates not involved in the election to which the contribution was made. An officeholder or candidate making a contribution to a candidate or committee involved in an election need not file campaign statements in connection with the election unless contributing officeholder or candidate is also involved in the election. An officeholder or candidate not involved in an election to which he/she makes a late contribution need not report the contribution within 48 hours. Contributions outlined above must be included on the next semi-annual or campaign statement in connection with an election the contributing candidate or officeholder is required to file. This advice does not apply to any controlled committee of an officeholder or candidate which may make contributions. Committees are required to file campaign statements in connection with contributions made in a primary or general election in even numbered years regardless of the amount and must file in connection with special or local elections when contributing $250 or more to any candidate or committee. cc: Nan Ted Helen Jeanne P. Jay John G. Alan Bob S.",
+    "summary": "FPPC memorandum providing advice on campaign reporting obligations for officeholders and candidates making contributions to elections in which they are not personally involved, distinguishing between individual contributor obligations and controlled committee requirements."
+  }
+}

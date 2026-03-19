@@ -1,0 +1,71 @@
+{
+  "id": "77ADV-77-376",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-376.PDF",
+  "pdf_sha256": "10b04dcc468f559bb405f0b623c265071b0b65078349f55203120e98a514bc17",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-376.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-376",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:20:11",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=17"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:13.380991Z",
+    "page_count": 1,
+    "word_count": 89,
+    "char_count": 588,
+    "quality_score": 0.5125,
+    "olmocr_cost": null,
+    "native_word_count": 89
+  },
+  "content": {
+    "full_text": "January 29, 1977 \nHonorable Charles H. Phillips \nLos Angeles County Superior Court \nIII North Hill Street \nLos Angeles, CA \n90012 \nRe:, \nStatement of Economic Interest \nDear Judge Phillips: \nEnclosed as you requested please find Form \n721 for filing of your Statement of Economic Interest. \nI am sorry that these materials were not forwarded to \nsooner. \nI also wish to confirm that \ndeadline for \nling your statement is March 1, \n77, in accordance \nwith 2 Cal. \n. Code Section 19723. \nJP:plh \nEnclosures \nSincerely yours, \nJeanne Pritchard \nAdministrative Assistant \nExecutive Division \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1977-01-29",
+    "date_raw": "January 29, 1977",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Not applicable - this is administrative correspondence regarding Statement of Economic Interest filing requirements.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is procedural/administrative correspondence, not an advice letter with legal question and conclusion sections. It contains a deadline confirmation referencing Cal. Code Section 19723. No substantive legal guidance provided."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:13.380991Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Not applicable - this is administrative correspondence regarding Statement of Economic Interest filing requirements.",
+    "qa_source": "synthetic",
+    "first_500_words": "January 29, 1977 Honorable Charles H. Phillips Los Angeles County Superior Court III North Hill Street Los Angeles, CA 90012 Re:, Statement of Economic Interest Dear Judge Phillips: Enclosed as you requested please find Form 721 for filing of your Statement of Economic Interest. I am sorry that these materials were not forwarded to sooner. I also wish to confirm that deadline for ling your statement is March 1, 77, in accordance with 2 Cal. . Code Section 19723. JP:plh Enclosures Sincerely yours, Jeanne Pritchard Administrative Assistant Executive Division",
+    "summary": "Administrative letter from FPPC staff enclosing Form 721 (Statement of Economic Interest) and confirming the filing deadline of March 1, 1977 for Judge Charles H. Phillips."
+  }
+}

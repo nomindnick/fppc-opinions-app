@@ -1,0 +1,73 @@
+{
+  "id": "80A159",
+  "year": 1980,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1980/80A159.PDF",
+  "pdf_sha256": "7a49a72dcc76e4878d06d6ecc6fa1bf527af618c495a89ec26dc381af7dac7a5",
+  "local_pdf_path": "raw_pdfs/1980/80A159.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1980 Advice Letter # 80A159",
+    "tags": [
+      "1980",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:27:41",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1980&tagCount=1&page=11"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:04.388008Z",
+    "page_count": 1,
+    "word_count": 226,
+    "char_count": 1431,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 226
+  },
+  "content": {
+    "full_text": "MS. Sheryl R. Falstein \nJack McGrath and AssOEaates \n1100 Glendon Avenue, Suite 1721 \nLos Angeles, CA \n90024 \nDears MS. Falstein: \nA-- ~() -IS-, \nSeptember 23, 1980 \nThis letter is in response to your request for written \nconfirmation of advice I provided to you by telephone. \nDuring our telephone conversation, and in your letter of \nSeptember 8, 1980, you stated that Jack McGrath and Associates \nwas retained by a client to provide public relations and \ncampaign consulting services. \nThe funds expended by your \norganization amounted to $500 or more and the single source of \nthese funds was your client who did not solicit or raise funds \nfrom any other source. \n~ \nYou asked for advice, based on the above facts. regarding \nthe reporting obligations under the Political Reform Act. \nI advised you that yourcli.ent is a conmittee pursuant to \nGovernment Code Section 820J3 (b) and that he is required to \nfile appropriate campaign disclosure statements (Form 461). \nFurther, I advised you that Jack McGrath and Assocaites is an \nagent or independent contractor, 'pursua~t to Government Code \nSection 84303, for your client, and Jack McGrath and Associates \nshould provide your client with an itemization of your expendi-\ntures so your client could report them in the same manner as if \nhe made those expenditures directly. \nJG/bb \nIf you have furhher qaastions, p.aaeeconcaat~i. \nYours rruly, \nJohn C. Greenwood \nConsultant \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1980-09-23",
+    "date_raw": "September 23, 1980",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "You asked for advice, based on the above facts, regarding the reporting obligations under the Political Reform Act.",
+    "conclusion": "I advised you that your client is a committee pursuant to Government Code Section 82003(b) and that he is required to file appropriate campaign disclosure statements (Form 461). Further, I advised that Jack McGrath and Associates is an agent or independent contractor, pursuant to Government Code Section 84303, for your client, and Jack McGrath and Associates should provide your client with an itemization of your expenditures so your client could report them in the same manner as if he made those expenditures directly.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "What are the reporting obligations under the Political Reform Act when a public relations and campaign consulting firm (Jack McGrath and Associates) expends $500 or more in funds provided by a single client who did not solicit or raise funds from other sources?",
+    "conclusion_synthetic": "The client qualifies as a committee under Government Code Section 82003(b) and must file campaign disclosure statements (Form 461). Jack McGrath and Associates acts as an agent/independent contractor and must provide an itemized accounting of expenditures to the client for reporting purposes.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is a confirmation letter of prior telephonic advice. No formal 'QUESTION' or 'CONCLUSION' section headers present, but question and conclusion content are clearly identifiable in the letter body. Some OCR errors present ('furhther qaastions', 'p.aaeeconcaat~i'). Dated September 23, 1980; references Government Code sections 82003(b) and 84303."
+  },
+  "citations": {
+    "government_code": [
+      "84303"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:37:04.388008Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: You asked for advice, based on the above facts, regarding the reporting obligations under the Political Reform Act.\n\nCONCLUSION: I advised you that your client is a committee pursuant to Government Code Section 82003(b) and that he is required to file appropriate campaign disclosure statements (Form 461). Further, I advised that Jack McGrath and Associates is an agent or independent contractor, pursuant to Government Code Section 84303, for your client, and Jack McGrath and Associates should provide your client with an itemization of your expenditures so your client could report them in the same manner as if he made those expenditures directly.",
+    "qa_source": "mixed",
+    "first_500_words": "MS. Sheryl R. Falstein Jack McGrath and AssOEaates 1100 Glendon Avenue, Suite 1721 Los Angeles, CA 90024 Dears MS. Falstein: A-- ~() -IS-, September 23, 1980 This letter is in response to your request for written confirmation of advice I provided to you by telephone. During our telephone conversation, and in your letter of September 8, 1980, you stated that Jack McGrath and Associates was retained by a client to provide public relations and campaign consulting services. The funds expended by your organization amounted to $500 or more and the single source of these funds was your client who did not solicit or raise funds from any other source. ~ You asked for advice, based on the above facts. regarding the reporting obligations under the Political Reform Act. I advised you that yourcli.ent is a conmittee pursuant to Government Code Section 820J3 (b) and that he is required to file appropriate campaign disclosure statements (Form 461). Further, I advised you that Jack McGrath and Assocaites is an agent or independent contractor, 'pursua~t to Government Code Section 84303, for your client, and Jack McGrath and Associates should provide your client with an itemization of your expendi- tures so your client could report them in the same manner as if he made those expenditures directly. JG/bb If you have furhher qaastions, p.aaeeconcaat~i. Yours rruly, John C. Greenwood Consultant",
+    "summary": "FPPC confirms telephonic advice regarding reporting obligations when a consulting firm retained by a client expends $500 or more in campaign-related funds. The client is deemed a committee requiring Form 461 filings, with the consulting firm acting as an agent providing itemized expenditure reports."
+  }
+}

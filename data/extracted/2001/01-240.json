@@ -1,0 +1,77 @@
+{
+  "id": "01-240",
+  "year": 2001,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2001/01-240.pdf",
+  "pdf_sha256": "33430bd77c85bd58d0cc326a70cedc04e7a1fa13e1f22f811165fb83b921b167",
+  "local_pdf_path": "raw_pdfs/2001/01-240.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2001 Advice Letter # 01-240",
+    "tags": [
+      "2001",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:34:37",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2001&tagCount=1&page=25"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:31.707661Z",
+    "page_count": 2,
+    "word_count": 292,
+    "char_count": 1856,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 292
+  },
+  "content": {
+    "full_text": "Re\nFarn PolrrrcAt- PRACTTcEs C orranarssroN\nP.O. Box 807 . 428 J Srreer r Sacramenro, CA 95BlZ-O8Oj\n(916) 322-5660 r Fax (916) 322-0886\nNovember 9,2001\nDavid L. Gould, Treasurer\nRockard J. Delgadillo, Officeholder Account\nJames Hahn, Mayor\nDavid L. Gould Company\n-555 South Flower, Suite 4510\nLos Angeles, CA 90071\nYour Request for Advice\nOur File No. G-01-240\nDear Messrs. Gould, Delgadillo & Hahn:\nThis letter is in response to your request for advice regarding the provisions of the\nPolitical Reform Act (the \"Act\").1 It appears from your lettei that your question\nconcerning your prior decisions to create separate officeholder committees relate to past\nconduct. Your letter states you are seeking \"written confirmation\" thatthe advice to your\nclients was correct. The Commission's Legal Division may not offer advic e regarding\npast conduct, however, and must therefore decline to provide you advice concerning any\ndecision that pertains to past conduct. (Regulation 18329, copy enclosed.) For your\ninformation, we enclose a copy of the Hicla Advice Letter, r-99-lzo, in which\nCommission staff advised how local officeholders may provide for an officeholder\naccount under the provisions of the Government Code section 85201. To the extent we\nprovide you this general assistance, this letter does not represent an analysis ofany past\nconduct, nor of any laws pertaining to Proposition 34 and local ordinances. Also\nenclosed for your information is Regulation 18530.4.\nI Govemment Code sections 81000 - 91014. Commission regulations appeal at Title 2, sections\n1 8 1 0 9- 1 8 997, of the California Code of Regulations.\nffiuE\n\n\nFile No. G-01-240\nPage No. 2\nIf you have any other questions regarding this mrtter, please contact me at (916)\n322-5660\nCSrjg\nI:\\Advice[,trs\\0 1 -240\nEnclosures\nSincerely,\nLuisa\nBy\nt/^\nC. Scott Tocher\nCounsel, Legal Division\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2001-11-09",
+    "date_raw": "November 9,2001",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "The Commission's Legal Division may not offer advice regarding past conduct and must decline to provide advice concerning any decision that pertains to past conduct.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether the FPPC can provide written confirmation that prior advice given to clients regarding the creation of separate officeholder committees was correct.",
+    "conclusion_synthetic": "The FPPC declines to advise on past conduct, as per Regulation 18329. The FPPC provides general reference materials on how local officeholders may establish officeholder accounts under Government Code section 85201, but this does not constitute analysis of past conduct or relevant laws.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is a declination/denial letter rather than a standard advice letter. No traditional QUESTION/CONCLUSION sections present; question and conclusion extracted from body text. Document references Regulation 18329 which prohibits advice on past conduct."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "85201"
+    ],
+    "regulations": [
+      "18329",
+      "18530.4"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:34:31.707661Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether the FPPC can provide written confirmation that prior advice given to clients regarding the creation of separate officeholder committees was correct.\n\nCONCLUSION: The Commission's Legal Division may not offer advice regarding past conduct and must decline to provide advice concerning any decision that pertains to past conduct.",
+    "qa_source": "mixed",
+    "first_500_words": "Re Farn PolrrrcAt- PRACTTcEs C orranarssroN P.O. Box 807 . 428 J Srreer r Sacramenro, CA 95BlZ-O8Oj (916) 322-5660 r Fax (916) 322-0886 November 9,2001 David L. Gould, Treasurer Rockard J. Delgadillo, Officeholder Account James Hahn, Mayor David L. Gould Company -555 South Flower, Suite 4510 Los Angeles, CA 90071 Your Request for Advice Our File No. G-01-240 Dear Messrs. Gould, Delgadillo & Hahn: This letter is in response to your request for advice regarding the provisions of the Political Reform Act (the \"Act\").1 It appears from your lettei that your question concerning your prior decisions to create separate officeholder committees relate to past conduct. Your letter states you are seeking \"written confirmation\" thatthe advice to your clients was correct. The Commission's Legal Division may not offer advic e regarding past conduct, however, and must therefore decline to provide you advice concerning any decision that pertains to past conduct. (Regulation 18329, copy enclosed.) For your information, we enclose a copy of the Hicla Advice Letter, r-99-lzo, in which Commission staff advised how local officeholders may provide for an officeholder account under the provisions of the Government Code section 85201. To the extent we provide you this general assistance, this letter does not represent an analysis ofany past conduct, nor of any laws pertaining to Proposition 34 and local ordinances. Also enclosed for your information is Regulation 18530.4. I Govemment Code sections 81000 - 91014. Commission regulations appeal at Title 2, sections 1 8 1 0 9- 1 8 997, of the California Code of Regulations. ffiuE File No. G-01-240 Page No. 2 If you have any other questions regarding this mrtter, please contact me at (916) 322-5660 CSrjg I:\\Advice[,trs\\0 1 -240 Enclosures Sincerely, Luisa By t/^ C. Scott Tocher Counsel, Legal Division",
+    "summary": "The FPPC declines a request for written confirmation that prior advice regarding officeholder committee creation was correct, citing its prohibition on advising regarding past conduct per Regulation 18329. The FPPC provides reference materials on officeholder accounts for informational purposes."
+  }
+}

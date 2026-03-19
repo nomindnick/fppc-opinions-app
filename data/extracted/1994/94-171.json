@@ -1,0 +1,75 @@
+{
+  "id": "94-171",
+  "year": 1994,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1994/94-171.pdf",
+  "pdf_sha256": "ec4c78e560f914772128039bdb0579dd05785a5915d47b334bffff1da5b2d0ee",
+  "local_pdf_path": "raw_pdfs/1994/94-171.pdf",
+  "source_metadata": {
+    "title_raw": "Brown, Stecher Year: 1994 Advice Letter # 94-171",
+    "tags": [
+      "1994",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:35:14",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1994&tagCount=1&page=16"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:02.604188Z",
+    "page_count": 2,
+    "word_count": 354,
+    "char_count": 2237,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 354
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\nJune 3,\n1994\nBrian N.\nLibow\nCity Attorney\nCity of San Pablo\nOne Alvarado Square\nSan Pablo,\nCA\n94806\nRe:\nYour Request for Advice\nOur File No.\nA-94-171\nDear Mr.\nLibow:\nI\nam writing to confirm our telephone conversation on\nMay 17,\n1994, wherein we discussed the conflict—of-interest\nprovisions of the Political Reform Act (the “Act”)\n1 pertaining to\nCouncilmember Brown.\nCouncilmember Brown is a real estate broker.\nA real estate\nagent who works in Councilmember Brown’s real estate office\nrepresents a buyer who will be an applicant before the city\ncouncil.\nCouncilmember Brown is willing to forego any percentage\nof the commission income resulting from the transaction.\nAs we discussed, Regulation 18704.3(c)\nstates that the\nsources of commission income for a real estate broker include:\n(A)\nThe person the broker represents in the\ntransaction;\n(B)\nIf the broker receives a commission from a\ntransaction conducted by an agent working under the\nbroker’s auspices, the person represented by the agent;\n(C)\nAny brokerage business entity through which the\nbroker conducts business;\nand\n(D)\nAny person who receives a finder’s or other\nreferral fee for referring a party to the transaction to\nthe broker,\nor who makes a referral pursuant to a\ncontract with the broker.\nTherefore, if Councilmember Brown waives any commission from\nthe agent’s transaction with the buyer/applicant,\nshe has no\n1\nGovernment Code Sections 81000-91015.\nAll statutory references\nare to the Government Code unless otherwise indicated.\nCommission\nregulations appear at\n2 CaliforniaCode of Regulations,\nSections\n18000-18954.\nAll references to regulations are to Title 2,\nDivision\n6 of the California Code of Regulations.\n428 J Street, Suite 800\n•\nP.O. Box 807 •\nSacramento, CA\n95804-0807\n•\n(916) 322-5660\n\n\nFile No.\nA—94—171\nPage\n2\nactual or promised income which may give rise to a conflict of\ninterest when the buyer is an applicant before the city council.\nAs I suggested, it would be prudent for Councilmember Brown to\ndocument in writing her intention to forego this commission\nincome.\nI trust this answers your question.\nSincerely,\nSteven G.\nChurchwell\nGeneral Counsel\nBy:\nJi1 St\nher\nCouse1,\nLegal Division\nSGC:JS:ak\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1994-06-03",
+    "date_raw": "June 3,\n1994",
+    "requestor_name": "Libow",
+    "requestor_title": "City Attorney",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "Therefore, if Councilmember Brown waives any commission from the agent's transaction with the buyer/applicant, she has no actual or promised income which may give rise to a conflict of interest when the buyer is an applicant before the city council. As I suggested, it would be prudent for Councilmember Brown to document in writing her intention to forego this commission income.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether Councilmember Brown, a real estate broker, has a conflict of interest when a real estate agent working in her office represents a buyer who will appear before the city council, if the councilmember waives her commission from that transaction.",
+    "conclusion_synthetic": "No conflict of interest exists if Councilmember Brown waives her commission from the agent's transaction, since she would have no actual or promised income from the matter. The FPPC recommends she document this waiver in writing.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document lacks explicit 'QUESTION' and 'CONCLUSION' section headers but contains these elements in narrative form. Response letter from FPPC General Counsel confirming telephone conversation advice. Regulation 18704.3(c) cited as interpretive authority."
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [
+      "18704.3"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:35:02.604188Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether Councilmember Brown, a real estate broker, has a conflict of interest when a real estate agent working in her office represents a buyer who will appear before the city council, if the councilmember waives her commission from that transaction.\n\nCONCLUSION: Therefore, if Councilmember Brown waives any commission from the agent's transaction with the buyer/applicant, she has no actual or promised income which may give rise to a conflict of interest when the buyer is an applicant before the city council. As I suggested, it would be prudent for Councilmember Brown to document in writing her intention to forego this commission income.",
+    "qa_source": "mixed",
+    "first_500_words": "California Fair Political Practices Commission June 3, 1994 Brian N. Libow City Attorney City of San Pablo One Alvarado Square San Pablo, CA 94806 Re: Your Request for Advice Our File No. A-94-171 Dear Mr. Libow: I am writing to confirm our telephone conversation on May 17, 1994, wherein we discussed the conflict—of-interest provisions of the Political Reform Act (the “Act”) 1 pertaining to Councilmember Brown. Councilmember Brown is a real estate broker. A real estate agent who works in Councilmember Brown’s real estate office represents a buyer who will be an applicant before the city council. Councilmember Brown is willing to forego any percentage of the commission income resulting from the transaction. As we discussed, Regulation 18704.3(c) states that the sources of commission income for a real estate broker include: (A) The person the broker represents in the transaction; (B) If the broker receives a commission from a transaction conducted by an agent working under the broker’s auspices, the person represented by the agent; (C) Any brokerage business entity through which the broker conducts business; and (D) Any person who receives a finder’s or other referral fee for referring a party to the transaction to the broker, or who makes a referral pursuant to a contract with the broker. Therefore, if Councilmember Brown waives any commission from the agent’s transaction with the buyer/applicant, she has no 1 Government Code Sections 81000-91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 CaliforniaCode of Regulations, Sections 18000-18954. All references to regulations are to Title 2, Division 6 of the California Code of Regulations. 428 J Street, Suite 800 • P.O. Box 807 • Sacramento, CA 95804-0807 • (916) 322-5660 File No. A—94—171 Page 2 actual or promised income which may give rise to a conflict of interest when the buyer is an applicant before the city council. As I suggested, it would be prudent for Councilmember Brown to document in writing her intention to forego this commission income. I trust this answers your question. Sincerely, Steven G. Churchwell General Counsel By: Ji1 St her Couse1, Legal Division SGC:JS:ak",
+    "summary": "The FPPC advises that Councilmember Brown, a real estate broker, may avoid a conflict of interest by waiving her commission when an agent in her office represents a buyer appearing before the city council. The FPPC recommends written documentation of the waiver."
+  }
+}

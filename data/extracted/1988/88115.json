@@ -1,0 +1,76 @@
+{
+  "id": "88115",
+  "year": 1988,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1988/fppc-advice/88115.PDF",
+  "pdf_sha256": "820fba976463004998a03763e95289c74a1c1888683cd5dd54501391a1b6bf61",
+  "local_pdf_path": "raw_pdfs/1988/88115.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1988 Advice Letter # 88115",
+    "tags": [
+      "1988",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:00:26",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1988&tagCount=1&page=38"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:16.688955Z",
+    "page_count": 1,
+    "word_count": 223,
+    "char_count": 1443,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 223
+  },
+  "content": {
+    "full_text": "California \nFair Political \nPractices Commission \nDr. David Sammons, Minister \n829 Hutchinson \nWalnut Creek, CA \n94598 \nDear Mr. Corry: \nMarch 22, 1988 \nRe: \nYour Request for Advice \nOur File No. I-88-115 \nYou have asked for advice concerning the duties of Senator \nDan Boatwright under the mass mailing provisions of the \nPolitical Reform Act.!! \nThe Commission's Legal Division does provide written advice \nto persons with questions about their duties under the \nPolitical Reform Act. \n(Section 83114(b).) \nWe do not provide \nadvice to third parties about another person's duties unless \nthe third party has been authorized to request advice by the \nperson whose duties are in question. \n(Regulation \n18329(b) (8) (B).) \nTherefore, we cannot provide advice on the \nquestion you have raised. \nHowever, I have referred your letter \nto our Enforcement Division for review. \nIf you have any \nquestions, that division can be reached at (916) 322-6441. \nDMG:plh \ncc: \nRoger Brown \n, \nI \n,j. // \nDiane M. Griffiths \nGeneral Counsel \nI \n' \nr I \n( (k \n!! Government Code sections 81000-91015. \nAll statutory \nreferences are to the Government Code unless otherwise \nindicated. \nCommission regulations appear at 2 California Code \nof Regulations section 18000, et seg. \nAll references to \nregulations are to Title 2, Division 6 of the California Code \nof Regulations. \n428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804-0807 • (916)322-5660 \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1988-03-22",
+    "date_raw": "March 22, 1988",
+    "requestor_name": "Corry",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "you have raised. \nHowever, I have referred your letter \nto our Enforcement Division for review. \nIf you have any \nquestions, that division can be reached at (916) 322-6441. \nDMG:plh \ncc: \nRoger Brown \n, \nI \n,j. // \nDiane M. Griffiths",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.5499999999999999,
+    "has_standard_format": true,
+    "parsing_notes": "Format: ocr"
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "83114(b)"
+    ],
+    "regulations": [
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "gifts_honoraria",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:36:16.688955Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: you have raised. \nHowever, I have referred your letter \nto our Enforcement Division for review. \nIf you have any \nquestions, that division can be reached at (916) 322-6441. \nDMG:plh \ncc: \nRoger Brown \n, \nI \n,j. // \nDiane M. Griffiths",
+    "qa_source": "extracted",
+    "first_500_words": "California Fair Political Practices Commission Dr. David Sammons, Minister 829 Hutchinson Walnut Creek, CA 94598 Dear Mr. Corry: March 22, 1988 Re: Your Request for Advice Our File No. I-88-115 You have asked for advice concerning the duties of Senator Dan Boatwright under the mass mailing provisions of the Political Reform Act.!! The Commission's Legal Division does provide written advice to persons with questions about their duties under the Political Reform Act. (Section 83114(b).) We do not provide advice to third parties about another person's duties unless the third party has been authorized to request advice by the person whose duties are in question. (Regulation 18329(b) (8) (B).) Therefore, we cannot provide advice on the question you have raised. However, I have referred your letter to our Enforcement Division for review. If you have any questions, that division can be reached at (916) 322-6441. DMG:plh cc: Roger Brown , I ,j. // Diane M. Griffiths General Counsel I ' r I ( (k !! Government Code sections 81000-91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations section 18000, et seg. All references to regulations are to Title 2, Division 6 of the California Code of Regulations. 428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804-0807 • (916)322-5660",
+    "summary": null
+  }
+}

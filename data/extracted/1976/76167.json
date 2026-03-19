@@ -1,0 +1,74 @@
+{
+  "id": "76167",
+  "year": 1976,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1976/76167.PDF",
+  "pdf_sha256": "ef9a14db532d2e07594a47dac6010ca56c1fc41094e540fac3d9aa2afda9a68a",
+  "local_pdf_path": "raw_pdfs/1976/76167.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1976 Advice Letter # 76167",
+    "tags": [
+      "1976",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:15:28",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1976&tagCount=1&page=12"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:17.859683Z",
+    "page_count": 1,
+    "word_count": 162,
+    "char_count": 1030,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 162
+  },
+  "content": {
+    "full_text": "r·m.r.10 TO THE FILE \nFROM: \nMJB \nRE: \nTELEPHONE CONVERSATION WITH THOMAS LOGIE 3/10/76 \nPaul Schaffer asked me to call Thomas Logie of the \nPacific Lighting Corporation (213/689-3267) respecting \nthe I.G.A. decision. \nI advised Mr. Logie that the Coromission \nwas restrained by a preliminary injunction from enforcing the \nterm lIarrange ll in section 86202 to mean that a lobbyist was \nprohibited from simply recommending or advising his employer \nthat a political contribution should be made. \nI told Mr. L. \nthat the injunction extended only to the FPPC, and that, \ntheoretically, the Attorney General could institute a \ncriminal action under the section or a private individual \ncould initiate a civil injunctive action under §91003. \nI told him that, as a practical matter, I considered it \nextremely unlikely that the A.G. would institute a proceeding. \nMoreover, if he did or if an individual instituted an action, \nI thought it extremely unlikely that it would get very far \nin view of the pending IGA appeal. \nMJB:p'vp \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1976-03-10",
+    "date_raw": "3/10/76",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "This document does not contain a formal legal question; it is an internal FPPC memorandum documenting a telephone conversation regarding the I.G.A. decision and the enforceability of the term 'arrange' in section 86202.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.75,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an internal memorandum, not a formal advice letter response. No Q/C sections present. Document records staff guidance on preliminary injunction implications regarding lobbying activities and political contributions. Extracted information limited to available content structure."
+  },
+  "citations": {
+    "government_code": [
+      "86202",
+      "91003"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:37:17.859683Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: This document does not contain a formal legal question; it is an internal FPPC memorandum documenting a telephone conversation regarding the I.G.A. decision and the enforceability of the term 'arrange' in section 86202.",
+    "qa_source": "synthetic",
+    "first_500_words": "r·m.r.10 TO THE FILE FROM: MJB RE: TELEPHONE CONVERSATION WITH THOMAS LOGIE 3/10/76 Paul Schaffer asked me to call Thomas Logie of the Pacific Lighting Corporation (213/689-3267) respecting the I.G.A. decision. I advised Mr. Logie that the Coromission was restrained by a preliminary injunction from enforcing the term lIarrange ll in section 86202 to mean that a lobbyist was prohibited from simply recommending or advising his employer that a political contribution should be made. I told Mr. L. that the injunction extended only to the FPPC, and that, theoretically, the Attorney General could institute a criminal action under the section or a private individual could initiate a civil injunctive action under §91003. I told him that, as a practical matter, I considered it extremely unlikely that the A.G. would institute a proceeding. Moreover, if he did or if an individual instituted an action, I thought it extremely unlikely that it would get very far in view of the pending IGA appeal. MJB:p'vp",
+    "summary": "Internal FPPC memorandum documenting a March 10, 1976 telephone conversation between FPPC staff and Thomas Logie of Pacific Lighting Corporation regarding a preliminary injunction restraining the Commission from enforcing certain provisions of section 86202 related to lobbyist activities and political contributions."
+  }
+}

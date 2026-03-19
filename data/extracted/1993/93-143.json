@@ -1,0 +1,78 @@
+{
+  "id": "93-143",
+  "year": 1993,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1993/93-143.pdf",
+  "pdf_sha256": "cd130d86d3e54c94175399e0ca8df18900b3d6b5814cd062516619de8ff775c1",
+  "local_pdf_path": "raw_pdfs/1993/93-143.pdf",
+  "source_metadata": {
+    "title_raw": "Commrs, Wick, Year: 1993 Advice Letter # 93-143",
+    "tags": [
+      "1993",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:31:49",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1993&tagCount=1&page=12"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:06.763094Z",
+    "page_count": 2,
+    "word_count": 289,
+    "char_count": 1874,
+    "quality_score": 0.5125,
+    "olmocr_cost": null,
+    "native_word_count": 289
+  },
+  "content": {
+    "full_text": "California::\nt\nmissiJupED\nMay 5,\n1993\nFred S. Etheridge\nMeyers,\nNave,\nRiback\n& Silver\nA Professional Law Corporation\nGateway Plaza\n777 Davis Street, Suite 300\nSan Leandro,\nCalifornia\n94577\nRe:\nYour Request for Advice\nOur File No.\nA—93—143\nDear Mr.\nEtheridge:\nI\nam writing to confirm our telephone conversation on\nApril 29,\n1993 wherein we discussed your request for advice,\nLetter No.\nA—93—143.\nSpecifically, this request sought further\nclarification of the advice we previously provided to you in\nLetter No.\nA-93-075 on behalf of Windsor Planning Commissioners\nWick, Pollard and Procopenko.\nEach of the commissioners owns a home in the Lakewood Hills\nsubdivision and as a homeowner,\nhas an undivided interest in the\ncommon property.\nAlthough the criteria for the public generally\nexception for small cities appears to be met\n(Regulation 18703.1),\nthis regulation applies only to the effect of a governmental\ndecision on an official’s principal residence.\nIn this situation,\neach commissioner also has an undivided interest in the\nassociation’s common property,\nwhich is within 300 feet of the\nproposed mini warehouse.\nTherefore,\nwe must apply Regulation\n18702.3\n(a) (1),\nunder which the commissioners must disqualify from\nthe decision unless there will be no financial effect on the fair\nmarket value of the commissioners’ interest in the common\nproperty.\nPlease note that this is consistent with previous commission\nadvice regarding an official’s ownership interest in a stock\ncooperative\n(Haas Advice Letter,\nNo.\nA—92—366)\nor an official’s\n428 J Street, Suite 800 •\nP.O. Box 807 •\nSacramento, CA\n95804-0807 •\n(916) 322-5660\n\n\nOur File No.\nA-93-143\nPage Two\nownership interest in a condominium complex\n(Jones Advice Letter,\nNo.\nA—90—715,\ncopies enclosed).\nI trust this answers your question.\nSincerely,\nJM:JS:ak\nJeff Marschner\nGeneral Counsel\nBy:\nsel,\nLegal Division\nenc.\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1993-05-05",
+    "date_raw": "May 5,\n1993",
+    "requestor_name": "Etheridge",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether Windsor Planning Commissioners who own homes in a subdivision with common property interests must disqualify themselves from voting on a decision regarding a proposed mini warehouse located within 300 feet of that common property.",
+    "conclusion_synthetic": "The commissioners must disqualify from the decision under Regulation 18702.3(a)(1) unless there will be no financial effect on the fair market value of their interest in the common property, as the small cities public generally exception only applies to principal residences, not shared common property interests.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: No formal QUESTION/CONCLUSION section headers present; document is a follow-up to previous advice letter A-93-075. Content extracted from body paragraphs. References prior advice letters A-92-366 and A-90-715."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [
+      "18702.3",
+      "18703.1"
+    ],
+    "prior_opinions": [
+      "A-93-075"
+    ],
+    "cited_by": [
+      "94-106"
+    ],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:35:06.763094Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether Windsor Planning Commissioners who own homes in a subdivision with common property interests must disqualify themselves from voting on a decision regarding a proposed mini warehouse located within 300 feet of that common property.\n\nCONCLUSION: The commissioners must disqualify from the decision under Regulation 18702.3(a)(1) unless there will be no financial effect on the fair market value of their interest in the common property, as the small cities public generally exception only applies to principal residences, not shared common property interests.",
+    "qa_source": "synthetic",
+    "first_500_words": "California:: t missiJupED May 5, 1993 Fred S. Etheridge Meyers, Nave, Riback & Silver A Professional Law Corporation Gateway Plaza 777 Davis Street, Suite 300 San Leandro, California 94577 Re: Your Request for Advice Our File No. A—93—143 Dear Mr. Etheridge: I am writing to confirm our telephone conversation on April 29, 1993 wherein we discussed your request for advice, Letter No. A—93—143. Specifically, this request sought further clarification of the advice we previously provided to you in Letter No. A-93-075 on behalf of Windsor Planning Commissioners Wick, Pollard and Procopenko. Each of the commissioners owns a home in the Lakewood Hills subdivision and as a homeowner, has an undivided interest in the common property. Although the criteria for the public generally exception for small cities appears to be met (Regulation 18703.1), this regulation applies only to the effect of a governmental decision on an official’s principal residence. In this situation, each commissioner also has an undivided interest in the association’s common property, which is within 300 feet of the proposed mini warehouse. Therefore, we must apply Regulation 18702.3 (a) (1), under which the commissioners must disqualify from the decision unless there will be no financial effect on the fair market value of the commissioners’ interest in the common property. Please note that this is consistent with previous commission advice regarding an official’s ownership interest in a stock cooperative (Haas Advice Letter, No. A—92—366) or an official’s 428 J Street, Suite 800 • P.O. Box 807 • Sacramento, CA 95804-0807 • (916) 322-5660 Our File No. A-93-143 Page Two ownership interest in a condominium complex (Jones Advice Letter, No. A—90—715, copies enclosed). I trust this answers your question. Sincerely, JM:JS:ak Jeff Marschner General Counsel By: sel, Legal Division enc.",
+    "summary": "FPPC General Counsel advises that planning commissioners who own homes in a subdivision with undivided interests in common property must disqualify themselves from voting on a decision affecting property within 300 feet of that common property, unless there is no financial effect on their ownership interest."
+  }
+}

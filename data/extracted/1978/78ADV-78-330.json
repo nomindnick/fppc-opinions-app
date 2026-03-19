@@ -1,0 +1,73 @@
+{
+  "id": "78ADV-78-330",
+  "year": 1978,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1978/78ADV-78-330.PDF",
+  "pdf_sha256": "b89f88471687f8224c9896b8cbd24f02c67a291b6015677d849d8dff15cdd76b",
+  "local_pdf_path": "raw_pdfs/1978/78ADV-78-330.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1978ADV Advice Letter # 78ADV-78-330",
+    "tags": [
+      "Advice Letter",
+      "1978"
+    ],
+    "scraped_at": "2026-01-31 15:23:51",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=14"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T21:02:56.766140Z",
+    "page_count": 1,
+    "word_count": 69,
+    "char_count": 458,
+    "quality_score": 0.8487823032133552,
+    "olmocr_cost": 0.00245358,
+    "native_word_count": 49
+  },
+  "content": {
+    "full_text": "Memorandum\n\nTo: File\n\nDate: November 15, 1978\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION  \nTed Prim\n\nSubject: Government Code Section 87202(b) - newly elected state officers\n\nNewly elected state officers must file a Statement of Economic Interests on Form 721, covering the period from the date of their declaration of candidacy through December 31. This Statement is due on the regular annual filing date, which is no later than March 1.",
+    "full_text_markdown": "Memorandum\n\nTo: File\n\nDate: November 15, 1978\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION  \nTed Prim\n\nSubject: Government Code Section 87202(b) - newly elected state officers\n\nNewly elected state officers must file a Statement of Economic Interests on Form 721, covering the period from the date of their declaration of candidacy through December 31. This Statement is due on the regular annual filing date, which is no later than March 1."
+  },
+  "parsed": {
+    "date": "1978-11-15",
+    "date_raw": "November 15, 1978",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [
+      "87202(b)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-19T21:02:56.766140Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "**Memorandum** **To:** File **Date:** November 15, 1978 **From:** FAIR POLITICAL PRACTICES COMMISSION Ted Prim **Subject:** Government Code Section 87202(b) - newly elected state officers Newly elected state officers must file a Statement of Economic Interests on Form 721, covering the period from the date of their declaration of candidacy through December 31. This Statement is due on the regular annual filing date, which is no later than March 1.",
+    "qa_source": "extracted",
+    "first_500_words": "**Memorandum** **To:** File **Date:** November 15, 1978 **From:** FAIR POLITICAL PRACTICES COMMISSION Ted Prim **Subject:** Government Code Section 87202(b) - newly elected state officers Newly elected state officers must file a Statement of Economic Interests on Form 721, covering the period from the date of their declaration of candidacy through December 31. This Statement is due on the regular annual filing date, which is no later than March 1.",
+    "summary": null
+  }
+}

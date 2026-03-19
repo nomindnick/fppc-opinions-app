@@ -1,0 +1,71 @@
+{
+  "id": "80A096",
+  "year": 1980,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1980/80A096.PDF",
+  "pdf_sha256": "113827177c0ba4be7bcd83734ba42e1ce67d8860e12be64d0d3d4408e6070028",
+  "local_pdf_path": "raw_pdfs/1980/80A096.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1980 Advice Letter # 80A096",
+    "tags": [
+      "1980",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:27:06",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1980&tagCount=1&page=3"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:03.143375Z",
+    "page_count": 1,
+    "word_count": 281,
+    "char_count": 1683,
+    "quality_score": 0.8,
+    "olmocr_cost": null,
+    "native_word_count": 281
+  },
+  "content": {
+    "full_text": "of Colifoll'nia \nFile \nJu \n21, 1980 \nLetter from Jim Richman dated March 5, 1980 \nI responded by telephone on July 16, 1980, to J \nRichman's \nrequest for advice regarding the conflict of interest provisions \nof the Political Reform Act. \nMr. Richman asked if it is a con-\nflict of interest for a councilman to vote for a non-bindiny \nresolution that puts the city council on record in opposition to \nrent control. \nI referred Mr. Richman to the Ferraro Opinion, 4 FPPC Ops. \n62 (No. 78-009, Nov. 7, 1978), which provides that if an officia \nowns three or fewer rental units he or she need not be disqualified \nfrom a rent control matter because of his or her interest in \nrental property. \nThe Commission's conclusions in Ferraro rests \non the belief that an official with three or fewer un \nwill \nnot be affected by a rent control matter in a manner that is \ndistinguishable from the public generally. \nIn those instances where an official owns more than three \nunits, an analysis must \nmade as to whether the decision will \nhave a foreseeable material financial effect on the official's \ninterests. \nI indicated to Mr. Richman that such a determination \ncannot be made in a vacuum. \nSuch determinations can only be \nmade when there is a sufficiently concrete proposal of rent \ncontrol that can be identified with the resolution pending before \nthe council. \nThe adoption of a resolution expressing the official's \ngeneral views regarding rent control is not enough standing \nalone to justify a conclusion that the Act's Conflict of Interest \nprovisions have been violated. \nThis is particularly true when \nit is considered that the council is not bound by the re \nution. \nDED:nrw \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1980-03-05",
+    "date_raw": "March 5, 1980",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Is it a conflict of interest for a councilman to vote for a non-binding resolution that puts the city council on record in opposition to rent control?",
+    "conclusion": "The adoption of a resolution expressing the official's general views regarding rent control is not enough standing alone to justify a conclusion that the Act's Conflict of Interest provisions have been violated. This is particularly true when it is considered that the council is not bound by the resolution. An official with three or fewer rental units need not be disqualified from a rent control matter. Where an official owns more than three units, a concrete proposal of rent control must be identified with the resolution pending before the council to determine whether there is a foreseeable material financial effect.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a city councilman has a conflict of interest under the Political Reform Act when voting on a non-binding resolution opposing rent control.",
+    "conclusion_synthetic": "A non-binding resolution expressing general opposition to rent control does not violate conflict of interest provisions. Officials with three or fewer rental units are not disqualified from rent control matters, and those with more units require analysis of whether a concrete rent control proposal would have a foreseeable material financial effect.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is telephone advice memorandum dated July 21, 1980, responding to March 5, 1980 inquiry. No formal Q/A sections present; question and conclusion extracted from narrative text. References Ferraro Opinion (4 FPPC Ops. 62, No. 78-009). Document appears to be internal FPPC memo rather than formal advice letter format."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:03.143375Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Is it a conflict of interest for a councilman to vote for a non-binding resolution that puts the city council on record in opposition to rent control?\n\nCONCLUSION: The adoption of a resolution expressing the official's general views regarding rent control is not enough standing alone to justify a conclusion that the Act's Conflict of Interest provisions have been violated. This is particularly true when it is considered that the council is not bound by the resolution. An official with three or fewer rental units need not be disqualified from a rent control matter. Where an official owns more than three units, a concrete proposal of rent control must be identified with the resolution pending before the council to determine whether there is a foreseeable material financial effect.",
+    "qa_source": "mixed",
+    "first_500_words": "of Colifoll'nia File Ju 21, 1980 Letter from Jim Richman dated March 5, 1980 I responded by telephone on July 16, 1980, to J Richman's request for advice regarding the conflict of interest provisions of the Political Reform Act. Mr. Richman asked if it is a con- flict of interest for a councilman to vote for a non-bindiny resolution that puts the city council on record in opposition to rent control. I referred Mr. Richman to the Ferraro Opinion, 4 FPPC Ops. 62 (No. 78-009, Nov. 7, 1978), which provides that if an officia owns three or fewer rental units he or she need not be disqualified from a rent control matter because of his or her interest in rental property. The Commission's conclusions in Ferraro rests on the belief that an official with three or fewer un will not be affected by a rent control matter in a manner that is distinguishable from the public generally. In those instances where an official owns more than three units, an analysis must made as to whether the decision will have a foreseeable material financial effect on the official's interests. I indicated to Mr. Richman that such a determination cannot be made in a vacuum. Such determinations can only be made when there is a sufficiently concrete proposal of rent control that can be identified with the resolution pending before the council. The adoption of a resolution expressing the official's general views regarding rent control is not enough standing alone to justify a conclusion that the Act's Conflict of Interest provisions have been violated. This is particularly true when it is considered that the council is not bound by the re ution. DED:nrw",
+    "summary": "FPPC advises that a city councilman's vote on a non-binding resolution opposing rent control does not constitute a conflict of interest under the Political Reform Act, citing the Ferraro Opinion and the requirement for a sufficiently concrete proposal to trigger conflict analysis."
+  }
+}

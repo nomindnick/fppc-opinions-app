@@ -1,0 +1,76 @@
+{
+  "id": "05-073",
+  "year": 2005,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2005/05-073.pdf",
+  "pdf_sha256": "354146d970d225378c556daf0f943b5c254ae6eeddf5fd72693c8e6f4c1da00d",
+  "local_pdf_path": "raw_pdfs/2005/05-073.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2005 Advice Letter # 05-073",
+    "tags": [
+      "2005",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 17:00:32",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2005&tagCount=1&page=5"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T03:30:50.210580Z",
+    "page_count": 1,
+    "word_count": 163,
+    "char_count": 1125,
+    "quality_score": 0.8371586822521758,
+    "olmocr_cost": 0.00250948,
+    "native_word_count": 163,
+    "haiku_cost": 0.002632
+  },
+  "content": {
+    "full_text": "FAIR POLITICAL PRACTICES COMMISSION\n428 J Street • Suite 620 • Sacramento, CA 95814-2329\n(916) 322-5660 • Fax (916) 322-0886\n\nFebruary 1, 2006\n\n\nAlexander Abbe\nAssistant City Attorney\nCity of Seal Beach\nRichards Watson Gershon\n355 South Grand Avenue, 40th Floor\nLos Angeles, California 90071-3101\n\nRe: Your Request for Informal Assistance\nOur File No. W-05-073\n\nDear Mr. Abbe:\n\nThis correspondence is written confirmation of our June 2005 and\nJanuary 27, 2006 telephone conversations that the Fair Political Practices Commission\n(\"FPPC\") has withdrawn your April 12, 2005 request for advice under the provisions of\nthe Political Reform Act¹ as you requested. Consequently, no response was or will be\nprepared. Your request is withdrawn.\n\nIf you have any other questions regarding this matter, please contact me at (916)\n322-5660.\n\nSincerely,\n\nLuisa Menchaca\nGeneral Counsel\n\nBy: Andreas C. Rockas\nStaff Counsel, Legal Division\n\nAR:rd\nI:\\AdviceLtrs\\05-073\n\n_________________________\n¹ Government Code sections 81000- 91014. Commission regulations appear at Title 2, sections\n18109-18997, of the California Code of Regulations.",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": "City Attorney",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [
+      "18109"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-20T14:57:30.034742Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "This is a formal letter from the Fair Political Practices Commission (FPPC) to Alexander Abbe, Assistant City Attorney for the City of Seal Beach. The letter confirms that the FPPC has withdrawn its previous request for advice under the Political Reform Act, as requested by Mr. Abbe in April 2005. The Commission states that no response was or will be prepared and that Mr. Abbe's request is withdrawn. The letter also provides contact information for further questions and is signed by Luisa Menchaca, General Counsel, and Andreas C. Rockas, Staff Counsel, Legal Division. The letter concludes with an AR:rd notation and a reference to the Government Code sections 81000-91014, which appear at Title 2, sections 18109-18997, of the California Code of Regulations.",
+    "qa_source": "extracted",
+    "first_500_words": "This is a formal letter from the Fair Political Practices Commission (FPPC) to Alexander Abbe, Assistant City Attorney for the City of Seal Beach. The letter confirms that the FPPC has withdrawn its previous request for advice under the Political Reform Act, as requested by Mr. Abbe in April 2005. The Commission states that no response was or will be prepared and that Mr. Abbe's request is withdrawn. The letter also provides contact information for further questions and is signed by Luisa Menchaca, General Counsel, and Andreas C. Rockas, Staff Counsel, Legal Division. The letter concludes with an AR:rd notation and a reference to the Government Code sections 81000-91014, which appear at Title 2, sections 18109-18997, of the California Code of Regulations.",
+    "summary": null
+  }
+}

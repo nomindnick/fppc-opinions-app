@@ -1,0 +1,71 @@
+{
+  "id": "77ADV-77-119",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-119.PDF",
+  "pdf_sha256": "d86a0bbc9f865ae99e87240e879ed6eea8c893ce82ba40f2978dd6937ea93552",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-119.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-119",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:21:22",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=33"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-07T17:11:00.123630Z",
+    "page_count": 1,
+    "word_count": 129,
+    "char_count": 767,
+    "quality_score": 0.8484930412371133,
+    "olmocr_cost": 0.0025026,
+    "native_word_count": 28
+  },
+  "content": {
+    "full_text": "Memorandum\n\nTo: Memo to File\n\nDate: 3-1-77\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION\n        Dawn\n\nSubject: Ken Cory's Statement of Economic Interests\n\nMyrna, of Ken Cory's office called today and had the following question:\n\nIf Mr. Cory has an equity interest in a partnership and he also loaned the entity additional financing, which is guaranteed, does he have to report the equity interest and the loan to the entity?\n\nAfter consulting Del and Mike, we determined that the loan to the entity would not have to be reported as an investment and would only be reported when Mr. Cory was repaid at which time it would be reported as income.\n\nI returned the call to Myrna and she transferred the call to Peter Pelkover, who I advised of the reporting requirement.",
+    "full_text_markdown": "Memorandum\n\nTo: Memo to File\n\nDate: 3-1-77\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION\n        Dawn\n\nSubject: Ken Cory's Statement of Economic Interests\n\nMyrna, of Ken Cory's office called today and had the following question:\n\nIf Mr. Cory has an equity interest in a partnership and he also loaned the entity additional financing, which is guaranteed, does he have to report the equity interest and the loan to the entity?\n\nAfter consulting Del and Mike, we determined that the loan to the entity would not have to be reported as an investment and would only be reported when Mr. Cory was repaid at which time it would be reported as income.\n\nI returned the call to Myrna and she transferred the call to Peter Pelkover, who I advised of the reporting requirement."
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "If Mr. Cory has an equity interest in a partnership and he also loaned the entity additional financing, which is guaranteed, does he have to report the equity interest and the loan to the entity?",
+    "conclusion": "The loan to the entity would not have to be reported as an investment and would only be reported when Mr. Cory was repaid at which time it would be reported as income.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a person with an equity interest in a partnership must report both the equity interest and a loan made to that partnership entity on their Statement of Economic Interests.",
+    "conclusion_synthetic": "The loan does not require reporting as an investment; it should only be reported as income when repaid. The equity interest reporting requirement is not explicitly addressed in this memo.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Internal memo format rather than formal advice letter; no formal CONCLUSION section header, but advice is clearly stated in body text; recipient Peter Pelkover was advised of the determination; equity interest reporting requirement mentioned in question but not explicitly addressed in conclusion"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T17:11:00.123630Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: If Mr. Cory has an equity interest in a partnership and he also loaned the entity additional financing, which is guaranteed, does he have to report the equity interest and the loan to the entity?\n\nCONCLUSION: The loan to the entity would not have to be reported as an investment and would only be reported when Mr. Cory was repaid at which time it would be reported as income.",
+    "qa_source": "mixed",
+    "first_500_words": "**Memorandum** To: Memo to File Date: 3-1-77 From: FAIR POLITICAL PRACTICES COMMISSION Dawn Subject: Ken Cory's Statement of Economic Interests Myrna, of Ken Cory's office called today and had the following question: If Mr. Cory has an equity interest in a partnership and he also loaned the entity additional financing, which is guaranteed, does he have to report the equity interest and the loan to the entity? After consulting Del and Mike, we determined that the loan to the entity would not have to be reported as an investment and would only be reported when Mr. Cory was repaid at which time it would be reported as income. I returned the call to Myrna and she transferred the call to Peter Pelkover, who I advised of the reporting requirement.",
+    "summary": "FPPC internal memorandum addressing a question from Ken Cory's office regarding Statement of Economic Interests reporting requirements for an equity interest in a partnership combined with a guaranteed loan to that same entity."
+  }
+}

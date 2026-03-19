@@ -1,0 +1,74 @@
+{
+  "id": "78ADV-78-013",
+  "year": 1978,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1978/78ADV-78-013.PDF",
+  "pdf_sha256": "14b3d0170fa5ffdadf238d935b4f2337d72a3eb75669592e53c6c6d46a5a30ed",
+  "local_pdf_path": "raw_pdfs/1978/78ADV-78-013.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1978ADV Advice Letter # 78ADV-78-013",
+    "tags": [
+      "Advice Letter",
+      "1978"
+    ],
+    "scraped_at": "2026-01-31 15:24:57",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=29"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-27T16:44:14.962171Z",
+    "page_count": 1,
+    "word_count": 181,
+    "char_count": 1176,
+    "quality_score": 0.9138015079845607,
+    "olmocr_cost": 0.00453994,
+    "native_word_count": 193,
+    "haiku_cost": 0.0023439999999999997
+  },
+  "content": {
+    "full_text": "State of California Indu\n\nMem\nPrior Request Meeting\nDate : July 20, 1978\nTo    Participants\n\n\nA-78-07-013\n\nFrom : FAIR POLITICAL PRACTICES COMMISSION\nBarbara Campbell\n\nSubject: Voter Registration\n\nLance Olsen asked the following question:\n\nSome democratic candidates (one federal and several\nstate and local) are planning to form a voter registration\ncommittee for a geographical area. They plan to get funds\nfrom their respective controlled committees and from other\nsources (no individuals or corporate contributions will be accepted\nbecause one of the candidates is running for the House of\nRepresentatives).\n\nThe FEC has advised that the committee will have to\nregister with them. Will the committee also have to\nregister with the Secretary of State?\n\nMy initial response was that the voter registration\nwill be so partisan the contributions will be reportable\nand the group will be a primary purpose committee under\nGovernment Code Section 82013(a).\n\nBC:plh\n\n\nAt the July 24, 1978, Opinion Request meeting, the\nstaff decided the democratic voter registration committee\nwill have to register as a committee with the Secretary\nof State's Office once it raises $500 or more.",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1978-07-20",
+    "date_raw": "July 20, 1978",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Some democratic candidates (one federal and several state and local) are planning to form a voter registration committee for a geographical area. They plan to get funds from their respective controlled committees and from other sources (no union or corporate contributions will be accepted because one of the candidates is running for the House of Representatives). The FEC has advised that the committee will have to register with them. Will the committee also have to register with the Secretary of State?",
+    "conclusion": "At the July 24, 1978, Opinion Request meeting, the staff decided the democratic voter registration committee will have to register as a committee with the Secretary of State's Office once it raises $500 or more.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Must a partisan voter registration committee formed by democratic candidates register with the California Secretary of State, given that it will also register with the FEC?",
+    "conclusion_synthetic": "The committee must register with the Secretary of State's Office once it raises $500 or more, as it constitutes a primary purpose committee under Government Code Section 82013(a) due to its partisan nature and reportable contributions.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Memorandum format rather than standard advice letter; includes both initial response and final staff decision; no formal CONCLUSION section header but clear conclusion provided in final paragraph"
+  },
+  "citations": {
+    "government_code": [
+      "82013(a)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T17:00:32.204452Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Some democratic candidates (one federal and several state and local) are planning to form a voter registration committee for a geographical area. They plan to get funds from their respective controlled committees and from other sources (no union or corporate contributions will be accepted because one of the candidates is running for the House of Representatives). The FEC has advised that the committee will have to register with them. Will the committee also have to register with the Secretary of State?\n\nCONCLUSION: At the July 24, 1978, Opinion Request meeting, the staff decided the democratic voter registration committee will have to register as a committee with the Secretary of State's Office once it raises $500 or more.",
+    "qa_source": "mixed",
+    "first_500_words": "**Memorandum** Date: July 20, 1978 From: FAIR POLITICAL PRACTICES COMMISSION Barbara Campbell To: Union Request Meeting Participants Subject: Voter Registration Lance Olsen asked the following question: Some democratic candidates (one federal and several state and local) are planning to form a voter registration committee for a geographical area. They plan to get funds from their respective controlled committees and from other sources (no union or corporate contributions will be accepted because one of the candidates is running for the House of Representatives). The FEC has advised that the committee will have to register with them. Will the committee also have to register with the Secretary of State? My initial response was that the voter registration will be so partisan the contributions will be reportable and the group will be a primary purpose committee under Government Code Section 82013(a). BC:plh At the July 24, 1978, Opinion Request meeting, the staff decided the democratic voter registration committee will have to register as a committee with the Secretary of State's Office once it raises $500 or more.",
+    "summary": "FPPC staff advises that a partisan voter registration committee formed by democratic candidates must register with the California Secretary of State once it raises $500 or more, as it qualifies as a primary purpose committee under state law."
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "04-250",
+  "year": 2004,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2004/04-250.pdf",
+  "pdf_sha256": "d55ae7e988d002fb53cef2146594d5cc37fc4c75f5a7bc82615462a32d95e1e4",
+  "local_pdf_path": "raw_pdfs/2004/04-250.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2004 Advice Letter # 04-250",
+    "tags": [
+      "2004",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:40:39",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2004&tagCount=1&page=9"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:16.794409Z",
+    "page_count": 2,
+    "word_count": 331,
+    "char_count": 2159,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 331
+  },
+  "content": {
+    "full_text": "I\nt\nRe:\nFern Polrrrcal PnacrrcEs CoulrrssroN\n428 J Street r Suite 620 o Sacramento, CA 95814-2329\n(916) 322-5660 r Fax (916) 322-0886\nFebruary 8,2005\nStephen P. Pfanler, City Attorney\nBannan, Green, Frank &Terzian,LLP\n555 South Flower Street, Suite 2700\nLos Angeles, CA 90071\nYour Request for Advice\nOur File No. W-04-250\nDear Mr. Pfanler:\nThis letter is in response to your request for advice regarding South Pasadena City\nCouncilmember David Margrave on the conflict-of-interest provisions of the Political Reform\nAct (the \"Act').1 The Act requires the Commission to provide written advice to any person\nwhose duties under the Act are in question or to that person's authorized representative. (Section\n831 1a@); regulation 18329(a) - copy enclosed.) However, the Commission may also decline to\nprovide written advice if it would be inappropriate or otherwise not in the public interest to do\nso. (Regulation I 8329(bX8XF).)\nFormal written advice is the application of law to a given set of facts provided by the\nrequestor and has the purpose of conferring immunity to the requestor. (Section 831 14;\nregulation 18329b)O).) After a careful review of the facts you submitted, we decline to provide\nwritten advice to you at this time. The same or very similar issues are currently the subject of a\npending investigation by the Enforcement Division. Therefore, it would be inappropriate for the\nCommission to provide advice on this matter while the enforcanent investigation is still pending.\nOur decision is not a determination of the questions posed in your request. ln addition,\nnothing in the Act prevents an official from seeking legal advice from you orprivate counsel,\nduringour investigation. If the Enforcement Division resolves'the matter with a finding that no\nviolation has occurred, you may resubmit your request for advice at that time.\nl. GovemmentCodesections8l000-gl0l4.Commissionregulationsappearattitle2,sectionslsl0g*\n18997, of the California Code of Regulations.\n\n\nt\n(\nAdvice File No. W-04-250\nPage No. 2\nIf you have any questions, please contact the commission at (916) 322-s660.\nSincerely\nLuisa Menchaca\nLegal Division\nJ\nEnclosure\nwJLjg\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2005-02-08",
+    "date_raw": "February 8,2005",
+    "requestor_name": "Pfanler",
+    "requestor_title": "City Attorney",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "After a careful review of the facts you submitted, we decline to provide written advice to you at this time. The same or very similar issues are currently the subject of a pending investigation by the Enforcement Division. Therefore, it would be inappropriate for the Commission to provide advice on this matter while the enforcement investigation is still pending.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether South Pasadena City Councilmember David Margrave complies with the conflict-of-interest provisions of the Political Reform Act.",
+    "conclusion_synthetic": "The FPPC declines to provide written advice because the same or similar issues are the subject of a pending Enforcement Division investigation, making it inappropriate to advise at this time. The requestor may resubmit the request after the investigation is resolved.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is a declination letter. No formal QUESTION or CONCLUSION sections with explicit headers are present, but the substance of the request and the declination reasoning are clearly stated in the body text. File number W-04-250 indicates this is a written advice request file."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:34:16.794409Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether South Pasadena City Councilmember David Margrave complies with the conflict-of-interest provisions of the Political Reform Act.\n\nCONCLUSION: After a careful review of the facts you submitted, we decline to provide written advice to you at this time. The same or very similar issues are currently the subject of a pending investigation by the Enforcement Division. Therefore, it would be inappropriate for the Commission to provide advice on this matter while the enforcement investigation is still pending.",
+    "qa_source": "mixed",
+    "first_500_words": "I t Re: Fern Polrrrcal PnacrrcEs CoulrrssroN 428 J Street r Suite 620 o Sacramento, CA 95814-2329 (916) 322-5660 r Fax (916) 322-0886 February 8,2005 Stephen P. Pfanler, City Attorney Bannan, Green, Frank &Terzian,LLP 555 South Flower Street, Suite 2700 Los Angeles, CA 90071 Your Request for Advice Our File No. W-04-250 Dear Mr. Pfanler: This letter is in response to your request for advice regarding South Pasadena City Councilmember David Margrave on the conflict-of-interest provisions of the Political Reform Act (the \"Act').1 The Act requires the Commission to provide written advice to any person whose duties under the Act are in question or to that person's authorized representative. (Section 831 1a@); regulation 18329(a) - copy enclosed.) However, the Commission may also decline to provide written advice if it would be inappropriate or otherwise not in the public interest to do so. (Regulation I 8329(bX8XF).) Formal written advice is the application of law to a given set of facts provided by the requestor and has the purpose of conferring immunity to the requestor. (Section 831 14; regulation 18329b)O).) After a careful review of the facts you submitted, we decline to provide written advice to you at this time. The same or very similar issues are currently the subject of a pending investigation by the Enforcement Division. Therefore, it would be inappropriate for the Commission to provide advice on this matter while the enforcanent investigation is still pending. Our decision is not a determination of the questions posed in your request. ln addition, nothing in the Act prevents an official from seeking legal advice from you orprivate counsel, duringour investigation. If the Enforcement Division resolves'the matter with a finding that no violation has occurred, you may resubmit your request for advice at that time. l. GovemmentCodesections8l000-gl0l4.Commissionregulationsappearattitle2,sectionslsl0g* 18997, of the California Code of Regulations. t ( Advice File No. W-04-250 Page No. 2 If you have any questions, please contact the commission at (916) 322-s660. Sincerely Luisa Menchaca Legal Division J Enclosure wJLjg",
+    "summary": "The FPPC declined to provide written advice regarding South Pasadena City Councilmember David Margrave's compliance with conflict-of-interest provisions because the same issues are under active investigation by the Enforcement Division."
+  }
+}

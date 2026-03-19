@@ -1,0 +1,74 @@
+{
+  "id": "79-141",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-141.PDF",
+  "pdf_sha256": "76f496b09e5ee97608812556cbf85f5e016d29c803068ba48ecac0ab08e64fc2",
+  "local_pdf_path": "raw_pdfs/1979/79-141.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1979 Advice Letter # 79-141",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:26:17",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=13"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-25T22:49:27.703057Z",
+    "page_count": 2,
+    "word_count": 337,
+    "char_count": 2264,
+    "quality_score": 0.8935587484430683,
+    "olmocr_cost": 0.00513248,
+    "native_word_count": 2,
+    "haiku_cost": 0.004808
+  },
+  "content": {
+    "full_text": "State of California\n\nMemorandum\n\nTo : File                                          Date : May 4, 1979\n\n                                                            m-79-141\n\nFrom : FAIR POLITICAL PRACTICES COMMISSION\n        Dwight Dickerson\n\nSubject: Repayment of Bank Loans as Gross Receipts\n\n        The staff during its consideration of SB1144 concluded\nat its April 16, 1979, opinion request meeting that gross\nreceipts included the payment of interest on a loan. How-\never, repayment of the principal is not a gross receipt\nwithin the meaning of Government Code Section 82707(b)(2).\n\n        The staff, after making this determination regarding\ngross receipts, went on record opposing SB1144 authored by\nSenator Ayala. Senator Ayala's bill would exclude from the\ndisclosure requirements of the Act the reporting of bank\ncustomers pursuant to 87207(b)(2).\n\n\nDED:mfa\n\nState of California\n\nMemorandum\n\nTo : Opinion Request Meeting Participants          Date :April 13, 1979\n\n\nFrom : FAIR POLITICAL PRACTICES COMMISSION\n       Dwight Dickerson\n\nSubject: SB 1144 - Proposed amendment to definition of income\n\n\n     SB 1144 would exclude from the definition of income an\nindividual's pro rata share of income of any bank or other\nfinancial institution in which the individual has a 10%\ninterest or greater. The practical effect of the legislation\nis to make transaction between a bank, in which a public\nofficial has a significant ownership interest (10% or greater),\nand the bank's customer unreportable. In addition, the bank's\ncustomer would not be a source of income to the official for\ndisqualification purposes. Presently, the Act provides that\na public official, with a 10% interest or greater in a bank,\nmust file a bank customer, if the official's pro\nrata share of the gross receipts is $10,000 or more.\n\n     It is current Commission policy that deposits (savings\nand checking accounts) are not gross receipts and individuals\nwho only maintain accounts need not be reported. I have\nreviewed a sample of bank customers who repay loans to banks\nare bank customers. If the filer's pro rata share of the\nrepayment is $10,000 or more, the customer's name should be\ndisclosed. I suspect that this advice was the impetus for\nthis proposed legislation.\n\nDED:nrw",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1979-05-04",
+    "date_raw": "May 4, 1979",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "The staff during its consideration of SB1144 concluded at its April 16, 1979, opinion request meeting that gross receipts included the payment of interest on a loan. However, repayment of the principal is not a gross receipt within the meaning of Government Code Section 87207(b)(2).",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether repayment of bank loan principal constitutes gross receipts requiring disclosure under Government Code Section 87207(b)(2), and whether SB 1144's proposed exclusion for bank customers is appropriate.",
+    "conclusion_synthetic": "FPPC staff concluded that interest payments on loans constitute gross receipts, but principal repayments do not qualify as gross receipts under the statute. The staff opposed SB 1144 as it would improperly exclude bank customer transactions from disclosure requirements.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document comprises two related memoranda (May 4 and April 13, 1979). No formal Q&C sections with headers, but clear opinion is stated regarding loan principal/interest treatment. Second memo provides context for the staff position on SB 1144."
+  },
+  "citations": {
+    "government_code": [
+      "87207(b)(2)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T16:49:43.851799Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether repayment of bank loan principal constitutes gross receipts requiring disclosure under Government Code Section 87207(b)(2), and whether SB 1144's proposed exclusion for bank customers is appropriate.\n\nCONCLUSION: The staff during its consideration of SB1144 concluded at its April 16, 1979, opinion request meeting that gross receipts included the payment of interest on a loan. However, repayment of the principal is not a gross receipt within the meaning of Government Code Section 87207(b)(2).",
+    "qa_source": "mixed",
+    "first_500_words": "**Memorandum** To: File Date: May 4, 1979 From: FAIR POLITICAL PRACTICES COMMISSION Dwight Dickerson Subject: Repayment of Bank Loans as Gross Receipts The staff during its consideration of SB1144 concluded at its April 16, 1979, opinion request meeting that gross receipts included the payment of interest on a loan. However, repayment of the principal is not a gross receipt within the meaning of Government Code Section 87207(b)(2). The staff, after making this determination regarding gross receipts, went on record opposing SB1144 authored by Senator Ayala. Senator Ayala's bill would exclude from the disclosure requirements of the Act the reporting of bank customers pursuant to 87207(b)(2). DED:mfa **State of California** **Memorandum** To: Opinion Request Meeting Participants Date: April 13, 1979 From: FAIR POLITICAL PRACTICES COMMISSION Dwight Dickerson Subject: SB 1144 - Proposed amendment to definition of income SB 1144 would exclude from the definition of income an individual's pro rata share of income of any bank or other financial institution in which the individual has a 10% interest or greater. The practical effect of the legislation is to make transaction between a bank, in which a public official has a significant ownership interest (10% or greater), and the bank's customer unreportable. In addition, the bank's customer would not be a source of income to the official for disqualification purposes. Presently, the Act provides that a public official, with a 10% interest or greater in a bank, must list the name of a bank customer, if the official's pro rata share of the gross receipts is $10,000 or more. It is current Commission policy that deposits (savings and checking accounts) are not gross receipts and individuals who only maintain accounts need not be reported. I have rendered advice saying that people who repay loans to banks are bank customers. If the filer's pro rata share of the repayments is $10,000 or more, the customer's name should be disclosed. I suspect that this advice was the impetus for this proposed legislation. DED:nrw",
+    "summary": "This internal FPPC memorandum from May 1979 addresses the treatment of bank loan repayments as gross receipts under California's political practices disclosure law and discusses staff opposition to SB 1144, which would have excluded bank customer transactions from reportable income."
+  }
+}

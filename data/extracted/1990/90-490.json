@@ -1,0 +1,79 @@
+{
+  "id": "90-490",
+  "year": 1990,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1990/90-490.pdf",
+  "pdf_sha256": "388adea0bb25c36d1840555a5f9663d61dba04cdcb9e6ff3ecbe8aa7b4c2f4c6",
+  "local_pdf_path": "raw_pdfs/1990/90-490.pdf",
+  "source_metadata": {
+    "title_raw": "James, R. Year: 1990 Advice Letter # 90-490",
+    "tags": [
+      "1990",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:12:41",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1990&tagCount=1&page=91"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T17:09:30.481265Z",
+    "page_count": 2,
+    "word_count": 466,
+    "char_count": 3045,
+    "quality_score": 0.9729346667150949,
+    "olmocr_cost": 0.00525546,
+    "native_word_count": 492,
+    "haiku_cost": 0.005750400000000001
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\n\nSeptember 5, 1990\n\n\nJames R. Sutton\nNielsen, Merksamer, Hodgson,\nParrinello, & Mueller\n591 Redwood Highway, Ste. 4000\nMill Valley, CA 94991\n\n\n\n\nRE:  Your Request for\nInformal Assistance\nOur File No. I-90-490\n\n\nDear Mr. Sutton:\n\nYou have requested advice on behalf of a major donor\ncommittee concerning the campaign provisions of the political\nReform Act (\"the Act\").1/ Your request does not indicate that you\nare acting as an authorized representative of the major donor, nor\nis the major donor identified. Under these circumstances, we are\ntreating your request as one for informal assistance and are\nlimiting our assistance to an explanation, in general terms, of\nthe requirements of the Act. (Section 18329(c)(4).)2/\n\nQUESTION\n\nYou have asked if a corporate major donor who writes off an\nuncollectable loan to a campaign committee is making an additional\ncontribution to the committee, and if the transaction must be\nreported.\n\n1/     Government Code Sections 81000-91015. All statutory\nreferences are to the Government Code unless otherwise indicated.\nCommission regulations appear at 2 California Code of Regulations\nSection 18000, et seq. All references to regulations are to Title\n2, Division 6 of the California Code of Regulations.\n\n2/     Informal assistance does not provide the requestor with the\nimmunity provided by an opinion or formal written advice.\n(Government Code Section 83114; 2 Cal. Code of Regs. Sections\n18329(c)(3).)\n\n\n428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804-0807 • (916) 322-5660\n\nSutton, James R.\nPage 2\n\n\nCONCLUSION\n\nIf a major donor writes off a loan made to a campaign\ncommittee, it will be deemed to have forgiven the loan. A loan\nforgiveness is a contribution and, therefore, must be within the\ncontribution limits imposed by the Act.\n\nANALYSIS\n\nProposition 73 established limits on campaign contributions\nmade in any fiscal year: (1) by persons to candidates or\ncandidate-controlled committees (Section 85301), (2) by persons to\nother political committees or political parties (Section 85302),\nand (3) by political committees and political parties to\ncandidates or candidate-controlled committees (Section 85303).\n\nSections 82015 and 82025 include the \"forgiveness of a loan\"\nwhen defining \"contribution\" and \"expenditure,\" respectively.\nTherefore, a loan forgiveness must be cumulated with other\ncontributions made during a calendar year for purposes of\ndetermining if an individual or entity has qualified as a major\ndonor and for purposes of calculating the applicable contribution\nlimits. Pursuant to Sections 85301 and 85302, the major donor\ncommittee can forgive up to $1,000 per fiscal year if the loan was\nmade to a candidate, and up to $2,500 per fiscal year if the loan\nwas made to a political committee, broad based political\ncommittee, or a political party.\n\nIf you have additional questions, please contact me at (916)\n322-5662.\n\nSincerely,\n\nScott Hallabrin\nActing General Counsel\n\nBy: Wayne P. Imberi\nPolitical Reform Consultant",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1990-09-05",
+    "date_raw": "September 5, 1990",
+    "requestor_name": "Sutton",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "informal_advice"
+  },
+  "sections": {
+    "question": "You have asked if a corporate major donor who writes off an uncollectable loan to a campaign committee is making an additional contribution to the committee, and if the transaction must be reported.\n\n1, et seq. All references to regulations are to Title 2, Division 6 of the California Code of Regulations.\n\n2/ Informal assistance does not provide the requestor with the immunity provided by an opinion or formal written advice. (Government Code Section 83114; 2 Cal. Code of Regs. Sections 18329(c)(3).)",
+    "conclusion": "If a major donor writes off a loan made to a campaign committee, it will be deemed to have forgiven the loan. A loan forgiveness is a contribution and, therefore, must be within the contribution limits imposed by the Act.",
+    "facts": null,
+    "analysis": "Proposition 73 established limits on campaign contributions made in any fiscal year: (1) by persons to candidates or candidate-controlled committees (Section 85301), (2) by persons to other political committees or political parties (Section 85302), and (3) by political committees and political parties to candidates or candidate-controlled committees (Section 85303).\n\nSections 82015 and 82025 include the \"forgiveness of a loan\" when defining \"contribution\" and \"expenditure,\" respectively. Therefore, a loan forgiveness must be cumulated with other contributions made during a calendar year for purposes of determining if an individual or entity has qualified as a major donor and for purposes of calculating the applicable contribution limits. Pursuant to Sections 85301 and 85302, the major donor committee can forgive up to $1,000 per fiscal year if the loan was made to a candidate, and up to $2,500 per fiscal year if the loan was made to a political committee, broad based political committee, or a political party.",
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.85,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern"
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "82015",
+      "83114",
+      "85301",
+      "85302",
+      "85303"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.6666666666666666,
+    "classified_at": "2026-02-19T21:45:56.796720Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: You have asked if a corporate major donor who writes off an uncollectable loan to a campaign committee is making an additional contribution to the committee, and if the transaction must be reported.\n\n1, et seq. All references to regulations are to Title 2, Division 6 of the California Code of Regulations.\n\n2/ Informal assistance does not provide the requestor with the immunity provided by an opinion or formal written advice. (Government Code Section 83114; 2 Cal. Code of Regs. Sections 18329(c)(3).)\n\nCONCLUSION: If a major donor writes off a loan made to a campaign committee, it will be deemed to have forgiven the loan. A loan forgiveness is a contribution and, therefore, must be within the contribution limits imposed by the Act.",
+    "qa_source": "extracted",
+    "first_500_words": "**California Fair Political Practices Commission** September 5, 1990 James R. Sutton Nielsen, Merksamer, Hodgson, Parrinello, & Mueller 591 Redwood Highway, Ste. 4000 Mill Valley, CA 94991 RE: Your Request for Informal Assistance Our File No. I-90-490 Dear Mr. Sutton: You have requested advice on behalf of a major donor committee concerning the campaign provisions of the Political Reform Act (\"the Act\").1/ Your request does not indicate that you are acting as an authorized representative of the major donor, nor is the major donor identified. Under these circumstances, we are treating your request as one for informal assistance and are limiting our assistance to an explanation, in general terms, of the requirements of the Act. (Section 18329(c)(4).)2/ QUESTION You have asked if a corporate major donor who writes off an uncollectable loan to a campaign committee is making an additional contribution to the committee, and if the transaction must be reported. 1/ Government Code Sections 81000-91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations Section 18000, et seq. All references to regulations are to Title 2, Division 6 of the California Code of Regulations. 2/ Informal assistance does not provide the requestor with the immunity provided by an opinion or formal written advice. (Government Code Section 83114; 2 Cal. Code of Regs. Sections 18329(c)(3).) CONCLUSION If a major donor writes off a loan made to a campaign committee, it will be deemed to have forgiven the loan. A loan forgiveness is a contribution and, therefore, must be within the contribution limits imposed by the Act. ANALYSIS Proposition 73 established limits on campaign contributions made in any fiscal year: (1) by persons to candidates or candidate-controlled committees (Section 85301), (2) by persons to other political committees or political parties (Section 85302), and (3) by political committees and political parties to candidates or candidate-controlled committees (Section 85303). Sections 82015 and 82025 include the \"forgiveness of a loan\" when defining \"contribution\" and \"expenditure,\" respectively. Therefore, a loan forgiveness must be cumulated with other contributions made during a calendar year for purposes of determining if an individual or entity has qualified as a major donor and for purposes of calculating the applicable contribution limits. Pursuant to Sections 85301 and 85302, the major donor committee can forgive up to $1,000 per fiscal year if the loan was made to a candidate, and up to $2,500 per fiscal year if the loan was made to a political committee, broad based political committee, or a political party. If you have additional questions, please contact me at (916) 322-5662. Sincerely, Scott Hallabrin Acting General Counsel By: Wayne P. Imberi Political Reform Consultant",
+    "summary": null
+  }
+}

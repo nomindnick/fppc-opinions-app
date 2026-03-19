@@ -1,0 +1,76 @@
+{
+  "id": "98-104",
+  "year": 1998,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/1998/98-104.pdf",
+  "pdf_sha256": "5627918dfade08323628266af645013dbd7089006eac934a29519dee73cbf9ad",
+  "local_pdf_path": "raw_pdfs/1998/98-104.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 1998 Advice Letter # 98-104",
+    "tags": [
+      "1998",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:45:59",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1998&tagCount=1&page=9"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:43.500406Z",
+    "page_count": 1,
+    "word_count": 194,
+    "char_count": 1274,
+    "quality_score": 0.585,
+    "olmocr_cost": null,
+    "native_word_count": 194
+  },
+  "content": {
+    "full_text": "FAIR POLITICAL PRACTICES COM1VIISSION\nP.O. Box 807\n• 428 J Street\nSacramento. CA 95812-0807\n(916)322-5660\n• Fax(916)322-0886\nApril21, 1998\nKen G. Mistier\n255 Aldergien Drive\nDixon, California 95620\nRe: Your Request for Advice\nOur File No. A-98-104\nDear Mr. Mistier:\nThis letter is in response to your request for advice regarding your ability to participate in\na small business loan program. After reading your advice request and speaking to you on the\ntelephone it is clear that you are seeking advice regarding Government Code Section 1090. The\nCommission is charged with the implementation and interpretation of the Political Reform Act\n(the “Act”).\n1 Government Code Section 1090 is not included in the Act. Therefore, we cannot\nprovide you advice regarding Government Code Section 1090. Please contact the Attorney\nGeneral’s office at 1-800-952-5225 for advice regarding Government Code Section 1090.\nIf you have any other questions regarding this matter, please contact me at (916) 322-\n5660.\nSincerely,\nSteven G. Churchweil\nGeneral Counsel\nBy:\nMarte Castaflos\nSGC:MC:tls\nStaff Counsel, Legal Division\nGovernment Code sections 81000\n- 91014. Commission regulations appear at title 2, sections 18109\n-\n18995, of the California Code of Regulations.\nL\\Advice LtTs\\98 104\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1998-04-21",
+    "date_raw": "April21, 1998",
+    "requestor_name": "Mistier",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "Government Code Section 1090 is not included in the Political Reform Act, and therefore the FPPC cannot provide advice on this matter. The requestor should contact the Attorney General's office at 1-800-952-5225 for guidance on Government Code Section 1090.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requestor asked for FPPC advice regarding his ability to participate in a small business loan program, specifically regarding Government Code Section 1090.",
+    "conclusion_synthetic": "The FPPC declined to provide advice because Government Code Section 1090 falls outside the Political Reform Act, which the Commission administers. The requestor was directed to the Attorney General's office for assistance with this matter.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is a declination letter with no QUESTION or CONCLUSION sections marked with headers. The legal question and FPPC's reasoning were extracted from the body text. The document clearly states FPPC lacks jurisdiction over the issue presented."
+  },
+  "citations": {
+    "government_code": [
+      "1090",
+      "81000"
+    ],
+    "regulations": [
+      "18109"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:34:43.500406Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The requestor asked for FPPC advice regarding his ability to participate in a small business loan program, specifically regarding Government Code Section 1090.\n\nCONCLUSION: Government Code Section 1090 is not included in the Political Reform Act, and therefore the FPPC cannot provide advice on this matter. The requestor should contact the Attorney General's office at 1-800-952-5225 for guidance on Government Code Section 1090.",
+    "qa_source": "mixed",
+    "first_500_words": "FAIR POLITICAL PRACTICES COM1VIISSION P.O. Box 807 • 428 J Street Sacramento. CA 95812-0807 (916)322-5660 • Fax(916)322-0886 April21, 1998 Ken G. Mistier 255 Aldergien Drive Dixon, California 95620 Re: Your Request for Advice Our File No. A-98-104 Dear Mr. Mistier: This letter is in response to your request for advice regarding your ability to participate in a small business loan program. After reading your advice request and speaking to you on the telephone it is clear that you are seeking advice regarding Government Code Section 1090. The Commission is charged with the implementation and interpretation of the Political Reform Act (the “Act”). 1 Government Code Section 1090 is not included in the Act. Therefore, we cannot provide you advice regarding Government Code Section 1090. Please contact the Attorney General’s office at 1-800-952-5225 for advice regarding Government Code Section 1090. If you have any other questions regarding this matter, please contact me at (916) 322- 5660. Sincerely, Steven G. Churchweil General Counsel By: Marte Castaflos SGC:MC:tls Staff Counsel, Legal Division Government Code sections 81000 - 91014. Commission regulations appear at title 2, sections 18109 - 18995, of the California Code of Regulations. L\\Advice LtTs\\98 104",
+    "summary": "The FPPC declined an advice request from Ken G. Mistier regarding Government Code Section 1090 and small business loan program participation, as Section 1090 is not within the Political Reform Act's scope. The requestor was referred to the Attorney General's office for appropriate guidance."
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "82A032",
+  "year": 1982,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1982/82A032.PDF",
+  "pdf_sha256": "91dba2de03cc9efd1b72522d333d39ff397af427dfe48516b9af9aea707802c3",
+  "local_pdf_path": "raw_pdfs/1982/82A032.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1982 Advice Letter # 82A032",
+    "tags": [
+      "1982",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:30:23",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1982&tagCount=1&page=11"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T01:18:59.197619Z",
+    "page_count": 2,
+    "word_count": 447,
+    "char_count": 3015,
+    "quality_score": 0.9207532378747921,
+    "olmocr_cost": 0.00517118,
+    "native_word_count": 4,
+    "haiku_cost": 0.005508
+  },
+  "content": {
+    "full_text": "State of California\nFair Political Practices Commission\nP.O. BOX 807 • SACRAMENTO, 95804 • • • 1100 K STREET BUILDING, SACRAMENTO, 95814\nTechnical Assistance • • Administration • • Executive/Legal • • Enforcement • • Statements of Economic Interest\n(916) 322-5660 322-5660 322-3901 332-6441 322-6444\n\nFebruary 22, 1982\n\nMr. Francis LaSage\n2115 E. Yosemite Avenue\nEscalon, CA 95320\n\nDear Mr. LaSage:\n\nThank you for your telephone call requesting advice\nfrom our office. As you stated to me, you are planning to\nrun for a City Council seat. You are currently a volunteer\nreserve police officer for the City and your wife is employed\nby the City as a clerk typist. Your question is whether the\nPolitical Reform Act would prohibit you from running for\nthis position.\n\nThe Political Reform Act does not prohibit anyone from\nrunning for office, rather, it deals with decision-making by\nofficeholders. If you are elected to the council seat, you\nwill be subject to the disclosure and disqualification pro-\nvisions of the Act.\n\nWith respect to the disqualification provisions, a\npublic official is forbidden from making, or participating\nin the making of, or in any way attempting to use his official\nposition to influence a governmental decision in which he\nknows or has reason to know he has a financial interest\n(Government Code Section 87100). A copy enclosed). An official\nhas a financial interest within the meaning of Section 87100\nif it is reasonably foreseeable that the decision will have\na material financial effect on: Any source of income\n(Section 87103(c)). Under the Act, \"income\" includes an\nindividual's community property interest in his spouse's\nincome (Section 82030(a)).\n\n1/ All statutory references made are to the Government\nCode unless otherwise noted.\n\n2/ See the enclosed copy of Section 87103 for other\ntypes of specified interests.\n\nMr. Francis LaSage\nFebruary 22, 1982\nPage Two\n\n\n     At first glance, it would appear that if you became a\nCity Councilmember you would have to abstain on any votes\nconcerning your wife's salary.  Section 82030(b)(2), however,\nalters the outcome.  This section provides an exception\nwhich states, \"(b) Income ... does not include ... (2)\nSalary ... received from a ... local ... government agency....\"\nTherefore, your wife's wages are exempt from the definition\nof income and you have no financial interest in decisions\naffecting it.\n\n     With respect to your job as a volunteer police reserve\nofficer, you receive no income and, thus, have no financial\ninterest which would require you to abstain from participating\nin decisions affecting that position or the police department.\n\n     If you have any additional questions, please feel free\nto call me at 916/322-5901.\n\n                                        Very truly yours,\n\n\n                                        [signature]\n                                        Janis Shank McLean\n                                        Counsel\n                                        Legal Division\n\nJSM:km\nEnclosure",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1982-02-22",
+    "date_raw": "February 22, 1982",
+    "requestor_name": "La",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether the Political Reform Act prohibits a volunteer reserve police officer whose spouse is employed by the city as a clerk typist from running for a City Council seat, and what disclosure and disqualification obligations would apply if elected.",
+    "conclusion_synthetic": "The Political Reform Act does not prohibit running for office. If elected, the person would be subject to disclosure and disqualification provisions, but would not have to abstain from votes concerning the spouse's salary because Government Code Section 82030(b)(2) exempts local government agency salaries from the definition of income, and the volunteer police position generates no income.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: No explicit 'QUESTION' or 'CONCLUSION' section headers, but document follows standard advice letter format with question stated in opening paragraphs and conclusion in response text. Footnotes and statutory references included. Enclosures referenced but not provided in text."
+  },
+  "citations": {
+    "government_code": [
+      "82030(a)",
+      "82030(b)(2)",
+      "87100",
+      "87103",
+      "87103(c)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T16:28:51.743417Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether the Political Reform Act prohibits a volunteer reserve police officer whose spouse is employed by the city as a clerk typist from running for a City Council seat, and what disclosure and disqualification obligations would apply if elected.\n\nCONCLUSION: The Political Reform Act does not prohibit running for office. If elected, the person would be subject to disclosure and disqualification provisions, but would not have to abstain from votes concerning the spouse's salary because Government Code Section 82030(b)(2) exempts local government agency salaries from the definition of income, and the volunteer police position generates no income.",
+    "qa_source": "synthetic",
+    "first_500_words": "February 22, 1982 Mr. Francis LaSage 2115 E. Yosemite Avenue Escalon, CA 95320 Dear Mr. LaSage: Thank you for your telephone call requesting advice from our office. As you stated to me, you are planning to run for a City Council seat. You are currently a volunteer reserve police officer for the City and your wife is employed by the City as a clerk typist. Your question is whether the Political Reform Act would prohibit you from running for this position. The Political Reform Act does not prohibit anyone from running for office, rather, it deals with decision-making by officeholders. If you are elected to the council seat, you will be subject to the disclosure and disqualification provisions of the Act. With respect to the disqualification provisions, a public official is forbidden from making, or participating in the making of, or in any way attempting to use his official position to influence a governmental decision in which he knows or has reason to know he has a financial interest (Government Code Section 87100, copy enclosed). An official has a financial interest within the meaning of Section 87100 if it is reasonably foreseeable that the decision will have a material financial effect on: Any source of income ... (Section 87103(c)). Under the Act, \"income\" includes an individual's community property interest in his spouse's income (Section 82030(a)). 1/ All statutory references made are to the Government Code unless otherwise noted. 2/ See the enclosed copy of Section 87103 for other types of specified interests. At first glance, it would appear that if you became a City Councilmember you would have to abstain from any votes concerning your wife's salary. Section 82030(b)(2), however, alters the outcome. This section provides an exception which states, \"(b) Income ... does not include .... (2) Salary ... received from a ... local ... government agency....\" Therefore, your wife's wages are exempt from the definition of income and you have no financial interest in decisions affecting it. With respect to your job as a volunteer police reserve officer, you receive no income and, thus, have no financial interest which would require you to abstain from participating in decisions affecting that position or the police department. If you have any additional questions, please feel free to call me at 916/322-5901. Very truly yours, Janis Shank McLean Counsel Legal Division JSM:km Enclosure",
+    "summary": "FPPC advises that the Political Reform Act does not prohibit candidacy for City Council, but explains the disqualification provisions that would apply if elected, clarifying that the candidate would not face financial interest conflicts regarding either the spouse's city employment or the volunteer police position."
+  }
+}

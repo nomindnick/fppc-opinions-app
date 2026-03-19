@@ -1,0 +1,71 @@
+{
+  "id": "UNK-91-10246",
+  "year": 1991,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1991/91047.pdf",
+  "pdf_sha256": "07656f2a16e44b10a23d0cce2ac2f068996155d3d83324acfa7d7ce88810ee4f",
+  "local_pdf_path": "raw_pdfs/1991/91047.pdf",
+  "source_metadata": {
+    "title_raw": "1991-91047",
+    "tags": [
+      "1991",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:18:34",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1991&tagCount=1&page=39"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T20:39:49.649427Z",
+    "page_count": 1,
+    "word_count": 109,
+    "char_count": 642,
+    "quality_score": 0.8258337628591772,
+    "olmocr_cost": 0.00248024,
+    "native_word_count": 117
+  },
+  "content": {
+    "full_text": "January 16, 1991\n\nPeggy Borging,\n\nMy name is Lenny Gallegos. I am a Sierra County Supervisor for District 5. I would like an official opinion concerning my employment as a part time on call Ambulance E.M.T. for the Sierra Valley District Hospital, which also has a management agreement with Sierra County. We have a Board of Supervisors meeting on January 22. And subsequent meetings will also have Hospital matters agendized. I would appreciate an opinion as soon as possible. If you have any further questions please call me at (916) 993-4009. I have also enclosed a copy of my last pay check receipt from S.V.D.H.\n\nThank you\nLenny Gallegos",
+    "full_text_markdown": "January 16, 1991\n\nPeggy Borging,\n\nMy name is Lenny Gallegos. I am a Sierra County Supervisor for District 5. I would like an official opinion concerning my employment as a part time on call Ambulance E.M.T. for the Sierra Valley District Hospital, which also has a management agreement with Sierra County. We have a Board of Supervisors meeting on January 22. And subsequent meetings will also have Hospital matters agendized. I would appreciate an opinion as soon as possible. If you have any further questions please call me at (916) 993-4009. I have also enclosed a copy of my last pay check receipt from S.V.D.H.\n\nThank you\nLenny Gallegos"
+  },
+  "parsed": {
+    "date": "1991-01-16",
+    "date_raw": "January 16, 1991",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T20:39:49.649427Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "January 16, 1991 Peggy Borging, My name is Lenny Gallegos. I am a Sierra County Supervisor for District 5. I would like an official opinion concerning my employment as a part time on call Ambulance E.M.T. for the Sierra Valley District Hospital, which also has a management agreement with Sierra County. We have a Board of Supervisors meeting on January 22. And subsequent meetings will also have Hospital matters agendized. I would appreciate an opinion as soon as possible. If you have any further questions please call me at (916) 993-4009. I have also enclosed a copy of my last pay check receipt from S.V.D.H. Thank you Lenny Gallegos",
+    "qa_source": "extracted",
+    "first_500_words": "January 16, 1991 Peggy Borging, My name is Lenny Gallegos. I am a Sierra County Supervisor for District 5. I would like an official opinion concerning my employment as a part time on call Ambulance E.M.T. for the Sierra Valley District Hospital, which also has a management agreement with Sierra County. We have a Board of Supervisors meeting on January 22. And subsequent meetings will also have Hospital matters agendized. I would appreciate an opinion as soon as possible. If you have any further questions please call me at (916) 993-4009. I have also enclosed a copy of my last pay check receipt from S.V.D.H. Thank you Lenny Gallegos",
+    "summary": null
+  }
+}

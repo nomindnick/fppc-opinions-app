@@ -1,0 +1,71 @@
+{
+  "id": "83A173",
+  "year": 1983,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1983/83A173.PDF",
+  "pdf_sha256": "1ddf3c74390da6964db4fbc2dd2378bd28e7c7faf19da7cc02b6b22849812ba6",
+  "local_pdf_path": "raw_pdfs/1983/83A173.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1983 Advice Letter # 83A173",
+    "tags": [
+      "1983",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:32:51",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1983&tagCount=1&page=19"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:53.311393Z",
+    "page_count": 1,
+    "word_count": 104,
+    "char_count": 575,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 104
+  },
+  "content": {
+    "full_text": "State of California \nMemorandum \nTo \n: File \nFrom \n: \nFAIR POLITICAL PRACTICES COMMISSION \nLynn Montgomery \nSubject: Gift of Club Membership \nDote :July 14, 1983 \nNo. M-8 3-173 \nAn official was given a Family membership to a swimming \nclub. \nIf the pass is only for the official and his family \nmembers then the value of the gift to him is the cost of a single \nmembership. \nThe rest of the value is a gift to the family. \nIf \nthe pass entitles him to bring any 5 people, then he must report \nthe entire cost of the pass because he exercises direction and \ncontrol over it. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1983-07-14",
+    "date_raw": "July 14, 1983",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether an official who receives a family membership to a swimming club must report the entire gift value or only the portion attributable to the official's personal use.",
+    "conclusion_synthetic": "If the pass is limited to the official and family members, only the cost of a single membership must be reported as a gift to the official; the remainder is a gift to family members. If the pass allows the official to bring any 5 people, the entire cost must be reported because the official exercises direction and control over it.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Internal FPPC memorandum format (To: File, From: Lynn Montgomery) rather than formal letter. No explicit QUESTION/CONCLUSION section headers; content presented as direct analysis. Document number M-83-173 indicates this is likely a file memorandum summarizing legal analysis rather than a formal advice letter."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:36:53.311393Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether an official who receives a family membership to a swimming club must report the entire gift value or only the portion attributable to the official's personal use.\n\nCONCLUSION: If the pass is limited to the official and family members, only the cost of a single membership must be reported as a gift to the official; the remainder is a gift to family members. If the pass allows the official to bring any 5 people, the entire cost must be reported because the official exercises direction and control over it.",
+    "qa_source": "synthetic",
+    "first_500_words": "State of California Memorandum To : File From : FAIR POLITICAL PRACTICES COMMISSION Lynn Montgomery Subject: Gift of Club Membership Dote :July 14, 1983 No. M-8 3-173 An official was given a Family membership to a swimming club. If the pass is only for the official and his family members then the value of the gift to him is the cost of a single membership. The rest of the value is a gift to the family. If the pass entitles him to bring any 5 people, then he must report the entire cost of the pass because he exercises direction and control over it.",
+    "summary": "An FPPC memorandum analyzing the gift reporting requirements for an official who received a family membership to a swimming club, distinguishing between restricted family-only access and discretionary access to bring any individuals."
+  }
+}

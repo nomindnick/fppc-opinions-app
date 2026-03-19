@@ -1,0 +1,71 @@
+{
+  "id": "78ADV-78-321",
+  "year": 1978,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1978/78ADV-78-321.PDF",
+  "pdf_sha256": "166dd5689e8396cad45485a339ed938437843df9e7a487356c7725baa86639b3",
+  "local_pdf_path": "raw_pdfs/1978/78ADV-78-321.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1978ADV Advice Letter # 78ADV-78-321",
+    "tags": [
+      "Advice Letter",
+      "1978"
+    ],
+    "scraped_at": "2026-01-31 15:23:29",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=9"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T00:05:29.035632Z",
+    "page_count": 1,
+    "word_count": 88,
+    "char_count": 575,
+    "quality_score": 0.7839700526217969,
+    "olmocr_cost": 0.0024854,
+    "native_word_count": 95
+  },
+  "content": {
+    "full_text": "State of California\n\nMemorandum\n\nTo: File\n\nDate: 2-1-78\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION\n        Gale Baker\n\nSubject: Telephone Advice\n\nJerry Seedbourg from Assemblyman Gary Hart's office (805/966-1766) called to ask if honoraria received by the Assemblyman would be reportable if given to a charity. Ted said that under 82030(b)(4), if the honoraria were given to a charity within 30 days after receipt and not claimed as a tax deduction, there would be no obligation to report it as income.\n\nHandwritten note: \"honoraria given to charity is not reportable income\"",
+    "full_text_markdown": "State of California\n\nMemorandum\n\nTo: File\n\nDate: 2-1-78\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION\n        Gale Baker\n\nSubject: Telephone Advice\n\nJerry Seedbourg from Assemblyman Gary Hart's office (805/966-1766) called to ask if honoraria received by the Assemblyman would be reportable if given to a charity. Ted said that under 82030(b)(4), if the honoraria were given to a charity within 30 days after receipt and not claimed as a tax deduction, there would be no obligation to report it as income.\n\nHandwritten note: \"honoraria given to charity is not reportable income\""
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-20T00:05:29.035632Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "State of California Memorandum To: File Date: 2-1-78 From: FAIR POLITICAL PRACTICES COMMISSION Gale Baker Subject: Telephone Advice Jerry Seedbourg from Assemblyman Gary Hart's office (805/966-1766) called to ask if honoraria received by the Assemblyman would be reportable if given to a charity. Ted said that under 82030(b)(4), if the honoraria were given to a charity within 30 days after receipt and not claimed as a tax deduction, there would be no obligation to report it as income. Handwritten note: \"honoraria given to charity is not reportable income\"",
+    "qa_source": "extracted",
+    "first_500_words": "State of California Memorandum To: File Date: 2-1-78 From: FAIR POLITICAL PRACTICES COMMISSION Gale Baker Subject: Telephone Advice Jerry Seedbourg from Assemblyman Gary Hart's office (805/966-1766) called to ask if honoraria received by the Assemblyman would be reportable if given to a charity. Ted said that under 82030(b)(4), if the honoraria were given to a charity within 30 days after receipt and not claimed as a tax deduction, there would be no obligation to report it as income. Handwritten note: \"honoraria given to charity is not reportable income\"",
+    "summary": null
+  }
+}

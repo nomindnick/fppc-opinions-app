@@ -1,0 +1,71 @@
+{
+  "id": "85196",
+  "year": 1985,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1985/fppc-advice/85196.PDF",
+  "pdf_sha256": "3e230d4c5101018d27b95a3f2352c09e16027af7920ff4ed0f65f35165f05a03",
+  "local_pdf_path": "raw_pdfs/1985/85196.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1985 Advice Letter # 85196",
+    "tags": [
+      "Advice Letter",
+      "1985"
+    ],
+    "scraped_at": "2026-01-31 15:36:13",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1985&tagCount=1&page=8"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T19:04:47.880814Z",
+    "page_count": 1,
+    "word_count": 196,
+    "char_count": 1172,
+    "quality_score": 0.8729561496870669,
+    "olmocr_cost": 0.00261698,
+    "native_word_count": 196
+  },
+  "content": {
+    "full_text": "TO: ADVICE REQUEST MEETING PARTICIPANTS\n\nTO: [ ] JEANNE   [ ] JAY   ( ) DAN\n[ ] LYNN   [ ] BARBARA   ( ) JOHN K\n[ ] ROGER   [ ] CARLA   ( ) MARY ANN\n[ ] HELEN   [ ] OTHER\n\nFROM: J. Pritchard\nDATE: 9/10/85\n\n[XX] TELEPHONE ADVICE - SEE BELOW\n[ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT\n(IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY)\n\nFILE LOCATION: 82015; 18215\n\nINCLUDE IN ADVICE PACKAGE: YES [ ] NO [x]\n\nCALLER Fred Lowell\nREPRESENTING Pillsbury, Madison & Sutro\nPHONE NUMBER:\n\nQUESTION: A legislator is invited to a campaign event. The legislator arranges transportation to the event in a corporation's airplane. How is the transportation reported?\n\nANSWER: The transportation is reported as an in-kind contribution to the legislator. Previously, we have advised that when a candidate or committee who is holding an event arranges transportation for guests, the transportation is an in-kind contribution to the candidate or committee holding the event. This situation, however, is different because the transportation is not provided at the behest of the candidate or committee holding the event, but rather at the behest of the candidate attending the event.",
+    "full_text_markdown": "TO: ADVICE REQUEST MEETING PARTICIPANTS\n\nTO: [ ] JEANNE   [ ] JAY   ( ) DAN\n[ ] LYNN   [ ] BARBARA   ( ) JOHN K\n[ ] ROGER   [ ] CARLA   ( ) MARY ANN\n[ ] HELEN   [ ] OTHER\n\nFROM: J. Pritchard\nDATE: 9/10/85\n\n[XX] TELEPHONE ADVICE - SEE BELOW\n[ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT\n(IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY)\n\nFILE LOCATION: 82015; 18215\n\nINCLUDE IN ADVICE PACKAGE: YES [ ] NO [x]\n\nCALLER Fred Lowell\nREPRESENTING Pillsbury, Madison & Sutro\nPHONE NUMBER:\n\nQUESTION: A legislator is invited to a campaign event. The legislator arranges transportation to the event in a corporation's airplane. How is the transportation reported?\n\nANSWER: The transportation is reported as an in-kind contribution to the legislator. Previously, we have advised that when a candidate or committee who is holding an event arranges transportation for guests, the transportation is an in-kind contribution to the candidate or committee holding the event. This situation, however, is different because the transportation is not provided at the behest of the candidate or committee holding the event, but rather at the behest of the candidate attending the event."
+  },
+  "parsed": {
+    "date": "1985-09-10",
+    "date_raw": "9/10/85",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "A legislator is invited to a campaign event. The legislator arranges transportation to the event in a corporation's airplane. How is the transportation reported?\n\nANSWER: The transportation is reported as an in-kind contribution to the legislator. Previously, we have advised that when a candidate or committee who is holding an event arranges transportation for guests, the transportation is an in-kind contribution to the candidate or committee holding the event. This situation, however, is different because the transportation is not provided at the behest of the candidate or committee holding the event, but rather at the behest of the candidate attending the event.",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.5499999999999999,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-20T19:04:47.880814Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: A legislator is invited to a campaign event. The legislator arranges transportation to the event in a corporation's airplane. How is the transportation reported?\n\nANSWER: The transportation is reported as an in-kind contribution to the legislator. Previously, we have advised that when a candidate or committee who is holding an event arranges transportation for guests, the transportation is an in-kind contribution to the candidate or committee holding the event. This situation, however, is different because the transportation is not provided at the behest of the candidate or committee holding the event, but rather at the behest of the candidate attending the event.",
+    "qa_source": "extracted",
+    "first_500_words": "TO: ADVICE REQUEST MEETING PARTICIPANTS TO: [ ] JEANNE [ ] JAY ( ) DAN [ ] LYNN [ ] BARBARA ( ) JOHN K [ ] ROGER [ ] CARLA ( ) MARY ANN [ ] HELEN [ ] OTHER FROM: J. Pritchard DATE: 9/10/85 [XX] TELEPHONE ADVICE - SEE BELOW [ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT (IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY) FILE LOCATION: 82015; 18215 INCLUDE IN ADVICE PACKAGE: YES [ ] NO [x] CALLER Fred Lowell REPRESENTING Pillsbury, Madison & Sutro PHONE NUMBER: QUESTION: A legislator is invited to a campaign event. The legislator arranges transportation to the event in a corporation's airplane. How is the transportation reported? ANSWER: The transportation is reported as an in-kind contribution to the legislator. Previously, we have advised that when a candidate or committee who is holding an event arranges transportation for guests, the transportation is an in-kind contribution to the candidate or committee holding the event. This situation, however, is different because the transportation is not provided at the behest of the candidate or committee holding the event, but rather at the behest of the candidate attending the event.",
+    "summary": null
+  }
+}

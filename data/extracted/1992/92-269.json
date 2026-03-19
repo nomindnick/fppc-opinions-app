@@ -1,0 +1,75 @@
+{
+  "id": "92-269",
+  "year": 1992,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1992/92-269.pdf",
+  "pdf_sha256": "c8cc83faf398d407d58fb2d48b9902c939abfa0699f0701409b44201b17e2d69",
+  "local_pdf_path": "raw_pdfs/1992/92-269.pdf",
+  "source_metadata": {
+    "title_raw": "Besler, Amy Year: 1992 Advice Letter # 92-269",
+    "tags": [
+      "Advice Letter",
+      "1992"
+    ],
+    "scraped_at": "2026-01-31 16:24:16",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1992&tagCount=1&page=20"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:13.207939Z",
+    "page_count": 2,
+    "word_count": 306,
+    "char_count": 1919,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 306
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\nMay 21,\n1992\nJanet Tracy\nCity Clerk\nCity of Sausalito\nP.O.\nBox 1279\nSausalito,\nCA\n94966\nRe:\nYour Request For Confirmation\nOf Telephone Advice\nOur File No.\nA-92-269\nDear Ms.\nTracy:\nYou have requested confirmation of telephone advice provided\nto you concerning the filing obligations of Sausalito City\nCouncilmember Amy Belser under the conflict of interest disclosure\nprovisions of the Political Reform Act.-/\nMs.\nBelser was a planning commissioner until April 21,\n1992,\nwhen she assumed her city council office.\nYou asked if Ms.\nBelser\nis required to file a leaving office statement as a former\nplanning commissioner and an assuming office statement as a newly\nelected city councilmember.\nSection 87205 states that a person who completes a term of an\noffice specified in Section 87200 and on the same day begins a\nterm of the same office or another such office of the same\njurisdiction is not deemed to assume office or leave office.\nTherefore,\nsince there was no break in service between the\ntime she held the office of planning commissioner and the time she\nwas elected to city council and both positions are listed in\nSection 87200,\nMs.\nBelser is not required to complete a leaving\noffice statement or an assuming office statement.\n1\n’Governinent Code Sections 81000-91015.\nAll statutory references\nare to the Government Code unless otherwise indicated.\nCommission\nregulations appear at\n2 California Code of Regulations Section\n18000, et .\nAll references to regulations are to Title 2,\nDivision\n6 of the California Code of Regulations.\n428J Street, Suite 800 •\nP.O. Box 807 • Sacramento CA 95804-0807 • (916)322-5660\n\n\nJanet Tracy\nA—92—269\nPage\n2\nIf I can be of further assistance, please contact me at\n(916)\n322—5662.\nSincerely,\nScott Hallabrin\nActing General Counsel\nC&QZQZ/’2%\nBy:\nColleen McGee\nPolitical Reform Consultant\nTechnical Assistance and\nAnalysis Division\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1992-05-21",
+    "date_raw": "May 21,\n1992",
+    "requestor_name": "Tracy",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "You asked if Ms. Belser is required to file a leaving office statement as a former planning commissioner and an assuming office statement as a newly elected city councilmember.",
+    "conclusion": "Since there was no break in service between the time she held the office of planning commissioner and the time she was elected to city council and both positions are listed in Section 87200, Ms. Belser is not required to complete a leaving office statement or an assuming office statement.",
+    "facts": null,
+    "analysis": "Division",
+    "question_synthetic": "Whether a person who transitions from planning commissioner to city councilmember on the same day must file leaving office and assuming office statements under the Political Reform Act.",
+    "conclusion_synthetic": "Under Government Code Section 87205, no filing statements are required because there was no break in service between the two offices on the same day, and both positions are specified offices under the disclosure provisions.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "Format: ocr; LLM: Clear advice letter with explicit question and conclusion sections. Document confirms prior telephone advice. File number A-92-269 matches document ID 92-269."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "87200",
+      "87205"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.6666666666666666,
+    "classified_at": "2026-02-06T18:35:13.207939Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: You asked if Ms. Belser is required to file a leaving office statement as a former planning commissioner and an assuming office statement as a newly elected city councilmember.\n\nCONCLUSION: Since there was no break in service between the time she held the office of planning commissioner and the time she was elected to city council and both positions are listed in Section 87200, Ms. Belser is not required to complete a leaving office statement or an assuming office statement.",
+    "qa_source": "mixed",
+    "first_500_words": "California Fair Political Practices Commission May 21, 1992 Janet Tracy City Clerk City of Sausalito P.O. Box 1279 Sausalito, CA 94966 Re: Your Request For Confirmation Of Telephone Advice Our File No. A-92-269 Dear Ms. Tracy: You have requested confirmation of telephone advice provided to you concerning the filing obligations of Sausalito City Councilmember Amy Belser under the conflict of interest disclosure provisions of the Political Reform Act.-/ Ms. Belser was a planning commissioner until April 21, 1992, when she assumed her city council office. You asked if Ms. Belser is required to file a leaving office statement as a former planning commissioner and an assuming office statement as a newly elected city councilmember. Section 87205 states that a person who completes a term of an office specified in Section 87200 and on the same day begins a term of the same office or another such office of the same jurisdiction is not deemed to assume office or leave office. Therefore, since there was no break in service between the time she held the office of planning commissioner and the time she was elected to city council and both positions are listed in Section 87200, Ms. Belser is not required to complete a leaving office statement or an assuming office statement. 1 ’Governinent Code Sections 81000-91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations Section 18000, et . All references to regulations are to Title 2, Division 6 of the California Code of Regulations. 428J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804-0807 • (916)322-5660 Janet Tracy A—92—269 Page 2 If I can be of further assistance, please contact me at (916) 322—5662. Sincerely, Scott Hallabrin Acting General Counsel C&QZQZ/’2% By: Colleen McGee Political Reform Consultant Technical Assistance and Analysis Division",
+    "summary": "FPPC confirms telephone advice that City Councilmember Amy Belser is not required to file leaving or assuming office statements when transitioning from planning commissioner to city council on the same day, as Section 87205 deems there to be no break in service."
+  }
+}

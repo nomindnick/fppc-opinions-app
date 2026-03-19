@@ -1,0 +1,76 @@
+{
+  "id": "92-597",
+  "year": 1992,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1992/92-597.pdf",
+  "pdf_sha256": "d5bf25a1b10aeed1d61f6bad72e364e900e4088b4049a0c046268874db14e1b1",
+  "local_pdf_path": "raw_pdfs/1992/92-597.pdf",
+  "source_metadata": {
+    "title_raw": "Fishburn, Diane Year: 1992 Advice Letter # 92-597",
+    "tags": [
+      "Advice Letter",
+      "1992"
+    ],
+    "scraped_at": "2026-01-31 16:27:20",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1992&tagCount=1&page=61"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:17.351076Z",
+    "page_count": 2,
+    "word_count": 280,
+    "char_count": 1837,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 280
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\nNovember 24,\n1992\nDiane\nM.\nFishburn\nOlson,\nConnelly,\nHagel,\nFong and Leidigh\nCapitol Bank Center\n300 Capitol Mall,\nSuite\n350\nSacramento,\nCA 95814\nRe:\nYour Request For Confirmation\nof Telephàne Advice\nOur File No.\n1-92-597\nDear Ms.\nFishburn:\nYou have requested confirmation of telephone advice provided\nto you concerning the campaign disclosure provisions of the\nPolitical Reform Act\n(the “Act”).1/\nBecause you did not provide\nthe identity of the person on whose behalf the assistance is being\nsought,\nwe are treating your letter as a request for informal\nassistance. 2/\nYour letter,\ndated October 26,\n1992, correctly summarizes\nmy\ntelephone advice that under the Political Reform Act, the sponsor\nof a statewide ballot measure committee which makes contributions\nto its sponsored committee during the late contribution period is\nnot required to file a late contribution report unless the sponsor\notherwise qualifies as a committee.\n(See Regulation 18419.)\n1/\nGovernment Code Sections 81000—91015.\nAll statutory\nreferences are to the Government Code unless otherwise indicated.\nCommission regulations appear at\n2 California Code of Regulations\nSection 18000,\net g.\nAll references to regulations are to Title\n2,\nDivision\n6 of the California Code of Regulations.\n2/\nInformal assistance does not provide the requestor with the\nimmunity provided by an opinion or formal written advice.\n(Government Code Section 83114;\n2 Cal.\nCode of Regs.\nSection\n18329(c) (3).)\n428 J Street, Suite 800\n•\nP.O. Box 807 • Sacramento CA 95804-0807 • (9l6)322-660\n\n\nDiane\nM.\nFishburn\nOur File No.\n1-92-597\nPage Two\nIf you have any questions regarding this matter, please\ncontact me at\n(916)\n322-5662.\nSincerely,\nAlice Hughes\nPolitical Reform Consultant\nTechnical Assistance and\nAnalysis Division\nAl!: ssa\nEnclosures\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1992-11-24",
+    "date_raw": "November 24,\n1992",
+    "requestor_name": "Fishburn",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "informal_advice"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "Your letter, dated October 26, 1992, correctly summarizes my telephone advice that under the Political Reform Act, the sponsor of a statewide ballot measure committee which makes contributions to its sponsored committee during the late contribution period is not required to file a late contribution report unless the sponsor otherwise qualifies as a committee. (See Regulation 18419.)",
+    "facts": null,
+    "analysis": "Division\nAl!: ssa\nEnclosures",
+    "question_synthetic": "Whether a sponsor of a statewide ballot measure committee must file a late contribution report when making contributions to its sponsored committee during the late contribution period.",
+    "conclusion_synthetic": "A statewide ballot measure committee sponsor is not required to file a late contribution report when making contributions to its sponsored committee during the late contribution period, unless the sponsor otherwise qualifies as a committee under Regulation 18419.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "Format: ocr; LLM: Document formatted as confirmation of prior telephone advice rather than response to formal written question. No distinct QUESTION section header present; question inferred from letter content. Informal advice provided without immunity protections. OCR quality good with minor formatting irregularities."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "83114"
+    ],
+    "regulations": [
+      "18419"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "gifts_honoraria",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:35:17.351076Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether a sponsor of a statewide ballot measure committee must file a late contribution report when making contributions to its sponsored committee during the late contribution period.\n\nCONCLUSION: Your letter, dated October 26, 1992, correctly summarizes my telephone advice that under the Political Reform Act, the sponsor of a statewide ballot measure committee which makes contributions to its sponsored committee during the late contribution period is not required to file a late contribution report unless the sponsor otherwise qualifies as a committee. (See Regulation 18419.)",
+    "qa_source": "mixed",
+    "first_500_words": "California Fair Political Practices Commission November 24, 1992 Diane M. Fishburn Olson, Connelly, Hagel, Fong and Leidigh Capitol Bank Center 300 Capitol Mall, Suite 350 Sacramento, CA 95814 Re: Your Request For Confirmation of Telephàne Advice Our File No. 1-92-597 Dear Ms. Fishburn: You have requested confirmation of telephone advice provided to you concerning the campaign disclosure provisions of the Political Reform Act (the “Act”).1/ Because you did not provide the identity of the person on whose behalf the assistance is being sought, we are treating your letter as a request for informal assistance. 2/ Your letter, dated October 26, 1992, correctly summarizes my telephone advice that under the Political Reform Act, the sponsor of a statewide ballot measure committee which makes contributions to its sponsored committee during the late contribution period is not required to file a late contribution report unless the sponsor otherwise qualifies as a committee. (See Regulation 18419.) 1/ Government Code Sections 81000—91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations Section 18000, et g. All references to regulations are to Title 2, Division 6 of the California Code of Regulations. 2/ Informal assistance does not provide the requestor with the immunity provided by an opinion or formal written advice. (Government Code Section 83114; 2 Cal. Code of Regs. Section 18329(c) (3).) 428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804-0807 • (9l6)322-660 Diane M. Fishburn Our File No. 1-92-597 Page Two If you have any questions regarding this matter, please contact me at (916) 322-5662. Sincerely, Alice Hughes Political Reform Consultant Technical Assistance and Analysis Division Al!: ssa Enclosures",
+    "summary": "FPPC confirmation of telephone advice regarding campaign disclosure requirements for statewide ballot measure committee sponsors making contributions during the late contribution period. The sponsor is not required to file a late contribution report unless it otherwise qualifies as a committee."
+  }
+}

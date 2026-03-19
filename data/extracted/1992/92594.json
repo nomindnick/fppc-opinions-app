@@ -1,0 +1,74 @@
+{
+  "id": "92594",
+  "year": 1992,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1992/92594.pdf",
+  "pdf_sha256": "fa5e4777d719ff89758f86baed302481094ed99e67d9157464035e142347300e",
+  "local_pdf_path": "raw_pdfs/1992/92594.pdf",
+  "source_metadata": {
+    "title_raw": "Hunter, Malcolm Year: 1992 Advice Letter # 92594",
+    "tags": [
+      "Advice Letter",
+      "1992"
+    ],
+    "scraped_at": "2026-01-31 16:29:56",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1992&tagCount=1&page=95"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:20.161985Z",
+    "page_count": 1,
+    "word_count": 226,
+    "char_count": 1453,
+    "quality_score": 0.635,
+    "olmocr_cost": null,
+    "native_word_count": 226
+  },
+  "content": {
+    "full_text": "CITY OF R.ICI{I\\4ONW 1,,\nCity Hall Room 330\n2600 Barrett Avenue. Post Ott-ice Box 4046\nRichnrond. California 94804\n(510) 620-6_509 . FAX (5r0) 620-6518\nOctober 23, L992\nMr. Scott Hallabrin, General Counsel\nFair Political- Practices Commissi-on\n428 'J* Street, Suite 800\nSacramento, CA 95814\nDear Mr. Hal-Iabrin:\nOn behalf of Richmond City Council-member LaVonne Niccolls,\nhereby request an opinion from the Fair Political Practices\nCommission concerning whether and under what circumstances City\nCouncilmember Niccolls will have a conflict of interest based\nupon the following facts:\nThe spouse of City Councilmember Niccolls is the\ntrustee of two trusts, one of which is revocable (at\nthe discretion of the beneficiary) and the other is\nirrevocable. \nThe beneficiary of the trusts is the\nspouse's mother, and upon her death the t.rust proceeds\nwill go the spouse and the spouse,s brother. \nThe trust\ncontains stocks of numerous companies, some of which\nare Fortune 500 companies, and the City Councilmember, s\nspouse has the authority to manage the assets of the\ntrusts. \nCurrently, the spouse receives no income from\nthe trusts other than a fee for administering the\ntrusts of approximately $2000 annually per trust.\nIf you need any additional information, please caII me.\nVery truly\nt\nMalcolm Hunter\nCity Attorney\ncc: LaVonne Niccolls\nRi-chmond City Councilmember\nOffice of the Cit.v Attorney\n. . ,,i ,$i\n]\\,I,{LCOI-M HUNTER\nCity Attorney\nyours,rilk\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1992-10-23",
+    "date_raw": "October 23, L992",
+    "requestor_name": "Hal",
+    "requestor_title": "City Attorney",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "whether and under what circumstances City Councilmember Niccolls will have a conflict of interest based upon the following facts: The spouse of City Councilmember Niccolls is the trustee of two trusts, one of which is revocable (at the discretion of the beneficiary) and the other is irrevocable. The beneficiary of the trusts is the spouse's mother, and upon her death the trust proceeds will go the spouse and the spouse's brother. The trust contains stocks of numerous companies, some of which are Fortune 500 companies, and the City Councilmember's spouse has the authority to manage the assets of the trusts. Currently, the spouse receives no income from the trusts other than a fee for administering the trusts of approximately $2000 annually per trust.",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether City Councilmember Niccolls has a conflict of interest when her spouse serves as trustee of two trusts containing diverse corporate stock holdings and receives trustee administration fees.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an incoming request letter from a city attorney to FPPC, not an FPPC response. No conclusion or advice is provided in this document. The question section contains detailed factual circumstances about trust assets and trustee responsibilities."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [
+      "01-138",
+      "03-293"
+    ],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:35:20.161985Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: whether and under what circumstances City Councilmember Niccolls will have a conflict of interest based upon the following facts: The spouse of City Councilmember Niccolls is the trustee of two trusts, one of which is revocable (at the discretion of the beneficiary) and the other is irrevocable. The beneficiary of the trusts is the spouse's mother, and upon her death the trust proceeds will go the spouse and the spouse's brother. The trust contains stocks of numerous companies, some of which are Fortune 500 companies, and the City Councilmember's spouse has the authority to manage the assets of the trusts. Currently, the spouse receives no income from the trusts other than a fee for administering the trusts of approximately $2000 annually per trust.",
+    "qa_source": "mixed",
+    "first_500_words": "CITY OF R.ICI{I\\4ONW 1,, City Hall Room 330 2600 Barrett Avenue. Post Ott-ice Box 4046 Richnrond. California 94804 (510) 620-6_509 . FAX (5r0) 620-6518 October 23, L992 Mr. Scott Hallabrin, General Counsel Fair Political- Practices Commissi-on 428 'J* Street, Suite 800 Sacramento, CA 95814 Dear Mr. Hal-Iabrin: On behalf of Richmond City Council-member LaVonne Niccolls, hereby request an opinion from the Fair Political Practices Commission concerning whether and under what circumstances City Councilmember Niccolls will have a conflict of interest based upon the following facts: The spouse of City Councilmember Niccolls is the trustee of two trusts, one of which is revocable (at the discretion of the beneficiary) and the other is irrevocable. The beneficiary of the trusts is the spouse's mother, and upon her death the t.rust proceeds will go the spouse and the spouse,s brother. The trust contains stocks of numerous companies, some of which are Fortune 500 companies, and the City Councilmember, s spouse has the authority to manage the assets of the trusts. Currently, the spouse receives no income from the trusts other than a fee for administering the trusts of approximately $2000 annually per trust. If you need any additional information, please caII me. Very truly t Malcolm Hunter City Attorney cc: LaVonne Niccolls Ri-chmond City Councilmember Office of the Cit.v Attorney . . ,,i ,$i ]\\,I,{LCOI-M HUNTER City Attorney yours,rilk",
+    "summary": "City Attorney Malcolm Hunter requests an FPPC opinion on behalf of Richmond City Councilmember LaVonne Niccolls regarding potential conflicts of interest arising from her spouse's role as trustee of two trusts with corporate stock holdings."
+  }
+}

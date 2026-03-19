@@ -1,0 +1,73 @@
+{
+  "id": "77ADV-77-456",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-456.PDF",
+  "pdf_sha256": "51255b7f14b72f80785ed6c8a914ef0da1a9e3fd9de8142335a3c19e567602ee",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-456.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-456",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:19:13",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=4"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-07T17:01:48.025011Z",
+    "page_count": 1,
+    "word_count": 163,
+    "char_count": 1044,
+    "quality_score": 0.6325000000000001,
+    "olmocr_cost": 0.0025756999999999998,
+    "native_word_count": 4
+  },
+  "content": {
+    "full_text": "April 15, 1977\n\nJohn B. Rudquist  \nCavalero, Bray, Shumway & Geiger  \n404 Bank of Stockton Building  \n311 East Main Street  \nStockton, California 95202\n\nDear Mr. Rudquist:\n\nPursuant to our conversation of April 15, 1977, please be advised that the concept \"significant segment\" as used in the general provisions of 2 Cal. Adm. Code Section 18703, defining the term \"effect on the public generally\" in Government Code Section 87103, encompasses persons owning land in a land owner voting district. Thus, members of boards of directors of water districts or reclamation districts could participate in decisions, notwithstanding the existence of material effects upon their personal interest so long as the decision would affect a significant number of land owners of the district in the same way as the Director.\n\nThe Commission has not yet interpreted the concept in the context of land owner voting districts in which there are very few land owners.\n\nSincerely,\n\nDelbert L. Spurlock, Jr., Chief  \nConflicts of Interest Division  \n(916) 322-6444",
+    "full_text_markdown": "April 15, 1977\n\nJohn B. Rudquist  \nCavalero, Bray, Shumway & Geiger  \n404 Bank of Stockton Building  \n311 East Main Street  \nStockton, California 95202\n\nDear Mr. Rudquist:\n\nPursuant to our conversation of April 15, 1977, please be advised that the concept \"significant segment\" as used in the general provisions of 2 Cal. Adm. Code Section 18703, defining the term \"effect on the public generally\" in Government Code Section 87103, encompasses persons owning land in a land owner voting district. Thus, members of boards of directors of water districts or reclamation districts could participate in decisions, notwithstanding the existence of material effects upon their personal interest so long as the decision would affect a significant number of land owners of the district in the same way as the Director.\n\nThe Commission has not yet interpreted the concept in the context of land owner voting districts in which there are very few land owners.\n\nSincerely,\n\nDelbert L. Spurlock, Jr., Chief  \nConflicts of Interest Division  \n(916) 322-6444"
+  },
+  "parsed": {
+    "date": "1977-04-15",
+    "date_raw": "April 15, 1977",
+    "requestor_name": "Rudquist",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "Pursuant to our conversation of April 15, 1977, please be advised that the concept \"significant segment\" as used in the general provisions of 2 Cal. Adm. Code Section 18703, defining the term \"effect on the public generally\" in Government Code Section 87103, encompasses persons owning land in a land owner voting district. Thus, members of boards of directors of water districts or reclamation districts could participate in decisions, notwithstanding the existence of material effects upon their personal interest so long as the decision would affect a significant number of land owners of the district in the same way as the Director.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether board members of water districts or reclamation districts with personal financial interests can participate in decisions that affect land owners under the 'significant segment' concept in Government Code Section 87103.",
+    "conclusion_synthetic": "Board members of water districts or reclamation districts may participate in decisions affecting their personal interests if the decision affects a significant segment of land owners in the district in the same manner as the member. However, the Commission has not yet interpreted this concept in districts with very few land owners.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: No formal QUESTION or CONCLUSION sections with headers; advice provided in letter format. Extracted conclusion from body text. Request appears to have been made by telephone conversation on April 15, 1977, rather than in written form. Document is addressed to outside counsel seeking guidance on conflict of interest rules."
+  },
+  "citations": {
+    "government_code": [
+      "87103"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T17:01:48.025011Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether board members of water districts or reclamation districts with personal financial interests can participate in decisions that affect land owners under the 'significant segment' concept in Government Code Section 87103.\n\nCONCLUSION: Pursuant to our conversation of April 15, 1977, please be advised that the concept \"significant segment\" as used in the general provisions of 2 Cal. Adm. Code Section 18703, defining the term \"effect on the public generally\" in Government Code Section 87103, encompasses persons owning land in a land owner voting district. Thus, members of boards of directors of water districts or reclamation districts could participate in decisions, notwithstanding the existence of material effects upon their personal interest so long as the decision would affect a significant number of land owners of the district in the same way as the Director.",
+    "qa_source": "mixed",
+    "first_500_words": "April 15, 1977 John B. Rudquist Cavalero, Bray, Shumway & Geiger 404 Bank of Stockton Building 311 East Main Street Stockton, California 95202 Dear Mr. Rudquist: Pursuant to our conversation of April 15, 1977, please be advised that the concept \"significant segment\" as used in the general provisions of 2 Cal. Adm. Code Section 18703, defining the term \"effect on the public generally\" in Government Code Section 87103, encompasses persons owning land in a land owner voting district. Thus, members of boards of directors of water districts or reclamation districts could participate in decisions, notwithstanding the existence of material effects upon their personal interest so long as the decision would affect a significant number of land owners of the district in the same way as the Director. The Commission has not yet interpreted the concept in the context of land owner voting districts in which there are very few land owners. Sincerely, Delbert L. Spurlock, Jr., Chief Conflicts of Interest Division (916) 322-6444",
+    "summary": "FPPC advises that the 'significant segment' exception to conflict of interest rules applies to water and reclamation district board members, allowing participation in decisions with personal effects if the decision impacts a significant number of other land owners similarly. The Commission reserves judgment on application to districts with few land owners."
+  }
+}

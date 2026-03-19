@@ -1,0 +1,76 @@
+{
+  "id": "13-001",
+  "year": 2013,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2013/13-001.pdf",
+  "pdf_sha256": "a0cd894aea120e6a7cd2e049c63f4c791e2ebbd54712c139ca1a7dc0a23109ac",
+  "local_pdf_path": "raw_pdfs/2013/13-001.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2013 Advice Letter # 13-001",
+    "tags": [
+      "Advice Letter",
+      "2013"
+    ],
+    "scraped_at": "2026-01-31 14:55:50",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2013&tagCount=1&page=2"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:33:36.738471Z",
+    "page_count": 1,
+    "word_count": 219,
+    "char_count": 1635,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 219
+  },
+  "content": {
+    "full_text": " \n \n \n \n \n \n \n \n \nJanuary 30, 2013 \n \n \n \nBlaise J. Jackson \nGeneral Counsel \nLaw Offices of Jeffrey G. Scott \n16935 West Bernardo Drive, Suite 170 \nSan Diego, CA 92127 \n \nRe: \nYour Request for Advice \n \nOur File No.  13-001 \n \nDear Mr. Jackson: \n \nThis letter responds to your request for advice on behalf of members of the Palo Verde \nHealthcare District Board regarding the conflict-of-interest provisions of the Political Reform \nAct (the “Act”).1  The Fair Political Practices Commission does not provide advice relating to \npast conduct.  (Regulation 18329(b)(8)(A), enclosed.)  It has come to our attention that the Palo \nVerde Healthcare District Board voted on the matters you presented in your request for advice.  \nAdditionally, we do not offer an advice regarding laws not within our jurisdiction, including \nGovernment Code Section 1090.   \n \nIf you have other questions on this matter, please contact me at (916) 322-5660. \n \n \n \n \n \n \n \n \n \nSincerely,  \n \n \n \n \n \n \n \n \n \nZackery P. Morazzini \n \n \n \n \n \n \n \n \nGeneral Counsel \n \n \n \nBy: \nHeather M. Rowan \n \n \n \n \n \n \n \n \nCounsel, Legal Division \nHMR:jgl \n                                                          \n \n1  The Political Reform Act is contained in Government Code Sections 81000 through 91014.  All statutory \nreferences are to the Government Code, unless otherwise indicated.  The regulations of the Fair Political Practices \nCommission are contained in Sections 18110 through 18997 of Title 2 of the California Code of Regulations.  All \nregulatory references are to Title 2, Division 6 of the California Code of Regulations, unless otherwise indicated. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2013-01-30",
+    "date_raw": "January 30, 2013",
+    "requestor_name": "Jackson",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether members of the Palo Verde Healthcare District Board had conflicts of interest under the Political Reform Act regarding certain matters that came before the board.",
+    "conclusion_synthetic": "The FPPC declined to provide advice because the board had already voted on the matters in question, as the FPPC does not provide advice on past conduct per Regulation 18329(b)(8)(A), and the matters also involved Government Code Section 1090 which is outside FPPC jurisdiction.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is a declination letter with no formal QUESTION or CONCLUSION sections. The legal question and FPPC's reasoning are embedded in the body of the letter. Document clearly states two bases for declination: (1) matters already voted on (past conduct), and (2) involvement of Government Code Section 1090 (outside FPPC jurisdiction)."
+  },
+  "citations": {
+    "government_code": [
+      "1090",
+      "81000"
+    ],
+    "regulations": [
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:33:36.738471Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether members of the Palo Verde Healthcare District Board had conflicts of interest under the Political Reform Act regarding certain matters that came before the board.\n\nCONCLUSION: The FPPC declined to provide advice because the board had already voted on the matters in question, as the FPPC does not provide advice on past conduct per Regulation 18329(b)(8)(A), and the matters also involved Government Code Section 1090 which is outside FPPC jurisdiction.",
+    "qa_source": "synthetic",
+    "first_500_words": "January 30, 2013 Blaise J. Jackson General Counsel Law Offices of Jeffrey G. Scott 16935 West Bernardo Drive, Suite 170 San Diego, CA 92127 Re: Your Request for Advice Our File No. 13-001 Dear Mr. Jackson: This letter responds to your request for advice on behalf of members of the Palo Verde Healthcare District Board regarding the conflict-of-interest provisions of the Political Reform Act (the “Act”).1 The Fair Political Practices Commission does not provide advice relating to past conduct. (Regulation 18329(b)(8)(A), enclosed.) It has come to our attention that the Palo Verde Healthcare District Board voted on the matters you presented in your request for advice. Additionally, we do not offer an advice regarding laws not within our jurisdiction, including Government Code Section 1090. If you have other questions on this matter, please contact me at (916) 322-5660. Sincerely, Zackery P. Morazzini General Counsel By: Heather M. Rowan Counsel, Legal Division HMR:jgl 1 The Political Reform Act is contained in Government Code Sections 81000 through 91014. All statutory references are to the Government Code, unless otherwise indicated. The regulations of the Fair Political Practices Commission are contained in Sections 18110 through 18997 of Title 2 of the California Code of Regulations. All regulatory references are to Title 2, Division 6 of the California Code of Regulations, unless otherwise indicated.",
+    "summary": "The FPPC declined to provide an advice letter to the Palo Verde Healthcare District Board regarding conflict-of-interest provisions of the Political Reform Act, citing that the board had already voted on the matters and the FPPC does not advise on past conduct or laws outside its jurisdiction."
+  }
+}

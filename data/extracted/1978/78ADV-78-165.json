@@ -1,0 +1,71 @@
+{
+  "id": "78ADV-78-165",
+  "year": 1978,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1978/78ADV-78-165.PDF",
+  "pdf_sha256": "208e560dd4cc5d0921cec2c834ac61695e0f9cf9a6362d5ae64bf4d202cf8133",
+  "local_pdf_path": "raw_pdfs/1978/78ADV-78-165.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1978ADV Advice Letter # 78ADV-78-165",
+    "tags": [
+      "Advice Letter",
+      "1978"
+    ],
+    "scraped_at": "2026-01-31 15:23:42",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=12"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:09.444594Z",
+    "page_count": 1,
+    "word_count": 104,
+    "char_count": 673,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 104
+  },
+  "content": {
+    "full_text": "February 6, 1978 \nPrinting Company \n6300 Santa Monica Boulev~d, Suite 410 \nAngeles, California ~OOI2 \nAttention: \nBruce \n'* \nis to confirm my telephone advice of \n6, 1978. \nYou \nasked if the publishertspame must appear on mass mailings sent \nin \nof \nor lo~al candidates. \nI informed you that the \nsix-point \nof the \nincurs the \nof the \nneed only be included \nno \noutside envelope and on at least one \nis defined as the person or committee \nlargest~portion of \ncost for the printing. \nEnclosed for your info~tion is an information \nexplaining \nmass mailing provisiqns of the Political Reform Act. \nSincerely, \nMary Ann Kvasager \nTechnical Assistance and \nAnalysis Division \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1978-02-06",
+    "date_raw": "February 6, 1978",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Must the publisher's name appear on mass mailings sent in support of or in opposition to state or local candidates?",
+    "conclusion": "The six-point type requirement of the Political Reform Act incurs the requirements of the Government Code. The publisher's name need only be included on the outside envelope and on at least one side of the mailer. The publisher is defined as the person or committee bearing the largest portion of the cost for the printing.",
+    "facts": null,
+    "analysis": "Division",
+    "question_synthetic": "Whether a publisher's name must appear on mass mailings supporting or opposing state or local candidates, and if so, where and in what size.",
+    "conclusion_synthetic": "The publisher's name must appear on mass mailings in at least six-point type on the outside envelope and on at least one side of the mailer. The publisher is defined as the person or committee bearing the largest portion of printing costs.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.75,
+    "has_standard_format": false,
+    "parsing_notes": "Format: ocr; LLM: OCR document with some scanning artifacts (e.g., 'Boulev~d', '~OOI2', 'info~tion', 'provisiqns'). Question and conclusion sections are present but somewhat fragmented due to OCR quality. Document confirms prior telephone advice given on February 6, 1978."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:09.444594Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Must the publisher's name appear on mass mailings sent in support of or in opposition to state or local candidates?\n\nCONCLUSION: The six-point type requirement of the Political Reform Act incurs the requirements of the Government Code. The publisher's name need only be included on the outside envelope and on at least one side of the mailer. The publisher is defined as the person or committee bearing the largest portion of the cost for the printing.",
+    "qa_source": "mixed",
+    "first_500_words": "February 6, 1978 Printing Company 6300 Santa Monica Boulev~d, Suite 410 Angeles, California ~OOI2 Attention: Bruce '* is to confirm my telephone advice of 6, 1978. You asked if the publishertspame must appear on mass mailings sent in of or lo~al candidates. I informed you that the six-point of the incurs the of the need only be included no outside envelope and on at least one is defined as the person or committee largest~portion of cost for the printing. Enclosed for your info~tion is an information explaining mass mailing provisiqns of the Political Reform Act. Sincerely, Mary Ann Kvasager Technical Assistance and Analysis Division",
+    "summary": "FPPC confirms telephone advice regarding requirements for publisher identification on mass mailings supporting or opposing candidates. The publisher's name must appear in six-point type on the outside envelope and at least one side of the mailer."
+  }
+}

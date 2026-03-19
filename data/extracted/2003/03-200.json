@@ -1,0 +1,71 @@
+{
+  "id": "03-200",
+  "year": 2003,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2003/03-200.pdf",
+  "pdf_sha256": "4d9b8f52f4ec32521bb061bf7514257cff5099a6c2c7cda2ee3cf18836dd9778",
+  "local_pdf_path": "raw_pdfs/2003/03-200.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2003 Advice Letter # 03-200",
+    "tags": [
+      "2003",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:38:57",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2003&tagCount=1&page=17"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T23:11:58.744729Z",
+    "page_count": 1,
+    "word_count": 85,
+    "char_count": 525,
+    "quality_score": 0.8222636335878541,
+    "olmocr_cost": 0.0024871199999999998,
+    "native_word_count": 105
+  },
+  "content": {
+    "full_text": "December 9, 2003\n\nRoseline C. Joseph\n1708 Tatiana Street\nRoseville, CA 95747\n\nRe: Your Request for Advice\nOur File No. W-03-200\n\nDear Ms. Joseph:\n\nThis letter is to notify you that, at your request in a phone conversation on December 8, 2003, we have withdrawn the above captioned request for advice regarding the revolving door provisions of the Political Reform Act.\n\nIf you have any questions, feel free to call me at (916) 322-5660.\n\nSincerely,\n\nLuisa Menchaca\nGeneral Counsel\n\nBy: Trish Mayer\nPolitical Reform Consultant",
+    "full_text_markdown": "December 9, 2003\n\nRoseline C. Joseph\n1708 Tatiana Street\nRoseville, CA 95747\n\nRe: Your Request for Advice\nOur File No. W-03-200\n\nDear Ms. Joseph:\n\nThis letter is to notify you that, at your request in a phone conversation on December 8, 2003, we have withdrawn the above captioned request for advice regarding the revolving door provisions of the Political Reform Act.\n\nIf you have any questions, feel free to call me at (916) 322-5660.\n\nSincerely,\n\nLuisa Menchaca\nGeneral Counsel\n\nBy: Trish Mayer\nPolitical Reform Consultant"
+  },
+  "parsed": {
+    "date": "2003-12-09",
+    "date_raw": "December 9, 2003",
+    "requestor_name": "Joseph",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T23:11:58.744729Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "December 9, 2003 Roseline C. Joseph 1708 Tatiana Street Roseville, CA 95747 Re: Your Request for Advice Our File No. W-03-200 Dear Ms. Joseph: This letter is to notify you that, at your request in a phone conversation on December 8, 2003, we have withdrawn the above captioned request for advice regarding the revolving door provisions of the Political Reform Act. If you have any questions, feel free to call me at (916) 322-5660. Sincerely, Luisa Menchaca General Counsel By: Trish Mayer Political Reform Consultant",
+    "qa_source": "extracted",
+    "first_500_words": "December 9, 2003 Roseline C. Joseph 1708 Tatiana Street Roseville, CA 95747 Re: Your Request for Advice Our File No. W-03-200 Dear Ms. Joseph: This letter is to notify you that, at your request in a phone conversation on December 8, 2003, we have withdrawn the above captioned request for advice regarding the revolving door provisions of the Political Reform Act. If you have any questions, feel free to call me at (916) 322-5660. Sincerely, Luisa Menchaca General Counsel By: Trish Mayer Political Reform Consultant",
+    "summary": null
+  }
+}

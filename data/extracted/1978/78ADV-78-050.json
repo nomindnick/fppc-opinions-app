@@ -1,0 +1,72 @@
+{
+  "id": "78ADV-78-050",
+  "year": 1978,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1978/78ADV-78-050.PDF",
+  "pdf_sha256": "ba1f20492fbfcc81ad13d21717889155b31d238b342245bd239f62b1e974a4a6",
+  "local_pdf_path": "raw_pdfs/1978/78ADV-78-050.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1978ADV Advice Letter # 78ADV-78-050",
+    "tags": [
+      "Advice Letter",
+      "1978"
+    ],
+    "scraped_at": "2026-01-31 15:24:52",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=28"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T16:08:03.070076Z",
+    "page_count": 2,
+    "word_count": 191,
+    "char_count": 1365,
+    "quality_score": 0.8722858264771878,
+    "olmocr_cost": 0.00492866,
+    "native_word_count": 86,
+    "haiku_cost": 0.003832
+  },
+  "content": {
+    "full_text": "State of California\n\nMemorandum\n\nTo    :   File                                                   Date  :  May 6, 1978\n\n                                                                           A78-05-050\n\nFrom  :  FAIR POLITICAL PRACTICES COMMISSION\n         Gina S-K\n\nSubject:  Agenda item at opinion request meeting of March 17, 1978\n\n\nMust political contributions made by partner s who discuss same in\nadvance be aggregated for the purpose of determining when a commit-\ntee threshold has been reached?\n\nNo.  As long as the contributions are truly independent and all\nthat is involved is a discussion of what issues or candidates will\nbe most helpful to the business and therefore should be supported.\n\nState of California\n\nMemorandum\n\nTo : Opinion Request Meeting Participants\n\nDate : March 16, 1978\n\nGina S-K\n\nFrom : FAIR POLITICAL PRACTICES COMMISSION\n\nSubject: Contributions by members of partnership.\n\nUnder a partnership's rules, the partnership may not\nmake political contributions. Partners do, however,\nget together and perhaps 4 out of the 10 partners make\nindividual contributions to a single candidate or\nballot measure. They discuss the fact that they are\nmaking the contributions. Must the partner's contributions\nto aggregated purposes of determining when a committee\nthreshold has been passed? Are they a recipient or\nhad a\n[illegible]\ncommittee",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1978-05-06",
+    "date_raw": "May 6, 1978",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Must political contributions made by partners who discuss same in advance be aggregated for the purpose of determining when a committee threshold has been reached?",
+    "conclusion": "No. As long as the contributions are truly independent and all that is involved is a discussion of what issues or candidates will be most helpful to the business and therefore should be supported.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether individual political contributions by business partners who discuss their contributions in advance must be aggregated to determine committee formation thresholds under campaign finance law.",
+    "conclusion_synthetic": "Individual partner contributions need not be aggregated for committee threshold purposes if the contributions are truly independent, even though the partners discuss which candidates or issues to support.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document contains two memoranda addressing the same substantive question. The second memo from March 16, 1978 provides more detailed question context, while the May 6, 1978 memo provides the FPPC's concise answer. Both are integrated into the response. Document is from 1978 with limited formatting, but core Q/A sections are clearly identifiable."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-08T17:16:45.484538Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Must political contributions made by partners who discuss same in advance be aggregated for the purpose of determining when a committee threshold has been reached?\n\nCONCLUSION: No. As long as the contributions are truly independent and all that is involved is a discussion of what issues or candidates will be most helpful to the business and therefore should be supported.",
+    "qa_source": "mixed",
+    "first_500_words": "**Memorandum** To: File Date: May 6, 1978 From: FAIR POLITICAL PRACTICES COMMISSION Gina S-K Subject: Agenda item at opinion request meeting of March 17, 1978 Must political contributions made by partners who discuss same in advance be aggregated for the purpose of determining when a committee threshold has been reached? No. As long as the contributions are truly independent and all that is involved is a discussion of what issues or candidates will be most helpful to the business and therefore should be supported. State of California Memorandum To: Opinion Request Meeting Participants Date: March 16, 1978 Gina S-K From: FAIR POLITICAL PRACTICES COMMISSION Subject: Contributions by members of partnership. Under a partnership's rules, the partnership may not make political contributions. Partners do, however, get together and perhaps 4 out of the 10 partners make individual contributions to a single candidate or ballot measure. They discuss the fact that they are making the contributions. Must the partner's contributions be aggregated purposes of determining when a committee threshold has been reached? Are they a recipient or major donor committee? NO - not a committee",
+    "summary": "FPPC advice letter addressing whether contributions by multiple business partners discussing their political giving in advance must be aggregated for campaign finance committee threshold purposes. The Commission concluded that aggregation is not required if contributions remain independent despite discussion among partners."
+  }
+}

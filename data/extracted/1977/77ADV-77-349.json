@@ -1,0 +1,73 @@
+{
+  "id": "77ADV-77-349",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-349.PDF",
+  "pdf_sha256": "1367894ab75791f64a5a1bf96641ea248fac52103ac151af0aef42f3b241aed3",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-349.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-349",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:21:09",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=30"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-07T17:10:34.351752Z",
+    "page_count": 1,
+    "word_count": 252,
+    "char_count": 1472,
+    "quality_score": 0.7175,
+    "olmocr_cost": 0.0026359,
+    "native_word_count": 5
+  },
+  "content": {
+    "full_text": "February 8, 1977\n\nClay M. Johnston  \nCalifornia Lathing and Plastering Contracting Association, Inc.  \n9911 Inglewood Avenue  \nSuite 205  \nInglewood, California 90301\n\nDear Mr. Johnston:\n\nThank you for your letter of January 24, 1977, in which you ask the question whether a registered lobbyist may attend and purchase a ticket for a retirement banquet being given to a state agency director. Since it is unclear from your letter as to the identity of the registered lobbyist, the answer I am providing you may not be used as a defense in any action brought by a law enforcement agency. However, I am sure the following advice will be useful to you and the lobbyist.\n\nThe Political Reform Act does not prohibit a registered lobbyist from attending a banquet in honor of a state agency official, nor does it prevent the lobbyist from purchasing a ticket for the event provided that in the latter instance the proceeds of the ticket given to the state official are not more than $10. (Government Code Section 86203) This section also prohibits the lobbyist from arranging or acting as an intermediary for any gift of more than $10 per official. Thus, the lobbyist may not arrange for any other person (such as a spouse or other lobbyist) to attend the dinner if the cost of such arrangement causes the total amount of the proceeds to the official to be over $10.\n\nIf you have any further questions, please feel free to call me.\n\nSincerely,\n\nRobert M. Stern  \nGeneral Counsel",
+    "full_text_markdown": "February 8, 1977\n\nClay M. Johnston  \nCalifornia Lathing and Plastering Contracting Association, Inc.  \n9911 Inglewood Avenue  \nSuite 205  \nInglewood, California 90301\n\nDear Mr. Johnston:\n\nThank you for your letter of January 24, 1977, in which you ask the question whether a registered lobbyist may attend and purchase a ticket for a retirement banquet being given to a state agency director. Since it is unclear from your letter as to the identity of the registered lobbyist, the answer I am providing you may not be used as a defense in any action brought by a law enforcement agency. However, I am sure the following advice will be useful to you and the lobbyist.\n\nThe Political Reform Act does not prohibit a registered lobbyist from attending a banquet in honor of a state agency official, nor does it prevent the lobbyist from purchasing a ticket for the event provided that in the latter instance the proceeds of the ticket given to the state official are not more than $10. (Government Code Section 86203) This section also prohibits the lobbyist from arranging or acting as an intermediary for any gift of more than $10 per official. Thus, the lobbyist may not arrange for any other person (such as a spouse or other lobbyist) to attend the dinner if the cost of such arrangement causes the total amount of the proceeds to the official to be over $10.\n\nIf you have any further questions, please feel free to call me.\n\nSincerely,\n\nRobert M. Stern  \nGeneral Counsel"
+  },
+  "parsed": {
+    "date": "1977-02-08",
+    "date_raw": "February 8, 1977",
+    "requestor_name": "Johnston",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "whether a registered lobbyist may attend and purchase a ticket for a retirement banquet being given to a state agency director",
+    "conclusion": "The Political Reform Act does not prohibit a registered lobbyist from attending a banquet in honor of a state agency official, nor does it prevent the lobbyist from purchasing a ticket for the event provided that in the latter instance the proceeds of the ticket given to the state official are not more than $10. (Government Code Section 86203) This section also prohibits the lobbyist from arranging or acting as an intermediary for any gift of more than $10 per official. Thus, the lobbyist may not arrange for any other person (such as a spouse or other lobbyist) to attend the dinner if the cost of such arrangement causes the total amount of the proceeds to the official to be over $10.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "May a registered lobbyist attend and purchase a ticket for a retirement banquet honoring a state agency director under the Political Reform Act?",
+    "conclusion_synthetic": "A registered lobbyist may attend and purchase a banquet ticket honoring a state agency official, provided the ticket proceeds to the official do not exceed $10 under Government Code Section 86203. The lobbyist cannot arrange for others to attend or act as an intermediary for gifts exceeding $10 per official.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Clear advice letter with question and conclusion sections. Minor caveat noted by counsel regarding uncertain identity of lobbyist."
+  },
+  "citations": {
+    "government_code": [
+      "86203"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "lobbying",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T17:10:34.351752Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: whether a registered lobbyist may attend and purchase a ticket for a retirement banquet being given to a state agency director\n\nCONCLUSION: The Political Reform Act does not prohibit a registered lobbyist from attending a banquet in honor of a state agency official, nor does it prevent the lobbyist from purchasing a ticket for the event provided that in the latter instance the proceeds of the ticket given to the state official are not more than $10. (Government Code Section 86203) This section also prohibits the lobbyist from arranging or acting as an intermediary for any gift of more than $10 per official. Thus, the lobbyist may not arrange for any other person (such as a spouse or other lobbyist) to attend the dinner if the cost of such arrangement causes the total amount of the proceeds to the official to be over $10.",
+    "qa_source": "mixed",
+    "first_500_words": "February 8, 1977 Clay M. Johnston California Lathing and Plastering Contracting Association, Inc. 9911 Inglewood Avenue Suite 205 Inglewood, California 90301 Dear Mr. Johnston: Thank you for your letter of January 24, 1977, in which you ask the question whether a registered lobbyist may attend and purchase a ticket for a retirement banquet being given to a state agency director. Since it is unclear from your letter as to the identity of the registered lobbyist, the answer I am providing you may not be used as a defense in any action brought by a law enforcement agency. However, I am sure the following advice will be useful to you and the lobbyist. The Political Reform Act does not prohibit a registered lobbyist from attending a banquet in honor of a state agency official, nor does it prevent the lobbyist from purchasing a ticket for the event provided that in the latter instance the proceeds of the ticket given to the state official are not more than $10. (Government Code Section 86203) This section also prohibits the lobbyist from arranging or acting as an intermediary for any gift of more than $10 per official. Thus, the lobbyist may not arrange for any other person (such as a spouse or other lobbyist) to attend the dinner if the cost of such arrangement causes the total amount of the proceeds to the official to be over $10. If you have any further questions, please feel free to call me. Sincerely, Robert M. Stern General Counsel",
+    "summary": "FPPC General Counsel advises that a registered lobbyist may attend a retirement banquet for a state agency director and purchase a ticket, provided the proceeds to the official do not exceed $10, and that the lobbyist cannot arrange for others to attend or facilitate gifts exceeding this limit."
+  }
+}

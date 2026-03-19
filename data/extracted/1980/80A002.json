@@ -1,0 +1,75 @@
+{
+  "id": "80A002",
+  "year": 1980,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1980/80A002.PDF",
+  "pdf_sha256": "6d398d2570a97fcfa4c72665c2f4d9838e5187e9eba962df877a91ce2402bfab",
+  "local_pdf_path": "raw_pdfs/1980/80A002.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1980 Advice Letter # 80A002",
+    "tags": [
+      "1980",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:27:23",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1980&tagCount=1&page=7"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:03.864891Z",
+    "page_count": 1,
+    "word_count": 125,
+    "char_count": 745,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 125
+  },
+  "content": {
+    "full_text": "January 23, 1980 \nFair Political Practices Commission \nOffice of Compliance \nP.O. Box 807 \nSacramento, CA 95804 \nAttn.: Gina: \nDear Gina: \nK \nu \nThis will confirm a conversation I had with your office on \nJanuary 21, 1980 in which I asked what do we do when we have \nattempted to get certain information required by law from contri-\nbutors that they have not previously supplied to us. \nYour reply \nwas that although there was no written regulation on the matter, \nas long as we made our best effort to bbtain the information, we \nare in compliance, and we should note on our contribmion state-\nment that we tried to obtain the information and were unsuccess-\nful. \nSincerely, \nScott Edward Darling \nTreasurer \nRiverside Republican Party \n( \n~ \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1980-01-23",
+    "date_raw": "January 23, 1980",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The sender is confirming a prior telephone conversation with FPPC staff regarding procedures for handling situations where required contributor information cannot be obtained from contributors.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.72,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is incoming correspondence from a party treasurer confirming a prior FPPC verbal response, not a formal FPPC advice letter. No formal question or conclusion sections present. The document references FPPC guidance but does not constitute an official written FPPC response. Some text illegibility in original document ('bbtain' appears to be 'obtain')."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [
+      "94-004",
+      "94-158",
+      "94-371"
+    ],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:03.864891Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The sender is confirming a prior telephone conversation with FPPC staff regarding procedures for handling situations where required contributor information cannot be obtained from contributors.",
+    "qa_source": "synthetic",
+    "first_500_words": "January 23, 1980 Fair Political Practices Commission Office of Compliance P.O. Box 807 Sacramento, CA 95804 Attn.: Gina: Dear Gina: K u This will confirm a conversation I had with your office on January 21, 1980 in which I asked what do we do when we have attempted to get certain information required by law from contri- butors that they have not previously supplied to us. Your reply was that although there was no written regulation on the matter, as long as we made our best effort to bbtain the information, we are in compliance, and we should note on our contribmion state- ment that we tried to obtain the information and were unsuccess- ful. Sincerely, Scott Edward Darling Treasurer Riverside Republican Party ( ~",
+    "summary": "This is a confirmation letter from Scott Edward Darling (Treasurer of Riverside Republican Party) to FPPC staff member Gina documenting a January 21, 1980 telephone conversation about compliance procedures when required contributor information cannot be obtained."
+  }
+}

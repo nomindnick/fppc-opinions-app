@@ -1,0 +1,73 @@
+{
+  "id": "85139",
+  "year": 1985,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1985/fppc-advice/85139.PDF",
+  "pdf_sha256": "98c91b7c4c75f46248c4f92a6777834eb60bd7ecfab7fc6accbebaef61503d0d",
+  "local_pdf_path": "raw_pdfs/1985/85139.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1985 Advice Letter # 85139",
+    "tags": [
+      "Advice Letter",
+      "1985"
+    ],
+    "scraped_at": "2026-01-31 15:37:19",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1985&tagCount=1&page=23"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T18:28:57.629395Z",
+    "page_count": 1,
+    "word_count": 193,
+    "char_count": 1281,
+    "quality_score": 0.8058401964506151,
+    "olmocr_cost": 0.0026531,
+    "native_word_count": 211
+  },
+  "content": {
+    "full_text": "TO: [ ] JEANNE   [X] JAY   (X) DAN\n[X] LYNN   [X] BARBARA   (X) JOHN K\n[X] ROGER   [X] CARLA   (X) MARY ANN\n[ ] HELEN   [X] OTHER PATSY\n\nFROM: PRITCHARD\nDATE: 6/7/85\n\n[X] TELEPHONE ADVICE - SEE BELOW\n[ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT\n(IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY)\n\nFILE LOCATION: 82016\n\nINCLUDE IN ADVICE PACKAGE: YES [ ] NO [X]\n\nCALLER Bill Wewar, Attorney for\nREPRESENTING California Tax Reduction Movement\nPHONE NUMBER: (301) 986-9474\n\nThe CTRM is forming a committee to support Sebastiani's\nQUESTION: reapportionment initiative. Assemblyman Sebastiani will not\nbe involved in the committee's day-to-day decisions about fundraising or making expenditures, but he will approve and sign all of the committee's campaign literature. In addition, the committee will participate in the signature-gathering process.\n\nANSWER:\nYES. Assemblyman Sebastiani will have a \"significant influence on the actions or decisions of the committee\" under Gov. Code Section 82016. Therefore, the committee's S/O must list him as a controlling candidate, and he must sign the committee's campaign disclosure statements.\n\n(I also spoke with Dimitri Viripaeff of Pisenti & Brinker, Sebastiani's treasurer, regarding Sebastiani's involvement with the new committee.)",
+    "full_text_markdown": "TO: [ ] JEANNE   [X] JAY   (X) DAN\n[X] LYNN   [X] BARBARA   (X) JOHN K\n[X] ROGER   [X] CARLA   (X) MARY ANN\n[ ] HELEN   [X] OTHER PATSY\n\nFROM: PRITCHARD\nDATE: 6/7/85\n\n[X] TELEPHONE ADVICE - SEE BELOW\n[ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT\n(IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY)\n\nFILE LOCATION: 82016\n\nINCLUDE IN ADVICE PACKAGE: YES [ ] NO [X]\n\nCALLER Bill Wewar, Attorney for\nREPRESENTING California Tax Reduction Movement\nPHONE NUMBER: (301) 986-9474\n\nThe CTRM is forming a committee to support Sebastiani's\nQUESTION: reapportionment initiative. Assemblyman Sebastiani will not\nbe involved in the committee's day-to-day decisions about fundraising or making expenditures, but he will approve and sign all of the committee's campaign literature. In addition, the committee will participate in the signature-gathering process.\n\nANSWER:\nYES. Assemblyman Sebastiani will have a \"significant influence on the actions or decisions of the committee\" under Gov. Code Section 82016. Therefore, the committee's S/O must list him as a controlling candidate, and he must sign the committee's campaign disclosure statements.\n\n(I also spoke with Dimitri Viripaeff of Pisenti & Brinker, Sebastiani's treasurer, regarding Sebastiani's involvement with the new committee.)"
+  },
+  "parsed": {
+    "date": "1985-06-07",
+    "date_raw": "6/7/85",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "reapportionment initiative. Assemblyman Sebastiani will not\nbe involved in the committee's day-to-day decisions about fundraising or making expenditures, but he will approve and sign all of the committee's campaign literature. In addition, the committee will participate in the signature-gathering process.\n\nANSWER:\nYES. Assemblyman Sebastiani will have a \"significant influence on the actions or decisions of the committee\" under Gov. Code Section 82016. Therefore, the committee's S/O must list him as a controlling candidate, and he must sign the committee's campaign disclosure statements.\n\n(I also spoke with Dimitri Viripaeff of Pisenti & Brinker, Sebastiani's treasurer, regarding Sebastiani's involvement with the new committee.)",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.5499999999999999,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern"
+  },
+  "citations": {
+    "government_code": [
+      "82016"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-20T18:28:57.629395Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: reapportionment initiative. Assemblyman Sebastiani will not\nbe involved in the committee's day-to-day decisions about fundraising or making expenditures, but he will approve and sign all of the committee's campaign literature. In addition, the committee will participate in the signature-gathering process.\n\nANSWER:\nYES. Assemblyman Sebastiani will have a \"significant influence on the actions or decisions of the committee\" under Gov. Code Section 82016. Therefore, the committee's S/O must list him as a controlling candidate, and he must sign the committee's campaign disclosure statements.\n\n(I also spoke with Dimitri Viripaeff of Pisenti & Brinker, Sebastiani's treasurer, regarding Sebastiani's involvement with the new committee.)",
+    "qa_source": "extracted",
+    "first_500_words": "TO: [ ] JEANNE [X] JAY (X) DAN [X] LYNN [X] BARBARA (X) JOHN K [X] ROGER [X] CARLA (X) MARY ANN [ ] HELEN [X] OTHER PATSY FROM: PRITCHARD DATE: 6/7/85 [X] TELEPHONE ADVICE - SEE BELOW [ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT (IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY) FILE LOCATION: 82016 INCLUDE IN ADVICE PACKAGE: YES [ ] NO [X] CALLER Bill Wewar, Attorney for REPRESENTING California Tax Reduction Movement PHONE NUMBER: (301) 986-9474 The CTRM is forming a committee to support Sebastiani's QUESTION: reapportionment initiative. Assemblyman Sebastiani will not be involved in the committee's day-to-day decisions about fundraising or making expenditures, but he will approve and sign all of the committee's campaign literature. In addition, the committee will participate in the signature-gathering process. ANSWER: YES. Assemblyman Sebastiani will have a \"significant influence on the actions or decisions of the committee\" under Gov. Code Section 82016. Therefore, the committee's S/O must list him as a controlling candidate, and he must sign the committee's campaign disclosure statements. (I also spoke with Dimitri Viripaeff of Pisenti & Brinker, Sebastiani's treasurer, regarding Sebastiani's involvement with the new committee.)",
+    "summary": null
+  }
+}

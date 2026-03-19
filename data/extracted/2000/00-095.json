@@ -1,0 +1,71 @@
+{
+  "id": "00-095",
+  "year": 2000,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2000/00-095.pdf",
+  "pdf_sha256": "48b6e8131914ea5c6f98533188bde2013a2ca7515b04e9cd36fb9a7e34306836",
+  "local_pdf_path": "raw_pdfs/2000/00-095.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2000 Advice Letter # 00-095",
+    "tags": [
+      "2000",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 00:42:19",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2000&tagCount=1&page=3"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T21:20:18.501235Z",
+    "page_count": 1,
+    "word_count": 104,
+    "char_count": 655,
+    "quality_score": 0.8151293947793947,
+    "olmocr_cost": 0.0025198,
+    "native_word_count": 121
+  },
+  "content": {
+    "full_text": "June 5, 2000\n\nJonathan T. Smith\nSenior Staff Counsel\nSan Francisco Bay Conservation and Development Commission\n50 California Street, 26th Floor\nSan Francisco, CA 94111\n\nRe: Your request for advice\n    Our File No. 00-095\n\nDear Mr. Smith:\n\nPursuant to our telephone conversation on June 2, 2000, your request for advice dated April 21, 2000, assigned our file No. 00-095, has been withdrawn. No advice will be issued.\n\nIf your request for advice was withdrawn in error or if you need further assistance, please feel free to contact me at (916) 322-5660.\n\nSincerely,\n\nLuisa Menchaca\nAssistant General Counsel\n\nBy: John Vergelli\nStaff Counsel, Legal Division",
+    "full_text_markdown": "June 5, 2000\n\nJonathan T. Smith\nSenior Staff Counsel\nSan Francisco Bay Conservation and Development Commission\n50 California Street, 26th Floor\nSan Francisco, CA 94111\n\nRe: Your request for advice\n    Our File No. 00-095\n\nDear Mr. Smith:\n\nPursuant to our telephone conversation on June 2, 2000, your request for advice dated April 21, 2000, assigned our file No. 00-095, has been withdrawn. No advice will be issued.\n\nIf your request for advice was withdrawn in error or if you need further assistance, please feel free to contact me at (916) 322-5660.\n\nSincerely,\n\nLuisa Menchaca\nAssistant General Counsel\n\nBy: John Vergelli\nStaff Counsel, Legal Division"
+  },
+  "parsed": {
+    "date": "2000-06-05",
+    "date_raw": "June 5, 2000",
+    "requestor_name": "Smith",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T21:20:18.501235Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "June 5, 2000 Jonathan T. Smith Senior Staff Counsel San Francisco Bay Conservation and Development Commission 50 California Street, 26th Floor San Francisco, CA 94111 Re: Your request for advice Our File No. 00-095 Dear Mr. Smith: Pursuant to our telephone conversation on June 2, 2000, your request for advice dated April 21, 2000, assigned our file No. 00-095, has been withdrawn. No advice will be issued. If your request for advice was withdrawn in error or if you need further assistance, please feel free to contact me at (916) 322-5660. Sincerely, Luisa Menchaca Assistant General Counsel By: John Vergelli Staff Counsel, Legal Division",
+    "qa_source": "extracted",
+    "first_500_words": "June 5, 2000 Jonathan T. Smith Senior Staff Counsel San Francisco Bay Conservation and Development Commission 50 California Street, 26th Floor San Francisco, CA 94111 Re: Your request for advice Our File No. 00-095 Dear Mr. Smith: Pursuant to our telephone conversation on June 2, 2000, your request for advice dated April 21, 2000, assigned our file No. 00-095, has been withdrawn. No advice will be issued. If your request for advice was withdrawn in error or if you need further assistance, please feel free to contact me at (916) 322-5660. Sincerely, Luisa Menchaca Assistant General Counsel By: John Vergelli Staff Counsel, Legal Division",
+    "summary": null
+  }
+}

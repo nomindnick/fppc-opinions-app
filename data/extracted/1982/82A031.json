@@ -1,0 +1,72 @@
+{
+  "id": "82A031",
+  "year": 1982,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1982/82A031.PDF",
+  "pdf_sha256": "6e1e710d006889feead99d1ff370f3325f1d7dd2d8859d69728d7b0fd1221464",
+  "local_pdf_path": "raw_pdfs/1982/82A031.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1982 Advice Letter # 82A031",
+    "tags": [
+      "1982",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:30:58",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1982&tagCount=1&page=19"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T01:20:31.965794Z",
+    "page_count": 1,
+    "word_count": 196,
+    "char_count": 1341,
+    "quality_score": 0.9091050499718836,
+    "olmocr_cost": 0.0025481799999999997,
+    "native_word_count": 3,
+    "haiku_cost": 0.0026680000000000002
+  },
+  "content": {
+    "full_text": "A-82-231\n\nState of California\nFair Political Practices Commission\nP.O. BOX 807 • SACRAMENTO, 95804 • • • 1100 K STREET BUILDING, SACRAMENTO, 95814\n\nTechnical Assistance • • Administration • • Executive/Legal • • Enforcement • • Statements of Economic Interest\n(916) 322-5562           322-5560              322-5901              322-6441              322-6444\n\nFebruary 23, 1982\n\n\nThe Honorable Lloyd A. Phillips Jr.\nSacramento County Superior Court Judge\nCourthouse, Department 19\nSacramento, CA 95814\n\nDear Judge Phillips:\n\nThis letter is to confirm our telephone conversation\nof February 17, 1982. You asked whether you are required\nto report trips and tickets to various events provided\nyou because of your position as an officer in the Shriners.\n\nThe Political Reform Act excludes reimbursements for\nexpenses and per diem received from a bona fide educational,\nacademic or charitable organization (see Government Code Section 52030(B)(2)).\n\nTherefore, the staff has determined that travel expenses\nand per diem, including tickets for events which you attend\nin connection with the performance of your duties as an officer\nof the Shriners need not be reported, since it is a charitable\norganization.\n\nIf you have any questions regarding this matter, please\ncall me at (916) 322-6444.\n\nYours truly,\n\nAlice Hughes\nDocuments Examiner\n\nAH:ms",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1982-02-23",
+    "date_raw": "February 23, 1982",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a Sacramento County Superior Court Judge must report trips and tickets to various events provided due to their position as an officer in the Shriners.",
+    "conclusion_synthetic": "Travel expenses, per diem, and event tickets received by the judge in connection with their duties as a Shriners officer need not be reported because the Shriners qualify as a charitable organization exempt under Government Code Section 2030(B)(2).",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: No formal Q/A section headers present; question and conclusion extracted from letter body. Follow-up to February 17, 1982 telephone conversation. Clear charitable organization exemption applied."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T16:32:01.591807Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether a Sacramento County Superior Court Judge must report trips and tickets to various events provided due to their position as an officer in the Shriners.\n\nCONCLUSION: Travel expenses, per diem, and event tickets received by the judge in connection with their duties as a Shriners officer need not be reported because the Shriners qualify as a charitable organization exempt under Government Code Section 2030(B)(2).",
+    "qa_source": "synthetic",
+    "first_500_words": "February 23, 1982 The Honorable Lloyd A. Phillips Jr. Sacramento County Superior Court Judge Courthouse, Department 19 Sacramento, CA 95814 Dear Judge Phillips: This letter is to confirm our telephone conversation of February 17, 1982. You asked whether you are required to report trips and tickets to various events provided to you because of your position as an officer in the Shriners. The Political Reform Act excludes reimbursements for expenses and per diem received from a bona fide educational, academic or charitable organization (see Government Code Section §2030(B)(2)). Therefore, the staff has determined that travel expenses, and per diem, including tickets for events which you attend in connection with the performance of your duties as an officer of the Shriners need not be reported, since it is a charitable organization. If you have any questions regarding this matter, please call me at (916) 322-6444. Yours truly, Alice Hughes Documents Examiner",
+    "summary": "FPPC advice letter confirming that a judge does not need to report travel expenses, per diem, and event tickets received as a Shriners officer because such reimbursements from charitable organizations are excluded under the Political Reform Act."
+  }
+}

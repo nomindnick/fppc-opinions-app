@@ -1,0 +1,75 @@
+{
+  "id": "11-165",
+  "year": 2011,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2011/11-165.pdf",
+  "pdf_sha256": "6cb6697bd0cdb67bc2682b4545c27e91960ec289eca3e8be9f6781dd6d32071f",
+  "local_pdf_path": "raw_pdfs/2011/11-165.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2011 Advice Letter # 11-165",
+    "tags": [
+      "2011",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 17:11:02",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2011&tagCount=1&page=5"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:33:50.606305Z",
+    "page_count": 1,
+    "word_count": 195,
+    "char_count": 1285,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 195
+  },
+  "content": {
+    "full_text": "FAIR p OLITICAL p RACTICES COMMISSION \n428 J Street • Suite 620 • Sacramento. CA 95814-2329 \n(916) 322-5660 • Fax (916) 322-0886 \nAnnette L. Smith \n646 Wanzia Court \nPatterson, CA 95363 \nRE: Your Request for Advice \nOur File No. W-11-165 \nDear Ms. Smith: \nSeptember 7, 2011 \nThis letter is in response to your request as a member of the Patterson City Council \nregarding the conflict-of-interest provisions of the Political Reform Act (the \"Act\"). 1 \nPlease note that the Commission does not provide advice relating to past conduct and can \nonly advise prospectively. (Regulation 18329(b)(8)(A), enclosed.) Therefore, we are declining \nyour request for advice. \nIf you have any other questions regarding this matter, please contact me at (916) 322-\n5660. \nJWW:jgl \nEnclosure \nSincerely, \nZackery Morazzini \nGeneral Counsel \nW. Wallace \n1 The Political Reform Act is contained in Government Code Sections 81000 through 91014. All statutory \nreferences are to the Government Code, unless otherwise indicated. The regulations of the Fair Political Practices \nCommission are contained in Sections 18110 through 18997 of Title 2 of the California Code of Regulations. All \nregulatory references are to Title 2, Division 6 of the California Code of Regulations, unless otherwise indicated. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2011-09-07",
+    "date_raw": "September 7, 2011",
+    "requestor_name": "Smith",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "Therefore, we are declining your request for advice.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Ms. Smith, a Patterson City Council member, requested advice regarding the conflict-of-interest provisions of the Political Reform Act.",
+    "conclusion_synthetic": "The FPPC declined to provide advice because the Commission does not advise on past conduct and can only provide prospective guidance, citing Regulation 18329(b)(8)(A).",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is a declination letter. The document lacks traditional QUESTION and CONCLUSION sections with detailed reasoning. The request relates to past conduct, which falls outside FPPC's advisory scope. No specific legal question details are provided in the document."
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:33:50.606305Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Ms. Smith, a Patterson City Council member, requested advice regarding the conflict-of-interest provisions of the Political Reform Act.\n\nCONCLUSION: Therefore, we are declining your request for advice.",
+    "qa_source": "mixed",
+    "first_500_words": "FAIR p OLITICAL p RACTICES COMMISSION 428 J Street • Suite 620 • Sacramento. CA 95814-2329 (916) 322-5660 • Fax (916) 322-0886 Annette L. Smith 646 Wanzia Court Patterson, CA 95363 RE: Your Request for Advice Our File No. W-11-165 Dear Ms. Smith: September 7, 2011 This letter is in response to your request as a member of the Patterson City Council regarding the conflict-of-interest provisions of the Political Reform Act (the \"Act\"). 1 Please note that the Commission does not provide advice relating to past conduct and can only advise prospectively. (Regulation 18329(b)(8)(A), enclosed.) Therefore, we are declining your request for advice. If you have any other questions regarding this matter, please contact me at (916) 322- 5660. JWW:jgl Enclosure Sincerely, Zackery Morazzini General Counsel W. Wallace 1 The Political Reform Act is contained in Government Code Sections 81000 through 91014. All statutory references are to the Government Code, unless otherwise indicated. The regulations of the Fair Political Practices Commission are contained in Sections 18110 through 18997 of Title 2 of the California Code of Regulations. All regulatory references are to Title 2, Division 6 of the California Code of Regulations, unless otherwise indicated.",
+    "summary": "The FPPC declined Ms. Smith's request for advice regarding conflict-of-interest provisions of the Political Reform Act, stating that the Commission only provides prospective advice and cannot address past conduct."
+  }
+}

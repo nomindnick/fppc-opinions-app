@@ -1,0 +1,77 @@
+{
+  "id": "83A098",
+  "year": 1983,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1983/83A098.PDF",
+  "pdf_sha256": "bc7cf9e3d7be2e3788034ee0b037abc39d86417e70cb040648409d3da8e75e78",
+  "local_pdf_path": "raw_pdfs/1983/83A098.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1983 Advice Letter # 83A098",
+    "tags": [
+      "1983",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:32:03",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1983&tagCount=1&page=8"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:51.642791Z",
+    "page_count": 3,
+    "word_count": 349,
+    "char_count": 2300,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 349
+  },
+  "content": {
+    "full_text": "P.O. BOX 807 • SACRAMENTO, 95804 ••• 1100 K STREET BUILDING, SACRAMENTO, 95814 \nTechnical Assistance \n(916) 322-5662 \nAdministration \nExecutive/legal \n322-5901 \nEnforcement \n322-64.41 \nStatements of Ec.,nomic Interest \n322-6444 \n322-5660 \nMr. Fletcher H. Swan \n1224 Orange Grove Avenue \nSo0th Pasadena, CA \n91030 \nDear Mr. Swan: \nYour letter asks: \nApril 21, 1983 \nRe: \nYour Letter Dated April 7, \n1983, Our No. A-83-098 \nUnder what circumstances maya member of a City \nCouncil and/or a Community Redevelopment Agency sell \nservices and material to the City or Agency involved? \nUnder the Political Reform Actl/ the Fair Political \nPractices Commission is charged with advising public officials \nwho have duties under the Act. \nSection 83114. \nYour letter does \nnot indicate whether you are a public official. \nIn addition, \nour advice is limited to the official who requests it; we do not \nadvise third parties regarding the duties and obligations of \nothers who are officials. \nSection 83114. \nHowever, we can provide you with general information about \nthe requirements of the Political Reform Act. \nWe enclose a copy \nof our pamphlet and of the Act itself for your review. \nGenerally, the conflict of interest provisions of the Act \nprohibit a public official from making, participating in making, \nor using his or her official position to influence a govern-\nmental decision in which he or she has a financial interest. \nSection 87100. \nWhat constitutes a financial interest is defined \nin Section 87103. \nl/ Government Code Sections 81000-91014, hereinafter the \n\"Act\". \nAll statutory references are to the Government Code \nunless otherwise specified. \n\n\nMr. Fletcher H. Swan \nApril 21, 1983 \nPage Two \nYour question also suggests the possible applicability of \nGovernment Code Sections 1090, et~. These provisions are not \na part of the Political Reform Act and, therefore, are not \nadministered or interpreted by the Fair Political Practices \nCommission. \nYou may wish to seek advice from the Attorney \nGeneral regarding these provisions. \nThis may be accomplished \nthrough your local county counsel's office or through your \nlegislative representatives. \nREL: km \nEnclosures \nSincerely, \n~~ \n< \nt_ ~ \n.,1,-\n-\n-\n~ \n/ \n-A;:' \"\"\" ~'\" \n,,-.~ \nI \n/ \nRobert E. Leidigh \nCounsel, Legal Division \n\n\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1983-04-21",
+    "date_raw": "April 21, 1983",
+    "requestor_name": "Swan",
+    "requestor_title": "county counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Under what circumstances may a member of a City Council and/or a Community Redevelopment Agency sell services and material to the City or Agency involved?",
+    "conclusion": "Generally, the conflict of interest provisions of the Act prohibit a public official from making, participating in making, or using his or her official position to influence a governmental decision in which he or she has a financial interest. Section 87100. What constitutes a financial interest is defined in Section 87103. The FPPC also notes that provisions under Government Code Sections 1090, et seq. are not administered by the FPPC and the requester may seek advice from the Attorney General regarding those provisions.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requester asks about the circumstances under which a City Council member or Community Redevelopment Agency member may sell services and materials to their respective government entities.",
+    "conclusion_synthetic": "The FPPC explains that under Section 87100 of the Political Reform Act, public officials are generally prohibited from using their official position to influence governmental decisions in which they have a financial interest, with financial interest defined in Section 87103. The FPPC declines to provide specific advice since the requester did not indicate whether they are a public official, but notes that separate provisions under Government Code Sections 1090 et seq. may also apply and should be addressed through the Attorney General.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document clearly identifies question and conclusion sections. Requester (Fletcher H. Swan) is not identified as a public official, so FPPC limits advice to general information. Document references Political Reform Act Section 83114 regarding FPPC's advisory role restrictions."
+  },
+  "citations": {
+    "government_code": [
+      "1090",
+      "81000",
+      "83114",
+      "87100",
+      "87103"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.6,
+    "classified_at": "2026-02-06T18:36:51.642791Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Under what circumstances may a member of a City Council and/or a Community Redevelopment Agency sell services and material to the City or Agency involved?\n\nCONCLUSION: Generally, the conflict of interest provisions of the Act prohibit a public official from making, participating in making, or using his or her official position to influence a governmental decision in which he or she has a financial interest. Section 87100. What constitutes a financial interest is defined in Section 87103. The FPPC also notes that provisions under Government Code Sections 1090, et seq. are not administered by the FPPC and the requester may seek advice from the Attorney General regarding those provisions.",
+    "qa_source": "mixed",
+    "first_500_words": "P.O. BOX 807 • SACRAMENTO, 95804 ••• 1100 K STREET BUILDING, SACRAMENTO, 95814 Technical Assistance (916) 322-5662 Administration Executive/legal 322-5901 Enforcement 322-64.41 Statements of Ec.,nomic Interest 322-6444 322-5660 Mr. Fletcher H. Swan 1224 Orange Grove Avenue So0th Pasadena, CA 91030 Dear Mr. Swan: Your letter asks: April 21, 1983 Re: Your Letter Dated April 7, 1983, Our No. A-83-098 Under what circumstances maya member of a City Council and/or a Community Redevelopment Agency sell services and material to the City or Agency involved? Under the Political Reform Actl/ the Fair Political Practices Commission is charged with advising public officials who have duties under the Act. Section 83114. Your letter does not indicate whether you are a public official. In addition, our advice is limited to the official who requests it; we do not advise third parties regarding the duties and obligations of others who are officials. Section 83114. However, we can provide you with general information about the requirements of the Political Reform Act. We enclose a copy of our pamphlet and of the Act itself for your review. Generally, the conflict of interest provisions of the Act prohibit a public official from making, participating in making, or using his or her official position to influence a govern- mental decision in which he or she has a financial interest. Section 87100. What constitutes a financial interest is defined in Section 87103. l/ Government Code Sections 81000-91014, hereinafter the \"Act\". All statutory references are to the Government Code unless otherwise specified. Mr. Fletcher H. Swan April 21, 1983 Page Two Your question also suggests the possible applicability of Government Code Sections 1090, et~. These provisions are not a part of the Political Reform Act and, therefore, are not administered or interpreted by the Fair Political Practices Commission. You may wish to seek advice from the Attorney General regarding these provisions. This may be accomplished through your local county counsel's office or through your legislative representatives. REL: km Enclosures Sincerely, ~~ < t_ ~ .,1,- - - ~ / -A;:' \"\"\" ~'\" ,,-.~ I / Robert E. Leidigh Counsel, Legal Division",
+    "summary": "The FPPC responds to a query about whether City Council members or CRA members may sell services and materials to their government entities. While declining to provide specific advice due to uncertainty about the requester's official status, the FPPC explains that the Political Reform Act's conflict of interest provisions prohibit officials from using their position to influence decisions in which they have financial interests, and notes that additional provisions under Government Code Sections 1090 et seq. may also apply."
+  }
+}

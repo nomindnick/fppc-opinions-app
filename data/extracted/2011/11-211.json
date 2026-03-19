@@ -1,0 +1,79 @@
+{
+  "id": "11-211",
+  "year": 2011,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2011/11-211.pdf",
+  "pdf_sha256": "1f9b054400a6c88121d0a734a5ddff9a4d1faa163801f9defab74ad263c9109a",
+  "local_pdf_path": "raw_pdfs/2011/11-211.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2011 Advice Letter # 11-211",
+    "tags": [
+      "2011",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:53:14",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2011&tagCount=1&page=9"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:33:47.314480Z",
+    "page_count": 2,
+    "word_count": 476,
+    "char_count": 3018,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 476
+  },
+  "content": {
+    "full_text": "FAIR p OLITICAL p RACTICES COMMISSION \n428 J Street • Suite 620 • Sacramento, CA 95814-2329 \n(9 I 6) 322-5660 • Fax (916) 322-0886 \nVicki Hightower \nChief Deputy District Attorney \nSpecial Prosecutions Section \nRiverside County District Attorney \n3960 Orange Street \nRiverside, CA 92501 \nNovember 30, 2011 \nRe: \nYour Request for Informal Assistance \nOur File No. 1-11-211 \nDear Ms. Hightower: \nYou have submitted a power point file that will be used in presenting local ethics training \nfor local government officials pursuant to Assembly Bill 1234. Please note that our review is \nlimited to the provisions of the Political Reform Act (the \"Act\").1 Because your inquiry is \ngeneral in nature and does not involve a specific official, we are treating your letter as a request \nfor informal assistance.2 With respect to the other laws covered by the training (slides 20-25, 43-\n46, and 49-62), you may want to contact the Attorney General's Office for their feedback. \n• \nSlide 16: This slide lists the economic interests in Section 87103 but does not mention \ninvestments. (Section 87103(a).) \n• \nSlide 18: Section 87200 filers also have the obligation to leave the room pursuant to \nSection 87105 after stating on the record that they have a conflict of interest. (See also, \nRegulation 18702.5.) \n• \nSlide 29-37 -- According to the Senior Commission Counsel working on the gift \nregulations, these slides are accurate. We do have some significant changes coming up at \nour December meeting and you may want to watch those for future trainings. \n1 The Political Reform Act is contained in Government Code Sections 81000 through 91014. All statutory \nreferences are to the Government Code, unless otherwise indicated. The Regulations of the Fair Political Practices \nCommission are contained in Sections 18110 through 18997 of Title 2 of the California Code of Regulations. All \nregulatory references are to Title 2 ,  Division 6 of the California Code of Regulations, unless otherwise indicated. \n2 Informal assistance does not provide the requestor with the immunity provided by an opinion or formal \nwritten advice. (Section 83 I 14; Regulation l 8329(c)(3).) \n\n\nOur File No. I-11-211 \nPage2 \n• Slide 72: This is the Act's behested payment rule and is probably the most frequently \noverlooked disclosure rule. This may deserve another slide. We would suggest the \nfollowing changes: \no Bullet 2: \"Donation is made for a purpose unrelated to the elected official's \ncandidacy, such as legislative, governmental, or charitable purposes.\" \no Bullet 3: \"Donation will be made at the behest of an elected official (i.e. under \nthe control or at the direction of, in cooperation, consultation, coordination, or \nconcert with, at the request or suggestion of, or with the express, prior consent \nof.)\" \nIf you have any other questions regarding this matter, please contact me at (916) 322-\n5660. \nJWW:jgl \nSincerely, \nZackery P. Morazzini \nGe eral Counsel \nBy: \nJ qhn W. Wallace \nlssistant General Counsel \negal Division \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2011-11-30",
+    "date_raw": "November 30, 2011",
+    "requestor_name": "Hightower",
+    "requestor_title": "District Attorney",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "What feedback does the FPPC have on a PowerPoint presentation for AB 1234 local government ethics training, specifically regarding accuracy of content on economic interests, conflicts of interest, gifts, and behested payments under the Political Reform Act?",
+    "conclusion_synthetic": "The FPPC reviewed the training slides and provided specific corrections and clarifications: Slide 16 omits investments from Section 87103 economic interests; Slide 18 should note Section 87105 room-leaving obligations; Slides 29-37 on gifts are accurate with future regulatory changes pending; and Slide 72 on behested payments should be expanded with improved language to address this frequently overlooked disclosure rule.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Informal assistance letter without distinct QUESTION/CONCLUSION sections. Request is general in nature rather than involving a specific official. Letter includes specific slide-by-slide feedback with suggested language changes."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "87103",
+      "87103(a)",
+      "87105",
+      "87200"
+    ],
+    "regulations": [
+      "18702.5"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.8,
+    "classified_at": "2026-02-06T18:33:47.314480Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: What feedback does the FPPC have on a PowerPoint presentation for AB 1234 local government ethics training, specifically regarding accuracy of content on economic interests, conflicts of interest, gifts, and behested payments under the Political Reform Act?\n\nCONCLUSION: The FPPC reviewed the training slides and provided specific corrections and clarifications: Slide 16 omits investments from Section 87103 economic interests; Slide 18 should note Section 87105 room-leaving obligations; Slides 29-37 on gifts are accurate with future regulatory changes pending; and Slide 72 on behested payments should be expanded with improved language to address this frequently overlooked disclosure rule.",
+    "qa_source": "synthetic",
+    "first_500_words": "FAIR p OLITICAL p RACTICES COMMISSION 428 J Street • Suite 620 • Sacramento, CA 95814-2329 (9 I 6) 322-5660 • Fax (916) 322-0886 Vicki Hightower Chief Deputy District Attorney Special Prosecutions Section Riverside County District Attorney 3960 Orange Street Riverside, CA 92501 November 30, 2011 Re: Your Request for Informal Assistance Our File No. 1-11-211 Dear Ms. Hightower: You have submitted a power point file that will be used in presenting local ethics training for local government officials pursuant to Assembly Bill 1234. Please note that our review is limited to the provisions of the Political Reform Act (the \"Act\").1 Because your inquiry is general in nature and does not involve a specific official, we are treating your letter as a request for informal assistance.2 With respect to the other laws covered by the training (slides 20-25, 43- 46, and 49-62), you may want to contact the Attorney General's Office for their feedback. • Slide 16: This slide lists the economic interests in Section 87103 but does not mention investments. (Section 87103(a).) • Slide 18: Section 87200 filers also have the obligation to leave the room pursuant to Section 87105 after stating on the record that they have a conflict of interest. (See also, Regulation 18702.5.) • Slide 29-37 -- According to the Senior Commission Counsel working on the gift regulations, these slides are accurate. We do have some significant changes coming up at our December meeting and you may want to watch those for future trainings. 1 The Political Reform Act is contained in Government Code Sections 81000 through 91014. All statutory references are to the Government Code, unless otherwise indicated. The Regulations of the Fair Political Practices Commission are contained in Sections 18110 through 18997 of Title 2 of the California Code of Regulations. All regulatory references are to Title 2 , Division 6 of the California Code of Regulations, unless otherwise indicated. 2 Informal assistance does not provide the requestor with the immunity provided by an opinion or formal written advice. (Section 83 I 14; Regulation l 8329(c)(3).) Our File No. I-11-211 Page2 • Slide 72: This is the Act's behested payment rule and is probably the most frequently overlooked disclosure rule. This may deserve another slide. We would suggest the following changes: o Bullet 2: \"Donation is made for a purpose unrelated to the elected official's candidacy, such as legislative, governmental, or charitable purposes.\" o Bullet 3: \"Donation will be made at the behest of an elected official (i.e. under the control or at the direction of, in cooperation, consultation, coordination, or concert with, at the request or suggestion of, or with the express, prior consent of.)\" If you have any other questions regarding this matter, please contact me at (916) 322- 5660. JWW:jgl Sincerely, Zackery P. Morazzini Ge eral Counsel By: J qhn W. Wallace lssistant General Counsel egal Division",
+    "summary": "The FPPC responds to a request for informal assistance regarding an AB 1234 ethics training PowerPoint presentation, providing feedback on specific slides covering economic interests, conflict of interest procedures, gifts, and behested payments under the Political Reform Act."
+  }
+}

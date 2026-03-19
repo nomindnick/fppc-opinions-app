@@ -1,0 +1,73 @@
+{
+  "id": "79-212",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-212.PDF",
+  "pdf_sha256": "c22d423dc3acde1ab40b8a72bb33f2fd4a6427416d9e91a9b6cfe03fc00ea4ec",
+  "local_pdf_path": "raw_pdfs/1979/79-212.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1979 Advice Letter # 79-212",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:26:53",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=21"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:08.251654Z",
+    "page_count": 1,
+    "word_count": 191,
+    "char_count": 1147,
+    "quality_score": 0.6325000000000001,
+    "olmocr_cost": null,
+    "native_word_count": 191
+  },
+  "content": {
+    "full_text": "State of California \nMemorandum \nTo \nFile \nDate \nJanuary 9, 1979 \nJeanne Pritchard \nFrom \nl~l-.IW'''TICES COMM ISSION \nSubject: \nTelephone Advice Provided to K.D. Lyders, City of Oxnard \nBecause Mr. Lyders was in need of a quick response to his \nletter to our office dated February 3, 1978, I responded with \noral advice by telephone. \nIn his letter Mr. Lyder asked if \npublic officials who lived in mobile home parks may vote on \nmatters which may materially affect their trailer park in which \nthey reside. \nI informed Mr. Lyders that our office was of the \nview that the ownership of a mobile home was not considered an \ninterest in real property. \nI also indicated in our conversation \nthat a lease for space within the trailer park would not be con-\nsidered an interest in real property unless the lease was for at \nleast a ten year period pursuant to Commission Regulation 18233. \nTherefore, public officials who owned mobilehomes could vote on \nmatters affecting the trailer parks in which they reside. \nThis advice was given within 2 weeks (late February) of the \nreceipt of Mr. Lyders letter although I cannot recall the specific \ndate. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1979-01-09",
+    "date_raw": "January 9, 1979",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "In his letter Mr. Lyder asked if public officials who lived in mobile home parks may vote on matters which may materially affect their trailer park in which they reside.",
+    "conclusion": "I informed Mr. Lyders that our office was of the view that the ownership of a mobile home was not considered an interest in real property. I also indicated in our conversation that a lease for space within the trailer park would not be considered an interest in real property unless the lease was for at least a ten year period pursuant to Commission Regulation 18233. Therefore, public officials who owned mobilehomes could vote on matters affecting the trailer parks in which they reside.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether public officials who own mobile homes or lease spaces in mobile home parks are prohibited from voting on matters that materially affect the trailer park in which they reside due to financial conflicts of interest.",
+    "conclusion_synthetic": "Mobile home ownership is not considered an interest in real property under FPPC regulations, and leases under ten years are similarly excluded. Therefore, public officials who own mobile homes or hold short-term leases in trailer parks may vote on matters affecting those parks.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is a memorandum documenting prior telephone advice rather than a formal written advice letter. No formal conclusion or question sections are present; content is contained within narrative paragraphs. The advice was provided verbally in late February 1979 and documented here in writing on January 9, 1979 (likely a dating error or late documentation)."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [
+      "18233"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:08.251654Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: In his letter Mr. Lyder asked if public officials who lived in mobile home parks may vote on matters which may materially affect their trailer park in which they reside.\n\nCONCLUSION: I informed Mr. Lyders that our office was of the view that the ownership of a mobile home was not considered an interest in real property. I also indicated in our conversation that a lease for space within the trailer park would not be considered an interest in real property unless the lease was for at least a ten year period pursuant to Commission Regulation 18233. Therefore, public officials who owned mobilehomes could vote on matters affecting the trailer parks in which they reside.",
+    "qa_source": "mixed",
+    "first_500_words": "State of California Memorandum To File Date January 9, 1979 Jeanne Pritchard From l~l-.IW'''TICES COMM ISSION Subject: Telephone Advice Provided to K.D. Lyders, City of Oxnard Because Mr. Lyders was in need of a quick response to his letter to our office dated February 3, 1978, I responded with oral advice by telephone. In his letter Mr. Lyder asked if public officials who lived in mobile home parks may vote on matters which may materially affect their trailer park in which they reside. I informed Mr. Lyders that our office was of the view that the ownership of a mobile home was not considered an interest in real property. I also indicated in our conversation that a lease for space within the trailer park would not be con- sidered an interest in real property unless the lease was for at least a ten year period pursuant to Commission Regulation 18233. Therefore, public officials who owned mobilehomes could vote on matters affecting the trailer parks in which they reside. This advice was given within 2 weeks (late February) of the receipt of Mr. Lyders letter although I cannot recall the specific date.",
+    "summary": "FPPC memorandum documenting telephone advice provided to K.D. Lyders of the City of Oxnard regarding whether public officials living in mobile home parks may vote on matters affecting those parks. FPPC advised that mobile home ownership and short-term leases do not constitute real property interests under Regulation 18233, thus permitting such officials to vote on related matters."
+  }
+}

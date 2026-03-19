@@ -1,0 +1,71 @@
+{
+  "id": "77A-308",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77A-308.PDF",
+  "pdf_sha256": "39904ea8099c3db2a35ee93a529e13335bd1ec0fa56c8cbd045a4467ed2738fb",
+  "local_pdf_path": "raw_pdfs/1977/77A-308.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977A Advice Letter # 77A-308",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:20:51",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=26"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:14.538874Z",
+    "page_count": 1,
+    "word_count": 126,
+    "char_count": 841,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 126
+  },
+  "content": {
+    "full_text": "State af California \nMemorandum \nTo \nFrom \nSubject: \nFile \nFAIR POLITICAL PRACTICES COMMISSION \nTed Prim \nDate \nApril II, 1977 \nConversation with Anita Bobbitt from Assemblyman Tucker's \noffice. \nI spoke with Anita Bobbitt of Assemblyman Tucker's office \non March 30, 1977. \nShe indicated that Assemblyman Tucker's \ncontrolled committee intended to buy $105 worth of fund-\nraising tickets from a local candidate in the Los Angeles \nelections. \nShe asked whether the controlled committee \nwould be required to file campaign statements in connec-\ntion with the local electianby virtue of this purchase. \nCiting 84204.1 I advised her that Assemblyman Tucker's con-\ntrolled committee would not be required to file campaign \nstatements in connection with the Los Angeles elections \nby virtue of this purchase since it was less than$250. \nTP: jo \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1977-03-30",
+    "date_raw": "March 30, 1977",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a controlled committee must file campaign statements in connection with local elections when purchasing $105 worth of fundraising tickets from a local candidate.",
+    "conclusion_synthetic": "No filing requirement exists under section 84204.1 because the purchase amount of $105 is less than the $250 threshold that triggers campaign statement filing obligations.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Informal memorandum format rather than formal advice letter. No formal QUESTION/CONCLUSION sections present. Question and conclusion extracted from narrative memo text. Reference to section 84204.1 used to support the analysis. Document is staff-to-file notation of informal advice given verbally."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:14.538874Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether a controlled committee must file campaign statements in connection with local elections when purchasing $105 worth of fundraising tickets from a local candidate.\n\nCONCLUSION: No filing requirement exists under section 84204.1 because the purchase amount of $105 is less than the $250 threshold that triggers campaign statement filing obligations.",
+    "qa_source": "synthetic",
+    "first_500_words": "State af California Memorandum To From Subject: File FAIR POLITICAL PRACTICES COMMISSION Ted Prim Date April II, 1977 Conversation with Anita Bobbitt from Assemblyman Tucker's office. I spoke with Anita Bobbitt of Assemblyman Tucker's office on March 30, 1977. She indicated that Assemblyman Tucker's controlled committee intended to buy $105 worth of fund- raising tickets from a local candidate in the Los Angeles elections. She asked whether the controlled committee would be required to file campaign statements in connec- tion with the local electianby virtue of this purchase. Citing 84204.1 I advised her that Assemblyman Tucker's con- trolled committee would not be required to file campaign statements in connection with the Los Angeles elections by virtue of this purchase since it was less than$250. TP: jo",
+    "summary": "FPPC staff memorandum documenting a telephone conversation with Assemblyman Tucker's office regarding whether his controlled committee's $105 purchase of fundraising tickets from a local Los Angeles candidate triggers campaign statement filing requirements. Staff concluded no filing requirement applies because the amount is below the $250 threshold."
+  }
+}

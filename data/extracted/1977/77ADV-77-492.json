@@ -1,0 +1,73 @@
+{
+  "id": "77ADV-77-492",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-492.PDF",
+  "pdf_sha256": "b45a81e87579b241f88c33544645942b4732d9dcbc0cc4d753566e05c7d94bd4",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-492.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-492",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:22:41",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=51"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:16.728133Z",
+    "page_count": 1,
+    "word_count": 201,
+    "char_count": 1219,
+    "quality_score": 0.6325000000000001,
+    "olmocr_cost": null,
+    "native_word_count": 201
+  },
+  "content": {
+    "full_text": "Gifts to official and spouse - reporting standards \n82028 \n87207 \nAt the opinion request meeting of September 19, 1977, we \ndecided that gifts of meals and vacations should be reported in \nthe following manner: \n1. \nSuch gifts may be reported as joint gifts to \nthe official and the spouse pursuant to the standards \nset forth in the Torres opinion. \nThus, the reporting \nthreshold for such a gift is $50 and the value of such \na gift is one-half the value of the dinners or vacations \nreceived by the parties jointly. \n2. \nSuch gifts may be reported as separate gifts \nto the office and spouse \npursuant to the standards set \nforth in the Cory opinion. \nThus, the official reports \nthe value of his/her dinner or portion of the vacation \nbut does not report the value of such items received \nby the spouse. \n3. \nThe official need not disclose such gifts when \nthey constitute food and beverages received at an event, \nnecessary accommodations in connection with an event \nand intrastate transportation to and from an event at \nwhich the official provides speaking or similar services \npursuant to Regulation 18728. \nThis interpretation modifies staff advice previously pro-\nvided to Judges Reynoso, Puglia and Scott. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1977-09-19",
+    "date_raw": "September 19, 1977",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "Gifts of meals and vacations may be reported as joint gifts to the official and spouse with a $50 reporting threshold and value calculated at one-half the total value received jointly; alternatively, as separate gifts where only the official's portion is reported; or need not be disclosed at all if they constitute food, beverages, accommodations, or intrastate transportation provided in connection with events where the official provides speaking or similar services pursuant to Regulation 18728.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "How should gifts of meals and vacations to public officials and their spouses be reported under FPPC regulations, and what are the applicable reporting thresholds and standards?",
+    "conclusion_synthetic": "The FPPC provided three compliant reporting methods for gifts of meals and vacations to officials and spouses, with thresholds and valuation standards based on the Torres and Cory opinions, and carving out an exemption for food, beverages, and related items at events where officials provide speaking services.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.75,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document appears to be meeting minutes or internal guidance memo rather than a formal Q&A advice letter; no explicit QUESTION or CONCLUSION sections found; verbatim conclusion reconstructed from numbered guidance points; Torres and Cory opinion references indicate reliance on prior precedent."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [
+      "18728"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:16.728133Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: How should gifts of meals and vacations to public officials and their spouses be reported under FPPC regulations, and what are the applicable reporting thresholds and standards?\n\nCONCLUSION: Gifts of meals and vacations may be reported as joint gifts to the official and spouse with a $50 reporting threshold and value calculated at one-half the total value received jointly; alternatively, as separate gifts where only the official's portion is reported; or need not be disclosed at all if they constitute food, beverages, accommodations, or intrastate transportation provided in connection with events where the official provides speaking or similar services pursuant to Regulation 18728.",
+    "qa_source": "mixed",
+    "first_500_words": "Gifts to official and spouse - reporting standards 82028 87207 At the opinion request meeting of September 19, 1977, we decided that gifts of meals and vacations should be reported in the following manner: 1. Such gifts may be reported as joint gifts to the official and the spouse pursuant to the standards set forth in the Torres opinion. Thus, the reporting threshold for such a gift is $50 and the value of such a gift is one-half the value of the dinners or vacations received by the parties jointly. 2. Such gifts may be reported as separate gifts to the office and spouse pursuant to the standards set forth in the Cory opinion. Thus, the official reports the value of his/her dinner or portion of the vacation but does not report the value of such items received by the spouse. 3. The official need not disclose such gifts when they constitute food and beverages received at an event, necessary accommodations in connection with an event and intrastate transportation to and from an event at which the official provides speaking or similar services pursuant to Regulation 18728. This interpretation modifies staff advice previously pro- vided to Judges Reynoso, Puglia and Scott.",
+    "summary": "This FPPC advice letter establishes reporting standards for gifts of meals and vacations given to public officials and their spouses, providing three permissible reporting approaches and an exemption for event-related items, while modifying previous staff guidance."
+  }
+}

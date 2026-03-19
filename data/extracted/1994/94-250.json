@@ -1,0 +1,75 @@
+{
+  "id": "94-250",
+  "year": 1994,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1994/94-250.pdf",
+  "pdf_sha256": "9470935ccead7f3ed6cf084c2e74898a76e6bbd50889f9fe58fb6008c0053214",
+  "local_pdf_path": "raw_pdfs/1994/94-250.pdf",
+  "source_metadata": {
+    "title_raw": "Lolonis, Mary Year: 1994 Advice Letter # 94-250",
+    "tags": [
+      "1994",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:36:16",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1994&tagCount=1&page=30"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:04.369485Z",
+    "page_count": 1,
+    "word_count": 155,
+    "char_count": 972,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 155
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\nAugust 16,\n1994\nMary Lolonis\nRisley\n& Goor\nSixteenth Floor,\n800 West Sixth Street\nLos Angeles,\nCA\n90017\nRe:\nYour Request for Advice\nOur File No.\nA-94-250\nDear Ms. Lolonis:\nThis letter confirms the oral advice given by this office on\nJuly 27,\n1944.\nYou stated that your organization,\nAmericans for Death with\nDignity, is registered as a tax exempt civic organization under 26\nU.S.C.\n§ 501(c) (4).\nYou further stated that your ballot measure\ncommittee,\nof the same name, desires to terminate its political\nactivities.\nAccordingly, your committee wishes to donate its\ncampaign account funds to the nonprofit organization in order to\nterminate the campaign account.\nYour committee may donate\ncampaign funds to that organization under Cal.\nGov’t qode\n§ 89515.\nSincerely,\nSteven G.\nChurchwell\nGeneral Counsel\nBy:\nD\nMuallem\nCounsel,\nLegal Division\n428 J Street, Suite 800 •\nP.O. Box 807 •\nSacramento, CA\n95804-0807 •\n(916) 322-5660\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1994-08-16",
+    "date_raw": "August 16,\n1994",
+    "requestor_name": "Lolonis",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "Your committee may donate campaign funds to that organization under Cal. Gov't Code § 89515.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a ballot measure committee may donate its remaining campaign funds to a related nonprofit tax-exempt civic organization when terminating its political activities.",
+    "conclusion_synthetic": "The FPPC confirms that the ballot measure committee may donate its campaign account funds to the nonprofit organization under California Government Code Section 89515 in order to terminate the campaign account.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document confirms prior oral advice from July 27, 1994 (document notes 1944 date but context indicates 1994). No formal Q/A sections present but question and conclusion are clearly identifiable in letter body. Minor date discrepancy in oral advice citation (1944 vs. 1994)."
+  },
+  "citations": {
+    "government_code": [
+      "89515"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [
+      "94-372"
+    ],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "gifts_honoraria",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:35:04.369485Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether a ballot measure committee may donate its remaining campaign funds to a related nonprofit tax-exempt civic organization when terminating its political activities.\n\nCONCLUSION: Your committee may donate campaign funds to that organization under Cal. Gov't Code § 89515.",
+    "qa_source": "mixed",
+    "first_500_words": "California Fair Political Practices Commission August 16, 1994 Mary Lolonis Risley & Goor Sixteenth Floor, 800 West Sixth Street Los Angeles, CA 90017 Re: Your Request for Advice Our File No. A-94-250 Dear Ms. Lolonis: This letter confirms the oral advice given by this office on July 27, 1944. You stated that your organization, Americans for Death with Dignity, is registered as a tax exempt civic organization under 26 U.S.C. § 501(c) (4). You further stated that your ballot measure committee, of the same name, desires to terminate its political activities. Accordingly, your committee wishes to donate its campaign account funds to the nonprofit organization in order to terminate the campaign account. Your committee may donate campaign funds to that organization under Cal. Gov’t qode § 89515. Sincerely, Steven G. Churchwell General Counsel By: D Muallem Counsel, Legal Division 428 J Street, Suite 800 • P.O. Box 807 • Sacramento, CA 95804-0807 • (916) 322-5660",
+    "summary": "The FPPC confirms oral advice regarding Americans for Death with Dignity's ballot measure committee's ability to donate remaining campaign funds to its related tax-exempt civic organization upon terminating political activities. The donation is permitted under Cal. Gov't Code § 89515."
+  }
+}

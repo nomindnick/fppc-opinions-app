@@ -1,0 +1,76 @@
+{
+  "id": "93-160",
+  "year": 1993,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1993/93-160.pdf",
+  "pdf_sha256": "b451c14c3ea8e5b09669b72e105523f51d5e6e69f1b38f5d7ebe96d7cdf3800b",
+  "local_pdf_path": "raw_pdfs/1993/93-160.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 1993 Advice Letter # 93-160",
+    "tags": [
+      "1993",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:31:09",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1993&tagCount=1&page=3"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:05.537090Z",
+    "page_count": 2,
+    "word_count": 315,
+    "char_count": 2042,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 315
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\nMay 18,\n1993\nMr.\nThomas S.\nKnox\nKnox,\nLeinmon, Lrdy,\net al.\n300 Capitol Mall,\nSuite\n1170\nSacramento,\nCA 95814\nRe:\nYour Request For Confirmation\nof Advice\nOur File No.\n1—93—160\nDear Mr.\nKnox:\nYou have requested confirmation of advice provided to you\nconcerning the conflict of interest disclosure provisions of the\nPolitical reform Act. 1/\nSince your request is one for general\ninformation,\nwe are treating yor request as one for informal\nassistance pursuant to Regulation 18329(c).2./\nYour letter,\ndated April\n14,\n1993, correctly summarizes our\nadvice conr2rning the statements of economic interests required to\nbe filed by Oaiifornia-Nevada Super Speed Gro’ind Transportation\nCommissioners and designated employees.\n1/\nGovernment Code Sections 81000-91015.\nAll statutory\nreferences are to the Government Code unless otherwise indicated.\nCommission regulations appear at\n2 California Code of Regulations\nSection 18000, et g.\nAll references to regulations are to Title\n2,\nDivision\n6 of the California Code of Regulations.\n2/\nInformal assistance does not provide the requestor with the\nimmunity provided by an opinion or formal written advice.\n(Government Code Section 83114;\n2 Cal.\nCode of Regs.\nSection\n18329(c) (3) .)\n42S j Street, Suite 800\n•\nP.O. Box 807\n•\nSacramento, CA\n95804-0807\n•\n(916) 32Z-566()\n\n\nMr.\nThomas S.\nKnox\n1—93—160\nPage Two\nIn addition to Frank Michelena’s Leaving Office statement\n(pending FPPC advice), it appears that we have not received the\nfollowing statements:\n1.\nArthur Pick --Confined Assuming Office and Annual\nStatements\n2.\nThomas McKnew\n-— Leaving Office Statement\n3.\nTom Skanke\n-- Assuming Office Statement\nIf the officials listed above do not file with you by May 31,\n1993, please contact iue so that the Commission can notify th.iñ\ndirectly regarding their obligations to file pursuant to the\nPolitical Reform Act.\nPlease contact me at\n(916)\n322-5662 if you have any questions\nregarding this matter.\n.\nSincerely,.\nI&2zJ\nAlice Hughes\nPolitical Reform Consultant\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1993-05-18",
+    "date_raw": "May 18,\n1993",
+    "requestor_name": "Knox",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requester sought confirmation of previously-provided FPPC advice regarding conflict of interest disclosure requirements for California-Nevada Super Speed Ground Transportation Commissioners and designated employees.",
+    "conclusion_synthetic": "The FPPC confirmed that the requester's April 14, 1993 letter correctly summarized the advice concerning statements of economic interests. The FPPC also identified missing required filings from specific officials and requested notification if those officials did not file by May 31, 1993.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is a confirmation/informal advice letter without traditional Q/C sections. Document contains references to specific missing statements and a deadline for filing compliance. Some OCR errors present in original text (e.g., 'Gro'ind', 'th.iñ', 'iue')."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "83114"
+    ],
+    "regulations": [
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "gifts_honoraria",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:35:05.537090Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The requester sought confirmation of previously-provided FPPC advice regarding conflict of interest disclosure requirements for California-Nevada Super Speed Ground Transportation Commissioners and designated employees.\n\nCONCLUSION: The FPPC confirmed that the requester's April 14, 1993 letter correctly summarized the advice concerning statements of economic interests. The FPPC also identified missing required filings from specific officials and requested notification if those officials did not file by May 31, 1993.",
+    "qa_source": "synthetic",
+    "first_500_words": "California Fair Political Practices Commission May 18, 1993 Mr. Thomas S. Knox Knox, Leinmon, Lrdy, et al. 300 Capitol Mall, Suite 1170 Sacramento, CA 95814 Re: Your Request For Confirmation of Advice Our File No. 1—93—160 Dear Mr. Knox: You have requested confirmation of advice provided to you concerning the conflict of interest disclosure provisions of the Political reform Act. 1/ Since your request is one for general information, we are treating yor request as one for informal assistance pursuant to Regulation 18329(c).2./ Your letter, dated April 14, 1993, correctly summarizes our advice conr2rning the statements of economic interests required to be filed by Oaiifornia-Nevada Super Speed Gro’ind Transportation Commissioners and designated employees. 1/ Government Code Sections 81000-91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations Section 18000, et g. All references to regulations are to Title 2, Division 6 of the California Code of Regulations. 2/ Informal assistance does not provide the requestor with the immunity provided by an opinion or formal written advice. (Government Code Section 83114; 2 Cal. Code of Regs. Section 18329(c) (3) .) 42S j Street, Suite 800 • P.O. Box 807 • Sacramento, CA 95804-0807 • (916) 32Z-566() Mr. Thomas S. Knox 1—93—160 Page Two In addition to Frank Michelena’s Leaving Office statement (pending FPPC advice), it appears that we have not received the following statements: 1. Arthur Pick --Confined Assuming Office and Annual Statements 2. Thomas McKnew -— Leaving Office Statement 3. Tom Skanke -- Assuming Office Statement If the officials listed above do not file with you by May 31, 1993, please contact iue so that the Commission can notify th.iñ directly regarding their obligations to file pursuant to the Political Reform Act. Please contact me at (916) 322-5662 if you have any questions regarding this matter. . Sincerely,. I&2zJ Alice Hughes Political Reform Consultant",
+    "summary": "The FPPC confirms previously-provided advice regarding economic interest disclosure requirements for California-Nevada Super Speed Ground Transportation officials and identifies outstanding required filings that must be submitted by May 31, 1993."
+  }
+}

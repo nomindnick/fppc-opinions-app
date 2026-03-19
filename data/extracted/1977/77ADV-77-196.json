@@ -1,0 +1,73 @@
+{
+  "id": "77ADV-77-196",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-196.PDF",
+  "pdf_sha256": "7b452ecd5476be9591e64ccd98c3188266cc2708683db969891b544cac1802d0",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-196.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-196",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:19:35",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=9"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T22:31:53.398230Z",
+    "page_count": 1,
+    "word_count": 134,
+    "char_count": 898,
+    "quality_score": 0.9287816385984515,
+    "olmocr_cost": 0.00254302,
+    "native_word_count": 81
+  },
+  "content": {
+    "full_text": "State of California\n\nMemorandum\n\nTo: File\n\nDate: March 22, 1977\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION  \nJohn Greenwood\n\nSubject: Conclusion of March 18, 1977 Opinion Request Meeting Regarding Regulation 18225\n\nQuestion: When a non-principal purpose committee (such as a political club) makes an expenditure for a mass mailing which states \"Support Democratic (Republican) Candidates,\" and the mailing provides no detailed identification (such as names or jurisdictions) of the candidates, is the expenditure reportable under 18225(c)(1)(B)? Must the mass mailing be sent to the Commission?\n\nAnswer: The expenditure for the mass mailing is reportable, and the mass mailing must be sent to the Commission. Further, it was concluded that the standard adopted relative to mass mailings in 2 FPPC Opinions 110 (see footnote #3) modifies but does not change the result of 2 FPPC Opinions 21.",
+    "full_text_markdown": "State of California\n\nMemorandum\n\nTo: File\n\nDate: March 22, 1977\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION  \nJohn Greenwood\n\nSubject: Conclusion of March 18, 1977 Opinion Request Meeting Regarding Regulation 18225\n\nQuestion: When a non-principal purpose committee (such as a political club) makes an expenditure for a mass mailing which states \"Support Democratic (Republican) Candidates,\" and the mailing provides no detailed identification (such as names or jurisdictions) of the candidates, is the expenditure reportable under 18225(c)(1)(B)? Must the mass mailing be sent to the Commission?\n\nAnswer: The expenditure for the mass mailing is reportable, and the mass mailing must be sent to the Commission. Further, it was concluded that the standard adopted relative to mass mailings in 2 FPPC Opinions 110 (see footnote #3) modifies but does not change the result of 2 FPPC Opinions 21."
+  },
+  "parsed": {
+    "date": "1977-03-22",
+    "date_raw": "March 22, 1977",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "When a non-principal purpose committee (such as a political club) makes an expenditure for a mass mailing which states \"Support Democratic (Republican) Candidates,\" and the mailing provides no detailed identification (such as names or jurisdictions) of the candidates, is the expenditure reportable under 18225(c)(1)(B)? Must the mass mailing be sent to the Commission?\n\nAnswer: The expenditure for the mass mailing is reportable, and the mass mailing must be sent to the Commission. Further, it was concluded that the standard adopted relative to mass mailings in 2 FPPC Opinions 110 (see footnote #3) modifies but does not change the result of 2 FPPC Opinions 21.",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.44999999999999996,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [
+      "18225"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T22:31:53.398230Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: When a non-principal purpose committee (such as a political club) makes an expenditure for a mass mailing which states \"Support Democratic (Republican) Candidates,\" and the mailing provides no detailed identification (such as names or jurisdictions) of the candidates, is the expenditure reportable under 18225(c)(1)(B)? Must the mass mailing be sent to the Commission?\n\nAnswer: The expenditure for the mass mailing is reportable, and the mass mailing must be sent to the Commission. Further, it was concluded that the standard adopted relative to mass mailings in 2 FPPC Opinions 110 (see footnote #3) modifies but does not change the result of 2 FPPC Opinions 21.",
+    "qa_source": "extracted",
+    "first_500_words": "**State of California** **Memorandum** To: File Date: March 22, 1977 From: FAIR POLITICAL PRACTICES COMMISSION John Greenwood Subject: Conclusion of March 18, 1977 Opinion Request Meeting Regarding Regulation 18225 Question: When a non-principal purpose committee (such as a political club) makes an expenditure for a mass mailing which states \"Support Democratic (Republican) Candidates,\" and the mailing provides no detailed identification (such as names or jurisdictions) of the candidates, is the expenditure reportable under 18225(c)(1)(B)? Must the mass mailing be sent to the Commission? Answer: The expenditure for the mass mailing is reportable, and the mass mailing must be sent to the Commission. Further, it was concluded that the standard adopted relative to mass mailings in 2 FPPC Opinions 110 (see footnote #3) modifies but does not change the result of 2 FPPC Opinions 21.",
+    "summary": null
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "77ADV-77-446",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-446.PDF",
+  "pdf_sha256": "97468059902d991ceb6d0fdc120446562e064d8e123ea74482648c3de998c95c",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-446.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-446",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:21:04",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=29"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-07T17:10:23.900762Z",
+    "page_count": 1,
+    "word_count": 192,
+    "char_count": 1208,
+    "quality_score": 0.6325000000000001,
+    "olmocr_cost": 0.0025929,
+    "native_word_count": 17
+  },
+  "content": {
+    "full_text": "February 15, 1977\n\nMarty Pike  \nWinner, Wagner and Associates  \n1024 - 10th St., Suite 310  \nSacramento, CA 95814\n\nDear Ms. Pike:\n\nThis letter confirms our telephone conversation of February 15, 1977, concerning a contribution made by a registered lobbyist to a school board candidate. The candidate is the spouse of a member of the Energy Resources Conservation and Development Commission. For purposes of our conversation, we assumed that the lobbyist attempts to influence the Energy Commission.\n\nYou asked whether the lobbyist could purchase a ticket to a fundraiser held by the school board candidate. On the basis of these facts, I advised you that the lobbyist may purchase a ticket. However, the contribution is a \"payment to influence legislative or administrative action,\" as defined in Government Code Section 82045(c), because it benefits a member of the immediate family of a state agency official. As such the payment is an \"activity expense\" which must be paid from the lobbyist account and reported on Schedule A of the lobbyist's Form 620. See 2 Cal. Adm. Code Section 18615(a)(2).\n\nI hope this information will be of assistance.\n\nSincerely,\n\nNatalie E. West  \nStaff Counsel  \nLegal Division",
+    "full_text_markdown": "February 15, 1977\n\nMarty Pike  \nWinner, Wagner and Associates  \n1024 - 10th St., Suite 310  \nSacramento, CA 95814\n\nDear Ms. Pike:\n\nThis letter confirms our telephone conversation of February 15, 1977, concerning a contribution made by a registered lobbyist to a school board candidate. The candidate is the spouse of a member of the Energy Resources Conservation and Development Commission. For purposes of our conversation, we assumed that the lobbyist attempts to influence the Energy Commission.\n\nYou asked whether the lobbyist could purchase a ticket to a fundraiser held by the school board candidate. On the basis of these facts, I advised you that the lobbyist may purchase a ticket. However, the contribution is a \"payment to influence legislative or administrative action,\" as defined in Government Code Section 82045(c), because it benefits a member of the immediate family of a state agency official. As such the payment is an \"activity expense\" which must be paid from the lobbyist account and reported on Schedule A of the lobbyist's Form 620. See 2 Cal. Adm. Code Section 18615(a)(2).\n\nI hope this information will be of assistance.\n\nSincerely,\n\nNatalie E. West  \nStaff Counsel  \nLegal Division"
+  },
+  "parsed": {
+    "date": "1977-02-15",
+    "date_raw": "February 15, 1977",
+    "requestor_name": "Pike",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "May a registered lobbyist purchase a ticket to a fundraiser held by a school board candidate who is the spouse of an Energy Resources Conservation and Development Commission member, where the lobbyist attempts to influence the Energy Commission?",
+    "conclusion_synthetic": "The lobbyist may purchase the ticket, but the contribution constitutes a 'payment to influence legislative or administrative action' under Government Code Section 82045(c) because it benefits the immediate family of a state agency official, and must be treated as an 'activity expense' paid from the lobbyist account and reported on Schedule A of Form 620.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Letter lacks formal QUESTION and CONCLUSION sections but clearly presents the question asked and FPPC's response. Structured as a confirmation of telephone advice. All key information extracted from body paragraphs."
+  },
+  "citations": {
+    "government_code": [
+      "82045(c)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T17:10:23.900762Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: May a registered lobbyist purchase a ticket to a fundraiser held by a school board candidate who is the spouse of an Energy Resources Conservation and Development Commission member, where the lobbyist attempts to influence the Energy Commission?\n\nCONCLUSION: The lobbyist may purchase the ticket, but the contribution constitutes a 'payment to influence legislative or administrative action' under Government Code Section 82045(c) because it benefits the immediate family of a state agency official, and must be treated as an 'activity expense' paid from the lobbyist account and reported on Schedule A of Form 620.",
+    "qa_source": "synthetic",
+    "first_500_words": "February 15, 1977 Marty Pike Winner, Wagner and Associates 1024 - 10th St., Suite 310 Sacramento, CA 95814 Dear Ms. Pike: This letter confirms our telephone conversation of February 15, 1977, concerning a contribution made by a registered lobbyist to a school board candidate. The candidate is the spouse of a member of the Energy Resources Conservation and Development Commission. For purposes of our conversation, we assumed that the lobbyist attempts to influence the Energy Commission. You asked whether the lobbyist could purchase a ticket to a fundraiser held by the school board candidate. On the basis of these facts, I advised you that the lobbyist may purchase a ticket. However, the contribution is a \"payment to influence legislative or administrative action,\" as defined in Government Code Section 82045(c), because it benefits a member of the immediate family of a state agency official. As such the payment is an \"activity expense\" which must be paid from the lobbyist account and reported on Schedule A of the lobbyist's Form 620. See 2 Cal. Adm. Code Section 18615(a)(2). I hope this information will be of assistance. Sincerely, Natalie E. West Staff Counsel Legal Division",
+    "summary": "FPPC advice letter confirming that a registered lobbyist may purchase a fundraiser ticket from a school board candidate who is the spouse of a state agency official, but the contribution must be reported as a lobbying activity expense paid from the lobbyist's account."
+  }
+}

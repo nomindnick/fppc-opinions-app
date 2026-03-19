@@ -1,0 +1,71 @@
+{
+  "id": "01-236",
+  "year": 2001,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2001/01-236.pdf",
+  "pdf_sha256": "edfaa8d6b9922e49fdac062b5b3f550e881973a8ecc8a11e6211748dd65a6246",
+  "local_pdf_path": "raw_pdfs/2001/01-236.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2001 Advice Letter # 01-236",
+    "tags": [
+      "2001",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:34:01",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2001&tagCount=1&page=17"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T21:14:14.090545Z",
+    "page_count": 1,
+    "word_count": 95,
+    "char_count": 645,
+    "quality_score": 0.7771053881770154,
+    "olmocr_cost": 0.00251206,
+    "native_word_count": 121
+  },
+  "content": {
+    "full_text": "January 2, 2002\n\nRobin Sexton\nDirector of Business Development\nGnossos Software\n1701 K Street, N.W., 10th Floor\nWashington, D.C. 20006-1511\n\nRe: Your Request for Advice\n    Our File No. W-01-236\n\nDear Ms. Sexton:\n\nAccording to our records, on September 25, 2001, you submitted a letter requesting approval of a modified filing format for the Recipient Committee Campaign Statement (Form 460). This is to confirm that per our subsequent telephone conversation, you withdrew your request.\n\nIf you have any questions regarding this matter, please contact me at (916) 322-5660.\n\nSincerely,\n\nCarla Wardlow\nDivision Chief\nTechnical Assistance Division",
+    "full_text_markdown": "January 2, 2002\n\nRobin Sexton\nDirector of Business Development\nGnossos Software\n1701 K Street, N.W., 10th Floor\nWashington, D.C. 20006-1511\n\nRe: Your Request for Advice\n    Our File No. W-01-236\n\nDear Ms. Sexton:\n\nAccording to our records, on September 25, 2001, you submitted a letter requesting approval of a modified filing format for the Recipient Committee Campaign Statement (Form 460). This is to confirm that per our subsequent telephone conversation, you withdrew your request.\n\nIf you have any questions regarding this matter, please contact me at (916) 322-5660.\n\nSincerely,\n\nCarla Wardlow\nDivision Chief\nTechnical Assistance Division"
+  },
+  "parsed": {
+    "date": "2002-01-02",
+    "date_raw": "January 2, 2002",
+    "requestor_name": "Sexton",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T21:14:14.090545Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "January 2, 2002 Robin Sexton Director of Business Development Gnossos Software 1701 K Street, N.W., 10th Floor Washington, D.C. 20006-1511 Re: Your Request for Advice Our File No. W-01-236 Dear Ms. Sexton: According to our records, on September 25, 2001, you submitted a letter requesting approval of a modified filing format for the Recipient Committee Campaign Statement (Form 460). This is to confirm that per our subsequent telephone conversation, you withdrew your request. If you have any questions regarding this matter, please contact me at (916) 322-5660. Sincerely, Carla Wardlow Division Chief Technical Assistance Division",
+    "qa_source": "extracted",
+    "first_500_words": "January 2, 2002 Robin Sexton Director of Business Development Gnossos Software 1701 K Street, N.W., 10th Floor Washington, D.C. 20006-1511 Re: Your Request for Advice Our File No. W-01-236 Dear Ms. Sexton: According to our records, on September 25, 2001, you submitted a letter requesting approval of a modified filing format for the Recipient Committee Campaign Statement (Form 460). This is to confirm that per our subsequent telephone conversation, you withdrew your request. If you have any questions regarding this matter, please contact me at (916) 322-5660. Sincerely, Carla Wardlow Division Chief Technical Assistance Division",
+    "summary": null
+  }
+}

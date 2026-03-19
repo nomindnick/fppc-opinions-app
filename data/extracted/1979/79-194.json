@@ -1,0 +1,71 @@
+{
+  "id": "79-194",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-194.PDF",
+  "pdf_sha256": "83e6d31e1d96fd0918064d6979a5d6c0fb0a51a9605cfeb239e1345b310b925d",
+  "local_pdf_path": "raw_pdfs/1979/79-194.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1979 Advice Letter # 79-194",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:26:04",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=10"
+  },
+  "extraction": {
+    "method": "native+olmocr",
+    "extracted_at": "2026-02-07T16:48:25.317686Z",
+    "page_count": 1,
+    "word_count": 11,
+    "char_count": 80,
+    "quality_score": 0.25,
+    "olmocr_cost": 0.002365,
+    "native_word_count": 11
+  },
+  "content": {
+    "full_text": "Ex-officio member of Coastal Commission should be in Coastal \nCommission code. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether an ex-officio member of the Coastal Commission should be included in the Coastal Commission conflict of interest code.",
+    "conclusion_synthetic": "An ex-officio member of the Coastal Commission should be included in the Coastal Commission code.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.45,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is extremely brief with no formal question/conclusion sections. Content appears to be a title or summary statement rather than a full advice letter. Unable to extract detailed reasoning or context. High uncertainty about whether this represents the complete document or a header/summary of a longer document."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T16:48:25.317686Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether an ex-officio member of the Coastal Commission should be included in the Coastal Commission conflict of interest code.\n\nCONCLUSION: An ex-officio member of the Coastal Commission should be included in the Coastal Commission code.",
+    "qa_source": "synthetic",
+    "first_500_words": "Ex-officio member of Coastal Commission should be in Coastal Commission code.",
+    "summary": "FPPC advice letter addressing whether ex-officio members of the Coastal Commission should be covered under the Coastal Commission conflict of interest code. The letter advises that such members should be included in the code."
+  }
+}

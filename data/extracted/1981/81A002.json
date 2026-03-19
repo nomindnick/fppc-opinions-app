@@ -1,0 +1,73 @@
+{
+  "id": "81A002",
+  "year": 1981,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1981/81A002.PDF",
+  "pdf_sha256": "17e467d58198fd01b36c7207fecbb257736acb8149888c8efa75cb097011f77c",
+  "local_pdf_path": "raw_pdfs/1981/81A002.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1981 Advice Letter # 81A002",
+    "tags": [
+      "Advice Letter",
+      "1981"
+    ],
+    "scraped_at": "2026-01-31 15:28:07",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1981&tagCount=1"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:59.633592Z",
+    "page_count": 1,
+    "word_count": 75,
+    "char_count": 503,
+    "quality_score": 0.5075,
+    "olmocr_cost": null,
+    "native_word_count": 75
+  },
+  "content": {
+    "full_text": "State of California \nM \nor \nTo \nFile \nDate \n~Tan. 9, 1981 \nfrom \nfAIR POLITICAL PRACTICES COMMISSION \nSarah Cameron \nSubject: Insurance companies as \"commercial lending institutions\" \nAt the Conflicts of Interest Seminar at Los Angeles on \nJanuary 7, 1981 I advised in response to a question that insurance \ncompanies are commercial lending institutions within the r.eaninq \nof Section 82030(b) (8) (B)f Le., that the $10,000 reporting \nthreshold applies to loans one gets on one's insurance policies. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1981-01-07",
+    "date_raw": "January 7, 1981",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether insurance companies qualify as 'commercial lending institutions' under Section 82030(b)(8)(B) for purposes of the $10,000 reporting threshold for loans.",
+    "conclusion_synthetic": "Insurance companies are commercial lending institutions within the meaning of Section 82030(b)(8)(B), and therefore the $10,000 reporting threshold applies to loans obtained on insurance policies.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.75,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: No formal QUESTION or CONCLUSION sections found; advice was given orally at a seminar and documented in memo form. Question and conclusion synthesized from body text. Document appears to be an internal memo confirming advice given rather than a formal response letter."
+  },
+  "citations": {
+    "government_code": [
+      "82030(b)(8)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:36:59.633592Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether insurance companies qualify as 'commercial lending institutions' under Section 82030(b)(8)(B) for purposes of the $10,000 reporting threshold for loans.\n\nCONCLUSION: Insurance companies are commercial lending institutions within the meaning of Section 82030(b)(8)(B), and therefore the $10,000 reporting threshold applies to loans obtained on insurance policies.",
+    "qa_source": "synthetic",
+    "first_500_words": "State of California M or To File Date ~Tan. 9, 1981 from fAIR POLITICAL PRACTICES COMMISSION Sarah Cameron Subject: Insurance companies as \"commercial lending institutions\" At the Conflicts of Interest Seminar at Los Angeles on January 7, 1981 I advised in response to a question that insurance companies are commercial lending institutions within the r.eaninq of Section 82030(b) (8) (B)f Le., that the $10,000 reporting threshold applies to loans one gets on one's insurance policies.",
+    "summary": "FPPC advice letter clarifying that insurance companies constitute commercial lending institutions under Section 82030(b)(8)(B), making loans on insurance policies subject to the $10,000 reporting threshold."
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "79-004",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-004.PDF",
+  "pdf_sha256": "36077fd391f706ab1a0e0bf03b11d43609994d71a96af9f18357015f506a1863",
+  "local_pdf_path": "raw_pdfs/1979/79-004.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1979 Advice Letter # 79-004",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:25:24",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-25T22:48:16.017792Z",
+    "page_count": 1,
+    "word_count": 133,
+    "char_count": 813,
+    "quality_score": 0.9078250000000001,
+    "olmocr_cost": 0.00249228,
+    "native_word_count": 2,
+    "haiku_cost": 0.002048
+  },
+  "content": {
+    "full_text": "State of California\n\nMemorandum\n\nTo    : File                                    Date : January 2, 1979\n\n\nFrom : FAIR POLITICAL PRACTICES COMMISSION\n       Ted Prim\n\nSubject: Guarantee of a Loan\n\n\n     When a person acts as the guarantor of a loan which is\nmade to an official, the official has received income under\nthe Political Reform Act.  For the purpose of reporting, the\nofficial should report the full amount of the loan and list\nthe name and other relevant information with respect to the\nguarantor as the source of income.\n\n     With respect to disqualification, the value of the guarantee\nmay be viewed as the difference in cost of obtaining the loan\nwith and without the guarantee.  If the loan would not have\nbeen made without the guarantee, the value of the guarantee is\nthe full amount of the loan.",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1979-01-02",
+    "date_raw": "January 2, 1979",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a loan guarantee provided to an official constitutes reportable income under the Political Reform Act and how to value it for disqualification purposes.",
+    "conclusion_synthetic": "When a person guarantees a loan to an official, the official has received reportable income equal to the full loan amount with the guarantor listed as the source. The value for disqualification purposes is the difference in borrowing costs with and without the guarantee, or the full loan amount if the loan would not have been made otherwise.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: No explicit QUESTION or CONCLUSION sections found; document is structured as a memorandum without standard advice letter headers. Question and conclusion synthesized from substantive content."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T16:40:41.044268Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether a loan guarantee provided to an official constitutes reportable income under the Political Reform Act and how to value it for disqualification purposes.\n\nCONCLUSION: When a person guarantees a loan to an official, the official has received reportable income equal to the full loan amount with the guarantor listed as the source. The value for disqualification purposes is the difference in borrowing costs with and without the guarantee, or the full loan amount if the loan would not have been made otherwise.",
+    "qa_source": "synthetic",
+    "first_500_words": "**Memorandum** To: File Date: January 2, 1979 From: FAIR POLITICAL PRACTICES COMMISSION Ted Prim Subject: Guarantee of a Loan When a person acts as the guarantor of a loan which is made to an official, the official has received income under the Political Reform Act. For the purposes of reporting, the official should report the full amount of the loan and list the name and other relevant information with respect to the guarantor as the source of income. With respect to disqualification, the value of the guarantee may be viewed as the difference in cost of obtaining the loan with and without the guarantee. If the loan would not have been made without the guarantee the value of the guarantee is the full amount of the loan.",
+    "summary": "FPPC memorandum addressing whether loan guarantees constitute reportable income for officials and establishing valuation methods for both reporting and disqualification purposes under the Political Reform Act."
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "84257",
+  "year": 1984,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1984/fppc-advice/84257.PDF",
+  "pdf_sha256": "4ee401fc3b2aed83a031a96f67e4df692d31e52fe4c698e0a9da095e247b6d4e",
+  "local_pdf_path": "raw_pdfs/1984/84257.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1984 Advice Letter # 84257",
+    "tags": [
+      "1984",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:34:14",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1984&tagCount=1&page=11"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:46.877409Z",
+    "page_count": 1,
+    "word_count": 175,
+    "char_count": 1162,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 175
+  },
+  "content": {
+    "full_text": "State of California \nMemorandum \nTo \n: Advice File: \nSection 82016 \nDate \nAugust 1, 1984 \nNo. M-84-257 \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nCarla Wardlow \nSubject: Question from Senator Roberti \nQUESTION \nSenators Roberti and Carpenter at one time jointly controlled \na legislative caucus committee. \nControl of the committee was \nlater turned over to Senator Carpenter exclusively. \nUltimately, \nSenator Roberti was asked to simply sign off on all checks of \nthe committee of $1,000 or more. \nSenator Roberti has no \ninvolvement in making decisions about who receives contributions. \nThe reason he signs the checks is to keep him informed of the \ncontributions that are being made. \nHe has no discretion with \nregard to whether to sign a check, but routinely signs them all. \nShould Senator Roberti be listed on the Statement of Organization \nas a controlling candidate? \nANSWER \nPer Barbara, signature on committee checks alone would not \nconstitute control unless Senator Roberti has some other sig-\nnificant influence on the committee's activities. \n(This advice \nmight be different if no other candidate were listed as con-\ntrolling the committee.) \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1984-08-01",
+    "date_raw": "August 1, 1984",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Senators Roberti and Carpenter at one time jointly controlled \na legislative caucus committee. \nControl of the committee was \nlater turned over to Senator Carpenter exclusively. \nUltimately, \nSenator Roberti was asked to simply sign off on all checks of \nthe committee of $1,000 or more. \nSenator Roberti has no \ninvolvement in making decisions about who receives contributions. \nThe reason he signs the checks is to keep him informed of the \ncontributions that are being made. \nHe has no discretion with \nregard to whether to sign a check, but routinely signs them all. \nShould Senator Roberti be listed on the Statement of Organization \nas a controlling candidate? \nANSWER \nPer Barbara, signature on committee checks alone would not \nconstitute control unless Senator Roberti has some other sig-\nnificant influence on the committee's activities. \n(This advice \nmight be different if no other candidate were listed as con-\ntrolling the committee.)",
+    "conclusion": "Per Barbara, signature on committee checks alone would not constitute control unless Senator Roberti has some other significant influence on the committee's activities. (This advice might be different if no other candidate were listed as controlling the committee.)",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether Senator Roberti, who signs committee checks of $1,000 or more but has no discretion in the decision and no involvement in contribution decisions, should be listed as a controlling candidate on the Statement of Organization.",
+    "conclusion_synthetic": "Signing checks alone does not constitute control under campaign finance law unless the signatory has other significant influence on committee activities, though the analysis might differ if no other candidate were listed as controlling the committee.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern; LLM: Standard advice letter format with clear QUESTION and ANSWER sections. Document references 'Barbara' (likely Barbara Kimsey, FPPC staff member) and includes caveat about different outcome if no other controlling candidate exists."
+  },
+  "citations": {
+    "government_code": [
+      "82016"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [
+      "88451",
+      "89-049",
+      "89-058",
+      "89-372"
+    ],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:36:46.877409Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Senators Roberti and Carpenter at one time jointly controlled \na legislative caucus committee. \nControl of the committee was \nlater turned over to Senator Carpenter exclusively. \nUltimately, \nSenator Roberti was asked to simply sign off on all checks of \nthe committee of $1,000 or more. \nSenator Roberti has no \ninvolvement in making decisions about who receives contributions. \nThe reason he signs the checks is to keep him informed of the \ncontributions that are being made. \nHe has no discretion with \nregard to whether to sign a check, but routinely signs them all. \nShould Senator Roberti be listed on the Statement of Organization \nas a controlling candidate? \nANSWER \nPer Barbara, signature on committee checks alone would not \nconstitute control unless Senator Roberti has some other sig-\nnificant influence on the committee's activities. \n(This advice \nmight be different if no other candidate were listed as con-\ntrolling the committee.)\n\nCONCLUSION: Per Barbara, signature on committee checks alone would not constitute control unless Senator Roberti has some other significant influence on the committee's activities. (This advice might be different if no other candidate were listed as controlling the committee.)",
+    "qa_source": "mixed",
+    "first_500_words": "State of California Memorandum To : Advice File: Section 82016 Date August 1, 1984 No. M-84-257 From FAIR POLITICAL PRACTICES COMMISSION Carla Wardlow Subject: Question from Senator Roberti QUESTION Senators Roberti and Carpenter at one time jointly controlled a legislative caucus committee. Control of the committee was later turned over to Senator Carpenter exclusively. Ultimately, Senator Roberti was asked to simply sign off on all checks of the committee of $1,000 or more. Senator Roberti has no involvement in making decisions about who receives contributions. The reason he signs the checks is to keep him informed of the contributions that are being made. He has no discretion with regard to whether to sign a check, but routinely signs them all. Should Senator Roberti be listed on the Statement of Organization as a controlling candidate? ANSWER Per Barbara, signature on committee checks alone would not constitute control unless Senator Roberti has some other sig- nificant influence on the committee's activities. (This advice might be different if no other candidate were listed as con- trolling the committee.)",
+    "summary": "FPPC advice letter determining that Senator Roberti's routine signing of committee checks does not alone qualify him as a controlling candidate for Statement of Organization purposes absent other significant influence."
+  }
+}

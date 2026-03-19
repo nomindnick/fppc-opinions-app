@@ -1,0 +1,74 @@
+{
+  "id": "77A-340",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77A-340.PDF",
+  "pdf_sha256": "8d6370f1c0d6037da0d53944ccd693da252c6330ce64befb9772e6f634ef2d0f",
+  "local_pdf_path": "raw_pdfs/1977/77A-340.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977A Advice Letter # 77A-340",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:20:03",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=15"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T00:27:17.166649Z",
+    "page_count": 1,
+    "word_count": 211,
+    "char_count": 1339,
+    "quality_score": 0.9319883012820513,
+    "olmocr_cost": 0.0045279,
+    "native_word_count": 244,
+    "haiku_cost": 0.0026119999999999997
+  },
+  "content": {
+    "full_text": "State of California\n\nMemorandum\n\nTo : File                                                    Date : 6-29-77\n\nSUPERSEDED\n\nRef: 95-201\n\nFrom : FAIR POLITICAL PRACTICES COMMISSION\n       Mike Baker\n\nSubject:\n\nThe following question was considered at the opinion request\nmeeting of June 20, 1977. A lobbyist and a legislator have\ndinner together. The lobbyist pays for the dinner on his\ncredit card and the legislator reimburses the lobbyist at a\nlater time. Does the lobbyist have any reporting obligations\nin connection with this transaction? Is a violation of the\ngift prohibition contained in Section 86203 involved in this\ntransaction?\n\nIt was decided that the lobbyist had no disclosure obligation\nwith respect to this transaction if the legislator repaid the\nlobbyist prior to the closing date of the lobbyist's monthly\nreport. If the transaction occurs less than a week prior to\nthe closing date for a report, it was decided that no report-\ning obligation would arise if the legislator repaid the lob-\nbyist within one week.\n\nIt was also decided that no violation of the gift prohibition\nwould occur even if the debt remained unpaid beyond the clos-\ning date of the lobbyist's statement provided that the legis-\nlator actually intended to repay the lobbyist and there was\nno suggestion that a gift was involved.\n\nMJ:JO\n\ncc: Al Burnham",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1977-06-20",
+    "date_raw": "June 20, 1977",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "A lobbyist and a legislator have dinner together. The lobbyist pays for the dinner on his credit card and the legislator reimburses the lobbyist at a later time. Does the lobbyist have any reporting obligations in connection with this transaction? Is a violation of the gift prohibition contained in Section 86203 involved in this transaction?",
+    "conclusion": "It was decided that the lobbyist had no disclosure obligation with respect to this transaction if the legislator repaid the lobbyist prior to the closing date of the lobbyist's monthly report. If the transaction occurs less than a week prior to the closing date for a report, it was decided that no reporting obligation would arise if the legislator repaid the lobbyist within one week. It was also decided that no violation of the gift prohibition would occur even if the debt remained unpaid beyond the closing date of the lobbyist's statement provided that the legislator actually intended to repay the lobbyist and there was no suggestion that a gift was involved.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a lobbyist who pays for a legislator's dinner and is later reimbursed has reporting obligations and whether this transaction violates gift prohibition statutes.",
+    "conclusion_synthetic": "The lobbyist has no reporting obligation if the legislator reimburses before the report closing date, or within one week if the dinner occurred close to the deadline. No gift prohibition violation occurs if the legislator genuinely intends to repay, even if unpaid beyond the reporting deadline.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Standard advice letter format from 1977. No explicit section headers but question and conclusion clearly demarcated. Document appears complete with initials and cc notation at end."
+  },
+  "citations": {
+    "government_code": [
+      "86203"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "lobbying",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T17:05:48.836080Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: A lobbyist and a legislator have dinner together. The lobbyist pays for the dinner on his credit card and the legislator reimburses the lobbyist at a later time. Does the lobbyist have any reporting obligations in connection with this transaction? Is a violation of the gift prohibition contained in Section 86203 involved in this transaction?\n\nCONCLUSION: It was decided that the lobbyist had no disclosure obligation with respect to this transaction if the legislator repaid the lobbyist prior to the closing date of the lobbyist's monthly report. If the transaction occurs less than a week prior to the closing date for a report, it was decided that no reporting obligation would arise if the legislator repaid the lobbyist within one week. It was also decided that no violation of the gift prohibition would occur even if the debt remained unpaid beyond the closing date of the lobbyist's statement provided that the legislator actually intended to repay the lobbyist and there was no suggestion that a gift was involved.",
+    "qa_source": "mixed",
+    "first_500_words": "The following question was considered at the opinion request meeting of June 20, 1977. A lobbyist and a legislator have dinner together. The lobbyist pays for the dinner on his credit card and the legislator reimburses the lobbyist at a later time. Does the lobbyist have any reporting obligations in connection with this transaction? Is a violation of the gift prohibition contained in Section 86203 involved in this transaction? It was decided that the lobbyist had no disclosure obligation with respect to this transaction if the legislator repaid the lobbyist prior to the closing date of the lobbyist's monthly report. If the transaction occurs less than a week prior to the closing date for a report, it was decided that no reporting obligation would arise if the legislator repaid the lobbyist within one week. It was also decided that no violation of the gift prohibition would occur even if the debt remained unpaid beyond the closing date of the lobbyist's statement provided that the legislator actually intended to repay the lobbyist and there was no suggestion that a gift was involved. MB:jo cc: Al Berndon",
+    "summary": "FPPC advice letter addressing whether a lobbyist who purchases a legislator's dinner and receives reimbursement has reporting obligations or violates gift prohibitions under Section 86203. The determination turns on whether reimbursement occurs before the reporting deadline and whether the transaction was genuinely a loan rather than a gift."
+  }
+}

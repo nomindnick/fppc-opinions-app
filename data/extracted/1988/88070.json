@@ -1,0 +1,73 @@
+{
+  "id": "88070",
+  "year": 1988,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1988/fppc-advice/88070.PDF",
+  "pdf_sha256": "e4bb5d6836144b1581ccd31eec9d60ded52f0d0adbebff2976069f88ae8b30b8",
+  "local_pdf_path": "raw_pdfs/1988/88070.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1988 Advice Letter # 88070",
+    "tags": [
+      "1988",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:58:35",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1988&tagCount=1&page=13"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:08.255355Z",
+    "page_count": 1,
+    "word_count": 178,
+    "char_count": 1200,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 178
+  },
+  "content": {
+    "full_text": "California \nFair Political \nPractices Commission \nFebruary 10, 1988 \nPatty Jo Rutland \nDeputy Administrative Officer \nAssembly Rules Committee \nstate Capitol \nsacramento, CA \n95814 \nDear Ms. Rutland: \nRe: \nYour Request for Advice \nOur File No. G-88-070 \nThis will confirm our telephone conversation of this date \nregarding implementation of the amended provisions of \nGovernment Code section 89001 restricting the use of \nnewsletters and mass mailings by elected public officials. \nThe \"nomination documents\" referred to in 8900l(a), which \napplies to incumbent members of the state assembly, means all \ndocuments necessary to have a candidate's name printed on the \nballot. \nThe Commission has noticed amendments to 2 California Code \nof Regulations section 18902 to codify this interpretation. \nA \ncopy of the noticed regulation is enclosed. \nIt will be \nconsidered at the Commission's hearing on April 5, 1988, in \nSacramento. \nIf I can be of further assistance in this matter, please \ndon't hesitate to contact me at 322-5901. \nREL:Ls:jaj \nEnclosure \nSincerely, \n( \n, \nRobert E. Leidigh \nCounsel, Legal Division \n428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804-0807 • (916)322-5660 \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1988-02-10",
+    "date_raw": "February 10, 1988",
+    "requestor_name": "Rutland",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "What does 'nomination documents' mean under Government Code section 89001(a) as it applies to incumbent state assembly members regarding restrictions on use of newsletters and mass mailings?",
+    "conclusion_synthetic": "The 'nomination documents' referred to in Government Code section 89001(a) means all documents necessary to have a candidate's name printed on the ballot. The FPPC has noticed amendments to California Code of Regulations section 18902 to codify this interpretation.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document lacks explicit 'QUESTION' and 'CONCLUSION' section headers. The question and conclusion were synthesized from the body text. Telephone conversation confirmation letter with regulatory amendment reference."
+  },
+  "citations": {
+    "government_code": [
+      "89001"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:36:08.255355Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: What does 'nomination documents' mean under Government Code section 89001(a) as it applies to incumbent state assembly members regarding restrictions on use of newsletters and mass mailings?\n\nCONCLUSION: The 'nomination documents' referred to in Government Code section 89001(a) means all documents necessary to have a candidate's name printed on the ballot. The FPPC has noticed amendments to California Code of Regulations section 18902 to codify this interpretation.",
+    "qa_source": "synthetic",
+    "first_500_words": "California Fair Political Practices Commission February 10, 1988 Patty Jo Rutland Deputy Administrative Officer Assembly Rules Committee state Capitol sacramento, CA 95814 Dear Ms. Rutland: Re: Your Request for Advice Our File No. G-88-070 This will confirm our telephone conversation of this date regarding implementation of the amended provisions of Government Code section 89001 restricting the use of newsletters and mass mailings by elected public officials. The \"nomination documents\" referred to in 8900l(a), which applies to incumbent members of the state assembly, means all documents necessary to have a candidate's name printed on the ballot. The Commission has noticed amendments to 2 California Code of Regulations section 18902 to codify this interpretation. A copy of the noticed regulation is enclosed. It will be considered at the Commission's hearing on April 5, 1988, in Sacramento. If I can be of further assistance in this matter, please don't hesitate to contact me at 322-5901. REL:Ls:jaj Enclosure Sincerely, ( , Robert E. Leidigh Counsel, Legal Division 428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804-0807 • (916)322-5660",
+    "summary": "FPPC advises that 'nomination documents' under Government Code section 89001(a) restricting newsletter and mass mailing use by incumbent state assembly members means all documents necessary for ballot access. The FPPC has proposed regulatory amendments to codify this interpretation."
+  }
+}

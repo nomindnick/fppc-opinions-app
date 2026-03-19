@@ -1,0 +1,71 @@
+{
+  "id": "92403",
+  "year": 1992,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1992/92403.pdf",
+  "pdf_sha256": "73606848c8bf704e9b2ea09fd5fb133853862db9d43a9a8a2bdb0402fe2e25be",
+  "local_pdf_path": "raw_pdfs/1992/92403.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 1992 Advice Letter # 92403",
+    "tags": [
+      "Advice Letter",
+      "1992"
+    ],
+    "scraped_at": "2026-01-31 16:29:01",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1992&tagCount=1&page=83"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:19.082719Z",
+    "page_count": 2,
+    "word_count": 176,
+    "char_count": 1045,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 176
+  },
+  "content": {
+    "full_text": "ICITYGDF RII'ERBANI(\n6707 THIRD STREET ' RIVERSANK, CALIFORNIA 95367 ' AREA COOE 2M . \n869.357I\nJuly 7,\nFAIR POLITICAL PRACTICES COMMISSION\n428 J Street, Sixth Floor\nSacramento, California 9581 4\nDear Sir:\nI would like to know exactly what constitutes an unfair political practice?\nThere is a developer in our area that saved a county supervisor from serious\ninjury, maybe even death when a helicopter they will in developed trouble\nand was forced down abruptly. Now, this developer has brought before this\nsupervisor's board, a project that could make the developer millions of\ndollars.\nMy question is: \"Should the supervisor abstain from voting on the proposed\nproject?\" My feeling is that a very deep and a personal debt is owed by the\nsupervisor to the developer and voting on the project would not be a fair\npolitical practice.\nWould you please advise me if this constitutes an unfair political practice?\nwould like to hear from you before July 20, 1992.\nThank you in advance for your help.\nRIVERBANK CITY COUNCIL\nSB:tlh\n(-\n@\n'a.)\nF-\n&.4\n\n\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1992-07-20",
+    "date_raw": "July 20, 1992",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "Should the supervisor abstain from voting on the proposed project? My feeling is that a very deep and a personal debt is owed by the supervisor to the developer and voting on the project would not be a fair political practice.",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a county supervisor who was saved from serious injury by a developer should abstain from voting on that developer's lucrative project proposal, and whether voting on such a project would constitute an unfair political practice given the personal debt owed to the developer.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an incoming request letter to FPPC, not an FPPC response. The letter contains the question clearly stated but no conclusion or advice from FPPC. Document appears to be a citizen inquiry requesting FPPC guidance on potential conflict of interest involving a supervisor and developer. Minor OCR/transcription errors noted in header (e.g., 'RII'ERBANI' likely 'RIVERBANK')."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:35:19.082719Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Should the supervisor abstain from voting on the proposed project? My feeling is that a very deep and a personal debt is owed by the supervisor to the developer and voting on the project would not be a fair political practice.",
+    "qa_source": "mixed",
+    "first_500_words": "ICITYGDF RII'ERBANI( 6707 THIRD STREET ' RIVERSANK, CALIFORNIA 95367 ' AREA COOE 2M . 869.357I July 7, FAIR POLITICAL PRACTICES COMMISSION 428 J Street, Sixth Floor Sacramento, California 9581 4 Dear Sir: I would like to know exactly what constitutes an unfair political practice? There is a developer in our area that saved a county supervisor from serious injury, maybe even death when a helicopter they will in developed trouble and was forced down abruptly. Now, this developer has brought before this supervisor's board, a project that could make the developer millions of dollars. My question is: \"Should the supervisor abstain from voting on the proposed project?\" My feeling is that a very deep and a personal debt is owed by the supervisor to the developer and voting on the project would not be a fair political practice. Would you please advise me if this constitutes an unfair political practice? would like to hear from you before July 20, 1992. Thank you in advance for your help. RIVERBANK CITY COUNCIL SB:tlh (- @ 'a.) F- &.4",
+    "summary": "A Riverbank City Council member requests FPPC guidance on whether a county supervisor should abstain from voting on a developer's project when the supervisor owes the developer a personal debt for saving them from a helicopter accident."
+  }
+}

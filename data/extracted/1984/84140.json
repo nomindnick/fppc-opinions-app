@@ -1,0 +1,73 @@
+{
+  "id": "84140",
+  "year": 1984,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1984/fppc-advice/84140.PDF",
+  "pdf_sha256": "39b695cfb408484495c87a9f4e0fe3a6d2cfa3178ed1c4a8ffb025c3fcf53a22",
+  "local_pdf_path": "raw_pdfs/1984/84140.PDF",
+  "source_metadata": {
+    "title_raw": "FOWLER, JUDY Year: 1984 Advice Letter # 84140",
+    "tags": [
+      "1984",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:34:19",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1984&tagCount=1&page=12"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:46.984337Z",
+    "page_count": 2,
+    "word_count": 401,
+    "char_count": 2588,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 401
+  },
+  "content": {
+    "full_text": "Judy Fowler \n319 Quail Terrace \nTechnical Assistance \n(916) 322-5662 \nBen Lomond, CA \n95005 \nDear Ms. Fowler: \nAdministration \n322-5660 \nMay 31, 1984 \nExecutive/legal \n322-5901 \nEnforcement \n322-6441 \nRe: \nYour Request for Advice \nOur No. A-84-140 \nThis is to confirm advice rendered in response to your \ntelephone request for advice on May 25, 1984. \nYou are a member \nof the Board of Directors of the San Lorenzo Valley Water \nDistrict, a public agency. \nAs such, you are a public official \nsubject to the conflict of interest provisions of the Political \nReform Act.ll \nThe District has designated various areas for \neventual connection to sewer facilities and these areas have \nbeen ranked by priority, with \"Class 1\" being scheduled to \nreceive services first. \nExisting residences currently utilizing \nseptic tanks will be required to connect to the sewer facilities \nwhen those services are extended to their areas. \nThis will be \ncostly for these homeowners. \nYour grandparents reside in a home which is situated within \nan area currently designated as \"Class 1.\" \nThe residents of the \nstreet where they live (including your grandparents) have \nrequested that their street be removed from Class 1. \nThis would \nhave the practical affect of saving your grandparents a \nsubstantial sum for sewer connection costs. \nYou have no \nfinancial relationship with your grandparents; however, in light \nof their close familial relationship to you and in light of the \nforegoing facts, you wish to know whether or not you are \nrequired to disqualify yourself from participating in the \ndecision on whether to grant the request for removal from the \n\"Class 1\" area. \nII Government Code Sections 81000-91014. \nAll statutory \nreferences are to the Government Code. \n\n\nJudy Fowler \nMay 31, 1984 \nPage 2 \nAs I advised you over the telephone, the familial \nrelationship with your grandparents is not a basis for \ndisqualification under the political Reform Act. \nThe Act \nprevents official actions where an appearance of conflict of \ninterest exists because of an official's private financial \ndealings. \nThe Act currently does not deal with interpersonal \nrelationships. \nSince you have no financial relationship with \nyour grandparents (you do not have an investment in them, are \nnot employed by them and they are not a source of income to \nyou), there is no basis for disqualification under the Political \nReform Act. \nShould you have any questions regarding this advice, please \ndo not hesitate to call me at (916) 322-5901. \nREL:plh \nSincerely, \n'Robert E. Leidigh \nCounsel \nLegal Division \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1984-05-31",
+    "date_raw": "May 31, 1984",
+    "requestor_name": "Fowler",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "You are a member of the Board of Directors of the San Lorenzo Valley Water District. Your grandparents reside in a home situated within an area designated as \"Class 1\" for sewer connection priority. The residents of your grandparents' street have requested removal from Class 1, which would save your grandparents substantial costs for sewer connection. You have no financial relationship with your grandparents. Are you required to disqualify yourself from participating in the decision on whether to grant the request for removal from the \"Class 1\" area?",
+    "conclusion": "The familial relationship with your grandparents is not a basis for disqualification under the Political Reform Act. The Act prevents official actions where an appearance of conflict of interest exists because of an official's private financial dealings. The Act currently does not deal with interpersonal relationships. Since you have no financial relationship with your grandparents (you do not have an investment in them, are not employed by them and they are not a source of income to you), there is no basis for disqualification under the Political Reform Act.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a public official must disqualify themselves from voting on a matter affecting their grandparents' property due to familial relationship, absent any financial interest.",
+    "conclusion_synthetic": "No disqualification is required under the Political Reform Act because the official has no financial relationship with their grandparents. The Act addresses only financial conflicts of interest, not familial relationships.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Clear FPPC advice letter with telephone request confirmation. Question and conclusion sections identified and extracted verbatim. Document references Government Code sections 81000-91014 regarding conflict of interest provisions."
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:36:46.984337Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: You are a member of the Board of Directors of the San Lorenzo Valley Water District. Your grandparents reside in a home situated within an area designated as \"Class 1\" for sewer connection priority. The residents of your grandparents' street have requested removal from Class 1, which would save your grandparents substantial costs for sewer connection. You have no financial relationship with your grandparents. Are you required to disqualify yourself from participating in the decision on whether to grant the request for removal from the \"Class 1\" area?\n\nCONCLUSION: The familial relationship with your grandparents is not a basis for disqualification under the Political Reform Act. The Act prevents official actions where an appearance of conflict of interest exists because of an official's private financial dealings. The Act currently does not deal with interpersonal relationships. Since you have no financial relationship with your grandparents (you do not have an investment in them, are not employed by them and they are not a source of income to you), there is no basis for disqualification under the Political Reform Act.",
+    "qa_source": "mixed",
+    "first_500_words": "Judy Fowler 319 Quail Terrace Technical Assistance (916) 322-5662 Ben Lomond, CA 95005 Dear Ms. Fowler: Administration 322-5660 May 31, 1984 Executive/legal 322-5901 Enforcement 322-6441 Re: Your Request for Advice Our No. A-84-140 This is to confirm advice rendered in response to your telephone request for advice on May 25, 1984. You are a member of the Board of Directors of the San Lorenzo Valley Water District, a public agency. As such, you are a public official subject to the conflict of interest provisions of the Political Reform Act.ll The District has designated various areas for eventual connection to sewer facilities and these areas have been ranked by priority, with \"Class 1\" being scheduled to receive services first. Existing residences currently utilizing septic tanks will be required to connect to the sewer facilities when those services are extended to their areas. This will be costly for these homeowners. Your grandparents reside in a home which is situated within an area currently designated as \"Class 1.\" The residents of the street where they live (including your grandparents) have requested that their street be removed from Class 1. This would have the practical affect of saving your grandparents a substantial sum for sewer connection costs. You have no financial relationship with your grandparents; however, in light of their close familial relationship to you and in light of the foregoing facts, you wish to know whether or not you are required to disqualify yourself from participating in the decision on whether to grant the request for removal from the \"Class 1\" area. II Government Code Sections 81000-91014. All statutory references are to the Government Code. Judy Fowler May 31, 1984 Page 2 As I advised you over the telephone, the familial relationship with your grandparents is not a basis for disqualification under the political Reform Act. The Act prevents official actions where an appearance of conflict of interest exists because of an official's private financial dealings. The Act currently does not deal with interpersonal relationships. Since you have no financial relationship with your grandparents (you do not have an investment in them, are not employed by them and they are not a source of income to you), there is no basis for disqualification under the Political Reform Act. Should you have any questions regarding this advice, please do not hesitate to call me at (916) 322-5901. REL:plh Sincerely, 'Robert E. Leidigh Counsel Legal Division",
+    "summary": "FPPC advice letter confirming telephone counsel to a San Lorenzo Valley Water District board member regarding whether familial relationship with grandparents requires disqualification from voting on sewer service priority decisions affecting their property."
+  }
+}

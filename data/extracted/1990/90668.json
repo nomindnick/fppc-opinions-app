@@ -1,0 +1,73 @@
+{
+  "id": "90668",
+  "year": 1990,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1990/90668.pdf",
+  "pdf_sha256": "3e8f959bad7d1cdaf3f6ff68bdab291971da5194855c6f047b04c788ee4c92da",
+  "local_pdf_path": "raw_pdfs/1990/90668.pdf",
+  "source_metadata": {
+    "title_raw": "Gilman, Barbara Year: 1990 Advice Letter # 90668",
+    "tags": [
+      "1990",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:06:15",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1990&tagCount=1&page=6"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:31.604690Z",
+    "page_count": 2,
+    "word_count": 321,
+    "char_count": 1962,
+    "quality_score": 0.6325000000000001,
+    "olmocr_cost": null,
+    "native_word_count": 321
+  },
+  "content": {
+    "full_text": "nerb\nCITY ATTORNTY . 300 W. THInD STREET . OXNARD, CALIFORNIA 93030 . (805) 9844601 rAX (805) 485-9462\nCARY T,6II,I,IC, CITY ATTORNTY\noctober i.9, 19 9 0\nltr. Scott Hal]obrin, Acting General Counsel\nFair PoIiticaI Plactices Commission\n428 J Street, Ste. 800\nSacramento CA 95804-0807\nRe: Formal Written Advice on llass Mailing Provisions\nDear I{r. Hallobrin:\nI am an attorney for the City of Oxnard. I am requesting\nformal written advice from your office regarding the mass\nmailing regulations and restrictions of Regulation 18901.\nThe facts of the problem are as fo11ows. The City of Oxnard,\nthrough its Parks and Recreation Department, publishes a\nmagazine which promotes various City sponsored events and\nclasses. The Parks and Recreation Department is a department\nof the City of Oxnard and is under the umbrella control, of the\nMayor and City Council .\nThe Parks and Recreation Department is considering making\nchanges in the format of the Oxnard Magazine to incLude adding\nthe names of the uayor and the City Council members (no\nphotographs will be used) to the masthead of the magazine.\nThe Oxnard Magazine is mailed out to all residents and\nbusinesses located within the city limits. \nThis is well over\nthe 200 per mailing limit allowed by Regulation 18901. The\nCity pays for the Uagazine's postage. Some money is expended\nby the City to cover the cost of design, printing and\nproduction. This amount varies but, invariably exceeds the\n$50.00 limit as provided for in Section 18901.\nl,[y question is! \nMay the oxnard Magazine Publication include\nthe names of the the uayor and City Counci.L Members within its\npages in roster form without vioLating Regulation 18901?\nCITY OF\n\n\nTo help assist you in this matter, I have enclosed a\nprevioirsly pubJ--ished copy of the oxnard Magazine along.with\nthe propoled changes for the next edition of the Magazine'\nYour assistance on this matter witl be greatly aPpreciated'\nSincerely,\nBRG:pdp\nencl.\nBarbara R. Gilman\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": "Gilman",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "May the Oxnard Magazine Publication include the names of the Mayor and City Council Members within its pages in roster form without violating Regulation 18901?",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether the City of Oxnard's Parks and Recreation Department magazine can include the names of the Mayor and City Council members in roster form without violating mass mailing regulations (Regulation 18901), which have a 200-per-mailing recipient limit and $50 cost threshold.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an incoming request letter from a city attorney to the FPPC, not an FPPC response. No conclusion section present. Document is well-formatted with clear question statement. Some OCR artifacts present (e.g., 'nerb', 'uayor' for Mayor) but core information is clear."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [
+      "18901"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:35:31.604690Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: May the Oxnard Magazine Publication include the names of the Mayor and City Council Members within its pages in roster form without violating Regulation 18901?",
+    "qa_source": "mixed",
+    "first_500_words": "nerb CITY ATTORNTY . 300 W. THInD STREET . OXNARD, CALIFORNIA 93030 . (805) 9844601 rAX (805) 485-9462 CARY T,6II,I,IC, CITY ATTORNTY october i.9, 19 9 0 ltr. Scott Hal]obrin, Acting General Counsel Fair PoIiticaI Plactices Commission 428 J Street, Ste. 800 Sacramento CA 95804-0807 Re: Formal Written Advice on llass Mailing Provisions Dear I{r. Hallobrin: I am an attorney for the City of Oxnard. I am requesting formal written advice from your office regarding the mass mailing regulations and restrictions of Regulation 18901. The facts of the problem are as fo11ows. The City of Oxnard, through its Parks and Recreation Department, publishes a magazine which promotes various City sponsored events and classes. The Parks and Recreation Department is a department of the City of Oxnard and is under the umbrella control, of the Mayor and City Council . The Parks and Recreation Department is considering making changes in the format of the Oxnard Magazine to incLude adding the names of the uayor and the City Council members (no photographs will be used) to the masthead of the magazine. The Oxnard Magazine is mailed out to all residents and businesses located within the city limits. This is well over the 200 per mailing limit allowed by Regulation 18901. The City pays for the Uagazine's postage. Some money is expended by the City to cover the cost of design, printing and production. This amount varies but, invariably exceeds the $50.00 limit as provided for in Section 18901. l,[y question is! May the oxnard Magazine Publication include the names of the the uayor and City Counci.L Members within its pages in roster form without vioLating Regulation 18901? CITY OF To help assist you in this matter, I have enclosed a previoirsly pubJ--ished copy of the oxnard Magazine along.with the propoled changes for the next edition of the Magazine' Your assistance on this matter witl be greatly aPpreciated' Sincerely, BRG:pdp encl. Barbara R. Gilman",
+    "summary": "City of Oxnard attorney Barbara Gilman requests formal written advice from the FPPC regarding whether the Oxnard Magazine (a publication promoting city events and classes mailed to all residents and businesses) can list the Mayor and City Council members' names in its masthead without violating Regulation 18901's mass mailing restrictions."
+  }
+}

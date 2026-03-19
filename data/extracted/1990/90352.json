@@ -1,0 +1,74 @@
+{
+  "id": "90352",
+  "year": 1990,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1990/90352.pdf",
+  "pdf_sha256": "97abd3cc82d11983532ead365f0860b0bdea06edb8d41b2167ccc2cb44d5eb68",
+  "local_pdf_path": "raw_pdfs/1990/90352.pdf",
+  "source_metadata": {
+    "title_raw": "Nichols, Nell Year: 1990 Advice Letter # 90352",
+    "tags": [
+      "1990",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:07:59",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1990&tagCount=1&page=29"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-25T22:41:17.071179Z",
+    "page_count": 1,
+    "word_count": 98,
+    "char_count": 531,
+    "quality_score": 0.7980310843463069,
+    "olmocr_cost": 0.00247336,
+    "native_word_count": 30,
+    "haiku_cost": 0.0019712
+  },
+  "content": {
+    "full_text": "6 Valley Oaks Pl.\nSanta Rosa, Ca\n95409\n\nFPPC\n428 9 Street Suite 800\nSacramento, Ca 95840\n\nDear Sir:\n\nWe have just received your request for money from the Federal funds Associated. Can you tell me if they are legitimate or another group and to frighten old people out of their Social Sec. I've turned them in to FCC Consumer reports, Ohio Buxland, the debt All office, B.B.B and none have heard of them.\n\nWho can we turn to in this area for help when we suspect fraud?\n\nSincerely\n\nIke Michaels\n\n[FPPC stamp showing \"MM 12 1 21139\"]",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": "Nichols",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "We have been bombarded with requests for money from this Neward James Association. Can you tell me if they are legitimate or another group out to frighten old people out of their Social Sec? Who can we turn to in this area for help when we suspect fraud?",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requestor asks whether the Neward James Association is a legitimate organization or a fraudulent group targeting seniors, and seeks guidance on who to contact for fraud reporting.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an incoming request letter from a citizen to the FPPC, not an FPPC advice letter response. No conclusion or FPPC analysis is present. The question concerns fraud investigation rather than a direct FPPC regulatory matter, which may be outside FPPC jurisdiction."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [
+      "90-362"
+    ],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T16:18:48.391276Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: We have been bombarded with requests for money from this Neward James Association. Can you tell me if they are legitimate or another group out to frighten old people out of their Social Sec? Who can we turn to in this area for help when we suspect fraud?",
+    "qa_source": "mixed",
+    "first_500_words": "6 Valley Oaks Pl. Santa Rosa, CA 95409 F.P.P.C. 428 J Street Suite 800 Sacramento, CA 95840 Dear Sirs: We have been bombarded with requests for money from this Neward James Association. Can you tell me if they are legitimate or another group out to frighten old people out of their Social Sec? I've turned them in to KGO consumer reporter, Chris Bjorklund, the dist att. office, B.B.B and no one has heard of them. Who can we turn to in this area for help when we suspect fraud? Sincerely, Nell Nichols",
+    "summary": "A citizen inquires whether the Neward James Association is legitimate or fraudulent, noting they have already reported it to media, law enforcement, and the Better Business Bureau, and requests information on fraud reporting resources."
+  }
+}

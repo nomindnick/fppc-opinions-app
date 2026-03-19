@@ -1,0 +1,75 @@
+{
+  "id": "88444",
+  "year": 1988,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1988/fppc-advice/88444.PDF",
+  "pdf_sha256": "dbdec5224334b9c8b271cc882989596a0c3a6d846f5d54e3c90d1f31f9642ebb",
+  "local_pdf_path": "raw_pdfs/1988/88444.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1988 Advice Letter # 88444",
+    "tags": [
+      "1988",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:59:28",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1988&tagCount=1&page=25"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T20:17:18.866202Z",
+    "page_count": 1,
+    "word_count": 215,
+    "char_count": 1345,
+    "quality_score": 0.8692381832947115,
+    "olmocr_cost": 0.0026453600000000002,
+    "native_word_count": 220
+  },
+  "content": {
+    "full_text": "November 21, 1988\n\nTelephone Advice No. T-88-\n\nFrom: Bruce Robeck\n\nCaller: Barry Pollack (818) 784-7159\n\nQuestions: If funds are collected in 1988 and placed in an unrestricted account, may these funds be expended in 1988 for goods or services which will be received or used in 1989? Does it matter if these payments are from personal loans or contributions? Can the personal loans be repaid prior to 1989 in amounts which exceed the Proposition 73 contribution limits?\n\nConclusions: When a new account is established and always contains only funds from contributions which are conforming to the contribution limits of Proposition 73, payments may be made from this account in 1988 for goods and services which will be received or expended in 1989.\n\nPersonal funds may be spent or loaned to the candidate's own campaign in unlimited amounts for purposes of making the pre-payments for goods or services to be used or received in 1989. (Section 85301(b).)\n\nContributions received prior to December 31, 1989 could be used to repay the personal loans for prepaid goods or services but the contributions must be placed in the unrestricted account and only contributions which are conforming to Proposition 73 contrib. limits could be utilized for repaying the personal loans in the unrestricted account. (See Regulations 18536, 18536.1 and 18536.2.)",
+    "full_text_markdown": "November 21, 1988\n\nTelephone Advice No. T-88-\n\nFrom: Bruce Robeck\n\nCaller: Barry Pollack (818) 784-7159\n\nQuestions: If funds are collected in 1988 and placed in an unrestricted account, may these funds be expended in 1988 for goods or services which will be received or used in 1989? Does it matter if these payments are from personal loans or contributions? Can the personal loans be repaid prior to 1989 in amounts which exceed the Proposition 73 contribution limits?\n\nConclusions: When a new account is established and always contains only funds from contributions which are conforming to the contribution limits of Proposition 73, payments may be made from this account in 1988 for goods and services which will be received or expended in 1989.\n\nPersonal funds may be spent or loaned to the candidate's own campaign in unlimited amounts for purposes of making the pre-payments for goods or services to be used or received in 1989. (Section 85301(b).)\n\nContributions received prior to December 31, 1989 could be used to repay the personal loans for prepaid goods or services but the contributions must be placed in the unrestricted account and only contributions which are conforming to Proposition 73 contrib. limits could be utilized for repaying the personal loans in the unrestricted account. (See Regulations 18536, 18536.1 and 18536.2.)"
+  },
+  "parsed": {
+    "date": "1988-11-21",
+    "date_raw": "November 21, 1988",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "If funds are collected in 1988 and placed in an unrestricted account, may these funds be expended in 1988 for goods or services which will be received or used in 1989? Does it matter if these payments are from personal loans or contributions? Can the personal loans be repaid prior to 1989 in amounts which exceed the Proposition 73 contribution limits?",
+    "conclusion": "When a new account is established and always contains only funds from contributions which are conforming to the contribution limits of Proposition 73, payments may be made from this account in 1988 for goods and services which will be received or expended in 1989.\n\nPersonal funds may be spent or loaned to the candidate's own campaign in unlimited amounts for purposes of making the pre-payments for goods or services to be used or received in 1989. (Section 85301(b).)\n\nContributions received prior to December 31, 1989 could be used to repay the personal loans for prepaid goods or services but the contributions must be placed in the unrestricted account and only contributions which are conforming to Proposition 73 contrib. limits could be utilized for repaying the personal loans in the unrestricted account. (See Regulations 18536, 18536.1 and 18536.2.)",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.85,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern"
+  },
+  "citations": {
+    "government_code": [
+      "85301(b)"
+    ],
+    "regulations": [
+      "18536"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-20T20:17:18.866202Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: If funds are collected in 1988 and placed in an unrestricted account, may these funds be expended in 1988 for goods or services which will be received or used in 1989? Does it matter if these payments are from personal loans or contributions? Can the personal loans be repaid prior to 1989 in amounts which exceed the Proposition 73 contribution limits?\n\nCONCLUSION: When a new account is established and always contains only funds from contributions which are conforming to the contribution limits of Proposition 73, payments may be made from this account in 1988 for goods and services which will be received or expended in 1989.\n\nPersonal funds may be spent or loaned to the candidate's own campaign in unlimited amounts for purposes of making the pre-payments for goods or services to be used or received in 1989. (Section 85301(b).)\n\nContributions received prior to December 31, 1989 could be used to repay the personal loans for prepaid goods or services but the contributions must be placed in the unrestricted account and only contributions which are conforming to Proposition 73 contrib. limits could be utilized for repaying the personal loans in the unrestricted account. (See Regulations 18536, 18536.1 and 18536.2.)",
+    "qa_source": "extracted",
+    "first_500_words": "November 21, 1988 Telephone Advice No. T-88- From: Bruce Robeck Caller: Barry Pollack (818) 784-7159 Questions: If funds are collected in 1988 and placed in an unrestricted account, may these funds be expended in 1988 for goods or services which will be received or used in 1989? Does it matter if these payments are from personal loans or contributions? Can the personal loans be repaid prior to 1989 in amounts which exceed the Proposition 73 contribution limits? Conclusions: When a new account is established and always contains only funds from contributions which are conforming to the contribution limits of Proposition 73, payments may be made from this account in 1988 for goods and services which will be received or expended in 1989. Personal funds may be spent or loaned to the candidate's own campaign in unlimited amounts for purposes of making the pre-payments for goods or services to be used or received in 1989. (Section 85301(b).) Contributions received prior to December 31, 1989 could be used to repay the personal loans for prepaid goods or services but the contributions must be placed in the unrestricted account and only contributions which are conforming to Proposition 73 contrib. limits could be utilized for repaying the personal loans in the unrestricted account. (See Regulations 18536, 18536.1 and 18536.2.)",
+    "summary": null
+  }
+}

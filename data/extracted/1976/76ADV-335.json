@@ -1,0 +1,71 @@
+{
+  "id": "76ADV-335",
+  "year": 1976,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1976/76ADV-335.PDF",
+  "pdf_sha256": "16a0a3033dc3c8316e26f2603f587e490ad91020e12b3956f301284c8a10b41a",
+  "local_pdf_path": "raw_pdfs/1976/76ADV-335.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1976ADV Advice Letter # 76ADV-335",
+    "tags": [
+      "1976",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:17:01",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1976&tagCount=1&page=33"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-07T17:17:32.231115Z",
+    "page_count": 1,
+    "word_count": 159,
+    "char_count": 1041,
+    "quality_score": 0.9020410377358491,
+    "olmocr_cost": 0.00255334,
+    "native_word_count": 11
+  },
+  "content": {
+    "full_text": "Memorandum\n\nTo: Ken Finney  \nNatalie West  \nMike Baker  \nBob Stern  \nNan Hambleton  \nCina Kutchins\n\nDate: August 16, 1976\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION  \nTed Prim\n\nSubject: REPORTING FUNDRAISER PROCEEDS\n\nCandidate prints up tickets to a fundraiser with a face value of $4. Candidate sells these tickets to middlemen at a reduced price. The middlemen then sell these tickets at their face value to persons wishing to attend the fundraiser. Any unsold tickets may not be returned to the candidate. How should these transactions be reported?\n\nIf a middleman spends more than $50 purchasing tickets from the candidate, he should be itemized as a contributor. In addition, the campaign statement should contain an explanation to the effect that the middleman has purchased fundraiser tickets from the candidate for resale. The price that the middleman paid for the tickets should be attributed to the eventual purchaser for the purpose of determining whether that purchaser has made $50 in contributions.\n\nTP: pvp",
+    "full_text_markdown": "Memorandum\n\nTo: Ken Finney  \nNatalie West  \nMike Baker  \nBob Stern  \nNan Hambleton  \nCina Kutchins\n\nDate: August 16, 1976\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION  \nTed Prim\n\nSubject: REPORTING FUNDRAISER PROCEEDS\n\nCandidate prints up tickets to a fundraiser with a face value of $4. Candidate sells these tickets to middlemen at a reduced price. The middlemen then sell these tickets at their face value to persons wishing to attend the fundraiser. Any unsold tickets may not be returned to the candidate. How should these transactions be reported?\n\nIf a middleman spends more than $50 purchasing tickets from the candidate, he should be itemized as a contributor. In addition, the campaign statement should contain an explanation to the effect that the middleman has purchased fundraiser tickets from the candidate for resale. The price that the middleman paid for the tickets should be attributed to the eventual purchaser for the purpose of determining whether that purchaser has made $50 in contributions.\n\nTP: pvp"
+  },
+  "parsed": {
+    "date": "1976-08-16",
+    "date_raw": "August 16, 1976",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Candidate prints up tickets to a fundraiser with a face value of $4. Candidate sells these tickets to middlemen at a reduced price. The middlemen then sell these tickets at their face value to persons wishing to attend the fundraiser. Any unsold tickets may not be returned to the candidate. How should these transactions be reported?",
+    "conclusion": "If a middleman spends more than $50 purchasing tickets from the candidate, he should be itemized as a contributor. In addition, the campaign statement should contain an explanation to the effect that the middleman has purchased fundraiser tickets from the candidate for resale. The price that the middleman paid for the tickets should be attributed to the eventual purchaser for the purpose of determining whether that purchaser has made $50 in contributions.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "How should a candidate report fundraiser ticket sales when tickets are sold to middlemen at a discount, who then resell them at face value to attendees?",
+    "conclusion_synthetic": "Middlemen purchasing over $50 in tickets must be itemized as contributors with an explanation of their ticket resale activity, and the middleman's cost basis should be attributed to ultimate purchasers for contribution threshold purposes.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Memorandum format with clear question and conclusion sections. Document addresses specific reporting requirements for indirect fundraiser ticket sales. Initials 'TP: pvp' at end indicate Ted Prim from FPPC as author."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T17:17:32.231115Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Candidate prints up tickets to a fundraiser with a face value of $4. Candidate sells these tickets to middlemen at a reduced price. The middlemen then sell these tickets at their face value to persons wishing to attend the fundraiser. Any unsold tickets may not be returned to the candidate. How should these transactions be reported?\n\nCONCLUSION: If a middleman spends more than $50 purchasing tickets from the candidate, he should be itemized as a contributor. In addition, the campaign statement should contain an explanation to the effect that the middleman has purchased fundraiser tickets from the candidate for resale. The price that the middleman paid for the tickets should be attributed to the eventual purchaser for the purpose of determining whether that purchaser has made $50 in contributions.",
+    "qa_source": "mixed",
+    "first_500_words": "**Memorandum** **To:** Ken Finney Natalie West Mike Baker Bob Stern Nan Hambleton Cina Kutchins **Date:** August 16, 1976 **From:** FAIR POLITICAL PRACTICES COMMISSION Ted Prim **Subject:** REPORTING FUNDRAISER PROCEEDS Candidate prints up tickets to a fundraiser with a face value of $4. Candidate sells these tickets to middlemen at a reduced price. The middlemen then sell these tickets at their face value to persons wishing to attend the fundraiser. Any unsold tickets may not be returned to the candidate. How should these transactions be reported? If a middleman spends more than $50 purchasing tickets from the candidate, he should be itemized as a contributor. In addition, the campaign statement should contain an explanation to the effect that the middleman has purchased fundraiser tickets from the candidate for resale. The price that the middleman paid for the tickets should be attributed to the eventual purchaser for the purpose of determining whether that purchaser has made $50 in contributions. TP: pvp",
+    "summary": "FPPC guidance on reporting fundraiser ticket sales through middlemen, addressing how to itemize contributors and attribute ticket costs to ultimate purchasers."
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "84185",
+  "year": 1984,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1984/fppc-advice/84185.PDF",
+  "pdf_sha256": "d3b5418d033c50c03c764f1ddb501cb760dea42fa301cbf52ba07d81ce2e7b08",
+  "local_pdf_path": "raw_pdfs/1984/84185.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1984 Advice Letter # 84185",
+    "tags": [
+      "1984",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:34:36",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1984&tagCount=1&page=16"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T14:31:03.103729Z",
+    "page_count": 1,
+    "word_count": 144,
+    "char_count": 806,
+    "quality_score": 0.8395541755130927,
+    "olmocr_cost": 0.0025499,
+    "native_word_count": 150
+  },
+  "content": {
+    "full_text": "TO: [x] JEANNE   [ ] JAY\n    [ ] LYNN      [ ] BARBARA\n    [ ] RICH     [ ] BOB S.\n    [x] HELEN    [ ] OTHER Carla\n\nFROM: Mary Ann\nDATE: 7/2/84\n\n[x] TELEPHONE ADVICE - SEE BELOW\n[ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT\n(IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY)\n\nFILE LOCATION:\n\nINCLUDE IN ADVICE PACKAGE: YES [ ]   NO [ ]\n\nCALLER Various - over a period of time\nREPRESENTING\nPHONE NUMBER:\n\nQUESTION: When a late contribution report is filed after the deadline for filing such reports (filed after June 6 or November 7) it is required that the late filing be sent by mailgram/telegram instead of first class mail--why?\n\nANSWER: It was decided at the opinion request meeting of 6/21/84, that late contribution reports filed after the date of the election may be sent by first class mail.",
+    "full_text_markdown": "TO: [x] JEANNE   [ ] JAY\n    [ ] LYNN      [ ] BARBARA\n    [ ] RICH     [ ] BOB S.\n    [x] HELEN    [ ] OTHER Carla\n\nFROM: Mary Ann\nDATE: 7/2/84\n\n[x] TELEPHONE ADVICE - SEE BELOW\n[ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT\n(IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY)\n\nFILE LOCATION:\n\nINCLUDE IN ADVICE PACKAGE: YES [ ]   NO [ ]\n\nCALLER Various - over a period of time\nREPRESENTING\nPHONE NUMBER:\n\nQUESTION: When a late contribution report is filed after the deadline for filing such reports (filed after June 6 or November 7) it is required that the late filing be sent by mailgram/telegram instead of first class mail--why?\n\nANSWER: It was decided at the opinion request meeting of 6/21/84, that late contribution reports filed after the date of the election may be sent by first class mail."
+  },
+  "parsed": {
+    "date": "1984-07-02",
+    "date_raw": "7/2/84",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "When a late contribution report is filed after the deadline for filing such reports (filed after June 6 or November 7) it is required that the late filing be sent by mailgram/telegram instead of first class mail--why?\n\nANSWER: It was decided at the opinion request meeting of 6/21/84, that late contribution reports filed after the date of the election may be sent by first class mail.",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.44999999999999996,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-20T14:31:03.103729Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: When a late contribution report is filed after the deadline for filing such reports (filed after June 6 or November 7) it is required that the late filing be sent by mailgram/telegram instead of first class mail--why?\n\nANSWER: It was decided at the opinion request meeting of 6/21/84, that late contribution reports filed after the date of the election may be sent by first class mail.",
+    "qa_source": "extracted",
+    "first_500_words": "TO: [x] JEANNE [ ] JAY [ ] LYNN [ ] BARBARA [ ] RICH [ ] BOB S. [x] HELEN [ ] OTHER Carla FROM: Mary Ann DATE: 7/2/84 [x] TELEPHONE ADVICE - SEE BELOW [ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT (IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY) FILE LOCATION: INCLUDE IN ADVICE PACKAGE: YES [ ] NO [ ] CALLER Various - over a period of time REPRESENTING PHONE NUMBER: QUESTION: When a late contribution report is filed after the deadline for filing such reports (filed after June 6 or November 7) it is required that the late filing be sent by mailgram/telegram instead of first class mail--why? ANSWER: It was decided at the opinion request meeting of 6/21/84, that late contribution reports filed after the date of the election may be sent by first class mail.",
+    "summary": null
+  }
+}

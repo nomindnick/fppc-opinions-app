@@ -1,0 +1,71 @@
+{
+  "id": "14-025W",
+  "year": 2014,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2014/14-025W.pdf",
+  "pdf_sha256": "8da9769b500e042ab0c0d51b5d02065f7dc7c75a13316199acd671ca1577ae6d",
+  "local_pdf_path": "raw_pdfs/2014/14-025W.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2014 Advice Letter # 14-025W",
+    "tags": [
+      "2014",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 17:16:18",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2014&tagCount=1&page=20"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:33:36.407706Z",
+    "page_count": 1,
+    "word_count": 173,
+    "char_count": 1019,
+    "quality_score": 0.6325000000000001,
+    "olmocr_cost": null,
+    "native_word_count": 173
+  },
+  "content": {
+    "full_text": "FAIR p OLITICAL p RA CT ICES COMMISSION \n428 J Street • Suite 620 • Sacramento, CA 95814-2329 \n(916) 322-5660 • Fax (916) 322-0886 \nDaniel Davis \n1251 Surf A venue \nPacific Grove, CA 93950 \nRE: Your Request for Advice \nOur File No. W-14-025 \nDear Mr. Davis: \nMay 8, 2014 \nThe purpose of this correspondence is to confirm that since we have not received \nword from you since our last correspondence, we have withdrawn your request for \nadvice. \nIn our letter of April 8, 2014 we advised that if we did not receive the information \nwe requested in our March 7, 2014 letter by April I 8, 2014, your request would be \nwithdrawn. Accordingly, pursuant to this correspondence, we have withdrawn you \nrequest for advice. \nHowever, if at a later date you determine that you do desire advice, you may \nsimply request it anew at that time. \nVJ:jgl \nIf you have other questions on this matter, please contact me at (916) 322-5660. \nSincerely, \nZackery P. Morazzini \nGeneral Counsel \nBy: \nValentina Joyce \nCounsel, Legal Division \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2014-05-08",
+    "date_raw": "May 8, 2014",
+    "requestor_name": "Davis",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "This is not an advice letter responding to a legal question, but rather a withdrawal notification due to the requestor's failure to provide requested information within the specified deadline.",
+    "conclusion_synthetic": "The FPPC has withdrawn the advice request (File No. W-14-025) because the requestor did not provide information requested by the March 7, 2014 deadline of April 18, 2014, but the requestor may resubmit a new advice request in the future.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Withdrawal letter with no traditional QUESTION or CONCLUSION sections. Document clearly states withdrawal due to non-response to prior correspondence dated March 7 and April 8, 2014. Signed by Valentina Joyce, Counsel."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:33:36.407706Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: This is not an advice letter responding to a legal question, but rather a withdrawal notification due to the requestor's failure to provide requested information within the specified deadline.\n\nCONCLUSION: The FPPC has withdrawn the advice request (File No. W-14-025) because the requestor did not provide information requested by the March 7, 2014 deadline of April 18, 2014, but the requestor may resubmit a new advice request in the future.",
+    "qa_source": "synthetic",
+    "first_500_words": "FAIR p OLITICAL p RA CT ICES COMMISSION 428 J Street • Suite 620 • Sacramento, CA 95814-2329 (916) 322-5660 • Fax (916) 322-0886 Daniel Davis 1251 Surf A venue Pacific Grove, CA 93950 RE: Your Request for Advice Our File No. W-14-025 Dear Mr. Davis: May 8, 2014 The purpose of this correspondence is to confirm that since we have not received word from you since our last correspondence, we have withdrawn your request for advice. In our letter of April 8, 2014 we advised that if we did not receive the information we requested in our March 7, 2014 letter by April I 8, 2014, your request would be withdrawn. Accordingly, pursuant to this correspondence, we have withdrawn you request for advice. However, if at a later date you determine that you do desire advice, you may simply request it anew at that time. VJ:jgl If you have other questions on this matter, please contact me at (916) 322-5660. Sincerely, Zackery P. Morazzini General Counsel By: Valentina Joyce Counsel, Legal Division",
+    "summary": "FPPC withdrawal letter notifying Daniel Davis that his request for advice (File No. W-14-025) has been withdrawn due to failure to provide requested information by the April 18, 2014 deadline. The requestor may submit a new request at any time."
+  }
+}

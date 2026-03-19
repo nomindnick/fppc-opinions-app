@@ -1,0 +1,79 @@
+{
+  "id": "02-321",
+  "year": 2002,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2002/02-321.pdf",
+  "pdf_sha256": "d40b0d0d527807435815227e424910f3ef182d4cd37b52a322d50db97f0b577a",
+  "local_pdf_path": "raw_pdfs/2002/02-321.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2002 Advice Letter # 02-321",
+    "tags": [
+      "Advice Letter",
+      "2002"
+    ],
+    "scraped_at": "2026-01-31 14:37:24",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2002&tagCount=1&page=32"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T17:58:59.623604Z",
+    "page_count": 1,
+    "word_count": 195,
+    "char_count": 1310,
+    "quality_score": 0.9045803542449112,
+    "olmocr_cost": 0.0025284,
+    "native_word_count": 193,
+    "haiku_cost": 0.002728
+  },
+  "content": {
+    "full_text": "FAIR POLITICAL PRACTICES COMMISSION\n428 J Street • Suite 620 • Sacramento, CA 95814-2329\n(916) 322-5660 • Fax (916) 322-0886\n\nNovember 26, 2002\n\nThe Honorable Ross Johnson\nCalifornia State Senate\nThirty-fifth Senatorial District\nPost Office Box 942848\nSacramento, CA 94248-0001\n\nRe: Your Request for Advice\nOur File No.: I-02-321\n\nDear Senator Johnson:\n\nThis letter is in response to your letter of November 12, 2002, to Chairman\nGetman requesting advice regarding the provisions of the Political Reform Act as they\napply to The Governor Gray Davis Committee and the Lt. Governor Gray Davis\nCommittee. The Commission does not provide advice to a third party about a public\nofficial's duties under the Act. (Gov. Code section 83114; regulation 18329.) Therefore,\nwe decline to answer the specific questions posed in your letter.\n\nWe have issued two advice letters that answer some questions regarding the\ntransition to contribution limits for statewide candidate committees. Fishburn Advice\nLetter, No. A-02-271; Fishburn Advice Letter, No. A-02-257 (copies enclosed). We\nanticipate discussing additional questions at the Commission's December 13, 2002\nmeeting.\n\nIf you have any questions regarding this letter, please contact me at (916) 322-\n5660.\n\nSincerely,\n\nLuisa Menchaca\nGeneral Counsel\n\nEnclosures\nLM:jg",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2002-12-13",
+    "date_raw": "December 13, 2002",
+    "requestor_name": null,
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [
+      "83114"
+    ],
+    "regulations": [
+      "18329"
+    ],
+    "prior_opinions": [
+      "A-02-257",
+      "A-02-271"
+    ],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "gifts_honoraria",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-20T19:25:10.239123Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "The letter is from the Fair Political Practices Commission to Senator Ross Johnson regarding his request for advice about the provisions of the Political Reform Act as they apply to The Governor Gray Davis Committee and the Lt. Governor Gray Davis Committee. The Commission declines to provide specific advice to a third party about a public official's duties under the Act, citing Gov. Code section 83114; regulation 18329. The Commission has issued two advice letters addressing transition to contribution limits for statewide candidate committees: Fishburn Advice Letter, No. A-02-271; Fishburn Advice Letter, No. A-02-257 (copies enclosed). The Commission anticipates discussing additional questions at its December 13, 2002 meeting. If Senator Johnson has any questions regarding this letter, he should contact Luisa Menchaca at (916) 322-5660. Sincerely, Luisa Menchaca General Counsel",
+    "qa_source": "extracted",
+    "first_500_words": "The letter is from the Fair Political Practices Commission to Senator Ross Johnson regarding his request for advice about the provisions of the Political Reform Act as they apply to The Governor Gray Davis Committee and the Lt. Governor Gray Davis Committee. The Commission declines to provide specific advice to a third party about a public official's duties under the Act, citing Gov. Code section 83114; regulation 18329. The Commission has issued two advice letters addressing transition to contribution limits for statewide candidate committees: Fishburn Advice Letter, No. A-02-271; Fishburn Advice Letter, No. A-02-257 (copies enclosed). The Commission anticipates discussing additional questions at its December 13, 2002 meeting. If Senator Johnson has any questions regarding this letter, he should contact Luisa Menchaca at (916) 322-5660. Sincerely, Luisa Menchaca General Counsel",
+    "summary": null
+  }
+}

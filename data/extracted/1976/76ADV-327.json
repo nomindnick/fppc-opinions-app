@@ -1,0 +1,71 @@
+{
+  "id": "76ADV-327",
+  "year": 1976,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1976/76ADV-327.PDF",
+  "pdf_sha256": "79d1947bf77ada336758bd9a4ccb54671c09691bc4074055ff35f87a52673405",
+  "local_pdf_path": "raw_pdfs/1976/76ADV-327.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1976ADV Advice Letter # 76ADV-327",
+    "tags": [
+      "1976",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:15:10",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1976&tagCount=1&page=8"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:17.501567Z",
+    "page_count": 2,
+    "word_count": 260,
+    "char_count": 1639,
+    "quality_score": 0.6799999999999999,
+    "olmocr_cost": null,
+    "native_word_count": 260
+  },
+  "content": {
+    "full_text": "1 \nAct. \nmust \nour \nbee: \nJeanne \nSpecial Compliance Representative \n\n\nApril 22, 1976 \nFair Political Practices Commission \n1100 K Street \nSacramento, CA \n95814 \nAttention: \nTechnical Assistance and Analysis Division \nGentlemen: \nRecently our office has been confronted with the following two problems \nwhich are similar in nature. \nFirst, a candidate in a local city election received contributions during \nher campaign which were duly and properly reported. \nHowever, now the \ncandidate is holding excess funds left over from that campaign, and does \nnot intend to engage in any future campaigns. \nThe funds are presently \nbeing held in a separate account. \nOur question is, what is the proper \nmethod to dispose of these funds? \nMay they be contributed to charity? \nThe second problem arose in a similar situation involving the same local \ncity election, only the excess funds are held by the Treasurer of a campaign \ncommittee. \nThe same question has arisen as to the proper disposition of \nthese funds held by the Treasurer of the campaign committee. \nThe funds held in both situations are a result of small contributions which \nwere not required to be reported on an individual basis, and therefore the \nsource of the funds is not known so as to allow return of the funds to the \nindividuals who contributed them. \nWe are not aware of any particular provlslon of the Political Reform Act \nwhich imposes any requirements or gives any directions for the disposition \nof the funds in question. \nWe will appreciate any information or advice available from your office. \nVery truly yours, \nAssistant City Attorney \nSN:sl:Th:5 \ncc: \nW.E. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1976-04-22",
+    "date_raw": "April 22, 1976",
+    "requestor_name": null,
+    "requestor_title": "City Attorney",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "What is the proper method to dispose of excess campaign funds held by a candidate who does not intend to engage in any future campaigns? May they be contributed to charity? How should excess funds held by a campaign committee treasurer be properly disposed of when the source of the funds is unknown and cannot be returned to individual contributors?",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The questioner seeks guidance on the proper disposition of excess campaign funds in two situations: funds held by a candidate and funds held by a campaign committee treasurer, where the original contributors cannot be identified and the funds were not individually reported.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an incoming request letter from an Assistant City Attorney, not an FPPC response. The document contains a QUESTION section but no CONCLUSION section. The letter presents two related scenarios regarding campaign fund disposition."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:17.501567Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: What is the proper method to dispose of excess campaign funds held by a candidate who does not intend to engage in any future campaigns? May they be contributed to charity? How should excess funds held by a campaign committee treasurer be properly disposed of when the source of the funds is unknown and cannot be returned to individual contributors?",
+    "qa_source": "mixed",
+    "first_500_words": "1 Act. must our bee: Jeanne Special Compliance Representative April 22, 1976 Fair Political Practices Commission 1100 K Street Sacramento, CA 95814 Attention: Technical Assistance and Analysis Division Gentlemen: Recently our office has been confronted with the following two problems which are similar in nature. First, a candidate in a local city election received contributions during her campaign which were duly and properly reported. However, now the candidate is holding excess funds left over from that campaign, and does not intend to engage in any future campaigns. The funds are presently being held in a separate account. Our question is, what is the proper method to dispose of these funds? May they be contributed to charity? The second problem arose in a similar situation involving the same local city election, only the excess funds are held by the Treasurer of a campaign committee. The same question has arisen as to the proper disposition of these funds held by the Treasurer of the campaign committee. The funds held in both situations are a result of small contributions which were not required to be reported on an individual basis, and therefore the source of the funds is not known so as to allow return of the funds to the individuals who contributed them. We are not aware of any particular provlslon of the Political Reform Act which imposes any requirements or gives any directions for the disposition of the funds in question. We will appreciate any information or advice available from your office. Very truly yours, Assistant City Attorney SN:sl:Th:5 cc: W.E.",
+    "summary": "An Assistant City Attorney requests FPPC guidance on the proper disposition of excess campaign funds from a local city election in two situations: funds held by a candidate not planning future campaigns and funds held by a campaign committee treasurer, where the original contributors are unknown."
+  }
+}

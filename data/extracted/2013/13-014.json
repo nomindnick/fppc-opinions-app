@@ -1,0 +1,73 @@
+{
+  "id": "13-014",
+  "year": 2013,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2013/13-014.pdf",
+  "pdf_sha256": "b69b5cd4eacf5af0cf15534346dcb046e024aa4f8c2c15d49bf8d6dbaf921d06",
+  "local_pdf_path": "raw_pdfs/2013/13-014.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2013 Advice Letter # 13-014",
+    "tags": [
+      "Advice Letter",
+      "2013"
+    ],
+    "scraped_at": "2026-01-31 14:56:32",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2013&tagCount=1&page=11"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:33:39.260478Z",
+    "page_count": 2,
+    "word_count": 516,
+    "char_count": 3464,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 516
+  },
+  "content": {
+    "full_text": "FAIR POLITICAL PRACTICES COMMISSION \n428 J Street • Suite 620 • Sacramento, CA 95814-2329 \n(916) 322-5660 • Fax 1916) 322-0886 \nMarch 4, 2013 \nAmar Shergill \nShergill Law Finn I Sacramento I San Francisco I Yuba City \n2150 River Plaza Drive, Suite 295 \nSacramento, CA 95833 \nRe: \nYour Request for Advice \nOur File No. A-13-014 \nDear Mr. Shergill: \nThis letter responds to your request for advice regarding the campaign provisions of the \nPolitical Reform Act (the \"Act\").1 Please note that the Commission does not provide advice on \nlegal requirements imposed outside the confines of the Act. \nYou have asked whether the Act prohibits the American Sikh Political Action \nCommittee, a California-registered PAC, from making out-of-state contributions to candidates \nfor the New Jersey Assembly. While there are provisions relating to the \"personal use\" of \ncampaign funds designed to prevent candidates, elected officials, and others who control the \nexpenditure of such funds from benefiting privately from their campaign activities, the Act \ncontains no provisions prohibiting a PAC from making out-of-state conLributions.2 \nThe general rule is that an expenditure of campaign funds must be reasonably related to a \npolitical, legislative or governmental purpose. (See Section 89512.S(a).) Making contributions \nto New Jersey candidates running for the Assembly would certainly appear to be reasonably \nrelated to a political purpose, and therefore an appropriate expenditure of campaign funds. \nAccordingly, the Act does not prohibit the American Sikh PAC from making such contributions. \n1 The Political Reform Act is contained in Government Code Sections !11000 through 91014. All statutory \nreferences are to the Government Code. unless otherwise indicated. The regulations of the Fair Political Practices \nCommission are contained in Sections 18110 through 18997 of Title 2 of the California Code of Regulations. All \nregulatory references are to Title 2. Division 6 of the California Code of Regulations. unless otherwise indicated. \n1 This does not foreclose the possibility that New Jersey may have its own laws addressing state-candidate \ncontributions coming from outside of the state. However. 1-uch laws would fall outside of the purview of the Act. so \nwe do not address them. \n\n\nFile No. A-13-014 \nPage No. 2 \nYou have also inquired whether the Act prohibits a charitable non-profit organization and \na PAC from having identical board membership where the financial accounting is separately \nmaintained and all other legal requirements involving such entities are followed. The Act \ncontains no provisions governing the composition of the board of a political committee or a \nnonprofit 501(c)(3) organization. However, you should consult federal tax law which restricts a \nnonprofit 501 ( c )(3) organization from engaping in partisan political activity concerning a \n501(c)(3) organization establishing a PAC. \nJW:jgl \nIf you have other questions on this matter, please contact me at (916) 322-5660. \nBy: \nSincerely, \nZackery P. Morazzini \nGeneral Counsel \nSeni r Counsel, Legal Division \n·1 In addition. because your facts suggest that the charitable nonprofit is a 501(c)(3) organization that will \nnot be operated for political purposes such that it would make contributions 10 candidates or spend funds to \ninfluence legislative action, the aggregation requirements involving affiliated entities under Section 853 I I would \nnot be triggered. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2013-03-04",
+    "date_raw": "March 4, 2013",
+    "requestor_name": "Shergill",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "You have asked whether the Act prohibits the American Sikh Political Action Committee, a California-registered PAC, from making out-of-state contributions to candidates for the New Jersey Assembly. You have also inquired whether the Act prohibits a charitable non-profit organization and a PAC from having identical board membership where the financial accounting is separately maintained and all other legal requirements involving such entities are followed.",
+    "conclusion": "While there are provisions relating to the \"personal use\" of campaign funds designed to prevent candidates, elected officials, and others who control the expenditure of such funds from benefiting privately from their campaign activities, the Act contains no provisions prohibiting a PAC from making out-of-state contributions. The general rule is that an expenditure of campaign funds must be reasonably related to a political, legislative or governmental purpose. Making contributions to New Jersey candidates running for the Assembly would certainly appear to be reasonably related to a political purpose, and therefore an appropriate expenditure of campaign funds. Accordingly, the Act does not prohibit the American Sikh PAC from making such contributions. The Act contains no provisions governing the composition of the board of a political committee or a nonprofit 501(c)(3) organization. However, you should consult federal tax law which restricts a nonprofit 501(c)(3) organization from engaging in partisan political activity concerning a 501(c)(3) organization establishing a PAC.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a California PAC may make contributions to New Jersey Assembly candidates, and whether a charitable nonprofit and PAC may have identical board membership with separate accounting.",
+    "conclusion_synthetic": "The Act does not prohibit out-of-state contributions by a PAC to New Jersey candidates, as such contributions are reasonably related to a political purpose. The Act contains no provisions governing board composition of affiliated entities, though federal tax law restrictions on 501(c)(3) partisan activity should be consulted.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Standard advice letter format with clear question and conclusion sections. Document has two distinct legal questions addressed. Citation to Government Code and FPPC regulations included. File number A-13-014 corresponds to document ID 13-014."
+  },
+  "citations": {
+    "government_code": [
+      "89512"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "gifts_honoraria",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:33:39.260478Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: You have asked whether the Act prohibits the American Sikh Political Action Committee, a California-registered PAC, from making out-of-state contributions to candidates for the New Jersey Assembly. You have also inquired whether the Act prohibits a charitable non-profit organization and a PAC from having identical board membership where the financial accounting is separately maintained and all other legal requirements involving such entities are followed.\n\nCONCLUSION: While there are provisions relating to the \"personal use\" of campaign funds designed to prevent candidates, elected officials, and others who control the expenditure of such funds from benefiting privately from their campaign activities, the Act contains no provisions prohibiting a PAC from making out-of-state contributions. The general rule is that an expenditure of campaign funds must be reasonably related to a political, legislative or governmental purpose. Making contributions to New Jersey candidates running for the Assembly would certainly appear to be reasonably related to a political purpose, and therefore an appropriate expenditure of campaign funds. Accordingly, the Act does not prohibit the American Sikh PAC from making such contributions. The Act contains no provisions governing the composition of the board of a political committee or a nonprofit 501(c)(3) organization. However, you should consult federal tax law which restricts a nonprofit 501(c)(3) organization from engaging in partisan political activity concerning a 501(c)(3) organization establishing a PAC.",
+    "qa_source": "mixed",
+    "first_500_words": "FAIR POLITICAL PRACTICES COMMISSION 428 J Street • Suite 620 • Sacramento, CA 95814-2329 (916) 322-5660 • Fax 1916) 322-0886 March 4, 2013 Amar Shergill Shergill Law Finn I Sacramento I San Francisco I Yuba City 2150 River Plaza Drive, Suite 295 Sacramento, CA 95833 Re: Your Request for Advice Our File No. A-13-014 Dear Mr. Shergill: This letter responds to your request for advice regarding the campaign provisions of the Political Reform Act (the \"Act\").1 Please note that the Commission does not provide advice on legal requirements imposed outside the confines of the Act. You have asked whether the Act prohibits the American Sikh Political Action Committee, a California-registered PAC, from making out-of-state contributions to candidates for the New Jersey Assembly. While there are provisions relating to the \"personal use\" of campaign funds designed to prevent candidates, elected officials, and others who control the expenditure of such funds from benefiting privately from their campaign activities, the Act contains no provisions prohibiting a PAC from making out-of-state conLributions.2 The general rule is that an expenditure of campaign funds must be reasonably related to a political, legislative or governmental purpose. (See Section 89512.S(a).) Making contributions to New Jersey candidates running for the Assembly would certainly appear to be reasonably related to a political purpose, and therefore an appropriate expenditure of campaign funds. Accordingly, the Act does not prohibit the American Sikh PAC from making such contributions. 1 The Political Reform Act is contained in Government Code Sections !11000 through 91014. All statutory references are to the Government Code. unless otherwise indicated. The regulations of the Fair Political Practices Commission are contained in Sections 18110 through 18997 of Title 2 of the California Code of Regulations. All regulatory references are to Title 2. Division 6 of the California Code of Regulations. unless otherwise indicated. 1 This does not foreclose the possibility that New Jersey may have its own laws addressing state-candidate contributions coming from outside of the state. However. 1-uch laws would fall outside of the purview of the Act. so we do not address them. File No. A-13-014 Page No. 2 You have also inquired whether the Act prohibits a charitable non-profit organization and a PAC from having identical board membership where the financial accounting is separately maintained and all other legal requirements involving such entities are followed. The Act contains no provisions governing the composition of the board of a political committee or a nonprofit 501(c)(3) organization. However, you should consult federal tax law which restricts a nonprofit 501 ( c )(3) organization from engaping in partisan political activity concerning a 501(c)(3) organization establishing a PAC. JW:jgl If you have other questions on this matter, please contact me at (916) 322-5660. By: Sincerely, Zackery P. Morazzini General Counsel Seni r Counsel, Legal Division ·1 In addition. because your facts suggest that the charitable nonprofit is a 501(c)(3) organization that will not be operated for political purposes such that it would make contributions 10 candidates or spend funds to influence legislative",
+    "summary": "FPPC advises that the Political Reform Act does not prohibit a California PAC from making contributions to New Jersey Assembly candidates or from having identical board membership with a charitable nonprofit, though federal tax law restrictions on 501(c)(3) organizations should be considered."
+  }
+}

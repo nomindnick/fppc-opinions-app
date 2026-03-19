@@ -1,0 +1,72 @@
+{
+  "id": "78ADV-78-118",
+  "year": 1978,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1978/78ADV-78-118.PDF",
+  "pdf_sha256": "98d258ceca7655042cb3a17a139296adf7ecec14b57660aae108dc8339318657",
+  "local_pdf_path": "raw_pdfs/1978/78ADV-78-118.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1978ADV Advice Letter # 78ADV-78-118",
+    "tags": [
+      "Advice Letter",
+      "1978"
+    ],
+    "scraped_at": "2026-01-31 15:22:59",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=2"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T13:18:19.476803Z",
+    "page_count": 1,
+    "word_count": 81,
+    "char_count": 686,
+    "quality_score": 0.8514631868131868,
+    "olmocr_cost": 0.0024682000000000003,
+    "native_word_count": 11,
+    "haiku_cost": 0.001944
+  },
+  "content": {
+    "full_text": "ate of California\n\nMemorandum\n\nTo : 86200 and 86202 Files                                Date : October 23, 1978\n\n                                                            78-10-118\n\nFrom : FAIR POLITICAL PRACTICES COMMISSION\n       Richard Eichman\n\nSubject: Opinion Request: Meeting of October 23, 1978\n\n1. May the spouse of a registered lobbyist make contributions to a state\n   candidate, a committee supporting a state candidate, or an elected state\n   officer?\n\n                                [Yes]\n\n2. If yes, are there any restrictions on the contributions?\n\n                    [No, so long as the lobbyist does not influence\n                     spouse, i.e., no arranging.]",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1978-10-23",
+    "date_raw": "October 23, 1978",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "1. May the spouse of a registered lobbyist make contributions to a state candidate, a committee supporting a state candidate, or an elected state officer?\n\n2. If yes, are there any restrictions on the contributions?",
+    "conclusion": "[Yes]\n\n[No, so long as the lobbyist does not influence spouse, i.e., no arranging.]",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a registered lobbyist's spouse may make political contributions to state candidates, committees, or elected officers, and whether any restrictions apply to such contributions.",
+    "conclusion_synthetic": "A registered lobbyist's spouse may make contributions to state candidates, committees supporting candidates, and elected state officers without restrictions, provided the lobbyist does not influence or arrange such contributions.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Memorandum format with numbered questions and bracketed answers. No formal QUESTION/CONCLUSION sections, but clear opinion structure. Document appears to be internal FPPC opinion request meeting notes dated October 23, 1978."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T16:55:04.914556Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: 1. May the spouse of a registered lobbyist make contributions to a state candidate, a committee supporting a state candidate, or an elected state officer?\n\n2. If yes, are there any restrictions on the contributions?\n\nCONCLUSION: [Yes]\n\n[No, so long as the lobbyist does not influence spouse, i.e., no arranging.]",
+    "qa_source": "mixed",
+    "first_500_words": "**Memorandum** To: 86200 and 86202 Files Date: October 23, 1978 From: FAIR POLITICAL PRACTICES COMMISSION Richard Eichman Subject: Opinion Request Meeting of October 23, 1978 1. May the spouse of a registered lobbyist make contributions to a state candidate, a committee supporting a state candidate, or an elected state officer? [Yes] 2. If yes, are there any restrictions on the contributions? [No, so long as the lobbyist does not influence spouse, i.e., no arranging.]",
+    "summary": "FPPC opinion confirming that spouses of registered lobbyists may make political contributions to state candidates and officers without restrictions, as long as the lobbyist does not influence or arrange those contributions."
+  }
+}

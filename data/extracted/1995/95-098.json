@@ -1,0 +1,80 @@
+{
+  "id": "95-098",
+  "year": 1995,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/1995/95-098.pdf",
+  "pdf_sha256": "2977f2400bec297f12996840d4d59e0c53af41b5ead6e6a9354cc762bfa4721e",
+  "local_pdf_path": "raw_pdfs/1995/95-098.pdf",
+  "source_metadata": {
+    "title_raw": ", Howard Year: 1995 Advice Letter # 95-098",
+    "tags": [
+      "1995",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:37:49",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1995&tagCount=1&page=15"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:58.599594Z",
+    "page_count": 2,
+    "word_count": 413,
+    "char_count": 2631,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 413
+  },
+  "content": {
+    "full_text": "California\nSUPERSEDED\nFair Po itica\nPractices Commission\nApril 18,\n1995\nHelen H.\nSuhr\nBaker\n& McKenzie\nTwo Embarcadero Center,\nTwenty-Fourth Floor\nSan Francisco,\nCA 94111—3909\nRe:\nYour Request for Confirmation\nof Telephone Assistance\nOur File No.\n1—95—098\nDear Ms.\nSuhr:\nYou have requested confirmation of telephone assistance\nprovided to you concerning the conflict of interest disclosure\nprovisions of the Political Reform Act.\n1\n!\nSince your letter is a\ngeneral inquiry,\nwe consider your letter to be a request for\ninformal assistance pursuant to Regulation 18329(c) •2/\nYou asked if the $280 gift limit and the prohibition on the\nreceipt of honoraria apply to board members of public retirement\nsystems who are either appointed to their positions or are elected\nby the membership of the retirement system.\nAs we discussed, if retirement board members are deemed to be\npublic officials who manage public investments as that term is\nused in Government Code Section 87200, these board members report\ntheir economic interests on Form 721 statement of economic\ninterests.\nIn this capacity, board members are subject to the\ndisclosure and disqualification provisions of the Act.\nOfficials\nwhose positions are included in Governrent Code Section 87200 are\nnot required to be included in a conflict of interest code for a\nlocal government agency.\nAdditionally, retirement board members\nwho are elected by the membership of the retirement system are not\ndeemed to be local elected officials.\nTherefore, these retirement\nboard members are not currently subject to the provisions of the\n1/\nGovernment Code Sections 81000-91015.\nAll statutory\nreferences are to the Government Code unless otherwise indicated.\nCommission regulations appear at\n2 California Code of Regulations\nSection 18000,\ng.\nAll references to regulations are to Title\n2, Division\n6 of the California Code of Regulations.\n2/\nInformal assistance does not provide the requestor with the\nimmunity provided by an opinion or formal written advice.\n(Section 83114; Regulation 18329(c) (3).)\n428 J Street, Suite 800\n•\nP.O. Box 807\n•\nSacramento, CA\n95804-0807\n•\n(916) 322-5660\n\n\nMs.\nSuhr\nOur File No.\n1-95-098\nPage Two\ngift limits and honoraria ban found in Section 89501 since they\nare not local elected officials or designated employees in a\nconflict of interest code.\nAs you are aware, legislation has been\nproposed to impose the gift limits and honoraria ban on such\nofficials in the future.\nIf you have any questions or need further assistance, please\ncontact me at\n(916)\n322—5660.\nSincerely,\nSteven G.\nChurchwell\nGeneral Counsel\nby:\nDixie Howard\nPolitical Reform Consultant\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1995-04-18",
+    "date_raw": "April 18,\n1995",
+    "requestor_name": "Suhr",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "informal_advice"
+  },
+  "sections": {
+    "question": "Do the $280 gift limit and the prohibition on the receipt of honoraria apply to board members of public retirement systems who are either appointed to their positions or are elected by the membership of the retirement system?",
+    "conclusion": "If retirement board members are deemed to be public officials who manage public investments as defined in Government Code Section 87200, they report on Form 721 and are subject to disclosure and disqualification provisions. However, retirement board members elected by the membership are not deemed local elected officials and are therefore not currently subject to the gift limits and honoraria ban in Section 89501, unless they are designated employees in a conflict of interest code.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether retirement board members appointed or elected by system membership are subject to the $280 gift limit and honoraria prohibition under the Political Reform Act.",
+    "conclusion_synthetic": "Retirement board members managing public investments under Section 87200 must file Form 721 disclosures and follow disqualification rules, but elected retirement board members are not subject to gift limits and honoraria restrictions as they are not considered local elected officials.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document marked 'SUPERSEDED' at top; informal advice letter (Regulation 18329(c)); no formal QUESTION/CONCLUSION section headers but clear Q/A structure in body text; responsive letter confirms prior telephone discussion."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "83114",
+      "87200",
+      "89501"
+    ],
+    "regulations": [
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [
+      "87150"
+    ],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "gifts_honoraria",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:34:58.599594Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Do the $280 gift limit and the prohibition on the receipt of honoraria apply to board members of public retirement systems who are either appointed to their positions or are elected by the membership of the retirement system?\n\nCONCLUSION: If retirement board members are deemed to be public officials who manage public investments as defined in Government Code Section 87200, they report on Form 721 and are subject to disclosure and disqualification provisions. However, retirement board members elected by the membership are not deemed local elected officials and are therefore not currently subject to the gift limits and honoraria ban in Section 89501, unless they are designated employees in a conflict of interest code.",
+    "qa_source": "mixed",
+    "first_500_words": "California SUPERSEDED Fair Po itica Practices Commission April 18, 1995 Helen H. Suhr Baker & McKenzie Two Embarcadero Center, Twenty-Fourth Floor San Francisco, CA 94111—3909 Re: Your Request for Confirmation of Telephone Assistance Our File No. 1—95—098 Dear Ms. Suhr: You have requested confirmation of telephone assistance provided to you concerning the conflict of interest disclosure provisions of the Political Reform Act. 1 ! Since your letter is a general inquiry, we consider your letter to be a request for informal assistance pursuant to Regulation 18329(c) •2/ You asked if the $280 gift limit and the prohibition on the receipt of honoraria apply to board members of public retirement systems who are either appointed to their positions or are elected by the membership of the retirement system. As we discussed, if retirement board members are deemed to be public officials who manage public investments as that term is used in Government Code Section 87200, these board members report their economic interests on Form 721 statement of economic interests. In this capacity, board members are subject to the disclosure and disqualification provisions of the Act. Officials whose positions are included in Governrent Code Section 87200 are not required to be included in a conflict of interest code for a local government agency. Additionally, retirement board members who are elected by the membership of the retirement system are not deemed to be local elected officials. Therefore, these retirement board members are not currently subject to the provisions of the 1/ Government Code Sections 81000-91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations Section 18000, g. All references to regulations are to Title 2, Division 6 of the California Code of Regulations. 2/ Informal assistance does not provide the requestor with the immunity provided by an opinion or formal written advice. (Section 83114; Regulation 18329(c) (3).) 428 J Street, Suite 800 • P.O. Box 807 • Sacramento, CA 95804-0807 • (916) 322-5660 Ms. Suhr Our File No. 1-95-098 Page Two gift limits and honoraria ban found in Section 89501 since they are not local elected officials or designated employees in a conflict of interest code. As you are aware, legislation has been proposed to impose the gift limits and honoraria ban on such officials in the future. If you have any questions or need further assistance, please contact me at (916) 322—5660. Sincerely, Steven G. Churchwell General Counsel by: Dixie Howard Political Reform Consultant",
+    "summary": "FPPC informal advice letter confirming telephone assistance regarding whether $280 gift limits and honoraria prohibitions apply to public retirement system board members. The response clarifies that while such board members may be subject to economic disclosure requirements if they manage public investments, elected retirement board members are not currently subject to gift and honoraria restrictions."
+  }
+}

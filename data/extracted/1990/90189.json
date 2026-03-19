@@ -1,0 +1,72 @@
+{
+  "id": "90189",
+  "year": 1990,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1990/90189.pdf",
+  "pdf_sha256": "c579c1dde02d7290422daa45270b4a7823d5714fdbc89fa132934d8becd5a411",
+  "local_pdf_path": "raw_pdfs/1990/90189.pdf",
+  "source_metadata": {
+    "title_raw": "Shallcrosse, Gary Year: 1990 Advice Letter # 90189",
+    "tags": [
+      "1990",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:09:48",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1990&tagCount=1&page=53"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T16:59:46.191369Z",
+    "page_count": 1,
+    "word_count": 154,
+    "char_count": 996,
+    "quality_score": 0.8201504221451427,
+    "olmocr_cost": 0.00245444,
+    "native_word_count": 174,
+    "haiku_cost": 0.0027152
+  },
+  "content": {
+    "full_text": "LAW OFFICES\n\nSCHROEDER, DAVIS & ORLISS INC.\nA PROFESSIONAL CORPORATION\n\nG. GERVAISE DAVIS III\nGEORGE L. SCHROEDER\nTED ORLISS\nJOHN D. LAUGHTON\nROBERT T. DAUNT\nF. DAVID LARIVIERE\nANDREW M. SISOLAK\nSCOTT DAVID SCHROEDER\nLESLIE G. MURRAY\n\nPROFESSIONAL BUILDING\n215 W. FRANKLIN STREET, 4TH FLOOR\nPOST OFFICE BOX 3080\nMONTEREY, CALIFORNIA 93942\n\nMONTEREY TELEPHONE (408) 649-1122\nSAN JOSE TELEPHONE (408) 441-1122\n\nFAX (408) 649-0566\n\nMarch 6, 1990\n\nMs. Katherine Donovan\nGeneral Counsel\nFair Practices Commission\n428 \"J\" Street\nSacramento, CA 95814\n\nDear Ms. Donovan:\n\nI would like to know if a lobbyist is prohibited from receiving a commission based on obtaining a contract from a state agency. The company employing the lobbyist is seeking contracts to perform medical billing services for the state agency.\n\nThank you for any help you can give me on this issue.\n\nSincerely,\n\nSCHROEDER, DAVIS & ORLISS INC.\n\n[signature]\nGary Shallcross\nLaw Clerk\n\nGS:pte\n\n*ADMITTED IDAHO STATE BAR, REGISTERED USPTO",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1990-03-06",
+    "date_raw": "March 6, 1990",
+    "requestor_name": "Donovan",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T21:10:43.791126Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "**March 6, 1990** Ms. Katherine Donovan General Counsel Fair Practices Commission 428 \"J\" Street Sacramento, CA 95814 Dear Ms. Donovan: I would like to know if a lobbyist is prohibited from receiving a commission based on obtaining a contract from a state agency. The company employing the lobbyist is seeking contracts to perform medical billing services for the state agency. Thank you for any help you can give me on this issue. Sincerely, SCHROEDER, DAVIS & ORLISS INC. [Signature] Gary Shallcross Law Clerk GS:pte",
+    "qa_source": "extracted",
+    "first_500_words": "**March 6, 1990** Ms. Katherine Donovan General Counsel Fair Practices Commission 428 \"J\" Street Sacramento, CA 95814 Dear Ms. Donovan: I would like to know if a lobbyist is prohibited from receiving a commission based on obtaining a contract from a state agency. The company employing the lobbyist is seeking contracts to perform medical billing services for the state agency. Thank you for any help you can give me on this issue. Sincerely, SCHROEDER, DAVIS & ORLISS INC. [Signature] Gary Shallcross Law Clerk GS:pte",
+    "summary": null
+  }
+}

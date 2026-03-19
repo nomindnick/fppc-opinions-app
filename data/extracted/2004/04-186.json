@@ -1,0 +1,75 @@
+{
+  "id": "04-186",
+  "year": 2004,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2004/04-186.pdf",
+  "pdf_sha256": "614fe177113f28c054e0e3e172f1975add2505537dc92cb268f4d016f8766db6",
+  "local_pdf_path": "raw_pdfs/2004/04-186.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2004 Advice Letter # 04-186",
+    "tags": [
+      "2004",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:58:33",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2004&tagCount=1&page=5"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:19.140325Z",
+    "page_count": 1,
+    "word_count": 195,
+    "char_count": 1319,
+    "quality_score": 0.635,
+    "olmocr_cost": null,
+    "native_word_count": 195
+  },
+  "content": {
+    "full_text": "Re\nFetn PolrrrcAI- PRACTTcES CouvrrssroN\n428 J Street r Suite 620 o Sacramento, CA 95814-2329\n(916) 322-5660 o Fax (916) 322-0886\nSeptember 7,2004\nTom Sykes, City Administrator\nCity of Commerce\nCityHall\n2535 Commerce Way\nCommerce, CA 90040\nYour Request for Advice\nOur FiIe No. W-04-186\nDear Mr. Sykes:\nThis letter confirms the receipt of your request for advice regarding an unnamed elected\ncouncil member. Under the provisions of California Code of Regulations section 18329(bX8XB),\nunless you identifu the official and are writing as hislher authorized representativg the Fair\nPolitical Practices Commission can neither address your questions norprovide analysis. The\nFPPC may also decline to provide wriuen advice, where an inquiry is hypothetical in nature\n(regulation I 8329OX8XD).\nI have enclosed a copy of regulation 18329 for your review on the requirements for\nsubmitting an advice request. I have also included regulation18702.5 @ublic Identification of a\nConflict of Interest for Section 87200 Filers) and Limitations and Restrictions on Gifts,\nHonoraria, Travel and Loans for locally elected officials; these documents may address some\nyour concerns.\nShould you have any questions, please contact me at (916) 322-566A.\nSincerely,\nLuisa Menchaca\nCounsel\nW. Wallace\nEnclosures\nJwWjg\nAssistant General Counsel\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2004-09-07",
+    "date_raw": "September 7,2004",
+    "requestor_name": "Sykes",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "A City of Commerce administrator requested FPPC advice regarding an unnamed elected council member's conduct under the Political Reform Act, but failed to identify the specific official or provide authorization to act on their behalf.",
+    "conclusion_synthetic": "The FPPC declined to provide written advice because the request did not identify the specific elected official in question and was not submitted by an authorized representative, as required by California Code of Regulations section 18329(b)(8)(B). The FPPC also noted the request appeared hypothetical in nature, which is grounds for declination under regulation 18329(b)(8)(D).",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Declination letter with no formal question or conclusion sections. Reasons for declination clearly stated in body text citing specific regulatory violations. Enclosures provided for requestor guidance on proper submission requirements."
+  },
+  "citations": {
+    "government_code": [
+      "87200"
+    ],
+    "regulations": [
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:34:19.140325Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: A City of Commerce administrator requested FPPC advice regarding an unnamed elected council member's conduct under the Political Reform Act, but failed to identify the specific official or provide authorization to act on their behalf.\n\nCONCLUSION: The FPPC declined to provide written advice because the request did not identify the specific elected official in question and was not submitted by an authorized representative, as required by California Code of Regulations section 18329(b)(8)(B). The FPPC also noted the request appeared hypothetical in nature, which is grounds for declination under regulation 18329(b)(8)(D).",
+    "qa_source": "synthetic",
+    "first_500_words": "Re Fetn PolrrrcAI- PRACTTcES CouvrrssroN 428 J Street r Suite 620 o Sacramento, CA 95814-2329 (916) 322-5660 o Fax (916) 322-0886 September 7,2004 Tom Sykes, City Administrator City of Commerce CityHall 2535 Commerce Way Commerce, CA 90040 Your Request for Advice Our FiIe No. W-04-186 Dear Mr. Sykes: This letter confirms the receipt of your request for advice regarding an unnamed elected council member. Under the provisions of California Code of Regulations section 18329(bX8XB), unless you identifu the official and are writing as hislher authorized representativg the Fair Political Practices Commission can neither address your questions norprovide analysis. The FPPC may also decline to provide wriuen advice, where an inquiry is hypothetical in nature (regulation I 8329OX8XD). I have enclosed a copy of regulation 18329 for your review on the requirements for submitting an advice request. I have also included regulation18702.5 @ublic Identification of a Conflict of Interest for Section 87200 Filers) and Limitations and Restrictions on Gifts, Honoraria, Travel and Loans for locally elected officials; these documents may address some your concerns. Should you have any questions, please contact me at (916) 322-566A. Sincerely, Luisa Menchaca Counsel W. Wallace Enclosures JwWjg Assistant General Counsel",
+    "summary": "The FPPC declined an advice request from the City of Commerce regarding an unnamed council member's potential conflict of interest, citing failure to identify the specific official and lack of authorized representation as required by regulatory provisions."
+  }
+}

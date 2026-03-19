@@ -1,0 +1,75 @@
+{
+  "id": "81A170",
+  "year": 1981,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1981/81A170.PDF",
+  "pdf_sha256": "149c97bba3acb16391579ad6a41912bececd1d383ab2837e9dfa185651d167d1",
+  "local_pdf_path": "raw_pdfs/1981/81A170.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1981 Advice Letter # 81A170",
+    "tags": [
+      "Advice Letter",
+      "1981"
+    ],
+    "scraped_at": "2026-01-31 15:29:21",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1981&tagCount=1&page=18"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:02.062922Z",
+    "page_count": 2,
+    "word_count": 367,
+    "char_count": 2374,
+    "quality_score": 0.6325000000000001,
+    "olmocr_cost": null,
+    "native_word_count": 367
+  },
+  "content": {
+    "full_text": "tate of CaiifoTl1ia \nFair Political Practices CommissioIl. \nP.o. BOX 807 • SACRAMENTO, 95804 • 1100 K STREET BUILDING, SACRAMENTO, 95814 \n107 SOUTH BROADWAY. •• \nSUITE 7007 \n••• \nLOS ANGELES,90012 \nMr. Dick Bryant \nLos Angeles Registrar-Recorder \n5557 Ferguson Drive \nLos Angeles, California 90022 \nDear Mr. Bryant: \nOctober 5, 1981 \nThis letter is in response to your request made last Friday, \nOctober 2nd concerning the filing obligations of a major donor \ncommittee. \nYou asked what filing obligation does a Major donor incur if \nduring the first threshold period a person has contributions \ntotaling $4,500, and, during the second threshold period makes \nadditional contributions totaling $500 for a cumulative amount of \n$5,000, thereby qualifying the person as a Major donor pursuant to \nGovernment Code Section 82013(c)? \nYou also asked what the filing obligation would be if an \nindividual, during the first threshold period had made a $4,700 \nin contributions, and during the second threshold Deriod had Made \nadditional contributions less than $500 but cumulative to the \ncontributions in the first threshold period of $5,000 or more \nagain qualifying the person as a major donor committee? \nIn the first example you gave, I advised that the person \nqualified as a major donor committee in the second threshold period \nsince the total cumulative amount of contributions made was $5,000. \nIn addition, since the contributions made during the second \nthreshold period were $500, the major donor would be required to \nfile the second threshold statement pursuant to Government Code \nSection 84200(b)(2). \nFor the second example you cited, since the contributions made \nduring the second threshold period were less than $500 and there \nwere no other expenditures by the person, the person likewise \nqualified as a major donor committee since the cumulative amount \nof contributions made was $5,000. \nThe major donor is required to \nfile the semi-annual campaign statement pursuant to Government \nCode Section 84200(a) since the level of activity was less than \n$500 for the specified threshold period. \nSACRAMENTO (916) 322·5660 \n• \nLOS ANGELES (213) 620-5196 \n\n\nr:r. Dick Bryant \nge Two \nOctober 5, 1981 \nI hope this information has been he \ndo not hesitnte to contnct our office It \nassistance. \nful to you. \nPlease \nwe cnn be of any further \nSil1cerely, \nHPA: jg \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1981-10-05",
+    "date_raw": "October 5, 1981",
+    "requestor_name": "Bryant",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "You asked what filing obligation does a Major donor incur if during the first threshold period a person has contributions totaling $4,500, and, during the second threshold period makes additional contributions totaling $500 for a cumulative amount of $5,000, thereby qualifying the person as a Major donor pursuant to Government Code Section 82013(c)? You also asked what the filing obligation would be if an individual, during the first threshold period had made a $4,700 in contributions, and during the second threshold period had made additional contributions less than $500 but cumulative to the contributions in the first threshold period of $5,000 or more again qualifying the person as a major donor committee?",
+    "conclusion": "In the first example, the person qualified as a major donor committee in the second threshold period since the total cumulative amount of contributions made was $5,000, and must file the second threshold statement pursuant to Government Code Section 84200(b)(2) since contributions in the second period were $500. In the second example, since contributions in the second threshold period were less than $500 with no other expenditures, the person qualified as a major donor committee and is required to file the semi-annual campaign statement pursuant to Government Code Section 84200(a).",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "What are the filing obligations for a major donor committee when contributions across two threshold periods cumulatively reach $5,000, and does the filing requirement differ based on whether the contributions in the second threshold period meet or fall below $500?",
+    "conclusion_synthetic": "A person qualifies as a major donor when cumulative contributions reach $5,000 across threshold periods, with filing obligations determined by the activity level in the second threshold period: if $500 or more, file the second threshold statement; if less than $500, file the semi-annual campaign statement.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document dated October 5, 1981, addressed to Los Angeles Registrar-Recorder. Contains clear question and conclusion sections with specific statutory references to Government Code sections 82013(c), 84200(b)(2), and 84200(a). Minor OCR artifacts present but do not significantly impact understanding."
+  },
+  "citations": {
+    "government_code": [
+      "82013(c)",
+      "84200(a)",
+      "84200(b)(2)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:37:02.062922Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: You asked what filing obligation does a Major donor incur if during the first threshold period a person has contributions totaling $4,500, and, during the second threshold period makes additional contributions totaling $500 for a cumulative amount of $5,000, thereby qualifying the person as a Major donor pursuant to Government Code Section 82013(c)? You also asked what the filing obligation would be if an individual, during the first threshold period had made a $4,700 in contributions, and during the second threshold period had made additional contributions less than $500 but cumulative to the contributions in the first threshold period of $5,000 or more again qualifying the person as a major donor committee?\n\nCONCLUSION: In the first example, the person qualified as a major donor committee in the second threshold period since the total cumulative amount of contributions made was $5,000, and must file the second threshold statement pursuant to Government Code Section 84200(b)(2) since contributions in the second period were $500. In the second example, since contributions in the second threshold period were less than $500 with no other expenditures, the person qualified as a major donor committee and is required to file the semi-annual campaign statement pursuant to Government Code Section 84200(a).",
+    "qa_source": "mixed",
+    "first_500_words": "tate of CaiifoTl1ia Fair Political Practices CommissioIl. P.o. BOX 807 • SACRAMENTO, 95804 • 1100 K STREET BUILDING, SACRAMENTO, 95814 107 SOUTH BROADWAY. •• SUITE 7007 ••• LOS ANGELES,90012 Mr. Dick Bryant Los Angeles Registrar-Recorder 5557 Ferguson Drive Los Angeles, California 90022 Dear Mr. Bryant: October 5, 1981 This letter is in response to your request made last Friday, October 2nd concerning the filing obligations of a major donor committee. You asked what filing obligation does a Major donor incur if during the first threshold period a person has contributions totaling $4,500, and, during the second threshold period makes additional contributions totaling $500 for a cumulative amount of $5,000, thereby qualifying the person as a Major donor pursuant to Government Code Section 82013(c)? You also asked what the filing obligation would be if an individual, during the first threshold period had made a $4,700 in contributions, and during the second threshold Deriod had Made additional contributions less than $500 but cumulative to the contributions in the first threshold period of $5,000 or more again qualifying the person as a major donor committee? In the first example you gave, I advised that the person qualified as a major donor committee in the second threshold period since the total cumulative amount of contributions made was $5,000. In addition, since the contributions made during the second threshold period were $500, the major donor would be required to file the second threshold statement pursuant to Government Code Section 84200(b)(2). For the second example you cited, since the contributions made during the second threshold period were less than $500 and there were no other expenditures by the person, the person likewise qualified as a major donor committee since the cumulative amount of contributions made was $5,000. The major donor is required to file the semi-annual campaign statement pursuant to Government Code Section 84200(a) since the level of activity was less than $500 for the specified threshold period. SACRAMENTO (916) 322·5660 • LOS ANGELES (213) 620-5196 r:r. Dick Bryant ge Two October 5, 1981 I hope this information has been he do not hesitnte to contnct our office It assistance. ful to you. Please we cnn be of any further Sil1cerely, HPA: jg",
+    "summary": "FPPC provides advice on major donor committee filing obligations under two scenarios involving cumulative contributions of $5,000 across multiple threshold periods, distinguishing between filing requirements based on contribution amounts in the second threshold period."
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "83A16",
+  "year": 1983,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1983/83A16.PDF",
+  "pdf_sha256": "16cf462c6b73950f681fd3bdd5c929c82659d26993f5b80696c6725924272572",
+  "local_pdf_path": "raw_pdfs/1983/83A16.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1983 Advice Letter # 83A16",
+    "tags": [
+      "1983",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:32:21",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1983&tagCount=1&page=12"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:52.486124Z",
+    "page_count": 1,
+    "word_count": 184,
+    "char_count": 1307,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 184
+  },
+  "content": {
+    "full_text": "State of California \nMemorandum \nTo \nAdvice File: \nSections 84211(j) and \n84303 \nDate \n7/1/83 \nFrom \n: \nFAIR POLITICAL PRACTICES COMMISSION \nJ.Pritchard \nSubiect: \nReporting a \"series of payments\" for a single service or \nproduct; \nreporting payments made by a paid solicitor for \nsignature gathering. \nOn_June 29, 1983, I met with Dimitri Viripaeff, \ntreasurer for Assemblyman Sebastiani's reapportionment \nqualification committee, \"Californians for Fair and \nIndependent Representation/Sebastiani Committee.\" \nWe discussed, generally, record keeping require-\nments, period covered and due date, and disclosure require-\nments. \nSpecifically, I gave him the following advice \nregarding reporting expenditures: \nPursuant to Section 84211(j), multiple payments \ntotaling $100 or more during the reporting period may be \nreported as a single entry on the campaign statement, and \na notation should be made in the committee's records to \naccount for the total amount reported as a lump sum on \nthe campaign statement. \nPursuant to Section 84303, when a paid solicitor \n(a firm) makes payments to individuals with whom it \ncontracts to collect signatures for the committee's \nqualification effort, the committee must itemize each \nindividual to whom the firm pays $100 or more during the \nqualification period. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1983-06-29",
+    "date_raw": "June 29, 1983",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "How should a reapportionment qualification committee report multiple payments for a single service or product, and how should payments made by a paid solicitor to signature gatherers be reported?",
+    "conclusion_synthetic": "Multiple payments totaling $100 or more during a reporting period may be reported as a single entry with notation in committee records. When a paid solicitor makes payments to individuals for signature collection, the committee must itemize each individual receiving $100 or more during the qualification period.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is internal FPPC memorandum rather than formal advice letter format; no distinct QUESTION or CONCLUSION sections, but contains clear question and guidance; advice provided verbally on 6/29/83 and memorialized in writing on 7/1/83."
+  },
+  "citations": {
+    "government_code": [
+      "84211(j)",
+      "84303"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:36:52.486124Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: How should a reapportionment qualification committee report multiple payments for a single service or product, and how should payments made by a paid solicitor to signature gatherers be reported?\n\nCONCLUSION: Multiple payments totaling $100 or more during a reporting period may be reported as a single entry with notation in committee records. When a paid solicitor makes payments to individuals for signature collection, the committee must itemize each individual receiving $100 or more during the qualification period.",
+    "qa_source": "synthetic",
+    "first_500_words": "State of California Memorandum To Advice File: Sections 84211(j) and 84303 Date 7/1/83 From : FAIR POLITICAL PRACTICES COMMISSION J.Pritchard Subiect: Reporting a \"series of payments\" for a single service or product; reporting payments made by a paid solicitor for signature gathering. On_June 29, 1983, I met with Dimitri Viripaeff, treasurer for Assemblyman Sebastiani's reapportionment qualification committee, \"Californians for Fair and Independent Representation/Sebastiani Committee.\" We discussed, generally, record keeping require- ments, period covered and due date, and disclosure require- ments. Specifically, I gave him the following advice regarding reporting expenditures: Pursuant to Section 84211(j), multiple payments totaling $100 or more during the reporting period may be reported as a single entry on the campaign statement, and a notation should be made in the committee's records to account for the total amount reported as a lump sum on the campaign statement. Pursuant to Section 84303, when a paid solicitor (a firm) makes payments to individuals with whom it contracts to collect signatures for the committee's qualification effort, the committee must itemize each individual to whom the firm pays $100 or more during the qualification period.",
+    "summary": "FPPC memorandum providing advice to a reapportionment qualification committee treasurer regarding the reporting of multiple payments and solicitor-paid signature gatherers' compensation under Sections 84211(j) and 84303."
+  }
+}

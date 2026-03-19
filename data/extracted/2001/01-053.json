@@ -1,0 +1,75 @@
+{
+  "id": "01-053",
+  "year": 2001,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2001/01-053.pdf",
+  "pdf_sha256": "b0f2d19c6cf89d08044cd61920c2c5ccdffc3b960e39c9f26b3bc15a1fa707a0",
+  "local_pdf_path": "raw_pdfs/2001/01-053.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2001 Advice Letter # 01-053",
+    "tags": [
+      "2001",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:32:59",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2001&tagCount=1&page=3"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T22:19:56.340958Z",
+    "page_count": 1,
+    "word_count": 108,
+    "char_count": 730,
+    "quality_score": 0.8265756377375142,
+    "olmocr_cost": 0.00255334,
+    "native_word_count": 126
+  },
+  "content": {
+    "full_text": "December 21, 2001\n\nTransmitted Via Facsimile & U.S. Mail\n\nC. April Boling, CPA\n7185 Navajo Road, Suite L\nSan Diego, CA 92119\n\nRe: Your Request for Advice\nOur File No. W-01-053\n\nDear Ms. Boling:\n\nThis correspondence is written confirmation that you have withdrawn your March 6, 2001 request for advice under the provisions of the Political Reform Act.¹\n\nShould you have any additional questions regarding this matter, please contact me at (916) 322-5660.\n\nSincerely,\n\nLuisa Menchaca\nGeneral Counsel\n\nBy: William L. Williams, Jr.\nStaff Counsel, Legal Division\n\nWLW:jg\nI:\\AdviceLtrs\\01-053\n\n¹ Government Code sections 81000-91014. Commission regulations appear at Title 2, sections 18109-18997, of the California Code of Regulations.",
+    "full_text_markdown": "December 21, 2001\n\nTransmitted Via Facsimile & U.S. Mail\n\nC. April Boling, CPA\n7185 Navajo Road, Suite L\nSan Diego, CA 92119\n\nRe: Your Request for Advice\nOur File No. W-01-053\n\nDear Ms. Boling:\n\nThis correspondence is written confirmation that you have withdrawn your March 6, 2001 request for advice under the provisions of the Political Reform Act.¹\n\nShould you have any additional questions regarding this matter, please contact me at (916) 322-5660.\n\nSincerely,\n\nLuisa Menchaca\nGeneral Counsel\n\nBy: William L. Williams, Jr.\nStaff Counsel, Legal Division\n\nWLW:jg\nI:\\AdviceLtrs\\01-053\n\n¹ Government Code sections 81000-91014. Commission regulations appear at Title 2, sections 18109-18997, of the California Code of Regulations."
+  },
+  "parsed": {
+    "date": "2001-12-21",
+    "date_raw": "December 21, 2001",
+    "requestor_name": "Boling",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [
+      "18109"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-19T22:19:56.340958Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "December 21, 2001 Transmitted Via Facsimile & U.S. Mail C. April Boling, CPA 7185 Navajo Road, Suite L San Diego, CA 92119 Re: Your Request for Advice Our File No. W-01-053 Dear Ms. Boling: This correspondence is written confirmation that you have withdrawn your March 6, 2001 request for advice under the provisions of the Political Reform Act.¹ Should you have any additional questions regarding this matter, please contact me at (916) 322-5660. Sincerely, Luisa Menchaca General Counsel By: William L. Williams, Jr. Staff Counsel, Legal Division WLW:jg I:\\AdviceLtrs\\01-053 ¹ Government Code sections 81000-91014. Commission regulations appear at Title 2, sections 18109-18997, of the California Code of Regulations.",
+    "qa_source": "extracted",
+    "first_500_words": "December 21, 2001 Transmitted Via Facsimile & U.S. Mail C. April Boling, CPA 7185 Navajo Road, Suite L San Diego, CA 92119 Re: Your Request for Advice Our File No. W-01-053 Dear Ms. Boling: This correspondence is written confirmation that you have withdrawn your March 6, 2001 request for advice under the provisions of the Political Reform Act.¹ Should you have any additional questions regarding this matter, please contact me at (916) 322-5660. Sincerely, Luisa Menchaca General Counsel By: William L. Williams, Jr. Staff Counsel, Legal Division WLW:jg I:\\AdviceLtrs\\01-053 ¹ Government Code sections 81000-91014. Commission regulations appear at Title 2, sections 18109-18997, of the California Code of Regulations.",
+    "summary": null
+  }
+}

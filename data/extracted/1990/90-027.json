@@ -1,0 +1,71 @@
+{
+  "id": "90-027",
+  "year": 1990,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1990/90-027.pdf",
+  "pdf_sha256": "2e3b3c7c3ca7ab233b084d73b839bf3a004985ae3711f9c6b80beac388ab5603",
+  "local_pdf_path": "raw_pdfs/1990/90-027.pdf",
+  "source_metadata": {
+    "title_raw": "Scott, Marc Year: 1990 Advice Letter # 90-027",
+    "tags": [
+      "1990",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:13:41",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1990&tagCount=1&page=104"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:41.746178Z",
+    "page_count": 1,
+    "word_count": 182,
+    "char_count": 1155,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 182
+  },
+  "content": {
+    "full_text": "I,Iarc E. Scott, C.p.A\nTreasurer, fhe courmiitee to Retain\nJudge Harry Papadakis\nP-O. Box 1045\nCoalinga, CA 93210\nRe: Your Request for Advice\nOur File No. A-9O-O2Z\nDear Mr. scott:\nYou have requested confirmation of my tetephone advice\nprovided t9 you on behalf of Judge Harry iapadakis concerning the\ncarnpaign disclosure provisions of the political \nReform Act\n(Government Code Sections 81OOO-91015) .\nYour letter, dated January 2, 1990, correctly summarizes my\nadvice that campaign funds raised prior to 1989 and deposited ii a\ncampaign bank account established for a previous elect-ion, may be\ndesignated for a future election as 1ong as no contributions or\nexpenditures are made from the bank acc6unt in connection with the\nprevious election.\nEnclosed are Forms 501 and 502. please complete these forms\nto disclose the required infornation.\nPLease do not hesitate to contact ne at (915) 322-5662 if you\nhave additional questions.\nCalifornia\nFair POlitical\nPractices Commission\nFebruary 7, ].99O\nS incere Iy ,\nKathryn\nGeneral E. Donovan\nPoIitical Reform灸\nConsu■tant\n428 J Street, Suite 8ot-t o P.O. Box 8O7 o Sacramento CA 958rr{-O8OZ . (916) )22-5660\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1990-01-02",
+    "date_raw": "January 2, 1990",
+    "requestor_name": "Scott",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "Your letter, dated January 2, 1990, correctly summarizes my advice that campaign funds raised prior to 1989 and deposited in a campaign bank account established for a previous election, may be designated for a future election as long as no contributions or expenditures are made from the bank account in connection with the previous election.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "May campaign funds raised prior to 1989 and deposited in a campaign bank account established for a previous election be designated for a future election?",
+    "conclusion_synthetic": "Campaign funds raised before 1989 and deposited in an existing campaign account may be redesignated for a future election, provided no contributions or expenditures are made from that account regarding the previous election.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document lacks formal section headers for QUESTION and CONCLUSION but contains substantive advice content. Conclusion text paraphrases rather than formally labels as 'CONCLUSION' section. OCR quality issues present but content is recoverable. Advice was originally provided by telephone and confirmed in writing."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:35:41.746178Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: May campaign funds raised prior to 1989 and deposited in a campaign bank account established for a previous election be designated for a future election?\n\nCONCLUSION: Your letter, dated January 2, 1990, correctly summarizes my advice that campaign funds raised prior to 1989 and deposited in a campaign bank account established for a previous election, may be designated for a future election as long as no contributions or expenditures are made from the bank account in connection with the previous election.",
+    "qa_source": "mixed",
+    "first_500_words": "I,Iarc E. Scott, C.p.A Treasurer, fhe courmiitee to Retain Judge Harry Papadakis P-O. Box 1045 Coalinga, CA 93210 Re: Your Request for Advice Our File No. A-9O-O2Z Dear Mr. scott: You have requested confirmation of my tetephone advice provided t9 you on behalf of Judge Harry iapadakis concerning the carnpaign disclosure provisions of the political Reform Act (Government Code Sections 81OOO-91015) . Your letter, dated January 2, 1990, correctly summarizes my advice that campaign funds raised prior to 1989 and deposited ii a campaign bank account established for a previous elect-ion, may be designated for a future election as 1ong as no contributions or expenditures are made from the bank acc6unt in connection with the previous election. Enclosed are Forms 501 and 502. please complete these forms to disclose the required infornation. PLease do not hesitate to contact ne at (915) 322-5662 if you have additional questions. California Fair POlitical Practices Commission February 7, ].99O S incere Iy , Kathryn General E. Donovan PoIitical Reform灸 Consu■tant 428 J Street, Suite 8ot-t o P.O. Box 8O7 o Sacramento CA 958rr{-O8OZ . (916) )22-5660",
+    "summary": "The FPPC confirms advice regarding the reuse of prior campaign funds for a future election under the Political Reform Act. The letter confirms that funds raised before 1989 may be redesignated for a future election if no activity occurs in the account for the previous election."
+  }
+}

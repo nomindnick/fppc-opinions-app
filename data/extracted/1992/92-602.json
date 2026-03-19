@@ -1,0 +1,79 @@
+{
+  "id": "92-602",
+  "year": 1992,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1992/92-602.pdf",
+  "pdf_sha256": "ff75106fb1fa97df1b5335a4072396adff4bea51129fc5c34ae23ea8130f7f51",
+  "local_pdf_path": "raw_pdfs/1992/92-602.pdf",
+  "source_metadata": {
+    "title_raw": "Edmunds, A. Year: 1992 Advice Letter # 92-602",
+    "tags": [
+      "Advice Letter",
+      "1992"
+    ],
+    "scraped_at": "2026-01-31 16:26:57",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1992&tagCount=1&page=56"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:16.851231Z",
+    "page_count": 2,
+    "word_count": 449,
+    "char_count": 2951,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 449
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\nDecember 2,\n1992\nA.\nBrock Edmunds\nPublic Affairs Paralegal\nLiberty Mutual\n175 Berkeley Street\nBoston, Massachusetts\n02117-0140\nRe:\nYour Request for Confirmation\nof Telephone Advice\nOur File No.\n1-92—602\nDear Ms.\nEthuunds:\nYou have requested confirmation of telephone advice provided\nto you concerning the campaign provisions of the Political Reform\nAct\n(the “Act”).l/\nBecause your letter does not identify a\nparticular person or concern a specific pending governmental\ndecision but rather seeks general guidance,\nwe are treating your\nrequest as one for informal assistance.2/\nYour letter of October 20,\n1992, correctly summarizes my\nadvice that to qualify as a “committe&’ pursuant to Section\n82013(a),\na “person” must receive $1,000 or more during a calendar\nyear for “political purposes.”\nSection 82013(a)\ndefines “committee” in relevant part as:\nAny person or combination of persons who directly or\nindirectly receives contributions totaling $1,000\nor more in a calendar year...\n“Person” means an individual, proprietorship,\nfirm,\npartnership, joint venture,\nsyndicate, business trust,\ncompany\ncorporation, association,\ncommittee,\nand any other organization or\ngroup of persons acting in concert.\n(Section 82047.)\n1/ Government Code Sections 81000-91015.\nAll statutory references\nare to the Government Code unless otherwise indicated.\nCommission\nregulations appear at\n2 California Code of Regulations Section\n18000,\ng.\nAll references to regulations are to Title 2,\nDivision\n6 of the California Code of Regulations.\n2/\nInformal assistance does not provide the requestor with the\nimmunity provided by an opinion or formal written advice.\n(Section 83114; Regulation 18329(c) (3).)\n428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804-0807 • (916) 322-5660\n\n\nA.\nBrock Edmunds\nOur File No.\n1—92—602\nPage\n2\nA person who receives money for political purposes has\nreceived “contributions,” and must register and file disclosure\nreports as a recipient committee under Section 82013 (a).\nThe term “contribution” is defined in relevant part as:\nAny monetary or nonmonetary payment made for political\npurposes for which full and adequate consideration is\nnot made to the donor.\n(Regulation 18215.)\nRegulation 18215 defines “a payment for political purposes,”\nin relevant part,\nas a payment:\n(1)\nFor the purpose of influencing or attempting\nto influence the action of the voters for or\nagainst the nomination or election of a candidate or\ncandidates,\nor the qualification or passage of any\nmeasure...\nIn summary, in order to incur a filing obligation as a\nrecipient committee under the Act,\na person must receive $1,000 or.\nmore in a calendar year for political purposes.\nIf less thati\n$1,000 is received during the calendar year, there is no reporting\nrequirement under the Act.\nIf you have any questions, please give me a call at 916/322-\n5662.\nSincerely,\nrrL\nMary\nn Kvasager\nPolitical Reform Consultant\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1992-12-02",
+    "date_raw": "December 2,\n1992",
+    "requestor_name": "Ethuunds",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "informal_advice"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "In summary, in order to incur a filing obligation as a recipient committee under the Act, a person must receive $1,000 or more in a calendar year for political purposes. If less than $1,000 is received during the calendar year, there is no reporting requirement under the Act.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "What threshold must be met for a person or entity to qualify as a 'committee' under the Political Reform Act and trigger campaign finance reporting requirements?",
+    "conclusion_synthetic": "A person or entity qualifies as a 'committee' subject to registration and disclosure requirements only if it receives $1,000 or more in a calendar year for political purposes; amounts below this threshold do not trigger reporting obligations.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an informal advice letter confirming previously provided telephone advice. No formal QUESTION/CONCLUSION sections are present; both question and conclusion were extracted from the body text. The letter explicitly states it provides informal assistance without immunity protections."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "82013(a)",
+      "82047",
+      "83114"
+    ],
+    "regulations": [
+      "18215",
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.25,
+    "classified_at": "2026-02-06T18:35:16.851231Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: What threshold must be met for a person or entity to qualify as a 'committee' under the Political Reform Act and trigger campaign finance reporting requirements?\n\nCONCLUSION: In summary, in order to incur a filing obligation as a recipient committee under the Act, a person must receive $1,000 or more in a calendar year for political purposes. If less than $1,000 is received during the calendar year, there is no reporting requirement under the Act.",
+    "qa_source": "mixed",
+    "first_500_words": "California Fair Political Practices Commission December 2, 1992 A. Brock Edmunds Public Affairs Paralegal Liberty Mutual 175 Berkeley Street Boston, Massachusetts 02117-0140 Re: Your Request for Confirmation of Telephone Advice Our File No. 1-92—602 Dear Ms. Ethuunds: You have requested confirmation of telephone advice provided to you concerning the campaign provisions of the Political Reform Act (the “Act”).l/ Because your letter does not identify a particular person or concern a specific pending governmental decision but rather seeks general guidance, we are treating your request as one for informal assistance.2/ Your letter of October 20, 1992, correctly summarizes my advice that to qualify as a “committe&’ pursuant to Section 82013(a), a “person” must receive $1,000 or more during a calendar year for “political purposes.” Section 82013(a) defines “committee” in relevant part as: Any person or combination of persons who directly or indirectly receives contributions totaling $1,000 or more in a calendar year... “Person” means an individual, proprietorship, firm, partnership, joint venture, syndicate, business trust, company corporation, association, committee, and any other organization or group of persons acting in concert. (Section 82047.) 1/ Government Code Sections 81000-91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations Section 18000, g. All references to regulations are to Title 2, Division 6 of the California Code of Regulations. 2/ Informal assistance does not provide the requestor with the immunity provided by an opinion or formal written advice. (Section 83114; Regulation 18329(c) (3).) 428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804-0807 • (916) 322-5660 A. Brock Edmunds Our File No. 1—92—602 Page 2 A person who receives money for political purposes has received “contributions,” and must register and file disclosure reports as a recipient committee under Section 82013 (a). The term “contribution” is defined in relevant part as: Any monetary or nonmonetary payment made for political purposes for which full and adequate consideration is not made to the donor. (Regulation 18215.) Regulation 18215 defines “a payment for political purposes,” in relevant part, as a payment: (1) For the purpose of influencing or attempting to influence the action of the voters for or against the nomination or election of a candidate or candidates, or the qualification or passage of any measure... In summary, in order to incur a filing obligation as a recipient committee under the Act, a person must receive $1,000 or. more in a calendar year for political purposes. If less thati $1,000 is received during the calendar year, there is no reporting requirement under the Act. If you have any questions, please give me a call at 916/322- 5662. Sincerely, rrL Mary n Kvasager Political Reform Consultant",
+    "summary": "The FPPC confirms informal telephone advice regarding the definition of 'committee' under the Political Reform Act, clarifying that the $1,000 annual threshold for contributions designated for political purposes determines whether an entity must register and file as a recipient committee."
+  }
+}

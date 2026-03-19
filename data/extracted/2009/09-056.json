@@ -1,0 +1,75 @@
+{
+  "id": "09-056",
+  "year": 2009,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2009/09-056.pdf",
+  "pdf_sha256": "6e715147c29d5655c45ef41f369ff5f62d6f35c2c8ef36b3b056e89641bf3304",
+  "local_pdf_path": "raw_pdfs/2009/09-056.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2009 Advice Letter # 09-056",
+    "tags": [
+      "2009",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:49:18",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2009&tagCount=1&page=7"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:33:56.347089Z",
+    "page_count": 1,
+    "word_count": 218,
+    "char_count": 1463,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 218
+  },
+  "content": {
+    "full_text": "Fern Polrrrcer- PRACTTcEs C ovrMrssroN\n.128 J Street o Suite 620 o Sacramento. CA 9581,1-2329\n(916) 322-5660 r Fax (916) 322-0886\nMarch 4,2009\nDelores Gaston\nDistrict Fair Business Assistant\nDixon May Fair\nP.O. Box 459\nDixon, CA 95620\nRe:\nYour Request for Advice\nOur File No. W-09-056\nDear Ms. Gaston:\nThis letter is in response to your request for written advice of March 4, 2009. Your\ninquiry presents issues that are outside the purview of the Political Reform Act (\"Act\";1. The\nFair Political Practices Commission has no jurisdiction to interpret or advise on provisions\nconceming state incompatible activities of state officers and employees as describe in\nGovemment Code Section 19990. Thus, pursuant to Regulation 18329, copy enclosed, we are\ndeclining to provide advice. You may wish to seek guidance of the Attorney General's Office.\nShould you need assistance in the future, you may contact me at (916) 322-56G0.\nSincerely,\nScott Hallabrin\nCounsel\nBy: John W. Wallace\nAssistant General Counsel\nDivision\nJwwjl\nEnclosure\n' The Political Reform Act is contained in Government Code Sections 81000 through 91014. All statubry\nret'erences are to the Government Code. unless otherwise indicated. The regulations of the Fair Political Practices\nCommissionarecontainedinSections l8ll0through l8997of Title2of theCalitbrniaCodeof Regulations. All\nregulatory references are to Title 2. Division 6 of the California Code of Regulations. unless orherwise indicated.\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2009-03-04",
+    "date_raw": "March 4,2009",
+    "requestor_name": "Gaston",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "The Fair Political Practices Commission has no jurisdiction to interpret or advise on provisions concerning state incompatible activities of state officers and employees as describe in Government Code Section 19990. Thus, pursuant to Regulation 18329, the FPPC is declining to provide advice.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requester asked for FPPC advice regarding state incompatible activities of state officers and employees under Government Code Section 19990.",
+    "conclusion_synthetic": "The FPPC declined to provide advice because the inquiry concerns state incompatible activities of state officers and employees, which are outside the purview of the Political Reform Act and the FPPC's jurisdiction. The requester was directed to seek guidance from the Attorney General's Office.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Declination letter with clear jurisdiction limitation. No formal QUESTION and CONCLUSION sections present, but substantive legal question and FPPC's declination reason are explicitly stated in body text. Document references Regulation 18329 as basis for declination."
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:33:56.347089Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The requester asked for FPPC advice regarding state incompatible activities of state officers and employees under Government Code Section 19990.\n\nCONCLUSION: The Fair Political Practices Commission has no jurisdiction to interpret or advise on provisions concerning state incompatible activities of state officers and employees as describe in Government Code Section 19990. Thus, pursuant to Regulation 18329, the FPPC is declining to provide advice.",
+    "qa_source": "mixed",
+    "first_500_words": "Fern Polrrrcer- PRACTTcEs C ovrMrssroN .128 J Street o Suite 620 o Sacramento. CA 9581,1-2329 (916) 322-5660 r Fax (916) 322-0886 March 4,2009 Delores Gaston District Fair Business Assistant Dixon May Fair P.O. Box 459 Dixon, CA 95620 Re: Your Request for Advice Our File No. W-09-056 Dear Ms. Gaston: This letter is in response to your request for written advice of March 4, 2009. Your inquiry presents issues that are outside the purview of the Political Reform Act (\"Act\";1. The Fair Political Practices Commission has no jurisdiction to interpret or advise on provisions conceming state incompatible activities of state officers and employees as describe in Govemment Code Section 19990. Thus, pursuant to Regulation 18329, copy enclosed, we are declining to provide advice. You may wish to seek guidance of the Attorney General's Office. Should you need assistance in the future, you may contact me at (916) 322-56G0. Sincerely, Scott Hallabrin Counsel By: John W. Wallace Assistant General Counsel Division Jwwjl Enclosure ' The Political Reform Act is contained in Government Code Sections 81000 through 91014. All statubry ret'erences are to the Government Code. unless otherwise indicated. The regulations of the Fair Political Practices CommissionarecontainedinSections l8ll0through l8997of Title2of theCalitbrniaCodeof Regulations. All regulatory references are to Title 2. Division 6 of the California Code of Regulations. unless orherwise indicated.",
+    "summary": "The FPPC declined to provide written advice on a request from Delores Gaston regarding state incompatible activities, stating the matter falls outside its jurisdictional authority under the Political Reform Act."
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "10-020",
+  "year": 2010,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2010/10-020.pdf",
+  "pdf_sha256": "550e4df1daa40d1377639fcbcc2904a8b2154f5aee975f63862c0f6d67c19553",
+  "local_pdf_path": "raw_pdfs/2010/10-020.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2010 Advice Letter # 10-020",
+    "tags": [
+      "2010",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:51:05",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2010&tagCount=1&page=2"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:33:51.857659Z",
+    "page_count": 1,
+    "word_count": 183,
+    "char_count": 1111,
+    "quality_score": 0.635,
+    "olmocr_cost": null,
+    "native_word_count": 183
+  },
+  "content": {
+    "full_text": "Fern Polrrrcer. PRACTTcEs CovrvrrssroN\n428 J Street o Suite 620 o Sacramento, CA gigl4_232g\n(916) 322-5660 o Fax (9t6) 322-0886\nFebruary 2,2010\nCraig Noble\nCity Council member\nCity of Taft\n209 East Kern Street\nTaft, cA 93269\nDear Mr. Noble:\nEnclosure\nYour Request for Advice\nOur File No.: W.10-020\nRe:\nThis letter is in response to your request for written advice on Government Code\nSection 1090 and its application to your leaie of property from the City of Taft. Under\nthe provisions of Regulation 18329(bXg)(D), copy enclosed, we must o\"ctir\" yo,r.\nrequest for advice.\nGovernment Code Section 1090 is outside the purview of the Fair political\nPractices commission - we advise only on laws in the political Reform e\",l \n--'\n(Government Code sections 81000-91014.) You may wish to discuss your question with\nyour city attomey or send an inquiry to the office orihe Attorney General. \n^\nIf you have any questions, please contact me at (916) 322-5660 .\nS\nWallace\nGeneral Counsel\nFor your infbrmation we enclose the pamphlet \"Can I Vote\" which discusses conflicts of\ninterest under the Political Reform Act.\nJohn\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2010-02-02",
+    "date_raw": "February 2,2010",
+    "requestor_name": "Noble",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "Government Code Section 1090 is outside the purview of the Fair Political Practices Commission - the FPPC advises only on laws in the Political Reform Act (Government Code sections 81000-91014). The requester is directed to consult with their city attorney or the Attorney General's office.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether Government Code Section 1090 applies to a city council member's lease of property from the City of Taft.",
+    "conclusion_synthetic": "The FPPC declines to provide advice because Government Code Section 1090 falls outside its jurisdiction, which is limited to the Political Reform Act.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Declination letter with no formal Question or Conclusion sections; question and conclusion synthesized from letter content. File number W.10-020 suggests withdrawal or declination processing."
+  },
+  "citations": {
+    "government_code": [
+      "1090",
+      "81000"
+    ],
+    "regulations": [
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:33:51.857659Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether Government Code Section 1090 applies to a city council member's lease of property from the City of Taft.\n\nCONCLUSION: Government Code Section 1090 is outside the purview of the Fair Political Practices Commission - the FPPC advises only on laws in the Political Reform Act (Government Code sections 81000-91014). The requester is directed to consult with their city attorney or the Attorney General's office.",
+    "qa_source": "mixed",
+    "first_500_words": "Fern Polrrrcer. PRACTTcEs CovrvrrssroN 428 J Street o Suite 620 o Sacramento, CA gigl4_232g (916) 322-5660 o Fax (9t6) 322-0886 February 2,2010 Craig Noble City Council member City of Taft 209 East Kern Street Taft, cA 93269 Dear Mr. Noble: Enclosure Your Request for Advice Our File No.: W.10-020 Re: This letter is in response to your request for written advice on Government Code Section 1090 and its application to your leaie of property from the City of Taft. Under the provisions of Regulation 18329(bXg)(D), copy enclosed, we must o\"ctir\" yo,r. request for advice. Government Code Section 1090 is outside the purview of the Fair political Practices commission - we advise only on laws in the political Reform e\",l --' (Government Code sections 81000-91014.) You may wish to discuss your question with your city attomey or send an inquiry to the office orihe Attorney General. ^ If you have any questions, please contact me at (916) 322-5660 . S Wallace General Counsel For your infbrmation we enclose the pamphlet \"Can I Vote\" which discusses conflicts of interest under the Political Reform Act. John",
+    "summary": "The FPPC declines to provide written advice on Government Code Section 1090 as applied to a city council member's property lease, finding the matter outside its statutory purview."
+  }
+}

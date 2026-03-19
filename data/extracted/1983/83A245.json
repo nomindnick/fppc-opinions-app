@@ -1,0 +1,71 @@
+{
+  "id": "83A245",
+  "year": 1983,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1983/83A245.PDF",
+  "pdf_sha256": "851c6cf90048af040dc9c3177d08d0ec31eb69c9b127fef23de9701d415305cf",
+  "local_pdf_path": "raw_pdfs/1983/83A245.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1983 Advice Letter # 83A245",
+    "tags": [
+      "1983",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:32:16",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1983&tagCount=1&page=11"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:52.160791Z",
+    "page_count": 2,
+    "word_count": 281,
+    "char_count": 1834,
+    "quality_score": 0.5125,
+    "olmocr_cost": null,
+    "native_word_count": 281
+  },
+  "content": {
+    "full_text": "P.O. BOX 807 • SACRAMENTO, 95804 ••• 1100 K STREET BUILDING, SACRAMENTO, 95814 \n(916) 322·5662 \nJohn H. Larson \nCounty Counsel \nCounty of Los Angeles \nAdministration \n322·5660 \n648 Hall of Administration \nLos Angeles, CA \n90012 \nDear Mr. Larson: \nExecutive/legal \n3n·5901 \nEnforcement \n322·6441 \nOctober 31, 1983 \nStatements of Economic Interest \n322·6444 \nRe: \nGift Reporting, Disquali-\nfication -\nLos Angeles County \nSupervisors Dana, Schabarum \nand Antonovich \nAdvice Letter No. A-83-245 \nReference is made to your letters, dated May 27, 1983, to \nthe above-referenced supervisors. \nIn response to an inquiry \nfrom Roger Brown of our Enforcement Division, as to their filing \namended Statements of Economic Interests (which disclosed \nreduced values for certain gifts), these three supervisors \nforwarded to us copies of your letters advising them that they \ncould \"pay down\" the value of the gift ~ post facto. \nThis \nadvice was in error. \nWe have sent each supervisor a letter (copy enclosed) \nexplaining that any payment made to reduce the value of a gift \nmust be made within 30 days of receipt of the gift. \nClearly \nthis did not occur in these cases. \nConsequently, if the correct \nvalue of any gifts received was $250 or more, then \ndisqualification would be required in the appropriate \ncircumstances. \nObviously, by now the 12-month disqualification \nperiod will already have expired as to gifts received in the \nfirst 9-1/2 months of 1982. \nHopefully for gifts received in \n1983 appropriate steps will already have been taken to avoid any \nsimilar future difficulties. \n\n\nJohn H. Larson \nOctober 31, 1983 \nPage 2 \nShould you have any questions regarding this matter, please \ndo not hesitate to contact me. \nI may be reached at \n(916) 322-5901. \nREL:plh \nEnclosure \nSincerely, \nRobert E. Leidigh \nCounsel \nLegal Division \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1983-10-31",
+    "date_raw": "October 31, 1983",
+    "requestor_name": "Larson",
+    "requestor_title": "County Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "May county supervisors reduce the reported value of gifts received by making payments after the fact (post facto) and filing amended Statements of Economic Interest?",
+    "conclusion_synthetic": "No. Any payment to reduce the value of a gift must be made within 30 days of receipt of the gift. If the correct gift value is $250 or more, disqualification is required in appropriate circumstances, and the 12-month disqualification period begins from the date of receipt, not from the date of amended filing.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document lacks formal QUESTION and CONCLUSION section headers but contains clear advisory opinion responding to County Counsel's erroneous guidance regarding gift valuation and disqualification procedures. The response explains the error and provides correct interpretation of FPPC rules."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:36:52.160791Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: May county supervisors reduce the reported value of gifts received by making payments after the fact (post facto) and filing amended Statements of Economic Interest?\n\nCONCLUSION: No. Any payment to reduce the value of a gift must be made within 30 days of receipt of the gift. If the correct gift value is $250 or more, disqualification is required in appropriate circumstances, and the 12-month disqualification period begins from the date of receipt, not from the date of amended filing.",
+    "qa_source": "synthetic",
+    "first_500_words": "P.O. BOX 807 • SACRAMENTO, 95804 ••• 1100 K STREET BUILDING, SACRAMENTO, 95814 (916) 322·5662 John H. Larson County Counsel County of Los Angeles Administration 322·5660 648 Hall of Administration Los Angeles, CA 90012 Dear Mr. Larson: Executive/legal 3n·5901 Enforcement 322·6441 October 31, 1983 Statements of Economic Interest 322·6444 Re: Gift Reporting, Disquali- fication - Los Angeles County Supervisors Dana, Schabarum and Antonovich Advice Letter No. A-83-245 Reference is made to your letters, dated May 27, 1983, to the above-referenced supervisors. In response to an inquiry from Roger Brown of our Enforcement Division, as to their filing amended Statements of Economic Interests (which disclosed reduced values for certain gifts), these three supervisors forwarded to us copies of your letters advising them that they could \"pay down\" the value of the gift ~ post facto. This advice was in error. We have sent each supervisor a letter (copy enclosed) explaining that any payment made to reduce the value of a gift must be made within 30 days of receipt of the gift. Clearly this did not occur in these cases. Consequently, if the correct value of any gifts received was $250 or more, then disqualification would be required in the appropriate circumstances. Obviously, by now the 12-month disqualification period will already have expired as to gifts received in the first 9-1/2 months of 1982. Hopefully for gifts received in 1983 appropriate steps will already have been taken to avoid any similar future difficulties. John H. Larson October 31, 1983 Page 2 Should you have any questions regarding this matter, please do not hesitate to contact me. I may be reached at (916) 322-5901. REL:plh Enclosure Sincerely, Robert E. Leidigh Counsel Legal Division",
+    "summary": "FPPC corrects erroneous legal advice given by Los Angeles County Counsel to three supervisors, clarifying that gifts cannot be 'paid down' after receipt and that proper gift valuation and disqualification requirements must be followed within statutory timeframes."
+  }
+}

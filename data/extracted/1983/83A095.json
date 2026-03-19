@@ -1,0 +1,76 @@
+{
+  "id": "83A095",
+  "year": 1983,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1983/83A095.PDF",
+  "pdf_sha256": "c9f05f0b649908df94ffd8417533764194a6dc1276e4fe3481a43c647d6640b1",
+  "local_pdf_path": "raw_pdfs/1983/83A095.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1983 Advice Letter # 83A095",
+    "tags": [
+      "1983",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:31:45",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1983&tagCount=1&page=4"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:51.127053Z",
+    "page_count": 2,
+    "word_count": 358,
+    "char_count": 2238,
+    "quality_score": 0.635,
+    "olmocr_cost": null,
+    "native_word_count": 358
+  },
+  "content": {
+    "full_text": "P.O. BOX 807 • SACRAMENTO, 95804 ••• 1100 K STREET BUILDING, SACRAMENTO, 95814 \n(916) 322-5662 \nDon White \nAdministration \n322-5660 \nExecutive/legal \n•• \nEnforcement \n322-5901 \n322-M,n \nApril 12,1983 \nReclamation District, No. 1001 \n1959 Cornelius Avenue \nRio Oso, CA \n95764 \nRe: \nAdvice No. A-83-095 \nDear Mr. White: \nStatements of Economic I ntarest \n322-6444 \nThank you for your request for advice. \nYour question was \nwhether a member of the Board of Trustees of Reclamation \nDistrict, No. 1001, may purchase a short term note from the \nDistrict. \nIf he purchases the note, the board member will \nreceive interest on the loan and eventual repayment of it. \nGovernment Code section 871001/ states that no official at \nany level of local government shall make or participate in the \nmaking of a governmental decision in which he knows or has \nreason to know he has a financial interest. \nAn official has a \n\"financial interest\" in a decision within the meaning of Section \n87100 if it is reasonably foreseeable that the decision will \nhave a material financial effect on: \n(c) \nAny source of income . . • aggregating two \nhundred fifty dollars ($250) or more in value provided \nto . \nthe public official within 12 months prior to \nthe time when the decision is made. \n(Section 87103(c).) \n!/ All statutory references are to the Government \nCode unless otherwise noted. \n... \n\n\nDon White \nApr il 12, 1983 \nPage 2 \nIn the present case, the interest and repayment \nreceived on the note will not consitute income and the \nReclamation District will not become a source of income to \nthe board member because the Act's definition of \"income\" \nexcludes \"payments received under any .•• debt instrument \nissued by any government •.• agency.\" \n(Section \n82030(b) (4).) \nThus, the board member may purchase the note \nwithout subjecting himself to the Act's disqualification \nprovisions. \nPlease note that my advice is limited to the provisions \nof the Political Reform Act and does not include the \npossible application of other provisions, such as Section \n1090. \nIf I can be any further help to you, please feel \nfree to contact me at (916) 322-5901. \nVery truly yours, \n-'~ \nSfUuz£:::Jt~ \nJanis Shank McLean \nCounsel \nLegal Division \nJSM:plh \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1983-04-12",
+    "date_raw": "April 12,1983",
+    "requestor_name": "White",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Whether a member of the Board of Trustees of Reclamation District, No. 1001, may purchase a short term note from the District. If he purchases the note, the board member will receive interest on the loan and eventual repayment of it.",
+    "conclusion": "The interest and repayment received on the note will not constitute income and the Reclamation District will not become a source of income to the board member because the Act's definition of \"income\" excludes \"payments received under any ... debt instrument issued by any government ... agency.\" Thus, the board member may purchase the note without subjecting himself to the Act's disqualification provisions.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Can a board member of Reclamation District No. 1001 purchase a short-term note from the district that would provide interest income and repayment without violating conflict of interest provisions?",
+    "conclusion_synthetic": "The board member may purchase the short-term note because payments received under debt instruments issued by government agencies are excluded from the definition of \"income\" under the Political Reform Act, thus avoiding disqualification under Section 87100.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Standard advice letter format with clear question and conclusion sections. Advice number A-83-095 dated April 12, 1983. FPPC counsel Janis Shank McLean notes that advice is limited to Political Reform Act provisions and does not address Section 1090 or other statutes."
+  },
+  "citations": {
+    "government_code": [
+      "1090",
+      "82030(b)(4)",
+      "87100",
+      "87103(c)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:36:51.127053Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether a member of the Board of Trustees of Reclamation District, No. 1001, may purchase a short term note from the District. If he purchases the note, the board member will receive interest on the loan and eventual repayment of it.\n\nCONCLUSION: The interest and repayment received on the note will not constitute income and the Reclamation District will not become a source of income to the board member because the Act's definition of \"income\" excludes \"payments received under any ... debt instrument issued by any government ... agency.\" Thus, the board member may purchase the note without subjecting himself to the Act's disqualification provisions.",
+    "qa_source": "mixed",
+    "first_500_words": "P.O. BOX 807 • SACRAMENTO, 95804 ••• 1100 K STREET BUILDING, SACRAMENTO, 95814 (916) 322-5662 Don White Administration 322-5660 Executive/legal •• Enforcement 322-5901 322-M,n April 12,1983 Reclamation District, No. 1001 1959 Cornelius Avenue Rio Oso, CA 95764 Re: Advice No. A-83-095 Dear Mr. White: Statements of Economic I ntarest 322-6444 Thank you for your request for advice. Your question was whether a member of the Board of Trustees of Reclamation District, No. 1001, may purchase a short term note from the District. If he purchases the note, the board member will receive interest on the loan and eventual repayment of it. Government Code section 871001/ states that no official at any level of local government shall make or participate in the making of a governmental decision in which he knows or has reason to know he has a financial interest. An official has a \"financial interest\" in a decision within the meaning of Section 87100 if it is reasonably foreseeable that the decision will have a material financial effect on: (c) Any source of income . . • aggregating two hundred fifty dollars ($250) or more in value provided to . the public official within 12 months prior to the time when the decision is made. (Section 87103(c).) !/ All statutory references are to the Government Code unless otherwise noted. ... Don White Apr il 12, 1983 Page 2 In the present case, the interest and repayment received on the note will not consitute income and the Reclamation District will not become a source of income to the board member because the Act's definition of \"income\" excludes \"payments received under any .•• debt instrument issued by any government •.• agency.\" (Section 82030(b) (4).) Thus, the board member may purchase the note without subjecting himself to the Act's disqualification provisions. Please note that my advice is limited to the provisions of the Political Reform Act and does not include the possible application of other provisions, such as Section 1090. If I can be any further help to you, please feel free to contact me at (916) 322-5901. Very truly yours, -'~ SfUuz£:::Jt~ Janis Shank McLean Counsel Legal Division JSM:plh",
+    "summary": "FPPC advises that a board member of Reclamation District No. 1001 may purchase a short-term note from the district without violating conflict of interest rules because debt instrument payments from government agencies are excluded from income under the Political Reform Act. The advice is limited to the Political Reform Act and does not address other potential statutory provisions."
+  }
+}

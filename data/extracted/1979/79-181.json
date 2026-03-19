@@ -1,0 +1,71 @@
+{
+  "id": "79-181",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-181.PDF",
+  "pdf_sha256": "8841f1a34f88f77b6aaae070997c8093fc65588ae4534e96f6b82f42e5351f24",
+  "local_pdf_path": "raw_pdfs/1979/79-181.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1979 Advice Letter # 79-181",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:25:47",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=6"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T21:36:23.792506Z",
+    "page_count": 1,
+    "word_count": 126,
+    "char_count": 767,
+    "quality_score": 0.7800884920634921,
+    "olmocr_cost": 0.00249056,
+    "native_word_count": 125
+  },
+  "content": {
+    "full_text": "Disclosure of Retirement Plan\n\nEmployee has money withheld from his salary each month for investment by his company retirement plan. The retirement plan is a business entity and the investments held by the retirement plan are the investments of a business entity. Accordingly, an 87200 filer must disclose his investment in the retirement plan if his interest is $1,000 or more. Pursuant to 87302(b), a filer would be required to reveal his investment in the retirement plan only if the retirement plan were in his disclosure category, i.e., only if it is foreseeable that the filer will make decisions which materially affect his investment.\n\nThe investments of the retirement plan must be revealed only if the filer has a 10 percent interest in the retirement plan.",
+    "full_text_markdown": "Disclosure of Retirement Plan\n\nEmployee has money withheld from his salary each month for investment by his company retirement plan. The retirement plan is a business entity and the investments held by the retirement plan are the investments of a business entity. Accordingly, an 87200 filer must disclose his investment in the retirement plan if his interest is $1,000 or more. Pursuant to 87302(b), a filer would be required to reveal his investment in the retirement plan only if the retirement plan were in his disclosure category, i.e., only if it is foreseeable that the filer will make decisions which materially affect his investment.\n\nThe investments of the retirement plan must be revealed only if the filer has a 10 percent interest in the retirement plan."
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T21:36:23.792506Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "Disclosure of Retirement Plan Employee has money withheld from his salary each month for investment by his company retirement plan. The retirement plan is a business entity and the investments held by the retirement plan are the investments of a business entity. Accordingly, an 87200 filer must disclose his investment in the retirement plan if his interest is $1,000 or more. Pursuant to 87302(b), a filer would be required to reveal his investment in the retirement plan only if the retirement plan were in his disclosure category, i.e., only if it is foreseeable that the filer will make decisions which materially affect his investment. The investments of the retirement plan must be revealed only if the filer has a 10 percent interest in the retirement plan.",
+    "qa_source": "extracted",
+    "first_500_words": "Disclosure of Retirement Plan Employee has money withheld from his salary each month for investment by his company retirement plan. The retirement plan is a business entity and the investments held by the retirement plan are the investments of a business entity. Accordingly, an 87200 filer must disclose his investment in the retirement plan if his interest is $1,000 or more. Pursuant to 87302(b), a filer would be required to reveal his investment in the retirement plan only if the retirement plan were in his disclosure category, i.e., only if it is foreseeable that the filer will make decisions which materially affect his investment. The investments of the retirement plan must be revealed only if the filer has a 10 percent interest in the retirement plan.",
+    "summary": null
+  }
+}

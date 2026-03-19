@@ -1,0 +1,71 @@
+{
+  "id": "90702",
+  "year": 1990,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1990/90702.pdf",
+  "pdf_sha256": "0609843568ce1be1ab6985639545f2cff8b447d842d1e73d6c2617f429f18616",
+  "local_pdf_path": "raw_pdfs/1990/90702.pdf",
+  "source_metadata": {
+    "title_raw": "Bural, Dal Year: 1990 Advice Letter # 90702",
+    "tags": [
+      "1990",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:05:57",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1990&tagCount=1&page=2"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T23:44:46.274714Z",
+    "page_count": 1,
+    "word_count": 71,
+    "char_count": 443,
+    "quality_score": 0.7925815133861045,
+    "olmocr_cost": 0.0024596,
+    "native_word_count": 109
+  },
+  "content": {
+    "full_text": "November 8, 1990\n\nJohn Larson\nFair Political Practices Commission\nP.O. Box 807\nSacramento, CA 95804-0807\n\nDear Mr. Larson,\n\nOn the back of Form 635, pertaining to the Report of Lobbyist Employer, there is a statement that the report must be verified and signed by the filer.\n\nQuestion: What is the definition of \"filer\" and, if it includes \"a responsible officer\", what is the definition of \"responsible officer\".\n\nSincerely,\n\nDal Bural\n\nDB:gr",
+    "full_text_markdown": "November 8, 1990\n\nJohn Larson\nFair Political Practices Commission\nP.O. Box 807\nSacramento, CA 95804-0807\n\nDear Mr. Larson,\n\nOn the back of Form 635, pertaining to the Report of Lobbyist Employer, there is a statement that the report must be verified and signed by the filer.\n\nQuestion: What is the definition of \"filer\" and, if it includes \"a responsible officer\", what is the definition of \"responsible officer\".\n\nSincerely,\n\nDal Bural\n\nDB:gr"
+  },
+  "parsed": {
+    "date": "1990-11-08",
+    "date_raw": "November 8, 1990",
+    "requestor_name": "Larson",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "What is the definition of \"filer\" and, if it includes \"a responsible officer\", what is the definition of \"responsible officer\".",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.5499999999999999,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T23:44:46.274714Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: What is the definition of \"filer\" and, if it includes \"a responsible officer\", what is the definition of \"responsible officer\".",
+    "qa_source": "extracted",
+    "first_500_words": "November 8, 1990 John Larson Fair Political Practices Commission P.O. Box 807 Sacramento, CA 95804-0807 Dear Mr. Larson, On the back of Form 635, pertaining to the Report of Lobbyist Employer, there is a statement that the report must be verified and signed by the filer. Question: What is the definition of \"filer\" and, if it includes \"a responsible officer\", what is the definition of \"responsible officer\". Sincerely, Dal Bural DB:gr",
+    "summary": null
+  }
+}

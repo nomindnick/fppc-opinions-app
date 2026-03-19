@@ -1,0 +1,71 @@
+{
+  "id": "86145",
+  "year": 1986,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1986/fppc-advice/86145.PDF",
+  "pdf_sha256": "a9b6c829300b2159adb4b1527dbb1a22e7a33fdd55352c7d6eb7a25b67ff67b3",
+  "local_pdf_path": "raw_pdfs/1986/86145.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1986 Advice Letter # 86145",
+    "tags": [
+      "1986",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:38:29",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1986&tagCount=1&page=13"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T18:28:35.612855Z",
+    "page_count": 1,
+    "word_count": 196,
+    "char_count": 1057,
+    "quality_score": 0.8316045290647235,
+    "olmocr_cost": 0.00259892,
+    "native_word_count": 190
+  },
+  "content": {
+    "full_text": "TO: [ ] JEANNE   [ ] JAY   ( ) DAN\n[ ] LYNN   [ ] BARBARA   ( ) JOHN K\n[ ] ROGER   [ ] CARLA   ( ) MARY ANN\n[ ] HELEN   [ ] OTHER\n\nFROM: Colleen\nDATE: 3-25-86\n\n[x] TELEPHONE ADVICE - SEE BELOW\n[ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT\n(IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY)\n\nFILE LOCATION:\n\nINCLUDE IN ADVICE PACKAGE: YES [ ]   NO [ ]\n\nCALLER Susan Anderson (School Services)\nREPRESENTING School Services\nPHONE NUMBER: 446-7517\n\nQUESTION: If a lobbyist writes a book and the lobbying firm pays to have the book published and gives free copies to legislators and officials from the Dept. of Education, is the lobbyist or the lobbying firm making a \"gift\" to those officials? If it is a \"gift\" who should report the activity the lobbyist or the lobbying firm?\n\nANSWER: A book is not a \"gift\" and is not limited to the $10 gift limitation, but it is a payment that benefits and the payment should be reported as an activity expense on the lobbying firm's statement, since the lobbying firm paid the expenses for having the book published.",
+    "full_text_markdown": "TO: [ ] JEANNE   [ ] JAY   ( ) DAN\n[ ] LYNN   [ ] BARBARA   ( ) JOHN K\n[ ] ROGER   [ ] CARLA   ( ) MARY ANN\n[ ] HELEN   [ ] OTHER\n\nFROM: Colleen\nDATE: 3-25-86\n\n[x] TELEPHONE ADVICE - SEE BELOW\n[ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT\n(IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY)\n\nFILE LOCATION:\n\nINCLUDE IN ADVICE PACKAGE: YES [ ]   NO [ ]\n\nCALLER Susan Anderson (School Services)\nREPRESENTING School Services\nPHONE NUMBER: 446-7517\n\nQUESTION: If a lobbyist writes a book and the lobbying firm pays to have the book published and gives free copies to legislators and officials from the Dept. of Education, is the lobbyist or the lobbying firm making a \"gift\" to those officials? If it is a \"gift\" who should report the activity the lobbyist or the lobbying firm?\n\nANSWER: A book is not a \"gift\" and is not limited to the $10 gift limitation, but it is a payment that benefits and the payment should be reported as an activity expense on the lobbying firm's statement, since the lobbying firm paid the expenses for having the book published."
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "If a lobbyist writes a book and the lobbying firm pays to have the book published and gives free copies to legislators and officials from the Dept. of Education, is the lobbyist or the lobbying firm making a \"gift\" to those officials? If it is a \"gift\" who should report the activity the lobbyist or the lobbying firm?\n\nANSWER: A book is not a \"gift\" and is not limited to the $10 gift limitation, but it is a payment that benefits and the payment should be reported as an activity expense on the lobbying firm's statement, since the lobbying firm paid the expenses for having the book published.",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.5499999999999999,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-20T18:28:35.612855Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: If a lobbyist writes a book and the lobbying firm pays to have the book published and gives free copies to legislators and officials from the Dept. of Education, is the lobbyist or the lobbying firm making a \"gift\" to those officials? If it is a \"gift\" who should report the activity the lobbyist or the lobbying firm?\n\nANSWER: A book is not a \"gift\" and is not limited to the $10 gift limitation, but it is a payment that benefits and the payment should be reported as an activity expense on the lobbying firm's statement, since the lobbying firm paid the expenses for having the book published.",
+    "qa_source": "extracted",
+    "first_500_words": "TO: [ ] JEANNE [ ] JAY ( ) DAN [ ] LYNN [ ] BARBARA ( ) JOHN K [ ] ROGER [ ] CARLA ( ) MARY ANN [ ] HELEN [ ] OTHER FROM: Colleen DATE: 3-25-86 [x] TELEPHONE ADVICE - SEE BELOW [ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT (IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY) FILE LOCATION: INCLUDE IN ADVICE PACKAGE: YES [ ] NO [ ] CALLER Susan Anderson (School Services) REPRESENTING School Services PHONE NUMBER: 446-7517 QUESTION: If a lobbyist writes a book and the lobbying firm pays to have the book published and gives free copies to legislators and officials from the Dept. of Education, is the lobbyist or the lobbying firm making a \"gift\" to those officials? If it is a \"gift\" who should report the activity the lobbyist or the lobbying firm? ANSWER: A book is not a \"gift\" and is not limited to the $10 gift limitation, but it is a payment that benefits and the payment should be reported as an activity expense on the lobbying firm's statement, since the lobbying firm paid the expenses for having the book published.",
+    "summary": null
+  }
+}

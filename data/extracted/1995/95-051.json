@@ -1,0 +1,75 @@
+{
+  "id": "95-051",
+  "year": 1995,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/1995/95-051.pdf",
+  "pdf_sha256": "5763ecf4c09eb2675e2b8c70e9178d97d0b2cf535b7c14ae397e3b8562eae0ea",
+  "local_pdf_path": "raw_pdfs/1995/95-051.pdf",
+  "source_metadata": {
+    "title_raw": "Bilbray, Brian Year: 1995 Advice Letter # 95-051",
+    "tags": [
+      "1995",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:36:52",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1995&tagCount=1&page=2"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:56.682402Z",
+    "page_count": 2,
+    "word_count": 359,
+    "char_count": 2379,
+    "quality_score": 0.8,
+    "olmocr_cost": null,
+    "native_word_count": 359
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\nMarch 8,\n1995\nMichael P.\nKenny\nGeneral Counsel\nAir Resources Board\n2020\nL Street\nPost Office Box 2815\nSacramento, California\n95812\nRe:\nYour Request for Advice\nOur File No.\nA—95—05l\nDear Mr.\nKenny:\n-\nWe write in response to your request for advice regarding\napplication of the “revolving door” provisions of the Political\nReform Act (the “Act”)\n1 to the Honorable Brian Bilbray.\nOUESTION\nMay Congressman Bilbray appear before the Air Resources Board\n(the\n“ARB”)\nin his capacity as a United States Congressman to\nrepresent his congressional district concerning either legislative\nor administrative actions the Board considers?\nCONCLUS ION\nYes.\nCongressman Bilbray is not paid to represent any person\nbefore the ARB.\nTherefore,\nappearances before the ARB on behalf\nof his constituents would not violate the provisions of Government\nCode Section 87406.\nFACTS\n-\nMr. Bilbray was elected to the United States House of\nRepresentatives in November 1994,\nbut continued to serve as a\nmember of the ARB until January 1995 when he took office in\nCongress.\n1\nGovernment Code Sections 81000—91015.\nAll statutory references\nare to the Government Code unless otherwise indicated.\nCommission\nregulations appear at\n2 California Code of Regulations,\nSections\n18000—18954.\n428 J Street, Suite 800 •\nP.O. Box 807 •\nSacramento, CA\n95804-0807\n•\n(916) 322-5660\n\n\nFile No.\nA—95—051\nPage\n2\nANALYSIS\nSection 87406(d) prohibits a former government official, who\nheld a position which entails the making or participation in the\nmaking of decisions which may have a foreseeable and material\nfinancial effect on any financial interest,\nfrom representing any\nthird party for compensation before any agency for which that\nofficial worked or represented in the twelve months preceding his\nor her separation from state service.\nCongressman Bilbray is not compensated to represent third\nparties before the ARB.\nHis compensation is for representing his\nconstituents before the United States Congress.\nAccordingly,\nCongressman Bilbray’s appearances before the ARE on behalf of\nconstituents would not be prohibited under Section 87406 unless\nCongressman Bilbray was specifically compensated for this purpose.\nShould you have any further questions please contact the\nundersigned at\n(916)\n322—5901\nSincerely,\nSteven G.\nChurchwell\nGeneral\nBy:\nMuallem\nCounsel,\nLegal Division\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1995-03-08",
+    "date_raw": "March 8,\n1995",
+    "requestor_name": "Kenny",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "May Congressman Bilbray appear before the Air Resources Board\n(the\n“ARB”)\nin his capacity as a United States Congressman to\nrepresent his congressional district concerning either legislative\nor administrative actions the Board considers?",
+    "conclusion": "Yes.\nCongressman Bilbray is not paid to represent any person\nbefore the ARB.\nTherefore,\nappearances before the ARB on behalf\nof his constituents would not violate the provisions of Government\nCode Section 87406.",
+    "facts": "-\nMr. Bilbray was elected to the United States House of\nRepresentatives in November 1994,\nbut continued to serve as a\nmember of the ARB until January 1995 when he took office in\nCongress.\nCommission\nregulations appear at\n2 California Code of Regulations,\nSections\n18000—18954.\n\n•\n(916) 322-5660\n\n\nFile No.\nA—95—051",
+    "analysis": "Section 87406(d) prohibits a former government official, who\nheld a position which entails the making or participation in the\nmaking of decisions which may have a foreseeable and material\nfinancial effect on any financial interest,\nfrom representing any\nthird party for compensation before any agency for which that\nofficial worked or represented in the twelve months preceding his\nor her separation from state service.\nCongressman Bilbray is not compensated to represent third\nparties before the ARB.\nHis compensation is for representing his\nconstituents before the United States Congress.\nAccordingly,\nCongressman Bilbray’s appearances before the ARE on behalf of\nconstituents would not be prohibited under Section 87406 unless\nCongressman Bilbray was specifically compensated for this purpose.",
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.9,
+    "has_standard_format": true,
+    "parsing_notes": "Mixed formats: modern, ocr"
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "87406",
+      "87406(d)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.6666666666666666,
+    "classified_at": "2026-02-06T18:34:56.682402Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: May Congressman Bilbray appear before the Air Resources Board\n(the\n“ARB”)\nin his capacity as a United States Congressman to\nrepresent his congressional district concerning either legislative\nor administrative actions the Board considers?\n\nCONCLUSION: Yes.\nCongressman Bilbray is not paid to represent any person\nbefore the ARB.\nTherefore,\nappearances before the ARB on behalf\nof his constituents would not violate the provisions of Government\nCode Section 87406.",
+    "qa_source": "extracted",
+    "first_500_words": "California Fair Political Practices Commission March 8, 1995 Michael P. Kenny General Counsel Air Resources Board 2020 L Street Post Office Box 2815 Sacramento, California 95812 Re: Your Request for Advice Our File No. A—95—05l Dear Mr. Kenny: - We write in response to your request for advice regarding application of the “revolving door” provisions of the Political Reform Act (the “Act”) 1 to the Honorable Brian Bilbray. OUESTION May Congressman Bilbray appear before the Air Resources Board (the “ARB”) in his capacity as a United States Congressman to represent his congressional district concerning either legislative or administrative actions the Board considers? CONCLUS ION Yes. Congressman Bilbray is not paid to represent any person before the ARB. Therefore, appearances before the ARB on behalf of his constituents would not violate the provisions of Government Code Section 87406. FACTS - Mr. Bilbray was elected to the United States House of Representatives in November 1994, but continued to serve as a member of the ARB until January 1995 when he took office in Congress. 1 Government Code Sections 81000—91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations, Sections 18000—18954. 428 J Street, Suite 800 • P.O. Box 807 • Sacramento, CA 95804-0807 • (916) 322-5660 File No. A—95—051 Page 2 ANALYSIS Section 87406(d) prohibits a former government official, who held a position which entails the making or participation in the making of decisions which may have a foreseeable and material financial effect on any financial interest, from representing any third party for compensation before any agency for which that official worked or represented in the twelve months preceding his or her separation from state service. Congressman Bilbray is not compensated to represent third parties before the ARB. His compensation is for representing his constituents before the United States Congress. Accordingly, Congressman Bilbray’s appearances before the ARE on behalf of constituents would not be prohibited under Section 87406 unless Congressman Bilbray was specifically compensated for this purpose. Should you have any further questions please contact the undersigned at (916) 322—5901 Sincerely, Steven G. Churchwell General By: Muallem Counsel, Legal Division",
+    "summary": null
+  }
+}

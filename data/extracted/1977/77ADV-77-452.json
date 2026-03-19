@@ -1,0 +1,71 @@
+{
+  "id": "77ADV-77-452",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-452.PDF",
+  "pdf_sha256": "b82c46f7fc469011142099b8e3c4bfb78e8ad82d18b5095df98734fbb3a1f448",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-452.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-452",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:21:53",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=40"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-07T17:11:27.983722Z",
+    "page_count": 1,
+    "word_count": 140,
+    "char_count": 892,
+    "quality_score": 0.5975,
+    "olmocr_cost": 0.00253528,
+    "native_word_count": 4
+  },
+  "content": {
+    "full_text": "March 24, 1977\n\nMr. John F. Powell  \nCounsel, Bay Area Air  \nPollution Control District  \n939 Ellis Street  \nSan Francisco, California 94109\n\nDear Mr. Powell:\n\nThank you for your letter of March 21, 1977. The District Board of Directors should, of course, feel completely free to take any action it wishes with respect to the inclusion of Advisory Council members within the Conflict of Interest Code of the District. It is the policy of the Fair Political Practices Commission to scrutinize the inclusion or exclusion of any such Advisory Council members within Conflict of Interest Codes to ensure that the actions of such Advisory Councils satisfy the requirements of 2 Cal. Adm. Code §18700(a)(1).\n\nI look forward to working with you in resolving this matter, whatever the District initially decides.\n\nSincerely,\n\nDelbert L. Spurlock, Jr.,  \nChief, Conflicts of Interest Division\n\nDLS:glb",
+    "full_text_markdown": "March 24, 1977\n\nMr. John F. Powell  \nCounsel, Bay Area Air  \nPollution Control District  \n939 Ellis Street  \nSan Francisco, California 94109\n\nDear Mr. Powell:\n\nThank you for your letter of March 21, 1977. The District Board of Directors should, of course, feel completely free to take any action it wishes with respect to the inclusion of Advisory Council members within the Conflict of Interest Code of the District. It is the policy of the Fair Political Practices Commission to scrutinize the inclusion or exclusion of any such Advisory Council members within Conflict of Interest Codes to ensure that the actions of such Advisory Councils satisfy the requirements of 2 Cal. Adm. Code §18700(a)(1).\n\nI look forward to working with you in resolving this matter, whatever the District initially decides.\n\nSincerely,\n\nDelbert L. Spurlock, Jr.,  \nChief, Conflicts of Interest Division\n\nDLS:glb"
+  },
+  "parsed": {
+    "date": "1977-03-24",
+    "date_raw": "March 24, 1977",
+    "requestor_name": "Powell",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether the District Board of Directors should include Advisory Council members within the Conflict of Interest Code of the District.",
+    "conclusion_synthetic": "The District Board has discretion to decide whether to include Advisory Council members in its Conflict of Interest Code, but the FPPC will review any such decision to ensure compliance with California Administrative Code Section 18700(a)(1).",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Informal advisory letter without formal QUESTION/CONCLUSION sections; lacks detailed legal analysis typical of detailed advice letters; appears to be responsive to an inquiry about conflict of interest code provisions for advisory council members."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T17:11:27.983722Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether the District Board of Directors should include Advisory Council members within the Conflict of Interest Code of the District.\n\nCONCLUSION: The District Board has discretion to decide whether to include Advisory Council members in its Conflict of Interest Code, but the FPPC will review any such decision to ensure compliance with California Administrative Code Section 18700(a)(1).",
+    "qa_source": "synthetic",
+    "first_500_words": "March 24, 1977 Mr. John F. Powell Counsel, Bay Area Air Pollution Control District 939 Ellis Street San Francisco, California 94109 Dear Mr. Powell: Thank you for your letter of March 21, 1977. The District Board of Directors should, of course, feel completely free to take any action it wishes with respect to the inclusion of Advisory Council members within the Conflict of Interest Code of the District. It is the policy of the Fair Political Practices Commission to scrutinize the inclusion or exclusion of any such Advisory Council members within Conflict of Interest Codes to ensure that the actions of such Advisory Councils satisfy the requirements of 2 Cal. Adm. Code §18700(a)(1). I look forward to working with you in resolving this matter, whatever the District initially decides. Sincerely, Delbert L. Spurlock, Jr., Chief, Conflicts of Interest Division DLS:glb",
+    "summary": "FPPC response advising that a District Board may freely decide on the inclusion of Advisory Council members in its Conflict of Interest Code, with FPPC oversight to ensure compliance with regulatory requirements."
+  }
+}

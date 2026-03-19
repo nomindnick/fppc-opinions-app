@@ -1,0 +1,74 @@
+{
+  "id": "79-069",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-069.PDF",
+  "pdf_sha256": "ffcb5b5421d42906644970df88f7b80a6f1c0b401f149ad44ddffb5c754125a1",
+  "local_pdf_path": "raw_pdfs/1979/79-069.PDF",
+  "source_metadata": {
+    "title_raw": "PESSNER, KIRK Year: 1979 Advice Letter # 79-069",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:25:47",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=6"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-27T17:00:04.563759Z",
+    "page_count": 2,
+    "word_count": 412,
+    "char_count": 2804,
+    "quality_score": 0.9007438725294734,
+    "olmocr_cost": 0.00511958,
+    "native_word_count": 0,
+    "haiku_cost": 0.005272000000000001
+  },
+  "content": {
+    "full_text": "State of California\n\nFair Political Practices Commission\nP.O. BOX 807 • SACRAMENTO, 95804 • • • 1100 K STREET BUILDING, SACRAMENTO, 95814\nTechnical Assistance • • • Administration • • • Executive/Legal • • • Enforcement • • • Conflict of Interest\n(916) 322-5662          322-5660          322-5901          322-6441          322-6444\n\nMay 4, 1979\n\nKirk Pessner\nDobbs and Nielsen\nSuite 2500, The Alcoa Building\nOne Maritime Plaza\nSan Francisco, CA 94111\n\nDear Kirk:\n\n     This will confirm today's telephone conversation when\nwe discussed the reporting requirements concerning ticket\nsales for campaign-sponsored concerts or other events handled\nby Ticketron.\n\n     I advised you that Ticketron or another commercial firm\nhandling ticket sales is not required to obtain the name,\naddress, occupation and employer, or place of business if\nself-employed, of each person who buys a ticket assuming the\nprice of one ticket to be less than $100. However, Ticketron\nwill have to obtain that identifying information if a person\nbuys tickets totaling $100 or more at one time.\n\n     I did find an advice memorandum containing the reporting\nstandards for concert funds. Of course, the $50 threshold\nreferred to in the memorandum is now $100. I am enclosing a\ncopy of that memorandum for your information.\n\n     If you have any questions, please feel free to call.\n\n                                        Sincerely,\n\n                                        Barbara\n                                        Barbara Campbell\n                                        Counsel\n                                        Legal Division\n\nBC:plh\nEnclosure\n\n84210(g)\n\nConcert Funds - Reporting Standards\n\nAt the opinion request meeting of June 24, 1977,\n\nthe staff considered the question of how the proceeds of a\n\nconcert should be reported pursuant to Section 84210(g). The\n\nentertainer donated his time as volunteer personal services\n\nand the tickets which cost $3 each were sold through Ticketron.\n\nThe filer should request Ticketron to keep records\n\nof any person which they know purchased tickets valued at\n\n$50 or more. However, if Ticketron refuses, concert tickets\n\nstill may be sold through that agency. If through the use\n\nof reasonable diligence, the filer becomes aware of any per-\n\nson who has purchased tickets of $50 or more in value, he\n\nmust report that person as an itemized contributor on his\n\ncampaign statement.\n\nAll of the rest of the proceeds must be reported\n\nas contributions of less than $50 in value. If the filer\n\nwishes, he may attach a supplement to his campaign statement\n\nstating the time and place of the concert, the name of the\n\nperformer and the amount of money raised. Filing in accordance\n\nwith this procedure would further the purposes of disclosure\n\nand simplify the auditor's task.\n\n125",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1979-05-04",
+    "date_raw": "May 4, 1979",
+    "requestor_name": "PESSNER",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "What are the reporting requirements for ticket sales from campaign-sponsored concerts or events handled by commercial ticket vendors like Ticketron, specifically regarding when identifying information must be collected?",
+    "conclusion_synthetic": "Commercial ticket vendors like Ticketron are not required to collect identifying information for ticket purchases under $100, but must collect such information for purchases of $100 or more in a single transaction. The filer should request the vendor keep records of purchases of $100 or more (updated from the previous $50 threshold), and must report those as itemized contributions while reporting smaller amounts as unitemized contributions.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: No formal QUESTION and CONCLUSION sections present; letter is in conversational format confirming telephone discussion. Includes attached memorandum on concert fund reporting standards from June 1977, which established the original $50 threshold now updated to $100. Counsel is Barbara Campbell."
+  },
+  "citations": {
+    "government_code": [
+      "84210(g)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T16:46:39.441655Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: What are the reporting requirements for ticket sales from campaign-sponsored concerts or events handled by commercial ticket vendors like Ticketron, specifically regarding when identifying information must be collected?\n\nCONCLUSION: Commercial ticket vendors like Ticketron are not required to collect identifying information for ticket purchases under $100, but must collect such information for purchases of $100 or more in a single transaction. The filer should request the vendor keep records of purchases of $100 or more (updated from the previous $50 threshold), and must report those as itemized contributions while reporting smaller amounts as unitemized contributions.",
+    "qa_source": "synthetic",
+    "first_500_words": "May 4, 1979 Kirk Pessner Dobbs and Nielsen Suite 2500, The Alcoa Building One Maritime Plaza San Francisco, CA 94111 Dear Kirk: This will confirm today's telephone conversation when we discussed the reporting requirements concerning ticket sales for campaign-sponsored concerts or other events handled by Ticketron. I advised you that Ticketron or another commercial firm handling ticket sales is not required to obtain the name, address, occupation and employer, or place of business if self-employed, of each person who buys a ticket assuming the price of one ticket to be less than $100. However, Ticketron will have to obtain that identifying information if a person buys tickets totaling $100 or more at one time. I did find an advice memorandum containing the reporting standards for concert funds. Of course, the $50 threshold referred to in the memorandum is now $100. I am enclosing a copy of that memorandum for your information. If you have any questions, please feel free to call. Sincerely, Barbara Campbell Counsel Legal Division BC:plh Enclosure Concert Funds - Reporting Standards At the opinion request meeting of June 24, 1977, the staff considered the question of how the proceeds of a concert should be reported pursuant to Section 84210(g). The entertainer donated his time as volunteer personal services and the tickets which cost $3 each were sold through Ticketron. The filer should request Ticketron to keep records of any person which they know purchased tickets valued at $50 or more. However, if Ticketron refuses, concert tickets still may be sold through that agency. If through the use of reasonable diligence, the filer becomes aware of any person who has purchased tickets of $50 or more in value, he must report that person as an itemized contributor on his campaign statement. All of the rest of the proceeds must be reported as contributions of less than $50 in value. If the filer wishes, he may attach a supplement to his campaign statement stating the time and place of the concert, the name of the performer and the amount of money raised. Filing in accordance with this procedure would further the purposes of disclosure and simplify the auditor's task.",
+    "summary": "FPPC counsel advises on reporting requirements for campaign-sponsored event ticket sales through commercial vendors like Ticketron, clarifying that identifying information collection thresholds are $100 (updated from $50) and providing standards for itemized versus unitemized contribution reporting."
+  }
+}

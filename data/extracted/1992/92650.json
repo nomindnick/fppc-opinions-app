@@ -1,0 +1,73 @@
+{
+  "id": "92650",
+  "year": 1992,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1992/92650.pdf",
+  "pdf_sha256": "ad16e64d8fbe0d973c600d45103089050bf789637c1afe30dfa7ac27f452ef47",
+  "local_pdf_path": "raw_pdfs/1992/92650.pdf",
+  "source_metadata": {
+    "title_raw": "Henricks, B. Year: 1992 Advice Letter # 92650",
+    "tags": [
+      "Advice Letter",
+      "1992"
+    ],
+    "scraped_at": "2026-01-31 16:30:51",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1992&tagCount=1&page=107"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T20:09:47.409154Z",
+    "page_count": 1,
+    "word_count": 148,
+    "char_count": 983,
+    "quality_score": 0.85735990990991,
+    "olmocr_cost": 0.00252238,
+    "native_word_count": 155
+  },
+  "content": {
+    "full_text": "ANALYSIS\n\nThe conflict of interest disclosure provisions of the Act require public officials, including judges, to file periodic statements of economic interests (Form 721) disclosing certain personal assets and income, including gifts of $50 or more received from a single source during the reporting period. The Fair Political Practices Commission is the filing officer for statements filed by judges.\n\nStatements of economic interests are available for public inspection and reproduction. (Gov. Code Section 81008.) Copies of judges' statements of economic interests may be obtained through the Commission at a charge of 10¢ per page. However, the Commission may also charge a retrieval fee not to exceed five dollars per request for copies of statements which are five or more years old.\n\nI hope this information has been helpful. If you have any questions, please contact the Technical Assistance Division at (916) 322-5662.\n\nSincerely,\n\nAlice Hughes\nPolitical Reform Consultant",
+    "full_text_markdown": "ANALYSIS\n\nThe conflict of interest disclosure provisions of the Act require public officials, including judges, to file periodic statements of economic interests (Form 721) disclosing certain personal assets and income, including gifts of $50 or more received from a single source during the reporting period. The Fair Political Practices Commission is the filing officer for statements filed by judges.\n\nStatements of economic interests are available for public inspection and reproduction. (Gov. Code Section 81008.) Copies of judges' statements of economic interests may be obtained through the Commission at a charge of 10¢ per page. However, the Commission may also charge a retrieval fee not to exceed five dollars per request for copies of statements which are five or more years old.\n\nI hope this information has been helpful. If you have any questions, please contact the Technical Assistance Division at (916) 322-5662.\n\nSincerely,\n\nAlice Hughes\nPolitical Reform Consultant"
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": "Henricks",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": "The conflict of interest disclosure provisions of the Act require public officials, including judges, to file periodic statements of economic interests (Form 721) disclosing certain personal assets and income, including gifts of $50 or more received from a single source during the reporting period. The Fair Political Practices Commission is the filing officer for statements filed by judges.\n\nStatements of economic interests are available for public inspection and reproduction. (Gov. Code Section 81008.) Copies of judges' statements of economic interests may be obtained through the Commission at a charge of 10¢ per page. However, the Commission may also charge a retrieval fee not to exceed five dollars per request for copies of statements which are five or more years old.\n\nI hope this information has been helpful. If you have any questions, please contact the Technical Assistance Division at (916) 322-5662.",
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.35000000000000003,
+    "has_standard_format": false,
+    "parsing_notes": "Format: modern"
+  },
+  "citations": {
+    "government_code": [
+      "81008"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-19T20:09:47.409154Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "ANALYSIS The conflict of interest disclosure provisions of the Act require public officials, including judges, to file periodic statements of economic interests (Form 721) disclosing certain personal assets and income, including gifts of $50 or more received from a single source during the reporting period. The Fair Political Practices Commission is the filing officer for statements filed by judges. Statements of economic interests are available for public inspection and reproduction. (Gov. Code Section 81008.) Copies of judges' statements of economic interests may be obtained through the Commission at a charge of 10¢ per page. However, the Commission may also charge a retrieval fee not to exceed five dollars per request for copies of statements which are five or more years old. I hope this information has been helpful. If you have any questions, please contact the Technical Assistance Division at (916) 322-5662. Sincerely, Alice Hughes Political Reform Consultant",
+    "qa_source": "extracted",
+    "first_500_words": "ANALYSIS The conflict of interest disclosure provisions of the Act require public officials, including judges, to file periodic statements of economic interests (Form 721) disclosing certain personal assets and income, including gifts of $50 or more received from a single source during the reporting period. The Fair Political Practices Commission is the filing officer for statements filed by judges. Statements of economic interests are available for public inspection and reproduction. (Gov. Code Section 81008.) Copies of judges' statements of economic interests may be obtained through the Commission at a charge of 10¢ per page. However, the Commission may also charge a retrieval fee not to exceed five dollars per request for copies of statements which are five or more years old. I hope this information has been helpful. If you have any questions, please contact the Technical Assistance Division at (916) 322-5662. Sincerely, Alice Hughes Political Reform Consultant",
+    "summary": null
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "03-158",
+  "year": 2003,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2003/03-158.pdf",
+  "pdf_sha256": "22d0e94ad57da4ecf8f6b356f4ed59b71f86a9b8baf0bdff44a1977e432968a0",
+  "local_pdf_path": "raw_pdfs/2003/03-158.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2003 Advice Letter # 03-158",
+    "tags": [
+      "2003",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:57:00",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2003&tagCount=1&page=15"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T23:59:40.949648Z",
+    "page_count": 1,
+    "word_count": 161,
+    "char_count": 1072,
+    "quality_score": 0.869421613604386,
+    "olmocr_cost": 0.0026410599999999998,
+    "native_word_count": 151
+  },
+  "content": {
+    "full_text": "FAIR POLITICAL PRACTICES COMMISSION\n428 J Street • Suite 620 • Sacramento, CA 95814-2329\n(916) 322-5660 • Fax (916) 322-0886\n\nJuly 29, 2003\n\nA.G. Velasquez\n1321 W. Devers Street\nWest Covina, CA 91790\n\nRe: Your Request for Advice\nOur File No. W-03-158\n\nDear Mr. Velasquez:\n\nThis letter confirms the receipt of your July 22, 2003, request for advice regarding an unnamed city council member. Under the provisions of California Code of Regulations 18329(b)(8)(B), unless you identify the council member and are writing as his authorized representative, the Fair Political Practices Commission cannot address your questions or provide analysis.\n\nI enclose a copy of regulation 18329 for your review, as well as our pamphlet, \"Campaign Contributions May Cause Conflicts for Appointees and Commissioners,\" § 84308 and regulation 18438.1, for clarification on this issue. You may contact our toll-free help line with general questions you may have at 1-866-275-3772.\n\nSincerely,\n\nLuisa Menchaca\nGeneral Counsel\n\nBy: John W. Wallace\nAssistant General Counsel\n\nEnclosure\nJWW/jg",
+    "full_text_markdown": "FAIR POLITICAL PRACTICES COMMISSION\n428 J Street • Suite 620 • Sacramento, CA 95814-2329\n(916) 322-5660 • Fax (916) 322-0886\n\nJuly 29, 2003\n\nA.G. Velasquez\n1321 W. Devers Street\nWest Covina, CA 91790\n\nRe: Your Request for Advice\nOur File No. W-03-158\n\nDear Mr. Velasquez:\n\nThis letter confirms the receipt of your July 22, 2003, request for advice regarding an unnamed city council member. Under the provisions of California Code of Regulations 18329(b)(8)(B), unless you identify the council member and are writing as his authorized representative, the Fair Political Practices Commission cannot address your questions or provide analysis.\n\nI enclose a copy of regulation 18329 for your review, as well as our pamphlet, \"Campaign Contributions May Cause Conflicts for Appointees and Commissioners,\" § 84308 and regulation 18438.1, for clarification on this issue. You may contact our toll-free help line with general questions you may have at 1-866-275-3772.\n\nSincerely,\n\nLuisa Menchaca\nGeneral Counsel\n\nBy: John W. Wallace\nAssistant General Counsel\n\nEnclosure\nJWW/jg"
+  },
+  "parsed": {
+    "date": "2003-07-29",
+    "date_raw": "July 29, 2003",
+    "requestor_name": "Velasquez",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [
+      "84308"
+    ],
+    "regulations": [
+      "18329",
+      "18438.1"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-19T23:59:40.949648Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "**FAIR POLITICAL PRACTICES COMMISSION** 428 J Street • Suite 620 • Sacramento, CA 95814-2329 (916) 322-5660 • Fax (916) 322-0886 July 29, 2003 A.G. Velasquez 1321 W. Devers Street West Covina, CA 91790 Re: Your Request for Advice Our File No. W-03-158 Dear Mr. Velasquez: This letter confirms the receipt of your July 22, 2003, request for advice regarding an unnamed city council member. Under the provisions of California Code of Regulations 18329(b)(8)(B), unless you identify the council member and are writing as his authorized representative, the Fair Political Practices Commission cannot address your questions or provide analysis. I enclose a copy of regulation 18329 for your review, as well as our pamphlet, \"Campaign Contributions May Cause Conflicts for Appointees and Commissioners,\" § 84308 and regulation 18438.1, for clarification on this issue. You may contact our toll-free help line with general questions you may have at 1-866-275-3772. Sincerely, Luisa Menchaca General Counsel By: John W. Wallace Assistant General Counsel Enclosure JWW/jg",
+    "qa_source": "extracted",
+    "first_500_words": "**FAIR POLITICAL PRACTICES COMMISSION** 428 J Street • Suite 620 • Sacramento, CA 95814-2329 (916) 322-5660 • Fax (916) 322-0886 July 29, 2003 A.G. Velasquez 1321 W. Devers Street West Covina, CA 91790 Re: Your Request for Advice Our File No. W-03-158 Dear Mr. Velasquez: This letter confirms the receipt of your July 22, 2003, request for advice regarding an unnamed city council member. Under the provisions of California Code of Regulations 18329(b)(8)(B), unless you identify the council member and are writing as his authorized representative, the Fair Political Practices Commission cannot address your questions or provide analysis. I enclose a copy of regulation 18329 for your review, as well as our pamphlet, \"Campaign Contributions May Cause Conflicts for Appointees and Commissioners,\" § 84308 and regulation 18438.1, for clarification on this issue. You may contact our toll-free help line with general questions you may have at 1-866-275-3772. Sincerely, Luisa Menchaca General Counsel By: John W. Wallace Assistant General Counsel Enclosure JWW/jg",
+    "summary": null
+  }
+}

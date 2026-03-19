@@ -1,0 +1,73 @@
+{
+  "id": "89-717",
+  "year": 1989,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1989/fppc-advice/89-717.PDF",
+  "pdf_sha256": "75760ba8d5ece79d7a83ac3c142b8742dab47c347af2054ba086079b517ebd00",
+  "local_pdf_path": "raw_pdfs/1989/89-717.PDF",
+  "source_metadata": {
+    "title_raw": "Martin, David Year: 1989 Advice Letter # 89-717",
+    "tags": [
+      "Advice Letter",
+      "1989"
+    ],
+    "scraped_at": "2026-01-31 16:03:41",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1989&tagCount=1&page=37"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:55.852459Z",
+    "page_count": 2,
+    "word_count": 414,
+    "char_count": 2760,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 414
+  },
+  "content": {
+    "full_text": "California \nFair Political \nPractices Commission \nDavid Martin, Director \nGovernment Affairs \nJanuary 5, 1990 \nPlumbing Manufacturers Institute \n1655 N. Fort Meyer Drive, suite 700 \nArlington, VA \n22209 \nDear Mr. Martin: \nRe: \nYour Request for Informal Assistance \nOur File No. 1-89-717 \nThis is to confirm that your letter dated December 15, 1989 \naccurately reflects the advice provided to you by phone regarding \napplication of the campaign contributions provisions of the \nPolitical Reform Act (\"the Act,,).l \nI advised you that \ncorporations are permitted to give corporate funds to candidates \nfor state office in California, within the contribution limits of \nthe Act. \nI am enclosing a copy of the Act with sections \nrestricting campaign contributions marked. \nIf you have any further questions regarding this matter, \nplease do not hesitate to contact me at (916) 322-5901. \nSincerely, \nKathryn E. Donovan \nGeneral Counsel \nBy: \nRothman \nCounsel, Legal Division \nKED:JSR:plh \nEnclosures \n1 \nGovernment Code sections 81000-91015. \nAll statutory references \nare to the Government Code unless otherwise indicated. \nCommission \nregulations appear at 2 California Code of Regulations Section \n18000, et seq. \nAll references to regulations are to Title 2, \nDivision 6 of the California Code of Regulations. \n428 J Street, Suite 800 • \nP.O. Box 807 • Sacramento CA 95804-0807 • (916) 322-5660 \n\n\nPlumbing Manufacturers Institute \n1655 N. Fort Meyer Drive, suite 700 \nArlington, VA \n22209 \nMr. Jonathan Rothman \nLegal Division \nCalifornia Fair Political \nPractices Commission \n428 J Street, Suite 800 \nSacramento, California \n95814 \nDear Mr. Rothman: \nDecember 15, 1989 \nOur trade association, the Plumbing Manufacturers Institute (PMI) , \nhas been contacted by one of its corporate members to determine the \nlegality of giving company funds to candidates for state office in \nCalifornia. \nDuring our phone conversation on December 14, 1989, you advised me \nthat it was legally permissible for corporate money to be donated \nto \nstate \ncandidates, \nif the \ncontributions \nmet \nthe \ntiming \nrequirements and amount limits set forth in California law. \nThe purpose of this letter is to request that the California Fair \nPolitical Practices Commission provide PMI with a letter that \nverifies that one of our member companies can legally give \ncorporate funds to candidates for state office in California. \nPlease address the letter to me, and have it signed by you, or the \nappropriate legal official in your office. \nYou may contact me at \n(703) 522-2339, if there are any questions on this letter. \nThank you for your assistance on this issue of interest to our \nmembership_ \nSincerely, \nDavid F. Martin \nDirector, Government Affairs \ncc: \nRichard W. Church \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1990-01-05",
+    "date_raw": "January 5, 1990",
+    "requestor_name": "Martin",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "informal_advice"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "I advised you that corporations are permitted to give corporate funds to candidates for state office in California, within the contribution limits of the Act.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Are corporations permitted to give corporate funds to candidates for state office in California, and if so, what are the applicable contribution limits and timing requirements?",
+    "conclusion_synthetic": "Corporations are permitted to give corporate funds to candidates for state office in California, provided they comply with the contribution limits and timing requirements set forth in the Political Reform Act.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This document contains both the incoming request letter (December 15, 1989) from David Martin of PMI and the FPPC's response letter (January 5, 1990) from Kathryn E. Donovan, General Counsel. The FPPC response confirms informal telephone advice already provided. No formal Q/C sections with headers, but the questions and conclusions are clearly identifiable from the letters."
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:35:55.852459Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Are corporations permitted to give corporate funds to candidates for state office in California, and if so, what are the applicable contribution limits and timing requirements?\n\nCONCLUSION: I advised you that corporations are permitted to give corporate funds to candidates for state office in California, within the contribution limits of the Act.",
+    "qa_source": "mixed",
+    "first_500_words": "California Fair Political Practices Commission David Martin, Director Government Affairs January 5, 1990 Plumbing Manufacturers Institute 1655 N. Fort Meyer Drive, suite 700 Arlington, VA 22209 Dear Mr. Martin: Re: Your Request for Informal Assistance Our File No. 1-89-717 This is to confirm that your letter dated December 15, 1989 accurately reflects the advice provided to you by phone regarding application of the campaign contributions provisions of the Political Reform Act (\"the Act,,).l I advised you that corporations are permitted to give corporate funds to candidates for state office in California, within the contribution limits of the Act. I am enclosing a copy of the Act with sections restricting campaign contributions marked. If you have any further questions regarding this matter, please do not hesitate to contact me at (916) 322-5901. Sincerely, Kathryn E. Donovan General Counsel By: Rothman Counsel, Legal Division KED:JSR:plh Enclosures 1 Government Code sections 81000-91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations Section 18000, et seq. All references to regulations are to Title 2, Division 6 of the California Code of Regulations. 428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804-0807 • (916) 322-5660 Plumbing Manufacturers Institute 1655 N. Fort Meyer Drive, suite 700 Arlington, VA 22209 Mr. Jonathan Rothman Legal Division California Fair Political Practices Commission 428 J Street, Suite 800 Sacramento, California 95814 Dear Mr. Rothman: December 15, 1989 Our trade association, the Plumbing Manufacturers Institute (PMI) , has been contacted by one of its corporate members to determine the legality of giving company funds to candidates for state office in California. During our phone conversation on December 14, 1989, you advised me that it was legally permissible for corporate money to be donated to state candidates, if the contributions met the timing requirements and amount limits set forth in California law. The purpose of this letter is to request that the California Fair Political Practices Commission provide PMI with a letter that verifies that one of our member companies can legally give corporate funds to candidates for state office in California. Please address the letter to me, and have it signed by you, or the appropriate legal official in your office. You may contact me at (703) 522-2339, if there are any questions on this letter. Thank you for your assistance on this issue of interest to our membership_ Sincerely, David F. Martin Director, Government Affairs cc: Richard W. Church",
+    "summary": "FPPC confirmed that corporations may contribute corporate funds to California state office candidates within the contribution limits of the Political Reform Act. The advice was originally provided by phone on December 14, 1989, and this letter confirms the guidance given."
+  }
+}

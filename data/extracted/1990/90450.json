@@ -1,0 +1,71 @@
+{
+  "id": "90450",
+  "year": 1990,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1990/90450.pdf",
+  "pdf_sha256": "b1c206ae2b69d12b81e991f63b74558c173d2c903944e51fc074e8fdd6b865e8",
+  "local_pdf_path": "raw_pdfs/1990/90450.pdf",
+  "source_metadata": {
+    "title_raw": "WeekesFred, Rothman Year: 1990 Advice Letter # 90450",
+    "tags": [
+      "1990",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:07:36",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1990&tagCount=1&page=24"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T17:36:00.956792Z",
+    "page_count": 1,
+    "word_count": 77,
+    "char_count": 470,
+    "quality_score": 0.7177173453664979,
+    "olmocr_cost": 0.0024638999999999998,
+    "native_word_count": 110
+  },
+  "content": {
+    "full_text": "CITY OF BERKELEY\n\nFRED WEEKES\nCOUNCILMEMBER\nDISTRICT 8\n7-2-90\n\nMr. Jonathon Rothman\nFCCP\nSacramento, California\n\nDear Mr. Rothman,\n\nBecause of our conversation concerning the transfer of funds from one campaign to another, I am requesting that you put your findings in writing and send us a copy. We have about $2000 left over from the 1988 Council campaign which we would like to put into this year's Mayoral campaign.\n\nThank you for your help.\n\nSincerely,\n\nFred Weekes",
+    "full_text_markdown": "CITY OF BERKELEY\n\nFRED WEEKES\nCOUNCILMEMBER\nDISTRICT 8\n7-2-90\n\nMr. Jonathon Rothman\nFCCP\nSacramento, California\n\nDear Mr. Rothman,\n\nBecause of our conversation concerning the transfer of funds from one campaign to another, I am requesting that you put your findings in writing and send us a copy. We have about $2000 left over from the 1988 Council campaign which we would like to put into this year's Mayoral campaign.\n\nThank you for your help.\n\nSincerely,\n\nFred Weekes"
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": "Rothman",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T17:36:00.956792Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "CITY OF BERKELEY FRED WEEKES COUNCILMEMBER DISTRICT 8 7-2-90 Mr. Jonathon Rothman FCCP Sacramento, California Dear Mr. Rothman, Because of our conversation concerning the transfer of funds from one campaign to another, I am requesting that you put your findings in writing and send us a copy. We have about $2000 left over from the 1988 Council campaign which we would like to put into this year's Mayoral campaign. Thank you for your help. Sincerely, Fred Weekes",
+    "qa_source": "extracted",
+    "first_500_words": "CITY OF BERKELEY FRED WEEKES COUNCILMEMBER DISTRICT 8 7-2-90 Mr. Jonathon Rothman FCCP Sacramento, California Dear Mr. Rothman, Because of our conversation concerning the transfer of funds from one campaign to another, I am requesting that you put your findings in writing and send us a copy. We have about $2000 left over from the 1988 Council campaign which we would like to put into this year's Mayoral campaign. Thank you for your help. Sincerely, Fred Weekes",
+    "summary": null
+  }
+}

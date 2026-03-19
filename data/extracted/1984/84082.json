@@ -1,0 +1,74 @@
+{
+  "id": "84082",
+  "year": 1984,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1984/fppc-advice/84082.PDF",
+  "pdf_sha256": "0c4edf53fa79aafd0dd731bed10c29ef7c5daa2fc50fed9bec817cfad4316ccf",
+  "local_pdf_path": "raw_pdfs/1984/84082.PDF",
+  "source_metadata": {
+    "title_raw": "PESSNER, KIRK Year: 1984 Advice Letter # 84082",
+    "tags": [
+      "1984",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:33:30",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1984&tagCount=1"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:44.178578Z",
+    "page_count": 2,
+    "word_count": 322,
+    "char_count": 2045,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 322
+  },
+  "content": {
+    "full_text": "LAW OFFICES OF \nNIELSEN, HODGSON, PARRINELLO & MUELLER \nSACRAMENTO \n1225 EIGI-ITH STREET, SUITE S50 \nS..c..SRAMENTO, CAliFORNIA 95814 \n\"TELEPHONE (916) 446~6752 \nA PARTNERSHIP iNCLUDING PROFESSIONAL \nTHE hARTFORO BUILDiNG \n650 CALIFORNIA STREET, SUiTE 2650 \nSAN FRANCISCO, CALIFORNIA 94108 \nTELEPHONE (415) 989-680C \nAprilS, 1984 \nJanis Shank McLean, Esq. \nLegal Division \nFair Political Practices Commission \nPost Office Box 807 \nSacramento, CA 95804 \nRe: \nValuation of Non-Campaign Fundraising \nTickets Provided to Public Officials \nDear Ms. .£IlcLean: \nPursuant to our phone conversation of April 4, \n1984, I wish to restate the advice you gave me. \nI described a situation in which Corporation A \nhas purchased a table of tickets to a non-campaign \nfundraising event. \nExamples would be YMCA Man of the Year \nDinner, California Journal/Coro Foundation California Roast. \nPublic Official B has been invited as the guest of Corporation \nA to that event. \nThe question is whether or not Corporation \nA has made a gift to Public Official B. \nYou advised me that it is the opinion of the FPPC \nStaff that the value of the ticket to a non-campaign fund-\nraiser is not the \ndonation price, but the actual cost of \nthe meal or beverages consumed. \nTherefore, if Corporation A \ninvites Public Official B to sit at its table at an event, \na gift, as defined in Government Code Section 82028, has been \nmade by Corporation A and accepted by Public Official B of \nthe actual value received and therefore Public Official B \nhas reporting responsibilities under Government Code Section \n87207(a) (1) by reason of his attendance at the event, if that \ngift and others provided by Corporation A amount to $50 or \nmore in a calendar year. \nER \n\n\nJanis Shank McLean, Esq. \nAprilS, 1984 \nPage two \nplease confirm our conversation by signing the \nattached letter copy and returning it to me. \nIf I have \nmisstated any part of our conversation, please advise me \nat your earliest convenience. \nKAP:ddl \nAttachment \nConfirmed by: \nJANIS SHANK MCLEAN, ESQ. \nUnit \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1984-04-04",
+    "date_raw": "April 4, \n1984",
+    "requestor_name": "PESSNER",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "The question is whether or not Corporation A has made a gift to Public Official B.",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether providing a non-campaign fundraising event ticket to a public official constitutes a gift requiring disclosure under Government Code sections 82028 and 87207.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.75,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is a confirmation letter from an attorney documenting prior telephone advice from FPPC staff. The letter restates the FPPC Staff's opinion but is technically an incoming request/correspondence rather than an official FPPC advice letter response. The FPPC staff member's signature confirmation line appears at the bottom but no actual response is provided in this document. Document discusses meal/beverage valuation for gift analysis under Gov. Code §82028 and §87207(a)(1)."
+  },
+  "citations": {
+    "government_code": [
+      "82028",
+      "87207(a)(1)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:36:44.178578Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The question is whether or not Corporation A has made a gift to Public Official B.",
+    "qa_source": "mixed",
+    "first_500_words": "LAW OFFICES OF NIELSEN, HODGSON, PARRINELLO & MUELLER SACRAMENTO 1225 EIGI-ITH STREET, SUITE S50 S..c..SRAMENTO, CAliFORNIA 95814 \"TELEPHONE (916) 446~6752 A PARTNERSHIP iNCLUDING PROFESSIONAL THE hARTFORO BUILDiNG 650 CALIFORNIA STREET, SUiTE 2650 SAN FRANCISCO, CALIFORNIA 94108 TELEPHONE (415) 989-680C AprilS, 1984 Janis Shank McLean, Esq. Legal Division Fair Political Practices Commission Post Office Box 807 Sacramento, CA 95804 Re: Valuation of Non-Campaign Fundraising Tickets Provided to Public Officials Dear Ms. .£IlcLean: Pursuant to our phone conversation of April 4, 1984, I wish to restate the advice you gave me. I described a situation in which Corporation A has purchased a table of tickets to a non-campaign fundraising event. Examples would be YMCA Man of the Year Dinner, California Journal/Coro Foundation California Roast. Public Official B has been invited as the guest of Corporation A to that event. The question is whether or not Corporation A has made a gift to Public Official B. You advised me that it is the opinion of the FPPC Staff that the value of the ticket to a non-campaign fund- raiser is not the donation price, but the actual cost of the meal or beverages consumed. Therefore, if Corporation A invites Public Official B to sit at its table at an event, a gift, as defined in Government Code Section 82028, has been made by Corporation A and accepted by Public Official B of the actual value received and therefore Public Official B has reporting responsibilities under Government Code Section 87207(a) (1) by reason of his attendance at the event, if that gift and others provided by Corporation A amount to $50 or more in a calendar year. ER Janis Shank McLean, Esq. AprilS, 1984 Page two please confirm our conversation by signing the attached letter copy and returning it to me. If I have misstated any part of our conversation, please advise me at your earliest convenience. KAP:ddl Attachment Confirmed by: JANIS SHANK MCLEAN, ESQ. Unit",
+    "summary": "A law firm writes to FPPC staff member Janis Shank McLean to confirm and document telephone advice given on April 4, 1984, regarding whether tickets to non-campaign fundraising events provided by a corporation to a public official constitute gifts subject to reporting requirements."
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "90731",
+  "year": 1990,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1990/90731.pdf",
+  "pdf_sha256": "4b8d8098865a277fb3c2834baefa8e376a6844223b50a04b75c459bbfd9c749c",
+  "local_pdf_path": "raw_pdfs/1990/90731.pdf",
+  "source_metadata": {
+    "title_raw": "Bogert, L. Year: 1990 Advice Letter # 90731",
+    "tags": [
+      "1990",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:06:33",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1990&tagCount=1&page=10"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T00:23:26.768956Z",
+    "page_count": 1,
+    "word_count": 92,
+    "char_count": 618,
+    "quality_score": 0.8639763285024155,
+    "olmocr_cost": 0.00247766,
+    "native_word_count": 116
+  },
+  "content": {
+    "full_text": "November 29, 1990\n\nMr. Scott Hallabrin  \nFair Political Practices Commission  \n428 J Street, Suite 800  \nSacramento, California 95814\n\nDear Scott:\n\nThis is to confirm your telephone advice to me on this date that a ballot measure committee may be established under the Act to defend Proposition 73. You also stated that Assemblyman Johnson may transfer funds from his officeholder account to the ballot measure committee in order that the committee may reimburse Senator Kopp for Proposition 73 litigation expenses.\n\nThank you for your assistance.\n\nSincerely,\n\n[signature]\n\nL. MICHAEL BOGERT  \nSenior Assistant\n\nLMB:ll",
+    "full_text_markdown": "November 29, 1990\n\nMr. Scott Hallabrin  \nFair Political Practices Commission  \n428 J Street, Suite 800  \nSacramento, California 95814\n\nDear Scott:\n\nThis is to confirm your telephone advice to me on this date that a ballot measure committee may be established under the Act to defend Proposition 73. You also stated that Assemblyman Johnson may transfer funds from his officeholder account to the ballot measure committee in order that the committee may reimburse Senator Kopp for Proposition 73 litigation expenses.\n\nThank you for your assistance.\n\nSincerely,\n\n[signature]\n\nL. MICHAEL BOGERT  \nSenior Assistant\n\nLMB:ll"
+  },
+  "parsed": {
+    "date": "1990-11-29",
+    "date_raw": "November 29, 1990",
+    "requestor_name": "Bogert",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-20T00:23:26.768956Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "November 29, 1990 Mr. Scott Hallabrin Fair Political Practices Commission 428 J Street, Suite 800 Sacramento, California 95814 Dear Scott: This is to confirm your telephone advice to me on this date that a ballot measure committee may be established under the Act to defend Proposition 73. You also stated that Assemblyman Johnson may transfer funds from his officeholder account to the ballot measure committee in order that the committee may reimburse Senator Kopp for Proposition 73 litigation expenses. Thank you for your assistance. Sincerely, [signature] L. MICHAEL BOGERT Senior Assistant LMB:ll",
+    "qa_source": "extracted",
+    "first_500_words": "November 29, 1990 Mr. Scott Hallabrin Fair Political Practices Commission 428 J Street, Suite 800 Sacramento, California 95814 Dear Scott: This is to confirm your telephone advice to me on this date that a ballot measure committee may be established under the Act to defend Proposition 73. You also stated that Assemblyman Johnson may transfer funds from his officeholder account to the ballot measure committee in order that the committee may reimburse Senator Kopp for Proposition 73 litigation expenses. Thank you for your assistance. Sincerely, [signature] L. MICHAEL BOGERT Senior Assistant LMB:ll",
+    "summary": null
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "UNK-91-09992",
+  "year": 1991,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1991/91-245.pdf",
+  "pdf_sha256": "b791ee608cd3e0fc5e044c06136cfa940177d6dc3d47374ac15bdb3bb68643dd",
+  "local_pdf_path": "raw_pdfs/1991/91-245.pdf",
+  "source_metadata": {
+    "title_raw": "1991-91-245",
+    "tags": [
+      "1991",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:16:11",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1991&tagCount=1&page=7"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T22:32:20.176121Z",
+    "page_count": 1,
+    "word_count": 220,
+    "char_count": 1417,
+    "quality_score": 0.9126152887171373,
+    "olmocr_cost": 0.00261526,
+    "native_word_count": 223
+  },
+  "content": {
+    "full_text": "TELEPHONE ADVICE\n\nDATE: 4/16/91\nFILE # M-91-245\nREQUESTER: City of Los Angeles (213) 485-4792\nCONSULTANT: Cassady, L\n\nQUESTION\n\nMay a candidate file a separate Form 501 (Candidate of Intention) and a Form 502 (Bank Account) for a city primary and city run-off election?\n\nIf yes, must a candidate establish separate committees for the primary and the run-off election?\n\nCONCLUSION\n\nA candidate may designate a primary and a run-off election as separate elections.\n\nFACT:\n\nThe City of Los Angeles' local campaign ordinance requires candidates to establish separate bank accounts for the primary and the run-off election.\n\nADVICE:\n\nThe Act does not require that an \"election\" encompass both a primary and a run-off vote. Therefore, candidates in the jurisdiction of the city of Los Angeles may designate the primary as a separate and distinct election from the run-off election. In such situations a candidate can indicate on a Form 501 (Candidate Intention) and a Form 502 (Campaign Bank Account) the primary election date as the election date. Similarly, candidates in the run-off election may file new Forms 501 and 502 and designate the date of the election as the run-off election date.\n\nUnder the circumstances described above, a candidate must establish separate committees for the primary and the run-off election. (Regulation 18521.)\n\nREGULATIONS: 18521\nACT: 84101, 85200, 85201\nOPINIONS:\nADVICE LETTERS:\nOTHER:",
+    "full_text_markdown": "TELEPHONE ADVICE\n\nDATE: 4/16/91\nFILE # M-91-245\nREQUESTER: City of Los Angeles (213) 485-4792\nCONSULTANT: Cassady, L\n\nQUESTION\n\nMay a candidate file a separate Form 501 (Candidate of Intention) and a Form 502 (Bank Account) for a city primary and city run-off election?\n\nIf yes, must a candidate establish separate committees for the primary and the run-off election?\n\nCONCLUSION\n\nA candidate may designate a primary and a run-off election as separate elections.\n\nFACT:\n\nThe City of Los Angeles' local campaign ordinance requires candidates to establish separate bank accounts for the primary and the run-off election.\n\nADVICE:\n\nThe Act does not require that an \"election\" encompass both a primary and a run-off vote. Therefore, candidates in the jurisdiction of the city of Los Angeles may designate the primary as a separate and distinct election from the run-off election. In such situations a candidate can indicate on a Form 501 (Candidate Intention) and a Form 502 (Campaign Bank Account) the primary election date as the election date. Similarly, candidates in the run-off election may file new Forms 501 and 502 and designate the date of the election as the run-off election date.\n\nUnder the circumstances described above, a candidate must establish separate committees for the primary and the run-off election. (Regulation 18521.)\n\nREGULATIONS: 18521\nACT: 84101, 85200, 85201\nOPINIONS:\nADVICE LETTERS:\nOTHER:"
+  },
+  "parsed": {
+    "date": "1991-04-16",
+    "date_raw": "4/16/91",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "May a candidate file a separate Form 501 (Candidate of Intention) and a Form 502 (Bank Account) for a city primary and city run-off election?\n\nIf yes, must a candidate establish separate committees for the primary and the run-off election?",
+    "conclusion": "A candidate may designate a primary and a run-off election as separate elections.\n\nFACT:\n\nThe City of Los Angeles' local campaign ordinance requires candidates to establish separate bank accounts for the primary and the run-off election.\n\nADVICE:\n\nThe Act does not require that an \"election\" encompass both a primary and a run-off vote. Therefore, candidates in the jurisdiction of the city of Los Angeles may designate the primary as a separate and distinct election from the run-off election. In such situations a candidate can indicate on a Form 501 (Candidate Intention) and a Form 502 (Campaign Bank Account) the primary election date as the election date. Similarly, candidates in the run-off election may file new Forms 501 and 502 and designate the date of the election as the run-off election date.\n\nUnder the circumstances described above, a candidate must establish separate committees for the primary and the run-off election. (Regulation 18521.)\n\nREGULATIONS: 18521\nACT: 84101, 85200, 85201\nOPINIONS:\nADVICE LETTERS:\nOTHER:",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.85,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [
+      "18521"
+    ],
+    "prior_opinions": [
+      "M-91-245"
+    ],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T22:32:20.176121Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: May a candidate file a separate Form 501 (Candidate of Intention) and a Form 502 (Bank Account) for a city primary and city run-off election?\n\nIf yes, must a candidate establish separate committees for the primary and the run-off election?\n\nCONCLUSION: A candidate may designate a primary and a run-off election as separate elections.\n\nFACT:\n\nThe City of Los Angeles' local campaign ordinance requires candidates to establish separate bank accounts for the primary and the run-off election.\n\nADVICE:\n\nThe Act does not require that an \"election\" encompass both a primary and a run-off vote. Therefore, candidates in the jurisdiction of the city of Los Angeles may designate the primary as a separate and distinct election from the run-off election. In such situations a candidate can indicate on a Form 501 (Candidate Intention) and a Form 502 (Campaign Bank Account) the primary election date as the election date. Similarly, candidates in the run-off election may file new Forms 501 and 502 and designate the date of the election as the run-off election date.\n\nUnder the circumstances described above, a candidate must establish separate committees for the primary and the run-off election. (Regulation 18521.)\n\nREGULATIONS: 18521\nACT: 84101, 85200, 85201\nOPINIONS:\nADVICE LETTERS:\nOTHER:",
+    "qa_source": "extracted",
+    "first_500_words": "TELEPHONE ADVICE DATE: 4/16/91 FILE # M-91-245 REQUESTER: City of Los Angeles (213) 485-4792 CONSULTANT: Cassady, L QUESTION May a candidate file a separate Form 501 (Candidate of Intention) and a Form 502 (Bank Account) for a city primary and city run-off election? If yes, must a candidate establish separate committees for the primary and the run-off election? CONCLUSION A candidate may designate a primary and a run-off election as separate elections. FACT: The City of Los Angeles' local campaign ordinance requires candidates to establish separate bank accounts for the primary and the run-off election. ADVICE: The Act does not require that an \"election\" encompass both a primary and a run-off vote. Therefore, candidates in the jurisdiction of the city of Los Angeles may designate the primary as a separate and distinct election from the run-off election. In such situations a candidate can indicate on a Form 501 (Candidate Intention) and a Form 502 (Campaign Bank Account) the primary election date as the election date. Similarly, candidates in the run-off election may file new Forms 501 and 502 and designate the date of the election as the run-off election date. Under the circumstances described above, a candidate must establish separate committees for the primary and the run-off election. (Regulation 18521.) REGULATIONS: 18521 ACT: 84101, 85200, 85201 OPINIONS: ADVICE LETTERS: OTHER:",
+    "summary": null
+  }
+}

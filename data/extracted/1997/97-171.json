@@ -1,0 +1,80 @@
+{
+  "id": "97-171",
+  "year": 1997,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/1997/97-171.pdf",
+  "pdf_sha256": "74febb2d4f616fdbc671f03cc42d4f8c27a98d79e971f553b089ff8e282dbf2b",
+  "local_pdf_path": "raw_pdfs/1997/97-171.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 1997 Advice Letter # 97-171",
+    "tags": [
+      "1997",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:41:50",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1997&tagCount=1&page=4"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:46.145066Z",
+    "page_count": 2,
+    "word_count": 395,
+    "char_count": 2699,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 395
+  },
+  "content": {
+    "full_text": "RAY! MEHTA \nCHAIRMAN \nFAIR POLITICAL PRACTICES COMMISSION \nPatricia E. Castillo \nTreasurer \nElaine White Alquist for State Assembly \nPost Office Box 1192 \nSanta Clara, California 95052-1192 \nRe: Your Request for Advice \nOur File No. A-97-171 \nDear Ms. Castillo: \nApril 30, 1997 \nThis letter is a response to your request for advice regarding the provisions of the \nPolitical Reform Act (the \"Act,,).l \nQUESTIONS \n1. Does the $10,000 limitation for officeholder accounts include expenses for a \nfundraising event? \n2. May funds for the officeholder account be raised from persons outside a public \nofficial's district. \nCONCLUSIONS \n1. Yes. The $10,000 limitation includes costs for fundraising. \n2. Yes. The Act does not limit public officials from raising money outside their district. \nANALYSIS \nSection 85313(a) provides that officeholder expense funds may be used for expenses \nrelated to assisting, serving, or communicating with constituents, or with carrying out the official \nduties of the elected officer. Officeholder expense funds may not be used for campaign \n1 Government Code sections 81000 - 91014. Commission regulations appear at title 2, sections 18109 -\n18995, of the California Code of Regulations. \n428 J STREET, SUITE 800, SACRAMENTO, CALIFORNIA 95814 (916) 322-5660 \n\n\nFile No. A-97-171 \nPage 2 \nexpenses. We interpret the pennissible uses of funds under Section 85313(a) to include \nconducting fundraising for the officeholder account. Section 85313 states that the total aggregate \ncontributions to an officeholder expense fund may not exceed $10,000 in a calendar year. There \ncurrently is no provision in either the Act or the Commission regulations that pennit \"netting \nout\" fundraising expenses for officeholder accounts. Therefore, for example, under Section \n85313, an officeholder may not raise and deposit in his or her officeholder expense fund a total \nof $12,000, then pay the $2,000 event cost and net out this amount for a total of$10,000 \nremaining in the officeholder account. (Ackerman Advice Letter, No. A-97-065.) \nThe Act does not prohibit a public official from raising campaign funds or officeholder \nfunds from any person2 outside the public official's district. \nIf you have any other questions regarding this matter, please contact me at (916) 322-\n5660. \nSincerely, \nSteven G. Churchwell \nGeneral Counsel \nbe \n~ ~ \nBy: Marte Castafios \nLegal Counsel, Legal Division \nSGC:MC:ak \n2 \"'Person' means an individual, proprietorship, flrm, partnership, joint venture, syndicate, business trust, \ncompany, corporation, limited liability company, association, committee, and any other organization or group of \npersonS acting in concert.\" (Section 82047.) \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1997-04-30",
+    "date_raw": "April 30, 1997",
+    "requestor_name": "Castillo",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "1. Does the $10,000 limitation for officeholder accounts include expenses for a \nfundraising event? \n2. May funds for the officeholder account be raised from persons outside a public \nofficial's district.",
+    "conclusion": "1. Yes. The $10,000 limitation includes costs for fundraising. \n2. Yes. The Act does not limit public officials from raising money outside their district.",
+    "facts": null,
+    "analysis": "Section 85313(a) provides that officeholder expense funds may be used for expenses \nrelated to assisting, serving, or communicating with constituents, or with carrying out the official \nduties of the elected officer. Officeholder expense funds may not be used for campaign \n (916) 322-5660  \nexpenses. We interpret the pennissible uses of funds under Section 85313(a) to include \nconducting fundraising for the officeholder account. Section 85313 states that the total aggregate \ncontributions to an officeholder expense fund may not exceed $10,000 in a calendar year. There \ncurrently is no provision in either the Act or the Commission regulations that pennit \"netting \nout\" fundraising expenses for officeholder accounts. Therefore, for example, under Section \n85313, an officeholder may not raise and deposit in his or her officeholder expense fund a total \nof $12,000, then pay the $2,000 event cost and net out this amount for a total of$10,000 \nremaining in the officeholder account. (Ackerman Advice Letter, No. A-97-065.) \nThe Act does not prohibit a public official from raising campaign funds or officeholder \nfunds from any person2 outside the public official's district.",
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.85,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern"
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "82047",
+      "85313",
+      "85313(a)"
+    ],
+    "regulations": [
+      "18109"
+    ],
+    "prior_opinions": [
+      "A-97-065"
+    ],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:34:46.145066Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: 1. Does the $10,000 limitation for officeholder accounts include expenses for a \nfundraising event? \n2. May funds for the officeholder account be raised from persons outside a public \nofficial's district.\n\nCONCLUSION: 1. Yes. The $10,000 limitation includes costs for fundraising. \n2. Yes. The Act does not limit public officials from raising money outside their district.",
+    "qa_source": "extracted",
+    "first_500_words": "RAY! MEHTA CHAIRMAN FAIR POLITICAL PRACTICES COMMISSION Patricia E. Castillo Treasurer Elaine White Alquist for State Assembly Post Office Box 1192 Santa Clara, California 95052-1192 Re: Your Request for Advice Our File No. A-97-171 Dear Ms. Castillo: April 30, 1997 This letter is a response to your request for advice regarding the provisions of the Political Reform Act (the \"Act,,).l QUESTIONS 1. Does the $10,000 limitation for officeholder accounts include expenses for a fundraising event? 2. May funds for the officeholder account be raised from persons outside a public official's district. CONCLUSIONS 1. Yes. The $10,000 limitation includes costs for fundraising. 2. Yes. The Act does not limit public officials from raising money outside their district. ANALYSIS Section 85313(a) provides that officeholder expense funds may be used for expenses related to assisting, serving, or communicating with constituents, or with carrying out the official duties of the elected officer. Officeholder expense funds may not be used for campaign 1 Government Code sections 81000 - 91014. Commission regulations appear at title 2, sections 18109 - 18995, of the California Code of Regulations. 428 J STREET, SUITE 800, SACRAMENTO, CALIFORNIA 95814 (916) 322-5660 File No. A-97-171 Page 2 expenses. We interpret the pennissible uses of funds under Section 85313(a) to include conducting fundraising for the officeholder account. Section 85313 states that the total aggregate contributions to an officeholder expense fund may not exceed $10,000 in a calendar year. There currently is no provision in either the Act or the Commission regulations that pennit \"netting out\" fundraising expenses for officeholder accounts. Therefore, for example, under Section 85313, an officeholder may not raise and deposit in his or her officeholder expense fund a total of $12,000, then pay the $2,000 event cost and net out this amount for a total of$10,000 remaining in the officeholder account. (Ackerman Advice Letter, No. A-97-065.) The Act does not prohibit a public official from raising campaign funds or officeholder funds from any person2 outside the public official's district. If you have any other questions regarding this matter, please contact me at (916) 322- 5660. Sincerely, Steven G. Churchwell General Counsel be ~ ~ By: Marte Castafios Legal Counsel, Legal Division SGC:MC:ak 2 \"'Person' means an individual, proprietorship, flrm, partnership, joint venture, syndicate, business trust, company, corporation, limited liability company, association, committee, and any other organization or group of personS acting in concert.\" (Section 82047.)",
+    "summary": null
+  }
+}

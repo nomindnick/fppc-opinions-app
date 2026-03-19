@@ -1,0 +1,73 @@
+{
+  "id": "78ADV-78-046",
+  "year": 1978,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1978/78ADV-78-046.PDF",
+  "pdf_sha256": "1de2277d0f28179ec4f5dc5c19917d2c2a0b1aadd5091bb8b856b3071dc3d03a",
+  "local_pdf_path": "raw_pdfs/1978/78ADV-78-046.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1978ADV Advice Letter # 78ADV-78-046",
+    "tags": [
+      "Advice Letter",
+      "1978"
+    ],
+    "scraped_at": "2026-01-31 15:24:26",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=22"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-07T16:58:46.866617Z",
+    "page_count": 1,
+    "word_count": 274,
+    "char_count": 1700,
+    "quality_score": 0.7175,
+    "olmocr_cost": 0.00266428,
+    "native_word_count": 44
+  },
+  "content": {
+    "full_text": "October 16, 1978\n\nMrs. Passmore  \nARCADIA TAX REFORM COMMITTEE  \n1109 Columbia Road  \nArcadia, California 91006\n\nDear Mrs. Passmore:\n\nPursuant to your request, this letter is to confirm my advice to you on September 26, 1978.\n\nYou stated that a group of community residents have organized and are calling themselves the Arcadia Tax Reform Committee, and that you are a member of this committee. You said that the committee is going to circulate petitions which they would present to the city council which asks for the repeal of three local ordinances. You also said that the committee was raising money to defray the cost of printing the petitions, circulating the petitions and presenting them to the city council. You then asked whether or not the money raised, if more than $500, would qualify the Arcadia Tax Reform Committee as a recipient committee under the Political Reform Act, and, therefore, be required to file campaign statements?\n\nGovernment Code Section 82015 of the Political Reform Act defines a \"contribution\" as a \"payment... unless it is clear from the surrounding circumstances that it is not made for political purposes.\" By regulation the Commission defines the term \"political purposes\" in part as payments for the purpose of influencing or attempting to influence the action of voters for or against the qualification or passage of any measure. 2 Cal. Adm. Code Section 18215.\n\nSince the Arcadia Tax Reform Committee raised funds to defray the cost of printing and circulating the petitions only and not to make expenditures to influence the action of voters, the committee does not qualify as a recipient committee with reporting obligations under the Political Reform Act.",
+    "full_text_markdown": "October 16, 1978\n\nMrs. Passmore  \nARCADIA TAX REFORM COMMITTEE  \n1109 Columbia Road  \nArcadia, California 91006\n\nDear Mrs. Passmore:\n\nPursuant to your request, this letter is to confirm my advice to you on September 26, 1978.\n\nYou stated that a group of community residents have organized and are calling themselves the Arcadia Tax Reform Committee, and that you are a member of this committee. You said that the committee is going to circulate petitions which they would present to the city council which asks for the repeal of three local ordinances. You also said that the committee was raising money to defray the cost of printing the petitions, circulating the petitions and presenting them to the city council. You then asked whether or not the money raised, if more than $500, would qualify the Arcadia Tax Reform Committee as a recipient committee under the Political Reform Act, and, therefore, be required to file campaign statements?\n\nGovernment Code Section 82015 of the Political Reform Act defines a \"contribution\" as a \"payment... unless it is clear from the surrounding circumstances that it is not made for political purposes.\" By regulation the Commission defines the term \"political purposes\" in part as payments for the purpose of influencing or attempting to influence the action of voters for or against the qualification or passage of any measure. 2 Cal. Adm. Code Section 18215.\n\nSince the Arcadia Tax Reform Committee raised funds to defray the cost of printing and circulating the petitions only and not to make expenditures to influence the action of voters, the committee does not qualify as a recipient committee with reporting obligations under the Political Reform Act."
+  },
+  "parsed": {
+    "date": "1978-10-16",
+    "date_raw": "October 16, 1978",
+    "requestor_name": "Passmore",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "whether or not the money raised, if more than $500, would qualify the Arcadia Tax Reform Committee as a recipient committee under the Political Reform Act, and, therefore, be required to file campaign statements?",
+    "conclusion": "Since the Arcadia Tax Reform Committee raised funds to defray the cost of printing and circulating the petitions only and not to make expenditures to influence the action of voters, the committee does not qualify as a recipient committee with reporting obligations under the Political Reform Act.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Does a community organization that raises funds solely to print and circulate petitions requesting repeal of local ordinances qualify as a recipient committee under the Political Reform Act if contributions exceed $500?",
+    "conclusion_synthetic": "The Arcadia Tax Reform Committee does not qualify as a recipient committee under the Political Reform Act because the funds are raised solely for petition printing and circulation, not for expenditures to influence voter action.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Standard advice letter format with clear Q/C structure. Document confirms prior oral advice from September 26, 1978. References Government Code Section 82015 and Cal. Adm. Code Section 18215."
+  },
+  "citations": {
+    "government_code": [
+      "82015"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T16:58:46.866617Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: whether or not the money raised, if more than $500, would qualify the Arcadia Tax Reform Committee as a recipient committee under the Political Reform Act, and, therefore, be required to file campaign statements?\n\nCONCLUSION: Since the Arcadia Tax Reform Committee raised funds to defray the cost of printing and circulating the petitions only and not to make expenditures to influence the action of voters, the committee does not qualify as a recipient committee with reporting obligations under the Political Reform Act.",
+    "qa_source": "mixed",
+    "first_500_words": "October 16, 1978 Mrs. Passmore ARCADIA TAX REFORM COMMITTEE 1109 Columbia Road Arcadia, California 91006 Dear Mrs. Passmore: Pursuant to your request, this letter is to confirm my advice to you on September 26, 1978. You stated that a group of community residents have organized and are calling themselves the Arcadia Tax Reform Committee, and that you are a member of this committee. You said that the committee is going to circulate petitions which they would present to the city council which asks for the repeal of three local ordinances. You also said that the committee was raising money to defray the cost of printing the petitions, circulating the petitions and presenting them to the city council. You then asked whether or not the money raised, if more than $500, would qualify the Arcadia Tax Reform Committee as a recipient committee under the Political Reform Act, and, therefore, be required to file campaign statements? Government Code Section 82015 of the Political Reform Act defines a \"contribution\" as a \"payment... unless it is clear from the surrounding circumstances that it is not made for political purposes.\" By regulation the Commission defines the term \"political purposes\" in part as payments for the purpose of influencing or attempting to influence the action of voters for or against the qualification or passage of any measure. 2 Cal. Adm. Code Section 18215. Since the Arcadia Tax Reform Committee raised funds to defray the cost of printing and circulating the petitions only and not to make expenditures to influence the action of voters, the committee does not qualify as a recipient committee with reporting obligations under the Political Reform Act.",
+    "summary": "FPPC advice letter confirming that a community organization raising funds to print and circulate petitions requesting repeal of local ordinances does not qualify as a recipient committee requiring campaign reporting under the Political Reform Act."
+  }
+}

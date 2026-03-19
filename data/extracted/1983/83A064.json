@@ -1,0 +1,71 @@
+{
+  "id": "83A064",
+  "year": 1983,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1983/83A064.PDF",
+  "pdf_sha256": "982a75e83f2fec39ad0f4517cc58613046c878ade4cff2b08f0b7f51236a434c",
+  "local_pdf_path": "raw_pdfs/1983/83A064.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1983 Advice Letter # 83A064",
+    "tags": [
+      "1983",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:33:09",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1983&tagCount=1&page=23"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T20:29:39.539389Z",
+    "page_count": 1,
+    "word_count": 165,
+    "char_count": 1014,
+    "quality_score": 0.8556414129782394,
+    "olmocr_cost": 0.0025886,
+    "native_word_count": 156
+  },
+  "content": {
+    "full_text": "TO: [ ] JEANNE   [ ] JAY\n[✓] LYNN   [ ] BARBARA\n[ ] RICH   [ ] BOB S.\n[✓] HELEN   [✓] OTHER Advice Files\n\nFROM: Jeanne\nDATE: 2/7/83\n\n[✓] TELEPHONE ADVICE - SEE BELOW\n[ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT\n(IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY)\n\nFILE LOCATION: 82013; 84211\n\nINCLUDE IN ADVICE PACKAGE: YES [ ] NO [X]\n\nCALLER: Mattie Ropping, Forest Hill\nREPRESENTING: Committee to Unify the School District\nPHONE NUMBER: l=367-3189\n\nQUESTION: Regarding school district unification proposal: unification can only occur by vote of the people. In order to start ballot measure qualification process, proposal must be approved by county board of education and then by state board of education. Costs incurred in connection with county and state board approval process are not reportable campaign expenditures.\n\nANSWER: However, if any studies, reports, etc. are used to attempt to influence the voters in connection with the qualification or election, those costs must be reported by committee.",
+    "full_text_markdown": "TO: [ ] JEANNE   [ ] JAY\n[✓] LYNN   [ ] BARBARA\n[ ] RICH   [ ] BOB S.\n[✓] HELEN   [✓] OTHER Advice Files\n\nFROM: Jeanne\nDATE: 2/7/83\n\n[✓] TELEPHONE ADVICE - SEE BELOW\n[ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT\n(IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY)\n\nFILE LOCATION: 82013; 84211\n\nINCLUDE IN ADVICE PACKAGE: YES [ ] NO [X]\n\nCALLER: Mattie Ropping, Forest Hill\nREPRESENTING: Committee to Unify the School District\nPHONE NUMBER: l=367-3189\n\nQUESTION: Regarding school district unification proposal: unification can only occur by vote of the people. In order to start ballot measure qualification process, proposal must be approved by county board of education and then by state board of education. Costs incurred in connection with county and state board approval process are not reportable campaign expenditures.\n\nANSWER: However, if any studies, reports, etc. are used to attempt to influence the voters in connection with the qualification or election, those costs must be reported by committee."
+  },
+  "parsed": {
+    "date": "1983-02-07",
+    "date_raw": "2/7/83",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Regarding school district unification proposal: unification can only occur by vote of the people. In order to start ballot measure qualification process, proposal must be approved by county board of education and then by state board of education. Costs incurred in connection with county and state board approval process are not reportable campaign expenditures.\n\nANSWER: However, if any studies, reports, etc. are used to attempt to influence the voters in connection with the qualification or election, those costs must be reported by committee.",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.44999999999999996,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-20T20:29:39.539389Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Regarding school district unification proposal: unification can only occur by vote of the people. In order to start ballot measure qualification process, proposal must be approved by county board of education and then by state board of education. Costs incurred in connection with county and state board approval process are not reportable campaign expenditures.\n\nANSWER: However, if any studies, reports, etc. are used to attempt to influence the voters in connection with the qualification or election, those costs must be reported by committee.",
+    "qa_source": "extracted",
+    "first_500_words": "TO: [ ] JEANNE [ ] JAY [✓] LYNN [ ] BARBARA [ ] RICH [ ] BOB S. [✓] HELEN [✓] OTHER Advice Files FROM: Jeanne DATE: 2/7/83 [✓] TELEPHONE ADVICE - SEE BELOW [ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT (IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY) FILE LOCATION: 82013; 84211 INCLUDE IN ADVICE PACKAGE: YES [ ] NO [X] CALLER: Mattie Ropping, Forest Hill REPRESENTING: Committee to Unify the School District PHONE NUMBER: l=367-3189 QUESTION: Regarding school district unification proposal: unification can only occur by vote of the people. In order to start ballot measure qualification process, proposal must be approved by county board of education and then by state board of education. Costs incurred in connection with county and state board approval process are not reportable campaign expenditures. ANSWER: However, if any studies, reports, etc. are used to attempt to influence the voters in connection with the qualification or election, those costs must be reported by committee.",
+    "summary": null
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "79-023",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-023.PDF",
+  "pdf_sha256": "c7e52f71cff07c71bb205bde97011e9dceb1dc004047459678f25ebf336d192c",
+  "local_pdf_path": "raw_pdfs/1979/79-023.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1979 Advice Letter # 79-023",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:26:09",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=11"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-07T16:49:03.913814Z",
+    "page_count": 1,
+    "word_count": 86,
+    "char_count": 512,
+    "quality_score": 0.5125,
+    "olmocr_cost": 0.0024742199999999996,
+    "native_word_count": 4
+  },
+  "content": {
+    "full_text": "March 9, 1979\n\nOpinion Request Meeting Participants\n\nBarbara Campbell\n\nQualification as a Major Donor\n\nIn 1978, Big Bucks (\"BB\") made a $7,000 loan to a committee (\"CC\"). BB reported the loan on campaign statements filed in 1978, as did CC. In 1979, BB forgives the loan but has no other activity. CC will report the forgiveness on its 1979 campaign statement.\n\nDoes the forgiveness of the previous year's loan trigger BB's qualification as a major donor committee in 1979? If so, where are the statements filed?",
+    "full_text_markdown": "March 9, 1979\n\nOpinion Request Meeting Participants\n\nBarbara Campbell\n\nQualification as a Major Donor\n\nIn 1978, Big Bucks (\"BB\") made a $7,000 loan to a committee (\"CC\"). BB reported the loan on campaign statements filed in 1978, as did CC. In 1979, BB forgives the loan but has no other activity. CC will report the forgiveness on its 1979 campaign statement.\n\nDoes the forgiveness of the previous year's loan trigger BB's qualification as a major donor committee in 1979? If so, where are the statements filed?"
+  },
+  "parsed": {
+    "date": "1979-03-09",
+    "date_raw": "March 9, 1979",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Does the forgiveness of the previous year's loan trigger BB's qualification as a major donor committee in 1979? If so, where are the statements filed?",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether the forgiveness of a loan made in 1978 constitutes reportable activity that would qualify the lender as a major donor committee in 1979, and if so, where such statements must be filed.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.65,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document contains opinion request but does not include FPPC's conclusion or advice in the provided text. Only the question section is present. Confidence reduced due to lack of conclusion section needed to fully characterize as complete advice letter response."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T16:49:03.913814Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Does the forgiveness of the previous year's loan trigger BB's qualification as a major donor committee in 1979? If so, where are the statements filed?",
+    "qa_source": "mixed",
+    "first_500_words": "March 9, 1979 Opinion Request Meeting Participants Barbara Campbell Qualification as a Major Donor In 1978, Big Bucks (\"BB\") made a $7,000 loan to a committee (\"CC\"). BB reported the loan on campaign statements filed in 1978, as did CC. In 1979, BB forgives the loan but has no other activity. CC will report the forgiveness on its 1979 campaign statement. Does the forgiveness of the previous year's loan trigger BB's qualification as a major donor committee in 1979? If so, where are the statements filed?",
+    "summary": "FPPC opinion request regarding whether a $7,000 loan forgiveness in 1979 (for a loan made in 1978) would trigger major donor committee qualification status for the lender, Big Bucks, and the appropriate filing location for campaign statements."
+  }
+}

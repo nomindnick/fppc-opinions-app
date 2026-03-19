@@ -1,0 +1,77 @@
+{
+  "id": "90-514",
+  "year": 1990,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1990/90-514.pdf",
+  "pdf_sha256": "95303f4714e47923495c81befdfd26e1efaf90303f47d7429bbd7b070d9b41f6",
+  "local_pdf_path": "raw_pdfs/1990/90-514.pdf",
+  "source_metadata": {
+    "title_raw": "Levy, Gordon Year: 1990 Advice Letter # 90-514",
+    "tags": [
+      "1990",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:12:59",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1990&tagCount=1&page=95"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T21:12:00.222208Z",
+    "page_count": 2,
+    "word_count": 272,
+    "char_count": 1801,
+    "quality_score": 0.8888711682470211,
+    "olmocr_cost": 0.0050224,
+    "native_word_count": 305
+  },
+  "content": {
+    "full_text": "California Fair Political Practices Commission\n\nSeptember 13, 1990\n\nGordon P. Levy  \n36620 Geiger Ave.  \nPalmdale, CA 93551\n\nRe: Your Request for Advice  \nOur File No. A-90-514\n\nDear Mr. Levy:\n\nYou have requested advice concerning the campaign provisions of the Political Reform Act (the \"Act\").1\n\nQUESTIONS\n\n1. May you contribute your personal funds to your campaign account in order to pay a campaign debt?\n\n2. May you pay a campaign debt directly from your personal checking account?\n\nCONCLUSIONS\n\n1. The Act does not prohibit or limit the amount in personal funds that candidates may contribute (or loan) to their own campaign.\n\n2. All personal funds of the candidate to be used to pay campaign-related expenses must be deposited into the campaign bank account prior to being spent.\n\nANALYSIS\n\nThe Act places limitations on contributions to candidates for elective office. (Sections 85100-85400.) Section 85301(b) states that the limitations shall not apply to a candidate's personal funds contributed to his or her own campaign account.\n\n1 Government Code Sections 81000-91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations Section 18000, et seq. All references to regulations are to Title 2, Division 6 of the California Code of Regulations.\n\nSection 85201(d) requires that any personal funds which will be utilized to promote the election of the candidate be deposited in the campaign account prior to expenditure. Additionally, Section 85201(e) states that \"all campaign expenditures shall be made from the account.\"\n\nPlease contact me at (916) 322-5662 if you have additional questions.\n\nSincerely,\n\nScott Hallabrin\nActing General Counsel\n\nBy: Sandra L. Taylor\nPolitical Reform Consultant",
+    "full_text_markdown": "California Fair Political Practices Commission\n\nSeptember 13, 1990\n\nGordon P. Levy  \n36620 Geiger Ave.  \nPalmdale, CA 93551\n\nRe: Your Request for Advice  \nOur File No. A-90-514\n\nDear Mr. Levy:\n\nYou have requested advice concerning the campaign provisions of the Political Reform Act (the \"Act\").1\n\nQUESTIONS\n\n1. May you contribute your personal funds to your campaign account in order to pay a campaign debt?\n\n2. May you pay a campaign debt directly from your personal checking account?\n\nCONCLUSIONS\n\n1. The Act does not prohibit or limit the amount in personal funds that candidates may contribute (or loan) to their own campaign.\n\n2. All personal funds of the candidate to be used to pay campaign-related expenses must be deposited into the campaign bank account prior to being spent.\n\nANALYSIS\n\nThe Act places limitations on contributions to candidates for elective office. (Sections 85100-85400.) Section 85301(b) states that the limitations shall not apply to a candidate's personal funds contributed to his or her own campaign account.\n\n1 Government Code Sections 81000-91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations Section 18000, et seq. All references to regulations are to Title 2, Division 6 of the California Code of Regulations.\n\nSection 85201(d) requires that any personal funds which will be utilized to promote the election of the candidate be deposited in the campaign account prior to expenditure. Additionally, Section 85201(e) states that \"all campaign expenditures shall be made from the account.\"\n\nPlease contact me at (916) 322-5662 if you have additional questions.\n\nSincerely,\n\nScott Hallabrin\nActing General Counsel\n\nBy: Sandra L. Taylor\nPolitical Reform Consultant"
+  },
+  "parsed": {
+    "date": "1990-09-13",
+    "date_raw": "September 13, 1990",
+    "requestor_name": "Levy",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "1. May you contribute your personal funds to your campaign account in order to pay a campaign debt?\n\n2. May you pay a campaign debt directly from your personal checking account?",
+    "conclusion": "1. The Act does not prohibit or limit the amount in personal funds that candidates may contribute (or loan) to their own campaign.\n\n2. All personal funds of the candidate to be used to pay campaign-related expenses must be deposited into the campaign bank account prior to being spent.",
+    "facts": null,
+    "analysis": "The Act places limitations on contributions to candidates for elective office. (Sections 85100-85400.) Section 85301(b) states that the limitations shall not apply to a candidate's personal funds contributed to his or her own campaign account.\n\n, et seq. All references to regulations are to Title 2, Division 6 of the California Code of Regulations.\n\nSection 85201(d) requires that any personal funds which will be utilized to promote the election of the candidate be deposited in the campaign account prior to expenditure. Additionally, Section 85201(e) states that \"all campaign expenditures shall be made from the account.\"\n\nPlease contact me at (916) 322-5662 if you have additional questions.",
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.85,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern"
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "85100",
+      "85201(d)",
+      "85201(e)",
+      "85301(b)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.8,
+    "classified_at": "2026-02-19T21:12:00.222208Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: 1. May you contribute your personal funds to your campaign account in order to pay a campaign debt?\n\n2. May you pay a campaign debt directly from your personal checking account?\n\nCONCLUSION: 1. The Act does not prohibit or limit the amount in personal funds that candidates may contribute (or loan) to their own campaign.\n\n2. All personal funds of the candidate to be used to pay campaign-related expenses must be deposited into the campaign bank account prior to being spent.",
+    "qa_source": "extracted",
+    "first_500_words": "**California Fair Political Practices Commission** September 13, 1990 Gordon P. Levy 36620 Geiger Ave. Palmdale, CA 93551 Re: Your Request for Advice Our File No. A-90-514 Dear Mr. Levy: You have requested advice concerning the campaign provisions of the Political Reform Act (the \"Act\").1 QUESTIONS 1. May you contribute your personal funds to your campaign account in order to pay a campaign debt? 2. May you pay a campaign debt directly from your personal checking account? CONCLUSIONS 1. The Act does not prohibit or limit the amount in personal funds that candidates may contribute (or loan) to their own campaign. 2. All personal funds of the candidate to be used to pay campaign-related expenses must be deposited into the campaign bank account prior to being spent. ANALYSIS The Act places limitations on contributions to candidates for elective office. (Sections 85100-85400.) Section 85301(b) states that the limitations shall not apply to a candidate's personal funds contributed to his or her own campaign account. 1 Government Code Sections 81000-91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations Section 18000, et seq. All references to regulations are to Title 2, Division 6 of the California Code of Regulations. Section 85201(d) requires that any personal funds which will be utilized to promote the election of the candidate be deposited in the campaign account prior to expenditure. Additionally, Section 85201(e) states that \"all campaign expenditures shall be made from the account.\" Please contact me at (916) 322-5662 if you have additional questions. Sincerely, Scott Hallabrin Acting General Counsel By: Sandra L. Taylor Political Reform Consultant",
+    "summary": null
+  }
+}

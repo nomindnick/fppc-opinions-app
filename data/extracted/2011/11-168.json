@@ -1,0 +1,74 @@
+{
+  "id": "11-168",
+  "year": 2011,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2011/11-168.pdf",
+  "pdf_sha256": "a78d7ceea0af8e5dae78d60664ca097bf2b49c64dc6521e9c66cdea734ab1027",
+  "local_pdf_path": "raw_pdfs/2011/11-168.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2011 Advice Letter # 11-168",
+    "tags": [
+      "2011",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 17:10:49",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2011&tagCount=1&page=2"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:33:50.288110Z",
+    "page_count": 2,
+    "word_count": 429,
+    "char_count": 2798,
+    "quality_score": 0.8,
+    "olmocr_cost": null,
+    "native_word_count": 429
+  },
+  "content": {
+    "full_text": "FAIR p OLITICAL p RACTICES COMMISSION \n428 J Street • Suite 620 • Sacramento, CA 95814-2329 \n(916) 322-5660 • Fax (916) 322-0886 \nGaryH. Mayo \n1925 Otay Lakes Rd. Spc. 125 \nChula Vista, California 91913 \nRe: \nYour Request for Advice \nOur File No. A-11-168 \nDear Mr. Mayo: \nSeptember 30, 2011 \nThis letter responds to your request for advice regarding the campaign provisions of the \nPolitical Reform Act (the \"Act\"). 1 In our reply, we restrict our comments to the applicability of \nthe Act to your question. \nYou are the treasurer of the Chula Vista California Mobile Home Association, which \nintends to organize a political action committee (the \"PAC\"). The association would like to \nmake a contribution of less than $1,000 to the PAC. You ask whether the Act prohibits this \ncontribution. \nThe provisions of the Political Reform Act governing political contributions are primarily \ndisclosure rules. While there are certain restrictions and prohibitions on the making of \ncontributions] none apply to your facts. Accordingly, the Act does not prohibit the association \nfrom making a contribution to the PAC. \nHowever, we bring your attention to provisions of the Act that govern \"committees,\" as \ndefined in Section 82013. If the association receives contributions or makes expenditures \ntotaling $1,000 or more in a calendar year, it will be deemed to be a \"committee\" and must file a \nstatement of organization within ten days and will be subject to the recordkeeping, reporting and \nother rules governing committees. Generally, once an organization has made its first political \ncontributions or expenditures totaling $1,000 or more, the sources of any funds used by the \norganization to make those contributions must be reported. In other words, the association \nwould be required to disclose, on a campaign report, the names and certain other information \nabout individuals or organizations that contributed to the association. \n1 The Political Reform Act is contained in Government Code Sections 81000 through 91014. All statutory \nreferences are to the Government Code, unless otherwise indicated. The regulations of the Fair Political Practices \nCommission are contained in Sections 181 l O through 18997 of Title 2 of the California Code of Regulations. All \nregulatory references are to Title 2, Division 6 of the California Code of Regulations, unless otherwise indicated. \n\n\nFile No. A-11-168 \nPage No. 2 \nTo assist the association in complying with these provisions, we are enclosing our \npamphlet entitled \"Candidate and Campaign Committees.\" \nIf you have other questions on this matter, please contact me or our Technical Assistance \nDivision at (916) 322-5660. \nVJ:jgl \nEnclosure \nSincerely, \nZackery P. Morazzini \nGeneral Counsel \nBy: Valentina Joyce \nCounsel, Legal Division \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2011-09-30",
+    "date_raw": "September 30, 2011",
+    "requestor_name": "Mayo",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "You are the treasurer of the Chula Vista California Mobile Home Association, which intends to organize a political action committee (the \"PAC\"). The association would like to make a contribution of less than $1,000 to the PAC. You ask whether the Act prohibits this contribution.",
+    "conclusion": "The provisions of the Political Reform Act governing political contributions are primarily disclosure rules. While there are certain restrictions and prohibitions on the making of contributions, none apply to your facts. Accordingly, the Act does not prohibit the association from making a contribution to the PAC. However, if the association receives contributions or makes expenditures totaling $1,000 or more in a calendar year, it will be deemed to be a \"committee\" and must file a statement of organization within ten days and will be subject to recordkeeping, reporting and other rules governing committees.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether the Political Reform Act prohibits a nonprofit association from making a contribution of less than $1,000 to a political action committee it intends to organize.",
+    "conclusion_synthetic": "The Political Reform Act does not prohibit the association's contribution of less than $1,000 to the PAC; however, if the association's total contributions or expenditures reach $1,000 or more in a calendar year, it becomes a committee subject to disclosure and reporting requirements, including disclosure of contribution sources.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Standard advice letter with clear question and conclusion sections. Dated September 30, 2011. Addressed to Gary H. Mayo, treasurer of Chula Vista California Mobile Home Association. File No. A-11-168."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "82013"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:33:50.288110Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: You are the treasurer of the Chula Vista California Mobile Home Association, which intends to organize a political action committee (the \"PAC\"). The association would like to make a contribution of less than $1,000 to the PAC. You ask whether the Act prohibits this contribution.\n\nCONCLUSION: The provisions of the Political Reform Act governing political contributions are primarily disclosure rules. While there are certain restrictions and prohibitions on the making of contributions, none apply to your facts. Accordingly, the Act does not prohibit the association from making a contribution to the PAC. However, if the association receives contributions or makes expenditures totaling $1,000 or more in a calendar year, it will be deemed to be a \"committee\" and must file a statement of organization within ten days and will be subject to recordkeeping, reporting and other rules governing committees.",
+    "qa_source": "mixed",
+    "first_500_words": "FAIR p OLITICAL p RACTICES COMMISSION 428 J Street • Suite 620 • Sacramento, CA 95814-2329 (916) 322-5660 • Fax (916) 322-0886 GaryH. Mayo 1925 Otay Lakes Rd. Spc. 125 Chula Vista, California 91913 Re: Your Request for Advice Our File No. A-11-168 Dear Mr. Mayo: September 30, 2011 This letter responds to your request for advice regarding the campaign provisions of the Political Reform Act (the \"Act\"). 1 In our reply, we restrict our comments to the applicability of the Act to your question. You are the treasurer of the Chula Vista California Mobile Home Association, which intends to organize a political action committee (the \"PAC\"). The association would like to make a contribution of less than $1,000 to the PAC. You ask whether the Act prohibits this contribution. The provisions of the Political Reform Act governing political contributions are primarily disclosure rules. While there are certain restrictions and prohibitions on the making of contributions] none apply to your facts. Accordingly, the Act does not prohibit the association from making a contribution to the PAC. However, we bring your attention to provisions of the Act that govern \"committees,\" as defined in Section 82013. If the association receives contributions or makes expenditures totaling $1,000 or more in a calendar year, it will be deemed to be a \"committee\" and must file a statement of organization within ten days and will be subject to the recordkeeping, reporting and other rules governing committees. Generally, once an organization has made its first political contributions or expenditures totaling $1,000 or more, the sources of any funds used by the organization to make those contributions must be reported. In other words, the association would be required to disclose, on a campaign report, the names and certain other information about individuals or organizations that contributed to the association. 1 The Political Reform Act is contained in Government Code Sections 81000 through 91014. All statutory references are to the Government Code, unless otherwise indicated. The regulations of the Fair Political Practices Commission are contained in Sections 181 l O through 18997 of Title 2 of the California Code of Regulations. All regulatory references are to Title 2, Division 6 of the California Code of Regulations, unless otherwise indicated. File No. A-11-168 Page No. 2 To assist the association in complying with these provisions, we are enclosing our pamphlet entitled \"Candidate and Campaign Committees.\" If you have other questions on this matter, please contact me or our Technical Assistance Division at (916) 322-5660. VJ:jgl Enclosure Sincerely, Zackery P. Morazzini General Counsel By: Valentina Joyce Counsel, Legal Division",
+    "summary": "FPPC advises that the Political Reform Act does not prohibit a mobile home association from contributing less than $1,000 to a political action committee, but warns that contributions or expenditures of $1,000 or more would trigger committee status and associated disclosure obligations."
+  }
+}

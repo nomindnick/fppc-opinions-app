@@ -1,0 +1,73 @@
+{
+  "id": "77ADV-77-375",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-375.PDF",
+  "pdf_sha256": "844653a8b75f48a604437b1735630e3c4168dc67b02207889c5e24e053e72b62",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-375.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-375",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:19:31",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=8"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-07T17:02:34.165884Z",
+    "page_count": 1,
+    "word_count": 197,
+    "char_count": 1279,
+    "quality_score": 0.6325000000000001,
+    "olmocr_cost": 0.0026341800000000003,
+    "native_word_count": 27
+  },
+  "content": {
+    "full_text": "January 31, 1977\n\nMrs. Dorothy Outwater  \nAlhambra City Clerk  \n111 South 1st Street  \nAlhambra, California 91801\n\nDear Mrs. Outwater:\n\nThis letter is to confirm my advice to you by telephone on January 24, 1977, regarding the filing of statements of economic interests under Government Code Section 87203.\n\nIn 2 Cal. Adm. Code Section 18723(a), the Commission established April 1 as the deadline for city council members to file statements pursuant to Government Code Section 87203. Prior to the effectiveness of the regulation, however, such statements were due within thirty days of the officeholder's anniversary date. Therefore, since December 1 was the date on which Alhambra city council members took office, they filed their annual statements by December 31, 1977. You asked whether their reports should be supplemented, in light of Section 18723, to include financial activity during the period from December 1 through December 31, 1976. I advised that a supplemental filing would not be necessary; rather the period covered by council members' reports due by April 1, 1978, should be from December 2, 1976 through December 31, 1977.\n\nIf you have any questions concerning the above advice, please contact me.\n\nSincerely,\n\nNan Emmerson  \nSpecial Compliance Representative",
+    "full_text_markdown": "January 31, 1977\n\nMrs. Dorothy Outwater  \nAlhambra City Clerk  \n111 South 1st Street  \nAlhambra, California 91801\n\nDear Mrs. Outwater:\n\nThis letter is to confirm my advice to you by telephone on January 24, 1977, regarding the filing of statements of economic interests under Government Code Section 87203.\n\nIn 2 Cal. Adm. Code Section 18723(a), the Commission established April 1 as the deadline for city council members to file statements pursuant to Government Code Section 87203. Prior to the effectiveness of the regulation, however, such statements were due within thirty days of the officeholder's anniversary date. Therefore, since December 1 was the date on which Alhambra city council members took office, they filed their annual statements by December 31, 1977. You asked whether their reports should be supplemented, in light of Section 18723, to include financial activity during the period from December 1 through December 31, 1976. I advised that a supplemental filing would not be necessary; rather the period covered by council members' reports due by April 1, 1978, should be from December 2, 1976 through December 31, 1977.\n\nIf you have any questions concerning the above advice, please contact me.\n\nSincerely,\n\nNan Emmerson  \nSpecial Compliance Representative"
+  },
+  "parsed": {
+    "date": "1977-01-31",
+    "date_raw": "January 31, 1977",
+    "requestor_name": "Outwater",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Must Alhambra city council members file supplemental statements of economic interests to cover the period from December 1-31, 1976, given the new April 1 filing deadline established in 2 Cal. Adm. Code Section 18723(a)?",
+    "conclusion_synthetic": "No supplemental filing is necessary. Instead, the period covered by council members' reports due by April 1, 1978, should span from December 2, 1976 through December 31, 1977, ensuring continuous coverage without duplication.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: No formal QUESTION or CONCLUSION section headers present; letter confirms prior telephone advice dated January 24, 1977. Question and conclusion were synthesized from the body text."
+  },
+  "citations": {
+    "government_code": [
+      "87203"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T17:02:34.165884Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Must Alhambra city council members file supplemental statements of economic interests to cover the period from December 1-31, 1976, given the new April 1 filing deadline established in 2 Cal. Adm. Code Section 18723(a)?\n\nCONCLUSION: No supplemental filing is necessary. Instead, the period covered by council members' reports due by April 1, 1978, should span from December 2, 1976 through December 31, 1977, ensuring continuous coverage without duplication.",
+    "qa_source": "synthetic",
+    "first_500_words": "January 31, 1977 Mrs. Dorothy Outwater Alhambra City Clerk 111 South 1st Street Alhambra, California 91801 Dear Mrs. Outwater: This letter is to confirm my advice to you by telephone on January 24, 1977, regarding the filing of statements of economic interests under Government Code Section 87203. In 2 Cal. Adm. Code Section 18723(a), the Commission established April 1 as the deadline for city council members to file statements pursuant to Government Code Section 87203. Prior to the effectiveness of the regulation, however, such statements were due within thirty days of the officeholder's anniversary date. Therefore, since December 1 was the date on which Alhambra city council members took office, they filed their annual statements by December 31, 1977. You asked whether their reports should be supplemented, in light of Section 18723, to include financial activity during the period from December 1 through December 31, 1976. I advised that a supplemental filing would not be necessary; rather the period covered by council members' reports due by April 1, 1978, should be from December 2, 1976 through December 31, 1977. If you have any questions concerning the above advice, please contact me. Sincerely, Nan Emmerson Special Compliance Representative",
+    "summary": "FPPC confirms telephonic advice regarding the filing of statements of economic interests by Alhambra city council members under the newly established April 1 deadline, clarifying that no supplemental filing is required and explaining the proper reporting period."
+  }
+}

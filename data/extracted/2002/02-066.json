@@ -1,0 +1,71 @@
+{
+  "id": "02-066",
+  "year": 2002,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2002/02-066.pdf",
+  "pdf_sha256": "4720d362ce673844eb9114ee1986cbe536e68fbccab9786995d77d43c1dc0aed",
+  "local_pdf_path": "raw_pdfs/2002/02-066.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2002 Advice Letter # 02-066",
+    "tags": [
+      "Advice Letter",
+      "2002"
+    ],
+    "scraped_at": "2026-01-31 14:35:31",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2002&tagCount=1&page=7"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T23:27:22.400480Z",
+    "page_count": 1,
+    "word_count": 89,
+    "char_count": 601,
+    "quality_score": 0.8540578087270063,
+    "olmocr_cost": 0.00249658,
+    "native_word_count": 111
+  },
+  "content": {
+    "full_text": "May 6, 2002\n\nMary M. McGuire, Commissioner\nSan Francisco Taxi Commission\n1540 Market Street, Suite 160\nSan Francisco, CA 94102\n\nRe: Your Request for Advice\nOur File No. W-02-066\n\nDear Ms. McGuire:\n\nAs indicated in our phone conversation last week, this correspondence confirms the withdrawal of your March 13, 2002, letter requesting written advice from the Fair Political Practices Commission.\n\nShould you have any additional questions regarding this matter, please contact me at (916) 322-5660.\n\nSincerely,\n\nLuisa Menchaca\nAssistant General Counsel\n\nBy: Hyla P. Wagner\nSenior Counsel, Legal Division",
+    "full_text_markdown": "May 6, 2002\n\nMary M. McGuire, Commissioner\nSan Francisco Taxi Commission\n1540 Market Street, Suite 160\nSan Francisco, CA 94102\n\nRe: Your Request for Advice\nOur File No. W-02-066\n\nDear Ms. McGuire:\n\nAs indicated in our phone conversation last week, this correspondence confirms the withdrawal of your March 13, 2002, letter requesting written advice from the Fair Political Practices Commission.\n\nShould you have any additional questions regarding this matter, please contact me at (916) 322-5660.\n\nSincerely,\n\nLuisa Menchaca\nAssistant General Counsel\n\nBy: Hyla P. Wagner\nSenior Counsel, Legal Division"
+  },
+  "parsed": {
+    "date": "2002-05-06",
+    "date_raw": "May 6, 2002",
+    "requestor_name": "Mc",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T23:27:22.400480Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "May 6, 2002 Mary M. McGuire, Commissioner San Francisco Taxi Commission 1540 Market Street, Suite 160 San Francisco, CA 94102 Re: Your Request for Advice Our File No. W-02-066 Dear Ms. McGuire: As indicated in our phone conversation last week, this correspondence confirms the withdrawal of your March 13, 2002, letter requesting written advice from the Fair Political Practices Commission. Should you have any additional questions regarding this matter, please contact me at (916) 322-5660. Sincerely, Luisa Menchaca Assistant General Counsel By: Hyla P. Wagner Senior Counsel, Legal Division",
+    "qa_source": "extracted",
+    "first_500_words": "May 6, 2002 Mary M. McGuire, Commissioner San Francisco Taxi Commission 1540 Market Street, Suite 160 San Francisco, CA 94102 Re: Your Request for Advice Our File No. W-02-066 Dear Ms. McGuire: As indicated in our phone conversation last week, this correspondence confirms the withdrawal of your March 13, 2002, letter requesting written advice from the Fair Political Practices Commission. Should you have any additional questions regarding this matter, please contact me at (916) 322-5660. Sincerely, Luisa Menchaca Assistant General Counsel By: Hyla P. Wagner Senior Counsel, Legal Division",
+    "summary": null
+  }
+}

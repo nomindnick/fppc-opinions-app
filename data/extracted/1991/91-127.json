@@ -1,0 +1,74 @@
+{
+  "id": "91-127",
+  "year": 1991,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1991/91-127.pdf",
+  "pdf_sha256": "d97e2c0c5d01c15d249be0cee502ccc284ebafee0f8993e159be3950734a229b",
+  "local_pdf_path": "raw_pdfs/1991/91-127.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 1991 Advice Letter # 91-127",
+    "tags": [
+      "1991",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:16:02",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1991&tagCount=1&page=5"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T23:13:35.307171Z",
+    "page_count": 1,
+    "word_count": 153,
+    "char_count": 962,
+    "quality_score": 0.8938499075507396,
+    "olmocr_cost": 0.00251206,
+    "native_word_count": 162
+  },
+  "content": {
+    "full_text": "Summary of Telephone Advice\n\nNo. M-91-127\nStaff: Cassady, Lynda\nAdvisee: Purcell, Vi (441-5050)\nDate: January 21, 1991\nSubject: Gift Reporting\n\nFACTS\n\nA lobbyist and a legislator are invited to attend a social event in San Francisco. The lobbyist offered to drive the legislator to the event.\n\nQUESTION\n\nIs the transportation provided by the lobbyist to the legislator a gift?\n\nANSWER\n\nYes, the transportation is a gift and is subject to the $10.00 gift limitation.\n\nANALYSIS\n\nAfter discussion with Jeanne Pritchard and Carla Wardlow, it was determined that the definition of a gift did not exempt such travel. (Section 82028.) Accordingly, the transportation would be subject to the gift prohibition. (Section 86203.)\n\nIn order to determine the fair market value of the transportation, it was suggested to the lobbyist that a standard travel reimbursement rate (i.e. 21 cents per mile) plus any parking and toll fees divided by the number of passengers be used.",
+    "full_text_markdown": "Summary of Telephone Advice\n\nNo. M-91-127\nStaff: Cassady, Lynda\nAdvisee: Purcell, Vi (441-5050)\nDate: January 21, 1991\nSubject: Gift Reporting\n\nFACTS\n\nA lobbyist and a legislator are invited to attend a social event in San Francisco. The lobbyist offered to drive the legislator to the event.\n\nQUESTION\n\nIs the transportation provided by the lobbyist to the legislator a gift?\n\nANSWER\n\nYes, the transportation is a gift and is subject to the $10.00 gift limitation.\n\nANALYSIS\n\nAfter discussion with Jeanne Pritchard and Carla Wardlow, it was determined that the definition of a gift did not exempt such travel. (Section 82028.) Accordingly, the transportation would be subject to the gift prohibition. (Section 86203.)\n\nIn order to determine the fair market value of the transportation, it was suggested to the lobbyist that a standard travel reimbursement rate (i.e. 21 cents per mile) plus any parking and toll fees divided by the number of passengers be used."
+  },
+  "parsed": {
+    "date": "1991-01-21",
+    "date_raw": "January 21, 1991",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Is the transportation provided by the lobbyist to the legislator a gift?\n\nANSWER\n\nYes, the transportation is a gift and is subject to the $10.00 gift limitation.",
+    "conclusion": "of Telephone Advice\n\nNo. M-91-127\nStaff: Cassady, Lynda\nAdvisee: Purcell, Vi (441-5050)\nDate: January 21, 1991\nSubject: Gift Reporting",
+    "facts": "A lobbyist and a legislator are invited to attend a social event in San Francisco. The lobbyist offered to drive the legislator to the event.",
+    "analysis": "After discussion with Jeanne Pritchard and Carla Wardlow, it was determined that the definition of a gift did not exempt such travel. (Section 82028.) Accordingly, the transportation would be subject to the gift prohibition. (Section 86203.)\n\nIn order to determine the fair market value of the transportation, it was suggested to the lobbyist that a standard travel reimbursement rate (i.e. 21 cents per mile) plus any parking and toll fees divided by the number of passengers be used.",
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex",
+    "extraction_confidence": 0.8,
+    "has_standard_format": true,
+    "parsing_notes": "Mixed formats: modern, old; CONCLUSION appears before QUESTION"
+  },
+  "citations": {
+    "government_code": [
+      "82028",
+      "86203"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-19T23:13:35.307171Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Is the transportation provided by the lobbyist to the legislator a gift?\n\nANSWER\n\nYes, the transportation is a gift and is subject to the $10.00 gift limitation.\n\nCONCLUSION: of Telephone Advice\n\nNo. M-91-127\nStaff: Cassady, Lynda\nAdvisee: Purcell, Vi (441-5050)\nDate: January 21, 1991\nSubject: Gift Reporting",
+    "qa_source": "extracted",
+    "first_500_words": "Summary of Telephone Advice No. M-91-127 Staff: Cassady, Lynda Advisee: Purcell, Vi (441-5050) Date: January 21, 1991 Subject: Gift Reporting FACTS A lobbyist and a legislator are invited to attend a social event in San Francisco. The lobbyist offered to drive the legislator to the event. QUESTION Is the transportation provided by the lobbyist to the legislator a gift? ANSWER Yes, the transportation is a gift and is subject to the $10.00 gift limitation. ANALYSIS After discussion with Jeanne Pritchard and Carla Wardlow, it was determined that the definition of a gift did not exempt such travel. (Section 82028.) Accordingly, the transportation would be subject to the gift prohibition. (Section 86203.) In order to determine the fair market value of the transportation, it was suggested to the lobbyist that a standard travel reimbursement rate (i.e. 21 cents per mile) plus any parking and toll fees divided by the number of passengers be used.",
+    "summary": null
+  }
+}

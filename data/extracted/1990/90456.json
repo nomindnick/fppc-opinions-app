@@ -1,0 +1,74 @@
+{
+  "id": "90456",
+  "year": 1990,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1990/90456.pdf",
+  "pdf_sha256": "e6b682f0e361b3153528bafaebd5107e4489dd01b175277756737b4a286dd234",
+  "local_pdf_path": "raw_pdfs/1990/90456.pdf",
+  "source_metadata": {
+    "title_raw": "Lockwood, Roy Year: 1990 Advice Letter # 90456",
+    "tags": [
+      "1990",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:08:27",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1990&tagCount=1&page=35"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-25T22:50:45.712551Z",
+    "page_count": 2,
+    "word_count": 166,
+    "char_count": 1461,
+    "quality_score": 0.7431951140821247,
+    "olmocr_cost": 0.0028982,
+    "native_word_count": 34,
+    "haiku_cost": 0.0046695999999999994
+  },
+  "content": {
+    "full_text": "Roy W. Lockwood\n327 to -C. Lt\nOxnard, CA 93030\n\nLegal Dept PPPC\n428 \"N\" Ft St\n[illegible] 0706 Valley 2, 1940\nVeramito, CA 95814.\n\nUndersigned contemplates entering\nthe Oxnard City Council Campaign\nfor City Council & also Oxnard Unified\nHigh School Bd of Trustees.\nUndersigned plans to finance\nthe Campaign from Personal\nFund - No Contribute to be\nreceived.\n\nLastline an PPPC that\nwill limit my personal efforts\nto the Committee to [illegible] Lockwood?\nOr Mishandersue rules in\nof this matter is required?\n\nThank you\n\n[signature] Roy Lockwood\n\n[illegible] [illegible]\n\norder is [illegible] [illegible] [illegible] [illegible]\n[illegible] [illegible] [illegible] [illegible]\n\n[illegible] [illegible] [illegible] [illegible] [illegible] [illegible] [illegible] [illegible] [illegible] [illegible] [illegible] [illegible]\n\n[illegible] [illegible] [illegible] [illegible] [illegible] [illegible] [illegible] [illegible] [illegible] [illegible]\n\n[illegible] [illegible] [illegible] [illegible] [illegible] [illegible] [illegible] [illegible] [illegible]\n\n[illegible] [illegible] [illegible] [illegible] [illegible] [illegible] [illegible] [illegible] [illegible] [illegible] [illegible]\n\n[illegible] [illegible] [illegible] [illegible] [illegible] [illegible] [illegible] [illegible]\n\n[illegible] [illegible] [illegible] [illegible] [illegible] [illegible] [illegible]\n\n[illegible] [illegible] [illegible] [illegible] [illegible] [illegible] [illegible] [illegible]",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": "Lockwood",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "Is there an PPPC that will limit my personal funds to the Committee to Elect Lockwood? An authoritative ruling on this matter is requested?",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requester asks whether FPPC regulations limit the amount of personal funds a candidate can contribute to their own campaign committee for simultaneous city council and school board races.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an incoming request letter to FPPC, not an FPPC response. No conclusion or advice section present. The document references a faint handwritten image overlay, but the primary legible text is the typed letter. Minor spelling variation in correspondence address (PPPC instead of FPPC appears in original)."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [
+      "92-543"
+    ],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T16:18:52.022655Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Is there an PPPC that will limit my personal funds to the Committee to Elect Lockwood? An authoritative ruling on this matter is requested?",
+    "qa_source": "mixed",
+    "first_500_words": "The handwritten letter is as follows: Ray W. Lockwood 327 So - C - St Oxnard, CA 93030 Legal Dept PPPC 415 \"F\" St San Jose Sacramento, CA 95814. July 2nd, 1990 Undersigned contemplates entering the Oxnard City Council Campaign for City Council & also Oxnard Union High School Bd of Trustees. Undersigned plans to finance the campaign from personal funds. No contributions to be received! Is there an PPPC that will limit my personal funds to the Committee to Elect Lockwood? An authoritative ruling on this matter is requested? Thank you, Ray W. Lockwood The image provided is of handwritten text, but the handwriting is extremely faint and mostly illegible. Only a few scattered words or numbers are partially visible, such as \"1998,\" \"1997,\" and some numbers in the 100s and 200s. Due to the quality and clarity of the handwriting, it is not possible to transcribe or provide a reliable summary of the content. If you have another scan with better quality, please provide it for better results.",
+    "summary": "Ray W. Lockwood requests an authoritative FPPC ruling on whether regulations limit personal fund contributions to his campaign committee for concurrent Oxnard City Council and Union High School Board campaigns, with no outside contributions planned."
+  }
+}

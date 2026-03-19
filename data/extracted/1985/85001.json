@@ -1,0 +1,74 @@
+{
+  "id": "85001",
+  "year": 1985,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1985/fppc-advice/85001.PDF",
+  "pdf_sha256": "f388a6eec4831c7d4afdf82565302e0bb99ce5ac457406c5077596d44a5430a1",
+  "local_pdf_path": "raw_pdfs/1985/85001.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1985 Advice Letter # 85001",
+    "tags": [
+      "Advice Letter",
+      "1985"
+    ],
+    "scraped_at": "2026-01-31 15:36:00",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1985&tagCount=1&page=5"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:38.094092Z",
+    "page_count": 2,
+    "word_count": 329,
+    "char_count": 2246,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 329
+  },
+  "content": {
+    "full_text": "P.O. BOX 807 • SACRAMENTO, 95804 ••• 1100 K STREET BUILDING, SACRAMENTO, 95814 \nDavid M. Kennedy \nCity Attorney \nCity of Salinas \n200 Lincoln Avenue \nSalinas, CA \n93901 \nDear Mr. Kennedy: \nTechnical Assistance \n(916) 322-5662 \nAdministration \n322-5660 \nE.ecutive/Legal \n322-5901 \nJanuary 11, 1985 \nEnforcement \n322-6«1 \nRe: \nAdvice Letter No. A-85-001 \nThank you for your letter of January 4, 1985 regarding \nCouncilmember Phyllis Price. \nYou asked whether Ms. Price may \nparticipate in labor negotiations involving a union that made a \n$1,500 contribution to her campaign. \nThe Political Reform Act provides that, in certain \ncircumstances, a councilmember must disqualify herself from \ndecisions involving persons who have provided gifts or income to \nher within the preceding twelve months. \nGovernment Code \nSections 87100, 87103. \nUnder these sections, disqualification \nis not required as a result of receiving campaign \ncontributions. \nThere is a section of the Act under which \ndisqualification from certain decisions may result from the \nreceipt of campaign contributions. \nSection 84308. \nHowever, \nthis section does not apply to city councilmembers making city \ncouncil decisions. \nUnder the facts you have provided, there appears to be no \nreason why Ms. Price should not participate as a city \ncouncilmember in the labor negotiations. \nVery truly yours, \nBAM:nwm \n\n\ncity Of salinas \nJanuary 4, 1985 \nFair Political Practices \nCorrunission \nP. O. Box 807 \nSacramento, CA \n95804 \nRe: \nRequest for Advice \nGentlemen: \nIoU.\",I-U''''enue • Salinas, California 93901 • (408) 758·7256 \nCouncilmember Phyllis Price was first elected to the Salinas \nCity Council in June, 1983. \nDuring her campaign, she received \na large donation, around $1,500,from Firefighters Local 1270, \nthe employee organization which, then as well as now, represents \nthe firefighters employed by the City of Salinas. \nThe City is \npresently in the process of meeting and. conferring with Local 1270 \non a memorandum of understanding. \nIs there any conflict of interest if Councilmember Price parti-\ncipates in the Council decision relating to the labor negotia-\ntions and the ultimate approval of an MOU. \nvelJ;;;::~;;t · \nDAVID M. KENNEDY, \nCity Attorney \nDMK: jb \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1985-01-11",
+    "date_raw": "January 11, 1985",
+    "requestor_name": "Kennedy",
+    "requestor_title": "City Attorney",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Is there any conflict of interest if Councilmember Price participates in the Council decision relating to the labor negotiations and the ultimate approval of an MOU.",
+    "conclusion": "Under the facts you have provided, there appears to be no reason why Ms. Price should not participate as a city councilmember in the labor negotiations.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a city councilmember may participate in labor negotiations involving a union that contributed $1,500 to her campaign.",
+    "conclusion_synthetic": "The FPPC concluded that Councilmember Price may participate in the labor negotiations because the Political Reform Act does not require disqualification based on campaign contributions for city council decisions.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document contains both the incoming request (dated January 4, 1985) and the FPPC advice letter response (dated January 11, 1985). Both question and conclusion sections are clearly present and verbatim quoted."
+  },
+  "citations": {
+    "government_code": [
+      "84308",
+      "87100"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:36:38.094092Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Is there any conflict of interest if Councilmember Price participates in the Council decision relating to the labor negotiations and the ultimate approval of an MOU.\n\nCONCLUSION: Under the facts you have provided, there appears to be no reason why Ms. Price should not participate as a city councilmember in the labor negotiations.",
+    "qa_source": "mixed",
+    "first_500_words": "P.O. BOX 807 • SACRAMENTO, 95804 ••• 1100 K STREET BUILDING, SACRAMENTO, 95814 David M. Kennedy City Attorney City of Salinas 200 Lincoln Avenue Salinas, CA 93901 Dear Mr. Kennedy: Technical Assistance (916) 322-5662 Administration 322-5660 E.ecutive/Legal 322-5901 January 11, 1985 Enforcement 322-6«1 Re: Advice Letter No. A-85-001 Thank you for your letter of January 4, 1985 regarding Councilmember Phyllis Price. You asked whether Ms. Price may participate in labor negotiations involving a union that made a $1,500 contribution to her campaign. The Political Reform Act provides that, in certain circumstances, a councilmember must disqualify herself from decisions involving persons who have provided gifts or income to her within the preceding twelve months. Government Code Sections 87100, 87103. Under these sections, disqualification is not required as a result of receiving campaign contributions. There is a section of the Act under which disqualification from certain decisions may result from the receipt of campaign contributions. Section 84308. However, this section does not apply to city councilmembers making city council decisions. Under the facts you have provided, there appears to be no reason why Ms. Price should not participate as a city councilmember in the labor negotiations. Very truly yours, BAM:nwm city Of salinas January 4, 1985 Fair Political Practices Corrunission P. O. Box 807 Sacramento, CA 95804 Re: Request for Advice Gentlemen: IoU.\",I-U''''enue • Salinas, California 93901 • (408) 758·7256 Councilmember Phyllis Price was first elected to the Salinas City Council in June, 1983. During her campaign, she received a large donation, around $1,500,from Firefighters Local 1270, the employee organization which, then as well as now, represents the firefighters employed by the City of Salinas. The City is presently in the process of meeting and. conferring with Local 1270 on a memorandum of understanding. Is there any conflict of interest if Councilmember Price parti- cipates in the Council decision relating to the labor negotia- tions and the ultimate approval of an MOU. velJ;;;::~;;t · DAVID M. KENNEDY, City Attorney DMK: jb",
+    "summary": "The FPPC advised that Councilmember Phyllis Price may participate in labor negotiations with Firefighters Local 1270 despite their $1,500 campaign contribution, as disqualification requirements under the Political Reform Act do not apply to campaign contributions received by city councilmembers making city council decisions."
+  }
+}

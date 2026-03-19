@@ -1,0 +1,76 @@
+{
+  "id": "03-132",
+  "year": 2003,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2003/03-132.pdf",
+  "pdf_sha256": "1ca63afdabf241a48387474093df53fdb66cb6658947e360d429bbd363a9bc22",
+  "local_pdf_path": "raw_pdfs/2003/03-132.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2003 Advice Letter # 03-132",
+    "tags": [
+      "2003",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:38:06",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2003&tagCount=1&page=6"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:20.511700Z",
+    "page_count": 1,
+    "word_count": 194,
+    "char_count": 1318,
+    "quality_score": 0.635,
+    "olmocr_cost": null,
+    "native_word_count": 194
+  },
+  "content": {
+    "full_text": "Farn PoLrrrcAL PnacrrcEs CouMrssroN\n428 J Street. Suite 620 . Sacramento, CA 95814-2329\n(916) 322-5660. Fax (916) 322-0886\nJlurlre 24,2003\nL.D. \"Pete\" Ross\n2431 Spings Road\nVallejo, CA94591-5610\nRe:\nYour Request for Advice\nOur File No. W-03-132\nDear Mr. Ross:\nThis letter is in response to your request for written advice on the campaign provisions of\nthe Political Reform Act.' Under California Code of Regulations 18329(b)(SXB), copy enclosed,\nunless you are an aathoized representative of the Benicia Police Factlity/Civic Center\nImprovement Project, for whom you seek guidance, the Fair Political Practices Commission\ncannot address your questions or provide analysis. However, if you believe a violation of the\nPolitical Reform Act has occurred, you have the option of filing a complaint with our\nEnforcement Division. I have enclosed a fact sheet explaining the complaint process procedure.\nAlso enclosed for your review is our campaign manual on independent expenditure\ncommittees.\nShould you have additional questions regarding this matter, please do not hesitate to\ncontact me at (916) 322-5660.\nSincerely\nLuisa Menchaca\nW. Wallace\nGeneral Counsel\nJwwjg\nEnclosures\nl. Government Code sections 81000-91014. Commission regulations appear at Title 2, sections 18109-\n18997, of the California Code ofRegulations.\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": "Ross",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "Unless you are an authorized representative of the Benicia Police Facility/Civic Center Improvement Project, for whom you seek guidance, the Fair Political Practices Commission cannot address your questions or provide analysis. However, if you believe a violation of the Political Reform Act has occurred, you have the option of filing a complaint with our Enforcement Division.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Can the FPPC provide written advice on campaign provisions of the Political Reform Act regarding the Benicia Police Facility/Civic Center Improvement Project to a non-authorized representative?",
+    "conclusion_synthetic": "The FPPC cannot provide advice to the requester unless they are an authorized representative of the subject organization. The requester may file a complaint with the Enforcement Division if they believe a violation has occurred.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Standard declination letter with no formal QUESTION or CONCLUSION sections; extract confidence is high as the key language is clear, but minor uncertainty exists about whether this is technically a 'declination' subtype rather than general 'advice_letter' category."
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [
+      "18109",
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:34:20.511700Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Can the FPPC provide written advice on campaign provisions of the Political Reform Act regarding the Benicia Police Facility/Civic Center Improvement Project to a non-authorized representative?\n\nCONCLUSION: Unless you are an authorized representative of the Benicia Police Facility/Civic Center Improvement Project, for whom you seek guidance, the Fair Political Practices Commission cannot address your questions or provide analysis. However, if you believe a violation of the Political Reform Act has occurred, you have the option of filing a complaint with our Enforcement Division.",
+    "qa_source": "mixed",
+    "first_500_words": "Farn PoLrrrcAL PnacrrcEs CouMrssroN 428 J Street. Suite 620 . Sacramento, CA 95814-2329 (916) 322-5660. Fax (916) 322-0886 Jlurlre 24,2003 L.D. \"Pete\" Ross 2431 Spings Road Vallejo, CA94591-5610 Re: Your Request for Advice Our File No. W-03-132 Dear Mr. Ross: This letter is in response to your request for written advice on the campaign provisions of the Political Reform Act.' Under California Code of Regulations 18329(b)(SXB), copy enclosed, unless you are an aathoized representative of the Benicia Police Factlity/Civic Center Improvement Project, for whom you seek guidance, the Fair Political Practices Commission cannot address your questions or provide analysis. However, if you believe a violation of the Political Reform Act has occurred, you have the option of filing a complaint with our Enforcement Division. I have enclosed a fact sheet explaining the complaint process procedure. Also enclosed for your review is our campaign manual on independent expenditure committees. Should you have additional questions regarding this matter, please do not hesitate to contact me at (916) 322-5660. Sincerely Luisa Menchaca W. Wallace General Counsel Jwwjg Enclosures l. Government Code sections 81000-91014. Commission regulations appear at Title 2, sections 18109- 18997, of the California Code ofRegulations.",
+    "summary": "The FPPC declines to provide written advice on campaign provisions to L.D. 'Pete' Ross regarding the Benicia Police Facility/Civic Center Improvement Project, citing lack of authorization as a representative of that entity, but offers the option to file a complaint if a violation is suspected."
+  }
+}

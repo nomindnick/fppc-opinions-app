@@ -1,0 +1,72 @@
+{
+  "id": "79-205",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-205.PDF",
+  "pdf_sha256": "ebac0f406fe8a58201df1a10fe8e2d13ea88e00ba0d1148260d9a99513586a0b",
+  "local_pdf_path": "raw_pdfs/1979/79-205.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1979 Advice Letter # 79-205",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:25:24",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T00:54:11.688753Z",
+    "page_count": 1,
+    "word_count": 61,
+    "char_count": 393,
+    "quality_score": 0.7317545346719193,
+    "olmocr_cost": 0.00241574,
+    "native_word_count": 92,
+    "haiku_cost": 0.001648
+  },
+  "content": {
+    "full_text": "Travel Costs                                86109\n\nEven if an employee does not spend\n10% of his time attempting to influence,\nany travel costs made in connection with\nattempting to influence must be reported.\nHowever, the time spent traveling need\nnot be counted for the purposes of\ndetermining whether a person is a\nlobbyist or whether reports must be filed\nwith respect to 86108(b).\n\n\n\n\n171",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "Even if an employee does not spend 10% of his time attempting to influence, any travel costs made in connection with attempting to influence must be reported. However, the time spent traveling need not be counted for the purposes of determining whether a person is a lobbyist or whether reports must be filed with respect to 86108(b).",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether travel costs incurred in connection with attempting to influence must be reported, and whether time spent traveling counts toward the 10% threshold for determining lobbyist status.",
+    "conclusion_synthetic": "Travel costs related to influencing activities must be reported regardless of whether the 10% time threshold is met, but travel time itself does not count toward the 10% threshold for determining lobbyist status or reporting requirements.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document contains only a brief advisory statement without traditional QUESTION and CONCLUSION section headers. The provided text appears to be the substantive FPPC advice/conclusion regarding travel costs and lobbyist thresholds. Limited context available for full assessment."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T16:40:01.416670Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether travel costs incurred in connection with attempting to influence must be reported, and whether time spent traveling counts toward the 10% threshold for determining lobbyist status.\n\nCONCLUSION: Even if an employee does not spend 10% of his time attempting to influence, any travel costs made in connection with attempting to influence must be reported. However, the time spent traveling need not be counted for the purposes of determining whether a person is a lobbyist or whether reports must be filed with respect to 86108(b).",
+    "qa_source": "mixed",
+    "first_500_words": "Travel Costs Even if an employee does not spend 10% of his time attempting to influence, any travel costs made in connection with attempting to influence must be reported. However, the time spent traveling need not be counted for the purposes of determining whether a person is a lobbyist or whether reports must be filed with respect to 86108(b).",
+    "summary": "FPPC guidance on travel cost reporting and time thresholds for lobbying activities. Travel costs must be reported if connected to influencing, but travel time does not count toward the 10% lobbyist determination threshold."
+  }
+}

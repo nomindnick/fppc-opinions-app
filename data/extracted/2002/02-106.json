@@ -1,0 +1,72 @@
+{
+  "id": "02-106",
+  "year": 2002,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2002/02-106.pdf",
+  "pdf_sha256": "1255220c33250638af03a9bd99f7ee4b8db16c8cb6e1377823b91fcf0499ac59",
+  "local_pdf_path": "raw_pdfs/2002/02-106.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2002 Advice Letter # 02-106",
+    "tags": [
+      "Advice Letter",
+      "2002"
+    ],
+    "scraped_at": "2026-01-31 14:35:26",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2002&tagCount=1&page=6"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T03:29:13.177814Z",
+    "page_count": 1,
+    "word_count": 104,
+    "char_count": 677,
+    "quality_score": 0.8343415058895409,
+    "olmocr_cost": 0.00243036,
+    "native_word_count": 104,
+    "haiku_cost": 0.002184
+  },
+  "content": {
+    "full_text": "FAIR POLITICAL PRACTICES COMMISSION\nP.O. Box 807 • 428 J Street • Sacramento, CA 95812-0807\n(916) 322-5660 • Fax (916) 322-0886\n\n\nJuly 3, 2002\n\n\nDavid B. De Luz\nCalifornia State University, Sacramento\n6000 J Street\nSacramento, CA 95819-6081\n\nRe: Your Request for Advice\nOur File No. W-02-106\n\nDear Mr. De Luz:\n\nPursuant to your conversation with John W. Wallace, Assistant General Counsel, on July 2, 2002, this letter confirms the withdrawal of your request for advice.\n\nPlease contact the Commission at (916) 322-5660 should you have any additional questions or comments.\n\nSincerely,\n\nLuisa Menchaca\nGeneral Counsel\n\nBy: [signature]\nGalena West\nCounsel, Legal Division\n\nGW:jg",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T22:16:22.522105Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "The letter is from the Fair Political Practices Commission to David B. De Luz, regarding his request for advice. The Commission confirms the withdrawal of Mr. De Luz's request for advice and advises him to contact them at (916) 322-5660 if he has any additional questions or comments. The letter is signed by Luisa Menchaca, General Counsel, and Galena West, Counsel, Legal Division.",
+    "qa_source": "extracted",
+    "first_500_words": "The letter is from the Fair Political Practices Commission to David B. De Luz, regarding his request for advice. The Commission confirms the withdrawal of Mr. De Luz's request for advice and advises him to contact them at (916) 322-5660 if he has any additional questions or comments. The letter is signed by Luisa Menchaca, General Counsel, and Galena West, Counsel, Legal Division.",
+    "summary": null
+  }
+}

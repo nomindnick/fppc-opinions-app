@@ -1,0 +1,78 @@
+{
+  "id": "84311-a",
+  "year": 1984,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1984/fppc-advice/84311-a.PDF",
+  "pdf_sha256": "608de5ac78eea08cee017f7083fbc90b26fbf3b57a28e4d1a943af9ae6c990d2",
+  "local_pdf_path": "raw_pdfs/1984/84311-a.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1984311 Advice Letter # 84311-a",
+    "tags": [
+      "1984",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:33:44",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1984&tagCount=1&page=4"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:45.115307Z",
+    "page_count": 3,
+    "word_count": 355,
+    "char_count": 2306,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 355
+  },
+  "content": {
+    "full_text": "State of California \nMemorandum \nTo \n: Advice Request Meeting Participants \nDote \nSept. 4, 1984 \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nCarla Wardlow \nSubject: Section 86205 (a) --Loan to Legislator \nA lobbyist is selling his residence in Sacramento and \na legislator wants to purchase it. \nMay the lobbyist \ntake back a note on the sale? Section 86205(a) prohibits \na lobbyist from doing anything with the purpose of placing \nany elected state officer, etc., under personal obliga-\ntion to him or to his employer. \nIn the Reinhardt opinion (3 FPPC Ops. 83, No. 76-091), \nthe Commission said that an arrangement between a lobbying \nfirm and a state candidate to provide management or \nconsultant services in exchange for full and adequate \nconsideration \"is not the type of arrangement at which \nthe Section is directed. \nThe arrangement does not involve \nan attempt by the firm or its employees to pervert the \nnormal legislative or administrative processes by means \nof some illegitimate activity .•.. \" \n\n\nState of California \nMemorandum \nTo \nAdvice File: \nSections 82036, 84206 \nDate \nNovember 7, 1984 \nNo • .r-1-84-312 \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nCarla Wardlow \nSubject: \nLoan Forgiveness During Late Contribution Period \nSenator Garamendi received a loan during 1982 which was for-\ngiven during the 1984 general election late contribution \nperiod. \nMust the forgiveness be reported as a \"late contribu-\ntion?\" \nPer Barbara, the forgiveness would not trigger a late contri-\nbution report. \nHowever, this advice might be different if \na payment due during the late contribution period were \nforgiven. \n\n\nState of California \nMemorandum \nTo \nAdvice File: \nSection 82028 \n82045 \n18623 \n18728 \nDote \nNov. 7, 1984 \nNo. M-84-313 \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nCarla Wardlow \nSubject: \nReporting Air Transportation Received in Connection \nwith Speaking Engagements \nAn official who receives free intrastate transportation in \nconnection with an event at which he or she speaks, partici-\npates in a panel, etc., has not received a gift so long as \nthe transportation is provided by or arranged by the sponsor \nof the event. \nIf the official is required to provide his or \nher own transportation and arranges for a free ride from some \nother source, a gift has been received. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1984-11-07",
+    "date_raw": "November 7, 1984",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "This document contains three separate FPPC advice memoranda addressing: (1) whether a lobbyist may take back a promissory note when selling residential property to a legislator under Section 86205(a); (2) whether loan forgiveness during a late contribution period must be reported as a late contribution under Sections 82036 and 84206; and (3) whether free intrastate transportation provided in connection with speaking engagements constitutes a reportable gift under Sections 82028, 82045, 18623, and 18728.",
+    "conclusion_synthetic": "The FPPC concludes that: (1) a lobbyist taking back a note on a residence sale to a legislator may not violate Section 86205(a) if it represents a normal commercial transaction without intent to place the officer under personal obligation; (2) loan forgiveness occurring during a late contribution period would not automatically trigger a late contribution report, though the analysis differs if a payment due during that period were forgiven; and (3) free intrastate transportation provided by or arranged by an event sponsor is not a reportable gift, but transportation arranged independently by the official from other sources constitutes a gift requiring reporting.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document contains three separate memoranda without traditional Q/A section headers; questions and conclusions were synthesized from the subject lines and body text; first memorandum references prior opinion (Reinhardt) rather than providing explicit FPPC conclusion; second and third memoranda provide clear advisory conclusions; extracted three distinct legal questions and corresponding FPPC positions"
+  },
+  "citations": {
+    "government_code": [
+      "82028",
+      "82036",
+      "86205(a)"
+    ],
+    "regulations": [],
+    "prior_opinions": [
+      "I-84-312",
+      "M-84-313"
+    ],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.6666666666666666,
+    "classified_at": "2026-02-06T18:36:45.115307Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: This document contains three separate FPPC advice memoranda addressing: (1) whether a lobbyist may take back a promissory note when selling residential property to a legislator under Section 86205(a); (2) whether loan forgiveness during a late contribution period must be reported as a late contribution under Sections 82036 and 84206; and (3) whether free intrastate transportation provided in connection with speaking engagements constitutes a reportable gift under Sections 82028, 82045, 18623, and 18728.\n\nCONCLUSION: The FPPC concludes that: (1) a lobbyist taking back a note on a residence sale to a legislator may not violate Section 86205(a) if it represents a normal commercial transaction without intent to place the officer under personal obligation; (2) loan forgiveness occurring during a late contribution period would not automatically trigger a late contribution report, though the analysis differs if a payment due during that period were forgiven; and (3) free intrastate transportation provided by or arranged by an event sponsor is not a reportable gift, but transportation arranged independently by the official from other sources constitutes a gift requiring reporting.",
+    "qa_source": "synthetic",
+    "first_500_words": "State of California Memorandum To : Advice Request Meeting Participants Dote Sept. 4, 1984 From FAIR POLITICAL PRACTICES COMMISSION Carla Wardlow Subject: Section 86205 (a) --Loan to Legislator A lobbyist is selling his residence in Sacramento and a legislator wants to purchase it. May the lobbyist take back a note on the sale? Section 86205(a) prohibits a lobbyist from doing anything with the purpose of placing any elected state officer, etc., under personal obliga- tion to him or to his employer. In the Reinhardt opinion (3 FPPC Ops. 83, No. 76-091), the Commission said that an arrangement between a lobbying firm and a state candidate to provide management or consultant services in exchange for full and adequate consideration \"is not the type of arrangement at which the Section is directed. The arrangement does not involve an attempt by the firm or its employees to pervert the normal legislative or administrative processes by means of some illegitimate activity .•.. \" State of California Memorandum To Advice File: Sections 82036, 84206 Date November 7, 1984 No • .r-1-84-312 From FAIR POLITICAL PRACTICES COMMISSION Carla Wardlow Subject: Loan Forgiveness During Late Contribution Period Senator Garamendi received a loan during 1982 which was for- given during the 1984 general election late contribution period. Must the forgiveness be reported as a \"late contribu- tion?\" Per Barbara, the forgiveness would not trigger a late contri- bution report. However, this advice might be different if a payment due during the late contribution period were forgiven. State of California Memorandum To Advice File: Section 82028 82045 18623 18728 Dote Nov. 7, 1984 No. M-84-313 From FAIR POLITICAL PRACTICES COMMISSION Carla Wardlow Subject: Reporting Air Transportation Received in Connection with Speaking Engagements An official who receives free intrastate transportation in connection with an event at which he or she speaks, partici- pates in a panel, etc., has not received a gift so long as the transportation is provided by or arranged by the sponsor of the event. If the official is required to provide his or her own transportation and arranges for a free ride from some other source, a gift has been received.",
+    "summary": "Three FPPC advice memoranda from 1984 addressing lobbying regulations, campaign finance reporting requirements for loan forgiveness, and gift reporting standards for transportation provided in connection with official speaking engagements."
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "77ADV-77-418",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-418.PDF",
+  "pdf_sha256": "36dc4446a2d88854ac1c06a74d082f7387dd1ec0da95c42503c1534822f878b9",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-418.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-418",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:21:48",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=39"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-07T17:11:26.252350Z",
+    "page_count": 1,
+    "word_count": 173,
+    "char_count": 1135,
+    "quality_score": 0.7175,
+    "olmocr_cost": 0.0025670999999999997,
+    "native_word_count": 130
+  },
+  "content": {
+    "full_text": "January 17, 1977\n\nKarl A. Cozad  \nYuba County Clerk and Recorder  \nCourthouse  \nMarysville, CA 95901\n\nDear Mr. Cozad:\n\nThank you for your letter of January 7, 1977, in which you inquire about the appropriate steps to take when you suspect that there has been a failure to disclose required information on a Statement of Economic Interests filed with your office.\n\nGovernment Code Section 81010(d) states that a filing officer shall \"report apparent violations of [the Political Reform Act] to the appropriate agencies ....\" Accordingly, if you believe that the individuals mentioned in your letter have failed to properly complete their Statements of Economic Interests, or have failed to disqualify themselves from participating in governmental decisions in which they had a financial interest, you should contact the District Attorney since he is given enforcement authority for such violations. See Government Code Section 91001.\n\nThank you for your interest in the Political Reform Act. If you have any further questions, please do not hesitate to contact me.\n\nSincerely,\n\n[signature]\nKenneth Finney  \nChief  \nLegal Division\n\nKF:jo",
+    "full_text_markdown": "January 17, 1977\n\nKarl A. Cozad  \nYuba County Clerk and Recorder  \nCourthouse  \nMarysville, CA 95901\n\nDear Mr. Cozad:\n\nThank you for your letter of January 7, 1977, in which you inquire about the appropriate steps to take when you suspect that there has been a failure to disclose required information on a Statement of Economic Interests filed with your office.\n\nGovernment Code Section 81010(d) states that a filing officer shall \"report apparent violations of [the Political Reform Act] to the appropriate agencies ....\" Accordingly, if you believe that the individuals mentioned in your letter have failed to properly complete their Statements of Economic Interests, or have failed to disqualify themselves from participating in governmental decisions in which they had a financial interest, you should contact the District Attorney since he is given enforcement authority for such violations. See Government Code Section 91001.\n\nThank you for your interest in the Political Reform Act. If you have any further questions, please do not hesitate to contact me.\n\nSincerely,\n\n[signature]\nKenneth Finney  \nChief  \nLegal Division\n\nKF:jo"
+  },
+  "parsed": {
+    "date": "1977-01-17",
+    "date_raw": "January 17, 1977",
+    "requestor_name": "Cozad",
+    "requestor_title": "District Attorney",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "What steps should a county clerk take when they suspect that individuals have failed to disclose required information on Statements of Economic Interests or failed to disqualify themselves from decisions involving financial conflicts?",
+    "conclusion_synthetic": "Filing officers must report apparent violations of the Political Reform Act to appropriate agencies, specifically the District Attorney who has enforcement authority under Government Code Section 91001.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Standard advice letter format without explicit QUESTION/CONCLUSION headers. Content is clearly structured as a response to an incoming inquiry. Letter references specific Government Code sections and provides direct enforcement guidance."
+  },
+  "citations": {
+    "government_code": [
+      "81010(d)",
+      "91001"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-07T17:11:26.252350Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: What steps should a county clerk take when they suspect that individuals have failed to disclose required information on Statements of Economic Interests or failed to disqualify themselves from decisions involving financial conflicts?\n\nCONCLUSION: Filing officers must report apparent violations of the Political Reform Act to appropriate agencies, specifically the District Attorney who has enforcement authority under Government Code Section 91001.",
+    "qa_source": "synthetic",
+    "first_500_words": "January 17, 1977 Karl A. Cozad Yuba County Clerk and Recorder Courthouse Marysville, CA 95901 Dear Mr. Cozad: Thank you for your letter of January 7, 1977, in which you inquire about the appropriate steps to take when you suspect that there has been a failure to disclose required information on a Statement of Economic Interests filed with your office. Government Code Section 81010(d) states that a filing officer shall \"report apparent violations of [the Political Reform Act] to the appropriate agencies ....\" Accordingly, if you believe that the individuals mentioned in your letter have failed to properly complete their Statements of Economic Interests, or have failed to disqualify themselves from participating in governmental decisions in which they had a financial interest, you should contact the District Attorney since he is given enforcement authority for such violations. See Government Code Section 91001. Thank you for your interest in the Political Reform Act. If you have any further questions, please do not hesitate to contact me. Sincerely, [signature] Kenneth Finney Chief Legal Division KF:jo",
+    "summary": "The FPPC advises a Yuba County Clerk that suspected failures to properly complete Statements of Economic Interests or disqualifications should be reported to the District Attorney, as required by Government Code Section 81010(d)."
+  }
+}

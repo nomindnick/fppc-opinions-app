@@ -1,0 +1,77 @@
+{
+  "id": "80A079",
+  "year": 1980,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1980/80A079.PDF",
+  "pdf_sha256": "e93c3e8eb34f67b5d508a8407addb310942f2e3b17c91b4424336ecc96a00fac",
+  "local_pdf_path": "raw_pdfs/1980/80A079.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1980 Advice Letter # 80A079",
+    "tags": [
+      "1980",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:27:58",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1980&tagCount=1&page=15"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T16:17:42.430476Z",
+    "page_count": 2,
+    "word_count": 529,
+    "char_count": 3704,
+    "quality_score": 0.9687946430212221,
+    "olmocr_cost": 0.00525374,
+    "native_word_count": 152,
+    "haiku_cost": 0.006132
+  },
+  "content": {
+    "full_text": "State of California\nFair Political Practices Commission\n\nP.O. BOX 807 • SACRAMENTO, 95804 • • • 1100 K STREET BUILDING, SACRAMENTO, 95814\n\nTechnical Assistance • • • Administration • • • Executive/Legal • • • Enforcement • • • Conflict of Interest\n(916) 322-5662        322-5660         322-5901         322-5441        322-6444\n\nJanuary 22, 1980\n\n\nPreston W. Hill\nTown Attorney\nP.O. Box 949\nLos Gatos, CA  95030\n\nDear Mr. Hill:\n\n     This is to confirm advice given to you by telephone\nby John Giansello concerning the responsibilities of\nMr. Peter Siemens under the Political Reform Act, Government\nCode Sections 81000, et seq.1/  The following advice is pro-\nvided pursuant to Section 83114(b).  The facts as I understand\nthem are as follows.\n\n     Mr. Siemens is a member of the Los Gatos City Council,\nwhich has before it a proposal to enact a rent control ordi-\nnance.  He owns residential real property which consists of\nthe home in which he lives and, on the same lot, a small\ndwelling which he rents out for $220 per month.  You have\nasked whether Mr. Siemens can participate in the City Council's\nconsideration of the ordinance.\n\n     Section 87100 of the Political Reform Act prohibits\npublic officials from participating in decisions in which they\nhave a financial interest.  Section 87103 provides that an\nofficial has a financial interest in a decision if it is\nreasonably foreseeable that the decision will have \"a material\nfinancial effect, distinguishable from its effect on the\npublic generally\" on various kinds of interests held by the\nofficial, including interests in real property worth more\nthan $1,000.  By regulation, the Commission has determined\n\n\n_____________________________________________________________\n1/  All statutory references are to the Government Code unless\notherwise stated.\n\nMr. Preston W. Hill                                    Page Two\nJanuary 22, 1980\n\n\nthat:\n\n     A material financial effect of a governmental\n     decision on an official's interests . . . is\n     distinguishable from its effect on the public\n     generally unless the decision will effect the\n     official's interest in substantially the same\n     manner as it will affect all members of the\n     public or a significant segment of the public. . . .\n\n                    2 Cal. Adm. Code Section 18703\n\n     The Commission has already issued a formal opinion inter-\npreting this provision in the context of rent control ordinances\nand has reached the following conclusion:\n\n     . . . In order to be considered a significant\n     segment of the public, we think a group usually\n     must be large in numbers and heterogeneous in\n     quality. The class of persons owning three or\n     fewer units meets both these standards and\n     therefore constitutes a significant segment\n     of the general public . . . .\n\n                    Opinion requested by\n                    John Ferraro, 4 FPPC Opinions 62, 67\n                    (No. 78-009, Nov. 7, 1978)\n\n     As Mr. Siemens owns fewer than three rental units, the\nordinance under consideration by the Los Gatos City Council\nwill affect his interests in substantially the same manner\nas it will affect a significant segment of the public. He\ntherefore does not have to disqualify himself from consideration\nof this ordinance.\n\n     I have enclosed a copy of the Ferraro opinion. If you\nhave any further questions, please do not hesitate to call me.\n\n                                        Sincerely,\n\n                                        [signature]\n\n                                        Thomas M. Sobel\n                                        Chief\n                                        Legal Division\n\nTMS:nrw\nEnclosure",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1980-01-22",
+    "date_raw": "January 22, 1980",
+    "requestor_name": "Hill",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "opinion"
+  },
+  "sections": {
+    "question": "Whether Mr. Siemens can participate in the City Council's consideration of the ordinance given that he owns residential real property including a small dwelling which he rents out for $220 per month, in light of the City Council's proposal to enact a rent control ordinance.",
+    "conclusion": "As Mr. Siemens owns fewer than three rental units, the ordinance under consideration by the Los Gatos City Council will affect his interests in substantially the same manner as it will affect a significant segment of the public. He therefore does not have to disqualify himself from consideration of this ordinance.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Can a city council member who owns a small rental property (one unit renting for $220/month) participate in voting on a rent control ordinance, or must he disqualify himself due to financial interest?",
+    "conclusion_synthetic": "The council member does not have a disqualifying financial interest and may participate in the rent control ordinance vote, as owners of three or fewer rental units constitute a significant segment of the public and are affected similarly to the general public.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is a formal advice letter confirming prior telephone advice. The question and conclusion are clearly present but embedded in letter format rather than in formal sections. The legal analysis extensively references Government Code Section 87100, 87103 and prior FPPC Opinion No. 78-009 (Ferraro)."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "83114(b)",
+      "87100",
+      "87103"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-07T16:39:55.992374Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether Mr. Siemens can participate in the City Council's consideration of the ordinance given that he owns residential real property including a small dwelling which he rents out for $220 per month, in light of the City Council's proposal to enact a rent control ordinance.\n\nCONCLUSION: As Mr. Siemens owns fewer than three rental units, the ordinance under consideration by the Los Gatos City Council will affect his interests in substantially the same manner as it will affect a significant segment of the public. He therefore does not have to disqualify himself from consideration of this ordinance.",
+    "qa_source": "mixed",
+    "first_500_words": "January 22, 1980 Preston W. Hill Town Attorney P.O. Box 949 Los Gatos, CA 95030 Dear Mr. Hill: This is to confirm advice given to you by telephone by John Giansello concerning the responsibilities of Mr. Peter Siemens under the Political Reform Act, Government Code Sections 81000, et seq.1/ The following advice is provided pursuant to Section 83114(b). The facts as I understand them are as follows. Mr. Siemens is a member of the Los Gatos City Council, which has before it a proposal to enact a rent control ordinance. He owns residential real property which consists of the home in which he lives and, on the same lot, a small dwelling which he rents out for $220 per month. You have asked whether Mr. Siemens can participate in the City Council's consideration of the ordinance. Section 87100 of the Political Reform Act prohibits public officials from participating in decisions in which they have a financial interest. Section 87103 provides that an official has a financial interest in a decision if it is reasonably foreseeable that the decision will have \"a material financial effect, distinguishable from its effect on the public generally\" on various kinds of interests held by the official, including interests in real property worth more than $1,000. By regulation, the Commission has determined 1/ All statutory references are to the Government Code unless otherwise stated. Mr. Preston W. Hill January 22, 1980 that: A material financial effect of a governmental decision on an official's interests . . . is distinguishable from its effect on the public generally unless the decision will effect the official's interest in substantially the same manner as it will affect all members of the public or a significant segment of the public. . . . 2 Cal. Adm. Code Section 18703 The Commission has already issued a formal opinion interpreting this provision in the context of rent control ordinances and has reached the following conclusion: . . . In order to be considered a significant segment of the public, we think a group usually must be large in numbers and heterogeneous in quality. The class of persons owning three or fewer units meets both these standards and therefore constitutes a significant segment of the general public . . . . Opinion requested by John Ferraro, 4 FPPC Opinions 62, 67 (No. 78-009, Nov. 7, 1978) As Mr. Siemens owns fewer than three rental units, the ordinance under consideration by the Los Gatos City Council will affect his interests in substantially the same manner as it will affect a significant segment of the public. He therefore does not have to disqualify himself from consideration of this ordinance. I have enclosed a copy of the Ferraro opinion. If you have any further questions, please do not hesitate to call me. Sincerely, Thomas M. Sobel Chief Legal Division",
+    "summary": "FPPC advises that a Los Gatos City Council member who owns one small rental property ($220/month) need not disqualify himself from voting on a proposed rent control ordinance, because small landlords (three or fewer units) are a significant segment of the public affected similarly to others."
+  }
+}

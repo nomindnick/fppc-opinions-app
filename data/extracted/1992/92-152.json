@@ -1,0 +1,76 @@
+{
+  "id": "92-152",
+  "year": 1992,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1992/92-152.pdf",
+  "pdf_sha256": "902721069aca1df7ff4de764548f2dcb3db979160ee500f119dca01978a4f0d5",
+  "local_pdf_path": "raw_pdfs/1992/92-152.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 1992 Advice Letter # 92-152",
+    "tags": [
+      "Advice Letter",
+      "1992"
+    ],
+    "scraped_at": "2026-01-31 16:23:30",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1992&tagCount=1&page=10"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:12.182066Z",
+    "page_count": 1,
+    "word_count": 251,
+    "char_count": 1570,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 251
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\nMarch 19,\n1992\nErnest A.\nScott\n11218 Crippen Avenue,\n#4\nAdelanto,\nCA\n92301\nRe:\nYour Request for Informal Assistance\nOur File No.\nG-92—152\nDear Mr.\nScott:\nThis is in response to your letter requesting assistance with\nrespect to the duties of Adelanto Mayor Ed Dondelinger concerning\nhis responsibilities under the provisions of the Political Reform\nAct\n(the “Act”) 1\nThe Act requires the Commission to provide formal written\nadvice to any person whose duties under the Act are in question or\nto that person’s authorized representative.\n(Section 83114(b).)\nThe Commission does not provide advice to third parties concerning\nanother person’s duties under the Act.\n(Regulation 18329(b) (8).)\nIt does not appear that you have the authorization of the mayor to\nrequest advice from the Commission at this time.\nConsequently,\nwe\nare unable to provide advice on the issues you raised in your\nletter.\nHowever,\nwe have enclosed a copy of the Political Reform Act\nfor your information,\nand\na complaint form should you desire to\nfile a complaint with the Enforcement Division of the Commission.\nIf you have any further questions regarding this matter,\nplease feel free to contact me at\n(916)\n322—5901.\nSincerely,\nScott Hallabrin\nActing General Counsel\nL) C L_t* c’-—-—\nBy\nYhn w.\nWallace\n7’\nCunsel,\nLegal Division\nSH: J: aa\nEnclosures\n1\nGovernment Code Sections 81000-91015.\nAll statutory references\nare to the Government Code unless otherwise indicated.\n428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804-0807 •\n(916)322-5660\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1992-03-19",
+    "date_raw": "March 19,\n1992",
+    "requestor_name": "Scott",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "It does not appear that you have the authorization of the mayor to request advice from the Commission at this time. Consequently, we are unable to provide advice on the issues you raised in your letter.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "What are the duties of Adelanto Mayor Ed Dondelinger under the Political Reform Act?",
+    "conclusion_synthetic": "The FPPC declined to provide advice because the requestor (a third party) lacked authorization from the mayor to seek advice on his behalf. The Act only permits the Commission to provide formal written advice to the person whose duties are in question or their authorized representative.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is a declination letter with no formal Q/A sections. The key legal principle cited is Government Code Section 83114(b) and Regulation 18329(b)(8), which restrict FPPC advice to the subject person or their authorized representative."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "83114(b)"
+    ],
+    "regulations": [
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "gifts_honoraria",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:35:12.182066Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: What are the duties of Adelanto Mayor Ed Dondelinger under the Political Reform Act?\n\nCONCLUSION: It does not appear that you have the authorization of the mayor to request advice from the Commission at this time. Consequently, we are unable to provide advice on the issues you raised in your letter.",
+    "qa_source": "mixed",
+    "first_500_words": "California Fair Political Practices Commission March 19, 1992 Ernest A. Scott 11218 Crippen Avenue, #4 Adelanto, CA 92301 Re: Your Request for Informal Assistance Our File No. G-92—152 Dear Mr. Scott: This is in response to your letter requesting assistance with respect to the duties of Adelanto Mayor Ed Dondelinger concerning his responsibilities under the provisions of the Political Reform Act (the “Act”) 1 The Act requires the Commission to provide formal written advice to any person whose duties under the Act are in question or to that person’s authorized representative. (Section 83114(b).) The Commission does not provide advice to third parties concerning another person’s duties under the Act. (Regulation 18329(b) (8).) It does not appear that you have the authorization of the mayor to request advice from the Commission at this time. Consequently, we are unable to provide advice on the issues you raised in your letter. However, we have enclosed a copy of the Political Reform Act for your information, and a complaint form should you desire to file a complaint with the Enforcement Division of the Commission. If you have any further questions regarding this matter, please feel free to contact me at (916) 322—5901. Sincerely, Scott Hallabrin Acting General Counsel L) C L_t* c’-—-— By Yhn w. Wallace 7’ Cunsel, Legal Division SH: J: aa Enclosures 1 Government Code Sections 81000-91015. All statutory references are to the Government Code unless otherwise indicated. 428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804-0807 • (916)322-5660",
+    "summary": "The FPPC declined an informal advice request from Ernest Scott regarding Mayor Ed Dondelinger's duties under the Political Reform Act, because Scott was not authorized to request advice on the mayor's behalf. The Commission enclosed a copy of the Act and a complaint form for reference."
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "UNK-91-10451",
+  "year": 1991,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1991/91193.pdf",
+  "pdf_sha256": "b9c606e3ad18213150f3df9cd87d471ed2a1ae798ea06a644fbff09cf2d69844",
+  "local_pdf_path": "raw_pdfs/1991/91193.pdf",
+  "source_metadata": {
+    "title_raw": "1991-91193-Geiogue, Hal",
+    "tags": [
+      "1991",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:20:23",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1991&tagCount=1&page=63"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:28.695883Z",
+    "page_count": 1,
+    "word_count": 193,
+    "char_count": 1219,
+    "quality_score": 0.635,
+    "olmocr_cost": null,
+    "native_word_count": 193
+  },
+  "content": {
+    "full_text": "STATE OF CALIFORNIA\nKATHTEEN BROWN, Ireoture.\nOFFICE OF THE TREASURER\nSACRAMENTO\nlhn i,.\n,,1\nt,,1fi 'gl\nMarch 26, 19 91\nBlanca Breeze\nFair Political Practice Comrnissi.on,\n428 J Street\nSacramento, CA \n9 5814\nDear Blanca:\nthis is to request your advice about a question concerning\nmass rnaiLings by elected officials. \nI would appreciate your\nresponse in writing.\nAt specific issue here is a program established by the State\nTreasurer called the college Savings Bond Program. Under\nthis program, we are trying to get citizens to buy certain\nbonds which can be redeemed in the future to be used for\ncollege expenses.\nTo operate the progran, we must advertise it in order to\n\"so11cit\" inquires about the progran from potential\ninvestors. The advertisenents will only occur in general\ncircutation newspapers such as the Los Angeles Times. our\nassumption is that only subscribers wouLd receive the\nnewsplper, however, sorne copies may be given to schools\nand/or cther groups despite our intent.\nMy specific question is rrpursuant to the mass mailingf\nplovisions of the Political Reform Act, what, if any,\niestrictions would be placed on the content of these\nadvertisements?rr\nSincerely,\nbt&,\nHAL GEIOGUE\nAssistant Treasurer\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "Pursuant to the mass mailing provisions of the Political Reform Act, what, if any, restrictions would be placed on the content of these advertisements?",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "What restrictions, if any, does the Political Reform Act's mass mailing provisions place on advertisements for the State Treasurer's College Savings Bond Program?",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an incoming request letter to the FPPC, not an FPPC response. No conclusion or advice section is present. The question is clearly stated. Document appears to be from the Office of the Treasurer requesting guidance before the FPPC has responded."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:35:28.695883Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Pursuant to the mass mailing provisions of the Political Reform Act, what, if any, restrictions would be placed on the content of these advertisements?",
+    "qa_source": "mixed",
+    "first_500_words": "STATE OF CALIFORNIA KATHTEEN BROWN, Ireoture. OFFICE OF THE TREASURER SACRAMENTO lhn i,. ,,1 t,,1fi 'gl March 26, 19 91 Blanca Breeze Fair Political Practice Comrnissi.on, 428 J Street Sacramento, CA 9 5814 Dear Blanca: this is to request your advice about a question concerning mass rnaiLings by elected officials. I would appreciate your response in writing. At specific issue here is a program established by the State Treasurer called the college Savings Bond Program. Under this program, we are trying to get citizens to buy certain bonds which can be redeemed in the future to be used for college expenses. To operate the progran, we must advertise it in order to \"so11cit\" inquires about the progran from potential investors. The advertisenents will only occur in general circutation newspapers such as the Los Angeles Times. our assumption is that only subscribers wouLd receive the newsplper, however, sorne copies may be given to schools and/or cther groups despite our intent. My specific question is rrpursuant to the mass mailingf plovisions of the Political Reform Act, what, if any, iestrictions would be placed on the content of these advertisements?rr Sincerely, bt&, HAL GEIOGUE Assistant Treasurer",
+    "summary": "Assistant Treasurer Hal Geiogue requests FPPC advice regarding mass mailing restrictions under the Political Reform Act as applied to advertisements for the State Treasurer's College Savings Bond Program to be published in general circulation newspapers."
+  }
+}

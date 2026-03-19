@@ -1,0 +1,76 @@
+{
+  "id": "UNK-91-10092",
+  "year": 1991,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1991/91-427.pdf",
+  "pdf_sha256": "913672e1d705263bc16658793d06486bbc99161b701847ace6480cd667062ac7",
+  "local_pdf_path": "raw_pdfs/1991/91-427.pdf",
+  "source_metadata": {
+    "title_raw": "91-427.pdf",
+    "tags": [
+      "1991",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:17:04",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1991&tagCount=1&page=19"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-27T00:35:26.393649Z",
+    "page_count": 1,
+    "word_count": 210,
+    "char_count": 1321,
+    "quality_score": 0.907568368544601,
+    "olmocr_cost": 0.00256194,
+    "native_word_count": 227,
+    "haiku_cost": 0.0028072
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\n\nOctober 31, 1991\n\nTracey S. Buck-Walsh\nDIEPENBROCK, WULFF, PLANT\n& HANNEGAN\n300 Capitol Mall, Suite 1700\nSacramento, California 95814\n\nRe: Your Request for Informal Advice\nOur File No. I-91-427\n\nDear Ms. Buck-Walsh:\n\nThis letter confirms our telephone conversations on August 30\nand September 4, 1991, wherein we discussed Government Code\nSection 84305 and mass mailing. I informed you that an\nofficeholder may use his or her state capitol address on a mailer.\nSection 84305 requires that a mass mailing must include the name,\nstreet address and city of the candidate or committee. Please\nnote that in the case of a controlled committee, Section 84305(c)\nrequires the name of the person controlling the committee in\naddition to the other requirements.\n\nI also informed you that Section 84305 only pertains to a\nmass mailing, as defined in Section 82041.5. Furthermore, there\nis neither a statute in the Political Reform Act nor a regulation\nwhich requires disclosure of a candidate or committee's name,\naddress and city if it is not a mass mailing.\n\nI trust this answers your question.\n\nSincerely,\n\nScott Hallabrin\nActing General Counsel\n\nBy: Jill Stecher\nCounsel, Legal Division\n\nSH:JS:aa\n\n428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804-0807 • (916) 322-5660",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1991-10-31",
+    "date_raw": "October 31, 1991",
+    "requestor_name": null,
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [
+      "82041",
+      "84305",
+      "84305(c)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.6666666666666666,
+    "classified_at": "2026-02-20T13:57:42.935254Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "This letter is from the California Fair Political Practices Commission, dated October 31, 1991. It is addressed to Tracey S. Buck-Walsh at DIEPENBROCK, WULFF, PLANT & HANNEGAN, located at 300 Capitol Mall, Suite 1700, Sacramento, California 95814. The letter responds to Ms. Buck-Walsh's request for informal advice regarding Government Code Section 84305 and mass mailing. The Commission confirms that an officeholder may use his or her state capitol address on a mailer. Section 84305 requires that a mass mailing must include the name, street address, and city of the candidate or committee. Additionally, in the case of a controlled committee, Section 84305(c) requires the name of the person controlling the committee in addition to the other requirements. The letter also states that Section 84305 only pertains to a mass mailing, as defined in Section 82041.5. There is neither a statute in the Political Reform Act nor a regulation which requires disclosure of a candidate or committee's name, address, and city if it is not a mass mailing. The letter concludes with the statement: \"I trust this answers your question.\" Sincerely, Scott Hallabrin Acting General Counsel By: Jill Stecher Counsel, Legal Division",
+    "qa_source": "extracted",
+    "first_500_words": "This letter is from the California Fair Political Practices Commission, dated October 31, 1991. It is addressed to Tracey S. Buck-Walsh at DIEPENBROCK, WULFF, PLANT & HANNEGAN, located at 300 Capitol Mall, Suite 1700, Sacramento, California 95814. The letter responds to Ms. Buck-Walsh's request for informal advice regarding Government Code Section 84305 and mass mailing. The Commission confirms that an officeholder may use his or her state capitol address on a mailer. Section 84305 requires that a mass mailing must include the name, street address, and city of the candidate or committee. Additionally, in the case of a controlled committee, Section 84305(c) requires the name of the person controlling the committee in addition to the other requirements. The letter also states that Section 84305 only pertains to a mass mailing, as defined in Section 82041.5. There is neither a statute in the Political Reform Act nor a regulation which requires disclosure of a candidate or committee's name, address, and city if it is not a mass mailing. The letter concludes with the statement: \"I trust this answers your question.\" Sincerely, Scott Hallabrin Acting General Counsel By: Jill Stecher Counsel, Legal Division",
+    "summary": null
+  }
+}

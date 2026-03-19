@@ -1,0 +1,73 @@
+{
+  "id": "85155",
+  "year": 1985,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1985/fppc-advice/85155.PDF",
+  "pdf_sha256": "e53be428295ae30a9cbbc9b7402453a8367524610c4ba88492c927dee9012b65",
+  "local_pdf_path": "raw_pdfs/1985/85155.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1985 Advice Letter # 85155",
+    "tags": [
+      "Advice Letter",
+      "1985"
+    ],
+    "scraped_at": "2026-01-31 15:35:46",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1985&tagCount=1&page=2"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:37.025922Z",
+    "page_count": 1,
+    "word_count": 237,
+    "char_count": 1518,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 237
+  },
+  "content": {
+    "full_text": "State of California \nMemorandum \nTo \nAlice \nDate \nJune 25, 1985 \nJeanne \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nSubject: SEI AMENDMENTS \nYou have asked \nproviding supplemental \n\"amendments\" to SEIls. \nby filers in reply to a \nthem of apparent errors \nwhether the following methods of \nSEI information are acceptable \nThese methods are frequently used \nletter from the FPPC notifyinq \nor omissions in their statements. \n(1) \nThe filer provides the information in a \ntelephone conversation. \nThis is not an acceptable method of amendinq \na statement. \nThe filer should be requested to provide the \ninformation on a \"supplemental\" schedule, which is signed \nand verified. \n(2) \nThe filer provides the required information in \na letter, rather than on a schedule. \nThe letter will be considered to be an acceptable \namendment as long as all required information is provided, \nand the letter is signed and dated. \n(3) \nThe filer provides the information on a schedule \ntaken from the 721 or 730 Form (which does not include a \nverification) • \nThe schedule will constitute an amendment only \nif accompanied by a cover letter signed and dated by the filer. \nlUI of the above applies only to \"additional information\" \nwhich completes the reporting requirements for an item already \nreported on a statement. \nThe addition or deletion of an investment, interest in \nreal property or income must be provided on a \"Supplemental\" \nschedule \\lv-hich is dated and verified by the filer. \ncc: \nRoger \nBarbara \nJeanette \nJudy C. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1985-06-25",
+    "date_raw": "June 25, 1985",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "whether the following methods of providing supplemental SEI information are acceptable amendments to SEI's. These methods are frequently used by filers in reply to a letter from the FPPC notifying them of apparent errors or omissions in their statements. (1) The filer provides the information in a telephone conversation. (2) The filer provides the required information in a letter, rather than on a schedule. (3) The filer provides the information on a schedule taken from the 721 or 730 Form (which does not include a verification).",
+    "conclusion": "This is not an acceptable method of amending a statement. The filer should be requested to provide the information on a \"supplemental\" schedule, which is signed and verified. The letter will be considered to be an acceptable amendment as long as all required information is provided, and the letter is signed and dated. The schedule will constitute an amendment only if accompanied by a cover letter signed and dated by the filer. All of the above applies only to \"additional information\" which completes the reporting requirements for an item already reported on a statement. The addition or deletion of an investment, interest in real property or income must be provided on a \"Supplemental\" schedule which is dated and verified by the filer.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "What methods are acceptable for filers to provide supplemental SEI information or amendments to correct errors or omissions, including telephone conversations, letters, and forms without verification?",
+    "conclusion_synthetic": "Telephone conversations are not acceptable amendment methods. Letters and forms may constitute acceptable amendments if properly signed and dated, but addition or deletion of investments, real property interests, or income requires a signed and verified supplemental schedule.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is a memorandum-style advice letter without traditional QUESTION/CONCLUSION section headers. The question is embedded in the opening paragraph and conclusions are provided for each numbered method. Organized by method rather than traditional Q&C format."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [
+      "90-460"
+    ],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:36:37.025922Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: whether the following methods of providing supplemental SEI information are acceptable amendments to SEI's. These methods are frequently used by filers in reply to a letter from the FPPC notifying them of apparent errors or omissions in their statements. (1) The filer provides the information in a telephone conversation. (2) The filer provides the required information in a letter, rather than on a schedule. (3) The filer provides the information on a schedule taken from the 721 or 730 Form (which does not include a verification).\n\nCONCLUSION: This is not an acceptable method of amending a statement. The filer should be requested to provide the information on a \"supplemental\" schedule, which is signed and verified. The letter will be considered to be an acceptable amendment as long as all required information is provided, and the letter is signed and dated. The schedule will constitute an amendment only if accompanied by a cover letter signed and dated by the filer. All of the above applies only to \"additional information\" which completes the reporting requirements for an item already reported on a statement. The addition or deletion of an investment, interest in real property or income must be provided on a \"Supplemental\" schedule which is dated and verified by the filer.",
+    "qa_source": "mixed",
+    "first_500_words": "State of California Memorandum To Alice Date June 25, 1985 Jeanne From FAIR POLITICAL PRACTICES COMMISSION Subject: SEI AMENDMENTS You have asked providing supplemental \"amendments\" to SEIls. by filers in reply to a them of apparent errors whether the following methods of SEI information are acceptable These methods are frequently used letter from the FPPC notifyinq or omissions in their statements. (1) The filer provides the information in a telephone conversation. This is not an acceptable method of amendinq a statement. The filer should be requested to provide the information on a \"supplemental\" schedule, which is signed and verified. (2) The filer provides the required information in a letter, rather than on a schedule. The letter will be considered to be an acceptable amendment as long as all required information is provided, and the letter is signed and dated. (3) The filer provides the information on a schedule taken from the 721 or 730 Form (which does not include a verification) • The schedule will constitute an amendment only if accompanied by a cover letter signed and dated by the filer. lUI of the above applies only to \"additional information\" which completes the reporting requirements for an item already reported on a statement. The addition or deletion of an investment, interest in real property or income must be provided on a \"Supplemental\" schedule \\lv-hich is dated and verified by the filer. cc: Roger Barbara Jeanette Judy C.",
+    "summary": "The FPPC provides guidance on acceptable methods for filers to amend SEI statements in response to FPPC notification of errors or omissions. Three proposed amendment methods are addressed, with specific requirements for verification and documentation depending on the type of information being amended."
+  }
+}

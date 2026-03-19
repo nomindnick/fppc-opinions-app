@@ -1,0 +1,73 @@
+{
+  "id": "04-246",
+  "year": 2004,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2004/04-246.pdf",
+  "pdf_sha256": "8fe257137081e8bce8ae10d923e50ca04b820d7b62182aaf60e97e27cfc28fd8",
+  "local_pdf_path": "raw_pdfs/2004/04-246.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2004 Advice Letter # 04-246",
+    "tags": [
+      "2004",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:41:24",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2004&tagCount=1&page=19"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:17.839897Z",
+    "page_count": 1,
+    "word_count": 170,
+    "char_count": 1088,
+    "quality_score": 0.635,
+    "olmocr_cost": null,
+    "native_word_count": 170
+  },
+  "content": {
+    "full_text": "Re\nFarn Polrrrcel PnecrrcEs CoupussroN\n428 J Street . Suite 620 o Sacramento, CA 95814-2329\n(916) 322-s660 . Fax (916) 322-0886\nJanuary 18,2005\nQuinn M. Barrow\nCity Attorney, South El Monte\nRichards, Watson and Gershon\n355 South Grand Avenue,40th Floor\nLos Angeles, CA 90071\nYour Request for Advice\nOur File No. W-04-246\nDear Mr. Barrow:\nThis letter confirms the receipt of your November 9,2A04, request for advice\nregarding a conflict of interest issue of Councilmember Allen Co. Under the provisions of\nCalifornia Code of Regulations 18329(bX8)(B), unless you are an authorized\nrepresentative of the council member for which you seek assistance, the Fair Political\nPractices Commission cannot address your questions or provide analysis. During a phone\nconversation with me, you indicated that you were not an authorized representative of\nthis council member. I enclose a copy of regulation 18329 for your review.\nIf you have any questions, feel free to call me at (916) 322-5660.\nSincerely,\nLuisa Menchaca\nGeneral Counsel\n?w>n a1\nBy: Trish Mayer\nPolitical Reform Consultant\nEnclosure\n@\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2005-01-18",
+    "date_raw": "January 18,2005",
+    "requestor_name": "Barrow",
+    "requestor_title": "City Attorney",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "Under California Code of Regulations 18329(bX8)(B), the Fair Political Practices Commission cannot address the questions or provide analysis unless the requestor is an authorized representative of the council member for which assistance is sought.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Can the FPPC provide advice regarding a conflict of interest issue involving Councilmember Allen Co. when the requestor is not an authorized representative of the council member?",
+    "conclusion_synthetic": "The FPPC declines to provide advice because the requestor is not an authorized representative of Councilmember Allen Co., as required by regulation 18329(bX8)(B).",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is a declination letter without traditional QUESTION and CONCLUSION sections. The legal question and FPPC conclusion were synthesized from the letter's body text. File number W-04-246 indicates this may have been a withdrawal or declination (W prefix)."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:34:17.839897Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Can the FPPC provide advice regarding a conflict of interest issue involving Councilmember Allen Co. when the requestor is not an authorized representative of the council member?\n\nCONCLUSION: Under California Code of Regulations 18329(bX8)(B), the Fair Political Practices Commission cannot address the questions or provide analysis unless the requestor is an authorized representative of the council member for which assistance is sought.",
+    "qa_source": "mixed",
+    "first_500_words": "Re Farn Polrrrcel PnecrrcEs CoupussroN 428 J Street . Suite 620 o Sacramento, CA 95814-2329 (916) 322-s660 . Fax (916) 322-0886 January 18,2005 Quinn M. Barrow City Attorney, South El Monte Richards, Watson and Gershon 355 South Grand Avenue,40th Floor Los Angeles, CA 90071 Your Request for Advice Our File No. W-04-246 Dear Mr. Barrow: This letter confirms the receipt of your November 9,2A04, request for advice regarding a conflict of interest issue of Councilmember Allen Co. Under the provisions of California Code of Regulations 18329(bX8)(B), unless you are an authorized representative of the council member for which you seek assistance, the Fair Political Practices Commission cannot address your questions or provide analysis. During a phone conversation with me, you indicated that you were not an authorized representative of this council member. I enclose a copy of regulation 18329 for your review. If you have any questions, feel free to call me at (916) 322-5660. Sincerely, Luisa Menchaca General Counsel ?w>n a1 By: Trish Mayer Political Reform Consultant Enclosure @",
+    "summary": "The FPPC declined a request for advice regarding a conflict of interest issue involving Councilmember Allen Co. because the requestor, the City Attorney, was not an authorized representative of the council member."
+  }
+}

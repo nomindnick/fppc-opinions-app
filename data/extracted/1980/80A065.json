@@ -1,0 +1,76 @@
+{
+  "id": "80A065",
+  "year": 1980,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1980/80A065.PDF",
+  "pdf_sha256": "90f22c925d4998715156296f2ad83d86a936d3b2033242bc729ff9e046c1198c",
+  "local_pdf_path": "raw_pdfs/1980/80A065.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1980 Advice Letter # 80A065",
+    "tags": [
+      "1980",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:27:10",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1980&tagCount=1&page=4"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T01:02:29.832452Z",
+    "page_count": 2,
+    "word_count": 505,
+    "char_count": 3693,
+    "quality_score": 0.9350558035714287,
+    "olmocr_cost": 0.0051987,
+    "native_word_count": 108,
+    "haiku_cost": 0.005916
+  },
+  "content": {
+    "full_text": "State of California\nFair Political Practices Commission\nP.O. BOX 807 • SACRAMENTO, 95804 • • • 1100 K STREET BUILDING, SACRAMENTO, 95814\n\nTechnical Assistance     Administration     Statements/Legal     Enforcement     Statements of Economic Interest\n(916) 322-5660          322-5660             322-5901            322-6441           322-6444\n\nDecember 29, 1980\n\nMs. Leona Egland\n5446 Pineridge Drive\nLa Crescenta, CA  91214\n\nDear Ms. Egland:\n\n     The purpose of this letter is to confirm in writing my\ntelephone discussion with you regarding participating in or\ninfluencing governmental decision-making. Government Code\nSections 87100 and 87103 require that you refrain from partici-\npating in the making, or in any way attempting to use your\nofficial position to influence, a governmental decision in\nwhich you have a financial interest. What constitutes govern-\nmental decision-making has been clarified by Commission\nRegulation 18700. The regulation provides in part that,\n\n     (c) A public official or designated employee\n\"participates in the making of a governmental decision\"\nwhen, acting within the authority of his or her position,\nhe or she:\n\n          (1) Negotiates, without significant substantive\n     review, with a governmental entity or private\n     person regarding the decision; or\n\n          (2) Advises or makes recommendations to the\n     decision-maker, either directly or without signifi-\n     cant intervening substantive review, by:\n\n               (A) Conducting research or making any\n          investigation which requires the exercise of\n          judgment on the part of the official or desig-\n          nated employee and the purpose of which is to\n          influence the decision; or\n\n               (b) Preparing or presenting any report,\n          analysis or opinion, orally or in writing,\n          which requires the exercise of judgment on\n          the part of the official or designated employee\n          and the purpose of which is to influence the\n          decision.\n\nMs. Leona Egland\nDecember 29, 1980\nPage Two\n\n\n     With respect to using one's official position to influence\ngovernmental decision-making, the regulation provides,\n\n     (e) \"In any way attempting to use his or her\nofficial position to influence a governmental decision\"\nshall include furthering or attempting to affect in any\nmanner any decision:\n\n          (1) Within or before his or her agency; or\n\n          (2) Before any agency which is appointed by\nor subject to the budgetary control of his or her\nagency.\n\n     I have included a copy of the regulation for your review.\nPlease do not hesitate to contact me if you have any questions\nregarding its specific application.\n\n     Finally, I will confirm in writing at this time my\nprevious advice to you regarding an expense paid trip to\nHawaii provided to you by the Atlantic Richfield Oil Company\nin connection with an energy conference. Their gift was\nprovided to you after you left your position in the Assembly\nand prior to your appointment to the Department of Health\nServices. Because you were not a governmental official at\nthe time you received their gift, you have no obligation to\nreport it on either your Assembly leaving office statement\nor your Department of Health Services financial disclosure\nStatement.\n\n     I hope that this letter is helpful. If you have any\nquestions, please do not hesitate to contact Sarah Cameron\nof our office.\n\n                                   Very truly yours,.\n\n                                   [signature]\n                                   Dwight E. Dickerson\n                                   Counsel\n                                   Legal Division\n\nDED:kp\nEnclosure",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1980-12-29",
+    "date_raw": "December 29, 1980",
+    "requestor_name": "Egland",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "What constitutes participating in or influencing governmental decision-making under Government Code Sections 87100 and 87103, and must a recipient disclose a gift received from Atlantic Richfield Oil Company during a gap in governmental service?",
+    "conclusion_synthetic": "A public official must refrain from participating in or influencing governmental decisions in which they have a financial interest, as defined by Commission Regulation 18700. The gift from Atlantic Richfield Oil Company need not be reported because the recipient was not a governmental official at the time of receipt.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: No formal QUESTION or CONCLUSION sections present; letter format is confirmatory of prior telephone discussion. Document provides detailed regulatory interpretation and specific application to recipient's circumstances regarding the Hawaii trip gift."
+  },
+  "citations": {
+    "government_code": [
+      "87100"
+    ],
+    "regulations": [
+      "18700"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T16:37:06.960313Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: What constitutes participating in or influencing governmental decision-making under Government Code Sections 87100 and 87103, and must a recipient disclose a gift received from Atlantic Richfield Oil Company during a gap in governmental service?\n\nCONCLUSION: A public official must refrain from participating in or influencing governmental decisions in which they have a financial interest, as defined by Commission Regulation 18700. The gift from Atlantic Richfield Oil Company need not be reported because the recipient was not a governmental official at the time of receipt.",
+    "qa_source": "synthetic",
+    "first_500_words": "December 29, 1980 Ms. Leona Egland 5446 Pineridge Drive La Crescenta, CA 91214 Dear Ms. Egland: The purpose of this letter is to confirm in writing my telephone discussion with you regarding participating in or influencing governmental decision-making. Government Code Sections 87100 and 87103 require that you refrain from participating in the making, or in any way attempting to use your official position to influence, a governmental decision in which you have a financial interest. What constitutes governmental decision-making has been clarified by Commission Regulation 18700. The regulation provides in part that, (c) A public official or designated employee \"participates in the making of a governmental decision\" when, acting within the authority of his or her position, he or she: (1) Negotiates, without significant substantive review, with a governmental entity or private person regarding the decision; or (2) Advises or makes recommendations to the decision-maker, either directly or without significant intervening substantive review, by: (A) Conducting research or making any investigation which requires the exercise of judgment on the part of the official or designated employee and the purpose of which is to influence the decision; or (b) Preparing or presenting any report, analysis or opinion, orally or in writing, which requires the exercise of judgment on the part of the official or designated employee and the purpose of which is to influence the decision. With respect to using one's official position to influence governmental decision-making, the regulation provides, (e) \"In any way attempting to use his or her official position to influence a governmental decision\" shall include furthering or attempting to affect in any manner any decision: (1) Within or before his or her agency; or (2) Before any agency which is appointed by or subject to the budgetary control of his or her agency. I have included a copy of the regulation for your review. Please do not hesitate to contact me if you have any questions regarding its specific application. Finally, I will confirm in writing at this time my previous advice to you regarding an expense paid trip to Hawaii provided to you by the Atlantic Richfield Oil Company in connection with an energy conference. Their gift was provided to you after you left your position in the Assembly and prior to your appointment to the Department of Health Services. Because you were not a governmental official at the time you received their gift, you have no obligation to report it on either your Assembly leaving office statement or your Department of Health Services financial disclosure Statement. I hope that this letter is helpful. If you have any questions, please do not hesitate to contact Sarah Cameron of our office. Very truly yours, Dwight E. Dickerson Counsel Legal Division",
+    "summary": "FPPC counsel confirms in writing advice regarding the prohibition on participating in governmental decisions with financial interests, clarifies what constitutes such participation under Regulation 18700, and advises that a gift received during a gap between leaving the Assembly and joining the Department of Health Services requires no disclosure."
+  }
+}

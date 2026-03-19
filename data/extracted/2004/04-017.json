@@ -1,0 +1,71 @@
+{
+  "id": "04-017",
+  "year": 2004,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2004/04-017.pdf",
+  "pdf_sha256": "30b94759504b419505a7d867751602ba8fcd2c4e6b49f71b8f08385cba048469",
+  "local_pdf_path": "raw_pdfs/2004/04-017.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2004 Advice Letter # 04-017",
+    "tags": [
+      "2004",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:41:46",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2004&tagCount=1&page=24"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T14:44:27.462922Z",
+    "page_count": 1,
+    "word_count": 78,
+    "char_count": 491,
+    "quality_score": 0.8263817403198982,
+    "olmocr_cost": 0.00247766,
+    "native_word_count": 101
+  },
+  "content": {
+    "full_text": "February 5, 2004\n\nGary S. Rotto\n9189 Rebecca Avenue\nSan Diego, CA 92123\n\nRe: Your Request for Advice\nOur File No. W-04-017\n\nDear Mr. Rotto:\n\nThis letter is to notify you that, per our telephone conversation of February 4, 2004, we have withdrawn the above captioned request for advice regarding your filing requirements under the Political Reform Act.\n\nIf you have any additional questions, feel free to call me at (916) 322-5660.\n\nSincerely,\n\nAdrianne Korchmaros\nPolitical Reform Consultant",
+    "full_text_markdown": "February 5, 2004\n\nGary S. Rotto\n9189 Rebecca Avenue\nSan Diego, CA 92123\n\nRe: Your Request for Advice\nOur File No. W-04-017\n\nDear Mr. Rotto:\n\nThis letter is to notify you that, per our telephone conversation of February 4, 2004, we have withdrawn the above captioned request for advice regarding your filing requirements under the Political Reform Act.\n\nIf you have any additional questions, feel free to call me at (916) 322-5660.\n\nSincerely,\n\nAdrianne Korchmaros\nPolitical Reform Consultant"
+  },
+  "parsed": {
+    "date": "2004-02-05",
+    "date_raw": "February 5, 2004",
+    "requestor_name": "Rotto",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-20T14:44:27.462922Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "February 5, 2004 Gary S. Rotto 9189 Rebecca Avenue San Diego, CA 92123 Re: Your Request for Advice Our File No. W-04-017 Dear Mr. Rotto: This letter is to notify you that, per our telephone conversation of February 4, 2004, we have withdrawn the above captioned request for advice regarding your filing requirements under the Political Reform Act. If you have any additional questions, feel free to call me at (916) 322-5660. Sincerely, Adrianne Korchmaros Political Reform Consultant",
+    "qa_source": "extracted",
+    "first_500_words": "February 5, 2004 Gary S. Rotto 9189 Rebecca Avenue San Diego, CA 92123 Re: Your Request for Advice Our File No. W-04-017 Dear Mr. Rotto: This letter is to notify you that, per our telephone conversation of February 4, 2004, we have withdrawn the above captioned request for advice regarding your filing requirements under the Political Reform Act. If you have any additional questions, feel free to call me at (916) 322-5660. Sincerely, Adrianne Korchmaros Political Reform Consultant",
+    "summary": null
+  }
+}

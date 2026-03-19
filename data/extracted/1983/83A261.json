@@ -1,0 +1,73 @@
+{
+  "id": "83A261",
+  "year": 1983,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1983/83A261.PDF",
+  "pdf_sha256": "bfa5d25e6f1285993a18428b670e738eea66bc64a657078e5693572035b6575a",
+  "local_pdf_path": "raw_pdfs/1983/83A261.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1983 Advice Letter # 83A261",
+    "tags": [
+      "1983",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:31:50",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1983&tagCount=1&page=5"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T23:46:11.580306Z",
+    "page_count": 1,
+    "word_count": 75,
+    "char_count": 562,
+    "quality_score": 0.8095150423347144,
+    "olmocr_cost": 0.00247078,
+    "native_word_count": 84
+  },
+  "content": {
+    "full_text": "Memorandum\n\nTo: File\n\nDate: November 10, 1983\nNo.: M-83-261\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION  \nJanis Shank McLean\n\nSubject: Governor's Office/Transportation\n\nThe Governor received private airplane transportation from a corporation to attend a Police Officer's Association meeting in Los Angeles. The State paid the corporation $100, which is the value of a commercial, first class ticket.\n\nThe Governor has no reporting responsibility. The transportation's value, under Stone, is the commercial value and this was paid.\n\nJSM:nrw",
+    "full_text_markdown": "Memorandum\n\nTo: File\n\nDate: November 10, 1983\nNo.: M-83-261\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION  \nJanis Shank McLean\n\nSubject: Governor's Office/Transportation\n\nThe Governor received private airplane transportation from a corporation to attend a Police Officer's Association meeting in Los Angeles. The State paid the corporation $100, which is the value of a commercial, first class ticket.\n\nThe Governor has no reporting responsibility. The transportation's value, under Stone, is the commercial value and this was paid.\n\nJSM:nrw"
+  },
+  "parsed": {
+    "date": "1983-11-10",
+    "date_raw": "November 10, 1983",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [
+      "M-83-261"
+    ],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T23:46:11.580306Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "**Memorandum** **To:** File **Date:** November 10, 1983 **No.:** M-83-261 **From:** FAIR POLITICAL PRACTICES COMMISSION Janis Shank McLean **Subject:** Governor's Office/Transportation The Governor received private airplane transportation from a corporation to attend a Police Officer's Association meeting in Los Angeles. The State paid the corporation $100, which is the value of a commercial, first class ticket. The Governor has no reporting responsibility. The transportation's value, under Stone, is the commercial value and this was paid. JSM:nrw",
+    "qa_source": "extracted",
+    "first_500_words": "**Memorandum** **To:** File **Date:** November 10, 1983 **No.:** M-83-261 **From:** FAIR POLITICAL PRACTICES COMMISSION Janis Shank McLean **Subject:** Governor's Office/Transportation The Governor received private airplane transportation from a corporation to attend a Police Officer's Association meeting in Los Angeles. The State paid the corporation $100, which is the value of a commercial, first class ticket. The Governor has no reporting responsibility. The transportation's value, under Stone, is the commercial value and this was paid. JSM:nrw",
+    "summary": null
+  }
+}

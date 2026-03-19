@@ -1,0 +1,73 @@
+{
+  "id": "UNK-91-10471",
+  "year": 1991,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1991/91272.pdf",
+  "pdf_sha256": "cdf858dcc0b69638b95532f0f6cba5340ff2713e907037edc971f1df82bd09eb",
+  "local_pdf_path": "raw_pdfs/1991/91272.pdf",
+  "source_metadata": {
+    "title_raw": "1991-91272-Lilyquist, Rodney",
+    "tags": [
+      "1991",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:20:32",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1991&tagCount=1&page=65"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:28.886640Z",
+    "page_count": 1,
+    "word_count": 195,
+    "char_count": 1231,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 195
+  },
+  "content": {
+    "full_text": "DANIEL E. LUNGREN\nAttorney General\nState of Caldornia\nDEPARTMENT OF JUSTICE\n1515 K STREET. SUITE 511\nP.O. BOX 944255\nSACRAMENTO 94244-2550\n(916) 324-s166\nMay 8, 1991\nJohn l-arson, Chairman\nCalifornia Fair Political\nPractices Commission\n428 J Street, Suite 800\nP.O. Box 807\nSacramento, CA 95814\nDear Mr. Larson:\nOpinion No. 91-504\nWe have received a request from Assemblyman Bill Jones, for an opinion of the\nAttorney General on the following question:\nWhat restrictions exist on the use of funds collected by a committee primarily\nformed to support or oppose a statewide ballot measure after the election?\nIt is the policy of our office to solicit the views of all interested parties prior to\nissuing an opinion. Yonr comments regarding the question presented would be\nappreciated. If possible, a response by June 6, 7997, would be most helpful; materials\nreceived after such date will nonetheless be considered. Views submitted will be\ntreated by our office as public records under the Public Records Act. Please address\nyour views to: Deputy Attorney General Rodney O. Ulyquist, 110 West A Street, Suite\n700, San Diego, CA 92101; telephone (619) 237-7182.\nSincerely,\nDANIEL E. LUNGREN\nSACRAMENTO 94244-2550\nNK:lac\nChief, Opinion\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1991-05-08",
+    "date_raw": "May 8, 1991",
+    "requestor_name": "Larson",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "What restrictions exist on the use of funds collected by a committee primarily formed to support or oppose a statewide ballot measure after the election?",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The Attorney General seeks FPPC input on what restrictions apply to post-election use of funds by committees formed to support or oppose statewide ballot measures.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an incoming request to FPPC from the Attorney General's office, not an FPPC advice letter. No formal CONCLUSION section present. The document requests FPPC input rather than providing FPPC guidance. Minor OCR errors noted (e.g., 'Caldornia' for 'California', '1997' appears to be '1991' context error)."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [
+      "A-91-504"
+    ],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:35:28.886640Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: What restrictions exist on the use of funds collected by a committee primarily formed to support or oppose a statewide ballot measure after the election?",
+    "qa_source": "mixed",
+    "first_500_words": "DANIEL E. LUNGREN Attorney General State of Caldornia DEPARTMENT OF JUSTICE 1515 K STREET. SUITE 511 P.O. BOX 944255 SACRAMENTO 94244-2550 (916) 324-s166 May 8, 1991 John l-arson, Chairman California Fair Political Practices Commission 428 J Street, Suite 800 P.O. Box 807 Sacramento, CA 95814 Dear Mr. Larson: Opinion No. 91-504 We have received a request from Assemblyman Bill Jones, for an opinion of the Attorney General on the following question: What restrictions exist on the use of funds collected by a committee primarily formed to support or oppose a statewide ballot measure after the election? It is the policy of our office to solicit the views of all interested parties prior to issuing an opinion. Yonr comments regarding the question presented would be appreciated. If possible, a response by June 6, 7997, would be most helpful; materials received after such date will nonetheless be considered. Views submitted will be treated by our office as public records under the Public Records Act. Please address your views to: Deputy Attorney General Rodney O. Ulyquist, 110 West A Street, Suite 700, San Diego, CA 92101; telephone (619) 237-7182. Sincerely, DANIEL E. LUNGREN SACRAMENTO 94244-2550 NK:lac Chief, Opinion",
+    "summary": "Attorney General Daniel Lungren requests the California FPPC's views on restrictions governing post-election use of funds by ballot measure committees, as part of the Attorney General's process for issuing Opinion No. 91-504 on behalf of Assemblyman Bill Jones."
+  }
+}

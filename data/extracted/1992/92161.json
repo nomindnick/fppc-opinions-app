@@ -1,0 +1,72 @@
+{
+  "id": "92161",
+  "year": 1992,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1992/92161.pdf",
+  "pdf_sha256": "a4a6fd166a7281e7c858ec0a493ede43a033809cc0d55d8faffacfabcf2e3084",
+  "local_pdf_path": "raw_pdfs/1992/92161.pdf",
+  "source_metadata": {
+    "title_raw": "Persson, Teri Year: 1992 Advice Letter # 92161",
+    "tags": [
+      "Advice Letter",
+      "1992"
+    ],
+    "scraped_at": "2026-01-31 16:27:11",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1992&tagCount=1&page=59"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T03:09:14.543788Z",
+    "page_count": 1,
+    "word_count": 160,
+    "char_count": 967,
+    "quality_score": 0.8629525144856938,
+    "olmocr_cost": 0.00256194,
+    "native_word_count": 158,
+    "haiku_cost": 0.0026632
+  },
+  "content": {
+    "full_text": "ISI IDEAL\nSEMICONDUCTOR INC.\n\nFACSIMILE COVER SHEET\n\nTO: FPPC FROM: TERI PERSSON\n\nATTN: LOUISA Menchaca NO. OF PAGES: 1\nCC: (Includes Cover Sheet)\n\nFAX NO: 1-916-327-2026 DATE: 3/18/92\n\n\nLouisa,\n\nI was a defeated 1st time candidate in a general city council\nelection IN Fremont, IN November, 1991.\nIn March, 1992 2 council members were recalled from office.\nAs a candidate today to fill these 2 city council recalled seats,\nCAN I use my campaign FUND from the 1st election in Nov.1991\non this election recall election to fill the recalled seats?\n\nI have approximately $4500 remaining in our TERI PERSSON for\nCity Council acct # 910014 Thank you for an immediate\nresponse in return writing\n\nOur fax # is shown below.\n\nIF YOU HAVE TROUBLE RECEIVING THIS FAX OR DID NOT RECEIVE ALL PAGES\nADVISED, PLEASE NOTIFY OUR FACSIMILE OFFICE AT 510-226-7000\nIMMEDIATELY. THANK YOU.\n\n\n46721 Fremont Blvd. • Fremont, California 94538 • Telephone (510) 226-7000 • Fax: (510) 226-1564",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1992-03-18",
+    "date_raw": "3/18/92",
+    "requestor_name": "Persson",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "As a candidate today to fill these 2 city council recalled seats, can I use my campaign fund from the 1st election in Nov. 1991 on this recall election to fill the recalled seats?",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a defeated city council candidate can use remaining campaign funds from a November 1991 general election to finance a subsequent March 1992 recall election campaign.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Incoming request faxed to FPPC by candidate; no FPPC response or conclusion present in document; question clearly stated in body of letter; approximately 1 page document"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T16:17:04.514968Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: As a candidate today to fill these 2 city council recalled seats, can I use my campaign fund from the 1st election in Nov. 1991 on this recall election to fill the recalled seats?",
+    "qa_source": "mixed",
+    "first_500_words": "TO: FPPC ATTN: LOUISA Menchaca CC: FAX NO: 1-916-327-2026 FROM: Teri Persson NO. OF PAGES: 1 (Includes Cover Sheet) DATE: 3/18/92 Louisa, I was a defeated 1st time candidate in a general city council election in Fremont, in November, 1991. In March, 1992 2 council members were recalled from office. As a candidate today to fill these 2 city council recalled seats, can I use my campaign fund from the 1st election in Nov. 1991 on this recall election to fill the recalled seats? I have approximately $4500 remaining in our Teri Persson for City Council acct #911014. Thank you for an immediate response in return writing. Our fax # is shown below. IF YOU HAVE TROUBLE RECEIVING THIS FAX OR DID NOT RECEIVE ALL PAGES ADVISED, PLEASE NOTIFY OUR FACSIMILE OFFICE AT 510-226-7000 IMMEDIATELY. THANK YOU.",
+    "summary": "Teri Persson, a defeated first-time city council candidate from Fremont's November 1991 election, seeks FPPC guidance on whether she can use approximately $4,500 in remaining campaign funds from that election to finance her candidacy in a March 1992 recall election for two city council seats."
+  }
+}

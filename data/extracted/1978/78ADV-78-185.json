@@ -1,0 +1,71 @@
+{
+  "id": "78ADV-78-185",
+  "year": 1978,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1978/78ADV-78-185.PDF",
+  "pdf_sha256": "5af805ae315b701abac6d32f22009260fa48d68ed358de656f659469710f619c",
+  "local_pdf_path": "raw_pdfs/1978/78ADV-78-185.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1978ADV Advice Letter # 78ADV-78-185",
+    "tags": [
+      "Advice Letter",
+      "1978"
+    ],
+    "scraped_at": "2026-01-31 15:23:16",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=6"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:08.867350Z",
+    "page_count": 2,
+    "word_count": 195,
+    "char_count": 1160,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 195
+  },
+  "content": {
+    "full_text": "Court \nDear Mr. \n\n\nWILL AM F. \nRENO \nRAYMOND \n\"SIMMONS \nROBERT O'FARRELL \nJUDGES \nFMUNICIPALCOURT \nFair Political Practices Commission \n1100 K Street \nSacramento, CA \n95814 \nGentlemen: \nDIST leT \nROBERT DOWNS \nCLERK OF MUNICIPAL COURT \nJanuary 23, 1978 \nI have examined the most recent literature with reference to campaign \ndisclosure provisions of the Political Reform Act. \nI am a Municipal Court Judge \nfor the Salinas Judicial District, County of Monterey. \nThis is not a year in \nwhich I am engaged in an election campaign, and I further certify that I have \nnot received, nor have I spent, any amount of money. \nI find it exceedingly difficult to make heads or tails out of all the infor-\nmation requested. \nHowever, it seems to me that I would fit under the des-\ncription of an elected office holder in an \"off year\", and, as a judge, not \nrequired to file semi-annual campaign statements. \nIf I am incorrect, could you \nplease forward to me the form so that I can tell you that I did not receive any \nmoney nor expend any money. \ndl \nThank you kindly for your courtesy and cooperation. \nVery truly yours, \nF. Moreno, Presiding Judge \nMunicipal Court \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1978-01-23",
+    "date_raw": "January 23, 1978",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "This is not a year in which I am engaged in an election campaign, and I further certify that I have not received, nor have I spent, any amount of money. I find it exceedingly difficult to make heads or tails out of all the information requested. However, it seems to me that I would fit under the description of an elected office holder in an \"off year\", and, as a judge, not required to file semi-annual campaign statements. If I am incorrect, could you please forward to me the form so that I can tell you that I did not receive any money nor expend any money.",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "As a Municipal Court Judge in an off-election year who has received and spent no campaign funds, is the judge required to file semi-annual campaign statements under the Political Reform Act?",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an incoming request letter from a judge to FPPC, not an FPPC response. No formal QUESTION/CONCLUSION sections present. The letter contains the substantive inquiry and request for guidance. Letter dated January 23, 1978."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:08.867350Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: This is not a year in which I am engaged in an election campaign, and I further certify that I have not received, nor have I spent, any amount of money. I find it exceedingly difficult to make heads or tails out of all the information requested. However, it seems to me that I would fit under the description of an elected office holder in an \"off year\", and, as a judge, not required to file semi-annual campaign statements. If I am incorrect, could you please forward to me the form so that I can tell you that I did not receive any money nor expend any money.",
+    "qa_source": "mixed",
+    "first_500_words": "Court Dear Mr. WILL AM F. RENO RAYMOND \"SIMMONS ROBERT O'FARRELL JUDGES FMUNICIPALCOURT Fair Political Practices Commission 1100 K Street Sacramento, CA 95814 Gentlemen: DIST leT ROBERT DOWNS CLERK OF MUNICIPAL COURT January 23, 1978 I have examined the most recent literature with reference to campaign disclosure provisions of the Political Reform Act. I am a Municipal Court Judge for the Salinas Judicial District, County of Monterey. This is not a year in which I am engaged in an election campaign, and I further certify that I have not received, nor have I spent, any amount of money. I find it exceedingly difficult to make heads or tails out of all the infor- mation requested. However, it seems to me that I would fit under the des- cription of an elected office holder in an \"off year\", and, as a judge, not required to file semi-annual campaign statements. If I am incorrect, could you please forward to me the form so that I can tell you that I did not receive any money nor expend any money. dl Thank you kindly for your courtesy and cooperation. Very truly yours, F. Moreno, Presiding Judge Municipal Court",
+    "summary": "A Municipal Court Judge for the Salinas Judicial District writes to the FPPC seeking clarification on whether judges are required to file campaign disclosure statements in off-election years, stating they believe they are exempt as an elected official in an off-year with no campaign activity or funds."
+  }
+}

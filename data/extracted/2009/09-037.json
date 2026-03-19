@@ -1,0 +1,75 @@
+{
+  "id": "09-037",
+  "year": 2009,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2009/09-037.pdf",
+  "pdf_sha256": "a55bfe77a452ac673c35df74240f77ec944f293f64b84efeca12000667f57288",
+  "local_pdf_path": "raw_pdfs/2009/09-037.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2009 Advice Letter # 09-037",
+    "tags": [
+      "2009",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:49:36",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2009&tagCount=1&page=11"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:33:56.957198Z",
+    "page_count": 2,
+    "word_count": 396,
+    "char_count": 2418,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 396
+  },
+  "content": {
+    "full_text": "Fern PolrrrcAt- Pnncrrces CoMMrssroN\n.128 J Street o Suite 620 o Sacramento. CA 95814-2329\n(916) 322-5660 r Fax (916) 322-0886\nFebruary 24,2009\nJamie L. Raymond\nCity Attorney\nCity of Yorba Linda\n5 Park Plaza, Suite 1500\nIrvine, CA92614\nYour Request for Advice\nOur File No. A-09-037\nDear Ms. Raymond:\nThis letter responds to your request for advice on behalf of Yorba Linda City\nCouncilmember Jan Horton regarding the conflict-of-interest provisions of the Political\nReform Act (the \"Act\").1 This letter is based on the facts presented; the Fair Political\nPractices Commission (the \"Commission\") does not act as the finder of fact when it\nrenders advice. (In re Oglesby (1975) I FPPC Ops. 71.) Also, please note that our\nadvice is based solely on the provisions of the Act. We therefore offer no opinion on the\napplication, if any, of other conflict-of-interest laws such as common law conflict of\ninterest or Govemment Code Section 1090.\nYou wrote in 2008 to request advice regarding a site near Councilmember\nHorton's residence. The city was determining whether to move two homes from the\nproperty to another location. We advised that the proper measure of whether the\ncouncilmember had a conflict was to look at the boundary line of the house being moved\nfrom the site to determine whether that boundary was within 500 feet of Councilmember\nHorton's residence. (See Advice Letter No. A-08-188.)\n' The Political Retbrm Act is contained in Government Code Sections 8 I 000 through 9 1014. All\nstatutory references are to the Government Code. unless otherwise indicated. The regulations of the Fair\nPolitical Practices Commission are contained in Sections l8l l0 through 18997 of Title 2 of the Califbrnia\nCode of Regulations. All rbgulatory ret'erences are to Title 2, Division 6 of the Calitbrnia Code of\nRegulations. unless otherwise indicated.\n\n\nFile No. 4-09-037\nPage No. 2\nYou now ask whether that same advice would apply if the city decides to move\nhouses that are on a different location to the same site. We see no reason that our advice\nin Advice Letter No. A-08-188 would not apply here. Whether the city moves homes off\nthe property or onto the property, Councilmember Horton must apply the same conflicts\nanalysis.\nIf you have other questions on this matter, please contact me at (916) 322-5660.\nSincerely,\nScott Hallabrin\nGeneral Counsel\n[k*l^ /^Aswa-*\nBy: Heather M. Rowan\nCounsel, Legal Division\nHMRjgl\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2009-02-24",
+    "date_raw": "February 24,2009",
+    "requestor_name": "Raymond",
+    "requestor_title": "City Attorney",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Whether that same advice would apply if the city decides to move houses that are on a different location to the same site. We see no reason that our advice in Advice Letter No. A-08-188 would not apply here. Whether the city moves homes off the property or onto the property, Councilmember Horton must apply the same conflicts analysis.",
+    "conclusion": "We see no reason that our advice in Advice Letter No. A-08-188 would not apply here. Whether the city moves homes off the property or onto the property, Councilmember Horton must apply the same conflicts analysis.",
+    "facts": null,
+    "analysis": ".",
+    "question_synthetic": "Does the FPPC's prior advice regarding conflict-of-interest analysis for moving homes away from a property apply equally when moving homes onto that same property near a councilmember's residence?",
+    "conclusion_synthetic": "The same conflicts analysis applies regardless of whether homes are being moved off or onto the property; the proper measure is whether the boundary line of the house falls within 500 feet of the councilmember's residence in either direction.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "Format: ocr; LLM: This is a follow-up advice letter referencing prior advice A-08-188. The question and conclusion sections are identified but somewhat brief; the synthetic summaries provide necessary context for the legal analysis being applied."
+  },
+  "citations": {
+    "government_code": [
+      "1090"
+    ],
+    "regulations": [],
+    "prior_opinions": [
+      "A-08-188"
+    ],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:33:56.957198Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether that same advice would apply if the city decides to move houses that are on a different location to the same site. We see no reason that our advice in Advice Letter No. A-08-188 would not apply here. Whether the city moves homes off the property or onto the property, Councilmember Horton must apply the same conflicts analysis.\n\nCONCLUSION: We see no reason that our advice in Advice Letter No. A-08-188 would not apply here. Whether the city moves homes off the property or onto the property, Councilmember Horton must apply the same conflicts analysis.",
+    "qa_source": "mixed",
+    "first_500_words": "Fern PolrrrcAt- Pnncrrces CoMMrssroN .128 J Street o Suite 620 o Sacramento. CA 95814-2329 (916) 322-5660 r Fax (916) 322-0886 February 24,2009 Jamie L. Raymond City Attorney City of Yorba Linda 5 Park Plaza, Suite 1500 Irvine, CA92614 Your Request for Advice Our File No. A-09-037 Dear Ms. Raymond: This letter responds to your request for advice on behalf of Yorba Linda City Councilmember Jan Horton regarding the conflict-of-interest provisions of the Political Reform Act (the \"Act\").1 This letter is based on the facts presented; the Fair Political Practices Commission (the \"Commission\") does not act as the finder of fact when it renders advice. (In re Oglesby (1975) I FPPC Ops. 71.) Also, please note that our advice is based solely on the provisions of the Act. We therefore offer no opinion on the application, if any, of other conflict-of-interest laws such as common law conflict of interest or Govemment Code Section 1090. You wrote in 2008 to request advice regarding a site near Councilmember Horton's residence. The city was determining whether to move two homes from the property to another location. We advised that the proper measure of whether the councilmember had a conflict was to look at the boundary line of the house being moved from the site to determine whether that boundary was within 500 feet of Councilmember Horton's residence. (See Advice Letter No. A-08-188.) ' The Political Retbrm Act is contained in Government Code Sections 8 I 000 through 9 1014. All statutory references are to the Government Code. unless otherwise indicated. The regulations of the Fair Political Practices Commission are contained in Sections l8l l0 through 18997 of Title 2 of the Califbrnia Code of Regulations. All rbgulatory ret'erences are to Title 2, Division 6 of the Calitbrnia Code of Regulations. unless otherwise indicated. File No. 4-09-037 Page No. 2 You now ask whether that same advice would apply if the city decides to move houses that are on a different location to the same site. We see no reason that our advice in Advice Letter No. A-08-188 would not apply here. Whether the city moves homes off the property or onto the property, Councilmember Horton must apply the same conflicts analysis. If you have other questions on this matter, please contact me at (916) 322-5660. Sincerely, Scott Hallabrin General Counsel [k*l^ /^Aswa-* By: Heather M. Rowan Counsel, Legal Division HMRjgl",
+    "summary": "The FPPC advises that its prior guidance regarding conflict-of-interest analysis for moving homes from a property near a councilmember's residence applies equally when moving homes onto that property. The same 500-foot boundary line test applies in both scenarios."
+  }
+}

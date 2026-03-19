@@ -1,0 +1,72 @@
+{
+  "id": "77ADV-77-151",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-151.PDF",
+  "pdf_sha256": "be17216b5e507b7d60a69cf5aa1b7bbcc2c8ac42a73e93a381b8b325b0f61729",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-151.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-151",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:22:28",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=48"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T13:16:53.115385Z",
+    "page_count": 2,
+    "word_count": 228,
+    "char_count": 1714,
+    "quality_score": 0.8840723933503907,
+    "olmocr_cost": 0.00496736,
+    "native_word_count": 79,
+    "haiku_cost": 0.004144
+  },
+  "content": {
+    "full_text": "[illegible]ommission\n.REET BUILDING, SACRAMENTO, 95814\n\n\nJanuary 21, 1977\n\n\nHonorable Daniel L. Fletcher\nJudge of the Superior Court\nCourthouse\nLos Angeles, CA  90012\n\nDear Judge Fletcher:\n\n     This letter is in response to your letter regarding\nthe reporting requirements of income on your Statement of\nEconomic Interests.  Please be advised that you are not\nrequired to disclose your disability retirement pay from\nthe United States Army.\n\n     The Commission is currently reviewing the question\nof whether payments or benefits received from pension\nand retirement funds are reportable.  The interim advise\nis that payments from public sources need not be reported\nbut payments from private pension funds or retirement\nfunds should be reported.\n\n     If you have any further questions, please contact\nthis office.\n\n                                        Sincerely,\n\n\n                                        Dawn Wiser\n                                        Technical Assistance and\n                                            Analysis Division\n\n\nASSISTANCE ADMINISTRATION (916) 322-5660 • EXECUTIVE [illegible] 322-5031\n\nThe Superior Court\nLOS ANGELES, CALIFORNIA 90012\nCHAMBERS OF\nDANIEL L. FLETCHER, JUDGE\n\nTELEPHONE\n(213) 625-3414\n\nState Bar Practice Commission\nSacramento, California\n\nDear Sir:\n\nPlease give me an opinion whether I must report under Schedule 72-D my disability retirement pay from the U.S. Army. Because of a war wound in 1945 I was retired from the Army and have been receiving Disability Retirement Pay as a Retired Army Officer. This pay is not reportable as income in invested purposes for either California State Income or United States Federal Income Tax.\n\nYours truly,\n\n[illegible]",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1977-01-21",
+    "date_raw": "January 21, 1977",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Please give me an opinion whether I must report under Schedule 12-A-D my disability retirement pay from the U.S. Army. Because of a war wound in 1945 I was retired from the Army and have been receiving Disability Retirement Pay as a Retired Army Officer. This pay is not reportable as income for income tax purposes for either California State Income Tax or United States Federal Income Tax.",
+    "conclusion": "You are not required to disclose your disability retirement pay from the United States Army. The Commission is currently reviewing the question of whether payments or benefits received from pension and retirement funds are reportable. The interim advise is that payments from public sources need not be reported but payments from private pension funds or retirement funds should be reported.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Must a Superior Court Judge report disability retirement pay from the U.S. Army on Schedule 12-A-D of the Statement of Economic Interests, given that such pay is exempt from federal and state income tax?",
+    "conclusion_synthetic": "The FPPC determined that disability retirement pay from the U.S. Army (a public source) is not reportable on the Statement of Economic Interests. The Commission noted it was reviewing pension and retirement fund reporting generally, with interim guidance that public source payments need not be reported while private pension payments should be.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document contains both the incoming request (from Judge Fletcher) and FPPC response (from Dawn Wiser). Both sections clearly present the question and conclusion. Minor uncertainty regarding whether 'interim advise' statement constitutes full conclusion versus interim guidance, but FPPC's directive answer is clear."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T17:13:31.323893Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Please give me an opinion whether I must report under Schedule 12-A-D my disability retirement pay from the U.S. Army. Because of a war wound in 1945 I was retired from the Army and have been receiving Disability Retirement Pay as a Retired Army Officer. This pay is not reportable as income for income tax purposes for either California State Income Tax or United States Federal Income Tax.\n\nCONCLUSION: You are not required to disclose your disability retirement pay from the United States Army. The Commission is currently reviewing the question of whether payments or benefits received from pension and retirement funds are reportable. The interim advise is that payments from public sources need not be reported but payments from private pension funds or retirement funds should be reported.",
+    "qa_source": "mixed",
+    "first_500_words": "January 21, 1977 Honorable Daniel L. Fletcher Judge of the Superior Court Courthouse Los Angeles, CA 90012 Dear Judge Fletcher: This letter is in response to your letter regarding the reporting requirements of income on your Statement of Economic Interests. Please be advised that you are not required to disclose your disability retirement pay from the United States Army. The Commission is currently reviewing the question of whether payments or benefits received from pension and retirement funds are reportable. The interim advise is that payments from public sources need not be reported but payments from private pension funds or retirement funds should be reported. If you have any further questions, please contact this office. Sincerely, Dawn Wiser Technical Assistance and Analysis Division The Superior Court Los Angeles, California 90012 Chambers of Daniel L. Fletcher, Judge Telephone (213) 625-3414 Fair Political Practices Commission Sacramento, California Dear Sir: Please give me an opinion whether I must report under Schedule 12-A-D my disability retirement pay from the U.S. Army. Because of a war wound in 1945 I was retired from the Army and have been receiving Disability Retirement Pay as a Retired Army Officer. This pay is not reportable as income for income tax purposes for either California State Income Tax or United States Federal Income Tax. Yours truly, [signature]",
+    "summary": "A Superior Court Judge in Los Angeles sought clarification on whether to report U.S. Army disability retirement pay on Schedule 12-A-D of the Statement of Economic Interests. The FPPC advised that such payments from public sources are not required to be disclosed."
+  }
+}

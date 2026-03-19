@@ -1,0 +1,71 @@
+{
+  "id": "83A077",
+  "year": 1983,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1983/83A077.PDF",
+  "pdf_sha256": "95a14781be16e460744c7e559245e72976b9e86b72b2ef510883d14d404582ec",
+  "local_pdf_path": "raw_pdfs/1983/83A077.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1983 Advice Letter # 83A077",
+    "tags": [
+      "1983",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:33:17",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1983&tagCount=1&page=25"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:54.082721Z",
+    "page_count": 1,
+    "word_count": 199,
+    "char_count": 1282,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 199
+  },
+  "content": {
+    "full_text": "Commissiort \nP.O. BOX 807 • SACRAMENTO, 95804 ••• \nIra Bonde \nTechnical Assistance \n(916) 322·5662 \n113 Princeton Road \nMenlo Park, CA \n94025 \nDear Mr. Bonde: \nAdmini.tration \n•• \nexecutive/Legal \n322·5660 \n322·5901 \nMarch 31, 1983 \nEnfarcement \n322-6441 \nStatements of Economic Interest \n322-6444 \nRE: \nOur Advice No. A-83-077 \nThank you for your letter of March 20, 1983, concerning \na possible conflict between your position on the San Mateo \nMosquito Abatement District and a possible position on the \nWest Bay Sanitary District. \nThe Political Reform Act, \nwhich is administered by the Fair Political Practices \nCommission, deals only with the question of possible \nconflicts between an official's private financial interests \nand his actions as a public official. \nThus the fact that \nyou might hold two different public positions could create \nno conflict of interest under the Political Reform Act. \nIf you are concerned about whether holding these two \npositions would create a conflict under any other law, I \nsuggest that you contact your county attorney. \nIf you have \nany other questions about the Political Reform Act, please \nfeel free to write to us again. \nBAM:ms \nV7 truly y~urr' \nV)(LuI~ ~Ul' ') 7 L~ \n~ L- ~ a. .~ ~-__ \nBarbara A. Milman \nChief \nLegal Division \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1983-03-31",
+    "date_raw": "March 31, 1983",
+    "requestor_name": "Bonde",
+    "requestor_title": "county attorney",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Whether holding a position on the San Mateo Mosquito Abatement District while also potentially holding a position on the West Bay Sanitary District would create a conflict of interest under the Political Reform Act.",
+    "conclusion": "The fact that you might hold two different public positions could create no conflict of interest under the Political Reform Act. The Political Reform Act deals only with the question of possible conflicts between an official's private financial interests and his actions as a public official.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Can an official simultaneously hold positions on both the San Mateo Mosquito Abatement District and the West Bay Sanitary District without violating conflict of interest provisions under the Political Reform Act?",
+    "conclusion_synthetic": "Holding two different public positions does not create a conflict of interest under the Political Reform Act, which only addresses conflicts between private financial interests and official actions. If concerns exist regarding conflicts under other laws, the county attorney should be consulted.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Standard advice letter format with clear question and conclusion sections. Signed by Barbara A. Milman, Chief of Legal Division. Document dated March 31, 1983, responding to March 20, 1983 inquiry."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:36:54.082721Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether holding a position on the San Mateo Mosquito Abatement District while also potentially holding a position on the West Bay Sanitary District would create a conflict of interest under the Political Reform Act.\n\nCONCLUSION: The fact that you might hold two different public positions could create no conflict of interest under the Political Reform Act. The Political Reform Act deals only with the question of possible conflicts between an official's private financial interests and his actions as a public official.",
+    "qa_source": "mixed",
+    "first_500_words": "Commissiort P.O. BOX 807 • SACRAMENTO, 95804 ••• Ira Bonde Technical Assistance (916) 322·5662 113 Princeton Road Menlo Park, CA 94025 Dear Mr. Bonde: Admini.tration •• executive/Legal 322·5660 322·5901 March 31, 1983 Enfarcement 322-6441 Statements of Economic Interest 322-6444 RE: Our Advice No. A-83-077 Thank you for your letter of March 20, 1983, concerning a possible conflict between your position on the San Mateo Mosquito Abatement District and a possible position on the West Bay Sanitary District. The Political Reform Act, which is administered by the Fair Political Practices Commission, deals only with the question of possible conflicts between an official's private financial interests and his actions as a public official. Thus the fact that you might hold two different public positions could create no conflict of interest under the Political Reform Act. If you are concerned about whether holding these two positions would create a conflict under any other law, I suggest that you contact your county attorney. If you have any other questions about the Political Reform Act, please feel free to write to us again. BAM:ms V7 truly y~urr' V)(LuI~ ~Ul' ') 7 L~ ~ L- ~ a. .~ ~-__ Barbara A. Milman Chief Legal Division",
+    "summary": "The FPPC advises that holding two simultaneous public positions on the San Mateo Mosquito Abatement District and West Bay Sanitary District does not constitute a conflict of interest under the Political Reform Act, as that statute addresses only conflicts between private financial interests and official duties."
+  }
+}

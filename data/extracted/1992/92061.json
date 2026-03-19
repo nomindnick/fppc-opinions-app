@@ -1,0 +1,73 @@
+{
+  "id": "92061",
+  "year": 1992,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1992/92061.pdf",
+  "pdf_sha256": "933e0d70047f936669933d3f92f4ece20643ade45815f1d7d746c65bbe0d995d",
+  "local_pdf_path": "raw_pdfs/1992/92061.pdf",
+  "source_metadata": {
+    "title_raw": "Diane, Fishburn Year: 1992 Advice Letter # 92061",
+    "tags": [
+      "Advice Letter",
+      "1992"
+    ],
+    "scraped_at": "2026-01-31 16:26:49",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1992&tagCount=1&page=54"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T23:42:26.693628Z",
+    "page_count": 1,
+    "word_count": 118,
+    "char_count": 727,
+    "quality_score": 0.8063490070451298,
+    "olmocr_cost": 0.0025499,
+    "native_word_count": 153
+  },
+  "content": {
+    "full_text": "January 17, 1992\n\nMs. Carla Wardlow\nTechnical Assistance & Analysis Division\nFair Political Practices Commission\nP.O. Box 807\nSacramento, CA 95812\n\nDear Carla:\n\nThis letter is sent to confirm our conversation in which you informed me that new Government Code section 86112.5 does not apply to gifts made in 1991 or earlier. It only applies with respect to gifts made in 1992 and later.\n\nPlease contact me if my understanding is incorrect.\n\nThank you for your attention to this matter.\n\nSincerely,\n\nOLSON, CONNELLY, HAGEL, FONG & LEIDIGH\n\nDIANE M. FISHBURN\nDMF/kl\n\nLANCE H. OLSON\nBRUCE J. HAGEL\nLERoy Y. FONG\nROBERT E. LEIDIGH\nGEORGE M. WATERS\nDIANE M. FISHBURN\n\nOF COUNSEL\nLLOYD G. CONNELLY, Member\nCalifornia State Legislature",
+    "full_text_markdown": "January 17, 1992\n\nMs. Carla Wardlow\nTechnical Assistance & Analysis Division\nFair Political Practices Commission\nP.O. Box 807\nSacramento, CA 95812\n\nDear Carla:\n\nThis letter is sent to confirm our conversation in which you informed me that new Government Code section 86112.5 does not apply to gifts made in 1991 or earlier. It only applies with respect to gifts made in 1992 and later.\n\nPlease contact me if my understanding is incorrect.\n\nThank you for your attention to this matter.\n\nSincerely,\n\nOLSON, CONNELLY, HAGEL, FONG & LEIDIGH\n\nDIANE M. FISHBURN\nDMF/kl\n\nLANCE H. OLSON\nBRUCE J. HAGEL\nLERoy Y. FONG\nROBERT E. LEIDIGH\nGEORGE M. WATERS\nDIANE M. FISHBURN\n\nOF COUNSEL\nLLOYD G. CONNELLY, Member\nCalifornia State Legislature"
+  },
+  "parsed": {
+    "date": "1992-01-17",
+    "date_raw": "January 17, 1992",
+    "requestor_name": "Diane",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [
+      "86112"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "lobbying",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-19T23:42:26.693628Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "January 17, 1992 Ms. Carla Wardlow Technical Assistance & Analysis Division Fair Political Practices Commission P.O. Box 807 Sacramento, CA 95812 Dear Carla: This letter is sent to confirm our conversation in which you informed me that new Government Code section 86112.5 does not apply to gifts made in 1991 or earlier. It only applies with respect to gifts made in 1992 and later. Please contact me if my understanding is incorrect. Thank you for your attention to this matter. Sincerely, OLSON, CONNELLY, HAGEL, FONG & LEIDIGH DIANE M. FISHBURN DMF/kl LANCE H. OLSON BRUCE J. HAGEL LERoy Y. FONG ROBERT E. LEIDIGH GEORGE M. WATERS DIANE M. FISHBURN OF COUNSEL LLOYD G. CONNELLY, Member California State Legislature",
+    "qa_source": "extracted",
+    "first_500_words": "January 17, 1992 Ms. Carla Wardlow Technical Assistance & Analysis Division Fair Political Practices Commission P.O. Box 807 Sacramento, CA 95812 Dear Carla: This letter is sent to confirm our conversation in which you informed me that new Government Code section 86112.5 does not apply to gifts made in 1991 or earlier. It only applies with respect to gifts made in 1992 and later. Please contact me if my understanding is incorrect. Thank you for your attention to this matter. Sincerely, OLSON, CONNELLY, HAGEL, FONG & LEIDIGH DIANE M. FISHBURN DMF/kl LANCE H. OLSON BRUCE J. HAGEL LERoy Y. FONG ROBERT E. LEIDIGH GEORGE M. WATERS DIANE M. FISHBURN OF COUNSEL LLOYD G. CONNELLY, Member California State Legislature",
+    "summary": null
+  }
+}

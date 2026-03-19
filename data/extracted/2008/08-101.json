@@ -1,0 +1,71 @@
+{
+  "id": "08-101",
+  "year": 2008,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2008/08-101.pdf",
+  "pdf_sha256": "19adc2218af4ad1adfa549c950c7ad201873a8a4fe58a505575d4c0aa8c0d2bd",
+  "local_pdf_path": "raw_pdfs/2008/08-101.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2008 Advice Letter # 08-101",
+    "tags": [
+      "2008",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:48:00",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2008&tagCount=1&page=12"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T23:13:03.255120Z",
+    "page_count": 1,
+    "word_count": 75,
+    "char_count": 488,
+    "quality_score": 0.7745502873563218,
+    "olmocr_cost": 0.00247852,
+    "native_word_count": 97
+  },
+  "content": {
+    "full_text": "June 24, 2008\n\nMs. Jaclyn Marks\n154 Day Street\nSan Francisco, CA 94131\n\nRe: Your Request for Advice\nOur File No. W-08-101\n\nDear Ms. Marks:\n\nThis letter confirms that per your telephone conversation with Dixie Howard on June 20, 2008, you have withdrawn your request for written advice.\n\nIf you have any questions concerning this letter, please contact me at 916-322-5660.\n\nSincerely,\n\nScott Hallabrin\nGeneral Counsel\n\nBy: Carla Wardlow\nDivision Chief\nTechnical Assistance Division\n\nCW:jgl",
+    "full_text_markdown": "June 24, 2008\n\nMs. Jaclyn Marks\n154 Day Street\nSan Francisco, CA 94131\n\nRe: Your Request for Advice\nOur File No. W-08-101\n\nDear Ms. Marks:\n\nThis letter confirms that per your telephone conversation with Dixie Howard on June 20, 2008, you have withdrawn your request for written advice.\n\nIf you have any questions concerning this letter, please contact me at 916-322-5660.\n\nSincerely,\n\nScott Hallabrin\nGeneral Counsel\n\nBy: Carla Wardlow\nDivision Chief\nTechnical Assistance Division\n\nCW:jgl"
+  },
+  "parsed": {
+    "date": "2008-06-24",
+    "date_raw": "June 24, 2008",
+    "requestor_name": "Marks",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T23:13:03.255120Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "June 24, 2008 Ms. Jaclyn Marks 154 Day Street San Francisco, CA 94131 Re: Your Request for Advice Our File No. W-08-101 Dear Ms. Marks: This letter confirms that per your telephone conversation with Dixie Howard on June 20, 2008, you have withdrawn your request for written advice. If you have any questions concerning this letter, please contact me at 916-322-5660. Sincerely, Scott Hallabrin General Counsel By: Carla Wardlow Division Chief Technical Assistance Division CW:jgl",
+    "qa_source": "extracted",
+    "first_500_words": "June 24, 2008 Ms. Jaclyn Marks 154 Day Street San Francisco, CA 94131 Re: Your Request for Advice Our File No. W-08-101 Dear Ms. Marks: This letter confirms that per your telephone conversation with Dixie Howard on June 20, 2008, you have withdrawn your request for written advice. If you have any questions concerning this letter, please contact me at 916-322-5660. Sincerely, Scott Hallabrin General Counsel By: Carla Wardlow Division Chief Technical Assistance Division CW:jgl",
+    "summary": null
+  }
+}

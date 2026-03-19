@@ -1,0 +1,77 @@
+{
+  "id": "79-065",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-065.PDF",
+  "pdf_sha256": "9afe5645d217e5855dcc56c183e8a9a730257fba660d86f8891d75dcb7f04c3f",
+  "local_pdf_path": "raw_pdfs/1979/79-065.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1979 Advice Letter # 79-065",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:26:49",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=20"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-27T17:28:44.230870Z",
+    "page_count": 1,
+    "word_count": 133,
+    "char_count": 892,
+    "quality_score": 0.8776792274052478,
+    "olmocr_cost": 0.0025301200000000003,
+    "native_word_count": 0,
+    "haiku_cost": 0.002172
+  },
+  "content": {
+    "full_text": "State of California\n\nMemorandum\n\nTo : File                                                Date : June 15, 1979\n\nFrom : FAIR POLITICAL PRACTICES COMMISSION\n       Regina Siciliano-Kutchins\n\nSubject: Telephone advice to Bill Cline, Assemblyman Bane's Office\n\nCline called to ask if there was anyway to combine a report\ndue in connection with a contribution made in a special election\nwhich is due June 21 with the semi-annual statement.\n\nI informed him that the semi-annual campaign statement could be\nfiled early and if sent to the jurisdiction where the abbrevi-\nated statement is due in connection with the special election\nwould be deemed a timely filing for that election. An amend-\nment to the semi-annual statement would be required, however, if\nthere is additional activity after the closing date of the\nsemi-annual statement filed early.\n\nRegulation 18426\nSection 84206\nSection 84204.1",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1979-06-15",
+    "date_raw": "June 15, 1979",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a campaign finance report due for a special election contribution can be combined with or satisfied by an early-filed semi-annual campaign statement.",
+    "conclusion_synthetic": "The semi-annual campaign statement can be filed early and, if sent to the jurisdiction requiring the abbreviated statement for the special election, will satisfy that filing requirement. However, an amendment to the early-filed semi-annual statement is required if additional campaign activity occurs after its closing date.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Internal FPPC memorandum documenting telephone advice. No formal question/conclusion sections, but clear advisory content. Advice provided by Regina Siciliano-Kutchins to staff in Assemblyman Bane's office regarding campaign finance reporting requirements."
+  },
+  "citations": {
+    "government_code": [
+      "84204",
+      "84206"
+    ],
+    "regulations": [
+      "18426"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T16:54:25.576489Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether a campaign finance report due for a special election contribution can be combined with or satisfied by an early-filed semi-annual campaign statement.\n\nCONCLUSION: The semi-annual campaign statement can be filed early and, if sent to the jurisdiction requiring the abbreviated statement for the special election, will satisfy that filing requirement. However, an amendment to the early-filed semi-annual statement is required if additional campaign activity occurs after its closing date.",
+    "qa_source": "synthetic",
+    "first_500_words": "**State of California** **Memorandum** **To:** File **Date:** June 15, 1979 **From:** FAIR POLITICAL PRACTICES COMMISSION Regina Siciliano-Kutchins **Subject:** Telephone advice to Bill Cline, Assemblyman Bane's Office Cline called to ask if there was anyway to combine a report due in connection with a contribution made in a special election which is due June 21 with the semi-annual statement. I informed him that the semi-annual campaign statement could be filed early and if sent to the jurisdiction where the abbreviated statement is due in connection with the special election would be deemed a timely filing for that election. An amendment to the semi-annual statement would be required, however, if there is additional activity after the closing date of the semi-annual statement filed early. Regulation 18426 Section 84206 Section 84204.1",
+    "summary": "FPPC advises that an early semi-annual campaign statement can serve as the required contribution report for a special election, provided it is filed with the appropriate jurisdiction and amended if necessary for subsequent activity."
+  }
+}

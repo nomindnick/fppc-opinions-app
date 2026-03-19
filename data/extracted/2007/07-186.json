@@ -1,0 +1,71 @@
+{
+  "id": "07-186",
+  "year": 2007,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2007/07-186.pdf",
+  "pdf_sha256": "7016974d3b3178f5240847c37eef48cb8fa0fb84709df552df6e020925dd940d",
+  "local_pdf_path": "raw_pdfs/2007/07-186.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2007 Advice Letter # 07-186",
+    "tags": [
+      "2007",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:46:13",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2007&tagCount=1&page=8"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T21:01:42.737329Z",
+    "page_count": 1,
+    "word_count": 71,
+    "char_count": 457,
+    "quality_score": 0.7753749033416183,
+    "olmocr_cost": 0.0024742199999999996,
+    "native_word_count": 102
+  },
+  "content": {
+    "full_text": "December 31, 2007\n\nLarry D. Johnson\nCertified Public Accountant\n3402 Mendocino Avenue\nSanta Rosa, CA 95403\n\nRe: Your Request for Advice\n    Our File No. W-07-186\n\nDear Mr. Johnson:\n\nThis letter is to notify you that, at your request, we have withdrawn the above captioned request for advice.\n\nIf you have any questions, feel free to call me at (916) 322-5660.\n\nSincerely,\n\nScott Hallabrin\nGeneral Counsel\n\nBy: Adrianne Korchmaros\nPolitical Reform Consultant",
+    "full_text_markdown": "December 31, 2007\n\nLarry D. Johnson\nCertified Public Accountant\n3402 Mendocino Avenue\nSanta Rosa, CA 95403\n\nRe: Your Request for Advice\n    Our File No. W-07-186\n\nDear Mr. Johnson:\n\nThis letter is to notify you that, at your request, we have withdrawn the above captioned request for advice.\n\nIf you have any questions, feel free to call me at (916) 322-5660.\n\nSincerely,\n\nScott Hallabrin\nGeneral Counsel\n\nBy: Adrianne Korchmaros\nPolitical Reform Consultant"
+  },
+  "parsed": {
+    "date": "2007-12-31",
+    "date_raw": "December 31, 2007",
+    "requestor_name": "Johnson",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T21:01:42.737329Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "December 31, 2007 Larry D. Johnson Certified Public Accountant 3402 Mendocino Avenue Santa Rosa, CA 95403 Re: Your Request for Advice Our File No. W-07-186 Dear Mr. Johnson: This letter is to notify you that, at your request, we have withdrawn the above captioned request for advice. If you have any questions, feel free to call me at (916) 322-5660. Sincerely, Scott Hallabrin General Counsel By: Adrianne Korchmaros Political Reform Consultant",
+    "qa_source": "extracted",
+    "first_500_words": "December 31, 2007 Larry D. Johnson Certified Public Accountant 3402 Mendocino Avenue Santa Rosa, CA 95403 Re: Your Request for Advice Our File No. W-07-186 Dear Mr. Johnson: This letter is to notify you that, at your request, we have withdrawn the above captioned request for advice. If you have any questions, feel free to call me at (916) 322-5660. Sincerely, Scott Hallabrin General Counsel By: Adrianne Korchmaros Political Reform Consultant",
+    "summary": null
+  }
+}

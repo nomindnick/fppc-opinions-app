@@ -1,0 +1,76 @@
+{
+  "id": "76079",
+  "year": 1976,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1976/76079.PDF",
+  "pdf_sha256": "00d3d4407fad5dfc2a57e63c8d1cec724e85873b1c6f8911bd9ae8683d7c90e3",
+  "local_pdf_path": "raw_pdfs/1976/76079.PDF",
+  "source_metadata": {
+    "title_raw": "HUNDT, REED Year: 1976 Advice Letter # 76079",
+    "tags": [
+      "1976",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:17:19",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1976&tagCount=1&page=37"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-25T22:47:36.511597Z",
+    "page_count": 1,
+    "word_count": 234,
+    "char_count": 1485,
+    "quality_score": 0.9082821632713762,
+    "olmocr_cost": 0.00262214,
+    "native_word_count": 7,
+    "haiku_cost": 0.002844
+  },
+  "content": {
+    "full_text": "82013 (c)\n\nState of California\n\nFair Political Practices Commission\nP.O. BOX 807 · SACRAMENTO, 95804 · · · 1100 K STREET BUILDING, SACRAMENTO 95314\n\nAugust 13, 1976\n\nA76-08-079\n\nMR. Reed Hundt\nLatham & Watkins\n555 South Flower Street\nLos Angeles CA 90071\n\nDear Reed:\n\nThis letter confirms our telephone conversation of August 12, 1976, concerning a client who wishes to make a monetary contribution in excess of $5,000 to the Committee to Elect State and Local Candidates (\"CESLC\"). Your client will become a \"committee,\" as defined in Government Code Section 82013(c), after making contributions of cash and cash equivalents totaling $5,000 or more in a calendar year. Payments to CESLC should be included in determining whether the client's total contributions have aggregated $5,000 or more.\n\nIf your client makes contributions only to CESLC it is not deemed to be a committee \"supporting or opposing a candidate or candidates\" within the meaning of Section 84200. Consequently, the committee is not required to file campaign statements in the general election. However, the client should file a semi-annual campaign statement in January 1977, pursuant to Section 84200. The original and one copy of the statement should be filed with the Secretary of State and two copies should be filed with the Registrar-Recorder of Los Angeles County.\n\nI hope this information will be of assistance.\n\nSincerely,\n\nKenneth Finney\nChief\n\n(for) Natalie B. West\nStaff Counsel\nLegal Division\n\nNEW:pvp",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1976-08-13",
+    "date_raw": "August 13, 1976",
+    "requestor_name": "HUNDT",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "What are the committee status requirements and reporting obligations for a client who wishes to make a contribution exceeding $5,000 to the Committee to Elect State and Local Candidates (CESLC)?",
+    "conclusion_synthetic": "Upon making contributions totaling $5,000 or more in a calendar year, the client becomes a committee under Government Code Section 82013(c). Since the client's contributions support only CESLC, it is not deemed a committee supporting or opposing specific candidates and therefore is not required to file general election campaign statements; however, a semi-annual campaign statement must be filed in January 1977 with the Secretary of State and Los Angeles County Registrar-Recorder.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.88,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: No distinct QUESTION or CONCLUSION sections with headers were found; content is presented in narrative letter format. Question and conclusion extracted from body text. Document confirms prior telephone conversation guidance."
+  },
+  "citations": {
+    "government_code": [
+      "82013(c)",
+      "84200",
+      "84206"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T17:17:50.064552Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: What are the committee status requirements and reporting obligations for a client who wishes to make a contribution exceeding $5,000 to the Committee to Elect State and Local Candidates (CESLC)?\n\nCONCLUSION: Upon making contributions totaling $5,000 or more in a calendar year, the client becomes a committee under Government Code Section 82013(c). Since the client's contributions support only CESLC, it is not deemed a committee supporting or opposing specific candidates and therefore is not required to file general election campaign statements; however, a semi-annual campaign statement must be filed in January 1977 with the Secretary of State and Los Angeles County Registrar-Recorder.",
+    "qa_source": "synthetic",
+    "first_500_words": "August 13, 1976 Mr. Reed Hundt Latham & Watkins 555 South Flower Street Los Angeles CA 90071 Dear Reed: This letter confirms our telephone conversation of August 12, 1976, concerning a client who wishes to make a monetary contribution in excess of $5,000 to the Committee to Elect State and Local Candidates (\"CESLC\"). Your client will become a \"committee,\" as defined in Government Code Section 82013(c), after making contributions of cash and cash equivalents totaling $5,000 or more in a calendar year. Payments to CESLC should be included in determining whether the client's total contributions have aggregated $5,000 or more. If your client makes contributions only to CESLC it is not deemed to be a committee \"supporting or opposing a candidate or candidates\" within the meaning of Section 84200. Consequently, the committee is not required to file campaign statements in the general election. However, the client should file a semi-annual campaign statement in January 1977, pursuant to Section 84206. The original and one copy of the statement should be filed with the Secretary of State and two copies should be filed with the Registrar-Recorder of Los Angeles County. I hope this information will be of assistance. Sincerely, [signature] Kenneth Finney Chief (for) Natalie E. West Staff Counsel Legal Division",
+    "summary": "This is an FPPC advice letter confirming that a client making contributions in excess of $5,000 to CESLC will achieve committee status and must file semi-annual campaign statements, but is exempt from general election campaign statement filing requirements."
+  }
+}

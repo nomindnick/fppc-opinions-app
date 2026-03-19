@@ -1,0 +1,73 @@
+{
+  "id": "78ADV-78-190",
+  "year": 1978,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1978/78ADV-78-190.PDF",
+  "pdf_sha256": "09c126a75b6d2626df366b813baa47072f5596f8e04fad350e06de521a3312fa",
+  "local_pdf_path": "raw_pdfs/1978/78ADV-78-190.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1978ADV Advice Letter # 78ADV-78-190",
+    "tags": [
+      "Advice Letter",
+      "1978"
+    ],
+    "scraped_at": "2026-01-31 15:24:35",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=24"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:10.765752Z",
+    "page_count": 3,
+    "word_count": 278,
+    "char_count": 1628,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 278
+  },
+  "content": {
+    "full_text": "air Political Practices Commissi \nSACRAMENTO, 95804 ••• 11 \nTechnical A\",,'~ance \nJanua \n1 \n19 \nBox \nan Gabriel, \n91778 \nar Ms. \nan: \nFair \nlitic \nPractices \nss \nd ted December 28, 1977, concern \n76-0 \nwhat c \nn \nOn Oc \nnen \n1 \nlch \nsemiannua \nsemiannual \nto the cl \ni \nex \ntures \ncover \n5, 1976, \nn, 2 Cal. \ned), clar i \nng \nn statements. \nn statemen \nlong \nt \nhas rece \nOpinion \nstatement was \noffice. \nior \n1 \nthe \nber, \n1 \n\n\nMargery Phe an \nJanuary 11, 19 \ne Two \nT ... \ne any \nther quest \ne \nt \ni \nease con \ncerely, \nto \nIf you \n\n\nCITY OF SAn GABRIEL \nFOUNDED 1771 \nINCORPORATED 1913 \n532 WEST MISSION DRIVE \nSAN GASRIEL. CALIFORNIA 91776 \n,213) 282~4104 \n283~2S91 \np, O. sox 130 \nSAN GABRIELCALIFORNIA 91778 \nROBERT D. JONES \nCITY CLERK \nFair Political Practices Commission \n1100 K Street \nSacramento, California \n95814 \nGentlemen: \nDecember 28, 1977 \nWe received a letter from you dated March 8, 1976, Re: \nRequest for Opinion No. 76-025. \nIn this letter you stated that the Commission had \ndetermined that the issue raised should be addressed by \na regulation of general applicability insteail of by an \nopinion. \nIt was to be heard at your May 1976 Commission \nMeeting. \nWe did not receive any word as to the out.ome \nof the hearing. \nThe question asked was whether a Council \nMember who did not seek reelection and who resigned a \nmonth before his term expired needed to file a Campaign \nStatement for the period from the beginning of the year \nuntil he resigned. \nAt this time we have a Council Member who is not \nseeking reelection. \nWhat is the date his Campaign State-\nment will be due. \nYours truly, \nlan \nClerk \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1977-12-28",
+    "date_raw": "December 28, 1977",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "What is the date a Campaign Statement will be due for a Council Member who is not seeking reelection?",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The City of San Gabriel seeks clarification on when a Council Member who is not seeking reelection must file a Campaign Statement, following up on a prior opinion request (76-025) regarding whether such a statement is required for the period prior to resignation.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.65,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is heavily degraded/poorly scanned with significant OCR errors and missing text. Identified as incoming request rather than FPPC advice letter based on letterhead from City of San Gabriel to FPPC, requesting guidance rather than providing it. FPPC response appears to be on reverse side but is illegible. No clear CONCLUSION section found in readable text."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [
+      "A-76-025"
+    ],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:10.765752Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: What is the date a Campaign Statement will be due for a Council Member who is not seeking reelection?",
+    "qa_source": "mixed",
+    "first_500_words": "air Political Practices Commissi SACRAMENTO, 95804 ••• 11 Technical A\",,'~ance Janua 1 19 Box an Gabriel, 91778 ar Ms. an: Fair litic Practices ss d ted December 28, 1977, concern 76-0 what c n On Oc nen 1 lch semiannua semiannual to the cl i ex tures cover 5, 1976, n, 2 Cal. ed), clar i ng n statements. n statemen long t has rece Opinion statement was office. ior 1 the ber, 1 Margery Phe an January 11, 19 e Two T ... e any ther quest e t i ease con cerely, to If you CITY OF SAn GABRIEL FOUNDED 1771 INCORPORATED 1913 532 WEST MISSION DRIVE SAN GASRIEL. CALIFORNIA 91776 ,213) 282~4104 283~2S91 p, O. sox 130 SAN GABRIELCALIFORNIA 91778 ROBERT D. JONES CITY CLERK Fair Political Practices Commission 1100 K Street Sacramento, California 95814 Gentlemen: December 28, 1977 We received a letter from you dated March 8, 1976, Re: Request for Opinion No. 76-025. In this letter you stated that the Commission had determined that the issue raised should be addressed by a regulation of general applicability insteail of by an opinion. It was to be heard at your May 1976 Commission Meeting. We did not receive any word as to the out.ome of the hearing. The question asked was whether a Council Member who did not seek reelection and who resigned a month before his term expired needed to file a Campaign Statement for the period from the beginning of the year until he resigned. At this time we have a Council Member who is not seeking reelection. What is the date his Campaign State- ment will be due. Yours truly, lan Clerk",
+    "summary": "This is an incoming request from the City of San Gabriel City Clerk dated December 28, 1977, following up on a prior FPPC opinion request (76-025) from March 1976 regarding Campaign Statement filing requirements for a Council Member not seeking reelection, and asking for clarification on the due date for such a statement."
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "83A286",
+  "year": 1983,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1983/83A286.PDF",
+  "pdf_sha256": "90df52febe775cd85b839f5320dccba76ef2fca60e5a174368889d697f68eb37",
+  "local_pdf_path": "raw_pdfs/1983/83A286.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1983 Advice Letter # 83A286",
+    "tags": [
+      "1983",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:31:59",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1983&tagCount=1&page=7"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T13:27:14.845185Z",
+    "page_count": 1,
+    "word_count": 136,
+    "char_count": 851,
+    "quality_score": 0.8308582107968687,
+    "olmocr_cost": 0.0025499,
+    "native_word_count": 126
+  },
+  "content": {
+    "full_text": "TO: [x] JEANNE   [ ] JAY\n      [ ] LYNN    [ ] BARBARA\n      [ ] RICH    [ ] BOB S.\n      [ ] HELEN   [x] OTHER_Mary Ann\n\nFROM: Carla Wardlow\nDATE: 12/30/83\n\n[x] TELEPHONE ADVICE - SEE BELOW\n[ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT\n(If you have any comments, notify advisor within 1 day)\n\nFILE LOCATION: 84200\n\nINCLUDE IN ADVICE PACKAGE: YES [ ] NO [x]\n\nCALLER: Barbara Meyers\nREPRESENTING: County of Riverside\nPHONE NUMBER:\n\nQUESTION: Does a candidate-controlled committee primarily formed to oppose the qualification of a recall file a semi-annual statement for 1983 or a qualification statement 35 days after qualification?\n\nANSWER: A committee primarily formed to oppose the qualification of a recall which is controlled by a candidate files as a qualification committee (35 days after qualification), not on the candidate's filing schedule.",
+    "full_text_markdown": "TO: [x] JEANNE   [ ] JAY\n      [ ] LYNN    [ ] BARBARA\n      [ ] RICH    [ ] BOB S.\n      [ ] HELEN   [x] OTHER_Mary Ann\n\nFROM: Carla Wardlow\nDATE: 12/30/83\n\n[x] TELEPHONE ADVICE - SEE BELOW\n[ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT\n(If you have any comments, notify advisor within 1 day)\n\nFILE LOCATION: 84200\n\nINCLUDE IN ADVICE PACKAGE: YES [ ] NO [x]\n\nCALLER: Barbara Meyers\nREPRESENTING: County of Riverside\nPHONE NUMBER:\n\nQUESTION: Does a candidate-controlled committee primarily formed to oppose the qualification of a recall file a semi-annual statement for 1983 or a qualification statement 35 days after qualification?\n\nANSWER: A committee primarily formed to oppose the qualification of a recall which is controlled by a candidate files as a qualification committee (35 days after qualification), not on the candidate's filing schedule."
+  },
+  "parsed": {
+    "date": "1983-12-30",
+    "date_raw": "12/30/83",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Does a candidate-controlled committee primarily formed to oppose the qualification of a recall file a semi-annual statement for 1983 or a qualification statement 35 days after qualification?\n\nANSWER: A committee primarily formed to oppose the qualification of a recall which is controlled by a candidate files as a qualification committee (35 days after qualification), not on the candidate's filing schedule.",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.44999999999999996,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-20T13:27:14.845185Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Does a candidate-controlled committee primarily formed to oppose the qualification of a recall file a semi-annual statement for 1983 or a qualification statement 35 days after qualification?\n\nANSWER: A committee primarily formed to oppose the qualification of a recall which is controlled by a candidate files as a qualification committee (35 days after qualification), not on the candidate's filing schedule.",
+    "qa_source": "extracted",
+    "first_500_words": "TO: [x] JEANNE [ ] JAY [ ] LYNN [ ] BARBARA [ ] RICH [ ] BOB S. [ ] HELEN [x] OTHER_Mary Ann FROM: Carla Wardlow DATE: 12/30/83 [x] TELEPHONE ADVICE - SEE BELOW [ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT (If you have any comments, notify advisor within 1 day) FILE LOCATION: 84200 INCLUDE IN ADVICE PACKAGE: YES [ ] NO [x] CALLER: Barbara Meyers REPRESENTING: County of Riverside PHONE NUMBER: QUESTION: Does a candidate-controlled committee primarily formed to oppose the qualification of a recall file a semi-annual statement for 1983 or a qualification statement 35 days after qualification? ANSWER: A committee primarily formed to oppose the qualification of a recall which is controlled by a candidate files as a qualification committee (35 days after qualification), not on the candidate's filing schedule.",
+    "summary": null
+  }
+}

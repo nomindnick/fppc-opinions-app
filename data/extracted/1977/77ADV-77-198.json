@@ -1,0 +1,71 @@
+{
+  "id": "77ADV-77-198",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-198.PDF",
+  "pdf_sha256": "e37fb4d4f26db98444bdc59b0164353856d4870c16c3089c58a025e45bc9ea79",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-198.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-198",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:21:00",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=28"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-07T17:09:59.619953Z",
+    "page_count": 1,
+    "word_count": 124,
+    "char_count": 785,
+    "quality_score": 0.5975,
+    "olmocr_cost": 0.00250862,
+    "native_word_count": 38
+  },
+  "content": {
+    "full_text": "March 31, 1977\n\nMr. Gerald F. Weiner  \nWeiner & Rotman  \n8399 Topanga Canyon Boulevard  \nCanoga Park, CA 91304\n\nDear Mr. Weiner:\n\nThis letter is in response to your inquiry of March 21, 1977, concerning the campaign provisions of the Political Reform Act.\n\nThe Act does not require a committee that is unauthorized by the candidate to state such a fact in its literature. The Act does, however, contain specific requirements which are described in the attached fact sheet, regarding the identification of the sender of mass mailings.\n\nYour understanding that a committee may be composed of a single person is correct.\n\nI hope this information is of assistance. If you have further questions, please contact me.\n\nSincerely,\n\nNan Emmerson  \nSpecial Compliance Representative\n\nEnc.\n\nNE:jg",
+    "full_text_markdown": "March 31, 1977\n\nMr. Gerald F. Weiner  \nWeiner & Rotman  \n8399 Topanga Canyon Boulevard  \nCanoga Park, CA 91304\n\nDear Mr. Weiner:\n\nThis letter is in response to your inquiry of March 21, 1977, concerning the campaign provisions of the Political Reform Act.\n\nThe Act does not require a committee that is unauthorized by the candidate to state such a fact in its literature. The Act does, however, contain specific requirements which are described in the attached fact sheet, regarding the identification of the sender of mass mailings.\n\nYour understanding that a committee may be composed of a single person is correct.\n\nI hope this information is of assistance. If you have further questions, please contact me.\n\nSincerely,\n\nNan Emmerson  \nSpecial Compliance Representative\n\nEnc.\n\nNE:jg"
+  },
+  "parsed": {
+    "date": "1977-03-31",
+    "date_raw": "March 31, 1977",
+    "requestor_name": "Weiner",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "What are the requirements under the Political Reform Act regarding unauthorized committees disclosing their status in literature, and can a committee consist of a single person?",
+    "conclusion_synthetic": "Unauthorized committees are not required to disclose their status in literature, but must comply with specific mass mailing identification requirements under the Act. A committee may be composed of a single person.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: No formal QUESTION or CONCLUSION sections present; advice embedded in letter body. Fact sheet referenced but not included in provided document text. Responder identified as Nan Emmerson, Special Compliance Representative."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T17:09:59.619953Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: What are the requirements under the Political Reform Act regarding unauthorized committees disclosing their status in literature, and can a committee consist of a single person?\n\nCONCLUSION: Unauthorized committees are not required to disclose their status in literature, but must comply with specific mass mailing identification requirements under the Act. A committee may be composed of a single person.",
+    "qa_source": "synthetic",
+    "first_500_words": "March 31, 1977 Mr. Gerald F. Weiner Weiner & Rotman 8399 Topanga Canyon Boulevard Canoga Park, CA 91304 Dear Mr. Weiner: This letter is in response to your inquiry of March 21, 1977, concerning the campaign provisions of the Political Reform Act. The Act does not require a committee that is unauthorized by the candidate to state such a fact in its literature. The Act does, however, contain specific requirements which are described in the attached fact sheet, regarding the identification of the sender of mass mailings. Your understanding that a committee may be composed of a single person is correct. I hope this information is of assistance. If you have further questions, please contact me. Sincerely, Nan Emmerson Special Compliance Representative Enc. NE:jg",
+    "summary": "FPPC advises that unauthorized committees need not disclose their status in campaign literature but must follow specific mass mailing identification requirements, and confirms that a single-person committee structure is permissible under the Political Reform Act."
+  }
+}

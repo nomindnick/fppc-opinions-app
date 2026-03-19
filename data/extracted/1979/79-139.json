@@ -1,0 +1,75 @@
+{
+  "id": "79-139",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-139.PDF",
+  "pdf_sha256": "f573e4184ab3eb85a17e29cc2f3412c73b2cab0b6abc480ef8707ef965a27883",
+  "local_pdf_path": "raw_pdfs/1979/79-139.PDF",
+  "source_metadata": {
+    "title_raw": "CORZINE, JOHN Year: 1979 Advice Letter # 79-139",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:26:22",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=14"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-27T17:15:49.741314Z",
+    "page_count": 1,
+    "word_count": 236,
+    "char_count": 1642,
+    "quality_score": 0.9285779071725222,
+    "olmocr_cost": 0.00263246,
+    "native_word_count": 4,
+    "haiku_cost": 0.0027559999999999998
+  },
+  "content": {
+    "full_text": "State of California\n\nMemorandum\n\nTo : John Corzine                                    Date :May 18, 1979\n    Office of the Legislative Counsel\n    925 L Street, Suite 500\n    Sacramento, CA  95814\n                                                     M1-79-139\n\nFrom : FAIR POLITICAL PRACTICES COMMISSION\n       Sarah Cameron\n\nSubject: Reportability of loans to a business entity\n\n\n       This is confirmation of our recent telephone conversations\non the above-noted subject.  The staff of the Fair Political\nPractices Commission has consistently interpreted the term\n\"gross receipts\" as used in Government Code Section 87207(b)(3)\nas not including loans received by the business entity whose\nincome is being reported under its provisions. This limit is\non disclosure only, however, and loans to business entities\nare not excluded from the term \"income\" as used throughout the\nPolitical Reform Act.  Consequently, loans which do not have to\nbe reported may nevertheless on occasion disqualify under the\nprovisions of Government Code Sections 87100 and 87103. Although\nthese interpretations have not been the subject of a formal\nopinion by the Commission, they were acknowledged and confirmed\nby the Commission during its discussions of proposed legislation\nto make outstanding loans reportable.  These discussions were\nheld at the Commission's March and April meetings this year.\n\n       If any of your designated employees has a 10% or greater\ninterest in a bank, you may also be interested in knowing that\n\"gross receipts\" does not include repayment to the bank of the\nprincipal of loans but it does include the payment of interest.\n\nSTC:nrw",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1979-05-18",
+    "date_raw": "May 18, 1979",
+    "requestor_name": "CORZINE",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "opinion"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether loans received by a business entity are reportable as 'gross receipts' under Government Code Section 87207(b)(3), and how loans affect disqualification requirements under the Political Reform Act.",
+    "conclusion_synthetic": "The FPPC interprets 'gross receipts' as excluding loans received by business entities for disclosure purposes; however, loans are not excluded from 'income' generally and may trigger disqualification under Government Code Sections 87100 and 87103. Interest payments on loans are included in gross receipts, but principal repayments are not.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Memorandum format without formal Q/A sections; conclusion synthesized from body text discussing FPPC's consistent interpretation; document confirms telephone conversation discussion and references Commission meetings rather than formal opinion."
+  },
+  "citations": {
+    "government_code": [
+      "87100",
+      "87207(b)(3)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T16:50:49.910696Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether loans received by a business entity are reportable as 'gross receipts' under Government Code Section 87207(b)(3), and how loans affect disqualification requirements under the Political Reform Act.\n\nCONCLUSION: The FPPC interprets 'gross receipts' as excluding loans received by business entities for disclosure purposes; however, loans are not excluded from 'income' generally and may trigger disqualification under Government Code Sections 87100 and 87103. Interest payments on loans are included in gross receipts, but principal repayments are not.",
+    "qa_source": "synthetic",
+    "first_500_words": "**Memorandum** **To:** John Corzine Office of the Legislative Counsel 925 L Street, Suite 500 Sacramento, CA 95814 **Date:** May 18, 1979 **From:** FAIR POLITICAL PRACTICES COMMISSION Sarah Cameron **Subject:** Reportability of loans to a business entity This is confirmation of our recent telephone conversations on the above-noted subject. The staff of the Fair Political Practices Commission has consistently interpreted the term \"gross receipts\" as used in Government Code Section 87207(b)(3) as not including loans received by the business entity whose income is being reported under its provisions. This limit is on disclosure only, however, and loans to business entities are not excluded from the term \"income\" as used throughout the Political Reform Act. Consequently, loans which do not have to be reported may nevertheless occasion disqualification under the provisions of Government Code Sections 87100 and 87103. Although these interpretations have not been the subject of a formal opinion by the Commission, they were acknowledged and confirmed by the Commission during its discussions of proposed legislation to make outstanding loans reportable. These discussions were held at the Commission's March and April meetings this year. If any of your designated employees has a 10% or greater interest in a bank, you may also be interested in knowing that \"gross receipts\" does not include repayment to the bank of the principal of loans but it does include the payment of interest. STC:nrw",
+    "summary": "FPPC confirms its longstanding interpretation that loans to business entities are not reportable as 'gross receipts' for disclosure purposes, but may still trigger disqualification obligations under the Political Reform Act."
+  }
+}

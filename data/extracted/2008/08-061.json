@@ -1,0 +1,71 @@
+{
+  "id": "08-061",
+  "year": 2008,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2008/08-061.pdf",
+  "pdf_sha256": "0776816217124605ab17af6870ae47a0dbf6814bc1922fb2a838f4e46eccd797",
+  "local_pdf_path": "raw_pdfs/2008/08-061.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2008 Advice Letter # 08-061",
+    "tags": [
+      "2008",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:47:51",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2008&tagCount=1&page=10"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T19:03:50.519825Z",
+    "page_count": 1,
+    "word_count": 76,
+    "char_count": 467,
+    "quality_score": 0.7849307827452152,
+    "olmocr_cost": 0.00247938,
+    "native_word_count": 97
+  },
+  "content": {
+    "full_text": "April 28, 2008\n\nNick Aguilar\nPatricia Aguilar for City Council\n1048 Surrey Drive\nBonita, CA 91902\n\nRe: Your Request for Advice\nOur File No. W-08-061\n\nDear Mr. Aguilar:\n\nThis letter is to notify you that we have withdrawn the above captioned request for advice per our telephone conversation on April 16, 2008.\n\nIf you have any questions, feel free to call me at (916) 322-5660.\n\nSincerely,\n\nScott Hallabrin\nGeneral Counsel\n\nBy: Trish Mayer\nPolitical Reform Consultant",
+    "full_text_markdown": "April 28, 2008\n\nNick Aguilar\nPatricia Aguilar for City Council\n1048 Surrey Drive\nBonita, CA 91902\n\nRe: Your Request for Advice\nOur File No. W-08-061\n\nDear Mr. Aguilar:\n\nThis letter is to notify you that we have withdrawn the above captioned request for advice per our telephone conversation on April 16, 2008.\n\nIf you have any questions, feel free to call me at (916) 322-5660.\n\nSincerely,\n\nScott Hallabrin\nGeneral Counsel\n\nBy: Trish Mayer\nPolitical Reform Consultant"
+  },
+  "parsed": {
+    "date": "2008-04-28",
+    "date_raw": "April 28, 2008",
+    "requestor_name": "Aguilar",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T19:03:50.519825Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "April 28, 2008 Nick Aguilar Patricia Aguilar for City Council 1048 Surrey Drive Bonita, CA 91902 Re: Your Request for Advice Our File No. W-08-061 Dear Mr. Aguilar: This letter is to notify you that we have withdrawn the above captioned request for advice per our telephone conversation on April 16, 2008. If you have any questions, feel free to call me at (916) 322-5660. Sincerely, Scott Hallabrin General Counsel By: Trish Mayer Political Reform Consultant",
+    "qa_source": "extracted",
+    "first_500_words": "April 28, 2008 Nick Aguilar Patricia Aguilar for City Council 1048 Surrey Drive Bonita, CA 91902 Re: Your Request for Advice Our File No. W-08-061 Dear Mr. Aguilar: This letter is to notify you that we have withdrawn the above captioned request for advice per our telephone conversation on April 16, 2008. If you have any questions, feel free to call me at (916) 322-5660. Sincerely, Scott Hallabrin General Counsel By: Trish Mayer Political Reform Consultant",
+    "summary": null
+  }
+}

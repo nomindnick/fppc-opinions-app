@@ -1,0 +1,71 @@
+{
+  "id": "84174",
+  "year": 1984,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1984/fppc-advice/84174.PDF",
+  "pdf_sha256": "0a953dae83c54e167e3a763fbe662e17a83dbba85dcdbd9603eea2f658d7f7b0",
+  "local_pdf_path": "raw_pdfs/1984/84174.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1984 Advice Letter # 84174",
+    "tags": [
+      "1984",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:34:36",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1984&tagCount=1&page=16"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T17:23:50.708725Z",
+    "page_count": 1,
+    "word_count": 167,
+    "char_count": 964,
+    "quality_score": 0.8473288059085909,
+    "olmocr_cost": 0.0025894599999999996,
+    "native_word_count": 155
+  },
+  "content": {
+    "full_text": "TO: [x] JEANNE   [ ] JAY\n[ ] LYNN   [ ] BARBARA\n[ ] RICH   [ ] BOB S.\n[ ] HELEN   [x] OTHER Mary Ann\n\nFROM: Carla\nDATE: 6/27/84\nNo. T-84-174\n\n[x] TELEPHONE ADVICE - SEE BELOW\n[ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT\n(IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY)\n\nFILE LOCATION: 86107\nINCLUDE IN ADVICE PACKAGE: YES [ ] NO [x]\n\nCALLER Tina\nREPRESENTING Bill Thomas (Lobbyist)\nPHONE NUMBER: 441-0992\n\nQUESTION: Bill Thomas and others paid $100 toward the purchase of each ticket for another individual to attend a fundraiser. Is this reportable on Thomas' lobbyist report? How should it be reported?\n\nANSWER: The contribution is reportable on his lobbyist report. He does not need to indicate on the 620 that an intermediary purchased the ticket, but he should keep a copy of his check in his records along with an explanation. I also discussed the intermediary's obligation to properly disclose the true sources of the contribution to the candidate.",
+    "full_text_markdown": "TO: [x] JEANNE   [ ] JAY\n[ ] LYNN   [ ] BARBARA\n[ ] RICH   [ ] BOB S.\n[ ] HELEN   [x] OTHER Mary Ann\n\nFROM: Carla\nDATE: 6/27/84\nNo. T-84-174\n\n[x] TELEPHONE ADVICE - SEE BELOW\n[ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT\n(IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY)\n\nFILE LOCATION: 86107\nINCLUDE IN ADVICE PACKAGE: YES [ ] NO [x]\n\nCALLER Tina\nREPRESENTING Bill Thomas (Lobbyist)\nPHONE NUMBER: 441-0992\n\nQUESTION: Bill Thomas and others paid $100 toward the purchase of each ticket for another individual to attend a fundraiser. Is this reportable on Thomas' lobbyist report? How should it be reported?\n\nANSWER: The contribution is reportable on his lobbyist report. He does not need to indicate on the 620 that an intermediary purchased the ticket, but he should keep a copy of his check in his records along with an explanation. I also discussed the intermediary's obligation to properly disclose the true sources of the contribution to the candidate."
+  },
+  "parsed": {
+    "date": "1984-06-27",
+    "date_raw": "6/27/84",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Bill Thomas and others paid $100 toward the purchase of each ticket for another individual to attend a fundraiser. Is this reportable on Thomas' lobbyist report? How should it be reported?\n\nANSWER: The contribution is reportable on his lobbyist report. He does not need to indicate on the 620 that an intermediary purchased the ticket, but he should keep a copy of his check in his records along with an explanation. I also discussed the intermediary's obligation to properly disclose the true sources of the contribution to the candidate.",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.44999999999999996,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-20T17:23:50.708725Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Bill Thomas and others paid $100 toward the purchase of each ticket for another individual to attend a fundraiser. Is this reportable on Thomas' lobbyist report? How should it be reported?\n\nANSWER: The contribution is reportable on his lobbyist report. He does not need to indicate on the 620 that an intermediary purchased the ticket, but he should keep a copy of his check in his records along with an explanation. I also discussed the intermediary's obligation to properly disclose the true sources of the contribution to the candidate.",
+    "qa_source": "extracted",
+    "first_500_words": "TO: [x] JEANNE [ ] JAY [ ] LYNN [ ] BARBARA [ ] RICH [ ] BOB S. [ ] HELEN [x] OTHER Mary Ann FROM: Carla DATE: 6/27/84 No. T-84-174 [x] TELEPHONE ADVICE - SEE BELOW [ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT (IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY) FILE LOCATION: 86107 INCLUDE IN ADVICE PACKAGE: YES [ ] NO [x] CALLER Tina REPRESENTING Bill Thomas (Lobbyist) PHONE NUMBER: 441-0992 QUESTION: Bill Thomas and others paid $100 toward the purchase of each ticket for another individual to attend a fundraiser. Is this reportable on Thomas' lobbyist report? How should it be reported? ANSWER: The contribution is reportable on his lobbyist report. He does not need to indicate on the 620 that an intermediary purchased the ticket, but he should keep a copy of his check in his records along with an explanation. I also discussed the intermediary's obligation to properly disclose the true sources of the contribution to the candidate.",
+    "summary": null
+  }
+}

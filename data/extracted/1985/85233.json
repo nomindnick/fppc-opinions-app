@@ -1,0 +1,74 @@
+{
+  "id": "85233",
+  "year": 1985,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1985/fppc-advice/85233.PDF",
+  "pdf_sha256": "709250fbc9ed6172920ef21396851db693d9a3398a22911dcd40cce3f228a571",
+  "local_pdf_path": "raw_pdfs/1985/85233.PDF",
+  "source_metadata": {
+    "title_raw": "PASSMORE, SHERRY Year: 1985 Advice Letter # 85233",
+    "tags": [
+      "Advice Letter",
+      "1985"
+    ],
+    "scraped_at": "2026-01-31 15:37:27",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1985&tagCount=1&page=25"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:43.931505Z",
+    "page_count": 2,
+    "word_count": 280,
+    "char_count": 1924,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 280
+  },
+  "content": {
+    "full_text": "California \nFair Political \nPractices Commission \nSherry Passmore \nExecutive Director \nNovember 12, 1985 \nCitizens Property Rights Committee \nP.o. Box 1332 \nTemple city, CA \n91780 \nDear Ms. Passmore: \nRe: \nYour Request for Advice; \nOur File No. A-85-233 \nThank you for your letter dated November 6, 1985, \nrequesting advice pursuant to Government Code Section 83114(b). \nHowever, I cannot advise you about someone else's duties under \nthe Political Reform Act. \nSee 2 Cal. Adm. Code Section 18239 \n(copy enclosed). \nWhether Commissioner Montgomery can \nparticipate in consideration of Commission regulations on \nredevelopment decisions is discussed in general terms in my \nletter to him dated November 1, 1985. \nI believe you already \nhave a copy of that letter. \nI am unable to give you any \nadditional advice concerning Commissioner Montgomery's duties \nunder the Political Reform Act. \nBAM:nwm \nEnclosure \n428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804~0807 • \n(916)322~5660 \n\n\nNovember 6, 1985 \nMs. Barbara A. Milman, General Counsel \nFair Political Practices Commission, Legal Division \nP.O. Box 807 \nSacramento, CA \n95804-0807 \nDear Ms. Milman, \nI am hereby requesting written advice, under government Code Section \n813114 (b) with respect to the following: \nWould a commissioner of the Fair Political Practices Commission be in \nconflict of interest under provisions of the Political Reform Act if he \nis participating in discussions, drafting of or voting on any regulations \nor decisions affecting redevelopment agencies at the same time that he is \nderiving income as redevelopment counsel to a number of redevelopment \nagencies? \nThank you for your attention to this request. \nSincerely, \nExecutive Director, Citizens Property Rights Committee \nSP/lcr \ncc. Chairman Stanford, Commissioners Lee, Lemons, Montgomery, and Roden. \nP.O. Box 1332 ., \nCity, Califomia 91780 • (818)405·1091. (818)447.5500 \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1985-11-12",
+    "date_raw": "November 12, 1985",
+    "requestor_name": "Passmore",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Would a commissioner of the Fair Political Practices Commission be in conflict of interest under provisions of the Political Reform Act if he is participating in discussions, drafting of or voting on any regulations or decisions affecting redevelopment agencies at the same time that he is deriving income as redevelopment counsel to a number of redevelopment agencies?",
+    "conclusion": "I cannot advise you about someone else's duties under the Political Reform Act. See 2 Cal. Adm. Code Section 18239 (copy enclosed). Whether Commissioner Montgomery can participate in consideration of Commission regulations on redevelopment decisions is discussed in general terms in my letter to him dated November 1, 1985.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requestor asks whether a FPPC Commissioner would have a conflict of interest under the Political Reform Act if he participates in FPPC discussions, drafting, or voting on regulations affecting redevelopment agencies while simultaneously receiving income as counsel to redevelopment agencies.",
+    "conclusion_synthetic": "FPPC General Counsel declined to provide advice about another person's (Commissioner Montgomery's) duties under the Political Reform Act, citing regulatory restrictions on providing such advice. The FPPC had previously addressed the conflict of interest question directly to Commissioner Montgomery in a separate letter.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document contains both the incoming request (dated November 6, 1985) and the FPPC's response (dated November 12, 1985). The FPPC declined to provide the requested advice based on 2 Cal. Adm. Code Section 18239, which restricts advice about others' duties. File No. A-85-233. Addressee name error in salutation ('Dear Ms. Passmore' when responding to Sherry Passmore's request, though Sherry Passmore is listed as Executive Director in the letterhead)."
+  },
+  "citations": {
+    "government_code": [
+      "81311",
+      "83114(b)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "gifts_honoraria",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:36:43.931505Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Would a commissioner of the Fair Political Practices Commission be in conflict of interest under provisions of the Political Reform Act if he is participating in discussions, drafting of or voting on any regulations or decisions affecting redevelopment agencies at the same time that he is deriving income as redevelopment counsel to a number of redevelopment agencies?\n\nCONCLUSION: I cannot advise you about someone else's duties under the Political Reform Act. See 2 Cal. Adm. Code Section 18239 (copy enclosed). Whether Commissioner Montgomery can participate in consideration of Commission regulations on redevelopment decisions is discussed in general terms in my letter to him dated November 1, 1985.",
+    "qa_source": "mixed",
+    "first_500_words": "California Fair Political Practices Commission Sherry Passmore Executive Director November 12, 1985 Citizens Property Rights Committee P.o. Box 1332 Temple city, CA 91780 Dear Ms. Passmore: Re: Your Request for Advice; Our File No. A-85-233 Thank you for your letter dated November 6, 1985, requesting advice pursuant to Government Code Section 83114(b). However, I cannot advise you about someone else's duties under the Political Reform Act. See 2 Cal. Adm. Code Section 18239 (copy enclosed). Whether Commissioner Montgomery can participate in consideration of Commission regulations on redevelopment decisions is discussed in general terms in my letter to him dated November 1, 1985. I believe you already have a copy of that letter. I am unable to give you any additional advice concerning Commissioner Montgomery's duties under the Political Reform Act. BAM:nwm Enclosure 428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804~0807 • (916)322~5660 November 6, 1985 Ms. Barbara A. Milman, General Counsel Fair Political Practices Commission, Legal Division P.O. Box 807 Sacramento, CA 95804-0807 Dear Ms. Milman, I am hereby requesting written advice, under government Code Section 813114 (b) with respect to the following: Would a commissioner of the Fair Political Practices Commission be in conflict of interest under provisions of the Political Reform Act if he is participating in discussions, drafting of or voting on any regulations or decisions affecting redevelopment agencies at the same time that he is deriving income as redevelopment counsel to a number of redevelopment agencies? Thank you for your attention to this request. Sincerely, Executive Director, Citizens Property Rights Committee SP/lcr cc. Chairman Stanford, Commissioners Lee, Lemons, Montgomery, and Roden. P.O. Box 1332 ., City, Califomia 91780 • (818)405·1091. (818)447.5500",
+    "summary": "This document consists of an incoming request from Citizens Property Rights Committee asking whether a FPPC Commissioner has a conflict of interest under the Political Reform Act for participating in redevelopment regulations while earning income from redevelopment agencies, and the FPPC's declination to advise on another person's duties."
+  }
+}

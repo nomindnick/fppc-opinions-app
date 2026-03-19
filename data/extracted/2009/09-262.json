@@ -1,0 +1,75 @@
+{
+  "id": "09-262",
+  "year": 2009,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2009/09-262.pdf",
+  "pdf_sha256": "81c9f80347ead8829dc6fcfe8921659ef4343403d9dcc68e4b7ecd1f32d4ea60",
+  "local_pdf_path": "raw_pdfs/2009/09-262.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2009 Advice Letter # 09-262",
+    "tags": [
+      "2009",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:50:16",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2009&tagCount=1&page=20"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:33:58.649229Z",
+    "page_count": 1,
+    "word_count": 207,
+    "char_count": 1354,
+    "quality_score": 0.635,
+    "olmocr_cost": null,
+    "native_word_count": 207
+  },
+  "content": {
+    "full_text": "Fern Polfrrcer PRACTTcEs CouvrrssroN\n428 J Street o Suite 620 o Sacramento, CA 95814-2329\n(916) 322-5660 o Fax (916) 322-0886\nDecember 2,2009\nDonald Letcher\n788 No. Rengstorff Avenue\nMountain View, CA93426\nYour Request for Advice\nOur File No. W-09-262\nDear Mr. Letcher:\nThis letter is in response to your request for written advice of November 24,2009. Your\ninquiry primarily presents issues which are outside the purview of the Political Reform Act\n(\"Act\")'. Under the provisions of Regulation 18329(bX8)(D), copy enclosed, any request not\nmeeting the requirements for formal written advice must be declined by this agency. You may\nwant to contact the Attorney General's office or your local district attorney's office.\nIf you have any questions regarding this matter, please contact me at (916) 322-5660.\nSincerely,\nScott Hallabrin\nCounsel\nBy:\nohn W. Wallace\nGeneral Counsel\nDivision\nJWW:jgl\nEnclosure\n' The Political Reform Act is contained in Government Code Sections 81000 through 91014. All statutory\nreferences are to the Government Code, unless otherwise indicated. The regulations of the Fair Political Practices\nCommission are contained in Sections l8l l0 through 18997 of Title 2 of the California Code of Regulations. All\nregulatory references are to Title 2, Division 6 of the California Code of Regulations, unless otherwise indicated.\nRe:\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2009-12-02",
+    "date_raw": "December 2,2009",
+    "requestor_name": "Letcher",
+    "requestor_title": "district attorney",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "Your inquiry primarily presents issues which are outside the purview of the Political Reform Act. Under the provisions of Regulation 18329(b)(8)(D), any request not meeting the requirements for formal written advice must be declined by this agency. You may want to contact the Attorney General's office or your local district attorney's office.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requester asked for written advice on matters that fall outside the scope of the Political Reform Act.",
+    "conclusion_synthetic": "The FPPC declines to provide formal written advice because the issues raised fall outside the Political Reform Act's scope and do not meet the requirements for formal written advice.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Declination letter with no formal QUESTION or CONCLUSION sections. Document lacks detailed question content but clearly states basis for declining the request under Regulation 18329(b)(8)(D)."
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:33:58.649229Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The requester asked for written advice on matters that fall outside the scope of the Political Reform Act.\n\nCONCLUSION: Your inquiry primarily presents issues which are outside the purview of the Political Reform Act. Under the provisions of Regulation 18329(b)(8)(D), any request not meeting the requirements for formal written advice must be declined by this agency. You may want to contact the Attorney General's office or your local district attorney's office.",
+    "qa_source": "mixed",
+    "first_500_words": "Fern Polfrrcer PRACTTcEs CouvrrssroN 428 J Street o Suite 620 o Sacramento, CA 95814-2329 (916) 322-5660 o Fax (916) 322-0886 December 2,2009 Donald Letcher 788 No. Rengstorff Avenue Mountain View, CA93426 Your Request for Advice Our File No. W-09-262 Dear Mr. Letcher: This letter is in response to your request for written advice of November 24,2009. Your inquiry primarily presents issues which are outside the purview of the Political Reform Act (\"Act\")'. Under the provisions of Regulation 18329(bX8)(D), copy enclosed, any request not meeting the requirements for formal written advice must be declined by this agency. You may want to contact the Attorney General's office or your local district attorney's office. If you have any questions regarding this matter, please contact me at (916) 322-5660. Sincerely, Scott Hallabrin Counsel By: ohn W. Wallace General Counsel Division JWW:jgl Enclosure ' The Political Reform Act is contained in Government Code Sections 81000 through 91014. All statutory references are to the Government Code, unless otherwise indicated. The regulations of the Fair Political Practices Commission are contained in Sections l8l l0 through 18997 of Title 2 of the California Code of Regulations. All regulatory references are to Title 2, Division 6 of the California Code of Regulations, unless otherwise indicated. Re:",
+    "summary": "The FPPC declines Donald Letcher's November 24, 2009 request for written advice, finding that the inquiry presents issues outside the purview of the Political Reform Act and recommending he contact the Attorney General's or local district attorney's office."
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "76ADV-242",
+  "year": 1976,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1976/76ADV-242.PDF",
+  "pdf_sha256": "eab583154a9c4c49ddc8510a7d4b0b6b105f7742192c50502cee66bd39960770",
+  "local_pdf_path": "raw_pdfs/1976/76ADV-242.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1976ADV Advice Letter # 76ADV-242",
+    "tags": [
+      "1976",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:18:29",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1976&tagCount=1&page=53"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-07T17:18:44.532145Z",
+    "page_count": 1,
+    "word_count": 319,
+    "char_count": 1966,
+    "quality_score": 0.7175,
+    "olmocr_cost": 0.0027132999999999997,
+    "native_word_count": 31
+  },
+  "content": {
+    "full_text": "This memorandum, dated November 22, 1976, from the Fair Political Practices Commission to File, discusses whether Fred Furth, who is a candidate for the Chairmanship of the State Democratic Central Committee, is required to file campaign statements under the Act.\n\nSusan Reilly called on November 18, 1976, on behalf of Fred Furth, who is a candidate for the Chairmanship of the State Democratic Central Committee. She asked whether he is required to file campaign statements in connection with that race under the Act.\n\nThe matter was taken up at the Opinion Request Meeting on November 19, and it was concluded that this race is not an \"election\" within the meaning of Section 82022 and that the Chairmanship is not an \"elective office\" within the meaning of Section 82023, and therefore that Furth is not a candidate within the meaning of Section 82007 and has no filing obligation.\n\nThe procedure for electing the Chairman of the Democratic State Central Committee is established in Elections Code Sections 8661-79. Those provisions provide that the Committee shall meet in Sacramento on the fourth Sunday in January following a General Election. The members of the State Committee are certain elected officials, victors in Democratic primaries, and persons appointed by such elected officials and candidates. These delegates elect the Chairman. There is a question of whether this procedure would be deemed an \"election\" within the meaning of the Elections Code. Even if it is, however, it would be a \"regular election\" within the meaning of Elections Code Section 29 because it would be \"an election, the specific time for the holding of which is prescribed by law.\" The definition of \"election\" in Section 82022 of the Act includes primary, general, special and recall elections, but not \"regular elections.\" Therefore, even if this procedure is an election within the meaning of the Elections Code, it is not an election within the meaning of the Act.\n\nMB:jo",
+    "full_text_markdown": "This memorandum, dated November 22, 1976, from the Fair Political Practices Commission to File, discusses whether Fred Furth, who is a candidate for the Chairmanship of the State Democratic Central Committee, is required to file campaign statements under the Act.\n\nSusan Reilly called on November 18, 1976, on behalf of Fred Furth, who is a candidate for the Chairmanship of the State Democratic Central Committee. She asked whether he is required to file campaign statements in connection with that race under the Act.\n\nThe matter was taken up at the Opinion Request Meeting on November 19, and it was concluded that this race is not an \"election\" within the meaning of Section 82022 and that the Chairmanship is not an \"elective office\" within the meaning of Section 82023, and therefore that Furth is not a candidate within the meaning of Section 82007 and has no filing obligation.\n\nThe procedure for electing the Chairman of the Democratic State Central Committee is established in Elections Code Sections 8661-79. Those provisions provide that the Committee shall meet in Sacramento on the fourth Sunday in January following a General Election. The members of the State Committee are certain elected officials, victors in Democratic primaries, and persons appointed by such elected officials and candidates. These delegates elect the Chairman. There is a question of whether this procedure would be deemed an \"election\" within the meaning of the Elections Code. Even if it is, however, it would be a \"regular election\" within the meaning of Elections Code Section 29 because it would be \"an election, the specific time for the holding of which is prescribed by law.\" The definition of \"election\" in Section 82022 of the Act includes primary, general, special and recall elections, but not \"regular elections.\" Therefore, even if this procedure is an election within the meaning of the Elections Code, it is not an election within the meaning of the Act.\n\nMB:jo"
+  },
+  "parsed": {
+    "date": "1976-11-22",
+    "date_raw": "November 22, 1976",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Whether Fred Furth, who is a candidate for the Chairmanship of the State Democratic Central Committee, is required to file campaign statements under the Act.",
+    "conclusion": "The matter was taken up at the Opinion Request Meeting on November 19, and it was concluded that this race is not an \"election\" within the meaning of Section 82022 and that the Chairmanship is not an \"elective office\" within the meaning of Section 82023, and therefore that Furth is not a candidate within the meaning of Section 82007 and has no filing obligation.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Is a candidate for Chairmanship of the State Democratic Central Committee required to file campaign statements under the Political Reform Act?",
+    "conclusion_synthetic": "The election of the State Democratic Central Committee Chairman is not an \"election\" under the Political Reform Act because it is a \"regular election\" as defined in Elections Code Section 29, which is excluded from the Act's definition of election. Therefore, the candidate has no filing obligation.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Standard advice letter format with clear Q/C structure embedded in memo format. Document dated November 22, 1976. Initials 'MB:jo' at end suggest standard routing. No section headers but question and conclusion clearly identifiable in narrative text."
+  },
+  "citations": {
+    "government_code": [
+      "82007",
+      "82022",
+      "82023"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.6666666666666666,
+    "classified_at": "2026-02-07T17:18:44.532145Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether Fred Furth, who is a candidate for the Chairmanship of the State Democratic Central Committee, is required to file campaign statements under the Act.\n\nCONCLUSION: The matter was taken up at the Opinion Request Meeting on November 19, and it was concluded that this race is not an \"election\" within the meaning of Section 82022 and that the Chairmanship is not an \"elective office\" within the meaning of Section 82023, and therefore that Furth is not a candidate within the meaning of Section 82007 and has no filing obligation.",
+    "qa_source": "mixed",
+    "first_500_words": "This memorandum, dated November 22, 1976, from the Fair Political Practices Commission to File, discusses whether Fred Furth, who is a candidate for the Chairmanship of the State Democratic Central Committee, is required to file campaign statements under the Act. Susan Reilly called on November 18, 1976, on behalf of Fred Furth, who is a candidate for the Chairmanship of the State Democratic Central Committee. She asked whether he is required to file campaign statements in connection with that race under the Act. The matter was taken up at the Opinion Request Meeting on November 19, and it was concluded that this race is not an \"election\" within the meaning of Section 82022 and that the Chairmanship is not an \"elective office\" within the meaning of Section 82023, and therefore that Furth is not a candidate within the meaning of Section 82007 and has no filing obligation. The procedure for electing the Chairman of the Democratic State Central Committee is established in Elections Code Sections 8661-79. Those provisions provide that the Committee shall meet in Sacramento on the fourth Sunday in January following a General Election. The members of the State Committee are certain elected officials, victors in Democratic primaries, and persons appointed by such elected officials and candidates. These delegates elect the Chairman. There is a question of whether this procedure would be deemed an \"election\" within the meaning of the Elections Code. Even if it is, however, it would be a \"regular election\" within the meaning of Elections Code Section 29 because it would be \"an election, the specific time for the holding of which is prescribed by law.\" The definition of \"election\" in Section 82022 of the Act includes primary, general, special and recall elections, but not \"regular elections.\" Therefore, even if this procedure is an election within the meaning of the Elections Code, it is not an election within the meaning of the Act. MB:jo",
+    "summary": "This memorandum addresses whether a candidate for Chairmanship of the California State Democratic Central Committee must file campaign statements under the Political Reform Act. The FPPC concluded that no filing obligation exists because the election procedure is a \"regular election\" excluded from the Act's definition of \"election.\""
+  }
+}

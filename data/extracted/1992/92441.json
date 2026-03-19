@@ -1,0 +1,72 @@
+{
+  "id": "92441",
+  "year": 1992,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1992/92441.pdf",
+  "pdf_sha256": "dacb327017526c8a6bce99aaf10146cb045c2f0f5b74caf3b19a2c876010fd1e",
+  "local_pdf_path": "raw_pdfs/1992/92441.pdf",
+  "source_metadata": {
+    "title_raw": "Brett, Geneva Year: 1992 Advice Letter # 92441",
+    "tags": [
+      "Advice Letter",
+      "1992"
+    ],
+    "scraped_at": "2026-01-31 16:29:11",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1992&tagCount=1&page=85"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-28T00:08:47.977470Z",
+    "page_count": 1,
+    "word_count": 190,
+    "char_count": 1220,
+    "quality_score": 0.8106302768838936,
+    "olmocr_cost": 0.0025843,
+    "native_word_count": 107,
+    "haiku_cost": 0.0030944
+  },
+  "content": {
+    "full_text": "AUG 05 '92 11:13 STEPHENS & POLETTI HOLLISTER CAL P.1\n\nKeNeva\nFLOORS & MORE\nTHE ULTIMATE IN INTERIORS\n\nFAX TRANSMITTAL\n\nSUBJECT : Appropriate Reporting Of Campaign Expenditure Infcess -4/1092.\n\nDATE : 8/5/92\n\nTO : Sandra Taylor\n\nCOMPANY : Fair Political Practices Commission\n\nFAX NUMBER : (916) 327-2026\n\nADDRESS :\n\n: Sacramento CA\n\nFROM : Geneva Brett (Committee To Elect Ken Dylan) [PERDUE/INEOERS]\n\nOFFICE : (408) 636-9177\n\nFAX NUMBER : 408) 637-0907\n\nThe number of pages, including transmittal letter, is _____. If you\ndo not receive all of the pages, please call (408)636-9177.\n\nCOMMENTS: .05/21/92 THE COMMITTEE TO ELECT KEN DYLAN (SEABIRD/INEOERS)\nISSUED A CHECK (AMOUNT $1,700.0) TO A CORPORATION FOR\nTHE PREPARATION OF A MAILO. \"LITERATURE) SUPPORTING OUR\nWHICH CANDIDATE. THE FUNDS USED WERE CAMPAIGN FUNDS\n#NO BEEN WHICH WERE DONATED IN AMOUNTS LESS THAN $100.00). PLEASE (CONFIRM\n(BY RETURN FAX) THAT THE REFERRED EXPENDITURE WAS\nREQUIRED TO BE REPORTED ONLY ON THE REGULAR SEM. ANNUAL\nCAMPAIGN STATEMENT AND NOT WITHIN 24 HVES OF\nSAID EXPENDITURE (HOME WITH QUESTION) THANK YOU!\n\nNEVA\n\nA DIVISION OF KeNeva ENTERPRISES UNLIMITED LLC #556008\n730 San Benito Street • Hollister, California 95023\n(408) 636-9177",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1992-05-21",
+    "date_raw": "05/21/92",
+    "requestor_name": "Brett",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "THE COMMITTEE TO ELECT KEN DURAN ISSUED A CHECK (AMOUNT $1,700.00) TO A CORPORATION FOR THE PREPARATION OF A 'MAILER' (LITERATURE) SUPPORTING OUR OWN CANDIDATE. THE FUNDS USED WERE CAMPAIGN FUNDS WHICH HAD BEEN DONATED IN AMOUNTS LESS THAN $100.00. PLEASE CONFIRM (BY RETURN FAX) THAT THE REFERENCED EXPENDITURE WAS REQUIRED TO BE REPORTED ONLY ON THE REGULAR SEMI-ANNUAL CAMPAIGN STATEMENT AND NOT WITHIN 24 HOURS OF SAID EXPENDITURE.",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Must the Committee to Elect Ken Duran report a $1,700 expenditure for campaign literature prepared by a corporation within 24 hours, or only on the regular semi-annual campaign statement?",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an incoming request/inquiry to FPPC, not an FPPC response. No conclusion or advice letter sections present. The document appears to be a faxed transmittal letter with a comments section containing the substantive question. Sender attribution appears inconsistent (Committee to Elect Ken Duran vs. KeNeva Floors & More), suggesting possible transmittal confusion."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T16:17:13.832402Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: THE COMMITTEE TO ELECT KEN DURAN ISSUED A CHECK (AMOUNT $1,700.00) TO A CORPORATION FOR THE PREPARATION OF A 'MAILER' (LITERATURE) SUPPORTING OUR OWN CANDIDATE. THE FUNDS USED WERE CAMPAIGN FUNDS WHICH HAD BEEN DONATED IN AMOUNTS LESS THAN $100.00. PLEASE CONFIRM (BY RETURN FAX) THAT THE REFERENCED EXPENDITURE WAS REQUIRED TO BE REPORTED ONLY ON THE REGULAR SEMI-ANNUAL CAMPAIGN STATEMENT AND NOT WITHIN 24 HOURS OF SAID EXPENDITURE.",
+    "qa_source": "mixed",
+    "first_500_words": "The fax transmittal letter is from the Committee to Elect Ken Duran, Supervisor, and it is addressed to Sandra Taylor at the Fair Political Practices Commission. The subject of the fax is \"Appropriate Reporting of Campaign Expenditure in Excess of $100.\" The fax number for the sender is (408) 637-0907. The comments section states: \"05/21/92 THE COMMITTEE TO ELECT KEN DURAN ISSUED A CHECK (AMOUNT $1,700.00) TO A CORPORATION FOR THE PREPARATION OF A 'MAILER' (LITERATURE) SUPPORTING OUR OWN CANDIDATE. THE FUNDS USED WERE CAMPAIGN FUNDS WHICH HAD BEEN DONATED IN AMOUNTS LESS THAN $100.00. PLEASE CONFIRM (BY RETURN FAX) THAT THE REFERENCED EXPENDITURE WAS REQUIRED TO BE REPORTED ONLY ON THE REGULAR SEMI-ANNUAL CAMPAIGN STATEMENT AND NOT WITHIN 24 HOURS OF SAID EXPENDITURE. PHONE WITH QUESTIONS THANK YOU.\" This fax is from KeNeva Floors & More, a division of KeNeva Enterprises Unlimited, located at 730 San Benito Street, Hollister, California 95023.",
+    "summary": "An incoming fax request from the Committee to Elect Ken Duran to the FPPC seeking clarification on the reporting requirements for a $1,700 expenditure for campaign literature, specifically whether it must be reported within 24 hours or only on the semi-annual statement."
+  }
+}

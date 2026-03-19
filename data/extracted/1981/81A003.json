@@ -1,0 +1,76 @@
+{
+  "id": "81A003",
+  "year": 1981,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1981/81A003.PDF",
+  "pdf_sha256": "a47fa8b7b09bcbd8ecd3d6634e0ea4c3144828b87ee331660b9e03a0cf7ee641",
+  "local_pdf_path": "raw_pdfs/1981/81A003.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1981 Advice Letter # 81A003",
+    "tags": [
+      "Advice Letter",
+      "1981"
+    ],
+    "scraped_at": "2026-01-31 15:29:08",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1981&tagCount=1&page=15"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-27T18:02:20.155927Z",
+    "page_count": 1,
+    "word_count": 457,
+    "char_count": 2630,
+    "quality_score": 0.8195365274713796,
+    "olmocr_cost": 0.0029411999999999997,
+    "native_word_count": 2,
+    "haiku_cost": 0.00406
+  },
+  "content": {
+    "full_text": "State of California\n\nMemorandum\n\nTo      Alice                                    Date  :  Jan. 9, 1981\n\n\nFrom  :  FAIR POLITICAL PRACTICES COMMISSION                A- 81-01-003\n         Sarah Cameron\n\nSubject: Computing the reporting threshold for income to a business\n         entity when the filer and the filer's spouse both have a\n         share of the entity.\n\n\n         Under the definition of \"income\" in Section 82030, an\nindividual's income includes a pro rata share of any income of\na business entity in which the individual or spouse has a\n10 percent or greater interest. In addition, a filer's income\nincludes a community property interest in the income of a spouse.\nSince a community property interest is 50%, a filer has a 50%\ninterest in the spouse's pro rata share of income to a business\nentity, in addition to the filer's own pro rata share. Thus,\nif a filer has a 10% share and his or her spouse also has a\n10% share, the filer is attributed with a 15% share for purposes\nof determining which sources of income to the business entity\nare reportable. This is because half of the spouse share, i.e.,\n5% is added to the filer's 10% share.\n\n         Sources of income to a business entity are reportable at\na $10,000 pro rata level. Thus in the situation described above,\nthe filer would have to report anyone who paid roughly $66,666.66\nin gross receipts to the business entity, because 15% of $66,666.66\nis $9999.99. So 15% of slightly more than that amount would be\n$10,000. Thus, if the filer and the filer's spouse both share\nin a business entity, the threshold remains the same, $10,000,\nbut the filer's pro rata share increases for determining that\nthe threshold has been met. You should not think of the threshold\nas being lowered in such a situation, you should focus on what the\npro rata share attributable to the filer is.\n\n         A good example of why you should not try to think in terms\nof lowering the threshold is the following: the filer owns 10%\nand the filer's spouse owns 50%. In this situation, it's not\ncorrect to think of the threshold as being lowered to $6,666.66.\nThat only works when the shares of the filer and the spouse are\nequal. In this case, the filer is attributed with his or her own\n10% share and half of the spouse's share, i.e. 25%. So the filer\nmust report if a 35% share of the gross receipts of a client or\ncustomer is $10,000. As I figure it out, this means someone who\nhas paid the business $28,571.42. (This may be off as I'm not that\ngood at long division.) If you wanted to lower the threshold and\napply only his 10% figure, you would have to lower it to $2,857.14.",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "How should a filer compute the reporting threshold for income from a business entity when both the filer and their spouse own shares in that entity?",
+    "conclusion_synthetic": "When a filer and spouse both own shares in a business entity, the filer's attributable interest includes their pro rata share plus 50% of the spouse's pro rata share (due to community property rights), which determines whether income sources meet the $10,000 reportable threshold. The $10,000 threshold itself does not change, but the filer's effective ownership percentage increases for purposes of meeting that threshold.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Memorandum format without formal Q/A sections; question and conclusion extracted from memo content and subject line; extensive explanatory examples provided; author notes mathematical uncertainty in calculations"
+  },
+  "citations": {
+    "government_code": [
+      "82030"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [
+      "83A291"
+    ],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T16:35:46.660518Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: How should a filer compute the reporting threshold for income from a business entity when both the filer and their spouse own shares in that entity?\n\nCONCLUSION: When a filer and spouse both own shares in a business entity, the filer's attributable interest includes their pro rata share plus 50% of the spouse's pro rata share (due to community property rights), which determines whether income sources meet the $10,000 reportable threshold. The $10,000 threshold itself does not change, but the filer's effective ownership percentage increases for purposes of meeting that threshold.",
+    "qa_source": "synthetic",
+    "first_500_words": "**Memorandum** **To:** Alice **Date:** Jan. 9, 1981 **From:** FAIR POLITICAL PRACTICES COMMISSION Sarah Cameron **Subject:** Computing the reporting threshold for income to a business entity when the filer and the filer's spouse both have a share of the entity. Under the definition of \"income\" in Section 82030, an individual's income includes a pro rata share of any income of a business entity in which the individual or spouse has a 10 percent or greater interest. In addition, a filer's income includes a community property interest in the income of a spouse. Since a community property interest is 50%, a filer has a 50% interest in the spouse's pro rata share of income to a business entity, in addition to the filer's own pro rata share. Thus, if a filer has a 10% share and his or her spouse also has a 10% share, the filer is attributed with a 15% share for purposes of determining which sources of income to the business entity are reportable. This is because half of the spouse share, i.e., 5% is added to the filer's 10% share. Sources of income to a business entity are reportable at a $10,000 pro rata level. Thus in the situation described above, the filer would have to report anyone who paid roughly $66,666.66 in gross receipts to the business entity, because 15% of $66,666.66 is $9999.99. So 15% of slightly more than that amount would be $10,000. Thus, if the filer and the filer's spouse have shares in a business entity, the threshold remains the same, $10,000, but the filer's pro rata share increases for determining that the threshold has been met. You should not think of the threshold as being lowered in such a situation; you should focus on what the pro rata share attributable to the filer is. A good example of why you should not try to think in terms of lowering the threshold is the following: the filer owns 10% and the filer's spouse owns 50%. In this situation, it's not correct to think of the threshold as being lowered to $6,666.66. That only works when the shares of the filer and the spouse are equal. In this case, the filer is attributed with his or her own 10% share and half of the spouse's share, i.e. 25%. So the filer must report if a 35% share of the gross receipts of a client or customer is $10,000. As I figure it out, this means someone who has paid the business $28,571.42. (This may be off as I'm not that good at long division.) If you wanted to lower the threshold and apply only his 10% figure, you would have to lower it to $2,857.14.",
+    "summary": "FPPC memorandum explaining how to calculate reportable income thresholds from business entities when both the filer and spouse have ownership interests, clarifying that community property rights increase the filer's attributable share for threshold determination purposes."
+  }
+}

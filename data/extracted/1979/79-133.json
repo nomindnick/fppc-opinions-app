@@ -1,0 +1,71 @@
+{
+  "id": "79-133",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-133.PDF",
+  "pdf_sha256": "ec4de3eb860859a5453684d88da95870c84d659bf27c6a2a947b1d99b2418ba3",
+  "local_pdf_path": "raw_pdfs/1979/79-133.PDF",
+  "source_metadata": {
+    "title_raw": "PARIS, QUIRINO Year: 1979 Advice Letter # 79-133",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:26:39",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=18"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:07.733725Z",
+    "page_count": 2,
+    "word_count": 218,
+    "char_count": 1383,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 218
+  },
+  "content": {
+    "full_text": "2, \n97 \np \nPari \n1 \n\n\nCertified with return receipt. \nOctober 31, 1979 \nThe California Fair Political \nPractices Commission \n1100 K Street \nSacramento, CA \n95814 \nOn October 9, 1979 PG&E (Pacific Gas and Electricity) has offered \nand on October 11, 1979 the Davis City Council has accepted a grant \nof $ 23,000 intended for financing an energy aide. \nTwo facts are Important. \n1. The Davis City Council has been considering the adoption of \na highly controversial ordinance to retrofit houses for energy con-\nservation on a mandatory basis. \n2. In February, 1979, the Davis City Council established the Ad \nHoc Energy Generation Committee which was instructed to identifying \n\"alternative methods of generating electricity ... for distribution \nin Davis on a more cost effective basis than the utility company \ncurrently serving Davis.\" \nTherefore, the grant by PG&E seems clearly designed to directly \ninfluence the formulation of City policies in the area of energy. \nIn view of the two important facts described above, I ask the Commis-\nsion to determine whether the acceptance by the Davis City Council \nof PG&E's grant constitutes a conflict of interest or any other \nimproper act. \nIf the Commission is not empowered to judge the actions of City \nCouncils, what is the appropriate supervisory agency I should contact? \nSincerely, \nParis \n528 Georgetown Place \nDavis, CA 95616 \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1979-10-31",
+    "date_raw": "October 31, 1979",
+    "requestor_name": "PARIS",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "Whether the acceptance by the Davis City Council of PG&E's grant constitutes a conflict of interest or any other improper act. If the Commission is not empowered to judge the actions of City Councils, what is the appropriate supervisory agency to contact?",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requester asks whether the Davis City Council's acceptance of a $23,000 grant from PG&E for an energy aide constitutes a conflict of interest, given that the Council was simultaneously considering mandatory energy conservation ordinances and had established a committee to explore alternative electricity generation methods. The requester also asks what agency to contact if the FPPC lacks jurisdiction over city councils.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an incoming request letter, not an FPPC advice letter response. The document contains no CONCLUSION or SHORT ANSWER section. Letter is dated October 31, 1979 and signed by 'Paris' from Davis, CA. The FPPC address and certified mail notation at top indicate this was sent to FPPC. No formal QUESTION section header, but the substantive question is clearly articulated in the body of the letter."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:07.733725Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether the acceptance by the Davis City Council of PG&E's grant constitutes a conflict of interest or any other improper act. If the Commission is not empowered to judge the actions of City Councils, what is the appropriate supervisory agency to contact?",
+    "qa_source": "mixed",
+    "first_500_words": "2, 97 p Pari 1 Certified with return receipt. October 31, 1979 The California Fair Political Practices Commission 1100 K Street Sacramento, CA 95814 On October 9, 1979 PG&E (Pacific Gas and Electricity) has offered and on October 11, 1979 the Davis City Council has accepted a grant of $ 23,000 intended for financing an energy aide. Two facts are Important. 1. The Davis City Council has been considering the adoption of a highly controversial ordinance to retrofit houses for energy con- servation on a mandatory basis. 2. In February, 1979, the Davis City Council established the Ad Hoc Energy Generation Committee which was instructed to identifying \"alternative methods of generating electricity ... for distribution in Davis on a more cost effective basis than the utility company currently serving Davis.\" Therefore, the grant by PG&E seems clearly designed to directly influence the formulation of City policies in the area of energy. In view of the two important facts described above, I ask the Commis- sion to determine whether the acceptance by the Davis City Council of PG&E's grant constitutes a conflict of interest or any other improper act. If the Commission is not empowered to judge the actions of City Councils, what is the appropriate supervisory agency I should contact? Sincerely, Paris 528 Georgetown Place Davis, CA 95616",
+    "summary": "A Davis resident submits an inquiry to the FPPC requesting determination of whether the Davis City Council's acceptance of a $23,000 grant from PG&E constitutes a conflict of interest, noting the timing coincides with the Council's consideration of energy-related policy matters."
+  }
+}

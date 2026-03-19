@@ -1,0 +1,74 @@
+{
+  "id": "77A-299",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77A-299.PDF",
+  "pdf_sha256": "f924cef005f4c9f3bf46db95e153e4d2ce1b2c5cc096e792eb456e761a143341",
+  "local_pdf_path": "raw_pdfs/1977/77A-299.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977A Advice Letter # 77A-299",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:19:44",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=11"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T04:01:58.838458Z",
+    "page_count": 2,
+    "word_count": 456,
+    "char_count": 3152,
+    "quality_score": 0.9253467620324676,
+    "olmocr_cost": 0.0051969799999999995,
+    "native_word_count": 11,
+    "haiku_cost": 0.005504
+  },
+  "content": {
+    "full_text": "State of California\n\nFair Political Practices Commission\nP.O. BOX 807 • SACRAMENTO, 95804 • • • 1100 K STREET BUILDING, SACRAMENTO, 95814\n\nApril 7, 1977\n\n\nJohn J. Carniato\n1211 Nowell Ave., Suite 202\nP.O. Box 5288\nWalnut Creek, California 94596\n\nRe: Central Contra Costa Sanitary District\n\nDear Mr. Carniato:\n\nYour inquiry of March 23, 1977 has been referred to me for reply.\n\nYou represent the Central Contra Costa Sanitary District which is\na local government agency required to submit a conflict of interest code\nto your Board of Supervisors. You ask two questions regarding the effect\nof the Code upon various \"consultants\" of the district. You ask first \"...\nare outside independent contractors, such as the engineering firm\nreferred to in your letter, consultants to the District and therefore\nrequired to file disclosure statements?\"\n\nAs a general matter, consultants can be designated officials within\na conflict of interest code. More particularly it is not possible to\ndetermine whether the consultants to which you refer are consultants\nwithin the meaning of the various designated positions within the code.\nA more fundamental problem, however, is whether the consultants to\nwhich you refer in your letter are in fact consultants within the\nmeaning of the Political Reform Act. This is an extremely difficult\nissue requiring an interpretation of the Commission's regulation\n2 Cal. Adm. Code Section 18700(a)(2). The Commission considered this\nissue in connection with \"The Matter of James Botz,\" County Counsel,\nCounty of Sonoma. The Commission never formally adopted the draft\nopinion (attached), however, it may provide some guidance to you.\n\nSecond you ask \"[c]an the District itself make the decision as to\nwhether disclosure statements must be filed by outside independent\ncontractors who perform consulting services?\"\n\nGovernment Code Section 87300 et seq. provides that the determination\nof what positions should be designated in a code is a joint decision of the\nagency adopting the Code and the code reviewing body. Ultimately, the\ndetermination of the code reviewing body must stand unless the agency\nor an individual seeks judicial review pursuant to 87308. If the Board of\nSupervisors of Contra Costa County reviews codes in the manner of the\n\n\nTECHNICAL ASSISTANCE ADMINISTRATION 916 323-3661 • EXECUTIVE (LEGAL 323 5501 • ENFORCEMENT CONFLICT OF INTEREST 322 6441\n\nJohn J. Carnia\nApril 7, 1977\npage two\n\n\nFair Political Practices Commission, it will require certain justifications\nfor the designation of positions within the Conflict of Interest Code,\nthus giving the district an opportunity to support its inclusion or\nexclusion of consultancy positions.\n\n     I hope this information has been of some assistance to you. If\nyou have further questions, please do not hesitate to call me at\n(916) 322-6444.\n\n                                                     Sincerely,\n\n\n                                                     [signature]\n                                                     Delbert L. Spurlock, Jr., Chief\n                                                     Conflicts of Interest Division\n\nDLS:mfa\nAttachment",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1977-04-07",
+    "date_raw": "April 7, 1977",
+    "requestor_name": "Carniato",
+    "requestor_title": "County Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Are outside independent contractors, such as engineering firms, considered consultants to the District and therefore required to file disclosure statements? Can the District itself make the decision as to whether disclosure statements must be filed by outside independent contractors who perform consulting services?",
+    "conclusion": "Consultants can be designated officials within a conflict of interest code, but determining whether specific consultants fall within the Political Reform Act's definition requires interpretation of the relevant regulations. The determination of which positions should be designated in a conflict of interest code is a joint decision between the agency adopting the code and the code reviewing body, with the reviewing body's determination standing unless judicial review is sought.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The inquiry addresses whether independent contractors and engineering firms performing consulting services for a local government agency are required to file conflict of interest disclosure statements, and whether the agency itself can determine which consultant positions must file disclosures.",
+    "conclusion_synthetic": "Whether independent contractors qualify as consultants requiring disclosure is determined through interpretation of the Political Reform Act's definition, and while the agency can propose positions for designation, the code reviewing body makes the final determination subject to judicial review.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document contains two distinct questions from the inquirer regarding consultant disclosure requirements. The FPPC references a draft opinion from 'The Matter of James Botz' as guidance. Letter is signed by Delbert L. Spurlock, Jr., Chief of Conflicts of Interest Division. Minor OCR issue in recipient name spelling variation ('Carniato' vs 'Carnia')."
+  },
+  "citations": {
+    "government_code": [
+      "87300"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T17:03:42.779613Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Are outside independent contractors, such as engineering firms, considered consultants to the District and therefore required to file disclosure statements? Can the District itself make the decision as to whether disclosure statements must be filed by outside independent contractors who perform consulting services?\n\nCONCLUSION: Consultants can be designated officials within a conflict of interest code, but determining whether specific consultants fall within the Political Reform Act's definition requires interpretation of the relevant regulations. The determination of which positions should be designated in a conflict of interest code is a joint decision between the agency adopting the code and the code reviewing body, with the reviewing body's determination standing unless judicial review is sought.",
+    "qa_source": "mixed",
+    "first_500_words": "April 7, 1977 John J. Carniato 1211 Newell Ave., Suite 202 P.O. Box 5288 Walnut Creek, California 94596 Re: Central Contra Costa Sanitary District Dear Mr. Carniato: Your inquiry of March 23, 1977 has been referred to me for reply. You represent the Central Contra Costa Sanitary District which is a local government agency required to submit a conflict of interest code to your Board of Supervisors. You ask two questions regarding the effect of the Code upon various \"consultants\" of the district. You ask first \"...are outside independent contractors, such as the engineering firm referred to..., considered consultants to the District and therefore required to file disclosure statements?\" As a general matter, consultants can be designated officials within a conflict of interest code. More particularly it is not possible to determine whether the consultants to which you refer are consultants within the meaning of the various designated positions within the code. A more fundamental problem, however, is whether the consultants to which you refer in your letter are in fact consultants within the meaning of the Political Reform Act. This is an extremely difficult issue requiring an interpretation of the Commission's regulation 2 Cal. Adm. Code Section 18700(a)(2). The Commission considered this issue in connection with \"The Matter of James Botz,\" County Counsel, County of Sonoma. The Commission never formally adopted the draft opinion (attached), however, it may provide some guidance to you. Second you ask \"[c]an the District itself make the decision as to whether disclosure statements must be filed by outside independent contractors who perform consulting services?\" Government Code Section 87300 et seq. provides that the determination of what positions should be designated in a code is a joint decision of the agency adopting the Code and the code reviewing body. Ultimately, the determination of the code reviewing body must stand unless the agency or an individual seeks judicial review pursuant to 87308. If the Board of Supervisors of Contra Costa County reviews codes in the manner of the John J. Carnia April 7, 1977 Fair Political Practices Commission, it will require certain justifications for the designation of positions within the Conflict of Interest Code, thus giving the district an opportunity to support its inclusion or exclusion of consultancy positions. I hope this information has been of some assistance to you. If you have further questions, please do not hesitate to call me at (916) 322-6444. Sincerely, [signature] Delbert L. Spurlock, Jr., Chief Conflicts of Interest Division DLS:mfa Attachment",
+    "summary": "The FPPC responds to Central Contra Costa Sanitary District regarding whether outside independent contractors and engineering firms are required to file conflict of interest disclosure statements. The response explains that consultant designation is a joint decision between the agency and the code reviewing body, with ultimate authority resting with the reviewing body."
+  }
+}

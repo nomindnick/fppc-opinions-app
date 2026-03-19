@@ -1,0 +1,73 @@
+{
+  "id": "93-395",
+  "year": 1993,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1993/93-395.pdf",
+  "pdf_sha256": "0d5ef6d3a79c0cd06fb498c76e3aa97745dc4d240ea0ea646bc5bb27c028b47a",
+  "local_pdf_path": "raw_pdfs/1993/93-395.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 1993 Advice Letter # 93-395",
+    "tags": [
+      "1993",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:33:35",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1993&tagCount=1&page=36"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:10.183652Z",
+    "page_count": 1,
+    "word_count": 220,
+    "char_count": 1385,
+    "quality_score": 0.8,
+    "olmocr_cost": null,
+    "native_word_count": 220
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\nOctober 28,\n1993\nDiane M.\nFishburn\nLaw Offices of Olson,\nHagel,\nFong, Leidigh, Waters\n& Fishburn\nCapitolBank Center\n300 .Capitol Mall, Suite 350\nSacramento,\nCA\n95814\nRe:\nYour Request for Advice\nOur File No.\nA-93-395\nDear Ms.\nFishburn:\nI\nam writing regarding your letter of October 13,\n1993,\nrequesting confirmation of telephone advice I provided to you on\nbehalf of your client, the Newport Conservancy.\nYour letter\naccurately reflects the facts of our conversation, wherein I\nadvised you that the “Walk on the Wild Side” event,\nsponsored by\nthe Newport Conservancy,\nappears to be a charitable fundraiser.\nTherefore,\nexpenditures made and monies raised in connection with\nthe walk are not reportable.\nOur conclusion is based on the\npremise that the walk has no relationship to a political purpose,\nnamely Measure A,\nand is not a political fundraiser for Measure A.\nSince one of the councilmembers who is involved with the\nMeasure A committee is on the board of the Newport Conservancy,\nplease be aware of Regulation 18217,\nwhich provides guidelines for\ndetermining when a nonprofit organization is considered a\ncontrolled committee.\nI trust this answers your question.\nSincerely,\nSteven G.\nChurchwell\nGeneral Counsel\nBy:\nC\nnsel,\nLegal Division\nSGC:JS:ak\n428 J Street, Suite 800 •\nP.O. Box 807 •\nSacramento, CA\n95804-0807 •\n(916) 322-5660\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1993-10-28",
+    "date_raw": "October 28,\n1993",
+    "requestor_name": "Fishburn",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "The 'Walk on the Wild Side' event, sponsored by the Newport Conservancy, appears to be a charitable fundraiser. Therefore, expenditures made and monies raised in connection with the walk are not reportable. This conclusion is based on the premise that the walk has no relationship to a political purpose, namely Measure A, and is not a political fundraiser for Measure A.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether expenditures and monies raised in connection with the 'Walk on the Wild Side' event sponsored by the Newport Conservancy are reportable under California political finance law.",
+    "conclusion_synthetic": "The FPPC advises that the Walk on the Wild Side event is a charitable fundraiser with no relationship to the political purpose of Measure A, and therefore the related expenditures and monies are not reportable. However, the FPPC cautions awareness of Regulation 18217 regarding when a nonprofit organization may be considered a controlled committee, given that a councilmember involved with Measure A sits on the Newport Conservancy board.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document lacks formal QUESTION and CONCLUSION section headers; content extracted from letter body. This is a confirmation letter of prior telephonic advice. All required synthetic summaries provided despite lack of structured sections."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [
+      "18217"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:35:10.183652Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether expenditures and monies raised in connection with the 'Walk on the Wild Side' event sponsored by the Newport Conservancy are reportable under California political finance law.\n\nCONCLUSION: The 'Walk on the Wild Side' event, sponsored by the Newport Conservancy, appears to be a charitable fundraiser. Therefore, expenditures made and monies raised in connection with the walk are not reportable. This conclusion is based on the premise that the walk has no relationship to a political purpose, namely Measure A, and is not a political fundraiser for Measure A.",
+    "qa_source": "mixed",
+    "first_500_words": "California Fair Political Practices Commission October 28, 1993 Diane M. Fishburn Law Offices of Olson, Hagel, Fong, Leidigh, Waters & Fishburn CapitolBank Center 300 .Capitol Mall, Suite 350 Sacramento, CA 95814 Re: Your Request for Advice Our File No. A-93-395 Dear Ms. Fishburn: I am writing regarding your letter of October 13, 1993, requesting confirmation of telephone advice I provided to you on behalf of your client, the Newport Conservancy. Your letter accurately reflects the facts of our conversation, wherein I advised you that the “Walk on the Wild Side” event, sponsored by the Newport Conservancy, appears to be a charitable fundraiser. Therefore, expenditures made and monies raised in connection with the walk are not reportable. Our conclusion is based on the premise that the walk has no relationship to a political purpose, namely Measure A, and is not a political fundraiser for Measure A. Since one of the councilmembers who is involved with the Measure A committee is on the board of the Newport Conservancy, please be aware of Regulation 18217, which provides guidelines for determining when a nonprofit organization is considered a controlled committee. I trust this answers your question. Sincerely, Steven G. Churchwell General Counsel By: C nsel, Legal Division SGC:JS:ak 428 J Street, Suite 800 • P.O. Box 807 • Sacramento, CA 95804-0807 • (916) 322-5660",
+    "summary": "The FPPC confirms telephonic advice that the Newport Conservancy's 'Walk on the Wild Side' event is a charitable fundraiser not related to Measure A and therefore not subject to political finance reporting requirements, while noting Regulation 18217 implications given the overlap in board membership."
+  }
+}

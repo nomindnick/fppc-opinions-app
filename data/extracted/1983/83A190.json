@@ -1,0 +1,75 @@
+{
+  "id": "83A190",
+  "year": 1983,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1983/83A190.PDF",
+  "pdf_sha256": "c2ea79a12ddc6c6c1da57287b17f5392f4051d488af0522f43440d19224c958f",
+  "local_pdf_path": "raw_pdfs/1983/83A190.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1983 Advice Letter # 83A190",
+    "tags": [
+      "1983",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:31:50",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1983&tagCount=1&page=5"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:51.295059Z",
+    "page_count": 2,
+    "word_count": 370,
+    "char_count": 2363,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 370
+  },
+  "content": {
+    "full_text": "P.O. BOX 807 • SACRAMENTO, 95804 ••• 1100 K STREET BUILDING, SACRAMENTO, 95814 \n(916) 322-5662 \nSteve White \nExecutive Director \nAdministration \n•• \nExecutive/legol \n322-5660 \n32~-5901 \nAugust 22, 1983 \nCalifornia District Attorneys Association \n1130 K Street \nSacramento, CA 95814 \nRE: \nState Bar Board of Governors \nFPPC No. GC-83/262 \nAdvice No. 190 \nDear Mr. White: \nEnforcement \n322-6441 \nStatements of Economic Interest \n322-6444 \nYou have asked for the Commission's advice as to whether you \nhave any obligations under the Political Reform Act of 1974 as \namended (Government Code Sections 81000 et seq.). \nIn particular \nyou have asked whether you are required to obtain a committee \nregistration number from the California Secretary of State's \noffice. \nThe campaign registration and reporting provisions of the \nPolitical Reform Act apply only to \"candidates\" and \"committees\" \nas those terms are defined in the Government Code. \nGovernment \nCode Sections 84101 and 84200.!/ \nA candidate is a person \nrunning for an office in an \"election.\" \nHowever, an \"election\" \nis defined as a primary, general, special, or recall election. \nSection 82022. \nAn election by members of the State Bar for the \nBoard of Governors is not an election within the meaning of the \nAct. \nAs a candidate for the Board of Governors, you are not a \n\"candidate\" within the meaning of the Act. \nSimilarly, there can \nbe no \"committees\" as defined in the Act in connection with an \nelection for membership on the Board of Governors of the State \nBar. \n!/ All further statutory references are to the California \nGovernment Code. \n\n\nMr. White \nAugust 22, 1983 \nPage Two \nSince you are not a \"candidate\" as defined by the Political \nReform Act, monies that you receive from others to assist you in \nyour campaign are not considered to be campaign contributions but \nare gifts to you personally. \nTherefore, individuals providing \nmonetary assistance out of their personal funds also don't have \nany obligations under the Act. \nIn conclusion, your candidacy for~the State Bar Board of \nGovernors does not subject you or anyone providing you with \npersonal funds to any of the provisions of the Political Reform \nAct. \nIf you have any further questions on this matter please \ndon't hesitate to give me a call. \n2ZlJ?Zt.-\nRobert D. Blasier, J \n• \nDirector \nEnforcement Division \nRDB:sf \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1983-08-22",
+    "date_raw": "August 22, 1983",
+    "requestor_name": "White",
+    "requestor_title": "District Attorney",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "You have asked for the Commission's advice as to whether you have any obligations under the Political Reform Act of 1974 as amended (Government Code Sections 81000 et seq.). In particular you have asked whether you are required to obtain a committee registration number from the California Secretary of State's office.",
+    "conclusion": "Since you are not a \"candidate\" as defined by the Political Reform Act, monies that you receive from others to assist you in your campaign are not considered to be campaign contributions but are gifts to you personally. Therefore, individuals providing monetary assistance out of their personal funds also don't have any obligations under the Act. In conclusion, your candidacy for the State Bar Board of Governors does not subject you or anyone providing you with personal funds to any of the provisions of the Political Reform Act.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Does the recipient have obligations under the Political Reform Act and must they obtain a committee registration number in connection with their candidacy for the State Bar Board of Governors?",
+    "conclusion_synthetic": "State Bar Board of Governors elections are not elections under the Political Reform Act, so the recipient is not a \"candidate\" and has no obligations under the Act. Monies received are personal gifts, not campaign contributions, and neither the recipient nor donors have any Political Reform Act obligations.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Standard advice letter format with clear question and conclusion sections. Document is FPPC No. GC-83/262, Advice No. 190, dated August 22, 1983, signed by Robert D. Blasier, Director of Enforcement Division."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "82022",
+      "84101"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.6666666666666666,
+    "classified_at": "2026-02-06T18:36:51.295059Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: You have asked for the Commission's advice as to whether you have any obligations under the Political Reform Act of 1974 as amended (Government Code Sections 81000 et seq.). In particular you have asked whether you are required to obtain a committee registration number from the California Secretary of State's office.\n\nCONCLUSION: Since you are not a \"candidate\" as defined by the Political Reform Act, monies that you receive from others to assist you in your campaign are not considered to be campaign contributions but are gifts to you personally. Therefore, individuals providing monetary assistance out of their personal funds also don't have any obligations under the Act. In conclusion, your candidacy for the State Bar Board of Governors does not subject you or anyone providing you with personal funds to any of the provisions of the Political Reform Act.",
+    "qa_source": "mixed",
+    "first_500_words": "P.O. BOX 807 • SACRAMENTO, 95804 ••• 1100 K STREET BUILDING, SACRAMENTO, 95814 (916) 322-5662 Steve White Executive Director Administration •• Executive/legol 322-5660 32~-5901 August 22, 1983 California District Attorneys Association 1130 K Street Sacramento, CA 95814 RE: State Bar Board of Governors FPPC No. GC-83/262 Advice No. 190 Dear Mr. White: Enforcement 322-6441 Statements of Economic Interest 322-6444 You have asked for the Commission's advice as to whether you have any obligations under the Political Reform Act of 1974 as amended (Government Code Sections 81000 et seq.). In particular you have asked whether you are required to obtain a committee registration number from the California Secretary of State's office. The campaign registration and reporting provisions of the Political Reform Act apply only to \"candidates\" and \"committees\" as those terms are defined in the Government Code. Government Code Sections 84101 and 84200.!/ A candidate is a person running for an office in an \"election.\" However, an \"election\" is defined as a primary, general, special, or recall election. Section 82022. An election by members of the State Bar for the Board of Governors is not an election within the meaning of the Act. As a candidate for the Board of Governors, you are not a \"candidate\" within the meaning of the Act. Similarly, there can be no \"committees\" as defined in the Act in connection with an election for membership on the Board of Governors of the State Bar. !/ All further statutory references are to the California Government Code. Mr. White August 22, 1983 Page Two Since you are not a \"candidate\" as defined by the Political Reform Act, monies that you receive from others to assist you in your campaign are not considered to be campaign contributions but are gifts to you personally. Therefore, individuals providing monetary assistance out of their personal funds also don't have any obligations under the Act. In conclusion, your candidacy for~the State Bar Board of Governors does not subject you or anyone providing you with personal funds to any of the provisions of the Political Reform Act. If you have any further questions on this matter please don't hesitate to give me a call. 2ZlJ?Zt.- Robert D. Blasier, J • Director Enforcement Division RDB:sf",
+    "summary": "The FPPC advises that candidacy for the State Bar Board of Governors does not trigger Political Reform Act requirements because such elections are not defined as elections under the Act. Consequently, no committee registration is required and funds received are personal gifts rather than campaign contributions."
+  }
+}

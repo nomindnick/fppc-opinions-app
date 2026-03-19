@@ -1,0 +1,72 @@
+{
+  "id": "90493",
+  "year": 1990,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1990/90493.pdf",
+  "pdf_sha256": "b45e4e20d8778054ed4acfcaf6bfc72c69723426f6982d6cfaf703a43597562e",
+  "local_pdf_path": "raw_pdfs/1990/90493.pdf",
+  "source_metadata": {
+    "title_raw": "Lockwood, Roy Year: 1990 Advice Letter # 90493",
+    "tags": [
+      "1990",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:06:51",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1990&tagCount=1&page=14"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-25T22:50:33.005276Z",
+    "page_count": 2,
+    "word_count": 131,
+    "char_count": 892,
+    "quality_score": 0.7044620831870112,
+    "olmocr_cost": 0.00458724,
+    "native_word_count": 57,
+    "haiku_cost": 0.004
+  },
+  "content": {
+    "full_text": "Roy W. Lockwood\n329 Lo-C-At\nOxnard, CA 93030\nJuly 20, 1990\n(805) 483-3134\n\nCampaign Mgmt\nSan Luis Obispo Commission\nP.O. Box 94401\nSacramento CA 94244-4001.\n\nI'm a Candidate for the Oxnard Unified\nHigh school District Board of Trustee.\n\nI intend to file a Compaign statement only! Estimated Cost 19 950.00.\n\nDo it necessary that I open an\nBank Account & File forms 501 & 502\njust for $9,500.0.\n\nI plan no further expence than\nthe $250.00 filing fee(Returned).\n\nCould one be paid by Casher Check?\nSince at's under the $1,000.00 would\nthe 501 & 502 forms be waived?\n\nThank you for your assistance\nrespectfully,\n\nRoy W Lockwood\n\n[illegible] good is to neopq\n\n[illegible]\n\n[illegible] well [illegible]\n\n[illegible]\n\n[illegible]\n\n[illegible]\n\n[illegible]\n\n[illegible]\n\n[illegible]\n\n[illegible]\n\n[illegible]\n\n[illegible]\n\n[illegible]\n\n[illegible]\n\n[illegible]\n\n[illegible]\n\n[illegible]\n\n[illegible]",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1990-07-20",
+    "date_raw": "July 20, 1990",
+    "requestor_name": "Lockwood",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "Is it necessary that I open a Bank Account & File Forms 501 & 502 just for $750.00? Could this be paid by Cashier Checks? Since it's under the $1,000.00 would the 501 & 502 process be waived?",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "A candidate for school board is asking whether they must open a bank account and file Forms 501 and 502 for a campaign with only $750 in estimated expenses, and whether such filing requirements can be waived for amounts under $1,000.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an incoming request letter, not an FPPC response. No formal question/conclusion sections are present. The document contains a candidate's inquiries about campaign finance filing thresholds and procedures. The second part of the document appears to be unrelated scanning artifact (faint mathematical content) and was disregarded."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T16:18:40.461021Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Is it necessary that I open a Bank Account & File Forms 501 & 502 just for $750.00? Could this be paid by Cashier Checks? Since it's under the $1,000.00 would the 501 & 502 process be waived?",
+    "qa_source": "mixed",
+    "first_500_words": "ROY W. LOCKWOOD 327 So-C-St Oxnard, CA 93030 July 20, 1990 (805) 483-3134 Campaign Account Fair Political Practices Commission P.O. Box 944001 Sacramento, CA 94244-4001. I'm a Candidate for the Oxnad Union High School District Board of Trustees! I intend to file a Campaign Statement Only! Estimated Cost $750.00. Is it necessary that I open an Bank Account & File Forms 501 & 502 just for $7500.00? I plan no further expenses than the $750.00 filing fee (State). Could this be paid by Cashier Checks? Since it's under the $1,000.00 would the 501 & 502 process be waived? Thank you for your expeditious reply in writing! Roy W. Lockwood The image appears to be a handwritten page with mathematical or scientific content, but the handwriting is very faint and mostly illegible. Only a few scattered numbers and symbols are partially visible, such as \"200\", \"183\", \"13N\", and some mathematical operations like addition and subtraction. Due to the quality and clarity of the handwriting, it is not possible to transcribe or interpret the majority of the content accurately. If you have another scan or a higher quality image, please provide it for better results.",
+    "summary": "Roy W. Lockwood, a candidate for Oxnard Union High School District Board of Trustees, submitted an incoming request to the FPPC asking whether campaign finance filing requirements (bank account opening and Forms 501 & 502) apply to a minimal campaign with only $750 in expenses, and whether cashier checks could be used for payment."
+  }
+}

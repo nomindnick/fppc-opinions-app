@@ -1,0 +1,75 @@
+{
+  "id": "93-275",
+  "year": 1993,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1993/93-275.pdf",
+  "pdf_sha256": "66260c46d00542b5355d3654141b24ddc4e5382ade75ec5582599c5d2b8b2a35",
+  "local_pdf_path": "raw_pdfs/1993/93-275.pdf",
+  "source_metadata": {
+    "title_raw": "Sherman, Brad Year: 1993 Advice Letter # 93-275",
+    "tags": [
+      "1993",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:31:58",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1993&tagCount=1&page=14"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:07.067516Z",
+    "page_count": 1,
+    "word_count": 222,
+    "char_count": 1384,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 222
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\nCoby A.\nKing\nOffice of Brad Sherman\nState Board of Equalization\n901 Wilshire Boulevard,\nSuite 210\nSanta Monica,\nCA\n90401\nDear Mr.\nKing:\nRe:\nYour Request for Advice\nOur File No.\nA-93-275\nI\nam writing to confirm our telephone conversation on\nJuly 15,\n1993 wherein we discussed your request for written advice\nregarding the mass mailing provisions of the Political Reform Act\n(the “Act”) .\nYou requested advice on behalf of Mr.\nBrad Sherman,\nthe Chairman of the State Board of Equalization.\nYou submitted copies of two flyers for our review and asked\nif they qualify under the exception in Regulation\n18901(b) (9) (A) (2).\nEven though flyer\n“A” prominently “features”\nMr.\nSherman’s name in large,\nboldface type,\nI informed you that\nboth flyers fall under the exception for an announcement of an\nofficial agency event.\nI trust this answers your question.\nSincerely,\nJM:JS:ak\nJeff Marschner\nGeneral Counsel\nBy\n1\nGovernment Code Sections 81000-91015.\nAll statutory references\nare to the Government Code unless otherwise indicated.\nCommission\nregulations appear at\n2 California Code of Regulations Section\n18000 et g.\nAll references to regulations are to Title 2,\nDivision\n6 of the California Code of Regulations.\nJuly 21,\n1993\nStecher\nCounsel,\nLegal Division\n428 J Street, Suite 800 •\nP.O. Box 807 •\nSacramento, CA\n95804-0807 •\n(916) 322-5660\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1993-07-15",
+    "date_raw": "July 15,\n1993",
+    "requestor_name": "King",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether two agency flyers submitted by the Office of Brad Sherman, State Board of Equalization Chairman, qualify under the mass mailing exception in Regulation 18901(b)(9)(A)(2) of the Political Reform Act.",
+    "conclusion_synthetic": "Both flyers qualify under the exception for an announcement of an official agency event, regardless of whether one flyer prominently features Mr. Sherman's name in large, boldface type.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document lacks formal QUESTION and CONCLUSION sections; instead contains conversational advice in letter format. The legal question and FPPC's conclusion were extracted from the letter's body text. File number A-93-275 indicates this is a formal advice letter."
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [
+      "18901"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:35:07.067516Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether two agency flyers submitted by the Office of Brad Sherman, State Board of Equalization Chairman, qualify under the mass mailing exception in Regulation 18901(b)(9)(A)(2) of the Political Reform Act.\n\nCONCLUSION: Both flyers qualify under the exception for an announcement of an official agency event, regardless of whether one flyer prominently features Mr. Sherman's name in large, boldface type.",
+    "qa_source": "synthetic",
+    "first_500_words": "California Fair Political Practices Commission Coby A. King Office of Brad Sherman State Board of Equalization 901 Wilshire Boulevard, Suite 210 Santa Monica, CA 90401 Dear Mr. King: Re: Your Request for Advice Our File No. A-93-275 I am writing to confirm our telephone conversation on July 15, 1993 wherein we discussed your request for written advice regarding the mass mailing provisions of the Political Reform Act (the “Act”) . You requested advice on behalf of Mr. Brad Sherman, the Chairman of the State Board of Equalization. You submitted copies of two flyers for our review and asked if they qualify under the exception in Regulation 18901(b) (9) (A) (2). Even though flyer “A” prominently “features” Mr. Sherman’s name in large, boldface type, I informed you that both flyers fall under the exception for an announcement of an official agency event. I trust this answers your question. Sincerely, JM:JS:ak Jeff Marschner General Counsel By 1 Government Code Sections 81000-91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations Section 18000 et g. All references to regulations are to Title 2, Division 6 of the California Code of Regulations. July 21, 1993 Stecher Counsel, Legal Division 428 J Street, Suite 800 • P.O. Box 807 • Sacramento, CA 95804-0807 • (916) 322-5660",
+    "summary": "FPPC advice letter confirming that two flyers submitted on behalf of Brad Sherman, Chairman of the State Board of Equalization, qualify under the mass mailing exception for official agency event announcements under the Political Reform Act."
+  }
+}

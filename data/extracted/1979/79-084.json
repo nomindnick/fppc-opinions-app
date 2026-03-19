@@ -1,0 +1,72 @@
+{
+  "id": "79-084",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-084.PDF",
+  "pdf_sha256": "2e416adc8a288a792230e3a9b2765f7c38902aa31c4c7e160bc427611adb641e",
+  "local_pdf_path": "raw_pdfs/1979/79-084.PDF",
+  "source_metadata": {
+    "title_raw": "BROWN, JONATHAN Year: 1979 Advice Letter # 79-084",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:26:35",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=17"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-27T17:20:25.706011Z",
+    "page_count": 2,
+    "word_count": 323,
+    "char_count": 2034,
+    "quality_score": 0.9076225592505606,
+    "olmocr_cost": 0.0050826000000000005,
+    "native_word_count": 18,
+    "haiku_cost": 0.004516
+  },
+  "content": {
+    "full_text": "January 26, 1979\n\nJonathan Brown\n926 J Street, #719\nSacramento, California 95814\n\nDear Mr. Brown:\n\nThank you for your letter of January 23, 1979. You stated that\nyou intend to monitor and report on legislation for a particular\nclient but you will not attempt to influence legislative or\nadministrative action on behalf of the client. You asked if\nyou must add this client to your lobbyist registration statement.\n\nA lobbyist must register and be authorized by any person or\norganization which directly employs, contracts for, or retains\nthe lobbyist to influence or attempt to influence legislative\nor administrative action. Accordingly, you are not required to\namend your registration statement to add a client for whom you\nare only monitoring and reporting on legislation.\n\nIf I can be of further assistance please contact me.\n\nSincerely,\n\n\nRichard Eichman\nCompliance Representative\n\nRE:bw\n\nJONATHAN BROWN\n\nJanuary 23, 1979\n\nMr. Richard Eichman\nFair Political Practices Commission\n1100 K Street\nP.O. Box 807\nSacramento, California 95804\n\nDear Rich,\n\nI've been contacted by a friend in another\nstate who would like me to follow legislation for\nhis association's membership. They've asked me\nto keep them informed on legislative developments.\nThe services they've requested would be very limited.\nI would report to them on pending legislation which\nwould affect their membership. The contract would\nentail no direct contact with members of the Legi-\nslature or covered employees in the executive branch.\n\nWhile it is clear to me that I would be required\nto register if the association requested me to in-\ncrease my contacts in their behalf with members, it\nis not clear what my legal responsibilities are if\nI maintain a limited role.\n\nAssuming that I signed an agreement which re-\nstricted my services to monitoring and reporting\non legislation would I be required to add them to\nmy registration?\n\nThank you for any clarification you can supply.\n\nSincerely,\n\nJonathan Brown\n\nSacramento Office\n926 J Street, #719\nSacramento, CA. 95814",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1979-01-26",
+    "date_raw": "January 26, 1979",
+    "requestor_name": "Brown",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Assuming that I signed an agreement which restricted my services to monitoring and reporting on legislation would I be required to add them to my registration?",
+    "conclusion": "A lobbyist must register and be authorized by any person or organization which directly employees, contracts for, or retains the lobbyist to influence or attempt to influence legislative or administrative action. Accordingly, you are not required to amend your registration statement to add a client for whom you are only monitoring and reporting on legislation.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Must a lobbyist register a client when the engagement is limited to monitoring and reporting on legislation with no direct contact with legislators or executive branch officials?",
+    "conclusion_synthetic": "A lobbyist is not required to register a client if the engagement is limited to monitoring and reporting on legislation without attempting to influence legislative or administrative action.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Clear Q&A format with incoming request (Brown to FPPC) followed by FPPC response. Document contains both the original request letter and the FPPC's formal response letter."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T16:52:47.686009Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Assuming that I signed an agreement which restricted my services to monitoring and reporting on legislation would I be required to add them to my registration?\n\nCONCLUSION: A lobbyist must register and be authorized by any person or organization which directly employees, contracts for, or retains the lobbyist to influence or attempt to influence legislative or administrative action. Accordingly, you are not required to amend your registration statement to add a client for whom you are only monitoring and reporting on legislation.",
+    "qa_source": "mixed",
+    "first_500_words": "January 26, 1979 Jonathan Brown 926 J Street, #719 Sacramento, California 95814 Dear Mr. Brown: Thank you for your letter of January 23, 1979. You stated that you intend to monitor and report on legislation for a particular client but you will not attempt to influence legislative or administrative action on behalf of the client. You asked if you must add this client to your lobbyist registration statement. A lobbyist must register and be authorized by any person or organization which directly employees, contracts for, or retains the lobbyist to influence or attempt to influence legislative or administrative action. Accordingly, you are not required to amend your registration statement to add a client for whom you are only monitoring and reporting on legislation. If I can be of further assistance please contact me. Sincerely, Richard Eichman Compliance Representative JONATHAN BROWN January 23, 1979 Mr. Richard Eichman Fair Political Practices Commission 1100 K Street P.O. Box 807 Sacramento, California 95804 Dear Rich, I've been contacted by a friend in another state who would like me to follow legislation for his association's membership. They've asked me to keep them informed on legislative developments. The services they've requested would be very limited. I would report to them on pending legislation which would affect their membership. The contract would entail no direct contact with members of the Legislature or covered employees in the executive branch. While it is clear to me that I would be required to register if the association requested me to increase my contacts in their behalf with members, it is not clear what my legal responsibilities are if I maintain a limited role. Assuming that I signed an agreement which restricted my services to monitoring and reporting on legislation would I be required to add them to my registration? Thank you for any clarification you can supply. Sincerely, Jonathan Brown Sacramento Office 926 J Street, #719 Sacramento, CA. 95814",
+    "summary": "FPPC Compliance Representative Richard Eichman advises Jonathan Brown that he is not required to register a client for whom he only monitors and reports on legislation, as registration is required only when the lobbyist attempts to influence legislative or administrative action."
+  }
+}

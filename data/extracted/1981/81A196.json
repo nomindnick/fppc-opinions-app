@@ -1,0 +1,74 @@
+{
+  "id": "81A196",
+  "year": 1981,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1981/81A196.PDF",
+  "pdf_sha256": "e3354f20f4badf44c7d12e6a96bd231bae8e03e825b6bee7a3e070f1c4385384",
+  "local_pdf_path": "raw_pdfs/1981/81A196.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1981 Advice Letter # 81A196",
+    "tags": [
+      "Advice Letter",
+      "1981"
+    ],
+    "scraped_at": "2026-01-31 15:28:42",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1981&tagCount=1&page=9"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-27T17:57:39.881721Z",
+    "page_count": 2,
+    "word_count": 174,
+    "char_count": 1108,
+    "quality_score": 0.7964844712090879,
+    "olmocr_cost": 0.00893712,
+    "native_word_count": 411,
+    "haiku_cost": 0.0037879999999999997
+  },
+  "content": {
+    "full_text": "A-81-196\n\nApril 15, 1981\n\nLouis Dexter\nHuman Resource Development\n305 No. Ranchleo Street\nAnaheim, California 92801\n\nDear Mr. Dexter:\n\nA Recipient Committee is not required to file a Statement of\nOrganization prior to the receipt of $500 (Government Code Section\n8610(b)). However, a Recipient Committee may file a Statement of\nOrganization before receiving $500 if it so chooses.\n\nIf I can be of further assistance, please feel free to contact me.\n\nSincerely,\n\nLynn Montgomery\nPolitical Reform Consultant\n\nLOUIS DEXTER\nHUMAN RESOURCE DEVELOPMENT\n305 NORTH RANCHITO STREET\nANAHEIM, CALIF. 92801\n\n4/3/01\n\nSir—\n\nPlease send me the latest copy of the\nAmended Fair Political Practices Act as\noffered in your latest FPAC newsletter.\n\nAlso, please answer the following\nquestion: Can a \"Recipient Committee\"\nbe formed although the authorized\ncontribution may free short of the\n$500 requirement? In other words,\nI would like to form a political\nactivity committee but am not sure\nat this stage about response. I\nhave intentions of filing statement\nof organization with Secretary of State\nif I may do so. Louis Dexter",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1981-04-15",
+    "date_raw": "April 15, 1981",
+    "requestor_name": "Dexter",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "CAN A \"RECIPIENT COMMITTEE\" BE FORMED ALTHOUGH THE ANTICIPATED CONTRIBUTIONS MAY FALL SHORT OF THE $500 REQUIREMENT? IN OTHER WORDS, I WOULD LIKE TO FORM A POLITICAL ACTIVITY COMMITTEE BUT AM NOT SURE AT THIS TIME ABOUT RESPONSE. I HAVE INTENTIONS OF FILING STATEMENT OF ORGANIZATION WITH SECRETARY OF STATE IF I MAY DO SO.",
+    "conclusion": "A Recipient Committee is not required to file a Statement of Organization prior to the receipt of $500 (Government Code Section 84101). However, a Recipient Committee may file a Statement of Organization before receiving $500 if it so chooses.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a Recipient Committee can be formed and file a Statement of Organization with the Secretary of State when anticipated contributions may fall short of the $500 requirement.",
+    "conclusion_synthetic": "A Recipient Committee is not required to file a Statement of Organization until it receives $500, but it may voluntarily file one before reaching that threshold if it chooses to do so.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document contains incoming request followed by FPPC response letter. Both sections present in single document. Clear question and conclusion sections identified from the correspondence."
+  },
+  "citations": {
+    "government_code": [
+      "84101"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T16:34:39.591867Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: CAN A \"RECIPIENT COMMITTEE\" BE FORMED ALTHOUGH THE ANTICIPATED CONTRIBUTIONS MAY FALL SHORT OF THE $500 REQUIREMENT? IN OTHER WORDS, I WOULD LIKE TO FORM A POLITICAL ACTIVITY COMMITTEE BUT AM NOT SURE AT THIS TIME ABOUT RESPONSE. I HAVE INTENTIONS OF FILING STATEMENT OF ORGANIZATION WITH SECRETARY OF STATE IF I MAY DO SO.\n\nCONCLUSION: A Recipient Committee is not required to file a Statement of Organization prior to the receipt of $500 (Government Code Section 84101). However, a Recipient Committee may file a Statement of Organization before receiving $500 if it so chooses.",
+    "qa_source": "mixed",
+    "first_500_words": "April 15, 1981 Louis Dexter Human Resource Development 305 No. Ranchiso Street Anaheim, California 92801 Dear Mr. Dexter: A Recipient Committee is not required to file a Statement of Organization prior to the receipt of $500 (Government Code Section 84101). However, a Recipient Committee may file a Statement of Organization before receiving $500 if it so chooses. If I can be of further assistance, please feel free to contact me. Sincerely, Lynn Montgomery Political Reform Consultant LOUIS DEXTER HUMAN RESOURCE DEVELOPMENT 305 NORTH RANCHITO STREET ANAHEIM, CALIF. 92801 4/3/81 Sir- PLEASE SEND ME THE LATEST COPY OF THE AMENDED FAIR POLITICAL PRACTICES ACT AS OFFERED IN YOUR LATEST FPPC NEWSLETTER. ALSO, PLEASE ANSWER THE FOLLOWING QUESTION: CAN A \"RECIPIENT COMMITTEE\" BE FORMED ALTHOUGH THE ANTICIPATED CONTRIBUTIONS MAY FALL SHORT OF THE $500 REQUIREMENT? IN OTHER WORDS, I WOULD LIKE TO FORM A POLITICAL ACTIVITY COMMITTEE BUT AM NOT SURE AT THIS TIME ABOUT RESPONSE. I HAVE INTENTIONS OF FILING STATEMENT OF ORGANIZATION WITH SECRETARY OF STATE IF I MAY DO SO. Louis Dexter",
+    "summary": "FPPC advises that while Recipient Committees are not required to file a Statement of Organization until receiving $500 in contributions, they may opt to file voluntarily before reaching that threshold."
+  }
+}

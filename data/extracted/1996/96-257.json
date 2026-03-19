@@ -1,0 +1,76 @@
+{
+  "id": "96-257",
+  "year": 1996,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/1996/96-257.pdf",
+  "pdf_sha256": "e1a8e369413eed6f2851bde48ca2bc7f30f4fba54d5dabdfbcd7d9beed12cd4b",
+  "local_pdf_path": "raw_pdfs/1996/96-257.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 1996 Advice Letter # 96-257",
+    "tags": [
+      "Advice Letter",
+      "1996"
+    ],
+    "scraped_at": "2026-01-31 16:39:54",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1996&tagCount=1&page=10"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:53.796303Z",
+    "page_count": 1,
+    "word_count": 251,
+    "char_count": 1639,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 251
+  },
+  "content": {
+    "full_text": "RAy! MEHTA\nCHAIRMAN\nFAIR POLITICAL PRACTICES COMMISSION\nOctober 10,\n1996\nMs. Frieda M.\nTadina\nPost Office Box 376\nMt.\nShasta, California\n96067\nRe:\nYour Request for Advice\nOur File No.\nA—96-257\nDear Ms.\nTadina:\nThis is in response to your request for advice regarding the\nconflict-of—interest provisions of the Political Reform Act\n(the\n“Act”), codified at Government Code Sections 81000-91015.\nPursuant to Section 83114(b)\nand Commission Regulation 18329,\nthe Commission provides formal written advice and informal\nassistance to public officials concerning their duties under the\nAct.\nAs we discussed, however, the Commission’s legal division\ndoes not provide written advice or telephonic assistance to an\nindividual if a complaint has been filed against that individual\nwith the Commission’s enforcement division,\nand the complaint\ninvolves the same issues that the individual is seeking advice\nabout.\n(Regulation 18329(b) (8) (A)\nand (F).)\nWhen I spoke with you on September 26,\nyou informed me that a\ncomplaint may have been filed against you with the Commission.\nAs\nthere is in fact a complaint pending in the enforcement division,\nthe legal division cannot provide advice concerning your\nparticipation as a planning commissioner in the City of Mt.\nShasta’s Land Development Code at this time.\nYou will be notified\nby the enforcement division as to the disposition of the\ncomplaint.\nIf you have any further questions regarding this matter,\nplease contact me at 916/322—5660.\nSincerely,\nSteven G.\nChurchwell\nGeneral Counsel\nBy:\nHyla P.\nWagner\nCounsel,\nLegal Division\n428 J STREET, SUITE 800, SACRAMENTO, CALIFORNIA 95814\n(916) 322-5660\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1996-10-10",
+    "date_raw": "October 10,\n1996",
+    "requestor_name": "Tadina",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Ms. Tadina sought advice regarding potential conflict-of-interest issues related to her participation as a planning commissioner in the City of Mt. Shasta's Land Development Code.",
+    "conclusion_synthetic": "The FPPC's legal division declined to provide written advice because a complaint against Ms. Tadina was pending in the enforcement division involving the same issues, pursuant to Regulation 18329(b)(8)(A) and (F).",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is a declination letter rather than a traditional advice letter. The document explains the basis for declining the advice request (pending complaint in enforcement division). No formal QUESTION and CONCLUSION sections exist, but the substance of the inquiry and the decision are clear from the body of the letter."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "83114(b)"
+    ],
+    "regulations": [
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "gifts_honoraria",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:34:53.796303Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Ms. Tadina sought advice regarding potential conflict-of-interest issues related to her participation as a planning commissioner in the City of Mt. Shasta's Land Development Code.\n\nCONCLUSION: The FPPC's legal division declined to provide written advice because a complaint against Ms. Tadina was pending in the enforcement division involving the same issues, pursuant to Regulation 18329(b)(8)(A) and (F).",
+    "qa_source": "synthetic",
+    "first_500_words": "RAy! MEHTA CHAIRMAN FAIR POLITICAL PRACTICES COMMISSION October 10, 1996 Ms. Frieda M. Tadina Post Office Box 376 Mt. Shasta, California 96067 Re: Your Request for Advice Our File No. A—96-257 Dear Ms. Tadina: This is in response to your request for advice regarding the conflict-of—interest provisions of the Political Reform Act (the “Act”), codified at Government Code Sections 81000-91015. Pursuant to Section 83114(b) and Commission Regulation 18329, the Commission provides formal written advice and informal assistance to public officials concerning their duties under the Act. As we discussed, however, the Commission’s legal division does not provide written advice or telephonic assistance to an individual if a complaint has been filed against that individual with the Commission’s enforcement division, and the complaint involves the same issues that the individual is seeking advice about. (Regulation 18329(b) (8) (A) and (F).) When I spoke with you on September 26, you informed me that a complaint may have been filed against you with the Commission. As there is in fact a complaint pending in the enforcement division, the legal division cannot provide advice concerning your participation as a planning commissioner in the City of Mt. Shasta’s Land Development Code at this time. You will be notified by the enforcement division as to the disposition of the complaint. If you have any further questions regarding this matter, please contact me at 916/322—5660. Sincerely, Steven G. Churchwell General Counsel By: Hyla P. Wagner Counsel, Legal Division 428 J STREET, SUITE 800, SACRAMENTO, CALIFORNIA 95814 (916) 322-5660",
+    "summary": "This is a declination letter from the FPPC declining to provide formal written advice to Ms. Frieda M. Tadina regarding conflict-of-interest issues related to her role as a planning commissioner because a complaint against her was pending in the enforcement division involving the same matters."
+  }
+}

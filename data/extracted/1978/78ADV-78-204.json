@@ -1,0 +1,71 @@
+{
+  "id": "78ADV-78-204",
+  "year": 1978,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1978/78ADV-78-204.PDF",
+  "pdf_sha256": "c813b33409391f75a5aba7d279326ad30121d1e69f4c3762a8db9e1acc73523b",
+  "local_pdf_path": "raw_pdfs/1978/78ADV-78-204.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1978ADV Advice Letter # 78ADV-78-204",
+    "tags": [
+      "Advice Letter",
+      "1978"
+    ],
+    "scraped_at": "2026-01-31 15:23:12",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=5"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:08.807582Z",
+    "page_count": 1,
+    "word_count": 123,
+    "char_count": 773,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 123
+  },
+  "content": {
+    "full_text": "State of California \nMemorandum \nTo \nOpinion Request Meeting Participants \nDate \nAugust 17, 1978 \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nJay \nSubject: \n84210 (h) \nWhat are a committee's reporting obligations under 842l0(h) for \nthe following situations: \n1. \nTwo campaign workers each pay $30 to PSA for a flight, and \nthe workers are reimbursed by the committee. \n2. \nTen campaign workers each pay $5 to ABC Parking Lot, and \nthe workers are reimbursed by the committee. \n3. \nTen campaign workers each pay $49 to John Smith for \nsignatures he gathered during a petition circulation drive, \nand the workers are reimbursed by the committee. \nOur current advice is that PSA, ABC Parking Lot, and John Smith \nmust be identified. \nDo we want to continue with this advice? \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1978-08-17",
+    "date_raw": "August 17, 1978",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "What are a committee's reporting obligations under 84210(h) for the following situations: 1. Two campaign workers each pay $30 to PSA for a flight, and the workers are reimbursed by the committee. 2. Ten campaign workers each pay $5 to ABC Parking Lot, and the workers are reimbursed by the committee. 3. Ten campaign workers each pay $49 to John Smith for signatures he gathered during a petition circulation drive, and the workers are reimbursed by the committee.",
+    "conclusion": "Our current advice is that PSA, ABC Parking Lot, and John Smith must be identified. Do we want to continue with this advice?",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "What are a committee's reporting obligations under section 84210(h) when campaign workers are reimbursed for payments made to vendors for flights, parking, and petition signature services?",
+    "conclusion_synthetic": "The FPPC's current advice is that all three vendors (PSA, ABC Parking Lot, and John Smith) must be identified in reporting, and the memo seeks confirmation whether this advice should continue.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is an internal FPPC memorandum to Opinion Request Meeting Participants, not a formal advice letter response to a requestor. Contains question/conclusion sections but presented as an internal policy discussion rather than formal Q&A format. No signature or formal closing of advice letter."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:08.807582Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: What are a committee's reporting obligations under 84210(h) for the following situations: 1. Two campaign workers each pay $30 to PSA for a flight, and the workers are reimbursed by the committee. 2. Ten campaign workers each pay $5 to ABC Parking Lot, and the workers are reimbursed by the committee. 3. Ten campaign workers each pay $49 to John Smith for signatures he gathered during a petition circulation drive, and the workers are reimbursed by the committee.\n\nCONCLUSION: Our current advice is that PSA, ABC Parking Lot, and John Smith must be identified. Do we want to continue with this advice?",
+    "qa_source": "mixed",
+    "first_500_words": "State of California Memorandum To Opinion Request Meeting Participants Date August 17, 1978 From FAIR POLITICAL PRACTICES COMMISSION Jay Subject: 84210 (h) What are a committee's reporting obligations under 842l0(h) for the following situations: 1. Two campaign workers each pay $30 to PSA for a flight, and the workers are reimbursed by the committee. 2. Ten campaign workers each pay $5 to ABC Parking Lot, and the workers are reimbursed by the committee. 3. Ten campaign workers each pay $49 to John Smith for signatures he gathered during a petition circulation drive, and the workers are reimbursed by the committee. Our current advice is that PSA, ABC Parking Lot, and John Smith must be identified. Do we want to continue with this advice?",
+    "summary": "This FPPC memorandum addresses reporting obligations under section 84210(h) for committee reimbursements to campaign workers for vendor payments related to flights, parking, and petition services. The FPPC seeks confirmation on whether vendor identification requirements should apply to all three scenarios presented."
+  }
+}

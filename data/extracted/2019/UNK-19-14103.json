@@ -1,0 +1,77 @@
+{
+  "id": "UNK-19-14103",
+  "year": 2019,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2019/Final W-19-206.pdf",
+  "pdf_sha256": "fd07a20d8f5a864234e85ddcb58e7febb4f14e481fe777fed45023253ca8cf9b",
+  "local_pdf_path": "raw_pdfs/2019/Final W-19-206.pdf",
+  "source_metadata": {
+    "title_raw": "Christine Dietrick - W-19-206 - November 14, 2019 - San Luis Obispo",
+    "tags": [
+      "2019",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 17:24:29",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2019&tagCount=1&page=17"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:33:04.996560Z",
+    "page_count": 2,
+    "word_count": 428,
+    "char_count": 2709,
+    "quality_score": 0.8,
+    "olmocr_cost": null,
+    "native_word_count": 428
+  },
+  "content": {
+    "full_text": "STATE OF CALIFORNIA \nFAIR POLITICAL PRACTICES COMMISSION \n• 1102 Q Street • Suite 3000 • Sacramento, CA 95811 \n(916) 322-5660 • Fax (916) 322-0886 \nChristine Dietrick \nCity Attorney \nCity of San Luis Obispo \n990 Palm Street \nSan Luis Obispo, CA 93401-3249 \nRe: \nYour Request for Advice \nOur File No. W-19-206 \nDear Ms. Dietrick: \nNovember 14, 2019 \nThis letter responds to your request for advice on behalf of the San Luis Obispo City \nCouncil regarding the conflict of interest provisions of the Political Reform Act (the \"Act\"). 1 \nFormal written advice is the application oflaw to a given set of facts provided by the requestor and \nhas the purpose of conferring immunity to the requestor. (Section 83114.) The Act requires the \nCommission to provide written advice to any person whose duties under the Act are in question or \nto that person's authorized representative. (Section 83114(b ); Regulation 18329(a).) However, the \nCommission may decline to provide written advice if it would be inappropriate or otherwise not in \nthe public interest to do so (Regulation 18329(b)(6)(H)) and does not provide advice relating to past \nconduct (Regulation 18329 (b)(6)(A)). \nAfter a careful review of the facts you provided, we must decline to provide written advice \nto you at this time. Advising the City Council would involve analysis of a series of interrelated \ndecisions, some of which have already occurred, and issuing advice at this time would therefore \nrelate to past conduct. We also note that because we cannot provide advice regarding past actions, \nwe provide no opinion regarding remediation of any potential past violation. We can only note \ngenerally that under Section 91003(b) of the Act, a court may enjoin and ultimately void any action \ntaken by a city council if it determines that a disqualified councilmember took part in the decision. \nPlease note that our decision is not a determination of the questions posed in your request. \nIn addition, nothing in the Act prevents you from seeking legal advice from private counsel. \n1 The Political Reform Act is contained in Government Code Sections 81000 through 91014. All statutory \nreferences are to the Government Code, unless otherwise indicated. The regulations of the Fair Political Practices \nCommission are contained in Sections 18110 through 18997 of Title 2 of the California Code of Regulations. All \nregulatory references are to Title 2, Division 6 of the California Code of Regulations, unless otherwise indicated. \n\n\nFile No. W-19-206 \nPage No. 2 \nIf you have other questions on this matter, please contact me at (916) 322-5660. \nTAL:sal \nSincerely, \nDave Bainbridge \nGeneral Counsel \nBy: \nToren Lewis \nCounsel, Legal Division \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2019-11-14",
+    "date_raw": "November 14, 2019",
+    "requestor_name": "Dietrick",
+    "requestor_title": "City Attorney",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "After a careful review of the facts you provided, we must decline to provide written advice to you at this time. Advising the City Council would involve analysis of a series of interrelated decisions, some of which have already occurred, and issuing advice at this time would therefore relate to past conduct. We also note that because we cannot provide advice regarding past actions, we provide no opinion regarding remediation of any potential past violation.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The San Luis Obispo City Council requested advice regarding conflict of interest provisions of the Political Reform Act, involving analysis of interrelated decisions some of which had already occurred.",
+    "conclusion_synthetic": "The FPPC declined to provide written advice because the analysis would involve past conduct, which is outside the scope of formal written advice under the Political Reform Act. The FPPC noted that under Section 91003(b), a court may void any action taken by a city council if a disqualified councilmember participated in the decision.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is a declination letter. No explicit QUESTION or CONCLUSION sections were marked with headers, but the substance of both are clearly present in the body text. Document clearly identifies as a response to a request for advice (File No. W-19-206)."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "83114",
+      "91003(b)"
+    ],
+    "regulations": [
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.3333333333333333,
+    "classified_at": "2026-02-06T18:33:04.996560Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The San Luis Obispo City Council requested advice regarding conflict of interest provisions of the Political Reform Act, involving analysis of interrelated decisions some of which had already occurred.\n\nCONCLUSION: After a careful review of the facts you provided, we must decline to provide written advice to you at this time. Advising the City Council would involve analysis of a series of interrelated decisions, some of which have already occurred, and issuing advice at this time would therefore relate to past conduct. We also note that because we cannot provide advice regarding past actions, we provide no opinion regarding remediation of any potential past violation.",
+    "qa_source": "mixed",
+    "first_500_words": "STATE OF CALIFORNIA FAIR POLITICAL PRACTICES COMMISSION • 1102 Q Street • Suite 3000 • Sacramento, CA 95811 (916) 322-5660 • Fax (916) 322-0886 Christine Dietrick City Attorney City of San Luis Obispo 990 Palm Street San Luis Obispo, CA 93401-3249 Re: Your Request for Advice Our File No. W-19-206 Dear Ms. Dietrick: November 14, 2019 This letter responds to your request for advice on behalf of the San Luis Obispo City Council regarding the conflict of interest provisions of the Political Reform Act (the \"Act\"). 1 Formal written advice is the application oflaw to a given set of facts provided by the requestor and has the purpose of conferring immunity to the requestor. (Section 83114.) The Act requires the Commission to provide written advice to any person whose duties under the Act are in question or to that person's authorized representative. (Section 83114(b ); Regulation 18329(a).) However, the Commission may decline to provide written advice if it would be inappropriate or otherwise not in the public interest to do so (Regulation 18329(b)(6)(H)) and does not provide advice relating to past conduct (Regulation 18329 (b)(6)(A)). After a careful review of the facts you provided, we must decline to provide written advice to you at this time. Advising the City Council would involve analysis of a series of interrelated decisions, some of which have already occurred, and issuing advice at this time would therefore relate to past conduct. We also note that because we cannot provide advice regarding past actions, we provide no opinion regarding remediation of any potential past violation. We can only note generally that under Section 91003(b) of the Act, a court may enjoin and ultimately void any action taken by a city council if it determines that a disqualified councilmember took part in the decision. Please note that our decision is not a determination of the questions posed in your request. In addition, nothing in the Act prevents you from seeking legal advice from private counsel. 1 The Political Reform Act is contained in Government Code Sections 81000 through 91014. All statutory references are to the Government Code, unless otherwise indicated. The regulations of the Fair Political Practices Commission are contained in Sections 18110 through 18997 of Title 2 of the California Code of Regulations. All regulatory references are to Title 2, Division 6 of the California Code of Regulations, unless otherwise indicated. File No. W-19-206 Page No. 2 If you have other questions on this matter, please contact me at (916) 322-5660. TAL:sal Sincerely, Dave Bainbridge General Counsel By: Toren Lewis Counsel, Legal Division",
+    "summary": "The FPPC declined to provide formal written advice to the City of San Luis Obispo City Council regarding Political Reform Act conflict of interest provisions because the requested analysis involved interrelated decisions, some of which had already occurred, making the advice relate to past conduct which falls outside the Commission's authority."
+  }
+}

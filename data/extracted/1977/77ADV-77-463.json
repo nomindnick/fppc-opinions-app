@@ -1,0 +1,73 @@
+{
+  "id": "77ADV-77-463",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-463.PDF",
+  "pdf_sha256": "8660559e4bb28a8981e9f0b33a88eb4b313f14039248a01098ddc4bd790509e6",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-463.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-463",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:21:18",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=32"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-07T17:10:58.594304Z",
+    "page_count": 2,
+    "word_count": 266,
+    "char_count": 1695,
+    "quality_score": 0.5975,
+    "olmocr_cost": 0.00501896,
+    "native_word_count": 45
+  },
+  "content": {
+    "full_text": "August 5, 1977\n\nRoger Dirksen  \nc/o Senator Russell  \nState Capitol, Room 5061  \nSacramento, CA 95814\n\nDear Mr. Dirksen:\n\nYou have asked for advice as to whether you must report on your statement of economic interest reimbursement for expenses and transportation in connection with meetings held by M-2, a private nonprofit organization.\n\nUnder Commission regulation 18728:\n\n...free admission, food, beverage and similar nominal benefits provided to a filer at an event at which he or she speaks, participates in a panel or seminar or performs a similar service, and reimbursement or advance for actual intrastate travel and for necessary accommodations provided directly in connection with the event are not payments and need not be reported by the filer.\n\nCal. Adm. Code §18728(a)\n\nYou have described the M-2 meetings as ones at which you make presentations, the purpose of which is to inform citizens as to the best methods for conveying support for M-2's projects to public officials. Under the regulations, payment by M-2 of your expenses for necessary transportation, hotel room and meals in connection with the M-2 meetings would not be reportable. You should note that the regulation only applies to intrastate travel expenses. Interstate travel expenses would be reportable, although payment of other expenses of an out-of-state meeting would still be exempt from reporting.\n\nunder the regulation.\n\nI hope this advice is useful to you. Please do not hesitate to call if you have any questions. Per our telephone conversation, M-2 will make its own inquiry as to its reporting obligations under the Political Reform Act.\n\nSincerely,\n\nLee C. Rosenthal\nStaff Counsel\nLegal Division\n\nLCR:jo",
+    "full_text_markdown": "August 5, 1977\n\nRoger Dirksen  \nc/o Senator Russell  \nState Capitol, Room 5061  \nSacramento, CA 95814\n\nDear Mr. Dirksen:\n\nYou have asked for advice as to whether you must report on your statement of economic interest reimbursement for expenses and transportation in connection with meetings held by M-2, a private nonprofit organization.\n\nUnder Commission regulation 18728:\n\n...free admission, food, beverage and similar nominal benefits provided to a filer at an event at which he or she speaks, participates in a panel or seminar or performs a similar service, and reimbursement or advance for actual intrastate travel and for necessary accommodations provided directly in connection with the event are not payments and need not be reported by the filer.\n\nCal. Adm. Code §18728(a)\n\nYou have described the M-2 meetings as ones at which you make presentations, the purpose of which is to inform citizens as to the best methods for conveying support for M-2's projects to public officials. Under the regulations, payment by M-2 of your expenses for necessary transportation, hotel room and meals in connection with the M-2 meetings would not be reportable. You should note that the regulation only applies to intrastate travel expenses. Interstate travel expenses would be reportable, although payment of other expenses of an out-of-state meeting would still be exempt from reporting.\n\nunder the regulation.\n\nI hope this advice is useful to you. Please do not hesitate to call if you have any questions. Per our telephone conversation, M-2 will make its own inquiry as to its reporting obligations under the Political Reform Act.\n\nSincerely,\n\nLee C. Rosenthal\nStaff Counsel\nLegal Division\n\nLCR:jo"
+  },
+  "parsed": {
+    "date": "1977-08-05",
+    "date_raw": "August 5, 1977",
+    "requestor_name": "Dirksen",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "You have asked for advice as to whether you must report on your statement of economic interest reimbursement for expenses and transportation in connection with meetings held by M-2, a private nonprofit organization.",
+    "conclusion": "Under the regulations, payment by M-2 of your expenses for necessary transportation, hotel room and meals in connection with the M-2 meetings would not be reportable. You should note that the regulation only applies to intrastate travel expenses. Interstate travel expenses would be reportable, although payment of other expenses of an out-of-state meeting would still be exempt from reporting.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Must expenses and transportation reimbursements from M-2, a private nonprofit organization, for meetings where the recipient makes presentations be reported on a statement of economic interest?",
+    "conclusion_synthetic": "Intrastate travel expenses, hotel, and meal reimbursements for M-2 meetings where the filer makes presentations are not reportable under Cal. Adm. Code §18728(a). However, interstate travel expenses would be reportable, while other out-of-state meeting expenses remain exempt.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document lacks traditional labeled sections but contains clear question and conclusion elements. No section headers found as noted in parsing notes. Interstate vs. intrastate distinction is key to the advice provided."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [
+      "18728"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T17:10:58.594304Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: You have asked for advice as to whether you must report on your statement of economic interest reimbursement for expenses and transportation in connection with meetings held by M-2, a private nonprofit organization.\n\nCONCLUSION: Under the regulations, payment by M-2 of your expenses for necessary transportation, hotel room and meals in connection with the M-2 meetings would not be reportable. You should note that the regulation only applies to intrastate travel expenses. Interstate travel expenses would be reportable, although payment of other expenses of an out-of-state meeting would still be exempt from reporting.",
+    "qa_source": "mixed",
+    "first_500_words": "August 5, 1977 Roger Dirksen c/o Senator Russell State Capitol, Room 5061 Sacramento, CA 95814 Dear Mr. Dirksen: You have asked for advice as to whether you must report on your statement of economic interest reimbursement for expenses and transportation in connection with meetings held by M-2, a private nonprofit organization. Under Commission regulation 18728: ...free admission, food, beverage and similar nominal benefits provided to a filer at an event at which he or she speaks, participates in a panel or seminar or performs a similar service, and reimbursement or advance for actual intrastate travel and for necessary accommodations provided directly in connection with the event are not payments and need not be reported by the filer. Cal. Adm. Code §18728(a) You have described the M-2 meetings as ones at which you make presentations, the purpose of which is to inform citizens as to the best methods for conveying support for M-2's projects to public officials. Under the regulations, payment by M-2 of your expenses for necessary transportation, hotel room and meals in connection with the M-2 meetings would not be reportable. You should note that the regulation only applies to intrastate travel expenses. Interstate travel expenses would be reportable, although payment of other expenses of an out-of-state meeting would still be exempt from reporting. under the regulation. I hope this advice is useful to you. Please do not hesitate to call if you have any questions. Per our telephone conversation, M-2 will make its own inquiry as to its reporting obligations under the Political Reform Act. Sincerely, Lee C. Rosenthal Staff Counsel Legal Division LCR:jo",
+    "summary": "The FPPC advises Roger Dirksen that reimbursements from M-2 for intrastate travel, lodging, and meals in connection with presentations at M-2 meetings are not reportable under FPPC regulations, though interstate travel expenses would be reportable."
+  }
+}

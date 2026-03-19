@@ -1,0 +1,77 @@
+{
+  "id": "95-260",
+  "year": 1995,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/1995/95-260.pdf",
+  "pdf_sha256": "fafd84ba0c3bb0f0095a252e391c269ecc139f14ad945c4182c7922cde9da649",
+  "local_pdf_path": "raw_pdfs/1995/95-260.pdf",
+  "source_metadata": {
+    "title_raw": ", TAD Year: 1995 Advice Letter # 95-260",
+    "tags": [
+      "1995",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:38:02",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1995&tagCount=1&page=18"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:58.811885Z",
+    "page_count": 2,
+    "word_count": 313,
+    "char_count": 2068,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 313
+  },
+  "content": {
+    "full_text": "RAVI Mi,ir,\nC; A RM A N\nFAIR POLITICAL\nPRACTICES\nCOMMISSION\nSeptember 6,\n1995\nDiane M.\nFishburn\nOlson, Hagel,\nFong, Leidigh,\nWaters\n& Fishburn\n555 Capitol Mall,\nSte.\n1425\nSacramento,\nCA\n95814\nRe:\nYour Request for Confirmation\nV\nof Telephone Advice\nOur File No.\n1-95-260\nDear Ms.\nFishburn:\nYou have requested confirmation of telephone advice provided\ntc you concerning the campaign disclosure provisions of the\nPolitical Reform Act\n(the “Act”) •1/\nBecause your inquiry is\ngeneral in nature,\nwe will treat your letter as a reguest for\ninformal assistance pursuant to Regulation 18329(c).4/\nYour letter dated August 9,\n1995,\naccurately summarizes my\nadvice concerning the filing of supplemental pre—election campaign\nstatements pursuant to Section 84202.5 by a legislator who has\nmore than one controlled committee.\nAccording to your facts,\none\nof the legislator’s committees made contributions to support\ncandidates or committees in connection With the August 22,\n1995,\nrecall election in the 17th Assembly District and was required to\nfile a supplemental pre—election statement.\nThe other committee\ncontrolled by the legislator made no contributions in connection\nwith the election.\nI advised you that the committee which made no\n1/\nGovernment Code Sections 81000—91015.\nAll statutory\nreferences are to the Government Code unless otherwise indicated.\nCommission regulations appear at\n2 California Code of Regulations\nSection 18000,\net g.\nAll references to regulations are to Title\n2,\nDivision\n6 of the California Code of Regulations.\n2/\nInformal assistance does not provide the requestor with the\nimmunity provided by an opinion or formal written advice.\n(Section 83114; Regulation 1S329(c)(3).)\n42X\n.1 Sii;\ni\nSt)fl, S \\(I\\\\lI\nI;\\i\\ )5I$\n)I(; 3—5i’c-’\n\n\nDiane M.\nFishburn\nOur File No.\n1—95-260\nPage\n2\ncontributions in connection with the election would not be\nrequired to file a supplemental pre—election statement.\nIf you have questions concerning this letter, please contact\nme at\n(916)\n322—5660.\nSincerely,\nCarla Wardlow\nDivision Chief\nTechnical Assistance Division\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1995-09-06",
+    "date_raw": "September 6,\n1995",
+    "requestor_name": "Fishburn",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "informal_advice"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Must a legislator with multiple controlled committees file supplemental pre-election campaign statements for all committees, or only those committees that made contributions in connection with a recall election?",
+    "conclusion_synthetic": "A committee controlled by a legislator that made no contributions in connection with an election is not required to file a supplemental pre-election statement under Section 84202.5, even if another committee controlled by the same legislator did make such contributions and was required to file.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is informal advice confirming telephone guidance. No formal QUESTION or CONCLUSION sections present; information extracted from letter body. Requestor is attorney Diane M. Fishburn seeking confirmation of prior oral advice regarding Political Reform Act compliance."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "83114",
+      "84202"
+    ],
+    "regulations": [
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.3333333333333333,
+    "classified_at": "2026-02-06T18:34:58.811885Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Must a legislator with multiple controlled committees file supplemental pre-election campaign statements for all committees, or only those committees that made contributions in connection with a recall election?\n\nCONCLUSION: A committee controlled by a legislator that made no contributions in connection with an election is not required to file a supplemental pre-election statement under Section 84202.5, even if another committee controlled by the same legislator did make such contributions and was required to file.",
+    "qa_source": "synthetic",
+    "first_500_words": "RAVI Mi,ir, C; A RM A N FAIR POLITICAL PRACTICES COMMISSION September 6, 1995 Diane M. Fishburn Olson, Hagel, Fong, Leidigh, Waters & Fishburn 555 Capitol Mall, Ste. 1425 Sacramento, CA 95814 Re: Your Request for Confirmation V of Telephone Advice Our File No. 1-95-260 Dear Ms. Fishburn: You have requested confirmation of telephone advice provided tc you concerning the campaign disclosure provisions of the Political Reform Act (the “Act”) •1/ Because your inquiry is general in nature, we will treat your letter as a reguest for informal assistance pursuant to Regulation 18329(c).4/ Your letter dated August 9, 1995, accurately summarizes my advice concerning the filing of supplemental pre—election campaign statements pursuant to Section 84202.5 by a legislator who has more than one controlled committee. According to your facts, one of the legislator’s committees made contributions to support candidates or committees in connection With the August 22, 1995, recall election in the 17th Assembly District and was required to file a supplemental pre—election statement. The other committee controlled by the legislator made no contributions in connection with the election. I advised you that the committee which made no 1/ Government Code Sections 81000—91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations Section 18000, et g. All references to regulations are to Title 2, Division 6 of the California Code of Regulations. 2/ Informal assistance does not provide the requestor with the immunity provided by an opinion or formal written advice. (Section 83114; Regulation 1S329(c)(3).) 42X .1 Sii; i St)fl, S \\(I\\\\lI I;\\i\\ )5I$ )I(; 3—5i’c-’ Diane M. Fishburn Our File No. 1—95-260 Page 2 contributions in connection with the election would not be required to file a supplemental pre—election statement. If you have questions concerning this letter, please contact me at (916) 322—5660. Sincerely, Carla Wardlow Division Chief Technical Assistance Division",
+    "summary": "FPPC confirms prior telephone advice to counsel regarding supplemental pre-election campaign statement filing requirements for a legislator with multiple controlled committees, clarifying that only committees making contributions in connection with the election must file such statements."
+  }
+}

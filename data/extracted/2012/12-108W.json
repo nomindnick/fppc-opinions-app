@@ -1,0 +1,73 @@
+{
+  "id": "12-108W",
+  "year": 2012,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2012/12-108W.pdf",
+  "pdf_sha256": "0e3bb3f96cfc65467889d1a5223aaf465940b8856ffce6a57b93667fd7773829",
+  "local_pdf_path": "raw_pdfs/2012/12-108W.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2012 Advice Letter # 12-108W",
+    "tags": [
+      "2012",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:54:26",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2012&tagCount=1"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:20:11.465729Z",
+    "page_count": 1,
+    "word_count": 177,
+    "char_count": 1176,
+    "quality_score": 0.6675,
+    "olmocr_cost": null,
+    "native_word_count": 177
+  },
+  "content": {
+    "full_text": "FAIR POLITICAL PRACTICES COMMISSION \n-l'.!8 J S1rcc1 • Suite 620 • SiJcramcnto. CA 95814-2329 \n(9 I 6) .l::!2-5660 • r:ilx (91 flJ 3'.!::? 0886 \nRamon Medina \n4941 E. 60th Street \nMaywood, CA 90270 \nRe: \nYour Request for Advice \nOur File No, W-12-108 \nDear Mr. Medina: \nJuly 18, 2012 \nWe received your request for advice concerning the Maywood Mayor. Under the \nprovisions of California Code of Regulations 18329, unless you are an authorized representative \nof the mayor, the Fair Political Practices Commission cannot address your questions or provide \nanalysis. (Regulation 18329(b)(8)(8) and (c)(I).) It does not appear you are authorized. \nTherefore, your request is withdrawn. I enclose a copy of Regulation 18329 for your review. \nShould you have any additional questions regarding this matter, please contact the \nCommission at (916) 322-5660. If you wish to file a complaint, a complaint form can be \nobtained from the FPPC Website at http://www.fppc.ca.gov/index.php?id=498. \nIf you have other questions on this matter, please contact me at (916) 322-5660. \nHMR:jgl \nSincerely, \nZackery P. Morazzini \nGeneral Counsel \nBy: \nHeather M. Rowan \nCounsel, Legal Division \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2012-07-18",
+    "date_raw": "July 18, 2012",
+    "requestor_name": "Medina",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "Under California Code of Regulations 18329, unless the requestor is an authorized representative of the mayor, the FPPC cannot address the questions or provide analysis. It does not appear the requestor is authorized. Therefore, the request is withdrawn.",
+    "facts": null,
+    "analysis": ". (Regulation 18329(b)(8)(8) and (c)(I).) It does not appear you are authorized. \nTherefore, your request is withdrawn. I enclose a copy of Regulation 18329 for your review.",
+    "question_synthetic": "Can the FPPC provide advice to Ramon Medina regarding questions about the Maywood Mayor?",
+    "conclusion_synthetic": "The FPPC declined to provide advice because the requestor is not an authorized representative of the Maywood Mayor as required by Regulation 18329. The request was withdrawn.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "Format: ocr; LLM: Withdrawal letter with clear conclusion but no formal QUESTION section. Request was denied on jurisdictional/standing grounds rather than on merits."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:20:11.465729Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Can the FPPC provide advice to Ramon Medina regarding questions about the Maywood Mayor?\n\nCONCLUSION: Under California Code of Regulations 18329, unless the requestor is an authorized representative of the mayor, the FPPC cannot address the questions or provide analysis. It does not appear the requestor is authorized. Therefore, the request is withdrawn.",
+    "qa_source": "mixed",
+    "first_500_words": "FAIR POLITICAL PRACTICES COMMISSION -l'.!8 J S1rcc1 • Suite 620 • SiJcramcnto. CA 95814-2329 (9 I 6) .l::!2-5660 • r:ilx (91 flJ 3'.!::? 0886 Ramon Medina 4941 E. 60th Street Maywood, CA 90270 Re: Your Request for Advice Our File No, W-12-108 Dear Mr. Medina: July 18, 2012 We received your request for advice concerning the Maywood Mayor. Under the provisions of California Code of Regulations 18329, unless you are an authorized representative of the mayor, the Fair Political Practices Commission cannot address your questions or provide analysis. (Regulation 18329(b)(8)(8) and (c)(I).) It does not appear you are authorized. Therefore, your request is withdrawn. I enclose a copy of Regulation 18329 for your review. Should you have any additional questions regarding this matter, please contact the Commission at (916) 322-5660. If you wish to file a complaint, a complaint form can be obtained from the FPPC Website at http://www.fppc.ca.gov/index.php?id=498. If you have other questions on this matter, please contact me at (916) 322-5660. HMR:jgl Sincerely, Zackery P. Morazzini General Counsel By: Heather M. Rowan Counsel, Legal Division",
+    "summary": "The FPPC withdrew a request for advice from Ramon Medina regarding the Maywood Mayor because the requestor did not qualify as an authorized representative under Regulation 18329(b)(8) and (c)(1)."
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "83A177",
+  "year": 1983,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1983/83A177.PDF",
+  "pdf_sha256": "91818d162339e231b30c3ceee30aceff7b83efebabb5985ae392e23207e07d03",
+  "local_pdf_path": "raw_pdfs/1983/83A177.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1983 Advice Letter # 83A177",
+    "tags": [
+      "1983",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:32:42",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1983&tagCount=1&page=17"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:52.810924Z",
+    "page_count": 1,
+    "word_count": 343,
+    "char_count": 1976,
+    "quality_score": 0.635,
+    "olmocr_cost": null,
+    "native_word_count": 343
+  },
+  "content": {
+    "full_text": "State of California \nMemorandum \nTo \nFile: \nSections 86l09(b)(4) and \n87207(a)(1) \nDote \n7 / 15 / 8 3 \nNo.: \nM-83-177 \nFrom \n: \nFAIR POLITICAL PRACTICES COMMISSION \nJeanne Pritchard \nSubject: \nTelephone conversation with Kevin Wolf, Friends of the River \n(1) \nFriends of the River (FOR) is a lobbyist \nemployer. \nFriends of the River purchased some river raft \ntrips from a river trip company at \"costs\" (the river trip \ncompany sells the trips for $960; FOR bought them from the \ncompany for $190). \nIf FOR provides legislators with the \ntrips, what is the reportable value of the gift received \nby the legislators. \nAnswer: \nThe value of the gift is the \"fair market \nvalue\" -- ie\" \nwhat it would cost the recipient to purchase \nthe goods or services on the open market \nThe value of the \ngift which must be reported by FOR on its Lobbyist Employer \nReport, and by the legislators receiving the trips, is $960. \n(2) \nBecause FOR does not want a legislator to have \nto disqualify on a matter which FOR has an interest in, may \nFOR return the trips to the company and ask the company to \ngive the trips to the legislators and thereby avoid a conflict \nof interest on the part of the legislators? \nAnswer: \nNo. \nBecause FOR would have control over who \nreceives the trips, the company would merely be acting as an \nintermediary in the making of the gifts, so FOR would still \nbe the source of the gifts. \n(3) \nIf FOR suggests to the company that~if it has \nany more free trips available in the future, it offer them \nto legislators, would FOR be considered the \"source\" of the \ngifts? \nAnswer: \nNo \nFOR may make recommendations regarding \nto whom the gifts should be offered, and even to whom the \ngifts should be given, without becoming a source \nSo long \nas FOR does not have any actual control over providing the \ntrips, they are not a source, and no conflict of interest \nwould exist for the legislators with regard to FOR. \n(None of these scenarios involves a lobbyist ) \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "What is the reportable value of river raft trips provided by Friends of the River to legislators, can FOR avoid legislator conflicts of interest by having a company provide trips instead, and would FOR be considered the source of gifts if it recommends the company offer trips to legislators?",
+    "conclusion_synthetic": "The reportable gift value is fair market value ($960), not the cost paid by FOR ($190). FOR cannot avoid conflicts by using a company as an intermediary if FOR controls the gift distribution. However, FOR may make recommendations about gift recipients without becoming the source, as long as FOR has no actual control over providing the trips.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Memorandum format with three numbered Q&A sections but no formal QUESTION/CONCLUSION headers. Date 7/15/83, No. M-83-177. Contains three distinct advice responses addressing gift valuation, intermediary arrangements, and source attribution under FPPC Political Reform Act sections."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [
+      "M-83-177"
+    ],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:36:52.810924Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: What is the reportable value of river raft trips provided by Friends of the River to legislators, can FOR avoid legislator conflicts of interest by having a company provide trips instead, and would FOR be considered the source of gifts if it recommends the company offer trips to legislators?\n\nCONCLUSION: The reportable gift value is fair market value ($960), not the cost paid by FOR ($190). FOR cannot avoid conflicts by using a company as an intermediary if FOR controls the gift distribution. However, FOR may make recommendations about gift recipients without becoming the source, as long as FOR has no actual control over providing the trips.",
+    "qa_source": "synthetic",
+    "first_500_words": "State of California Memorandum To File: Sections 86l09(b)(4) and 87207(a)(1) Dote 7 / 15 / 8 3 No.: M-83-177 From : FAIR POLITICAL PRACTICES COMMISSION Jeanne Pritchard Subject: Telephone conversation with Kevin Wolf, Friends of the River (1) Friends of the River (FOR) is a lobbyist employer. Friends of the River purchased some river raft trips from a river trip company at \"costs\" (the river trip company sells the trips for $960; FOR bought them from the company for $190). If FOR provides legislators with the trips, what is the reportable value of the gift received by the legislators. Answer: The value of the gift is the \"fair market value\" -- ie\" what it would cost the recipient to purchase the goods or services on the open market The value of the gift which must be reported by FOR on its Lobbyist Employer Report, and by the legislators receiving the trips, is $960. (2) Because FOR does not want a legislator to have to disqualify on a matter which FOR has an interest in, may FOR return the trips to the company and ask the company to give the trips to the legislators and thereby avoid a conflict of interest on the part of the legislators? Answer: No. Because FOR would have control over who receives the trips, the company would merely be acting as an intermediary in the making of the gifts, so FOR would still be the source of the gifts. (3) If FOR suggests to the company that~if it has any more free trips available in the future, it offer them to legislators, would FOR be considered the \"source\" of the gifts? Answer: No FOR may make recommendations regarding to whom the gifts should be offered, and even to whom the gifts should be given, without becoming a source So long as FOR does not have any actual control over providing the trips, they are not a source, and no conflict of interest would exist for the legislators with regard to FOR. (None of these scenarios involves a lobbyist )",
+    "summary": "FPPC memorandum addressing three questions regarding gift reporting value and source attribution when Friends of the River (a lobbyist employer) purchases discounted river trips for potential distribution to legislators."
+  }
+}

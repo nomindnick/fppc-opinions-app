@@ -1,0 +1,75 @@
+{
+  "id": "11-206",
+  "year": 2011,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2011/11-206.pdf",
+  "pdf_sha256": "3d6df48085423070e2e44c0126cf1ad1fea6eeaba9856b65b47ef418b90aecd6",
+  "local_pdf_path": "raw_pdfs/2011/11-206.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2011 Advice Letter # 11-206",
+    "tags": [
+      "2011",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:53:28",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2011&tagCount=1&page=12"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:33:48.227185Z",
+    "page_count": 2,
+    "word_count": 388,
+    "char_count": 2227,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 388
+  },
+  "content": {
+    "full_text": " \nFAIR p OLITICAL p RACTICES COMMISSION \n428 J Street • Suite 620 • Sacramento, CA 95814-2329 \n(916) 322-5660 • Fax (916) 322-0886 \nPhillip A. Tate \nSheppard Mullin \nRichter & Hampton LLP \n333 South Hope Street, 43rd Fl. \nLos Angeles, CA 90071-1422 \nRe: \nYour Request for Advice \nOur file No. W-11-206 \nDear Mr. Tate: \nJanuary 9,2011 \nThis letter responds to your request for advice regarding the conflict-of-interest \nprovisions of the Political Reform Act (the \"Act\"). 1 I attempted to contact you by telephone last \nmonth, and I left you a voicemail message when it appeared that you were unavailable at the \ntime of my call. As I understand the facts given in your request for advice, you wrote on behalf \nof a commercial enterprise, a client you characterized as a \"real party in interest\" to a \ngovernmental decision because of its potential economic consequences for your client. \nThe Act (Section 831 l 4(b) and Regulation 18329, copies enclosed) authorizes a response \nto a request for formal written advice or informal written assistance only when the person \nseeking help is a person whose duties under the Act are in question, or is the authorized \nrepresentative of such a person. \nIt does not appear that your client is a person whose duties under the Act are in question. \nThus, under the provisions of Regulation 18329(b)(8)(B) and (c)(4)(C), we are unable to respond \nto your request in this matter. \n1 The Political Reform Act is contained in Government Code Sections 81000 through91014. All statutory \nreferences are to the Government Code, unless otherwise indicated. The regulations of the Fair Political Practices \nCommission are contained in Sections 18 l l O through 18997 of Title 2 of the California Code of Regulations. All \nregulatory references are to Title 2, Division 6 of the California Code of Regulations, unless otherwise indicated. \n\n\nF il e  No. W-11-20 6  \nPage No .  2 \nIf you are able to rene w yo ur re q uest as the represe ntative o f \na person whose d u ties u nder \nthe Act are in question, pleas\ne co\nnt ac t me at (9 16) 322-\n5\n6\n6 0. \nLTW:jgl \nEnclosures \nSin cerely, \nZa ckery P. Moraz zini \nGeneral Co u nsel \nBy: \nLaw rence T. Woodlock \nS\ne nior Co u nsel ,  Legal D ivision \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2011-01-09",
+    "date_raw": "January 9,2011",
+    "requestor_name": "Tate",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a commercial enterprise that would be affected by a governmental decision can request FPPC advice regarding the conflict-of-interest provisions of the Political Reform Act.",
+    "conclusion_synthetic": "The FPPC declined to respond to the request because the requestor's client is not a person whose duties under the Act are in question, and the FPPC can only provide advice to such persons or their authorized representatives under Regulation 18329.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is a declination letter rather than a full advice letter. The document does not contain explicit QUESTION or CONCLUSION sections with verbatim text, but the advisory nature and reasoning are clear from the body of the letter. The letter explains the regulatory basis for the declination (Regulation 18329) and invites resubmission if the requestor is representing someone whose duties under the Act are in question."
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:33:48.227185Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether a commercial enterprise that would be affected by a governmental decision can request FPPC advice regarding the conflict-of-interest provisions of the Political Reform Act.\n\nCONCLUSION: The FPPC declined to respond to the request because the requestor's client is not a person whose duties under the Act are in question, and the FPPC can only provide advice to such persons or their authorized representatives under Regulation 18329.",
+    "qa_source": "synthetic",
+    "first_500_words": "FAIR p OLITICAL p RACTICES COMMISSION 428 J Street • Suite 620 • Sacramento, CA 95814-2329 (916) 322-5660 • Fax (916) 322-0886 Phillip A. Tate Sheppard Mullin Richter & Hampton LLP 333 South Hope Street, 43rd Fl. Los Angeles, CA 90071-1422 Re: Your Request for Advice Our file No. W-11-206 Dear Mr. Tate: January 9,2011 This letter responds to your request for advice regarding the conflict-of-interest provisions of the Political Reform Act (the \"Act\"). 1 I attempted to contact you by telephone last month, and I left you a voicemail message when it appeared that you were unavailable at the time of my call. As I understand the facts given in your request for advice, you wrote on behalf of a commercial enterprise, a client you characterized as a \"real party in interest\" to a governmental decision because of its potential economic consequences for your client. The Act (Section 831 l 4(b) and Regulation 18329, copies enclosed) authorizes a response to a request for formal written advice or informal written assistance only when the person seeking help is a person whose duties under the Act are in question, or is the authorized representative of such a person. It does not appear that your client is a person whose duties under the Act are in question. Thus, under the provisions of Regulation 18329(b)(8)(B) and (c)(4)(C), we are unable to respond to your request in this matter. 1 The Political Reform Act is contained in Government Code Sections 81000 through91014. All statutory references are to the Government Code, unless otherwise indicated. The regulations of the Fair Political Practices Commission are contained in Sections 18 l l O through 18997 of Title 2 of the California Code of Regulations. All regulatory references are to Title 2, Division 6 of the California Code of Regulations, unless otherwise indicated. F il e No. W-11-20 6 Page No . 2 If you are able to rene w yo ur re q uest as the represe ntative o f a person whose d u ties u nder the Act are in question, pleas e co nt ac t me at (9 16) 322- 5 6 6 0. LTW:jgl Enclosures Sin cerely, Za ckery P. Moraz zini General Co u nsel By: Law rence T. Woodlock S e nior Co u nsel , Legal D ivision",
+    "summary": "The FPPC declined to provide written advice to an attorney seeking guidance on behalf of a commercial enterprise regarding conflict-of-interest provisions of the Political Reform Act, as the client does not have duties under the Act and therefore does not qualify for FPPC assistance under Regulation 18329."
+  }
+}

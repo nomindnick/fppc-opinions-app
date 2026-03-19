@@ -1,0 +1,71 @@
+{
+  "id": "02-185",
+  "year": 2002,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2002/02-185.pdf",
+  "pdf_sha256": "bf25bf6881986bc03f6937be9e69ac2a2f5439db58a6ede2bf452609dc4b169b",
+  "local_pdf_path": "raw_pdfs/2002/02-185.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2002 Advice Letter # 02-185",
+    "tags": [
+      "Advice Letter",
+      "2002"
+    ],
+    "scraped_at": "2026-01-31 14:35:53",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2002&tagCount=1&page=12"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:26.367982Z",
+    "page_count": 1,
+    "word_count": 178,
+    "char_count": 1140,
+    "quality_score": 0.635,
+    "olmocr_cost": null,
+    "native_word_count": 178
+  },
+  "content": {
+    "full_text": "Fern PoLrrrcAL PnacrrcEs Corr,rMrssroN\n428 J Street. Suite 620 . Sacramento, CA 95814-2329\n(916) 322-5660. Fax (916) 322-0886\nDecember 17,2002\nDouglas B. Jensen\nBaker, Manock & Jensen\nFig Garden Financial Center\n5260 North Palm Avenue - Fourth Floor\nFresno, California 93704\n4r*cnluc,\neCut<att cR\nBy: Adrianne Korchmaros\nRe: Your Request for Advice\nOur File No. W-02-185\nDear Mr. Jensen:\nThis letter is to notiff you that, at your request, we have withdrawn the above\ncaptioned request for advice on behalf of the Associated Students, Califomia State\nUniversity, Fresno, regarding whether or not the Associated Students are subject to the\nconflict of interest code provisions of the Political Reform Act. As we have discussed,\nyou lack certain key elements of information about the Associated Students that we\nwould require in order to issue a response.\nIf you would still like to have written advice on these questions, you may send in\nanother request containing the requested information. If you have any questions, feel free\nto call me at (916) 322-5660.\nSincerely\nLuisa Menchaca\nGeneral Counsel\nI:\\Adviceltrs\\02-185\na:\nPolitical Reform\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2002-12-17",
+    "date_raw": "December 17,2002",
+    "requestor_name": "Jensen",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether the Associated Students of California State University, Fresno are subject to the conflict of interest code provisions of the Political Reform Act.",
+    "conclusion_synthetic": "The FPPC withdrew the request for advice because the requestor lacked certain key elements of information about the Associated Students necessary to issue a response, and invited resubmission with the requested information.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is a withdrawal letter (W-02-185) with no formal QUESTION or CONCLUSION sections. The substantive legal question and FPPC's reasoning for withdrawal are extracted from the body of the letter. The requestor is instructed to resubmit with additional required information."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:34:26.367982Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether the Associated Students of California State University, Fresno are subject to the conflict of interest code provisions of the Political Reform Act.\n\nCONCLUSION: The FPPC withdrew the request for advice because the requestor lacked certain key elements of information about the Associated Students necessary to issue a response, and invited resubmission with the requested information.",
+    "qa_source": "synthetic",
+    "first_500_words": "Fern PoLrrrcAL PnacrrcEs Corr,rMrssroN 428 J Street. Suite 620 . Sacramento, CA 95814-2329 (916) 322-5660. Fax (916) 322-0886 December 17,2002 Douglas B. Jensen Baker, Manock & Jensen Fig Garden Financial Center 5260 North Palm Avenue - Fourth Floor Fresno, California 93704 4r*cnluc, eCut<att cR By: Adrianne Korchmaros Re: Your Request for Advice Our File No. W-02-185 Dear Mr. Jensen: This letter is to notiff you that, at your request, we have withdrawn the above captioned request for advice on behalf of the Associated Students, Califomia State University, Fresno, regarding whether or not the Associated Students are subject to the conflict of interest code provisions of the Political Reform Act. As we have discussed, you lack certain key elements of information about the Associated Students that we would require in order to issue a response. If you would still like to have written advice on these questions, you may send in another request containing the requested information. If you have any questions, feel free to call me at (916) 322-5660. Sincerely Luisa Menchaca General Counsel I:\\Adviceltrs\\02-185 a: Political Reform",
+    "summary": "The FPPC withdrew a request for advice regarding whether the Associated Students at California State University, Fresno are subject to conflict of interest code provisions under the Political Reform Act due to insufficient information provided by the requestor."
+  }
+}

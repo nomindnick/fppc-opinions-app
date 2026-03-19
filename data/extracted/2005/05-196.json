@@ -1,0 +1,74 @@
+{
+  "id": "05-196",
+  "year": 2005,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2005/05-196.pdf",
+  "pdf_sha256": "7c143c6396925f59ca4695c32132329540df290cbabaa3293a5cd26ce2531a73",
+  "local_pdf_path": "raw_pdfs/2005/05-196.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2005 Advice Letter # 05-196",
+    "tags": [
+      "2005",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:43:34",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2005&tagCount=1&page=21"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T17:59:24.198027Z",
+    "page_count": 1,
+    "word_count": 113,
+    "char_count": 746,
+    "quality_score": 0.8105461842361179,
+    "olmocr_cost": 0.00249314,
+    "native_word_count": 121,
+    "haiku_cost": 0.00228
+  },
+  "content": {
+    "full_text": "FAIR POLITICAL PRACTICES COMMISSION\n428 J Street • Suite 620 • Sacramento, CA 95814-2329\n(916) 322-5660 • Fax (916) 322-0886\n\nSeptember 23, 2005\n\nShirley L. Grindle\n5021 E. Glen Arran\nOrange, CA 92869\n\nRe: Your Request for Advice\nOur File No. W-05-196\n\nDear Ms. Grindle:\n\nThis letter is to confirm that, pursuant to our telephone conversation on\nSeptember 22, 2005, you have withdrawn your request for advice regarding the campaign\ndisclosure provisions of the Political Reform Act (Gov. Code sections 81000 – 91014).\n\nIf you have any other questions regarding this matter, please contact me at (916)\n322-5660.\n\nSincerely,\n\nLuisa Menchaca\nGeneral Counsel\n\nBy: Carla Wardlow\nDivision Chief\nTechnical Assistance Division\n\nCW:rd\nI:\\AdviceLtrs\\05-196",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2005-09-22",
+    "date_raw": "September 22, 2005",
+    "requestor_name": null,
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-19T22:46:37.274278Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "The letter is from the Fair Political Practices Commission and is addressed to Shirley L. Grindle at 5021 E. Glen Arran, Orange, CA 92869. The letter confirms that, pursuant to their telephone conversation on September 22, 2005, Ms. Grindle has withdrawn her request for advice regarding the campaign disclosure provisions of the Political Reform Act (Gov. Code sections 81000 – 91014). If Ms. Grindle has any other questions regarding this matter, she is asked to contact Carla Wardlow at (916) 322-5660. Sincerely, Luisa Menchaca General Counsel By: Carla Wardlow Division Chief Technical Assistance Division",
+    "qa_source": "extracted",
+    "first_500_words": "The letter is from the Fair Political Practices Commission and is addressed to Shirley L. Grindle at 5021 E. Glen Arran, Orange, CA 92869. The letter confirms that, pursuant to their telephone conversation on September 22, 2005, Ms. Grindle has withdrawn her request for advice regarding the campaign disclosure provisions of the Political Reform Act (Gov. Code sections 81000 – 91014). If Ms. Grindle has any other questions regarding this matter, she is asked to contact Carla Wardlow at (916) 322-5660. Sincerely, Luisa Menchaca General Counsel By: Carla Wardlow Division Chief Technical Assistance Division",
+    "summary": null
+  }
+}

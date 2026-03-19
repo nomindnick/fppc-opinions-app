@@ -1,0 +1,73 @@
+{
+  "id": "77ADV-77-180",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-180.PDF",
+  "pdf_sha256": "463c92b73d9e38f1bcc95a3554ba74bb88b22e77aa02910b91e64a1e7ddb6ef3",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-180.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-180",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:21:04",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=29"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:14.898683Z",
+    "page_count": 2,
+    "word_count": 242,
+    "char_count": 1561,
+    "quality_score": 0.515,
+    "olmocr_cost": null,
+    "native_word_count": 242
+  },
+  "content": {
+    "full_text": "25, 1977 \nMs. Valerie T. Smullen \n128 Kellogg Way \nSanta Clara, California \n95051 \nDear Ms. Smullen: \nThank you for your letter of May 9 in which you asked whether \na registered partisan political comntittee which makes a donation \nto a non-partisan city council candidate, is required to file \ncampaign statements on the same basis as the candidate or would \noff-year statement fulfill the necessary filing obligation \nunder the Political Reform Act. \nwhich contributes $250 or more must file under \nrequired by Section 84200 the same as the candidate. \nlation effective January I, 1977, however, permits \nsupporting or opposing candidates in a local election \nto file an abbreviated form (Form 480) if it meets \nrequire-\nments \non \n5 of the enclosed fact sheet titled \"Reporting \nGuidelines for Campaign Committees.\" \nIf no further contributions \nare received and no further expenditures are made or anticipated \nin connection with the election, the committee may designate the \nstatement a ftfinal\" statement by completing and attaching a Form 400 \nthereby relieving itself of any further pre-election or post-\nelection filing. \nThis does not, however, relieve the committee of \nits obligation to file an off-year (semi-annual) statement. \nA committee supporting or opposing a candidate in a local election \nand not contributing $250 or more need not file in connection with \nthat election, but must file the required off-year statement. \nI \nenclosed some additional \nassistance to you \nof further ass \nSincerely, \nmak \nJeanne P. \nthat will \nlet me \nif I \n\n\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": "Smullen",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "whether a registered partisan political committee which makes a donation to a non-partisan city council candidate, is required to file campaign statements on the same basis as the candidate or would off-year statement fulfill the necessary filing obligation under the Political Reform Act",
+    "conclusion": "A committee which contributes $250 or more must file under the requirements of Section 84200 the same as the candidate. Regulation effective January 1, 1977 permits committees supporting or opposing candidates in a local election to file an abbreviated form (Form 480). If no further contributions or expenditures are anticipated, the committee may designate a final statement (Form 400), relieving itself of pre-election and post-election filing obligations, though off-year filing remains required. A committee contributing less than $250 need not file in connection with that election but must file the required off-year statement.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Does a partisan political committee that donates to a non-partisan city council candidate need to file campaign statements on the same schedule as the candidate, or are off-year statements sufficient?",
+    "conclusion_synthetic": "Committees contributing $250 or more must file on the same basis as candidates but may use an abbreviated Form 480 and can file a final statement to end pre- and post-election filing obligations; however, off-year statements are always required. Committees contributing less than $250 are only required to file off-year statements.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document dated May 25, 1977. Some text appears corrupted or partially illegible at the end ('mak Jeanne P.' and incomplete final paragraph). The conclusion section is reconstructed from fragmented text discussing filing requirements. No clear section headers marked as 'CONCLUSION' or 'QUESTION' but content clearly answers the inquiry in the opening paragraph."
+  },
+  "citations": {
+    "government_code": [
+      "84200"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:37:14.898683Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: whether a registered partisan political committee which makes a donation to a non-partisan city council candidate, is required to file campaign statements on the same basis as the candidate or would off-year statement fulfill the necessary filing obligation under the Political Reform Act\n\nCONCLUSION: A committee which contributes $250 or more must file under the requirements of Section 84200 the same as the candidate. Regulation effective January 1, 1977 permits committees supporting or opposing candidates in a local election to file an abbreviated form (Form 480). If no further contributions or expenditures are anticipated, the committee may designate a final statement (Form 400), relieving itself of pre-election and post-election filing obligations, though off-year filing remains required. A committee contributing less than $250 need not file in connection with that election but must file the required off-year statement.",
+    "qa_source": "mixed",
+    "first_500_words": "25, 1977 Ms. Valerie T. Smullen 128 Kellogg Way Santa Clara, California 95051 Dear Ms. Smullen: Thank you for your letter of May 9 in which you asked whether a registered partisan political comntittee which makes a donation to a non-partisan city council candidate, is required to file campaign statements on the same basis as the candidate or would off-year statement fulfill the necessary filing obligation under the Political Reform Act. which contributes $250 or more must file under required by Section 84200 the same as the candidate. lation effective January I, 1977, however, permits supporting or opposing candidates in a local election to file an abbreviated form (Form 480) if it meets require- ments on 5 of the enclosed fact sheet titled \"Reporting Guidelines for Campaign Committees.\" If no further contributions are received and no further expenditures are made or anticipated in connection with the election, the committee may designate the statement a ftfinal\" statement by completing and attaching a Form 400 thereby relieving itself of any further pre-election or post- election filing. This does not, however, relieve the committee of its obligation to file an off-year (semi-annual) statement. A committee supporting or opposing a candidate in a local election and not contributing $250 or more need not file in connection with that election, but must file the required off-year statement. I enclosed some additional assistance to you of further ass Sincerely, mak Jeanne P. that will let me if I",
+    "summary": "FPPC advises Ms. Smullen that a partisan political committee donating to a non-partisan city council candidate must file campaign statements based on contribution amount, with options for abbreviated forms and final statements, while maintaining off-year filing obligations."
+  }
+}

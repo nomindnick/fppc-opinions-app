@@ -1,0 +1,71 @@
+{
+  "id": "00-248",
+  "year": 2000,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2000/00-248.pdf",
+  "pdf_sha256": "34a83a9687aa47446c4ab07f51d21d73f36a2daa3be528f1abb6941701a768d1",
+  "local_pdf_path": "raw_pdfs/2000/00-248.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2000 Advice Letter # 00-248",
+    "tags": [
+      "2000",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 00:43:37",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2000&tagCount=1&page=20"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T13:51:54.757010Z",
+    "page_count": 1,
+    "word_count": 91,
+    "char_count": 581,
+    "quality_score": 0.8450173554706163,
+    "olmocr_cost": 0.0024991600000000003,
+    "native_word_count": 103
+  },
+  "content": {
+    "full_text": "April 2, 2001\n\nFrank William Hafner, IV\nPublic Service Technologies\n1420 Palm Avenue, Unit E\nSan Gabriel, CA 91776\n\nRe: Your Request for Advice\nOur File No. W-00-248\n\nDear Mr. Hafner:\n\nThis letter memorializes our conversation of March 29, 2001, wherein you withdrew your November 2, 2000, request for written advice from the Fair Political Practices Commission. I apologize for not contacting you sooner.\n\nShould you have any future questions, please feel free to contact the Commission at (916) 322-5660.\n\nVery truly yours,\n\nJohn W. Wallace\nSenior Counsel, Legal Division\n\nJWW:jg",
+    "full_text_markdown": "April 2, 2001\n\nFrank William Hafner, IV\nPublic Service Technologies\n1420 Palm Avenue, Unit E\nSan Gabriel, CA 91776\n\nRe: Your Request for Advice\nOur File No. W-00-248\n\nDear Mr. Hafner:\n\nThis letter memorializes our conversation of March 29, 2001, wherein you withdrew your November 2, 2000, request for written advice from the Fair Political Practices Commission. I apologize for not contacting you sooner.\n\nShould you have any future questions, please feel free to contact the Commission at (916) 322-5660.\n\nVery truly yours,\n\nJohn W. Wallace\nSenior Counsel, Legal Division\n\nJWW:jg"
+  },
+  "parsed": {
+    "date": "2001-04-02",
+    "date_raw": "April 2, 2001",
+    "requestor_name": "Hafner",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-20T13:51:54.757010Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "April 2, 2001 Frank William Hafner, IV Public Service Technologies 1420 Palm Avenue, Unit E San Gabriel, CA 91776 Re: Your Request for Advice Our File No. W-00-248 Dear Mr. Hafner: This letter memorializes our conversation of March 29, 2001, wherein you withdrew your November 2, 2000, request for written advice from the Fair Political Practices Commission. I apologize for not contacting you sooner. Should you have any future questions, please feel free to contact the Commission at (916) 322-5660. Very truly yours, John W. Wallace Senior Counsel, Legal Division JWW:jg",
+    "qa_source": "extracted",
+    "first_500_words": "April 2, 2001 Frank William Hafner, IV Public Service Technologies 1420 Palm Avenue, Unit E San Gabriel, CA 91776 Re: Your Request for Advice Our File No. W-00-248 Dear Mr. Hafner: This letter memorializes our conversation of March 29, 2001, wherein you withdrew your November 2, 2000, request for written advice from the Fair Political Practices Commission. I apologize for not contacting you sooner. Should you have any future questions, please feel free to contact the Commission at (916) 322-5660. Very truly yours, John W. Wallace Senior Counsel, Legal Division JWW:jg",
+    "summary": null
+  }
+}

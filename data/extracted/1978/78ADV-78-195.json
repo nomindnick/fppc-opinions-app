@@ -1,0 +1,71 @@
+{
+  "id": "78ADV-78-195",
+  "year": 1978,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1978/78ADV-78-195.PDF",
+  "pdf_sha256": "b027800e42ccada7a9972064c1591d2d2d0db1932b7cf4bdb575b3ccb849cf01",
+  "local_pdf_path": "raw_pdfs/1978/78ADV-78-195.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1978ADV Advice Letter # 78ADV-78-195",
+    "tags": [
+      "Advice Letter",
+      "1978"
+    ],
+    "scraped_at": "2026-01-31 15:24:13",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=19"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:10.065613Z",
+    "page_count": 1,
+    "word_count": 99,
+    "char_count": 627,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 99
+  },
+  "content": {
+    "full_text": "December 20, 1978 \nFair Political Practices Commission \nSacramento, California \nRe: \nFishkin Campaign Committee \nLD. \n770041 \nThe current campaign debt of this Committee is less than $1,000.00. \nI plan no further fundraisers but simply to pay it from personal \nfunds. \nAny reports (after the one due on January 31, 1979), will \nsimply reflect transfer of my personal funds to the campaign account \nand payments on outstanding debts. \nIs there any method for me to file a final report showing this? \nVery truly y~urs, \nJE~OME FISH~rN \nAtt=brney ~t Law \nJF/rsg \nJerome Fishkin, Esq. \n1978 -\n45th Avenue \nSan Francisco, CA 94116 \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1978-12-20",
+    "date_raw": "December 20, 1978",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "Is there any method for me to file a final report showing this?",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The writer seeks guidance on whether there is a procedure for filing a final campaign report after the January 31, 1979 deadline when only personal fund transfers and debt payments will be made.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an incoming request letter from a campaign committee representative to FPPC, not an FPPC response. No CONCLUSION or ANSWER section is present. The letter contains a single direct question about final reporting procedures. Document includes campaign committee ID 770041 and is dated December 20, 1978."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:10.065613Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Is there any method for me to file a final report showing this?",
+    "qa_source": "mixed",
+    "first_500_words": "December 20, 1978 Fair Political Practices Commission Sacramento, California Re: Fishkin Campaign Committee LD. 770041 The current campaign debt of this Committee is less than $1,000.00. I plan no further fundraisers but simply to pay it from personal funds. Any reports (after the one due on January 31, 1979), will simply reflect transfer of my personal funds to the campaign account and payments on outstanding debts. Is there any method for me to file a final report showing this? Very truly y~urs, JE~OME FISH~rN Att=brney ~t Law JF/rsg Jerome Fishkin, Esq. 1978 - 45th Avenue San Francisco, CA 94116",
+    "summary": "Jerome Fishkin, an attorney representing the Fishkin Campaign Committee with outstanding campaign debt under $1,000, inquires about the proper procedure for filing a final campaign report showing only personal fund transfers and debt repayment with no further fundraising."
+  }
+}

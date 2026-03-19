@@ -1,0 +1,73 @@
+{
+  "id": "07-165",
+  "year": 2007,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2007/07-165.pdf",
+  "pdf_sha256": "221fd2816b4bbde99d638c18d25af4d9b7601f4d11a42679321d5078a406ac07",
+  "local_pdf_path": "raw_pdfs/2007/07-165.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2007 Advice Letter # 07-165",
+    "tags": [
+      "2007",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:46:40",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2007&tagCount=1&page=14"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:06.271007Z",
+    "page_count": 1,
+    "word_count": 213,
+    "char_count": 1347,
+    "quality_score": 0.635,
+    "olmocr_cost": null,
+    "native_word_count": 213
+  },
+  "content": {
+    "full_text": "Re:\nFnrn Por-rrrcAr- PnecrrcEs C oMMrssroN\n;128 J Street . Suite 620 r Sacramento. CA 95814-2329\n(916) 322-5660 o Fax (916) 322-0886\nOctober 18,2007\nSteven G. Churchwell\n400 Capitol Mall, Suite 2400\nSacramento, CA 958 14 -4428\nYour Request for Advice\nOur File No. W-07-165\nDear Mr. Churchwell\nThis letter responds to your request for advice regarding the mass mailing\nprovisions of the Political Reform Act.l Because your request seeks advice based on a\nmailing that has already been sent, we are declining to provide advice in this matter.\nThe Fair Political Practices Commission does not render advice based on past\nconduct. (Regulation 18329(bXBXA).) We therefore are withdrawing your request.\nIf yotr have other questions on this matter, please contact me at (916) 322-5660.\nSincerely,\nScott Hallabrin\nGeneral Counsel\nNrr,$tq )'t lr'*'-*\nBy: Heather M. Rowan\nCounsel, Legal Division\nHMR:jgl\n' The Political Reform Act is contained in Government Code Sections 8 I 000 through 9 I 0 14. All\nstatutory ref'erences are to the Government Code. unless otherwise indicated. The regulations of the Fair\nPolitical Practices Commission are contained in Sections l8l I0 through 18997 of Title 2 of the California\nCode of Regulations. All regulatory references are to Title 2. Division 6 of the California Code of\nRegulations, unless otherwise indicated.\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2007-10-18",
+    "date_raw": "October 18,2007",
+    "requestor_name": "Churchwell\nThis",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "The Fair Political Practices Commission does not render advice based on past conduct. (Regulation 18329(bXBXA).) The request is therefore being withdrawn.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requester sought advice regarding mass mailing provisions of the Political Reform Act related to a mailing that had already been sent.",
+    "conclusion_synthetic": "The FPPC is declining to provide advice because the request is based on past conduct (a mailing already sent), and the FPPC does not render advice on completed actions.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is a withdrawal letter. No traditional QUESTION or CONCLUSION sections are present, but the substance of the request and the FPPC's rationale for declining are clearly stated in the body of the letter. The document is well-structured despite the lack of formal section headers."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:34:06.271007Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The requester sought advice regarding mass mailing provisions of the Political Reform Act related to a mailing that had already been sent.\n\nCONCLUSION: The Fair Political Practices Commission does not render advice based on past conduct. (Regulation 18329(bXBXA).) The request is therefore being withdrawn.",
+    "qa_source": "mixed",
+    "first_500_words": "Re: Fnrn Por-rrrcAr- PnecrrcEs C oMMrssroN ;128 J Street . Suite 620 r Sacramento. CA 95814-2329 (916) 322-5660 o Fax (916) 322-0886 October 18,2007 Steven G. Churchwell 400 Capitol Mall, Suite 2400 Sacramento, CA 958 14 -4428 Your Request for Advice Our File No. W-07-165 Dear Mr. Churchwell This letter responds to your request for advice regarding the mass mailing provisions of the Political Reform Act.l Because your request seeks advice based on a mailing that has already been sent, we are declining to provide advice in this matter. The Fair Political Practices Commission does not render advice based on past conduct. (Regulation 18329(bXBXA).) We therefore are withdrawing your request. If yotr have other questions on this matter, please contact me at (916) 322-5660. Sincerely, Scott Hallabrin General Counsel Nrr,$tq )'t lr'*'-* By: Heather M. Rowan Counsel, Legal Division HMR:jgl ' The Political Reform Act is contained in Government Code Sections 8 I 000 through 9 I 0 14. All statutory ref'erences are to the Government Code. unless otherwise indicated. The regulations of the Fair Political Practices Commission are contained in Sections l8l I0 through 18997 of Title 2 of the California Code of Regulations. All regulatory references are to Title 2. Division 6 of the California Code of Regulations, unless otherwise indicated.",
+    "summary": "The FPPC withdrew a request for advice from Steven G. Churchwell regarding mass mailing provisions of the Political Reform Act because the advice was sought for a mailing that had already been completed, and the FPPC does not provide advice based on past conduct."
+  }
+}

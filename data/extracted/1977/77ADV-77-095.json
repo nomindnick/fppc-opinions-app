@@ -1,0 +1,75 @@
+{
+  "id": "77ADV-77-095",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-095.PDF",
+  "pdf_sha256": "dc6f3120c997dd18771db209ca92de2bf762f7e6ce3693079d187fbe628de1b8",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-095.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-095",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:21:13",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=31"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T00:36:13.649767Z",
+    "page_count": 1,
+    "word_count": 246,
+    "char_count": 1706,
+    "quality_score": 0.9195005668568006,
+    "olmocr_cost": 0.0025920400000000003,
+    "native_word_count": 17,
+    "haiku_cost": 0.002968
+  },
+  "content": {
+    "full_text": "State of California\nFair Political Practices Commission\nP.O. BOX 807 • SACRAMENTO,95804 • 1100 K STREET BUILDING, SACRAMENTO, 95814\n107 SOUTH BROADWAY • • • SUITE 2140A • • •     LOS ANGELES,9001.2\n\nAugust 1, 1977\n\n\nWayne Lemieux\nAttorney at Law\nPost Office Box 1666\nStudio City, California 91604\n\nDear Mr. Lemieux:\n\n     This letter is to confirm my advice to you by telephone on\nJuly 29, 1977, regarding with whom campaign statements of the\nSan Gabriel Valley Municipal Water District Directors should\nbe filed.\n\n     You stated that Water District is composed of four uncontigious cities, and that several of the directors are elected\nfrom entirely within one city, while others are voted upon\nin more than one city. You asked whether campaign statements\nof directors who are elected by the voters of single cities\nshould file with the respective city clerks as Government\nCode Section 81005(d) would seem to indicate, while the others\nshould file with the Los Angeles Registrar of Voters pursuant\nto Government Code Section 81005(e). I advised that in this\nunusual situation, our office believes that for the convenience\nof members of the public who may wish to view the statements,\nthe reports of all candidates or officeholders of the district\nshould be filed in one location, Los Angeles Registrar of\nVoters' office.\n\n     If our staff may be of further assistance to you, please\ncontact us.\n\n                                        Sincerely yours,\n\n                                        Nan Emmerson\n                                        Nan Emmerson\n                                        Special Compliance Representative\n\n\nNE:jg\n\n\nSACRAMENTO (916) 322-5660  •    LOS ANGELES (213) 620-5196",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1977-08-01",
+    "date_raw": "August 1, 1977",
+    "requestor_name": "Lemieux",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Whether campaign statements of San Gabriel Valley Municipal Water District Directors who are elected by voters of single cities should file with respective city clerks under Government Code Section 81005(d), while others should file with the Los Angeles Registrar of Voters pursuant to Government Code Section 81005(e).",
+    "conclusion": "In this unusual situation, our office believes that for the convenience of members of the public who may wish to view the statements, the reports of all candidates or officeholders of the district should be filed in one location, Los Angeles Registrar of Voters' office.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Where should campaign statements be filed for directors of a multi-city water district, where some directors are elected from single cities and others are elected from multiple cities?",
+    "conclusion_synthetic": "All campaign statements for the water district's directors should be filed in one location at the Los Angeles Registrar of Voters' office for public convenience, regardless of whether directors are elected from single or multiple cities.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is a confirmation of prior telephone advice. Question and conclusion sections are paraphrased from body text rather than appearing under formal headers. Letter is dated August 1, 1977 and signed by Nan Emmerson, Special Compliance Representative."
+  },
+  "citations": {
+    "government_code": [
+      "81005(d)",
+      "81005(e)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T17:10:39.478148Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether campaign statements of San Gabriel Valley Municipal Water District Directors who are elected by voters of single cities should file with respective city clerks under Government Code Section 81005(d), while others should file with the Los Angeles Registrar of Voters pursuant to Government Code Section 81005(e).\n\nCONCLUSION: In this unusual situation, our office believes that for the convenience of members of the public who may wish to view the statements, the reports of all candidates or officeholders of the district should be filed in one location, Los Angeles Registrar of Voters' office.",
+    "qa_source": "mixed",
+    "first_500_words": "August 1, 1977 Wayne Lemieux Attorney at Law Post Office Box 1666 Studio City, California 91604 Dear Mr. Lemieux: This letter is to confirm my advice to you by telephone on July 29, 1977, regarding with whom campaign statements of the San Gabriel Valley Municipal Water District Directors should be filed. You stated that Water District is composed of four uncontiguous cities, and that several of the directors are elected from entirely within one city, while others are voted upon in more than one city. You asked whether campaign statements of directors who are elected by the voters of single cities should file with the respective city clerks as Government Code Section 81005(d) would seem to indicate, while the others should file with the Los Angeles Registrar of Voters pursuant to Government Code Section 81005(e). I advised that, in this unusual situation, our office believes that for the convenience of members of the public who may wish to view the statements, the reports of all candidates or officeholders of the district should be filed in one location, Los Angeles Registrar of Voters' office. If our staff may be of further assistance to you, please contact us. Sincerely yours, Nan Emmerson Nan Emmerson Special Compliance Representative",
+    "summary": "FPPC advice letter confirming telephone guidance to an attorney regarding the proper filing location for campaign statements of San Gabriel Valley Municipal Water District Directors, recommending centralized filing with the Los Angeles Registrar of Voters for administrative convenience."
+  }
+}

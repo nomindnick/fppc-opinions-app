@@ -1,0 +1,74 @@
+{
+  "id": "76120",
+  "year": 1976,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1976/76120.PDF",
+  "pdf_sha256": "dc3b5404d5545950713fce82ee287b9a7ed53dec54f435d0e6160e92d8f88fd4",
+  "local_pdf_path": "raw_pdfs/1976/76120.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1976 Advice Letter # 76120",
+    "tags": [
+      "1976",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:16:52",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1976&tagCount=1&page=31"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T03:50:26.887699Z",
+    "page_count": 1,
+    "word_count": 145,
+    "char_count": 988,
+    "quality_score": 0.8989077217632515,
+    "olmocr_cost": 0.00450812,
+    "native_word_count": 161,
+    "haiku_cost": 0.00228
+  },
+  "content": {
+    "full_text": "State of California\n\nMemorandum\n\nTo : File                                                     Date : Dec. 20, 1976\n\n\n                                                              76-12-122\n\nFrom : FAIR POLITICAL PRACTICES COMMISSION\n       Mike Baker\n\nSubject: Telephone conversation with Bob Sweat December 16, 1976.\n\n       Bob called to ask about SB 1356 and the amendment to defi-\nnition of income (Section 82030(a)). He posed the question:\nwhat if an attorney has his office in Los Angeles, but one\nin San Moreno and is a City Councilman there. Would he have\nto disclose names of any of his clients who live in San Moreno.\nI said yes he would if they met the fee threshold. I said\nthe term \"source of income\" in SB 1356 meant both the business\nentity (the law firm) and the client. Therefore, he would not\nbe exempt from disclosure just because his law firm is in Los\nAngeles and outside the jurisdiction.\n\nWB:jo\n\n                                                              /  ( )",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1976-12-16",
+    "date_raw": "December 16, 1976",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "What if an attorney has his office in Los Angeles, but lives in San Moreno and is a City Councilman there. Would he have to disclose names of any of his clients who live in San Moreno.",
+    "conclusion": "Yes, he would if they met the fee thresholds. The term 'source of income' in SB 1356 meant both the business entity (the law firm) and the client. Therefore, he would not be exempt from disclosure just because his law firm is in Los Angeles and outside the jurisdiction.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Must an attorney who maintains an office outside their jurisdiction but resides and serves as a city councilman within it disclose the names of clients located within that jurisdiction if fee thresholds are met?",
+    "conclusion_synthetic": "Yes, disclosure is required if fee thresholds are met. The 'source of income' under SB 1356 includes both the business entity and the client, so location of the law firm outside the jurisdiction does not exempt the attorney from disclosing clients within their council jurisdiction.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Memorandum format documenting telephone advice rather than formal advice letter. Question and conclusion present in narrative form within memo body. No formal Q/A sections."
+  },
+  "citations": {
+    "government_code": [
+      "82030(a)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T17:17:19.848252Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: What if an attorney has his office in Los Angeles, but lives in San Moreno and is a City Councilman there. Would he have to disclose names of any of his clients who live in San Moreno.\n\nCONCLUSION: Yes, he would if they met the fee thresholds. The term 'source of income' in SB 1356 meant both the business entity (the law firm) and the client. Therefore, he would not be exempt from disclosure just because his law firm is in Los Angeles and outside the jurisdiction.",
+    "qa_source": "mixed",
+    "first_500_words": "**Memorandum** To: File Date: Dec. 20, 1976 From: FAIR POLITICAL PRACTICES COMMISSION Mike Baker Subject: Telephone conversation with Bob Sweet December 16, 1976. Bob called to ask about SB 1356 and the amendment to definition of income (Section 82030(a)). He posed the question: what if an attorney has his office in Los Angeles, but lives in San Moreno and is a City Councilman there. Would he have to disclose names of any of his clients who live in San Moreno. I said yes he would if they met the fee thresholds. I said the term \"source of income\" in SB 1356 meant both the business entity (the law firm) and the client. Therefore, he would not be exempt from disclosure just because his law firm is in Los Angeles and outside the jurisdiction. MB:jo",
+    "summary": "FPPC staff memorandum documenting a December 16, 1976 telephone conversation with Bob Sweet regarding disclosure requirements for an attorney serving as a city councilman and whether clients must be disclosed based on their location relative to the attorney's office location."
+  }
+}

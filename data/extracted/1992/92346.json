@@ -1,0 +1,76 @@
+{
+  "id": "92346",
+  "year": 1992,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1992/92346.pdf",
+  "pdf_sha256": "aa715250389bcd0f9560602021ff0598eb630072e1c481b4c0511a16360d1cd4",
+  "local_pdf_path": "raw_pdfs/1992/92346.pdf",
+  "source_metadata": {
+    "title_raw": "Waters, Norm Year: 1992 Advice Letter # 92346",
+    "tags": [
+      "Advice Letter",
+      "1992"
+    ],
+    "scraped_at": "2026-01-31 16:28:30",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1992&tagCount=1&page=76"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-27T23:59:37.578999Z",
+    "page_count": 2,
+    "word_count": 133,
+    "char_count": 873,
+    "quality_score": 0.8008559554827663,
+    "olmocr_cost": 0.00467754,
+    "native_word_count": 69,
+    "haiku_cost": 0.0035184000000000005
+  },
+  "content": {
+    "full_text": "to                                                                   June 16-92\n\nJohn W Wallace\nFair Political Practices Com\n596  Calif  95804\n\nDear John:\nPer our Private Conversation\non June 16-92 would you please\nsend me written Answers to some\nof my Questions\n#1- Can Campaign Funds in Bank\naccount from 92 Election be used\nit my FPPC Fines arising out\nof Personal use Violations\n#2. Does a local Volunteer Fire\nDept qualify as an Acceptable\nDesignation for a Donation at Surplus\nCampaign Funds ?\n\nYour Walter\n\n6250 old SHC Road  Your Walter\nPlymouth Calif 95669\n\n[The image shows a lined notebook page with very faint, barely legible handwriting. The text is too faint and unclear to transcribe accurately without significant guessing. Most of the writing appears as light gray marks against the white lined paper, making individual words and sentences indecipherable.]",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": "Waters",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "#1 - Can surplus campaign funds in bank account from '90 Election be used to pay F.P.P.C. Fines arising out of personal use violations?\n\n#2 - Does a local Volunteer Fire Dept qualify as an acceptable organization for a donation of surplus campaign funds?",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requester asks whether surplus campaign funds from a 1990 election can be used to pay FPPC fines for personal use violations, and whether a local volunteer fire department qualifies as an acceptable recipient for surplus campaign fund donations.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an incoming request letter, not an FPPC response. No formal conclusion or advice letter structure present. Sender appears to be John W Wallace or referencing him; signature unclear but letter ends with address in Plymouth, California. No FPPC response document was provided, only the initial inquiry."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [
+      "92364f",
+      "93-104",
+      "94-091"
+    ],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T16:17:10.964133Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: #1 - Can surplus campaign funds in bank account from '90 Election be used to pay F.P.P.C. Fines arising out of personal use violations?\n\n#2 - Does a local Volunteer Fire Dept qualify as an acceptable organization for a donation of surplus campaign funds?",
+    "qa_source": "mixed",
+    "first_500_words": "June 16, '92 To John W Wallace Fair Political Practices Com. SAC. Calif. 95804. Dear John, Per our Private Conversation on June 16 - '92, would you please send me written answers to some of my questions: #1 - Can surplus campaign funds in bank account from '90 Election be used to pay F.P.P.C. Fines arising out of personal use violations? #2 - Does a local Volunteer Fire Dept qualify as an acceptable organization for a donation of surplus campaign funds? Yours Water 6250 Old SAC Road Plymouth Calif. 95669 The image you provided is completely blank, with no visible text or content to transcribe or analyze. If you have another page or another image, please provide it for further assistance.",
+    "summary": "A constituent writes to the FPPC requesting written answers to two questions about the permissible use of surplus campaign funds, specifically regarding payment of FPPC fines and donation eligibility to a volunteer fire department."
+  }
+}

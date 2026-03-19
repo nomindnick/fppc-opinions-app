@@ -1,0 +1,72 @@
+{
+  "id": "76145",
+  "year": 1976,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1976/76145.PDF",
+  "pdf_sha256": "070c8a964f7a65e1a9c011393bc71c2989899a780441fd5b6dd7bddd5a233b9f",
+  "local_pdf_path": "raw_pdfs/1976/76145.PDF",
+  "source_metadata": {
+    "title_raw": "CHEATWOOD, BOBBY Year: 1976 Advice Letter # 76145",
+    "tags": [
+      "1976",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:14:57",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1976&tagCount=1&page=5"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T03:41:49.732986Z",
+    "page_count": 2,
+    "word_count": 202,
+    "char_count": 1223,
+    "quality_score": 0.8583301615416667,
+    "olmocr_cost": 0.0049837,
+    "native_word_count": 15,
+    "haiku_cost": 0.0039959999999999996
+  },
+  "content": {
+    "full_text": "54200\n\nOctober 14, 1976\n\n96-10-145\n\nBobby Cheatwood\nPost Office Box 752\nGonzales, California 93926\n\nDear Mr. Cheatwood:\n\nIn response to your letter of October 7, no report is due from\nyour committee until the next regularly scheduled filing dead-\nline which will be October 21, with a closing date of October 18.\n\nYour final report will cover the period from October 19 through\nDecember 30 and is due on January 6, 1977. The final report\nmay be filed early if all expenses are paid and the receipt of\nadditional contributions is not anticipated.\n\nPlease let me know if I may be of additional assistance.\n\nVery truly yours,\n\n\nRegina Siciliano-Kutchins\nTechnical Assistance Program\nCoordinator\n\n\nRSK:bw\n\nbcc: Jeanne P.\n\nOctober 7, 1976\n\n\nFair Political Practices Commission\nP.O. Box 807\nSacramento, CA  95804\n\nDear Sirs:\n\nI am the treasurer of the Committee to Re-elect Judge Hedegard.\nOn September 23, our receipts went over $500 for this year, and\nwe filed our form to register with the Secretary of State on\nthat same date.\n\nShould we file a financial report now or wait until the next\nregular deadline of October 18?\n\nSincerely yours,\n\nBobby Cheatwood\n\nThe Committee to Re-elect Judge Hedegard\nBox 752\nGonzales, CA  93926",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1976-10-14",
+    "date_raw": "October 14, 1976",
+    "requestor_name": "Cheatwood",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Should we file a financial report now or wait until the next regular deadline of October 18?",
+    "conclusion": "In response to your letter of October 7, no report is due from your committee until the next regularly scheduled filing deadline which will be October 21, with a closing date of October 18. Your final report will cover the period from October 19 through December 30 and is due on January 6, 1977. The final report may be filed early if all expenses are paid and the receipt of additional contributions is not anticipated.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "A committee treasurer asks whether a financial report must be filed immediately after the committee's receipts exceed $500, or whether they should wait until the next regular filing deadline.",
+    "conclusion_synthetic": "No report is due until the next regularly scheduled filing deadline of October 21 (with closing date October 18). The final report covering October 19 through December 30 is due January 6, 1977, and may be filed early if conditions are met.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document contains both incoming request (October 7 letter from Bobby Cheatwood) and FPPC response letter (October 14 from Regina Siciliano-Kutchins). Classified as advice_letter since the document is indexed/provided as the FPPC's response. Both question and conclusion sections are clearly identifiable from the respective letters."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T17:14:44.504655Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Should we file a financial report now or wait until the next regular deadline of October 18?\n\nCONCLUSION: In response to your letter of October 7, no report is due from your committee until the next regularly scheduled filing deadline which will be October 21, with a closing date of October 18. Your final report will cover the period from October 19 through December 30 and is due on January 6, 1977. The final report may be filed early if all expenses are paid and the receipt of additional contributions is not anticipated.",
+    "qa_source": "mixed",
+    "first_500_words": "October 14, 1976 Bobby Cheatwood Post Office Box 752 Gonzales, California 93926 Dear Mr. Cheatwood: In response to your letter of October 7, no report is due from your committee until the next regularly scheduled filing deadline which will be October 21, with a closing date of October 18. Your final report will cover the period from October 19 through December 30 and is due on January 6, 1977. The final report may be filed early if all expenses are paid and the receipt of additional contributions is not anticipated. Please let me know if I may be of additional assistance. Very truly yours, Regina Siciliano-Kutchins Technical Assistance Program Coordinator RSK:bw bcc: Jeanne P. October 7, 1976 Fair Political Practices Commission P.O. Box 807 Sacramento, CA 95804 Dear Sirs: I am the treasurer of the Committee to Re-elect Judge Hedegard. On September 23, our receipts went over $500 for this year, and we filed our form to register with the Secretary of State on that same date. Should we file a financial report now or wait until the next regular deadline of October 18? Sincerely yours, Bobby Cheatwood The Committee to Re-elect Judge Hedegard Box 752 Gonzales, CA 93926",
+    "summary": "FPPC responds to a committee treasurer's inquiry about reporting requirements after the committee's receipts exceed $500, clarifying that no report is due until the next regular filing deadline with specific dates provided for the final report."
+  }
+}

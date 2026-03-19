@@ -1,0 +1,71 @@
+{
+  "id": "83A093",
+  "year": 1983,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1983/83A093.PDF",
+  "pdf_sha256": "6a56e5522c424e2c83431f9a8f18e6e107965359e8c3240d0864e5c5bfe85a0e",
+  "local_pdf_path": "raw_pdfs/1983/83A093.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1983 Advice Letter # 83A093",
+    "tags": [
+      "1983",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:31:50",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1983&tagCount=1&page=5"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T13:23:38.055819Z",
+    "page_count": 1,
+    "word_count": 63,
+    "char_count": 439,
+    "quality_score": 0.8036593814493562,
+    "olmocr_cost": 0.00245874,
+    "native_word_count": 79
+  },
+  "content": {
+    "full_text": "Memorandum\n\nTo: File\n\nDate: April 6, 1983\nFile No.: T-83-093\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION\nJanis Shank McLean\n\nSubject: Advice to Janet Gladfelter,\nStockton City Attorney\n\nA Stockton ordinance allows agents to file applications. The person filing the application and the person owning the property being affected by the Planning Commission must disclose their contributions. (See 2 Cal. Adm. Code Sectin 18438.3.)\n\nJSM:plh",
+    "full_text_markdown": "Memorandum\n\nTo: File\n\nDate: April 6, 1983\nFile No.: T-83-093\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION\nJanis Shank McLean\n\nSubject: Advice to Janet Gladfelter,\nStockton City Attorney\n\nA Stockton ordinance allows agents to file applications. The person filing the application and the person owning the property being affected by the Planning Commission must disclose their contributions. (See 2 Cal. Adm. Code Sectin 18438.3.)\n\nJSM:plh"
+  },
+  "parsed": {
+    "date": "1983-04-06",
+    "date_raw": "April 6, 1983",
+    "requestor_name": null,
+    "requestor_title": "City Attorney",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-20T13:23:38.055819Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "**Memorandum** To: File Date: April 6, 1983 File No.: T-83-093 From: FAIR POLITICAL PRACTICES COMMISSION Janis Shank McLean Subject: Advice to Janet Gladfelter, Stockton City Attorney A Stockton ordinance allows agents to file applications. The person filing the application and the person owning the property being affected by the Planning Commission must disclose their contributions. (See 2 Cal. Adm. Code Sectin 18438.3.) JSM:plh",
+    "qa_source": "extracted",
+    "first_500_words": "**Memorandum** To: File Date: April 6, 1983 File No.: T-83-093 From: FAIR POLITICAL PRACTICES COMMISSION Janis Shank McLean Subject: Advice to Janet Gladfelter, Stockton City Attorney A Stockton ordinance allows agents to file applications. The person filing the application and the person owning the property being affected by the Planning Commission must disclose their contributions. (See 2 Cal. Adm. Code Sectin 18438.3.) JSM:plh",
+    "summary": null
+  }
+}

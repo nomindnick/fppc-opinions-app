@@ -1,0 +1,74 @@
+{
+  "id": "79-166",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-166.PDF",
+  "pdf_sha256": "52637094f1658cda9b347fa09eda55a490b141977341f69a66747badc4263106",
+  "local_pdf_path": "raw_pdfs/1979/79-166.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1979 Advice Letter # 79-166",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:25:38",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=4"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T16:09:56.342293Z",
+    "page_count": 2,
+    "word_count": 96,
+    "char_count": 606,
+    "quality_score": 0.6199364649435072,
+    "olmocr_cost": 0.004816,
+    "native_word_count": 60,
+    "haiku_cost": 0.003352
+  },
+  "content": {
+    "full_text": "82013(b)\n82015\n84210(g)\n\nLoans - Repayment and Forgiveness\n\nM. 794166\n\nWhenever a person forgives a loan or repays a loan\n\non behalf of a candidate or committee, he has made a contri-\n\nbution. This contribution is an in-kind contribution and there-\n\nfore may subject the person to reporting obligations pursuant\n\nto 82013(b).\n\n8.2013(b) & (c)\n\nPNC\n\nConfirmed with Nan on September 28, 1976, that\n\nthe monetary thresholds in Section 82013(b) and (c) are\n\nindependent, thus a person may make $490 of in-kind contri-\n\nbutions and $4900 of cash contributions and if not, incur\n\ncommittee reporting obligations.",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1976-09-28",
+    "date_raw": "September 28, 1976",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "When a person forgives a loan or repays a loan on behalf of a candidate or committee, does this constitute a contribution that triggers reporting obligations?",
+    "conclusion_synthetic": "Loan forgiveness or repayment on behalf of a candidate or committee constitutes an in-kind contribution subject to reporting obligations under section 82013(b). The monetary thresholds for in-kind contributions and cash contributions are independent, allowing a person to make up to $490 in in-kind contributions and $4900 in cash contributions without triggering committee reporting obligations.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document has no traditional Q/C section headers; content is presented as advisory guidance. Date reference in document (September 28, 1976) predates document ID year (1979), suggesting this may be a compilation or confirmation letter. No explicit question format present, so question_synthetic was constructed from advisory content."
+  },
+  "citations": {
+    "government_code": [
+      "82013(b)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T16:44:11.681533Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: When a person forgives a loan or repays a loan on behalf of a candidate or committee, does this constitute a contribution that triggers reporting obligations?\n\nCONCLUSION: Loan forgiveness or repayment on behalf of a candidate or committee constitutes an in-kind contribution subject to reporting obligations under section 82013(b). The monetary thresholds for in-kind contributions and cash contributions are independent, allowing a person to make up to $490 in in-kind contributions and $4900 in cash contributions without triggering committee reporting obligations.",
+    "qa_source": "synthetic",
+    "first_500_words": "Loans - Repayment and Forgiveness Whenever a person forgives a loan or repays a loan on behalf of a candidate or committee, he has made a contribution. This contribution is an in-kind contribution and therefore may subject the person to reporting obligations pursuant to 82013(b). Confirmed with Nan on September 28, 1976, that the monetary thresholds in Section 82013(b) and (c) are independent, thus a person may make $490 of in-kind contributions and $4900 of cash contributions and if not, incur committee reporting obligations.",
+    "summary": "FPPC advice letter addressing whether loan forgiveness or repayment on behalf of candidates or committees constitutes a reportable contribution, and clarifying that in-kind and cash contribution thresholds are independent of each other."
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "15-135W",
+  "year": 2015,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2015/15-135W.pdf",
+  "pdf_sha256": "8eabcb1e60fa29467da6be1e5dad607a1944c4c85ee0c88392faa1bd4ed97ade",
+  "local_pdf_path": "raw_pdfs/2015/15-135W.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2015 Advice Letter # 15-135W",
+    "tags": [
+      "2015",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:59:14",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2015&tagCount=1&page=11"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:33:25.368330Z",
+    "page_count": 1,
+    "word_count": 228,
+    "char_count": 1463,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 228
+  },
+  "content": {
+    "full_text": "STATE OF CALIFORNIA \nFAIR POLITICAL PRACTICES COMMISSION \n428 ,I Street• Suite 620 • Sacramento, CA 95814-2329 \n(916) 322-5660 • Fax (916) 322-0886 \nLaw Offices of \nD. Wayne Leech & Associates \n11001 East Valley Mall, Suite 200 \nEl Monte, CA 91731-2620 \nRe: \nYour Request for Advice \nOur File No. W-15-135 \nDear Mr. Leech: \nOctober I , 2015 \nThis correspondence is written confirmation that the Fair Political Practices Commission has \nwithdrawn your July 24, 2015 request for advice under the provisions of the Political Reform Act. \nWe took this step because we found that it was not possible for us to provide you with the \nassistance you requested. \nIn an August 25, 2015 email, you stated that there are currently no specific upcoming \ndecisions involving amendments to the Route 55 Corridor Specific Plan. You stated that the \nGlendora City Planning Commission is in the process of evaluating whether amendments to the \nSpecific Plan should be recommended to the City Council. However, city staff does not yet know \nwhat amendments may be recommended. Without specific governmental decisions, we are unable \nto issue formal, written advice. Therefore, we have withdrawn your request. \nYou may resubmit your request for advice once you have additional information on a \nspecific decision. If you have any questions regarding this matter, please contact me at (916) 322-\n5660. \nER:jgl \nSincerely, \nEmelyn Rodriguez \nSenior Commission Counsel \nLegal Division \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2015-07-24",
+    "date_raw": "July 24, 2015",
+    "requestor_name": "Leech",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether certain amendments to the Route 55 Corridor Specific Plan by the Glendora City Planning Commission would implicate the Political Reform Act.",
+    "conclusion_synthetic": "The FPPC withdrew the advice request because no specific governmental decisions have been made yet; the request may be resubmitted once information about a specific decision is available.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is a withdrawal letter with no formal QUESTION or CONCLUSION sections. The factual basis for withdrawal is explained in the body text. Request can be resubmitted with more specific information."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:33:25.368330Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether certain amendments to the Route 55 Corridor Specific Plan by the Glendora City Planning Commission would implicate the Political Reform Act.\n\nCONCLUSION: The FPPC withdrew the advice request because no specific governmental decisions have been made yet; the request may be resubmitted once information about a specific decision is available.",
+    "qa_source": "synthetic",
+    "first_500_words": "STATE OF CALIFORNIA FAIR POLITICAL PRACTICES COMMISSION 428 ,I Street• Suite 620 • Sacramento, CA 95814-2329 (916) 322-5660 • Fax (916) 322-0886 Law Offices of D. Wayne Leech & Associates 11001 East Valley Mall, Suite 200 El Monte, CA 91731-2620 Re: Your Request for Advice Our File No. W-15-135 Dear Mr. Leech: October I , 2015 This correspondence is written confirmation that the Fair Political Practices Commission has withdrawn your July 24, 2015 request for advice under the provisions of the Political Reform Act. We took this step because we found that it was not possible for us to provide you with the assistance you requested. In an August 25, 2015 email, you stated that there are currently no specific upcoming decisions involving amendments to the Route 55 Corridor Specific Plan. You stated that the Glendora City Planning Commission is in the process of evaluating whether amendments to the Specific Plan should be recommended to the City Council. However, city staff does not yet know what amendments may be recommended. Without specific governmental decisions, we are unable to issue formal, written advice. Therefore, we have withdrawn your request. You may resubmit your request for advice once you have additional information on a specific decision. If you have any questions regarding this matter, please contact me at (916) 322- 5660. ER:jgl Sincerely, Emelyn Rodriguez Senior Commission Counsel Legal Division",
+    "summary": "The FPPC withdrew an advice request from July 24, 2015 regarding potential amendments to the Route 55 Corridor Specific Plan because no specific decisions had been identified, making it impossible to provide formal written advice."
+  }
+}

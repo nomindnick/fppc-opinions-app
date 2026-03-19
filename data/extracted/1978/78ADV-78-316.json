@@ -1,0 +1,71 @@
+{
+  "id": "78ADV-78-316",
+  "year": 1978,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1978/78ADV-78-316.PDF",
+  "pdf_sha256": "131f96177f7379743d3f99e44065096a6250e056548c2eaf30ebb90ba69ef396",
+  "local_pdf_path": "raw_pdfs/1978/78ADV-78-316.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1978ADV Advice Letter # 78ADV-78-316",
+    "tags": [
+      "Advice Letter",
+      "1978"
+    ],
+    "scraped_at": "2026-01-31 15:23:56",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=15"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:09.852178Z",
+    "page_count": 1,
+    "word_count": 197,
+    "char_count": 1138,
+    "quality_score": 0.635,
+    "olmocr_cost": null,
+    "native_word_count": 197
+  },
+  "content": {
+    "full_text": "Ted \nDate \n2-2-78 \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nGina T. \nAdvice regarding gifts \nJoan Barton from Senator Song's office called me yesterday and \nasked the following two questions: \n1. \nThe Senator received an invitation to go to Disneyland on a \nspecial \"Legislator's Day\". \nHe received 7 complimentary tickets \nin addition to his own, valued at $11.95 each. \nHe wanted to \nknow if all 8 tickets were reportable as gifts. \n2. \n20th Century Fox had a special showing of Star Wars for selected \npersons. \nHe asked Lee Rosenthal if this was reportable as a \ngift and Lee wrote him back and said it was not because it did \nnot reach the $25 threshold. \nHowever, there was a special dinner \nafter the showing and the Senator attended, bringing three other \npersons. \n20th Century Fox paid for all four dinners. \nThe \nSenator wanted to know if he must report all four dinners as a \ngift of just his own dinner. \nI asked Ken and he said that Senator Song must report as gifts all \n8 Disneyland Tickets plus all 4 dinners because the extra tickets \nwere not specifically given to any of the people he invited. \ncc: \nKen G. \nDwight \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "1. The Senator received an invitation to go to Disneyland on a special \"Legislator's Day\". He received 7 complimentary tickets in addition to his own, valued at $11.95 each. He wanted to know if all 8 tickets were reportable as gifts. 2. 20th Century Fox had a special showing of Star Wars for selected persons. He asked Lee Rosenthal if this was reportable as a gift and Lee wrote him back and said it was not because it did not reach the $25 threshold. However, there was a special dinner after the showing and the Senator attended, bringing three other persons. 20th Century Fox paid for all four dinners. The Senator wanted to know if he must report all four dinners as a gift of just his own dinner.",
+    "conclusion": "Senator Song must report as gifts all 8 Disneyland Tickets plus all 4 dinners because the extra tickets were not specifically given to any of the people he invited.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Must a legislator report complimentary Disneyland tickets received for himself and invitees, and must he report dinners paid for by 20th Century Fox for himself and three guests he brought to a Star Wars screening?",
+    "conclusion_synthetic": "All eight Disneyland tickets and all four dinners must be reported as gifts. The extra tickets are reportable even though not specifically designated for individual invitees, and all dinners paid by the sponsor must be reported regardless of whether the legislator brought additional guests.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is informal internal FPPC communication. No formal CONCLUSION section header present; conclusion derived from final paragraph. Question section is conversational narrative rather than formal question format. Some ambiguity in whether Ken's statement represents official FPPC position or preliminary guidance."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:09.852178Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: 1. The Senator received an invitation to go to Disneyland on a special \"Legislator's Day\". He received 7 complimentary tickets in addition to his own, valued at $11.95 each. He wanted to know if all 8 tickets were reportable as gifts. 2. 20th Century Fox had a special showing of Star Wars for selected persons. He asked Lee Rosenthal if this was reportable as a gift and Lee wrote him back and said it was not because it did not reach the $25 threshold. However, there was a special dinner after the showing and the Senator attended, bringing three other persons. 20th Century Fox paid for all four dinners. The Senator wanted to know if he must report all four dinners as a gift of just his own dinner.\n\nCONCLUSION: Senator Song must report as gifts all 8 Disneyland Tickets plus all 4 dinners because the extra tickets were not specifically given to any of the people he invited.",
+    "qa_source": "mixed",
+    "first_500_words": "Ted Date 2-2-78 From FAIR POLITICAL PRACTICES COMMISSION Gina T. Advice regarding gifts Joan Barton from Senator Song's office called me yesterday and asked the following two questions: 1. The Senator received an invitation to go to Disneyland on a special \"Legislator's Day\". He received 7 complimentary tickets in addition to his own, valued at $11.95 each. He wanted to know if all 8 tickets were reportable as gifts. 2. 20th Century Fox had a special showing of Star Wars for selected persons. He asked Lee Rosenthal if this was reportable as a gift and Lee wrote him back and said it was not because it did not reach the $25 threshold. However, there was a special dinner after the showing and the Senator attended, bringing three other persons. 20th Century Fox paid for all four dinners. The Senator wanted to know if he must report all four dinners as a gift of just his own dinner. I asked Ken and he said that Senator Song must report as gifts all 8 Disneyland Tickets plus all 4 dinners because the extra tickets were not specifically given to any of the people he invited. cc: Ken G. Dwight",
+    "summary": "FPPC advice letter regarding whether a state senator must report complimentary Disneyland tickets and dinners paid by 20th Century Fox as gifts. The FPPC concludes that all eight Disneyland tickets and all four dinners must be reported as gifts."
+  }
+}

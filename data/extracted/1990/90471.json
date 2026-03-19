@@ -1,0 +1,71 @@
+{
+  "id": "90471",
+  "year": 1990,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1990/90471.pdf",
+  "pdf_sha256": "f178e5e996c4913cae6771d8b31d1de84509f1204b7ddcb408b747b6ad823fc4",
+  "local_pdf_path": "raw_pdfs/1990/90471.pdf",
+  "source_metadata": {
+    "title_raw": "Wood, Jerry Year: 1990 Advice Letter # 90471",
+    "tags": [
+      "1990",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:09:12",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1990&tagCount=1&page=45"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T18:26:00.816839Z",
+    "page_count": 1,
+    "word_count": 115,
+    "char_count": 693,
+    "quality_score": 0.8527550107924762,
+    "olmocr_cost": 0.00252152,
+    "native_word_count": 147
+  },
+  "content": {
+    "full_text": "July 12, 1990\n\nLinda Moureaux  \nFair Political Practices Commission  \n428 J Street  \nSacramento, CA 95814\n\nDear Ms. Moureaux:\n\nAs a follow up to our telephone conversation yesterday, in regard to the aggregation of contribution rules, it is my understanding that in the following scenario, there would not be a violation of the contribution limitation of $1,000.00 in a fiscal year:\n\n1. Two individuals (X and Y) each contribute $500.00 to a campaign.\n\n2. Corporation Z, owned by X and Y, 50% each, contributes $1,000.00 in the same fiscal year. The check was signed by X.\n\nIf I have misunderstood this point, please contact me.\n\nYours very truly,\n\nCRABTREE, KARLEN & ARZOO\n\nJerry D. Wood, CPA",
+    "full_text_markdown": "July 12, 1990\n\nLinda Moureaux  \nFair Political Practices Commission  \n428 J Street  \nSacramento, CA 95814\n\nDear Ms. Moureaux:\n\nAs a follow up to our telephone conversation yesterday, in regard to the aggregation of contribution rules, it is my understanding that in the following scenario, there would not be a violation of the contribution limitation of $1,000.00 in a fiscal year:\n\n1. Two individuals (X and Y) each contribute $500.00 to a campaign.\n\n2. Corporation Z, owned by X and Y, 50% each, contributes $1,000.00 in the same fiscal year. The check was signed by X.\n\nIf I have misunderstood this point, please contact me.\n\nYours very truly,\n\nCRABTREE, KARLEN & ARZOO\n\nJerry D. Wood, CPA"
+  },
+  "parsed": {
+    "date": "1990-07-12",
+    "date_raw": "July 12, 1990",
+    "requestor_name": "Moureaux",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T18:26:00.816839Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "July 12, 1990 Linda Moureaux Fair Political Practices Commission 428 J Street Sacramento, CA 95814 Dear Ms. Moureaux: As a follow up to our telephone conversation yesterday, in regard to the aggregation of contribution rules, it is my understanding that in the following scenario, there would not be a violation of the contribution limitation of $1,000.00 in a fiscal year: 1. Two individuals (X and Y) each contribute $500.00 to a campaign. 2. Corporation Z, owned by X and Y, 50% each, contributes $1,000.00 in the same fiscal year. The check was signed by X. If I have misunderstood this point, please contact me. Yours very truly, CRABTREE, KARLEN & ARZOO Jerry D. Wood, CPA",
+    "qa_source": "extracted",
+    "first_500_words": "July 12, 1990 Linda Moureaux Fair Political Practices Commission 428 J Street Sacramento, CA 95814 Dear Ms. Moureaux: As a follow up to our telephone conversation yesterday, in regard to the aggregation of contribution rules, it is my understanding that in the following scenario, there would not be a violation of the contribution limitation of $1,000.00 in a fiscal year: 1. Two individuals (X and Y) each contribute $500.00 to a campaign. 2. Corporation Z, owned by X and Y, 50% each, contributes $1,000.00 in the same fiscal year. The check was signed by X. If I have misunderstood this point, please contact me. Yours very truly, CRABTREE, KARLEN & ARZOO Jerry D. Wood, CPA",
+    "summary": null
+  }
+}

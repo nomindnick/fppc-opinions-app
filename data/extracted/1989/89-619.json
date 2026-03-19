@@ -1,0 +1,75 @@
+{
+  "id": "89-619",
+  "year": 1989,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1989/fppc-advice/89-619.PDF",
+  "pdf_sha256": "75d1410aaed3989cda1d4e86f338a6d1351e05f199dbf8041692b7f55eb176ee",
+  "local_pdf_path": "raw_pdfs/1989/89-619.PDF",
+  "source_metadata": {
+    "title_raw": "Hong, Frances Year: 1989 Advice Letter # 89-619",
+    "tags": [
+      "Advice Letter",
+      "1989"
+    ],
+    "scraped_at": "2026-01-31 16:04:21",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1989&tagCount=1&page=46"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:57.984791Z",
+    "page_count": 2,
+    "word_count": 354,
+    "char_count": 2298,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 354
+  },
+  "content": {
+    "full_text": "California \nFair Political \nPractices Commission \nFrances Hong, city Clerk \nCity of stockton \nstockton, CA \n95202 \nDear Ms. Hong: \nNovember 17, 1989 \nRe: \nCombined Campaign Report \nOur File No. I-89-619 \nThis is to confirm advice provided to your office on October \n20, 1989, regarding the campaign disclosure provisions of the \nPolitical Reform Act (the \"Act,,).l \nThis letter constitutes writ-\nten advice under section 84205. \nsection 84205 states: \nThe Commission may by regulation or written advice \npermit candidates and committees to file campaign \nstatements combining statements and reports \nrequired to be filed by this title. \nA special election has been called to amend and revise the \nCity of stockton's charter. \nThe election date is February 6, \n1990. \nBecause the second pre-election statement due in connection \nwith the special election (Section 84200.8) and the semi-annual \nstatement due for the last six months of 1989 (Section 84200) \ncover overlapping periods, we believe it is appropriate for \ncommittees primarily formed to support or oppose the ballot \nmeasure in that election to combine those two reports. \nTherefore, campaign disclosure statements should be filed on \nthe following schedule: \n1 \nGovernment Code sections 81000-91015. \nAll statutory references \nare to the Government Code unless otherwise indicated. \nCommission \nat 2 California \nof Regulations section \nAll references to regulations are to Title 2, \n6 of the California Code of Regulations. \n428 J Street, Suite 800 .. P.O. Box 807 • Sacramento CA 95804*0807 • (916) 322~5660 \n\n\nFrances Hong \nIe No. 1-89-619 \nPage 1 \n~ \nof statement \nPeriod Covered \n1st Pre-Election \nJan. 12 -\nDec. 23 \n2nd Pre-Election \nDec. 24 - Jan. 20 \nCombined with semi-annual \nstatement for the second \nhalf of 1989 \nSemi-Annual \nJan. 21 - June 30 \nFiling Deadline \nDecember 28, 1989 \nJanuary 25, 1990 \nJuly 31, 1990 \nIf you have any questions regarding the above, please do not \nhesitate to contact me at (916) 322-5662. \nKED:LC:eab \nSincerely, \nKathryn E. Donovan \nGeneral ~ounsel \n;:/ 4 \n/1 \nh~ \n//'\"'Z-~ ~_--../ \nBy: \nLynda Cassady \nPolitical Reform Consultant \nThe period covered by any statement begins on the day after the \nclosing date of the last statement filed or January 1 if no \nprevious statement has been filed. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1989-11-17",
+    "date_raw": "November 17, 1989",
+    "requestor_name": "Hong",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "Because the second pre-election statement due in connection with the special election (Section 84200.8) and the semi-annual statement due for the last six months of 1989 (Section 84200) cover overlapping periods, we believe it is appropriate for committees primarily formed to support or oppose the ballot measure in that election to combine those two reports.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "May candidates and committees in Stockton's February 6, 1990 special election to amend the charter combine the second pre-election statement and the semi-annual statement for the last six months of 1989, given that these reporting periods overlap?",
+    "conclusion_synthetic": "The FPPC permits committees primarily formed to support or oppose the ballot measure to combine the second pre-election statement and the semi-annual statement for the last six months of 1989 due to overlapping coverage periods. The FPPC provides a specific filing schedule with three reporting periods and corresponding deadlines.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document follows standard FPPC advice letter format. No explicit 'QUESTION' or 'CONCLUSION' section headers, but the question and conclusion are clearly stated in the body text. This is written advice under Government Code section 84205. File number I-89-619."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "84200",
+      "84205"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.6666666666666666,
+    "classified_at": "2026-02-06T18:35:57.984791Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: May candidates and committees in Stockton's February 6, 1990 special election to amend the charter combine the second pre-election statement and the semi-annual statement for the last six months of 1989, given that these reporting periods overlap?\n\nCONCLUSION: Because the second pre-election statement due in connection with the special election (Section 84200.8) and the semi-annual statement due for the last six months of 1989 (Section 84200) cover overlapping periods, we believe it is appropriate for committees primarily formed to support or oppose the ballot measure in that election to combine those two reports.",
+    "qa_source": "mixed",
+    "first_500_words": "California Fair Political Practices Commission Frances Hong, city Clerk City of stockton stockton, CA 95202 Dear Ms. Hong: November 17, 1989 Re: Combined Campaign Report Our File No. I-89-619 This is to confirm advice provided to your office on October 20, 1989, regarding the campaign disclosure provisions of the Political Reform Act (the \"Act,,).l This letter constitutes writ- ten advice under section 84205. section 84205 states: The Commission may by regulation or written advice permit candidates and committees to file campaign statements combining statements and reports required to be filed by this title. A special election has been called to amend and revise the City of stockton's charter. The election date is February 6, 1990. Because the second pre-election statement due in connection with the special election (Section 84200.8) and the semi-annual statement due for the last six months of 1989 (Section 84200) cover overlapping periods, we believe it is appropriate for committees primarily formed to support or oppose the ballot measure in that election to combine those two reports. Therefore, campaign disclosure statements should be filed on the following schedule: 1 Government Code sections 81000-91015. All statutory references are to the Government Code unless otherwise indicated. Commission at 2 California of Regulations section All references to regulations are to Title 2, 6 of the California Code of Regulations. 428 J Street, Suite 800 .. P.O. Box 807 • Sacramento CA 95804*0807 • (916) 322~5660 Frances Hong Ie No. 1-89-619 Page 1 ~ of statement Period Covered 1st Pre-Election Jan. 12 - Dec. 23 2nd Pre-Election Dec. 24 - Jan. 20 Combined with semi-annual statement for the second half of 1989 Semi-Annual Jan. 21 - June 30 Filing Deadline December 28, 1989 January 25, 1990 July 31, 1990 If you have any questions regarding the above, please do not hesitate to contact me at (916) 322-5662. KED:LC:eab Sincerely, Kathryn E. Donovan General ~ounsel ;:/ 4 /1 h~ //'\"'Z-~ ~_--../ By: Lynda Cassady Political Reform Consultant The period covered by any statement begins on the day after the closing date of the last statement filed or January 1 if no previous statement has been filed.",
+    "summary": "The FPPC advises the City of Stockton that campaign committees may combine the second pre-election statement and semi-annual statement for overlapping reporting periods related to the February 6, 1990 special election charter amendment vote, and establishes a filing schedule with deadlines of December 28, 1989, January 25, 1990, and July 31, 1990."
+  }
+}

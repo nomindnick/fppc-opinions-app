@@ -1,0 +1,71 @@
+{
+  "id": "77ADV-77-483",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-483.PDF",
+  "pdf_sha256": "5cf0eba48285d286e0d2bdcb59829a4dba2453f68a186721d3e7eb0c08eb85b4",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-483.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-483",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:22:28",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=48"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:16.538497Z",
+    "page_count": 1,
+    "word_count": 133,
+    "char_count": 722,
+    "quality_score": 0.5125,
+    "olmocr_cost": null,
+    "native_word_count": 133
+  },
+  "content": {
+    "full_text": ", I I \n, \nI \nTed Prim \nJanuary II, 1977 \nSource of Income \n87103(c) \n-re: \nAG Ops 76-236 requested by Willie Brown \nIf Brown's law firm agrees to represent a physician \nin a license revocation hearing but no fees have been re-\nceived by the firm, can the physician be a source of income \nto Brown? \nThe staff concluded at a meeting on January 10, \n1977, that the physician could be a source of income to \nBrown if it were probable that Brown's pro rata share of \nthe fees would total $250 or more. \nThe rationale was that \nthe income had been \"promised\" to the official once services \nhad been agreed upon which would probably generate the requi-\nsite income. \nI advised Floyd of these views on January 1 , 1977. \nTP: jo \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1977-01-10",
+    "date_raw": "January 10, \n1977",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "If Brown's law firm agrees to represent a physician in a license revocation hearing but no fees have been received by the firm, can the physician be a source of income to Brown?",
+    "conclusion": "The staff concluded at a meeting on January 10, 1977, that the physician could be a source of income to Brown if it were probable that Brown's pro rata share of the fees would total $250 or more. The rationale was that the income had been \"promised\" to the official once services had been agreed upon which would probably generate the requisite income.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a physician can be considered a source of income to an official when the official's law firm has agreed to represent the physician in a license revocation hearing but has not yet received fees.",
+    "conclusion_synthetic": "The FPPC staff concluded that a physician can be a source of income to the official if the official's pro rata share of fees would probably total $250 or more, based on income being \"promised\" once services are agreed upon that would likely generate the required threshold amount.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document lacks standard section headers but contains identifiable question and conclusion sections. References AG Ops 76-236 and Willie Brown. Brief dated January 11, 1977. Contains some faint text and unclear resolution on specific closing reference (\"Floyd\")."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:16.538497Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: If Brown's law firm agrees to represent a physician in a license revocation hearing but no fees have been received by the firm, can the physician be a source of income to Brown?\n\nCONCLUSION: The staff concluded at a meeting on January 10, 1977, that the physician could be a source of income to Brown if it were probable that Brown's pro rata share of the fees would total $250 or more. The rationale was that the income had been \"promised\" to the official once services had been agreed upon which would probably generate the requisite income.",
+    "qa_source": "mixed",
+    "first_500_words": ", I I , I Ted Prim January II, 1977 Source of Income 87103(c) -re: AG Ops 76-236 requested by Willie Brown If Brown's law firm agrees to represent a physician in a license revocation hearing but no fees have been re- ceived by the firm, can the physician be a source of income to Brown? The staff concluded at a meeting on January 10, 1977, that the physician could be a source of income to Brown if it were probable that Brown's pro rata share of the fees would total $250 or more. The rationale was that the income had been \"promised\" to the official once services had been agreed upon which would probably generate the requi- site income. I advised Floyd of these views on January 1 , 1977. TP: jo",
+    "summary": "FPPC advice letter addressing whether a physician can be a source of income to an official when the official's law firm has agreed to represent the physician in a license revocation hearing but has not yet received fees. The FPPC staff concluded affirmatively if the official's pro rata share would probably total $250 or more."
+  }
+}

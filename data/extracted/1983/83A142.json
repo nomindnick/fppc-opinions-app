@@ -1,0 +1,73 @@
+{
+  "id": "83A142",
+  "year": 1983,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1983/83A142.PDF",
+  "pdf_sha256": "ef96f189f7eaa349519be4a8153ef3f125c31c828bfaf5491c2a2f69e80814d2",
+  "local_pdf_path": "raw_pdfs/1983/83A142.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1983 Advice Letter # 83A142",
+    "tags": [
+      "1983",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:33:04",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1983&tagCount=1&page=22"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T18:18:50.970236Z",
+    "page_count": 1,
+    "word_count": 69,
+    "char_count": 433,
+    "quality_score": 0.8215805121411167,
+    "olmocr_cost": 0.00244584,
+    "native_word_count": 56
+  },
+  "content": {
+    "full_text": "This is a memorandum from the Fair Political Practices Commission, dated June 1, 1983, with the reference number M-83-142. The memo is addressed to File and signed by Janis Shank McLean.\n\nSubject: Charles Imbrecht, Energy Commission\n\nThe memo states:\n\nOfficial received $250 or more in contributions from the \"PG&E Good Government PAC.\" Because the PAC is separate from PG&E, the official can vote on an application by PG&E.\n\nJSM:plh",
+    "full_text_markdown": "This is a memorandum from the Fair Political Practices Commission, dated June 1, 1983, with the reference number M-83-142. The memo is addressed to File and signed by Janis Shank McLean.\n\nSubject: Charles Imbrecht, Energy Commission\n\nThe memo states:\n\nOfficial received $250 or more in contributions from the \"PG&E Good Government PAC.\" Because the PAC is separate from PG&E, the official can vote on an application by PG&E.\n\nJSM:plh"
+  },
+  "parsed": {
+    "date": "1983-06-01",
+    "date_raw": "June 1, 1983",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [
+      "M-83-142"
+    ],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-20T18:18:50.970236Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "This is a memorandum from the Fair Political Practices Commission, dated June 1, 1983, with the reference number M-83-142. The memo is addressed to File and signed by Janis Shank McLean. Subject: Charles Imbrecht, Energy Commission The memo states: Official received $250 or more in contributions from the \"PG&E Good Government PAC.\" Because the PAC is separate from PG&E, the official can vote on an application by PG&E. JSM:plh",
+    "qa_source": "extracted",
+    "first_500_words": "This is a memorandum from the Fair Political Practices Commission, dated June 1, 1983, with the reference number M-83-142. The memo is addressed to File and signed by Janis Shank McLean. Subject: Charles Imbrecht, Energy Commission The memo states: Official received $250 or more in contributions from the \"PG&E Good Government PAC.\" Because the PAC is separate from PG&E, the official can vote on an application by PG&E. JSM:plh",
+    "summary": null
+  }
+}

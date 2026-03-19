@@ -1,0 +1,75 @@
+{
+  "id": "00-235",
+  "year": 2000,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2000/00-235.pdf",
+  "pdf_sha256": "45a1b257a49cf1e2d7706df0e62840c13c2b38f35c41656a0f27c61d9979384d",
+  "local_pdf_path": "raw_pdfs/2000/00-235.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2000 Advice Letter # 00-235",
+    "tags": [
+      "2000",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 00:43:55",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2000&tagCount=1&page=24"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T00:38:50.118111Z",
+    "page_count": 1,
+    "word_count": 113,
+    "char_count": 744,
+    "quality_score": 0.8663357922265924,
+    "olmocr_cost": 0.00253958,
+    "native_word_count": 138
+  },
+  "content": {
+    "full_text": "December 5, 2000\n\nTom Chin\nCalifornia Arts Council\n1300 I Street, Suite 930\nSacramento, CA 95814\n\nRe: Your Request for Advice\nOur File No. W-00-235\n\nDear Mr. Chin:\n\nThis letter is to memorialize the withdrawal of your October 12, 2000, request for advice to the Fair Political Practices Commission regarding reportable reimbursements for travel under the Political Reform Act¹.\n\nYou rescinded your request for written advice on November 7, 2000. Please contact the Commission at (916) 322-5660 should you have any additional questions or comments.\n\nVery truly yours,\n\nJoan Giannetta\nLegal Secretary\n\n¹ Government Code sections 81000 – 91015. Commission regulations appear at Title 2, sections 18109-18996, of the California Code of Regulations.",
+    "full_text_markdown": "December 5, 2000\n\nTom Chin\nCalifornia Arts Council\n1300 I Street, Suite 930\nSacramento, CA 95814\n\nRe: Your Request for Advice\nOur File No. W-00-235\n\nDear Mr. Chin:\n\nThis letter is to memorialize the withdrawal of your October 12, 2000, request for advice to the Fair Political Practices Commission regarding reportable reimbursements for travel under the Political Reform Act¹.\n\nYou rescinded your request for written advice on November 7, 2000. Please contact the Commission at (916) 322-5660 should you have any additional questions or comments.\n\nVery truly yours,\n\nJoan Giannetta\nLegal Secretary\n\n¹ Government Code sections 81000 – 91015. Commission regulations appear at Title 2, sections 18109-18996, of the California Code of Regulations."
+  },
+  "parsed": {
+    "date": "2000-12-05",
+    "date_raw": "December 5, 2000",
+    "requestor_name": "Chin",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [
+      "18109"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-20T00:38:50.118111Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "December 5, 2000 Tom Chin California Arts Council 1300 I Street, Suite 930 Sacramento, CA 95814 Re: Your Request for Advice Our File No. W-00-235 Dear Mr. Chin: This letter is to memorialize the withdrawal of your October 12, 2000, request for advice to the Fair Political Practices Commission regarding reportable reimbursements for travel under the Political Reform Act¹. You rescinded your request for written advice on November 7, 2000. Please contact the Commission at (916) 322-5660 should you have any additional questions or comments. Very truly yours, Joan Giannetta Legal Secretary ¹ Government Code sections 81000 – 91015. Commission regulations appear at Title 2, sections 18109-18996, of the California Code of Regulations.",
+    "qa_source": "extracted",
+    "first_500_words": "December 5, 2000 Tom Chin California Arts Council 1300 I Street, Suite 930 Sacramento, CA 95814 Re: Your Request for Advice Our File No. W-00-235 Dear Mr. Chin: This letter is to memorialize the withdrawal of your October 12, 2000, request for advice to the Fair Political Practices Commission regarding reportable reimbursements for travel under the Political Reform Act¹. You rescinded your request for written advice on November 7, 2000. Please contact the Commission at (916) 322-5660 should you have any additional questions or comments. Very truly yours, Joan Giannetta Legal Secretary ¹ Government Code sections 81000 – 91015. Commission regulations appear at Title 2, sections 18109-18996, of the California Code of Regulations.",
+    "summary": null
+  }
+}

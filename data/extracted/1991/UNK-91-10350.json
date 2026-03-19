@@ -1,0 +1,75 @@
+{
+  "id": "UNK-91-10350",
+  "year": 1991,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1991/91127.pdf",
+  "pdf_sha256": "9672ceca86c516e04f59c853e26df9559283cf8c02a3fc7f31bbdeba6fda914d",
+  "local_pdf_path": "raw_pdfs/1991/91127.pdf",
+  "source_metadata": {
+    "title_raw": "1991-91127",
+    "tags": [
+      "1991",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:19:28",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1991&tagCount=1&page=51"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T17:34:30.489918Z",
+    "page_count": 1,
+    "word_count": 151,
+    "char_count": 1675,
+    "quality_score": 0.44435305321008545,
+    "olmocr_cost": 0.00256538,
+    "native_word_count": 84,
+    "haiku_cost": 0.0026672
+  },
+  "content": {
+    "full_text": "FAIR POLITICAL PRACTICES COMMISSION\nAdvice File Summary\nPLEASE FILL IN ALL THE BLANKS!\n\nType:___Telephone___ Staff:____CASSADY, LYNDA____\nYear:_______91_______ Adviser:___Purcell, W.____\nNo.:_________________ Requestor:_____________\nDate:____1-21-91____ Agency:____T.A.+ A_____\n\nSubject: ___ C/I _____________ ___ C/I Code\n___ Campaign _____________ ___ Lobbying\n___ SEI _____________ ___ Revolving Door\n___ Section 84308 _____________ ___ Personal Use\n___ Mass Mail _____________ ___ Misc.\n\nComputer Entry Summary: (No more than 5 typed lines for summary.)\n_________________________________________________________________\n\nWhen a lobbyist drives a legislator\nto a social event such transportation is a\ngift and is subject to the gift limitation.\n\n_________________________________________________________________\n\nCode Section and/or Regulation Nos.\n\n_________________________________________________________________\n\nSection 82028, 86203\n\n_________________________________________________________________\n\nBulletin Summary: (If you need more space please write on back.)\n\n_________________________________________________________________\n\nWhen a lobbyist drives a legislator\nto a social event the transportation\nof a gift and is subject to\nthe gift limitation. Discussion\non determining fair market value.\n\n_________________________________________________________________\n\n_________________________________________________________________\n\nDo not file in\n\n_________________________________________________________________\n\n_________________________________________________________________\n\n_________________________________________________________________\n\n(Rev. 5/10/90)",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1990-05-10",
+    "date_raw": "5/10/90",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether transportation provided by a lobbyist to a legislator attending a social event constitutes a gift subject to gift limitations under FPPC law.",
+    "conclusion_synthetic": "When a lobbyist drives a legislator to a social event, the transportation constitutes a gift subject to gift limitations, with analysis required to determine the fair market value of the transportation.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is a telephone advice summary with no formal question/conclusion sections. Information extracted from Computer Entry Summary and Bulletin Summary sections. Requestor and specific date details provided; agency listed as T.A.+A with staff member Cassaday, Lyrda."
+  },
+  "citations": {
+    "government_code": [
+      "82028",
+      "84308"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-07T16:17:50.482996Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether transportation provided by a lobbyist to a legislator attending a social event constitutes a gift subject to gift limitations under FPPC law.\n\nCONCLUSION: When a lobbyist drives a legislator to a social event, the transportation constitutes a gift subject to gift limitations, with analysis required to determine the fair market value of the transportation.",
+    "qa_source": "synthetic",
+    "first_500_words": "FAIR POLITICAL PRACTICES COMMISSION Advice File Summary PLEASE FILL IN ALL THE BLANKS! Type: Telephone Year: 91 No.: Date: 1-21-91 Staff: CASSADAY, LYRDA Advisee: Purcell, V. Requestor: \" Agency: T.A.+A Subject: ___ C/I ___ C/I Code ___ Campaign ___ Lobbying ___ SEI ___ Revolving Door ___ Section 84308 ___ Personal Use ___ Mass Mail ___ Misc. Computer Entry Summary: (No more than 5 typed lines for summary.) When a lobbyist drives a legislator to a social event, such transportation is a gift and is subject to the gift limitation. Code Section and/or Regulation Nos. Section 82028, 86203 Bulletin Summary: (If you need more space please write on back.) When a lobbyist drives a legislator to a social event, the transportation is a gift and is subject to the gift limitation. Discussion on determining fair market value. (Rev. 5/10/90)",
+    "summary": "FPPC advice letter determining that transportation provided by a lobbyist to a legislator for attendance at a social event is a gift subject to gift limitations under Sections 82028 and 86203."
+  }
+}

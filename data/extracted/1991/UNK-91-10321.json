@@ -1,0 +1,80 @@
+{
+  "id": "UNK-91-10321",
+  "year": 1991,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1991/91-531.pdf",
+  "pdf_sha256": "0242314296b5f049211b36f52e55f6a09910955900e608d14935e343393f68fa",
+  "local_pdf_path": "raw_pdfs/1991/91-531.pdf",
+  "source_metadata": {
+    "title_raw": "91-531.pdf",
+    "tags": [
+      "1991",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:19:15",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1991&tagCount=1&page=48"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T17:33:23.626969Z",
+    "page_count": 2,
+    "word_count": 539,
+    "char_count": 3542,
+    "quality_score": 0.9555849480690789,
+    "olmocr_cost": 0.00523998,
+    "native_word_count": 547,
+    "haiku_cost": 0.005930400000000001
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\n\nSUPERSEDED\nby A-91-267(Mandamus)\n\nJanuary 22, 1992\n\nWilliam Wewer\n6302 30th Street, N.W.\nWashington, D.C. 20015\n\nRe: Your Request for Informal\nAssistance\nOur File No. I-91-531\n\nDear Mr. Wewer:\n\nThis is in response to your letter requesting advice under\nthe campaign disclosure provisions of the Political Reform Act\n(the \"Act\").¹ Since you have not named the client on whose behalf\nyou have requested this advice, we can only provide an informal\nresponse to your question.²\n\nQUESTION\n\nWhen a nonprofit organization, which sponsors a committee,\nallows the committee to use its nonprofit postal permit for all\nbulk mailing, is the difference between the charge for a regular bulk\nmail permit and the special bulk mail permit for nonprofit\norganizations a contribution from the sponsoring organization to\nthe committee?\n\nCONCLUSION\n\nThe sponsored committee receives an in-kind contribution from\nthe sponsor when it uses the sponsor's special bulk mail permit.\n\n___________________________\n1    Government Code Sections 81000-91015. All statutory\nreferences are to the Government Code unless otherwise indicated.\nCommission regulations appear at 2 California Code of Regulations\nSection 18000, et seq. All references to regulations are to Title\n2, Division 6 of the California Code of Regulations.\n\n2    Informal assistance does not provide the requestor with the\nimmunity provided by an opinion or formal written advice.\n(Government Code Section 83114; 2 Cal. Code of Regs. Sections\n18329(c)(3).)\n\n428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804-0807 • (916) 322-5660\n\nFACTS\n\nYou are counsel to a nonprofit tax exempt organization. The organization established a \"separate segregated fund\" pursuant to the Federal Election Campaign Act and sponsors a recipient committee in California. The organization is authorized to mail at special nonprofit bulk rates. The Postal Service has ruled that when it authorizes a nonprofit organization to mail at special bulk rates that authorization also applies to the organization's sponsored committee and any other committees it may choose to establish. The organization allows its California recipient committee to use that permit for its mailings.\n\nANALYSIS\n\nSection 82015 provides that the term \"contribution\" means \"a payment, a forgiveness of a loan, a payment of a loan by a third party, or an enforceable promise to make a payment except to the extent that full and adequate consideration is received unless it is clear from the surrounding circumstances that it is not made for political purposes.\" Payments received by or made at the behest of an organization formed or existing primarily for political purposes, including a political action committee, are deemed to be payments for political purposes. (Regulation 18215.)\n\nTherefore, a committee receives an in-kind contribution from its sponsor when it uses the sponsor's bulk mail permit. The committee should report the difference between what it would pay using its own mailing facilities and the cost of using the sponsor's permit. (Yu Advice Letter No. I-86-258, copy enclosed.)\n\nI provided this advice to you by telephone on January 8, 1992. It is my understanding that you also received this same advice by letter to Blanche Kelley from Jeanne Pritchard dated October 2, 1984 (copy enclosed).\n\nIf you have additional questions, please contact me at (916) 322-5662.\n\nSincerely,\n\nScott Hallabrin\nActing General Counsel\n\nBy: Wayne P. Imberi\nPolitical Reform Consultant\n\nEnclosures",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1992-01-22",
+    "date_raw": "January 22, 1992",
+    "requestor_name": "Wewer",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "informal_advice"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": "You are counsel to a nonprofit tax exempt organization. The organization established a \"separate segregated fund\" pursuant to the Federal Election Campaign Act and sponsors a recipient committee in California. The organization is authorized to mail at special nonprofit bulk rates. The Postal Service has ruled that when it authorizes a nonprofit organization to mail at special bulk rates that authorization also applies to the organization's sponsored committee and any other committees it may choose to establish. The organization allows its California recipient committee to use that permit for its mailings.",
+    "analysis": "Section 82015 provides that the term \"contribution\" means \"a payment, a forgiveness of a loan, a payment of a loan by a third party, or an enforceable promise to make a payment except to the extent that full and adequate consideration is received unless it is clear from the surrounding circumstances that it is not made for political purposes.\" Payments received by or made at the behest of an organization formed or existing primarily for political purposes, including a political action committee, are deemed to be payments for political purposes. (Regulation 18215.)\n\nTherefore, a committee receives an in-kind contribution from its sponsor when it uses the sponsor's bulk mail permit. The committee should report the difference between what it would pay using its own mailing facilities and the cost of using the sponsor's permit. (Yu Advice Letter No. I-86-258, copy enclosed.)\n\nI provided this advice to you by telephone on January 8, 1992. It is my understanding that you also received this same advice by letter to Blanche Kelley from Jeanne Pritchard dated October 2, 1984 (copy enclosed).",
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.35000000000000003,
+    "has_standard_format": false,
+    "parsing_notes": "Format: modern"
+  },
+  "citations": {
+    "government_code": [
+      "82015",
+      "83114"
+    ],
+    "regulations": [
+      "18215"
+    ],
+    "prior_opinions": [
+      "I-86-258",
+      "I-91-531"
+    ],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-20T16:45:00.329669Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "**California Fair Political Practices Commission** January 22, 1992 William Wewer 6302 30th Street, N.W. Washington, D.C. 20015 Re: Your Request for Informal Assistance Our File No. I-91-531 Dear Mr. Wewer: This is in response to your letter requesting advice under the campaign disclosure provisions of the Political Reform Act (the \"Act\"). Since you have not named the client on whose behalf you have requested this advice, we can only provide an informal response to your question. **QUESTION** When a nonprofit organization, which sponsors a committee, allows the committee to use its nonprofit postal permit for a mailing, is the difference between the charge for a regular bulk mail permit and the special bulk mail permit for nonprofit organizations a contribution from the sponsoring organization to the committee? **CONCLUSION** The sponsored committee receives an in-kind contribution from the sponsor when it uses the sponsor's special bulk mail permit. --- 1 Government Code Sections .81000-.91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations Section 18000, et seq. All references to regulations are to Title 2, Division 6 of the California Code of Regulations. 2 Informal assistance does not provide the requestor with the immunity provided by an opinion or formal written advice. (Government Code Section 83114; 2 Cal. Code of Regs. Sections 18329(c)(3).) FACTS You are counsel to a nonprofit tax exempt organization. The organization established a \"separate segregated fund\" pursuant to the Federal Election Campaign Act and sponsors a recipient committee in California. The organization is authorized to mail at special nonprofit bulk rates. The Postal Service has ruled that when it authorizes a nonprofit organization to mail at special bulk rates that authorization also applies to the organization's sponsored committee and any other committees it may choose to establish. The organization allows its California recipient committee to use that permit for its mailings. ANALYSIS Section 82015 provides that the term \"contribution\" means \"a payment, a forgiveness of a loan, a payment of a loan by a third party, or an enforceable promise to make a payment except to the extent that full and adequate consideration is received unless it is clear from the surrounding circumstances that it is not made for political purposes.\" Payments received by or made at the behest of an organization formed or existing primarily for political purposes, including a political action committee, are deemed to be payments for political purposes. (Regulation 18215.) Therefore, a committee receives an in-kind contribution from its sponsor when it uses the sponsor's bulk mail permit. The committee should report the difference between what it would pay using its own mailing facilities and the cost of using the sponsor's permit. (Yu Advice Letter No. I-86-258, copy enclosed.) I provided this advice to you by telephone on January 8, 1992. It is my understanding that you also received this same advice by letter to Blanche Kelley from Jeanne Pritchard dated October 2, 1984 (copy enclosed). If you have additional questions, please",
+    "qa_source": "extracted",
+    "first_500_words": "**California Fair Political Practices Commission** January 22, 1992 William Wewer 6302 30th Street, N.W. Washington, D.C. 20015 Re: Your Request for Informal Assistance Our File No. I-91-531 Dear Mr. Wewer: This is in response to your letter requesting advice under the campaign disclosure provisions of the Political Reform Act (the \"Act\"). Since you have not named the client on whose behalf you have requested this advice, we can only provide an informal response to your question. **QUESTION** When a nonprofit organization, which sponsors a committee, allows the committee to use its nonprofit postal permit for a mailing, is the difference between the charge for a regular bulk mail permit and the special bulk mail permit for nonprofit organizations a contribution from the sponsoring organization to the committee? **CONCLUSION** The sponsored committee receives an in-kind contribution from the sponsor when it uses the sponsor's special bulk mail permit. --- 1 Government Code Sections .81000-.91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations Section 18000, et seq. All references to regulations are to Title 2, Division 6 of the California Code of Regulations. 2 Informal assistance does not provide the requestor with the immunity provided by an opinion or formal written advice. (Government Code Section 83114; 2 Cal. Code of Regs. Sections 18329(c)(3).) FACTS You are counsel to a nonprofit tax exempt organization. The organization established a \"separate segregated fund\" pursuant to the Federal Election Campaign Act and sponsors a recipient committee in California. The organization is authorized to mail at special nonprofit bulk rates. The Postal Service has ruled that when it authorizes a nonprofit organization to mail at special bulk rates that authorization also applies to the organization's sponsored committee and any other committees it may choose to establish. The organization allows its California recipient committee to use that permit for its mailings. ANALYSIS Section 82015 provides that the term \"contribution\" means \"a payment, a forgiveness of a loan, a payment of a loan by a third party, or an enforceable promise to make a payment except to the extent that full and adequate consideration is received unless it is clear from the surrounding circumstances that it is not made for political purposes.\" Payments received by or made at the behest of an organization formed or existing primarily for political purposes, including a political action committee, are deemed to be payments for political purposes. (Regulation 18215.) Therefore, a committee receives an in-kind contribution from its sponsor when it uses the sponsor's bulk mail permit. The committee should report the difference between what it would pay using its own mailing facilities and the cost of using the sponsor's permit. (Yu Advice Letter No. I-86-258, copy enclosed.) I provided this advice to you by telephone on January 8, 1992. It is my understanding that you also received this same advice by letter to Blanche Kelley from Jeanne Pritchard dated October 2, 1984 (copy enclosed). If you have additional questions, please",
+    "summary": null
+  }
+}

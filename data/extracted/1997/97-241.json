@@ -1,0 +1,79 @@
+{
+  "id": "97-241",
+  "year": 1997,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/1997/97-241.pdf",
+  "pdf_sha256": "f428dd922744550b64d4976aa0559e6c3583dd52d81a1723bf3bd9a40984a916",
+  "local_pdf_path": "raw_pdfs/1997/97-241.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 1997 Advice Letter # 97-241",
+    "tags": [
+      "1997",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:43:23",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1997&tagCount=1&page=25"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:49.318169Z",
+    "page_count": 2,
+    "word_count": 381,
+    "char_count": 2394,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 381
+  },
+  "content": {
+    "full_text": "RAVI MEHTA\nCHAIRMAN\nFAIR POLITICAL PRACTICES COMMISSION\nMay 30, 1997\nThe Honorable Steve Baldwin\nAssembly Member, California Legislature\nState Capitol\nPost Office Box 942849\nSacramento, CA 94249-0001\nRe: Your Request for Advice\nOur File No. G-97-241\nDear Assembly Member Baldwin:\nThis letter is a response to your inquiry regarding the provisions ofthe Political Reform\nAct (the “Act”).’\nYour request involves potential conflicts of interest by a third party, El Cajon\nCity Councilmember Bob McClellan.\nWe cannot render advice to a third party who is not authorized to request written advice\non behalf of the public official whose duties are in question. (Regulation 18329(c), copy\nenclosed.) Consequently, we can only provide you general guidance regarding the issue that\nyour raise in your letter. This letter should not be construed to evaluate the legal opinion ofthe\ncity attorney of the City of El Cajon.\nEssentially, you ask what the applicable time period for disqualification is under Section\n87 103(c) with respect to sources of income to a public official totaling $250 or more.\nSection 87103(c) states:\n“Any source of income, other than gifts and other than loans\nby a commercial lending institution in the regular course ofbusiness\non terms available to the public without regard to official status,\naggregating two hundred fifty dollars ($250) or more in value provided\nto, received by or promised to the public official within 12 months\nprior to the time when the decision is made.”\nGovernment Code Sections 81000 - 91014. Commission regulations appear at title 2, Sections 18109 -\n18995, of the California Code of Regulations.\n428 J STREET, SUITE 800, SACRAMENTO, CALIFORNIA 95814\n(916)322-5660\n\n\nFile No. 0-97-24 1\nPage 2\nAs set forth in Section 87 103(c), the applicable time period for disqualification with\nrespect to a person who has been a source of income to a public official is the 12 months prior to\nthe time a decision is made.\nTo further assist you in your inquiry, we have enclosed copies of two letters which may\nbe helpful to you and an informational pamphlet concerning the conflict-of-interest provisions of\nthe Act. (Copies enclosed.)\nIfyou have any other questions regarding this matter, please contact me at (916) 322-\n5660.\nSincerely,\nSteven G. Churchwell\nGeneral Counsel\n5L ‘-‘--\nBy:\nLuisaMenchaca\nSenior Staff Counsel, Legal Division\nEnclosures\nSGC:LM:ak\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1997-05-30",
+    "date_raw": "May 30, 1997",
+    "requestor_name": null,
+    "requestor_title": "city attorney",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "What is the applicable time period for disqualification under Section 87103(c) with respect to sources of income to a public official totaling $250 or more?",
+    "conclusion": "As set forth in Section 87103(c), the applicable time period for disqualification with respect to a person who has been a source of income to a public official is the 12 months prior to the time a decision is made.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Assembly Member Baldwin seeks guidance on the disqualification time period under Section 87103(c) of the Political Reform Act regarding income sources of $250 or more for a third party city councilmember.",
+    "conclusion_synthetic": "The FPPC concludes that the relevant time period for disqualification is 12 months prior to when a decision is made, as specified in Section 87103(c).",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document contains clear Q&A structure. FPPC notes they can only provide general guidance since the requester is not authorized to request advice on behalf of the third party. File number listed inconsistently as G-97-241 in letter header and 0-97-241 on page 2."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "87103(c)"
+    ],
+    "regulations": [
+      "18109",
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [
+      "06-119"
+    ],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:34:49.318169Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: What is the applicable time period for disqualification under Section 87103(c) with respect to sources of income to a public official totaling $250 or more?\n\nCONCLUSION: As set forth in Section 87103(c), the applicable time period for disqualification with respect to a person who has been a source of income to a public official is the 12 months prior to the time a decision is made.",
+    "qa_source": "mixed",
+    "first_500_words": "RAVI MEHTA CHAIRMAN FAIR POLITICAL PRACTICES COMMISSION May 30, 1997 The Honorable Steve Baldwin Assembly Member, California Legislature State Capitol Post Office Box 942849 Sacramento, CA 94249-0001 Re: Your Request for Advice Our File No. G-97-241 Dear Assembly Member Baldwin: This letter is a response to your inquiry regarding the provisions ofthe Political Reform Act (the “Act”).’ Your request involves potential conflicts of interest by a third party, El Cajon City Councilmember Bob McClellan. We cannot render advice to a third party who is not authorized to request written advice on behalf of the public official whose duties are in question. (Regulation 18329(c), copy enclosed.) Consequently, we can only provide you general guidance regarding the issue that your raise in your letter. This letter should not be construed to evaluate the legal opinion ofthe city attorney of the City of El Cajon. Essentially, you ask what the applicable time period for disqualification is under Section 87 103(c) with respect to sources of income to a public official totaling $250 or more. Section 87103(c) states: “Any source of income, other than gifts and other than loans by a commercial lending institution in the regular course ofbusiness on terms available to the public without regard to official status, aggregating two hundred fifty dollars ($250) or more in value provided to, received by or promised to the public official within 12 months prior to the time when the decision is made.” Government Code Sections 81000 - 91014. Commission regulations appear at title 2, Sections 18109 - 18995, of the California Code of Regulations. 428 J STREET, SUITE 800, SACRAMENTO, CALIFORNIA 95814 (916)322-5660 File No. 0-97-24 1 Page 2 As set forth in Section 87 103(c), the applicable time period for disqualification with respect to a person who has been a source of income to a public official is the 12 months prior to the time a decision is made. To further assist you in your inquiry, we have enclosed copies of two letters which may be helpful to you and an informational pamphlet concerning the conflict-of-interest provisions of the Act. (Copies enclosed.) Ifyou have any other questions regarding this matter, please contact me at (916) 322- 5660. Sincerely, Steven G. Churchwell General Counsel 5L ‘-‘-- By: LuisaMenchaca Senior Staff Counsel, Legal Division Enclosures SGC:LM:ak",
+    "summary": "FPPC General Counsel responds to Assembly Member Baldwin's inquiry about conflict of interest provisions for a third party El Cajon City Councilmember, clarifying that the applicable disqualification time period under Section 87103(c) is 12 months prior to the decision being made."
+  }
+}

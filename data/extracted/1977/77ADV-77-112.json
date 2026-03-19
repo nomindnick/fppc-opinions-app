@@ -1,0 +1,71 @@
+{
+  "id": "77ADV-77-112",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-112.PDF",
+  "pdf_sha256": "d829fe5f17212edcfa3edc2e46f4870246648e152ebdce9821fd3133169c1020",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-112.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-112",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:20:38",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=23"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T21:14:19.893302Z",
+    "page_count": 1,
+    "word_count": 80,
+    "char_count": 515,
+    "quality_score": 0.8016587301587301,
+    "olmocr_cost": 0.00245788,
+    "native_word_count": 95
+  },
+  "content": {
+    "full_text": "February 23, 1977\n\nTerry Andrus  \nDeputy County Counsel  \nOrange County  \nP.O. Box 1379  \nSanta Ana, CA 92702\n\nDear Mr. Andrus:\n\nThis letter is to confirm our telephone conversation today at which time I advised you that the jurisdiction for a superior court judge reporting investments and interests in real property was the State of California. In addition, I indicated that a pension received from a local government agency was not reportable income.\n\nSincerely,\n\nTed Prim  \nStaff Counsel  \nLegal Division\n\nTP:jo",
+    "full_text_markdown": "February 23, 1977\n\nTerry Andrus  \nDeputy County Counsel  \nOrange County  \nP.O. Box 1379  \nSanta Ana, CA 92702\n\nDear Mr. Andrus:\n\nThis letter is to confirm our telephone conversation today at which time I advised you that the jurisdiction for a superior court judge reporting investments and interests in real property was the State of California. In addition, I indicated that a pension received from a local government agency was not reportable income.\n\nSincerely,\n\nTed Prim  \nStaff Counsel  \nLegal Division\n\nTP:jo"
+  },
+  "parsed": {
+    "date": "1977-02-23",
+    "date_raw": "February 23, 1977",
+    "requestor_name": "Andrus",
+    "requestor_title": "County Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T21:14:19.893302Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "February 23, 1977 Terry Andrus Deputy County Counsel Orange County P.O. Box 1379 Santa Ana, CA 92702 Dear Mr. Andrus: This letter is to confirm our telephone conversation today at which time I advised you that the jurisdiction for a superior court judge reporting investments and interests in real property was the State of California. In addition, I indicated that a pension received from a local government agency was not reportable income. Sincerely, Ted Prim Staff Counsel Legal Division TP:jo",
+    "qa_source": "extracted",
+    "first_500_words": "February 23, 1977 Terry Andrus Deputy County Counsel Orange County P.O. Box 1379 Santa Ana, CA 92702 Dear Mr. Andrus: This letter is to confirm our telephone conversation today at which time I advised you that the jurisdiction for a superior court judge reporting investments and interests in real property was the State of California. In addition, I indicated that a pension received from a local government agency was not reportable income. Sincerely, Ted Prim Staff Counsel Legal Division TP:jo",
+    "summary": null
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "77ADV-77-345",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-345.PDF",
+  "pdf_sha256": "f21afbcb548c5a56fb5ad31c6499bb5fa0696862abb1b898b23dac827809c2ae",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-345.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-345",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:20:33",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=22"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:13.908098Z",
+    "page_count": 1,
+    "word_count": 133,
+    "char_count": 779,
+    "quality_score": 0.515,
+    "olmocr_cost": null,
+    "native_word_count": 133
+  },
+  "content": {
+    "full_text": "Stat~of California \nMemorandum \nTo \nFile \nDate \nJan. 2 5, 19 7 7 \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nDan Lowenstein \nSubject: Telephone advice given to Bill Rietdorf, Judicial Council \nIf IBM pays for him to go to training se~ssion \nat IBM facility in San Jose at IBM's expense, I told \nhim it would be reportable by IBM assuming they are \ncovered by Section 86108 only if the value exceeded \n$1,000. \nIt would not be reportable by him since the \nJ.C. does not have a conflict of interest code. \nIf \nthe value was more than $250 the disqualification provision \nmight be triggered. \nApparently he went, assumed IBM would pay, but \nlater got a bill with a letter saying that because of \nProp. 9 IBM now charges California government employees \nfor the cost of the course. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether IBM's payment for a Judicial Council member to attend a training session at IBM's San Jose facility requires reporting under Section 86108 and triggers disqualification provisions.",
+    "conclusion_synthetic": "IBM must report the benefit if it exceeds $1,000 under Section 86108; the recipient need not report it since the Judicial Council has no conflict of interest code. If the value exceeds $250, disqualification provisions may be triggered.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.75,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Internal FPPC memorandum documenting informal telephone advice rather than formal advice letter; no formal Q/A sections present; practical scenario involves retroactive billing issue; confidence reduced due to informal format and incomplete context."
+  },
+  "citations": {
+    "government_code": [
+      "86108"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "lobbying",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:37:13.908098Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether IBM's payment for a Judicial Council member to attend a training session at IBM's San Jose facility requires reporting under Section 86108 and triggers disqualification provisions.\n\nCONCLUSION: IBM must report the benefit if it exceeds $1,000 under Section 86108; the recipient need not report it since the Judicial Council has no conflict of interest code. If the value exceeds $250, disqualification provisions may be triggered.",
+    "qa_source": "synthetic",
+    "first_500_words": "Stat~of California Memorandum To File Date Jan. 2 5, 19 7 7 From FAIR POLITICAL PRACTICES COMMISSION Dan Lowenstein Subject: Telephone advice given to Bill Rietdorf, Judicial Council If IBM pays for him to go to training se~ssion at IBM facility in San Jose at IBM's expense, I told him it would be reportable by IBM assuming they are covered by Section 86108 only if the value exceeded $1,000. It would not be reportable by him since the J.C. does not have a conflict of interest code. If the value was more than $250 the disqualification provision might be triggered. Apparently he went, assumed IBM would pay, but later got a bill with a letter saying that because of Prop. 9 IBM now charges California government employees for the cost of the course.",
+    "summary": "Memorandum documenting telephone advice given to a Judicial Council member regarding reporting requirements and disqualification rules for IBM-paid training attendance, where IBM later reversed its payment position due to Proposition 9."
+  }
+}

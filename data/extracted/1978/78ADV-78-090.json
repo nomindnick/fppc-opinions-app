@@ -1,0 +1,73 @@
+{
+  "id": "78ADV-78-090",
+  "year": 1978,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1978/78ADV-78-090.PDF",
+  "pdf_sha256": "0b90acadba4c9dba4d90edd348444b32e7c966876dbad0e0aad15a9d02a253bf",
+  "local_pdf_path": "raw_pdfs/1978/78ADV-78-090.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1978ADV Advice Letter # 78ADV-78-090",
+    "tags": [
+      "Advice Letter",
+      "1978"
+    ],
+    "scraped_at": "2026-01-31 15:24:44",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=26"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T21:13:47.510964Z",
+    "page_count": 1,
+    "word_count": 66,
+    "char_count": 382,
+    "quality_score": 0.8496959183673469,
+    "olmocr_cost": 0.00441868,
+    "native_word_count": 70
+  },
+  "content": {
+    "full_text": "February 2, 1978\n\nFile\n\nTed Prim\n\nIncome Tax Refunds\n\nOn January 30, 1978, I met with Alan Herndon and Lee Rosenthal to discuss whether or not income tax refunds would meet the definition on income in Government Code Section 82030. As a result of this meeting it was decided that the Political Reform Act did not contemplate including income tax refunds in the definition of income.",
+    "full_text_markdown": "February 2, 1978\n\nFile\n\nTed Prim\n\nIncome Tax Refunds\n\nOn January 30, 1978, I met with Alan Herndon and Lee Rosenthal to discuss whether or not income tax refunds would meet the definition on income in Government Code Section 82030. As a result of this meeting it was decided that the Political Reform Act did not contemplate including income tax refunds in the definition of income."
+  },
+  "parsed": {
+    "date": "1978-02-02",
+    "date_raw": "February 2, 1978",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [
+      "82030"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-19T21:13:47.510964Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "February 2, 1978 File Ted Prim Income Tax Refunds On January 30, 1978, I met with Alan Herndon and Lee Rosenthal to discuss whether or not income tax refunds would meet the definition on income in Government Code Section 82030. As a result of this meeting it was decided that the Political Reform Act did not contemplate including income tax refunds in the definition of income.",
+    "qa_source": "extracted",
+    "first_500_words": "February 2, 1978 File Ted Prim Income Tax Refunds On January 30, 1978, I met with Alan Herndon and Lee Rosenthal to discuss whether or not income tax refunds would meet the definition on income in Government Code Section 82030. As a result of this meeting it was decided that the Political Reform Act did not contemplate including income tax refunds in the definition of income.",
+    "summary": null
+  }
+}

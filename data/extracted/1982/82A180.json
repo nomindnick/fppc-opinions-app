@@ -1,0 +1,71 @@
+{
+  "id": "82A180",
+  "year": 1982,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1982/82A180.PDF",
+  "pdf_sha256": "d03928ac2cde3bdbafbb11e8014dff50b939c522b90f098c3d8e11ae069b8b96",
+  "local_pdf_path": "raw_pdfs/1982/82A180.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1982 Advice Letter # 82A180",
+    "tags": [
+      "1982",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:30:27",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1982&tagCount=1&page=12"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T13:21:57.081575Z",
+    "page_count": 1,
+    "word_count": 101,
+    "char_count": 605,
+    "quality_score": 0.850784937512866,
+    "olmocr_cost": 0.0024879800000000003,
+    "native_word_count": 102
+  },
+  "content": {
+    "full_text": "TO: File\n\nDATE: November 1, 1982\nFile No. T-82-180\n\nFROM: Fair Political Practices Commission\nJanis Shank McLean\n\nRE: Contingency Fee\n\nA contingency agreement between a lawyer and client should be considered to be a \"promise to pay\" $250 or more. The reasons are:\n\n1. 1/3 (typical contingency fee amount) of almost any judgment will amount to $250 or more;\n\n2. Attorneys usually only take cases in which they are reasonably certain of collecting a fee.\n\nA circumstance that may change this analysis is if the attorney is representing a family member, or friend, and does not care about the money.\n\nJSM:plh",
+    "full_text_markdown": "TO: File\n\nDATE: November 1, 1982\nFile No. T-82-180\n\nFROM: Fair Political Practices Commission\nJanis Shank McLean\n\nRE: Contingency Fee\n\nA contingency agreement between a lawyer and client should be considered to be a \"promise to pay\" $250 or more. The reasons are:\n\n1. 1/3 (typical contingency fee amount) of almost any judgment will amount to $250 or more;\n\n2. Attorneys usually only take cases in which they are reasonably certain of collecting a fee.\n\nA circumstance that may change this analysis is if the attorney is representing a family member, or friend, and does not care about the money.\n\nJSM:plh"
+  },
+  "parsed": {
+    "date": "1982-11-01",
+    "date_raw": "November 1, 1982",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-20T13:21:57.081575Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "TO: File DATE: November 1, 1982 File No. T-82-180 FROM: Fair Political Practices Commission Janis Shank McLean RE: Contingency Fee A contingency agreement between a lawyer and client should be considered to be a \"promise to pay\" $250 or more. The reasons are: 1. 1/3 (typical contingency fee amount) of almost any judgment will amount to $250 or more; 2. Attorneys usually only take cases in which they are reasonably certain of collecting a fee. A circumstance that may change this analysis is if the attorney is representing a family member, or friend, and does not care about the money. JSM:plh",
+    "qa_source": "extracted",
+    "first_500_words": "TO: File DATE: November 1, 1982 File No. T-82-180 FROM: Fair Political Practices Commission Janis Shank McLean RE: Contingency Fee A contingency agreement between a lawyer and client should be considered to be a \"promise to pay\" $250 or more. The reasons are: 1. 1/3 (typical contingency fee amount) of almost any judgment will amount to $250 or more; 2. Attorneys usually only take cases in which they are reasonably certain of collecting a fee. A circumstance that may change this analysis is if the attorney is representing a family member, or friend, and does not care about the money. JSM:plh",
+    "summary": null
+  }
+}

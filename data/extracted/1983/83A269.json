@@ -1,0 +1,73 @@
+{
+  "id": "83A269",
+  "year": 1983,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1983/83A269.PDF",
+  "pdf_sha256": "55b1a705217c2b924680e8aca7ccaa9979cde8558dcdab1f2a4a8b5ec022d72a",
+  "local_pdf_path": "raw_pdfs/1983/83A269.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1983 Advice Letter # 83A269",
+    "tags": [
+      "1983",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:33:04",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1983&tagCount=1&page=22"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T21:33:34.728937Z",
+    "page_count": 1,
+    "word_count": 174,
+    "char_count": 1046,
+    "quality_score": 0.8516116918368567,
+    "olmocr_cost": 0.00259462,
+    "native_word_count": 175
+  },
+  "content": {
+    "full_text": "TO: [ ] JEANNE   [ ] JAY\n[ ] LYNN        [ ] BARBARA\n[ ] RICH        [ ] BOB S.\n[ ] HELEN       [ ] OTHER\n\nFROM: J. Pritchard\nDATE: 12/3/83\n\n[X] TELEPHONE ADVICE - SEE BELOW\n[ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT\n(IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY)\n\nFILE LOCATION: Gov. Code § 86109 and 2 Cal. Adm. Code § 18620\n\nINCLUDE IN ADVICE PACKAGE: YES [ ] NO [X]\n\nCALLER: Sunny Jung, Auditor\nREPRESENTING: Franchise Tax Board\nPHONE NUMBER:\n\nQUESTION: Are disbursements made by retained entity to IRS, FTB, Social Security, etc., for taxes and employee benefits, reportable payments by lobbyist employer?\n\nANSWER: Payments by employers for the employer's share of payroll taxes, employers share of Social Security, etc., are required to be reported as \"overhead.\" However, the amount reported should not include any portion which represents employee income tax withholding or the employee's share of Social Security, etc., because these payments are required to be included in the amount reported as \"gross salary\" to employee.",
+    "full_text_markdown": "TO: [ ] JEANNE   [ ] JAY\n[ ] LYNN        [ ] BARBARA\n[ ] RICH        [ ] BOB S.\n[ ] HELEN       [ ] OTHER\n\nFROM: J. Pritchard\nDATE: 12/3/83\n\n[X] TELEPHONE ADVICE - SEE BELOW\n[ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT\n(IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY)\n\nFILE LOCATION: Gov. Code § 86109 and 2 Cal. Adm. Code § 18620\n\nINCLUDE IN ADVICE PACKAGE: YES [ ] NO [X]\n\nCALLER: Sunny Jung, Auditor\nREPRESENTING: Franchise Tax Board\nPHONE NUMBER:\n\nQUESTION: Are disbursements made by retained entity to IRS, FTB, Social Security, etc., for taxes and employee benefits, reportable payments by lobbyist employer?\n\nANSWER: Payments by employers for the employer's share of payroll taxes, employers share of Social Security, etc., are required to be reported as \"overhead.\" However, the amount reported should not include any portion which represents employee income tax withholding or the employee's share of Social Security, etc., because these payments are required to be included in the amount reported as \"gross salary\" to employee."
+  },
+  "parsed": {
+    "date": "1983-12-03",
+    "date_raw": "12/3/83",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Are disbursements made by retained entity to IRS, FTB, Social Security, etc., for taxes and employee benefits, reportable payments by lobbyist employer?\n\nANSWER: Payments by employers for the employer's share of payroll taxes, employers share of Social Security, etc., are required to be reported as \"overhead.\" However, the amount reported should not include any portion which represents employee income tax withholding or the employee's share of Social Security, etc., because these payments are required to be included in the amount reported as \"gross salary\" to employee.",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.44999999999999996,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern"
+  },
+  "citations": {
+    "government_code": [
+      "86109"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "lobbying",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-19T21:33:34.728937Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Are disbursements made by retained entity to IRS, FTB, Social Security, etc., for taxes and employee benefits, reportable payments by lobbyist employer?\n\nANSWER: Payments by employers for the employer's share of payroll taxes, employers share of Social Security, etc., are required to be reported as \"overhead.\" However, the amount reported should not include any portion which represents employee income tax withholding or the employee's share of Social Security, etc., because these payments are required to be included in the amount reported as \"gross salary\" to employee.",
+    "qa_source": "extracted",
+    "first_500_words": "TO: [ ] JEANNE [ ] JAY [ ] LYNN [ ] BARBARA [ ] RICH [ ] BOB S. [ ] HELEN [ ] OTHER FROM: J. Pritchard DATE: 12/3/83 [X] TELEPHONE ADVICE - SEE BELOW [ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT (IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY) FILE LOCATION: Gov. Code § 86109 and 2 Cal. Adm. Code § 18620 INCLUDE IN ADVICE PACKAGE: YES [ ] NO [X] CALLER: Sunny Jung, Auditor REPRESENTING: Franchise Tax Board PHONE NUMBER: QUESTION: Are disbursements made by retained entity to IRS, FTB, Social Security, etc., for taxes and employee benefits, reportable payments by lobbyist employer? ANSWER: Payments by employers for the employer's share of payroll taxes, employers share of Social Security, etc., are required to be reported as \"overhead.\" However, the amount reported should not include any portion which represents employee income tax withholding or the employee's share of Social Security, etc., because these payments are required to be included in the amount reported as \"gross salary\" to employee.",
+    "summary": null
+  }
+}

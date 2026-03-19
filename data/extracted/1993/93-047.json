@@ -1,0 +1,76 @@
+{
+  "id": "93-047",
+  "year": 1993,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1993/93-047.pdf",
+  "pdf_sha256": "b858055711947a4c228580848cdb89d10cdcf98fe37abe55f0851fb863a4d742",
+  "local_pdf_path": "raw_pdfs/1993/93-047.pdf",
+  "source_metadata": {
+    "title_raw": "Gomes, Mayor Year: 1993 Advice Letter # 93-047",
+    "tags": [
+      "1993",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:31:40",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1993&tagCount=1&page=10"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:06.399876Z",
+    "page_count": 1,
+    "word_count": 278,
+    "char_count": 1746,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 278
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\nFebruary 1,\n1993\nBrian Libow\nCity Attorney\n—\nCity of San Pablo\nOne Alvarado Square\nSan Pablo, California\n94806\nRe:\nYour Request for Advice\nOur File No.\nA-93-047\nDear Mr.\nLibow:\nI\nam writing to confirm our telephone conversation of\nJanuary 29,\n1993 wherein we discussed your request for advice\nLetter No.\nA-93-047.\nI informed you that we only issue formal\nadvice in response to all the facts surrounding a pending\ngovernmental decision.\nSince Mayor Gomes has not even accepted\nthe public relations position with the Chamber of Commerce,\nand\nyour questions are general in nature,\nwe cannot issue advice which\nwould render immunity on issues which are not pending at this\ntime.\nI previously advised you on January 22,\n1993 that,\nin\ngeneral, there does not appear to be a “nexus”\n(as defined in\nRegulation 18702.1(d)),\nwhich would prevent the mayor from\nparticipating in city council decisions involving individual\nbusinesses which are Chamber of Commerce members.\nSince the mayor\nwould be employed by the Chamber, the individual business members\nare not considered a source of income to him.\nHowever, the Chamber of Commerce,\na registered,\nnon—profit\norganization,\nwould be a source of income to Mayor Gomes.\nPlease\nconsult Regulation 18702.5,\nwhich defines material financial\neffect for a nonprofit entity source of income indirectly involved\nin a decision.\nYou have correctly advised Mayor Gomes that he\nmust disqualify from participating in any decision in which the\nChamber is directly involved.\n(Regulation 18702.1).\nI trust this answers your questions.\nSincerely,\nJeff Marschner\nGeneral Counsel\nBy:\nJi\nLegal Division\n428 J Street, Suite 800 •\nP.O. Box 807 •\nSacramento, CA\n95812 •\n(916) 322-5660\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1993-02-01",
+    "date_raw": "February 1,\n1993",
+    "requestor_name": "Libow",
+    "requestor_title": "City Attorney",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "May a city mayor who accepts employment with the Chamber of Commerce participate in city council decisions involving individual Chamber member businesses, and what recusal requirements apply?",
+    "conclusion_synthetic": "The mayor may generally participate in decisions involving individual Chamber member businesses (no nexus under Regulation 18702.1(d) since members are not his income source), but must disqualify from decisions where the Chamber of Commerce itself is directly involved, as the Chamber would be his income source subject to material financial effect analysis under Regulation 18702.5.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is an FPPC response confirming prior telephone advice. No formal QUESTION or CONCLUSION sections present; advice provided through letter format. Cites specific regulations (18702.1(d) and 18702.5) regarding conflict of interest and recusal requirements."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [
+      "18702.1",
+      "18702.5"
+    ],
+    "prior_opinions": [],
+    "cited_by": [
+      "96-030"
+    ],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:35:06.399876Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: May a city mayor who accepts employment with the Chamber of Commerce participate in city council decisions involving individual Chamber member businesses, and what recusal requirements apply?\n\nCONCLUSION: The mayor may generally participate in decisions involving individual Chamber member businesses (no nexus under Regulation 18702.1(d) since members are not his income source), but must disqualify from decisions where the Chamber of Commerce itself is directly involved, as the Chamber would be his income source subject to material financial effect analysis under Regulation 18702.5.",
+    "qa_source": "synthetic",
+    "first_500_words": "California Fair Political Practices Commission February 1, 1993 Brian Libow City Attorney — City of San Pablo One Alvarado Square San Pablo, California 94806 Re: Your Request for Advice Our File No. A-93-047 Dear Mr. Libow: I am writing to confirm our telephone conversation of January 29, 1993 wherein we discussed your request for advice Letter No. A-93-047. I informed you that we only issue formal advice in response to all the facts surrounding a pending governmental decision. Since Mayor Gomes has not even accepted the public relations position with the Chamber of Commerce, and your questions are general in nature, we cannot issue advice which would render immunity on issues which are not pending at this time. I previously advised you on January 22, 1993 that, in general, there does not appear to be a “nexus” (as defined in Regulation 18702.1(d)), which would prevent the mayor from participating in city council decisions involving individual businesses which are Chamber of Commerce members. Since the mayor would be employed by the Chamber, the individual business members are not considered a source of income to him. However, the Chamber of Commerce, a registered, non—profit organization, would be a source of income to Mayor Gomes. Please consult Regulation 18702.5, which defines material financial effect for a nonprofit entity source of income indirectly involved in a decision. You have correctly advised Mayor Gomes that he must disqualify from participating in any decision in which the Chamber is directly involved. (Regulation 18702.1). I trust this answers your questions. Sincerely, Jeff Marschner General Counsel By: Ji Legal Division 428 J Street, Suite 800 • P.O. Box 807 • Sacramento, CA 95812 • (916) 322-5660",
+    "summary": "FPPC advises that a San Pablo mayor accepting employment with the Chamber of Commerce may participate in city decisions affecting individual Chamber member businesses but must recuse from decisions directly involving the Chamber as an organization."
+  }
+}

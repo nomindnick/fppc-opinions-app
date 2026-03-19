@@ -1,0 +1,75 @@
+{
+  "id": "81A046",
+  "year": 1981,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1981/81A046.PDF",
+  "pdf_sha256": "4a1ba3674b8fc4f438b4561aa1efbd53c4a694eb14cd84fb385402a020b95219",
+  "local_pdf_path": "raw_pdfs/1981/81A046.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1981 Advice Letter # 81A046",
+    "tags": [
+      "Advice Letter",
+      "1981"
+    ],
+    "scraped_at": "2026-01-31 15:28:11",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1981&tagCount=1&page=2"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-27T17:47:14.902288Z",
+    "page_count": 2,
+    "word_count": 499,
+    "char_count": 3412,
+    "quality_score": 0.9187342726141188,
+    "olmocr_cost": 0.0053191,
+    "native_word_count": 31,
+    "haiku_cost": 0.00598
+  },
+  "content": {
+    "full_text": "State of California\n\nFair Political Practices Commission\nP.O. BOX 607 • SACRAMENTO, 95804 • • • 1100 K STREET BUILDING, SACRAMENTO, 95814\n\nTechnical Assistance • • Administration • • Executive Level • • Enforcement • • Statements of Economic Interest\n(916) 322-5662        322-5660        322-5901        322-5441        322-6444\n\nAugust 17, 1981\n\nNancy C. Miller, Esq.\nLaw Offices of Richard H. Hyne, Inc.\n111 Capitol Mall Building, Suite 225\nSacramento, CA 95814\n                                                A-81-08-096\n\nRe: Sacramento Transit Development\n     Agency\n\nDear Nancy:\n\n     This letter is sent to confirm our telephone conversation\nof August 11, 1981, in which we discussed STDA. Our conclusion\nis that STDA does not meet the criteria for a state agency\nset forth in Commission Regulation 2, Admin. Code section\n18240. Therefore, STDA is not exempt from the import\nregistration and reporting requirements contained in Government\nCode Sections 86100-86300.\n\n     I would also like to confirm that the Commission is the\ncode reviewing body for STDA since it is a multi-county,\nlocal governmental agency. Government Code Section 3201(a).\nWe will be sending you a Notice of Deadline for the Submission\nof a Code shortly.\n\n                                        Very truly yours,\n\n\n                                        Diane Santa Pistoresi\n                                        Counsel\n                                        Legal Division\n\nDSF:plh\n\nLAW OFFICES\nOF\nRICHARD H. HYDE, INC.\n111 Capitol Mall Building, Suite 225\nSacramento, California 95814\nTelephone: (916) 447-7933\n\nJUL 20 11 15 AM '81\n\nJuly 17, 1981\n\nDiane Fishburn\nFair Political Practices Commission\n1100 \"K\" Street\nSacramento, CA 95814\n\nRe: Sacramento Transit Development Agency\n\nDear Diane:\n\nPursuant to our telephone conversation of July 13,\n1981, I am forwarding to you the Joint Powers Agreement\nbetween the City of Sacramento, County of Sacramento,\nRegional Transit District and the State of California,\ncreating the Sacramento Transit Development Agency. The\nBoard Membership, as we discussed, is comprised of State\nofficials and local officials.\n\nWe have been retained as counsel for the Agency and\nour duties may include the monitoring of legislation and\nother activities which may fall within the definition of\n\"lobbying functions. I am requesting an informal letter\nfrom the FPPC as to whether the Transit Agency is a State\nAgency for the purpose of preparation of our Conflict of\nInterest Code and Lobbyist Registration and Reporting\nRequirements. If the Agency is a State Agency, then it is my\nunderstanding that our lobbying activities on the Agency's\nbehalf would be exempt from these Registration and Reporting\nRequirements under Government Code Section 86100 - 86300.\n\nAs we discussed on the phone, it was your initial\nconclusion that the Agency is a \"State\" Agency, therefore;\n(1) the FPPC would be our code reviewing body for our\nConflict of Interest Code; and (2) under Lobbyist Registration\nand Reporting Law (GC § 86100-86300), any person who performs\n\"lobbying\" activities on its behalf would be exempt from\nreporting and registration.\n\nI would appreciate a confirming letter from you on these\ntwo points at your convenience. I would be happy to discuss\nthis with you further and provide you with any additional\ndocuments you may need.\n\nVery truly yours,\n\n[illegible signature]\nNANCY C. MILLER\n\nNCM:cr",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1981-08-17",
+    "date_raw": "August 17, 1981",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "Our conclusion is that STDA does not meet the criteria for a state agency set forth in Commission Regulation 2 Cal. Adm. Code Section 18249. Therefore, STDA is not exempt from the lobbyist registration and reporting requirements contained in Government Code Sections 86100-86300. The Commission is the code reviewing body for STDA since it is a multi-county, local governmental agency under Government Code Section 82011(a).",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Is the Sacramento Transit Development Agency (STDA) a state agency exempt from lobbyist registration and reporting requirements under Government Code Sections 86100-86300, and who is the code reviewing body for STDA's conflict of interest code?",
+    "conclusion_synthetic": "The FPPC concluded that STDA does not qualify as a state agency and therefore is not exempt from lobbyist registration and reporting requirements. The FPPC confirmed it is the code reviewing body for STDA as a multi-county local governmental agency.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document includes both the incoming request letter (from Nancy C. Miller dated July 17, 1981) and the FPPC response letter (from Diane Maury Fishburn dated August 17, 1981). Extracted information primarily from the FPPC response portion. No formal QUESTION or CONCLUSION section headers present, but substantive advice clearly provided."
+  },
+  "citations": {
+    "government_code": [
+      "82011(a)",
+      "86100"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "lobbying",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-07T16:33:40.883876Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Is the Sacramento Transit Development Agency (STDA) a state agency exempt from lobbyist registration and reporting requirements under Government Code Sections 86100-86300, and who is the code reviewing body for STDA's conflict of interest code?\n\nCONCLUSION: Our conclusion is that STDA does not meet the criteria for a state agency set forth in Commission Regulation 2 Cal. Adm. Code Section 18249. Therefore, STDA is not exempt from the lobbyist registration and reporting requirements contained in Government Code Sections 86100-86300. The Commission is the code reviewing body for STDA since it is a multi-county, local governmental agency under Government Code Section 82011(a).",
+    "qa_source": "mixed",
+    "first_500_words": "**State of California** **Fair Political Practices Commission** P.O. BOX 807 • SACRAMENTO, 95804 • • • 1100 K STREET BUILDING, SACRAMENTO, 95814 Technical Assistance • • Administration • • Executive/Legal • • Enforcement • • Statements of Economic Interest (916) 322-5662 322-5660 322-5901 322-6441 322-6444 August 17, 1981 Nancy C. Miller, Esq. Law Offices of Richard B. Hyde, Inc. 111 Capitol Mall Building, Suite 225 Sacramento, CA 95814 Re: Sacramento Transit Development Agency Dear Nancy: This letter is sent to confirm our telephone conversation of August 11, 1981, in which we discussed STDA. Our conclusion is that STDA does not meet the criteria for a state agency set forth in Commission Regulation 2 Cal. Adm. Code Section 18249. Therefore, STDA is not exempt from the lobbyist registration and reporting requirements contained in Government Code Sections 86100-86300. I would also like to confirm that the Commission is the code reviewing body for STDA since it is a multi-county, local governmental agency. Government Code Section 82011(a). We will be sending you a notice of deadline for the submission of a Code shortly. Very truly yours, Diane Maury Fishburn Counsel Legal Division DMF:plh This is a letter from the Law Offices of Richard H. Hyde, Inc., dated July 17, 1981, addressed to Diane Fishburn at the Fair Political Practices Commission in Sacramento, CA. The letter discusses the Joint Powers Agreement between the City of Sacramento, County of Sacramento, Regional Transit District, and the State of California, creating the Sacramento Transit Development Agency. The Board Membership consists of State officials and local officials. The letter states that the law firm has been retained as counsel for the Agency and may include monitoring of legislation and other activities which may fall within the definition of \"lobbying functions.\" The author requests an informal letter from the FPPC (Fair Political Practices Commission) to determine whether the Transit Agency is a State Agency for the purpose of preparation of our conflict of interest code and lobbyist registration and reporting requirements. If the Agency is a State Agency, it is understood that lobbying activities on behalf of the Agency would be exempt from these registration and reporting requirements under Government Code Section 86100 - 86300. The author mentions that the initial conclusion was that the Agency is a \"State\" Agency, therefore: (1) the FPPC would be their code reviewing body for their Conflict of Interest Code; and (2) under Lobbyist Registration and Reporting Law (GC § 86100-86300), any person who performs \"lobbying\" activities on its behalf would be exempt from reporting and registration. The author expresses appreciation for a confirming letter from the recipient on these two points at their convenience and offers to discuss this further and provide additional documents if needed. Very truly yours, Nancy C. Miller",
+    "summary": "FPPC counsel Diane Maury Fishburn advises that the Sacramento Transit Development Agency does not meet the definition of a state agency and therefore must comply with lobbyist registration and reporting requirements. The FPPC identified itself as the code reviewing body for STDA's conflict of interest code."
+  }
+}

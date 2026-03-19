@@ -1,0 +1,73 @@
+{
+  "id": "08-043",
+  "year": 2008,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2008/08-043.pdf",
+  "pdf_sha256": "39a6dccb0d2cf09268d6fa258620220bc5e899b2c8fd42bfeec32b6bc3c119d4",
+  "local_pdf_path": "raw_pdfs/2008/08-043.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2008 Advice Letter # 08-043",
+    "tags": [
+      "2008",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:47:51",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2008&tagCount=1&page=10"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T21:28:41.651688Z",
+    "page_count": 1,
+    "word_count": 100,
+    "char_count": 620,
+    "quality_score": 0.801479060827745,
+    "olmocr_cost": 0.0025112,
+    "native_word_count": 119
+  },
+  "content": {
+    "full_text": "March 25, 2008\n\nBen Hueso\n1976 Harrison Avenue\nSan Diego, CA 92113\n\nRe: Your Request for Advice\nOur File No. W-08-043\n\nDear Mr. Hueso:\n\nThis letter is to notify you that we have withdrawn the above captioned request for advice per a telephone conversation on March 24, 2008 during which I learned that your advice request is based on activities that have already occurred. The Commission will not advise with respect to past conduct. (Regulation 18329(b)(8)(A).)\n\nIf you have any questions, feel free to call me at (916) 322-5660.\n\nSincerely,\n\nScott Hallabrin\nGeneral Counsel\n\nBy: Trish Mayer\nPolitical Reform Consultant",
+    "full_text_markdown": "March 25, 2008\n\nBen Hueso\n1976 Harrison Avenue\nSan Diego, CA 92113\n\nRe: Your Request for Advice\nOur File No. W-08-043\n\nDear Mr. Hueso:\n\nThis letter is to notify you that we have withdrawn the above captioned request for advice per a telephone conversation on March 24, 2008 during which I learned that your advice request is based on activities that have already occurred. The Commission will not advise with respect to past conduct. (Regulation 18329(b)(8)(A).)\n\nIf you have any questions, feel free to call me at (916) 322-5660.\n\nSincerely,\n\nScott Hallabrin\nGeneral Counsel\n\nBy: Trish Mayer\nPolitical Reform Consultant"
+  },
+  "parsed": {
+    "date": "2008-03-25",
+    "date_raw": "March 25, 2008",
+    "requestor_name": "Hueso",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T21:28:41.651688Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "March 25, 2008 Ben Hueso 1976 Harrison Avenue San Diego, CA 92113 Re: Your Request for Advice Our File No. W-08-043 Dear Mr. Hueso: This letter is to notify you that we have withdrawn the above captioned request for advice per a telephone conversation on March 24, 2008 during which I learned that your advice request is based on activities that have already occurred. The Commission will not advise with respect to past conduct. (Regulation 18329(b)(8)(A).) If you have any questions, feel free to call me at (916) 322-5660. Sincerely, Scott Hallabrin General Counsel By: Trish Mayer Political Reform Consultant",
+    "qa_source": "extracted",
+    "first_500_words": "March 25, 2008 Ben Hueso 1976 Harrison Avenue San Diego, CA 92113 Re: Your Request for Advice Our File No. W-08-043 Dear Mr. Hueso: This letter is to notify you that we have withdrawn the above captioned request for advice per a telephone conversation on March 24, 2008 during which I learned that your advice request is based on activities that have already occurred. The Commission will not advise with respect to past conduct. (Regulation 18329(b)(8)(A).) If you have any questions, feel free to call me at (916) 322-5660. Sincerely, Scott Hallabrin General Counsel By: Trish Mayer Political Reform Consultant",
+    "summary": null
+  }
+}

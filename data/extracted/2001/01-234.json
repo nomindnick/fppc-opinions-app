@@ -1,0 +1,75 @@
+{
+  "id": "01-234",
+  "year": 2001,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2001/01-234.pdf",
+  "pdf_sha256": "17940e071e1923342e59ec0b3e412edb91eb9d27a3be00cffadd02e413033145",
+  "local_pdf_path": "raw_pdfs/2001/01-234.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2001 Advice Letter # 01-234",
+    "tags": [
+      "2001",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:53:10",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2001&tagCount=1&page=28"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T13:27:32.916520Z",
+    "page_count": 1,
+    "word_count": 137,
+    "char_count": 889,
+    "quality_score": 0.8606598383152544,
+    "olmocr_cost": 0.0025791399999999997,
+    "native_word_count": 163
+  },
+  "content": {
+    "full_text": "October 17, 2001\n\nKris Miller-Fisher, Councilmember\n527 Woodland Drive\nSierra Madre, CA 91024\n\nRe: Your Request for Advice\nOur File No. W-01-234\n\nDear Ms. Miller-Fisher:\n\nThis letter is in response to your request for advice regarding the provisions of the Political Reform Act (the \"Act\").1 I am also in receipt of your letter dated October 5, 2001, withdrawing your original request for advice. We are now closing this file based on your request. Please feel free to submit a new request for advice if your circumstances change.\n\nIf you have any other questions regarding this matter, please contact me at (916) 322-5660.\n\nSincerely,\n\nLuisa Menchaca\nGeneral Counsel\n\nBy: Jody Feldman, Staff Counsel\nLegal Division\n\nJF:jg\nI:\\AdviceLtrs\\01-234\n\n1 Government Code sections 81000 – 91014. Commission regulations appear at Title 2, sections 18109-18997, of the California Code of Regulations.",
+    "full_text_markdown": "October 17, 2001\n\nKris Miller-Fisher, Councilmember\n527 Woodland Drive\nSierra Madre, CA 91024\n\nRe: Your Request for Advice\nOur File No. W-01-234\n\nDear Ms. Miller-Fisher:\n\nThis letter is in response to your request for advice regarding the provisions of the Political Reform Act (the \"Act\").1 I am also in receipt of your letter dated October 5, 2001, withdrawing your original request for advice. We are now closing this file based on your request. Please feel free to submit a new request for advice if your circumstances change.\n\nIf you have any other questions regarding this matter, please contact me at (916) 322-5660.\n\nSincerely,\n\nLuisa Menchaca\nGeneral Counsel\n\nBy: Jody Feldman, Staff Counsel\nLegal Division\n\nJF:jg\nI:\\AdviceLtrs\\01-234\n\n1 Government Code sections 81000 – 91014. Commission regulations appear at Title 2, sections 18109-18997, of the California Code of Regulations."
+  },
+  "parsed": {
+    "date": "2001-10-17",
+    "date_raw": "October 17, 2001",
+    "requestor_name": "Miller",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [
+      "18109"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-20T13:27:32.916520Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "October 17, 2001 Kris Miller-Fisher, Councilmember 527 Woodland Drive Sierra Madre, CA 91024 Re: Your Request for Advice Our File No. W-01-234 Dear Ms. Miller-Fisher: This letter is in response to your request for advice regarding the provisions of the Political Reform Act (the \"Act\").1 I am also in receipt of your letter dated October 5, 2001, withdrawing your original request for advice. We are now closing this file based on your request. Please feel free to submit a new request for advice if your circumstances change. If you have any other questions regarding this matter, please contact me at (916) 322-5660. Sincerely, Luisa Menchaca General Counsel By: Jody Feldman, Staff Counsel Legal Division JF:jg I:\\AdviceLtrs\\01-234 1 Government Code sections 81000 – 91014. Commission regulations appear at Title 2, sections 18109-18997, of the California Code of Regulations.",
+    "qa_source": "extracted",
+    "first_500_words": "October 17, 2001 Kris Miller-Fisher, Councilmember 527 Woodland Drive Sierra Madre, CA 91024 Re: Your Request for Advice Our File No. W-01-234 Dear Ms. Miller-Fisher: This letter is in response to your request for advice regarding the provisions of the Political Reform Act (the \"Act\").1 I am also in receipt of your letter dated October 5, 2001, withdrawing your original request for advice. We are now closing this file based on your request. Please feel free to submit a new request for advice if your circumstances change. If you have any other questions regarding this matter, please contact me at (916) 322-5660. Sincerely, Luisa Menchaca General Counsel By: Jody Feldman, Staff Counsel Legal Division JF:jg I:\\AdviceLtrs\\01-234 1 Government Code sections 81000 – 91014. Commission regulations appear at Title 2, sections 18109-18997, of the California Code of Regulations.",
+    "summary": null
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "94-287",
+  "year": 1994,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1994/94-287.pdf",
+  "pdf_sha256": "43cca77cc9c9ecd50622c5db14bd33685408e33d40540fca69b55c4aae48a2b3",
+  "local_pdf_path": "raw_pdfs/1994/94-287.pdf",
+  "source_metadata": {
+    "title_raw": ", Cassady Year: 1994 Advice Letter # 94-287",
+    "tags": [
+      "1994",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:35:54",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1994&tagCount=1&page=25"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:03.718790Z",
+    "page_count": 2,
+    "word_count": 265,
+    "char_count": 1762,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 265
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\nSeptember,\n27,\n1994\nMr.\nJames R.\nSutton\nNielsen, Merksamer, Parrinello,\nMueller\n& Naylor\n591 Redwood Highway,\n#4000\nMill Valley,\nCA\n94941\nRe:\nConfirmation of Telephone Advice\nOur File No.\n1-94-287\nDear Mr.\nSutton:\nYou have requested confirmation of telephone advice provided\nto you concerning the campaign provisions of the Political Reform\nAct\n(the “Act”).-/\nBecause your question is general in nature,\nwe\nwill treat your letter as a request for informal assistance\npursuant to Regulation 18239(c) 2/\nYour letter, dated August 31,\n1994,\naccurately summarizes my\nadvice that the provisions of Regulation 18423 only apply to\nemployees or to independent contractors acting as full—time\nemployees.\n(Terry Advice Letter,\nNo. A-84-l64.)\nTherefore, if a\ncompany retains a consultant to work on a political campaign, all\nof the consultant’s time must be considered an expenditure and,\ndepending upon the circumstances,\na nonmonetary contribution.\nGovernment Code Sections 81000-91015.\nAll statutory\nreferences are to the Government Code unless otherwise indicated.\nCommission regulations appear at\n2 California Code of Regulations\nSection 18000, et q.\nAll references to regulations are to Title\n2, Division\n6 of the California Code of Regulations.\n2/\nInformal assistance does not provide the requestor with the\nimmunity provided by an opinion or formal written advice.\n(Government Code Section 83114;\n2 Cal.\nCode of Regs.\nSection\n18329(c) (3).)\n48 J Street, Suite 800 •\nP.O. Box 807 •\nSacramento, CA\n95804-0807 •\n(916) 322-5660\n\n\nOur File No.\n1-94-287\nPage\n2\nIf you have questions concerning this letter, please contact\nme at\n(916)\n322—5662.\nSincerely,\nLynda Cassady\nAssistant Division Chief\nTechnical Assistance Division\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1994-08-31",
+    "date_raw": "August 31,\n1994",
+    "requestor_name": "Sutton",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "informal_advice"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "The provisions of Regulation 18423 only apply to employees or to independent contractors acting as full-time employees. Therefore, if a company retains a consultant to work on a political campaign, all of the consultant's time must be considered an expenditure and, depending upon the circumstances, a nonmonetary contribution.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether consultant time working on political campaigns is subject to campaign expenditure and contribution requirements, specifically whether Regulation 18423 applies to consultants retained by companies.",
+    "conclusion_synthetic": "FPPC confirms that Regulation 18423 applies only to employees or full-time independent contractors. All time spent by a consultant retained by a company to work on a political campaign must be considered an expenditure and potentially a nonmonetary contribution.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is a confirmation of prior telephone advice letter. No formal Question/Conclusion sections present, but the advice and conclusion are clearly stated in the body of the letter. Document is treated as informal assistance per Regulation 18239(c), which means it does not provide immunity like formal written advice."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "83114"
+    ],
+    "regulations": [
+      "18239",
+      "18423"
+    ],
+    "prior_opinions": [],
+    "cited_by": [
+      "A-25-081"
+    ],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "gifts_honoraria",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:35:03.718790Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether consultant time working on political campaigns is subject to campaign expenditure and contribution requirements, specifically whether Regulation 18423 applies to consultants retained by companies.\n\nCONCLUSION: The provisions of Regulation 18423 only apply to employees or to independent contractors acting as full-time employees. Therefore, if a company retains a consultant to work on a political campaign, all of the consultant's time must be considered an expenditure and, depending upon the circumstances, a nonmonetary contribution.",
+    "qa_source": "mixed",
+    "first_500_words": "California Fair Political Practices Commission September, 27, 1994 Mr. James R. Sutton Nielsen, Merksamer, Parrinello, Mueller & Naylor 591 Redwood Highway, #4000 Mill Valley, CA 94941 Re: Confirmation of Telephone Advice Our File No. 1-94-287 Dear Mr. Sutton: You have requested confirmation of telephone advice provided to you concerning the campaign provisions of the Political Reform Act (the “Act”).-/ Because your question is general in nature, we will treat your letter as a request for informal assistance pursuant to Regulation 18239(c) 2/ Your letter, dated August 31, 1994, accurately summarizes my advice that the provisions of Regulation 18423 only apply to employees or to independent contractors acting as full—time employees. (Terry Advice Letter, No. A-84-l64.) Therefore, if a company retains a consultant to work on a political campaign, all of the consultant’s time must be considered an expenditure and, depending upon the circumstances, a nonmonetary contribution. Government Code Sections 81000-91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations Section 18000, et q. All references to regulations are to Title 2, Division 6 of the California Code of Regulations. 2/ Informal assistance does not provide the requestor with the immunity provided by an opinion or formal written advice. (Government Code Section 83114; 2 Cal. Code of Regs. Section 18329(c) (3).) 48 J Street, Suite 800 • P.O. Box 807 • Sacramento, CA 95804-0807 • (916) 322-5660 Our File No. 1-94-287 Page 2 If you have questions concerning this letter, please contact me at (916) 322—5662. Sincerely, Lynda Cassady Assistant Division Chief Technical Assistance Division",
+    "summary": "FPPC confirms telephone advice regarding whether consultant time on political campaigns constitutes campaign expenditures and contributions under the Political Reform Act. The FPPC advises that Regulation 18423 applies only to employees or full-time independent contractors, so consultant time must be treated as an expenditure and nonmonetary contribution."
+  }
+}

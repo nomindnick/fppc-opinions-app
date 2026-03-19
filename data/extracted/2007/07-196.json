@@ -1,0 +1,76 @@
+{
+  "id": "07-196",
+  "year": 2007,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2007/07-196.pdf",
+  "pdf_sha256": "b6de6de71b06050365942fa0dfa9100c6121211b46f21c98159e230927344282",
+  "local_pdf_path": "raw_pdfs/2007/07-196.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2007 Advice Letter # 07-196",
+    "tags": [
+      "2007",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:45:42",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2007&tagCount=1"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:04.237862Z",
+    "page_count": 2,
+    "word_count": 409,
+    "char_count": 2627,
+    "quality_score": 0.635,
+    "olmocr_cost": null,
+    "native_word_count": 409
+  },
+  "content": {
+    "full_text": "I\nFnrn Polrrrcar- PRACTTcEs CouvrrssroN\n.128 J Street r Suite 620 r Sacramento. CA 95811-2329\n(916) 322-5660 r Fax (916) 322-0886\nJanuary 25,2008\nKate Garay\n19 Sunny Oaks Drive\nSan Rafael, CA949O3\nRE: Your Facsimile Request of l2ll5l07\nOur File No. W-07-196\nDear Ms. Garay:\nThis letter responds to your inquiry regarding provisions of the Political Reform Act\n(the \"Act\") I that may apply to service as a Commissioner for a California State Government\nadvisory body. [n our telephone conversation of December 26,2007, I explained that the\nFair Political Practices Commission (the \"Commission\") provides written advice to \"any\nperson whose duties under the Act are in question or by that person's authorized\nrepresentative.\" The Commission, however, does not provide formal written advice unless\nthe name, title or position, and mailing address of the person whose duties are in question are\nprovided. (Regulation 18329 (b)(zXA). )\nThe Commission may also provide informal assistance, either orally or in writing.\n(See Regulation 18329(c).) Howevero \"the Commission may decline to provide informal\nassistance or may limit such assistance to the explanation in general terms, of the\nrequirements of the Act in any of the following circumstances:\"\n\"(C) Assistance or advice is being sought regarding the duties of\nanother person and the requestor does not appear to be authorized to make the\nrequest as the person's representative, or does not provide the identity of the\nperson on whose behalf the assistance is being sought.\" (Regulation\nr832e(c)@Xc).)\nAs we discussed in our telephone conversation, the Commissioner on whose\nbehalf you made your inquiry may contact us for written or oral advice. Additionally,\nwith respect to your question, you may wish to review Regulation 18702.4 (aX2).\nI The Political Reform Act is contained in Government Code Sections 81000 through 91014, All statutory\nreferences are to the Government Code, unless otherwise indicated. The regulations of the Fair Political Practices\nCommission are contained in Sections 18110 through 18997 of Title 2 of the California Code of Regulations. All\nregulatory references are to Title 2, Division 6 of the California Code of Regulations, unless otherwise indicated.\n\n\nFile No. W-07-196\nPage No. 2\nCommission regulations may be accessed on the web at www.l'ppc.ca.gov under the\nlibrary and publications link.\nFor the reasons stated above, we decline to provide written advice to you at this time.\nIf you have other questions on this matter, please contact me at (916) 322-5660.\nSincerely,\nScott Hallabrin\nCounsel\nBy:\nir\nSenior Counsel, Legal Division\nwJLjgl\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2008-01-25",
+    "date_raw": "January 25,2008",
+    "requestor_name": "Garay",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "For the reasons stated above, we decline to provide written advice to you at this time.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requestor asked about provisions of the Political Reform Act that may apply to service as a Commissioner for a California State Government advisory body, but sought advice on behalf of another person without providing required identifying information.",
+    "conclusion_synthetic": "The FPPC declines to provide written advice because the requestor sought assistance regarding the duties of another person without being authorized as that person's representative or providing the person's identity, which falls under Regulation 18329(c)(3)(C) as a circumstance where the Commission may decline informal assistance.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Declination letter with no formal QUESTION or CONCLUSION sections; legal basis and explanation for declination found in body text. References to specific regulations provided. Requestor instructed that the Commissioner may contact FPPC directly for advice."
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [
+      "18329",
+      "18702.4"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:34:04.237862Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The requestor asked about provisions of the Political Reform Act that may apply to service as a Commissioner for a California State Government advisory body, but sought advice on behalf of another person without providing required identifying information.\n\nCONCLUSION: For the reasons stated above, we decline to provide written advice to you at this time.",
+    "qa_source": "mixed",
+    "first_500_words": "I Fnrn Polrrrcar- PRACTTcEs CouvrrssroN .128 J Street r Suite 620 r Sacramento. CA 95811-2329 (916) 322-5660 r Fax (916) 322-0886 January 25,2008 Kate Garay 19 Sunny Oaks Drive San Rafael, CA949O3 RE: Your Facsimile Request of l2ll5l07 Our File No. W-07-196 Dear Ms. Garay: This letter responds to your inquiry regarding provisions of the Political Reform Act (the \"Act\") I that may apply to service as a Commissioner for a California State Government advisory body. [n our telephone conversation of December 26,2007, I explained that the Fair Political Practices Commission (the \"Commission\") provides written advice to \"any person whose duties under the Act are in question or by that person's authorized representative.\" The Commission, however, does not provide formal written advice unless the name, title or position, and mailing address of the person whose duties are in question are provided. (Regulation 18329 (b)(zXA). ) The Commission may also provide informal assistance, either orally or in writing. (See Regulation 18329(c).) Howevero \"the Commission may decline to provide informal assistance or may limit such assistance to the explanation in general terms, of the requirements of the Act in any of the following circumstances:\" \"(C) Assistance or advice is being sought regarding the duties of another person and the requestor does not appear to be authorized to make the request as the person's representative, or does not provide the identity of the person on whose behalf the assistance is being sought.\" (Regulation r832e(c)@Xc).) As we discussed in our telephone conversation, the Commissioner on whose behalf you made your inquiry may contact us for written or oral advice. Additionally, with respect to your question, you may wish to review Regulation 18702.4 (aX2). I The Political Reform Act is contained in Government Code Sections 81000 through 91014, All statutory references are to the Government Code, unless otherwise indicated. The regulations of the Fair Political Practices Commission are contained in Sections 18110 through 18997 of Title 2 of the California Code of Regulations. All regulatory references are to Title 2, Division 6 of the California Code of Regulations, unless otherwise indicated. File No. W-07-196 Page No. 2 Commission regulations may be accessed on the web at www.l'ppc.ca.gov under the library and publications link. For the reasons stated above, we decline to provide written advice to you at this time. If you have other questions on this matter, please contact me at (916) 322-5660. Sincerely, Scott Hallabrin Counsel By: ir Senior Counsel, Legal Division wJLjgl",
+    "summary": "This is an FPPC declination letter refusing to provide written advice to Kate Garay regarding Political Reform Act duties for a state government advisory commissioner position, because she requested advice on behalf of another person without proper authorization or identification."
+  }
+}

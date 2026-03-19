@@ -1,0 +1,73 @@
+{
+  "id": "83A034",
+  "year": 1983,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1983/83A034.PDF",
+  "pdf_sha256": "b98c86a1e70e13301335893afa80e9ceb90e22e1ad57118e6b31bd0c3b5b58de",
+  "local_pdf_path": "raw_pdfs/1983/83A034.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1983 Advice Letter # 83A034",
+    "tags": [
+      "1983",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:32:25",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1983&tagCount=1&page=13"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T13:46:07.484366Z",
+    "page_count": 1,
+    "word_count": 48,
+    "char_count": 351,
+    "quality_score": 0.748988219481341,
+    "olmocr_cost": 0.0024406799999999998,
+    "native_word_count": 51
+  },
+  "content": {
+    "full_text": "Memorandum\n\nTo: File\n\nDate: Feb. 11, 1983\nNo. T-83-034\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION\n        Janis Shank McLean\n\nSubject: Telephone Advice\n        Mr. Serato\n\nA planning commissioner who is a member of a host committee for a councilmember's fundraiser is \"soliciting\" contributions within the meaning of Government Code Section 84308.",
+    "full_text_markdown": "Memorandum\n\nTo: File\n\nDate: Feb. 11, 1983\nNo. T-83-034\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION\n        Janis Shank McLean\n\nSubject: Telephone Advice\n        Mr. Serato\n\nA planning commissioner who is a member of a host committee for a councilmember's fundraiser is \"soliciting\" contributions within the meaning of Government Code Section 84308."
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [
+      "84308"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-20T13:46:07.484366Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "**Memorandum** To: File Date: Feb. 11, 1983 No. T-83-034 From: FAIR POLITICAL PRACTICES COMMISSION Janis Shank McLean Subject: Telephone Advice Mr. Serato A planning commissioner who is a member of a host committee for a councilmember's fundraiser is \"soliciting\" contributions within the meaning of Government Code Section 84308.",
+    "qa_source": "extracted",
+    "first_500_words": "**Memorandum** To: File Date: Feb. 11, 1983 No. T-83-034 From: FAIR POLITICAL PRACTICES COMMISSION Janis Shank McLean Subject: Telephone Advice Mr. Serato A planning commissioner who is a member of a host committee for a councilmember's fundraiser is \"soliciting\" contributions within the meaning of Government Code Section 84308.",
+    "summary": null
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "81A163",
+  "year": 1981,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1981/81A163.PDF",
+  "pdf_sha256": "d8ad4b7be65aad201c28866d376d20225f3149324c86c9d6452988e00576e532",
+  "local_pdf_path": "raw_pdfs/1981/81A163.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1981 Advice Letter # 81A163",
+    "tags": [
+      "Advice Letter",
+      "1981"
+    ],
+    "scraped_at": "2026-01-31 15:28:46",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1981&tagCount=1&page=10"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:01.521435Z",
+    "page_count": 1,
+    "word_count": 283,
+    "char_count": 1703,
+    "quality_score": 0.5825,
+    "olmocr_cost": null,
+    "native_word_count": 283
+  },
+  "content": {
+    "full_text": "tate of Cali \n-a \n~1-\n-/0 3 \nfJ \nFair Political Practices CCfJmmisSJiCfJII'd. \nP.o. BOX 807 \n• \nSACRAMENTO,95804 \n• \n1100 K STREET BUILDING, SACRAMENTO, 95814 \n107 SOUTH BROADWAY \n• (; • \nSUITE 7007 \n• • • \nLOS ANGELES, 90012 \nMr. Leonard Panish \nRegistrar-Recorder \n5557 Ferguson Drive \nPost Office Box 30450 \nLos Angeles, California 90030 \nDear Mr. Panish: \nJuly 29, 1981 \nThis is in regard to Assembly Bill 516 (Robinson) which \nwas recently signed into law by the Governor and is effective \non January 1, 1982. \nThis new law provides that candidates who have filed a \ndeclaration stating that less than $500 in contributions will \nbe received or made in behalf of or in support of his or her \nown candidacy, will not be required to file semi-annual \ncampaign statements. \nTherefore, candidates in a June or November elections, \nwould also be allowed to file a Form 470, Candidates and \nOfficeholders Short form, if they did not anticipate receiving \nor expending less than $500 in behalf of their candidacies \nduring the calendar year. \nIt is the view of the staff of \nthe Commission that, (1) since the bill has already been \nsigned into law, and, (2) the language of the form 470 currently \nstates these same requirements, we will allow candidates filing \nin connection with the November 3, 1981 election to use the form \n470 if they do not anticipate receiving or expending $500 or \nmore in behalf of their· own candidacies. \nIf we can be of any further assistance, please do not \nhesitate to contact our office. \nHPA:jg \ncc: \nGeorge Vertelney \nSACRAMENTO (916) 322·5660 \n-~::..---~.-.. -.... -.-. \n-\n... -~.-. \n~ _. _. --\n-\n• \nHelen P. \nPolitical Reform \nConsultant \nlOS ANGELES (213) 620-5196 \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1981-07-29",
+    "date_raw": "July 29, 1981",
+    "requestor_name": "Panish",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "It is the view of the staff of the Commission that, (1) since the bill has already been signed into law, and, (2) the language of the form 470 currently states these same requirements, we will allow candidates filing in connection with the November 3, 1981 election to use the form 470 if they do not anticipate receiving or expending $500 or more in behalf of their own candidacies.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "May candidates in the November 3, 1981 election use Form 470 (short form) if they do not anticipate receiving or expending $500 or more in campaign contributions and expenditures, given the recent enactment of Assembly Bill 516?",
+    "conclusion_synthetic": "The FPPC staff determines that candidates in the November 3, 1981 election may use Form 470 (short form) if they do not anticipate receiving or expending $500 or more, based on Assembly Bill 516 and the existing form language. This allowance is granted because the bill is already signed into law and Form 470 already contains these same requirements.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is a correspondence/advice letter from FPPC staff to an official regarding implementation of AB 516. No formal QUESTION or CONCLUSION section headers present, but clear Q/A structure exists. Form and requirements are referenced but not fully quoted. Letter is addressed to Registrar-Recorder and cc'd to George Vertelney."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:01.521435Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: May candidates in the November 3, 1981 election use Form 470 (short form) if they do not anticipate receiving or expending $500 or more in campaign contributions and expenditures, given the recent enactment of Assembly Bill 516?\n\nCONCLUSION: It is the view of the staff of the Commission that, (1) since the bill has already been signed into law, and, (2) the language of the form 470 currently states these same requirements, we will allow candidates filing in connection with the November 3, 1981 election to use the form 470 if they do not anticipate receiving or expending $500 or more in behalf of their own candidacies.",
+    "qa_source": "mixed",
+    "first_500_words": "tate of Cali -a ~1- -/0 3 fJ Fair Political Practices CCfJmmisSJiCfJII'd. P.o. BOX 807 • SACRAMENTO,95804 • 1100 K STREET BUILDING, SACRAMENTO, 95814 107 SOUTH BROADWAY • (; • SUITE 7007 • • • LOS ANGELES, 90012 Mr. Leonard Panish Registrar-Recorder 5557 Ferguson Drive Post Office Box 30450 Los Angeles, California 90030 Dear Mr. Panish: July 29, 1981 This is in regard to Assembly Bill 516 (Robinson) which was recently signed into law by the Governor and is effective on January 1, 1982. This new law provides that candidates who have filed a declaration stating that less than $500 in contributions will be received or made in behalf of or in support of his or her own candidacy, will not be required to file semi-annual campaign statements. Therefore, candidates in a June or November elections, would also be allowed to file a Form 470, Candidates and Officeholders Short form, if they did not anticipate receiving or expending less than $500 in behalf of their candidacies during the calendar year. It is the view of the staff of the Commission that, (1) since the bill has already been signed into law, and, (2) the language of the form 470 currently states these same requirements, we will allow candidates filing in connection with the November 3, 1981 election to use the form 470 if they do not anticipate receiving or expending $500 or more in behalf of their· own candidacies. If we can be of any further assistance, please do not hesitate to contact our office. HPA:jg cc: George Vertelney SACRAMENTO (916) 322·5660 -~::..---~.-.. -.... -.-. - ... -~.-. ~ _. _. -- - • Helen P. Political Reform Consultant lOS ANGELES (213) 620-5196",
+    "summary": "The FPPC advises the Los Angeles County Registrar-Recorder that Assembly Bill 516, effective January 1, 1982, allows candidates to use the short form (Form 470) if they do not anticipate $500 or more in campaign activity, and permits candidates in the November 1981 election to use this form immediately."
+  }
+}

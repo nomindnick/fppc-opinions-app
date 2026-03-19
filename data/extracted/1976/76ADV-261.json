@@ -1,0 +1,71 @@
+{
+  "id": "76ADV-261",
+  "year": 1976,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1976/76ADV-261.PDF",
+  "pdf_sha256": "a285997fbf468f1d76116fe38f18bdc3db01aa5b1d36690a070d5ca9c500c7e6",
+  "local_pdf_path": "raw_pdfs/1976/76ADV-261.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1976ADV Advice Letter # 76ADV-261",
+    "tags": [
+      "1976",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:18:25",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1976&tagCount=1&page=52"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-07T17:18:37.964677Z",
+    "page_count": 1,
+    "word_count": 154,
+    "char_count": 1041,
+    "quality_score": 0.7175,
+    "olmocr_cost": 0.0025456,
+    "native_word_count": 6
+  },
+  "content": {
+    "full_text": "September 7, 1976\n\nMr. Robert Naylor  \nPillsbury, Madison & Sutro  \nPost Office Box 7880  \nSan Francisco, California 94120  \n\nDear Mr. Naylor:\n\nThis letter is to confirm my advice to you about the reporting of cumulative contributions by your client, Standard Oil Company.\n\nI advised that all contributions to a single candidate or committee must be combined for a period beginning with the closing date of the last post-election statement filed and ending with the filing of the next post-election statement. If a person has not filed a post-election statement since the effective date of the Political Reform Act, the period begins January 7, 1975. Therefore, after filing the post-election statement for the 1976 primary election, Standard Oil should begin cumulating contributions anew for purposes of reporting in connection with the November general election.\n\nI hope this information clarifies your client's campaign disclosure filing requirements.\n\nSincerely,\n\nNan Hambleton  \nSpecial Compliance Representative\n\nNH:bw\n\nbcc: Jeanne P.",
+    "full_text_markdown": "September 7, 1976\n\nMr. Robert Naylor  \nPillsbury, Madison & Sutro  \nPost Office Box 7880  \nSan Francisco, California 94120  \n\nDear Mr. Naylor:\n\nThis letter is to confirm my advice to you about the reporting of cumulative contributions by your client, Standard Oil Company.\n\nI advised that all contributions to a single candidate or committee must be combined for a period beginning with the closing date of the last post-election statement filed and ending with the filing of the next post-election statement. If a person has not filed a post-election statement since the effective date of the Political Reform Act, the period begins January 7, 1975. Therefore, after filing the post-election statement for the 1976 primary election, Standard Oil should begin cumulating contributions anew for purposes of reporting in connection with the November general election.\n\nI hope this information clarifies your client's campaign disclosure filing requirements.\n\nSincerely,\n\nNan Hambleton  \nSpecial Compliance Representative\n\nNH:bw\n\nbcc: Jeanne P."
+  },
+  "parsed": {
+    "date": "1976-09-07",
+    "date_raw": "September 7, 1976",
+    "requestor_name": "Naylor",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "How should cumulative contributions by Standard Oil Company to candidates or committees be reported for campaign disclosure purposes?",
+    "conclusion_synthetic": "All contributions to a single candidate or committee must be combined for the reporting period between post-election statements. After filing the post-election statement for the 1976 primary election, Standard Oil should begin cumulating contributions anew for the November general election reporting.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: No formal QUESTION or CONCLUSION sections; letter is written as confirmation of prior verbal advice. Key information extracted from body paragraphs."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T17:18:37.964677Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: How should cumulative contributions by Standard Oil Company to candidates or committees be reported for campaign disclosure purposes?\n\nCONCLUSION: All contributions to a single candidate or committee must be combined for the reporting period between post-election statements. After filing the post-election statement for the 1976 primary election, Standard Oil should begin cumulating contributions anew for the November general election reporting.",
+    "qa_source": "synthetic",
+    "first_500_words": "September 7, 1976 Mr. Robert Naylor Pillsbury, Madison & Sutro Post Office Box 7880 San Francisco, California 94120 Dear Mr. Naylor: This letter is to confirm my advice to you about the reporting of cumulative contributions by your client, Standard Oil Company. I advised that all contributions to a single candidate or committee must be combined for a period beginning with the closing date of the last post-election statement filed and ending with the filing of the next post-election statement. If a person has not filed a post-election statement since the effective date of the Political Reform Act, the period begins January 7, 1975. Therefore, after filing the post-election statement for the 1976 primary election, Standard Oil should begin cumulating contributions anew for purposes of reporting in connection with the November general election. I hope this information clarifies your client's campaign disclosure filing requirements. Sincerely, Nan Hambleton Special Compliance Representative NH:bw bcc: Jeanne P.",
+    "summary": "FPPC confirms advice regarding Standard Oil Company's cumulative contribution reporting requirements, specifying that contributions must be combined between post-election statement periods and reset after each election cycle."
+  }
+}

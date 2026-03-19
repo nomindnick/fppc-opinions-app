@@ -1,0 +1,71 @@
+{
+  "id": "79-191",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-191.PDF",
+  "pdf_sha256": "63a9201c9d581756deff96beda959fcf58260b8124dec3949d57f65ba0be9196",
+  "local_pdf_path": "raw_pdfs/1979/79-191.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1979 Advice Letter # 79-191",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:25:28",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=2"
+  },
+  "extraction": {
+    "method": "native+olmocr",
+    "extracted_at": "2026-02-08T17:13:09.022627Z",
+    "page_count": 1,
+    "word_count": 30,
+    "char_count": 166,
+    "quality_score": 0.33999999999999997,
+    "olmocr_cost": 0.00237962,
+    "native_word_count": 30
+  },
+  "content": {
+    "full_text": "~/LUI \nIncome \nporting is on cash basis \n1/ \nChapter 7 reporting is on a cash basis unless the filer \ndecides he would rather report every thin on an accrued basis. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "Chapter 7 reporting is on a cash basis unless the filer decides he would rather report every thing on an accrued basis.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether Chapter 7 income reporting under FPPC regulations should be conducted on a cash basis or accrued basis.",
+    "conclusion_synthetic": "FPPC advises that Chapter 7 reporting follows a cash basis by default, but filers have the option to elect an accrued basis reporting method instead.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.5,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document fragment with minimal context. No clear question or conclusion sections identified. Text appears to be an excerpt or partial document. Interpretation of 'Chapter 7' and specific regulatory context uncertain. Only two sentences of substantive content provided."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-08T17:13:09.022627Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether Chapter 7 income reporting under FPPC regulations should be conducted on a cash basis or accrued basis.\n\nCONCLUSION: Chapter 7 reporting is on a cash basis unless the filer decides he would rather report every thing on an accrued basis.",
+    "qa_source": "mixed",
+    "first_500_words": "~/LUI Income porting is on cash basis 1/ Chapter 7 reporting is on a cash basis unless the filer decides he would rather report every thin on an accrued basis.",
+    "summary": "FPPC advice letter addressing the reporting basis (cash vs. accrued) for Chapter 7 income reporting requirements. Filers may choose between cash basis (default) or accrued basis reporting."
+  }
+}

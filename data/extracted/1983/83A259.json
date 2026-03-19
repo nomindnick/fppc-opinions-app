@@ -1,0 +1,75 @@
+{
+  "id": "83A259",
+  "year": 1983,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1983/83A259.PDF",
+  "pdf_sha256": "576fdddf55f77f6b1bae93301f18341167ee064dffde0a4769f9864539dcb020",
+  "local_pdf_path": "raw_pdfs/1983/83A259.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1983 Advice Letter # 83A259",
+    "tags": [
+      "1983",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:32:42",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1983&tagCount=1&page=17"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:52.803832Z",
+    "page_count": 2,
+    "word_count": 256,
+    "char_count": 1707,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 256
+  },
+  "content": {
+    "full_text": "(916) 322·5662 \nMr. John I. Mahan \n1212 Los Padres Blvd. \nSanta Clara, CA \n95050 \nDear Mr. Mahan: \nAdministration \n322·5660 \nExecutive/legal \n322·5901 \nEnforcement \n322-6441 \nDecember 6, 1983 \nStatements of Economic Interest \n322-6444 \nRe: \nYour Request for Advice; Our \nAdvice No. A-83/259 \nThank you for your letter requesting information about the \nPolitical Reform Act. \nSpecifically, you asked whether a \nparticular political advertisement, paid for by your opponent, \nsatisfies the requirements of the Political Reform Act. \nBecause \nyou are asking about the activities of a person other than \nyourself, I can only provide you with general, rather than \nspecific, advice. \nThe provisions of the Political Reform Act related to \npolitical advertisements require: \n1. \nThat contributions and expenditures for such \nadvertisements be reported (Government Code Sections \n84200-842171/), and \n2. \nThat, in the case of mass mailings, the sender must \nshow, on the outside of each envelope and on at least one of \nthe inserts included within each piece of mail, the sender's \nname, street address and city in no less than six-point type \n(Section 84305) • \nThe Act does not contain any provisions regulating the \ncontent of advertisements, nor does it regulate the format of \nnewspaper advertisements. \n1/ Hereinafter all statutory references are to the \nGovernment Code unless otherwise indicated. \n\n\nMr. John I. Mahan \nDecember 6, 1983 \nPage Two \nThank you again for consulting us on this matter. \nPlease \nremember that my advice is confined solely to the provisions of \nthe Political Reform Act (Section 81000, ~ \n~.). \nVery truly yours, \n2~~'XB6Il/ \nJanis Shank McLean \nCounsel, Legal Division \nJSM: km \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1983-12-06",
+    "date_raw": "December 6, 1983",
+    "requestor_name": "Mahan",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "whether a particular political advertisement, paid for by your opponent, satisfies the requirements of the Political Reform Act",
+    "conclusion": "The provisions of the Political Reform Act related to political advertisements require: 1. That contributions and expenditures for such advertisements be reported (Government Code Sections 84200-84217), and 2. That, in the case of mass mailings, the sender must show, on the outside of each envelope and on at least one of the inserts included within each piece of mail, the sender's name, street address and city in no less than six-point type (Section 84305). The Act does not contain any provisions regulating the content of advertisements, nor does it regulate the format of newspaper advertisements.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Does a particular political advertisement paid for by the requester's opponent comply with the Political Reform Act's requirements?",
+    "conclusion_synthetic": "The Political Reform Act requires reporting of contributions and expenditures for political advertisements and, for mass mailings, identification of the sender with name, street address, and city in at least six-point type. The Act does not regulate advertisement content or format for newspaper advertisements.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Standard advice letter format with clear question and conclusion sections. Document identifies itself as 'Advice No. A-83/259'. Advice limited to general guidance rather than specific advice regarding another person's activities."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "84200",
+      "84305"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.6666666666666666,
+    "classified_at": "2026-02-06T18:36:52.803832Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: whether a particular political advertisement, paid for by your opponent, satisfies the requirements of the Political Reform Act\n\nCONCLUSION: The provisions of the Political Reform Act related to political advertisements require: 1. That contributions and expenditures for such advertisements be reported (Government Code Sections 84200-84217), and 2. That, in the case of mass mailings, the sender must show, on the outside of each envelope and on at least one of the inserts included within each piece of mail, the sender's name, street address and city in no less than six-point type (Section 84305). The Act does not contain any provisions regulating the content of advertisements, nor does it regulate the format of newspaper advertisements.",
+    "qa_source": "mixed",
+    "first_500_words": "(916) 322·5662 Mr. John I. Mahan 1212 Los Padres Blvd. Santa Clara, CA 95050 Dear Mr. Mahan: Administration 322·5660 Executive/legal 322·5901 Enforcement 322-6441 December 6, 1983 Statements of Economic Interest 322-6444 Re: Your Request for Advice; Our Advice No. A-83/259 Thank you for your letter requesting information about the Political Reform Act. Specifically, you asked whether a particular political advertisement, paid for by your opponent, satisfies the requirements of the Political Reform Act. Because you are asking about the activities of a person other than yourself, I can only provide you with general, rather than specific, advice. The provisions of the Political Reform Act related to political advertisements require: 1. That contributions and expenditures for such advertisements be reported (Government Code Sections 84200-842171/), and 2. That, in the case of mass mailings, the sender must show, on the outside of each envelope and on at least one of the inserts included within each piece of mail, the sender's name, street address and city in no less than six-point type (Section 84305) • The Act does not contain any provisions regulating the content of advertisements, nor does it regulate the format of newspaper advertisements. 1/ Hereinafter all statutory references are to the Government Code unless otherwise indicated. Mr. John I. Mahan December 6, 1983 Page Two Thank you again for consulting us on this matter. Please remember that my advice is confined solely to the provisions of the Political Reform Act (Section 81000, ~ ~.). Very truly yours, 2~~'XB6Il/ Janis Shank McLean Counsel, Legal Division JSM: km",
+    "summary": "Mr. Mahan requested advice on whether an opponent's political advertisement complies with the Political Reform Act. The FPPC provided general guidance on disclosure and identification requirements for political advertisements under the Act."
+  }
+}

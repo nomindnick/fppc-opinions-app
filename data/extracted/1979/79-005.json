@@ -1,0 +1,76 @@
+{
+  "id": "79-005",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-005.PDF",
+  "pdf_sha256": "2d3ca9c14c54df18dc51bcd7fd9b36b0ac3a93a32047b79682aced7eba97ec39",
+  "local_pdf_path": "raw_pdfs/1979/79-005.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1979 Advice Letter # 79-005",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:25:34",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=3"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:05.302703Z",
+    "page_count": 1,
+    "word_count": 236,
+    "char_count": 1563,
+    "quality_score": 0.8,
+    "olmocr_cost": null,
+    "native_word_count": 236
+  },
+  "content": {
+    "full_text": "File \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nLee C. Rosenthal \nDate \nApril 10, 1979 \nLobbying of the Commission with respect to Conflict Codes, \n82002, 82039 and 87311 \nAt the 4/9/79 opinion request meeting, we decided that agency \nofficials who lobby the Commission with respect to their agencies' \nconflict of interest codes will not qualify as lobbyists under \nSection 82039. \nFor state agency officials, this conclusion is based \non the Section 86300(a) exemption from the lobbyist provisions of \nthe Act for state employees. \nFor mUlti-county local agencies, boards of supervisors and city \ncouncils \nwho, pursuant to Section 82011, must have their codes \nreviewed by the Commission, the conclusion is based upon the fact \nthat Commission review of codes is quasi-judicial in nature and, \ntherefore, does not constitute \"administrative action\" under \nSection 82002. \nThe code reviewing process, for the most part, in-\nvolves application of the Act's general rules for contents of codes \nto the specific circumstances of each agency. \nIt is the function \nof the agency and the positions within it that are examined in \norder to determine which employees should be designated and what \nshould be disclosed by those designated. \nBecause the code review \nprocess involves application of previously promulgated rules to \nthe specific facts before the Commission, the process is best \ncharacterized as quasi-judicial rather than quasi-legislative. \nSee \nanalysis in Opinion Requested by J. L. Evans, 4 FPPC Opinions 54 \n(No. 78-008-B, Nov. 8, 1978). \nLCR:plh \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1979-04-10",
+    "date_raw": "April 10, 1979",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "Agency officials who lobby the Commission with respect to their agencies' conflict of interest codes will not qualify as lobbyists under Section 82039. For state agency officials, this is based on the Section 86300(a) exemption from lobbyist provisions. For multi-county local agencies, boards of supervisors and city councils, this is based on the fact that Commission code review is quasi-judicial in nature and does not constitute 'administrative action' under Section 82002.",
+    "facts": null,
+    "analysis": "in Opinion Requested by J. L. Evans, 4 FPPC Opinions 54 \n(No. 78-008-B, Nov. 8, 1978). \nLCR:plh",
+    "question_synthetic": "Are agency officials who lobby the FPPC regarding their agencies' conflict of interest codes subject to lobbyist registration requirements under California law?",
+    "conclusion_synthetic": "The FPPC concluded that agency officials lobbying the Commission regarding conflict of interest codes are exempt from lobbyist registration requirements. State employees are exempt under Section 86300(a), while local agency officials are exempt because code review by the Commission is quasi-judicial rather than involving administrative action.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "Format: ocr; LLM: OCR document; no formal QUESTION or CONCLUSION headers present but content clearly identifies the legal question and FPPC's response; letter dated 4/10/1979 from Lee C. Rosenthal regarding FPPC opinion decision from 4/9/79 meeting"
+  },
+  "citations": {
+    "government_code": [
+      "82002",
+      "82011",
+      "82039",
+      "86300(a)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:37:05.302703Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Are agency officials who lobby the FPPC regarding their agencies' conflict of interest codes subject to lobbyist registration requirements under California law?\n\nCONCLUSION: Agency officials who lobby the Commission with respect to their agencies' conflict of interest codes will not qualify as lobbyists under Section 82039. For state agency officials, this is based on the Section 86300(a) exemption from lobbyist provisions. For multi-county local agencies, boards of supervisors and city councils, this is based on the fact that Commission code review is quasi-judicial in nature and does not constitute 'administrative action' under Section 82002.",
+    "qa_source": "mixed",
+    "first_500_words": "File From FAIR POLITICAL PRACTICES COMMISSION Lee C. Rosenthal Date April 10, 1979 Lobbying of the Commission with respect to Conflict Codes, 82002, 82039 and 87311 At the 4/9/79 opinion request meeting, we decided that agency officials who lobby the Commission with respect to their agencies' conflict of interest codes will not qualify as lobbyists under Section 82039. For state agency officials, this conclusion is based on the Section 86300(a) exemption from the lobbyist provisions of the Act for state employees. For mUlti-county local agencies, boards of supervisors and city councils who, pursuant to Section 82011, must have their codes reviewed by the Commission, the conclusion is based upon the fact that Commission review of codes is quasi-judicial in nature and, therefore, does not constitute \"administrative action\" under Section 82002. The code reviewing process, for the most part, in- volves application of the Act's general rules for contents of codes to the specific circumstances of each agency. It is the function of the agency and the positions within it that are examined in order to determine which employees should be designated and what should be disclosed by those designated. Because the code review process involves application of previously promulgated rules to the specific facts before the Commission, the process is best characterized as quasi-judicial rather than quasi-legislative. See analysis in Opinion Requested by J. L. Evans, 4 FPPC Opinions 54 (No. 78-008-B, Nov. 8, 1978). LCR:plh",
+    "summary": "The FPPC addressed whether agency officials who lobby the Commission regarding their agencies' conflict of interest codes must register as lobbyists, concluding they do not qualify as lobbyists under Section 82039 based on applicable exemptions and the quasi-judicial nature of the code review process."
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "79-186",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-186.PDF",
+  "pdf_sha256": "b1262338abcdfee2850d098a8483d5fe08af703240c8174a3deb6ed8e7de03f1",
+  "local_pdf_path": "raw_pdfs/1979/79-186.PDF",
+  "source_metadata": {
+    "title_raw": "TORRES, ART Year: 1979 Advice Letter # 79-186",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:25:56",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=8"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-27T17:03:20.148046Z",
+    "page_count": 1,
+    "word_count": 303,
+    "char_count": 1875,
+    "quality_score": 0.9775351525835608,
+    "olmocr_cost": 0.00265482,
+    "native_word_count": 0,
+    "haiku_cost": 0.0031479999999999998
+  },
+  "content": {
+    "full_text": "State of California\nFair Political Practices Commission\n\nP.O. BOX 807 • SACRAMENTO, 95814 • • • 1100 K STREET BUILDING, SACRAMENTO, 95814\n\nTechnical Assistance Administration • • • Executive-Legal • • • Enforcement • • • Conflict of Interest\n(916) 322-5660        322-5991        322-6441        322-6144\n\nMarch 12, 1979\n\nAssemblyman Art Torres\n5261 East Beverly Blvd.\nLos Angeles, CA 91022\n\nATTENTION: Cher McIntyre\n\nDear Ms. McIntyre:\n\nThe purpose of this letter is to confirm in writing the informal advice rendered by me during our telephone conversation of February 16, 1979.\n\nThe facts as presented were that Assemblyman Torres purchased, during the latter part of 1978, a house he intends to use as his principal residence. Assemblyman Torres expects to close escrow and move into his new home within 30 days.\n\nThe question you asked us was whether the house Assemblyman Torres purchased is a reportable interest in real property that should be listed on his annual Statement. I advised you that the house need not be reported on his statement pursuant to Government Code Section 87206.5. That section provides that one need not disclose his principal place of residence as an interest in real property on his statement of economic interest. Since the home in question was purchased for the purpose of serving as the Assemblyman's principal place of residence and since he will move into the home within 30 days, the home rightfully may be defined as the Assemblyman's principal place of residence within the meaning of 87206.5. However, I cautioned you that if the house was tied up in escrow for an extended period of time, the interest may become reportable.\n\nI hope that my advice was helpful. If you have any questions regarding this matter, please do not hesitate to contact me.\n\nSincerely,\n\nDwight Dickerson\nLegal Counsel\nConflicts of Interest Division\n\nDED:mfa",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1979-03-12",
+    "date_raw": "March 12, 1979",
+    "requestor_name": "Mc",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "whether the house Assemblyman Torres purchased is a reportable interest in real property that should be listed on his annual Statement",
+    "conclusion": "the house need not be reported on his statement pursuant to Government Code Section 87206.5. That section provides that one need not disclose his principal place of residence as an interest in real property on his statement of economic interest. Since the home in question was purchased for the purpose of serving as the Assemblyman's principal place of residence and since he will move into the home within 30 days, the home rightfully may be defined as the Assemblyman's principal place of residence within the meaning of 87206.5. However, I cautioned you that if the house was tied up in escrow for an extended period of time, the interest may become reportable.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a house purchased by Assemblyman Torres for use as his principal residence constitutes a reportable interest in real property under the Government Code statement of economic interest requirements.",
+    "conclusion_synthetic": "The house does not need to be reported as it qualifies as the Assemblyman's principal place of residence under Government Code Section 87206.5, provided the escrow closes and move-in occurs within 30 days as anticipated. If escrow extends significantly beyond this timeframe, the property may become reportable.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is a confirmation letter of informal telephone advice. Contains clear question and conclusion sections embedded in narrative form. Reference to specific Government Code section (87206.5) provided. Conditional advice given regarding escrow timeline."
+  },
+  "citations": {
+    "government_code": [
+      "87206"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [
+      "05-251"
+    ],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T16:48:03.406788Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: whether the house Assemblyman Torres purchased is a reportable interest in real property that should be listed on his annual Statement\n\nCONCLUSION: the house need not be reported on his statement pursuant to Government Code Section 87206.5. That section provides that one need not disclose his principal place of residence as an interest in real property on his statement of economic interest. Since the home in question was purchased for the purpose of serving as the Assemblyman's principal place of residence and since he will move into the home within 30 days, the home rightfully may be defined as the Assemblyman's principal place of residence within the meaning of 87206.5. However, I cautioned you that if the house was tied up in escrow for an extended period of time, the interest may become reportable.",
+    "qa_source": "mixed",
+    "first_500_words": "March 12, 1979 Assemblyman Art Torres 5261 East Beverly Blvd. Los Angeles, CA 91022 ATTENTION: Cher McIntyre Dear Ms. McIntyre: The purpose of this letter is to confirm in writing the informal advice rendered by me during our telephone conversation of February 16, 1979. The facts as presented were that Assemblyman Torres purchased, during the latter part of 1978, a house he intends to use as his principal residence. Assemblyman Torres expects to close escrow and move into his new home within 30 days. The question you asked us was whether the house Assemblyman Torres purchased is a reportable interest in real property that should be listed on his annual Statement. I advised you that the house need not be reported on his statement pursuant to Government Code Section 87206.5. That section provides that one need not disclose his principal place of residence as an interest in real property on his statement of economic interest. Since the home in question was purchased for the purpose of serving as the Assemblyman's principal place of residence and since he will move into the home within 30 days, the home rightfully may be defined as the Assemblyman's principal place of residence within the meaning of 87206.5. However, I cautioned you that if the house was tied up in escrow for an extended period of time, the interest may become reportable. I hope that my advice was helpful. If you have any questions regarding this matter, please do not hesitate to contact me. Sincerely, Dwight Dickerson Legal Counsel Conflicts of Interest Division",
+    "summary": "FPPC legal counsel advises that Assemblyman Torres' newly purchased home intended as his principal residence need not be reported on his statement of economic interest under Government Code Section 87206.5, provided he moves in within 30 days."
+  }
+}

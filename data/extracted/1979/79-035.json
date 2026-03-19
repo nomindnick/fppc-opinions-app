@@ -1,0 +1,71 @@
+{
+  "id": "79-035",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-035.PDF",
+  "pdf_sha256": "f5894557136031537602d312ae30bb8ac606dab771ecb602a9669fea2eef80fd",
+  "local_pdf_path": "raw_pdfs/1979/79-035.PDF",
+  "source_metadata": {
+    "title_raw": "ALLEN, MRS. Year: 1979 Advice Letter # 79-035",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:26:22",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=14"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-07T16:50:53.014148Z",
+    "page_count": 1,
+    "word_count": 334,
+    "char_count": 2102,
+    "quality_score": 0.7175,
+    "olmocr_cost": 0.00270814,
+    "native_word_count": 0
+  },
+  "content": {
+    "full_text": "December 10, 1979\n\nMrs. Howard Allen  \n3750 El Canto Drive  \nSpring Valley, California 92077  \n\nDear Mrs. Allen:\n\nI am responding to your inquiry concerning an advertisement that appeared in the San Diego Union on Tuesday, November 27, 1979. You ask whether campaign funds were used to pay for the advertisement and if such a use of campaign funds is lawful.\n\nBecause the advertisement does not expressly advocate the nomination, election or defeat of a clearly identified candidate or the qualification, passage or defeat of a clearly identified ballot measure, it does not constitute an expenditure for political purposes and is not reportable under the California Political Reform Act unless it was made by an organization formed or existing primarily for political purpose. I do not know whether either the Stand Up for America Committee or the Foundation for Constitutional Education is such an organization. If either of these entities has raised $500 for California political purposes during a single calendar year, it should have filed a statement or organization within 10 days of raising the $500 with the Secretary of State. You can find out if such a statement of organization was filed by calling 916/322-4880.\n\nIf the advertisement was purchased by an organization formed or existing primarily for political purposes, that organization would be required to disclose the expenditure on its campaign statements. When those statements are filed will depend upon other activities of the groups, because the advertisement does not on its face constitute an expenditure for political purposes. If campaign statements are required to be filed by either group, the one certain place they would be filed is with the clerk of the county of the group's domicile. The domicile of the group would appear on the statement of organization filed with the Secretary of State.\n\nThe Political Reform Act, to which my answer to your question must be limited, does not prohibit the expenditure of campaign funds for the purchase of such an advertisement.\n\nSincerely,\n\nJohn Giansello  \nPolitical Reform Analyst",
+    "full_text_markdown": "December 10, 1979\n\nMrs. Howard Allen  \n3750 El Canto Drive  \nSpring Valley, California 92077  \n\nDear Mrs. Allen:\n\nI am responding to your inquiry concerning an advertisement that appeared in the San Diego Union on Tuesday, November 27, 1979. You ask whether campaign funds were used to pay for the advertisement and if such a use of campaign funds is lawful.\n\nBecause the advertisement does not expressly advocate the nomination, election or defeat of a clearly identified candidate or the qualification, passage or defeat of a clearly identified ballot measure, it does not constitute an expenditure for political purposes and is not reportable under the California Political Reform Act unless it was made by an organization formed or existing primarily for political purpose. I do not know whether either the Stand Up for America Committee or the Foundation for Constitutional Education is such an organization. If either of these entities has raised $500 for California political purposes during a single calendar year, it should have filed a statement or organization within 10 days of raising the $500 with the Secretary of State. You can find out if such a statement of organization was filed by calling 916/322-4880.\n\nIf the advertisement was purchased by an organization formed or existing primarily for political purposes, that organization would be required to disclose the expenditure on its campaign statements. When those statements are filed will depend upon other activities of the groups, because the advertisement does not on its face constitute an expenditure for political purposes. If campaign statements are required to be filed by either group, the one certain place they would be filed is with the clerk of the county of the group's domicile. The domicile of the group would appear on the statement of organization filed with the Secretary of State.\n\nThe Political Reform Act, to which my answer to your question must be limited, does not prohibit the expenditure of campaign funds for the purchase of such an advertisement.\n\nSincerely,\n\nJohn Giansello  \nPolitical Reform Analyst"
+  },
+  "parsed": {
+    "date": "1979-12-10",
+    "date_raw": "December 10, 1979",
+    "requestor_name": "Allen",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "You ask whether campaign funds were used to pay for the advertisement and if such a use of campaign funds is lawful.",
+    "conclusion": "The Political Reform Act, to which my answer to your question must be limited, does not prohibit the expenditure of campaign funds for the purchase of such an advertisement.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether campaign funds were used to pay for a specific advertisement that appeared in the San Diego Union on November 27, 1979, and whether such use of campaign funds is lawful under California law.",
+    "conclusion_synthetic": "The advertisement does not constitute a reportable political expenditure unless made by an organization formed primarily for political purposes. If such an organization purchased the ad and has raised $500+ for California political purposes in a calendar year, it must file a statement of organization and disclose the expenditure on campaign statements. Campaign funds may be lawfully used for this type of advertisement under the Political Reform Act.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: No formal QUESTION or CONCLUSION section headers; extracted question and conclusion from letter body. Letter directly answers whether campaign funds can be used for the advertisement and whether it is lawful."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T16:50:53.014148Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: You ask whether campaign funds were used to pay for the advertisement and if such a use of campaign funds is lawful.\n\nCONCLUSION: The Political Reform Act, to which my answer to your question must be limited, does not prohibit the expenditure of campaign funds for the purchase of such an advertisement.",
+    "qa_source": "mixed",
+    "first_500_words": "December 10, 1979 Mrs. Howard Allen 3750 El Canto Drive Spring Valley, California 92077 Dear Mrs. Allen: I am responding to your inquiry concerning an advertisement that appeared in the San Diego Union on Tuesday, November 27, 1979. You ask whether campaign funds were used to pay for the advertisement and if such a use of campaign funds is lawful. Because the advertisement does not expressly advocate the nomination, election or defeat of a clearly identified candidate or the qualification, passage or defeat of a clearly identified ballot measure, it does not constitute an expenditure for political purposes and is not reportable under the California Political Reform Act unless it was made by an organization formed or existing primarily for political purpose. I do not know whether either the Stand Up for America Committee or the Foundation for Constitutional Education is such an organization. If either of these entities has raised $500 for California political purposes during a single calendar year, it should have filed a statement or organization within 10 days of raising the $500 with the Secretary of State. You can find out if such a statement of organization was filed by calling 916/322-4880. If the advertisement was purchased by an organization formed or existing primarily for political purposes, that organization would be required to disclose the expenditure on its campaign statements. When those statements are filed will depend upon other activities of the groups, because the advertisement does not on its face constitute an expenditure for political purposes. If campaign statements are required to be filed by either group, the one certain place they would be filed is with the clerk of the county of the group's domicile. The domicile of the group would appear on the statement of organization filed with the Secretary of State. The Political Reform Act, to which my answer to your question must be limited, does not prohibit the expenditure of campaign funds for the purchase of such an advertisement. Sincerely, John Giansello Political Reform Analyst",
+    "summary": "FPPC advises that an advertisement in the San Diego Union does not constitute a reportable expenditure for political purposes unless purchased by a political organization that has raised $500+ in a calendar year. Campaign funds may lawfully be used for such advertisements under the Political Reform Act."
+  }
+}

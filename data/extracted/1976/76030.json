@@ -1,0 +1,76 @@
+{
+  "id": "76030",
+  "year": 1976,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1976/76030.PDF",
+  "pdf_sha256": "4f088c0d1b3d1afc56c761fb860fe5c3e388a61a9a4e2a254697caed2af89724",
+  "local_pdf_path": "raw_pdfs/1976/76030.PDF",
+  "source_metadata": {
+    "title_raw": "SERNA, JOE Year: 1976 Advice Letter # 76030",
+    "tags": [
+      "1976",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:14:39",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1976&tagCount=1"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-07T17:14:28.119685Z",
+    "page_count": 1,
+    "word_count": 183,
+    "char_count": 1170,
+    "quality_score": 0.7175,
+    "olmocr_cost": 0.00256882,
+    "native_word_count": 8
+  },
+  "content": {
+    "full_text": "October 27, 1976\n\nMr. Joe Serna  \n2501 5th Avenue  \nSacramento, CA 95818\n\nDear Mr. Serna:\n\nThis letter confirms our telephone conversation of October 25, 1976, concerning volunteer personal services that you render to various political campaigns. As I understand the facts, you make silk screen prints as a hobby and you occasionally utilize these skills to print signs for a candidate or a ballot measure campaign. The committee pays for the ink, paper, and any other materials. In addition, you charge $100 for designing and preparing the stencil, the same amount that would be charged by a commercial silk screen shop.\n\nThe labor that you donate to the campaign by printing the signs is a volunteer personal service and is not a contribution within the meaning of the Political Reform Act. The definition of contribution, Government Code Section 82015, expressly excludes volunteer personal services. Consequently, you have no reporting obligations by virtue of such activities. Moreover, the committee on whose behalf your services are rendered has no reporting obligation.\n\nI hope this information will be of assistance.\n\nSincerely,\n\nNatalie E. West  \nStaff Counsel",
+    "full_text_markdown": "October 27, 1976\n\nMr. Joe Serna  \n2501 5th Avenue  \nSacramento, CA 95818\n\nDear Mr. Serna:\n\nThis letter confirms our telephone conversation of October 25, 1976, concerning volunteer personal services that you render to various political campaigns. As I understand the facts, you make silk screen prints as a hobby and you occasionally utilize these skills to print signs for a candidate or a ballot measure campaign. The committee pays for the ink, paper, and any other materials. In addition, you charge $100 for designing and preparing the stencil, the same amount that would be charged by a commercial silk screen shop.\n\nThe labor that you donate to the campaign by printing the signs is a volunteer personal service and is not a contribution within the meaning of the Political Reform Act. The definition of contribution, Government Code Section 82015, expressly excludes volunteer personal services. Consequently, you have no reporting obligations by virtue of such activities. Moreover, the committee on whose behalf your services are rendered has no reporting obligation.\n\nI hope this information will be of assistance.\n\nSincerely,\n\nNatalie E. West  \nStaff Counsel"
+  },
+  "parsed": {
+    "date": "1976-10-27",
+    "date_raw": "October 27, 1976",
+    "requestor_name": "Serna",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether volunteer personal services provided by an individual to political campaigns, specifically silk screen printing of campaign signs where the campaign pays for materials but the individual donates labor and charges a standard design fee, constitute a reportable contribution under the Political Reform Act.",
+    "conclusion_synthetic": "The volunteer labor for printing signs is not a reportable contribution under Government Code Section 82015, which expressly excludes volunteer personal services from the definition of contribution. Neither the individual nor the committee has reporting obligations for such activities.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is formatted as a letter response confirming telephone conversation rather than traditional Q&A format. No explicit QUESTION or CONCLUSION sections present, but legal analysis and conclusion are clearly stated in body paragraphs. Confidence slightly reduced due to absence of standard section headers."
+  },
+  "citations": {
+    "government_code": [
+      "82015"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [
+      "76134",
+      "76607"
+    ],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T17:14:28.119685Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether volunteer personal services provided by an individual to political campaigns, specifically silk screen printing of campaign signs where the campaign pays for materials but the individual donates labor and charges a standard design fee, constitute a reportable contribution under the Political Reform Act.\n\nCONCLUSION: The volunteer labor for printing signs is not a reportable contribution under Government Code Section 82015, which expressly excludes volunteer personal services from the definition of contribution. Neither the individual nor the committee has reporting obligations for such activities.",
+    "qa_source": "synthetic",
+    "first_500_words": "October 27, 1976 Mr. Joe Serna 2501 5th Avenue Sacramento, CA 95818 Dear Mr. Serna: This letter confirms our telephone conversation of October 25, 1976, concerning volunteer personal services that you render to various political campaigns. As I understand the facts, you make silk screen prints as a hobby and you occasionally utilize these skills to print signs for a candidate or a ballot measure campaign. The committee pays for the ink, paper, and any other materials. In addition, you charge $100 for designing and preparing the stencil, the same amount that would be charged by a commercial silk screen shop. The labor that you donate to the campaign by printing the signs is a volunteer personal service and is not a contribution within the meaning of the Political Reform Act. The definition of contribution, Government Code Section 82015, expressly excludes volunteer personal services. Consequently, you have no reporting obligations by virtue of such activities. Moreover, the committee on whose behalf your services are rendered has no reporting obligation. I hope this information will be of assistance. Sincerely, Natalie E. West Staff Counsel",
+    "summary": "FPPC confirms that volunteer personal services (silk screen printing of campaign signs) provided by an individual to political campaigns are not reportable contributions, even when a standard design fee is charged and materials are paid by the campaign."
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "86144",
+  "year": 1986,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1986/fppc-advice/86144.PDF",
+  "pdf_sha256": "790352d1a077f3c1c4facd171ea46ba05b4d61c027d1560b7604f6b6e9db2f23",
+  "local_pdf_path": "raw_pdfs/1986/86144.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1986 Advice Letter # 86144",
+    "tags": [
+      "1986",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:38:38",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1986&tagCount=1&page=15"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T19:55:10.605709Z",
+    "page_count": 1,
+    "word_count": 137,
+    "char_count": 766,
+    "quality_score": 0.793829516749039,
+    "olmocr_cost": 0.00254044,
+    "native_word_count": 131
+  },
+  "content": {
+    "full_text": "TO: [ ] JEANNE   [ ] JAY   ( ) DAN\n[ ] LYNN   [ ] BARBARA   ( ) JOHN K\n[ ] ROGER   [ ] CARLA   ( ) MARY ANN\n[ ] HELEN   [ ] OTHER\n\nFROM: Colleen McGee\nDATE: 4-1-86\n\n[x] TELEPHONE ADVICE - SEE BELOW\n[ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT\n(IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY)\n\nFILE LOCATION:\n\nINCLUDE IN ADVICE PACKAGE: YES [ ]   NO [ ]\n\nCALLER Rena\nREPRESENTING A-K Associates\nPHONE NUMBER: 446-7505\n\nQUESTION: Can both partners of a lobbying firm be designated as the responsible officer of the lobbying firm, so either partner can sign the firm's statements?\n\nANSWER: Yes. Amend the lobbying firm's registration statement to indicate both partners will be the responsible officer, and have each partner sign the amended registration form.",
+    "full_text_markdown": "TO: [ ] JEANNE   [ ] JAY   ( ) DAN\n[ ] LYNN   [ ] BARBARA   ( ) JOHN K\n[ ] ROGER   [ ] CARLA   ( ) MARY ANN\n[ ] HELEN   [ ] OTHER\n\nFROM: Colleen McGee\nDATE: 4-1-86\n\n[x] TELEPHONE ADVICE - SEE BELOW\n[ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT\n(IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY)\n\nFILE LOCATION:\n\nINCLUDE IN ADVICE PACKAGE: YES [ ]   NO [ ]\n\nCALLER Rena\nREPRESENTING A-K Associates\nPHONE NUMBER: 446-7505\n\nQUESTION: Can both partners of a lobbying firm be designated as the responsible officer of the lobbying firm, so either partner can sign the firm's statements?\n\nANSWER: Yes. Amend the lobbying firm's registration statement to indicate both partners will be the responsible officer, and have each partner sign the amended registration form."
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Can both partners of a lobbying firm be designated as the responsible officer of the lobbying firm, so either partner can sign the firm's statements?\n\nANSWER: Yes. Amend the lobbying firm's registration statement to indicate both partners will be the responsible officer, and have each partner sign the amended registration form.",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.5499999999999999,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T19:55:10.605709Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Can both partners of a lobbying firm be designated as the responsible officer of the lobbying firm, so either partner can sign the firm's statements?\n\nANSWER: Yes. Amend the lobbying firm's registration statement to indicate both partners will be the responsible officer, and have each partner sign the amended registration form.",
+    "qa_source": "extracted",
+    "first_500_words": "TO: [ ] JEANNE [ ] JAY ( ) DAN [ ] LYNN [ ] BARBARA ( ) JOHN K [ ] ROGER [ ] CARLA ( ) MARY ANN [ ] HELEN [ ] OTHER FROM: Colleen McGee DATE: 4-1-86 [x] TELEPHONE ADVICE - SEE BELOW [ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT (IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY) FILE LOCATION: INCLUDE IN ADVICE PACKAGE: YES [ ] NO [ ] CALLER Rena REPRESENTING A-K Associates PHONE NUMBER: 446-7505 QUESTION: Can both partners of a lobbying firm be designated as the responsible officer of the lobbying firm, so either partner can sign the firm's statements? ANSWER: Yes. Amend the lobbying firm's registration statement to indicate both partners will be the responsible officer, and have each partner sign the amended registration form.",
+    "summary": null
+  }
+}

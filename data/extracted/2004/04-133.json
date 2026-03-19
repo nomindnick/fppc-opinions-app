@@ -1,0 +1,73 @@
+{
+  "id": "04-133",
+  "year": 2004,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2004/04-133.pdf",
+  "pdf_sha256": "6814f9f76b78c50686b041a4b633d1c7613fffd6f18879a119127ebf375b7502",
+  "local_pdf_path": "raw_pdfs/2004/04-133.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2004 Advice Letter # 04-133",
+    "tags": [
+      "2004",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:40:44",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2004&tagCount=1&page=10"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:16.807403Z",
+    "page_count": 1,
+    "word_count": 187,
+    "char_count": 1214,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 187
+  },
+  "content": {
+    "full_text": "Fern Polrucal PnacrrcEs CounarssroN\n428 J Street o Suite 620 . Sacramento, CA 95814-2329\n(916) 322-5660 . Fax (916) 322-0886\nJune I 8,2004\nRobert C. Cheasty\nCheasty & Cheasty\nPost Office Box 8357\nBerkeley, CA94707\nRe:\nYour Request for Advice\nOur File No. ril-04-133\nDear Mr. Cheasty:\nThis letter confirms the receipt of your June 8, }OB,request for advice regarding an\nunpaid president of a nonprofit orgarizatton. Under the provisions of Califomia Code of\nRegulations section 18329OX8)(B), unless you are an authorized representative of the person for\nwhom you seek assistance, the Fair Political Practices Commission cannot address your\nquestions or provide analysis.\nFormal written advice may be requested when the name, title orposition, and mailing\naddress of the person whose duties are in question are provided. (Regulation 18329(bX2XA).)\nI have enclosed a copy of regulation 18329 for your review.\nIf you believe a violation of the Political Reform Act has occurred, you may file the\nenclosed complaint form with ourEnforcement Division-\nShould you have any additional questions with regard to this matter, please contact the\nCommission at (916) 322-5660.\nSincerely,\nLuisa\nGeneral Counsel\nEnclosures\nLM je\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": "Cheasty",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "s or provide analysis.\nFormal written advice may be requested when the name, title orposition, and mailing\naddress of the person whose duties are in question are provided. (Regulation 18329(bX2XA).)\nI have enclosed a copy of regulation 18329 for your review.\nIf you believe a violation of the Political Reform Act has occurred, you may file the\nenclosed complaint form with ourEnforcement Division-",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.6,
+    "has_standard_format": true,
+    "parsing_notes": "Format: ocr"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:34:16.807403Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: s or provide analysis.\nFormal written advice may be requested when the name, title orposition, and mailing\naddress of the person whose duties are in question are provided. (Regulation 18329(bX2XA).)\nI have enclosed a copy of regulation 18329 for your review.\nIf you believe a violation of the Political Reform Act has occurred, you may file the\nenclosed complaint form with ourEnforcement Division-",
+    "qa_source": "extracted",
+    "first_500_words": "Fern Polrucal PnacrrcEs CounarssroN 428 J Street o Suite 620 . Sacramento, CA 95814-2329 (916) 322-5660 . Fax (916) 322-0886 June I 8,2004 Robert C. Cheasty Cheasty & Cheasty Post Office Box 8357 Berkeley, CA94707 Re: Your Request for Advice Our File No. ril-04-133 Dear Mr. Cheasty: This letter confirms the receipt of your June 8, }OB,request for advice regarding an unpaid president of a nonprofit orgarizatton. Under the provisions of Califomia Code of Regulations section 18329OX8)(B), unless you are an authorized representative of the person for whom you seek assistance, the Fair Political Practices Commission cannot address your questions or provide analysis. Formal written advice may be requested when the name, title orposition, and mailing address of the person whose duties are in question are provided. (Regulation 18329(bX2XA).) I have enclosed a copy of regulation 18329 for your review. If you believe a violation of the Political Reform Act has occurred, you may file the enclosed complaint form with ourEnforcement Division- Should you have any additional questions with regard to this matter, please contact the Commission at (916) 322-5660. Sincerely, Luisa General Counsel Enclosures LM je",
+    "summary": null
+  }
+}

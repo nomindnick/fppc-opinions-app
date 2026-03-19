@@ -1,0 +1,75 @@
+{
+  "id": "99-196",
+  "year": 1999,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/1999/99-196.pdf",
+  "pdf_sha256": "6637281d457e26b5e229f26db2d1dd8f943aa5f732952641dadddfb092e1d0a7",
+  "local_pdf_path": "raw_pdfs/1999/99-196.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 1999 Advice Letter # 99-196",
+    "tags": [
+      "1999",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:48:07",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1999&tagCount=1&page=11"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:39.372495Z",
+    "page_count": 1,
+    "word_count": 155,
+    "char_count": 980,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 155
+  },
+  "content": {
+    "full_text": "FAIR POLITICAL PRACTICES Co1nssIoN\nP.O. Box 807\n428 J Street\nSacramento, CA 95812-0807\n(916) 322-5660\nFax (916) 322-0886\nJuly 29, 1999\nHarold R. Wolgamott\nCity of Gonzales\nPost Office Box 717\nGonzales, California 93926\nRe: Your Request for Advice\nOur File No. G-99-196\nDear Mr. Wolgamott:\nThis letter is in response to your request for advice regarding the provisions of the\nPolitical Reform Act (the “Act”).’\nI am attaching a fact sheet which should answer your questions regarding whether you\nhave a conflict of interest due to your position on the city council and your position as a\nfirefighter. If after reading the enclosed fact sheet you still have questions, please do not hesitate\nto contact me.\nSincerely,\nSteven G. Churchwell\nGeneral Counsel\nBy:\nynda Doherty\nPolitical Reform Consultant, Legal Division\nSGC:LD:tls\nEnclosure\nGovernment Code sections 81000\n- 91014. Commission regulations appear at title 2, sections 18109\n-\n18995, of the California Code of Regulations.\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1999-07-29",
+    "date_raw": "July 29, 1999",
+    "requestor_name": "Wolgamott",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether Harold R. Wolgamott has a conflict of interest under the Political Reform Act due to his simultaneous positions on the city council and as a firefighter.",
+    "conclusion_synthetic": "The FPPC provided an attached fact sheet to address the conflict of interest question regarding simultaneous service as a city council member and firefighter, with an invitation for follow-up questions.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.75,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: No verbatim QUESTION or CONCLUSION sections found in document text; substantive response provided via enclosure (fact sheet) rather than inline explanation. Document is a brief cover letter referencing attached materials."
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [
+      "18109"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:34:39.372495Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether Harold R. Wolgamott has a conflict of interest under the Political Reform Act due to his simultaneous positions on the city council and as a firefighter.\n\nCONCLUSION: The FPPC provided an attached fact sheet to address the conflict of interest question regarding simultaneous service as a city council member and firefighter, with an invitation for follow-up questions.",
+    "qa_source": "synthetic",
+    "first_500_words": "FAIR POLITICAL PRACTICES Co1nssIoN P.O. Box 807 428 J Street Sacramento, CA 95812-0807 (916) 322-5660 Fax (916) 322-0886 July 29, 1999 Harold R. Wolgamott City of Gonzales Post Office Box 717 Gonzales, California 93926 Re: Your Request for Advice Our File No. G-99-196 Dear Mr. Wolgamott: This letter is in response to your request for advice regarding the provisions of the Political Reform Act (the “Act”).’ I am attaching a fact sheet which should answer your questions regarding whether you have a conflict of interest due to your position on the city council and your position as a firefighter. If after reading the enclosed fact sheet you still have questions, please do not hesitate to contact me. Sincerely, Steven G. Churchwell General Counsel By: ynda Doherty Political Reform Consultant, Legal Division SGC:LD:tls Enclosure Government Code sections 81000 - 91014. Commission regulations appear at title 2, sections 18109 - 18995, of the California Code of Regulations.",
+    "summary": "The FPPC responds to Harold R. Wolgamott's request for advice regarding potential conflicts of interest between his positions as a city council member and firefighter, providing a fact sheet for guidance."
+  }
+}

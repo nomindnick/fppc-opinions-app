@@ -1,0 +1,74 @@
+{
+  "id": "78ADV-78-140",
+  "year": 1978,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1978/78ADV-78-140.PDF",
+  "pdf_sha256": "3197ad3f97c0ff18727dfb03bb8a6d34304117428f143d2130e264aa8fd74e5c",
+  "local_pdf_path": "raw_pdfs/1978/78ADV-78-140.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1978ADV Advice Letter # 78ADV-78-140",
+    "tags": [
+      "Advice Letter",
+      "1978"
+    ],
+    "scraped_at": "2026-01-31 15:23:47",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=13"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T16:04:10.010337Z",
+    "page_count": 2,
+    "word_count": 195,
+    "char_count": 1248,
+    "quality_score": 0.882934387951356,
+    "olmocr_cost": 0.00499144,
+    "native_word_count": 70,
+    "haiku_cost": 0.0041919999999999995
+  },
+  "content": {
+    "full_text": "July 3, 1978\n\nMildred L. Brayton\nCity Clerk\nCity of Redding\n760 Parkview Avenue\nRedding, California 96001\n\nDear Ms. Brayton:\n\nThank you for your inquiry of June 28, 1978 regarding the obligation of filing officers to reproduce copies of statements of economic interest for members of the public.\n\nThe answer to your question is stated in Government Code Section 81008, and it is your obligation to reproduce such statements on demand.\n\nSincerely,\n\nJohn Giansello\nPolitical Reform Analysis\n\nJG:bw\n\nOFFICE OF THE CITY COUNCIL\n\nCITY OF REDDING\nCALIFORNIA\n\nMILDRED L. BRAYTON\nCITY CLERK\n\nJune 28, 1978\n\nDONALD M. DEMSHER, MAYOR\nLEE D. FULTON, M.D.\nBARBARA A. GARD\nHOWARD D. KIRKPATRICK\nARCHER F. PUGH\n\nFair Political Practices Commission\n1100 \"K\" Street Building\nP. O. Box 807\nSacramento, California 95814\n\nGentlemen:\n\nReference is made to FPPC Bulletin Vol. 4, No. 6, dated June 23,\n1978, Page 4 \"Reminder to Election Officials.\" Please advise\nwhether or not it is the responsibility of election officials to\nreproduce \"Statements of Economic Interests\" as well as campaign\nstatements, or if such statements are only available for inspection.\n\nSincerely,\n\nMildred L. Brayton\nCity Clerk\n\nMLB:cts\n\n760 PARKVIEW AVENUE—REDDING CA 96001 – TEL 916-246-1151",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1978-07-03",
+    "date_raw": "July 3, 1978",
+    "requestor_name": "Brayton",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "The answer to your question is stated in Government Code Section 81008, and it is your obligation to reproduce such statements on demand.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Are filing officers obligated to reproduce copies of statements of economic interest for members of the public, or are such statements only available for inspection?",
+    "conclusion_synthetic": "Yes, filing officers are obligated under Government Code Section 81008 to reproduce statements of economic interest on demand for members of the public.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document lacks formal QUESTION and CONCLUSION section headers; question and conclusion extracted from letter body text. Brief advice letter format. Incoming request details from reference context provided but not in the FPPC response itself."
+  },
+  "citations": {
+    "government_code": [
+      "81008"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-08T17:14:34.012994Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Are filing officers obligated to reproduce copies of statements of economic interest for members of the public, or are such statements only available for inspection?\n\nCONCLUSION: The answer to your question is stated in Government Code Section 81008, and it is your obligation to reproduce such statements on demand.",
+    "qa_source": "mixed",
+    "first_500_words": "July 3, 1978 Mildred L. Brayton City Clerk City of Redding 760 Parkview Avenue Redding, California 96001 Dear Ms. Brayton: Thank you for your inquiry of June 28, 1978 regarding the obligation of filing officers to reproduce copies of statements of economic interest for members of the public. The answer to your question is stated in Government Code Section 81008, and it is your obligation to reproduce such statements on demand. Sincerely, John Giansello Political Reform Analysis This is a letter from the City of Redding, California, dated June 28, 1978. The letter is addressed to the Fair Political Practices Commission (FPPC) and asks for clarification regarding the responsibility of election officials to reproduce \"Statements of Economic Interests\" as well as campaign statements, or if such statements are only available for inspection. The letter is signed by Mildred L. Brayton, City Clerk of the City of Redding. The City Council members listed on the letter are Donald M. Demsher, Mayor; Lee D. Fulton, M.D.; Barbara A. Gard; Howard D. Kirkpatrick; and Archer F. Pugh. The letter references an FPPC Bulletin Vol. 4, No. 6, dated June 23, 1978, Page 4 titled \"Reminder to Election Officials.\" The signature at the bottom of the letter is handwritten and appears to be that of Mildred L. Brayton, City Clerk.",
+    "summary": "The FPPC responds to the City Clerk of Redding's inquiry regarding the obligation to reproduce statements of economic interest, confirming that such reproduction is required under Government Code Section 81008."
+  }
+}

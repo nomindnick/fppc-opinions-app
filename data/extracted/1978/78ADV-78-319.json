@@ -1,0 +1,74 @@
+{
+  "id": "78ADV-78-319",
+  "year": 1978,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1978/78ADV-78-319.PDF",
+  "pdf_sha256": "8b4539b5f27aa2fbe223810d76c13a7e9e1850657fa8fa1a14e9c6203b084261",
+  "local_pdf_path": "raw_pdfs/1978/78ADV-78-319.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1978ADV Advice Letter # 78ADV-78-319",
+    "tags": [
+      "Advice Letter",
+      "1978"
+    ],
+    "scraped_at": "2026-01-31 15:24:35",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=24"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T16:07:53.041368Z",
+    "page_count": 3,
+    "word_count": 211,
+    "char_count": 1364,
+    "quality_score": 0.799627862617752,
+    "olmocr_cost": 0.007281620000000001,
+    "native_word_count": 160,
+    "haiku_cost": 0.005124
+  },
+  "content": {
+    "full_text": "Repayment of Loan to Candidate is not Reportable Income on\nStatement of Economic Interests\n\nA candidate for elective office, who also is an officeholder,\nloans money to his campaign committee. When the committee repays\nthe loan to the candidate, was the candidate/officeholder received\nreportable income pursuant to §82030?\n\nAt the opinion request meeting of June 12, 1978, staff\nconcluded that repayment of a loan under these circumstances\ndoes not constitute reportable income to the candidate/office-\nholder. Pursuant to the Willie Brown and Janet Gray Hays\nopinions, the staff concluded that the loan and its repayment\nwere Chapter 4 rather than Chapter 7 transactions and should\nbe reported accordingly.\n\nPayment under an insurance policy.\n\n\nPayments under an insurance policy are specifically\n\nexcluded from the definition of income. Staff concluded that\n\na person who borrows money under the terms of his insurance\n\npolicy has received a payment under the insurance policy within\n\nthe meaning of this provision. This conclusion assumes that all\n\npolicyholders have the same right to borrow against their insurance\n\npolicies and that there are no special privileges being accorded\n\nthe public official.\n\nSection 82030(a)\n\nLoans and Payment of Debt\n\n\nThe filer has received income if he receives a loan,\n\nor repayment for a loan, which he has made to another.",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1978-06-12",
+    "date_raw": "June 12, 1978",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "A candidate for elective office, who also is an officeholder, loans money to his campaign committee. When the committee repays the loan to the candidate, has the candidate/officeholder received reportable income pursuant to §82030?",
+    "conclusion": "At the opinion request meeting of June 12, 1978, staff concluded that repayment of a loan under these circumstances does not constitute reportable income to the candidate/officeholder. Pursuant to the Willie Brown and Janet Gray Hays opinions, the staff concluded that the loan and its repayment were Chapter 4 rather than Chapter 7 transactions and should be reported accordingly.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether repayment of a loan from a campaign committee to a candidate/officeholder constitutes reportable income under §82030.",
+    "conclusion_synthetic": "Repayment of a loan from a campaign committee to a candidate/officeholder does not constitute reportable income; such transactions are Chapter 4 rather than Chapter 7 transactions.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document lacks formal section headers but contains clear Q/A structure. Multiple related topics addressed including insurance policy payments and loan/debt principles. Staff conclusion dated June 12, 1978. References Willie Brown and Janet Gray Hays opinions."
+  },
+  "citations": {
+    "government_code": [
+      "82030"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T16:59:09.974443Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: A candidate for elective office, who also is an officeholder, loans money to his campaign committee. When the committee repays the loan to the candidate, has the candidate/officeholder received reportable income pursuant to §82030?\n\nCONCLUSION: At the opinion request meeting of June 12, 1978, staff concluded that repayment of a loan under these circumstances does not constitute reportable income to the candidate/officeholder. Pursuant to the Willie Brown and Janet Gray Hays opinions, the staff concluded that the loan and its repayment were Chapter 4 rather than Chapter 7 transactions and should be reported accordingly.",
+    "qa_source": "mixed",
+    "first_500_words": "Repayment of Loan to Candidate is not Reportable Income on Statement of Economic Interests A candidate for elective office, who also is an officeholder, loans money to his campaign committee. When the committee repays the loan to the candidate, has the candidate/officeholder received reportable income pursuant to §82030? At the opinion request meeting of June 12, 1978, staff concluded that repayment of a loan under these circumstances does not constitute reportable income to the candidate/officeholder. Pursuant to the Willie Brown and Janet Gray Hays opinions, the staff concluded that the loan and its repayment were Chapter 4 rather than Chapter 7 transactions and should be reported accordingly. Payment under an insurance policy. Payments under an insurance policy are specifically excluded from the definition of income. Staff concluded that a person who borrows money under the terms of his insurance policy has received a payment under the insurance policy within the meaning of this provision. This conclusion assumes that all policyholders have the same right to borrow against their insurance policies and that there are no special privileges being accorded the public official. Loans and Payment of Debt The filer has received income if he receives a loan, or repayment for a loan which he has made to another.",
+    "summary": "The FPPC advises that repayment of a loan from a campaign committee to a candidate/officeholder is not reportable income under §82030. The letter also addresses treatment of insurance policy borrowing and general principles regarding loans and debt repayment."
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "77ADV-77-501",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-501.PDF",
+  "pdf_sha256": "6c2719975a6b1e92d6efaedf6ee8635a1598c42536d0a1f7da9048122efee1e4",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-501.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-501",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:22:46",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=52"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:16.753980Z",
+    "page_count": 1,
+    "word_count": 187,
+    "char_count": 1163,
+    "quality_score": 0.635,
+    "olmocr_cost": null,
+    "native_word_count": 187
+  },
+  "content": {
+    "full_text": "~VJ I \nState of California \nMemora \num \nTo \nile \nDote \n4-29-77 \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nTed Prim \nSubject: \nTime test for becoming a lobbyist pursuant to 18239. \nA person can become a lobbyist in three ways: \nOne, spending \nforty hours ten of which are in direct communicationi two, \nspending 200 hours in direct testimony \ne an agency; \nthree, spending 40 hours in \nct testimony and one hour \nin direct communication other than testimony. \nThe comment to Section 18239 provides that time spent \na person preparing research shall not be counted in determin-\ning whether that person is a lobbyist unless the research is \nprovided directly and immediately to the agency_ \nDirect testimony includes \non time for written \nmissions and testimony which will be a \nof the's \nrecord. \nHowever, a provis \nwhich modi \ns subsection (e) \nof 18239 states that research time shall not \nconsidered \nfor the purpose of determining whether a person is a lobby-\nist pursuant to that sub-part. \nngly, background re-\nsearch \nappear to be excluded by an arbitrary line which \nseparates \"research\" from \"time spent prepar \ntten sub-\nmissions or testimony.\" \nTP: jo \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "What are the different ways a person can become a lobbyist under section 18239, and how is research time counted toward the threshold for becoming a lobbyist?",
+    "conclusion_synthetic": "A person can become a lobbyist through three pathways: (1) spending 40 hours with 10 in direct communication, (2) spending 200 hours in direct testimony before an agency, or (3) spending 40 hours in direct testimony and 1 hour in direct communication. Research time is generally excluded unless provided directly and immediately to an agency, though a distinction exists between background research and time spent preparing written submissions or testimony.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.72,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is internal FPPC memorandum without formal Q/C sections. Some text is degraded/unclear in original document. No formal conclusion section but substantive guidance provided. Extracted content from body of memo treating it as FPPC advice on statutory interpretation."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:16.753980Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: What are the different ways a person can become a lobbyist under section 18239, and how is research time counted toward the threshold for becoming a lobbyist?\n\nCONCLUSION: A person can become a lobbyist through three pathways: (1) spending 40 hours with 10 in direct communication, (2) spending 200 hours in direct testimony before an agency, or (3) spending 40 hours in direct testimony and 1 hour in direct communication. Research time is generally excluded unless provided directly and immediately to an agency, though a distinction exists between background research and time spent preparing written submissions or testimony.",
+    "qa_source": "synthetic",
+    "first_500_words": "~VJ I State of California Memora um To ile Dote 4-29-77 From FAIR POLITICAL PRACTICES COMMISSION Ted Prim Subject: Time test for becoming a lobbyist pursuant to 18239. A person can become a lobbyist in three ways: One, spending forty hours ten of which are in direct communicationi two, spending 200 hours in direct testimony e an agency; three, spending 40 hours in ct testimony and one hour in direct communication other than testimony. The comment to Section 18239 provides that time spent a person preparing research shall not be counted in determin- ing whether that person is a lobbyist unless the research is provided directly and immediately to the agency_ Direct testimony includes on time for written missions and testimony which will be a of the's record. However, a provis which modi s subsection (e) of 18239 states that research time shall not considered for the purpose of determining whether a person is a lobby- ist pursuant to that sub-part. ngly, background re- search appear to be excluded by an arbitrary line which separates \"research\" from \"time spent prepar tten sub- missions or testimony.\" TP: jo",
+    "summary": "FPPC memorandum explaining the three methods by which a person becomes a lobbyist under section 18239 and clarifying how research time is counted toward meeting the threshold, noting that background research is excluded unless directly provided to an agency."
+  }
+}

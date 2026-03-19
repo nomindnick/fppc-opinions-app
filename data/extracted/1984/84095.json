@@ -1,0 +1,71 @@
+{
+  "id": "84095",
+  "year": 1984,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1984/fppc-advice/84095.PDF",
+  "pdf_sha256": "4bcdc592dae11380669484f11a37ade2d5c78d96c4556c1e5bdc09149ac9986f",
+  "local_pdf_path": "raw_pdfs/1984/84095.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1984 Advice Letter # 84095",
+    "tags": [
+      "1984",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:34:40",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1984&tagCount=1&page=17"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:47.656434Z",
+    "page_count": 1,
+    "word_count": 124,
+    "char_count": 721,
+    "quality_score": 0.5125,
+    "olmocr_cost": null,
+    "native_word_count": 124
+  },
+  "content": {
+    "full_text": "State of California \nMemorandum \nTo \nFrom \nSubject : \nFile \nFAIR POLITICAL PRACTICES COM~SSION \nBarbara A. Milm~t1/V~,\\ \nAdvice to Vande Raye, April 16, 1984 \nDate A:pr}-t 19, 1984 \nNO.0f84-095 \nIf an official houses its in a \nfriend~ condo for six months, \nand gets the use of the condo for that time, the official has \nreceived income equal to the value of the use of the condo. \nThe \nofficial has not received a gift (unless, perhaps, the condo is a \nvacation house in Palm Springs). \nIf the official maintains his \nown residence in the same city, and only occasionally uses the \ncondo to make it looked \"lived in,\" the official is only doing \nthe friend a favor, and has received neither income nor a gift. \nBAM:plh \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1984-04-16",
+    "date_raw": "April 16, 1984",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "If an official houses its in a friend's condo for six months, and gets the use of the condo for that time, the official has received income equal to the value of the use of the condo. The official has not received a gift (unless, perhaps, the condo is a vacation house in Palm Springs). If the official maintains his own residence in the same city, and only occasionally uses the condo to make it looked \"lived in,\" the official is only doing the friend a favor, and has received neither income nor a gift.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether an official who houses themselves in a friend's condo for six months, or occasionally uses it to maintain its appearance, has received taxable income or a gift.",
+    "conclusion_synthetic": "The FPPC concludes that six-month residential use of a friend's condo constitutes taxable income equal to the condo's value, unless it is a vacation property. However, occasional use of a condo while maintaining a primary residence elsewhere constitutes neither income nor a gift.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document appears to be a brief memorandum without formal Q&A sections. The conclusion is presented directly in prose form rather than in a clearly demarcated section. Minor OCR errors detected (e.g., 'houses its' likely should be 'house itself'). Advice recipient appears to be Vande Raye."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:36:47.656434Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether an official who houses themselves in a friend's condo for six months, or occasionally uses it to maintain its appearance, has received taxable income or a gift.\n\nCONCLUSION: If an official houses its in a friend's condo for six months, and gets the use of the condo for that time, the official has received income equal to the value of the use of the condo. The official has not received a gift (unless, perhaps, the condo is a vacation house in Palm Springs). If the official maintains his own residence in the same city, and only occasionally uses the condo to make it looked \"lived in,\" the official is only doing the friend a favor, and has received neither income nor a gift.",
+    "qa_source": "mixed",
+    "first_500_words": "State of California Memorandum To From Subject : File FAIR POLITICAL PRACTICES COM~SSION Barbara A. Milm~t1/V~,\\ Advice to Vande Raye, April 16, 1984 Date A:pr}-t 19, 1984 NO.0f84-095 If an official houses its in a friend~ condo for six months, and gets the use of the condo for that time, the official has received income equal to the value of the use of the condo. The official has not received a gift (unless, perhaps, the condo is a vacation house in Palm Springs). If the official maintains his own residence in the same city, and only occasionally uses the condo to make it looked \"lived in,\" the official is only doing the friend a favor, and has received neither income nor a gift. BAM:plh",
+    "summary": "FPPC advice letter addressing whether an official's use of a friend's condo constitutes taxable income or a gift, distinguishing between primary residence use and occasional occupancy."
+  }
+}

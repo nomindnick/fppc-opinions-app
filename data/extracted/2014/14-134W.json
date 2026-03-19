@@ -1,0 +1,75 @@
+{
+  "id": "14-134W",
+  "year": 2014,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2014/14-134W.pdf",
+  "pdf_sha256": "ccf5565328cfa42c9f97bcca3d601453ba4de98d649d2f1d0cf1cbf11ec21878",
+  "local_pdf_path": "raw_pdfs/2014/14-134W.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2014 Advice Letter # 14-134W",
+    "tags": [
+      "2014",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:57:47",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2014&tagCount=1&page=14"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T13:51:33.076319Z",
+    "page_count": 1,
+    "word_count": 113,
+    "char_count": 756,
+    "quality_score": 0.831847100463814,
+    "olmocr_cost": 0.00254388,
+    "native_word_count": 138
+  },
+  "content": {
+    "full_text": "August 6, 2014\n\nJohn Chen\n12075 Saraglen Dr\nSaratoga CA 95070\n\nRe: Your Request for Advice\nOur File No. W-14-134\n\nDear Mr. Chen:\n\nThis correspondence is written confirmation that the Fair Political Practices Commission has withdrawn your July 21, 2014 request for advice under the provisions of the Political Reform Act,1 as you requested in today’s email. Consequently, no response will be prepared. Your request is withdrawn.\n\nIf you have other questions on this matter, please contact me at (916) 322-5660.\n\nSincerely,\n\nZackery P. Morazzini\nGeneral Counsel\n\nBy: Valentina Joyce\nCounsel, Legal Division\n\nVI:jgl\n\n1 Government Code sections 81000-91014. Commission regulations appear at Title 2, sections 18109-18997, of the California Code of Regulations.",
+    "full_text_markdown": "August 6, 2014\n\nJohn Chen\n12075 Saraglen Dr\nSaratoga CA 95070\n\nRe: Your Request for Advice\nOur File No. W-14-134\n\nDear Mr. Chen:\n\nThis correspondence is written confirmation that the Fair Political Practices Commission has withdrawn your July 21, 2014 request for advice under the provisions of the Political Reform Act,1 as you requested in today’s email. Consequently, no response will be prepared. Your request is withdrawn.\n\nIf you have other questions on this matter, please contact me at (916) 322-5660.\n\nSincerely,\n\nZackery P. Morazzini\nGeneral Counsel\n\nBy: Valentina Joyce\nCounsel, Legal Division\n\nVI:jgl\n\n1 Government Code sections 81000-91014. Commission regulations appear at Title 2, sections 18109-18997, of the California Code of Regulations."
+  },
+  "parsed": {
+    "date": "2014-08-06",
+    "date_raw": "August 6, 2014",
+    "requestor_name": "Chen",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [
+      "18109"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-20T13:51:33.076319Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "August 6, 2014 John Chen 12075 Saraglen Dr Saratoga CA 95070 Re: Your Request for Advice Our File No. W-14-134 Dear Mr. Chen: This correspondence is written confirmation that the Fair Political Practices Commission has withdrawn your July 21, 2014 request for advice under the provisions of the Political Reform Act,1 as you requested in today’s email. Consequently, no response will be prepared. Your request is withdrawn. If you have other questions on this matter, please contact me at (916) 322-5660. Sincerely, Zackery P. Morazzini General Counsel By: Valentina Joyce Counsel, Legal Division VI:jgl 1 Government Code sections 81000-91014. Commission regulations appear at Title 2, sections 18109-18997, of the California Code of Regulations.",
+    "qa_source": "extracted",
+    "first_500_words": "August 6, 2014 John Chen 12075 Saraglen Dr Saratoga CA 95070 Re: Your Request for Advice Our File No. W-14-134 Dear Mr. Chen: This correspondence is written confirmation that the Fair Political Practices Commission has withdrawn your July 21, 2014 request for advice under the provisions of the Political Reform Act,1 as you requested in today’s email. Consequently, no response will be prepared. Your request is withdrawn. If you have other questions on this matter, please contact me at (916) 322-5660. Sincerely, Zackery P. Morazzini General Counsel By: Valentina Joyce Counsel, Legal Division VI:jgl 1 Government Code sections 81000-91014. Commission regulations appear at Title 2, sections 18109-18997, of the California Code of Regulations.",
+    "summary": null
+  }
+}

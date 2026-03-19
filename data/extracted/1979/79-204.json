@@ -1,0 +1,71 @@
+{
+  "id": "79-204",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-204.PDF",
+  "pdf_sha256": "8114d33a37e7b6a7f6e907f9829565cc43ac35b5e21d7754e99b1ace0c891ca6",
+  "local_pdf_path": "raw_pdfs/1979/79-204.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1979 Advice Letter # 79-204",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:26:13",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=12"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:06.820163Z",
+    "page_count": 1,
+    "word_count": 215,
+    "char_count": 1291,
+    "quality_score": 0.55,
+    "olmocr_cost": null,
+    "native_word_count": 215
+  },
+  "content": {
+    "full_text": "tsb.LUY \nInfluencing an Agency \nAssume that a \nson is a lobbyist employer: \nA. \nNo portion of an employee's salary will be reportable \nunless that employee spends 10 percent or more of his \ncompensated time during the month influencing legis-\nlative or administrative action. \nB. \nEven if no portion of an employee's salary is reportable, \nthe employer must report all other costs incurred for \nthe purpose of influencing an agency which his lobbyist \ninfluences as a substantial or regular part of his \nbusiness. \nC. \nIf an agency is not being influenced by the employer's \nlobbyist, the agency nevertheless \n11 be deemed to \nhave been influenced by the employer if an employee \nspends 10 percent or more of his time influencing \nall agencies spends a substantial or reg~lar part of \nh s time influencing the agency in question. \nD. \nIf an agency is not being influenced by either the \nlobbyist or a 10-percenter, the staff has not decided \nwhether the spending of a certain threshold amount of \nmoney in connection with influencing an agency will \nmean that the agency is being influenced pursuant to \n18600. \nFor example if an employee spends 3 percent of \nhis time influencing Agency X but spends $10~ $200 or \n$300 in that effort, is the agency being influenced by \nthe employer? \n17D \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The document addresses what constitutes reportable lobbying activity and costs when an employer has lobbyists influencing agencies, including salary reporting thresholds, reportable costs, and the circumstances under which an agency is deemed to be influenced.",
+    "conclusion_synthetic": "FPPC provides that salary is reportable only if an employee spends 10% or more of compensated time influencing legislative or administrative action; all other costs for influencing an agency must be reported regardless; an agency is deemed influenced if a lobbyist or 10-percent employee influences it, but the staff has not decided whether a monetary threshold applies when time spent is below 10%.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.65,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document fragment lacks clear question and conclusion section headers; appears to be an excerpt from a larger advice letter discussing agency influence reporting requirements under section 18600; missing formal letter structure and document metadata; formatted as advisory points A-D with numbered examples."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:06.820163Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The document addresses what constitutes reportable lobbying activity and costs when an employer has lobbyists influencing agencies, including salary reporting thresholds, reportable costs, and the circumstances under which an agency is deemed to be influenced.\n\nCONCLUSION: FPPC provides that salary is reportable only if an employee spends 10% or more of compensated time influencing legislative or administrative action; all other costs for influencing an agency must be reported regardless; an agency is deemed influenced if a lobbyist or 10-percent employee influences it, but the staff has not decided whether a monetary threshold applies when time spent is below 10%.",
+    "qa_source": "synthetic",
+    "first_500_words": "tsb.LUY Influencing an Agency Assume that a son is a lobbyist employer: A. No portion of an employee's salary will be reportable unless that employee spends 10 percent or more of his compensated time during the month influencing legis- lative or administrative action. B. Even if no portion of an employee's salary is reportable, the employer must report all other costs incurred for the purpose of influencing an agency which his lobbyist influences as a substantial or regular part of his business. C. If an agency is not being influenced by the employer's lobbyist, the agency nevertheless 11 be deemed to have been influenced by the employer if an employee spends 10 percent or more of his time influencing all agencies spends a substantial or reg~lar part of h s time influencing the agency in question. D. If an agency is not being influenced by either the lobbyist or a 10-percenter, the staff has not decided whether the spending of a certain threshold amount of money in connection with influencing an agency will mean that the agency is being influenced pursuant to 18600. For example if an employee spends 3 percent of his time influencing Agency X but spends $10~ $200 or $300 in that effort, is the agency being influenced by the employer? 17D",
+    "summary": "This FPPC advice letter addresses the reportability of employee salaries and costs related to lobbying activities, establishing a 10% time threshold for salary reporting and clarifying when agencies are deemed to be influenced by an employer's lobbying efforts."
+  }
+}

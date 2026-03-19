@@ -1,0 +1,71 @@
+{
+  "id": "08-008",
+  "year": 2008,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2008/08-008.pdf",
+  "pdf_sha256": "666c58971b951e3ab3100f00d5da6268b4b2129ce9fbb645a180651935f9a580",
+  "local_pdf_path": "raw_pdfs/2008/08-008.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2008 Advice Letter # 08-008",
+    "tags": [
+      "2008",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:47:20",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2008&tagCount=1&page=3"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T22:03:40.142995Z",
+    "page_count": 1,
+    "word_count": 78,
+    "char_count": 491,
+    "quality_score": 0.7899359533305134,
+    "olmocr_cost": 0.00248024,
+    "native_word_count": 96
+  },
+  "content": {
+    "full_text": "January 28, 2008\n\nRenee Phillips\nStaff Accountant\nJelly Belly Candy Company\n1 Jelly Belly Lane\nFairfield, CA 94533\n\nRe: Your Request for Advice\n    Our File No. W-08-008\n\nDear Ms. Phillips:\n\nThis letter is to notify you that we have withdrawn the above captioned request for advice per our telephone conversation on January 24, 2008.\n\nIf you have any questions, feel free to call me at (916) 322-5660.\n\nSincerely,\n\nScott Hallabrin\nGeneral Counsel\n\nBy: Trish Mayer\nPolitical Reform Consultant",
+    "full_text_markdown": "January 28, 2008\n\nRenee Phillips\nStaff Accountant\nJelly Belly Candy Company\n1 Jelly Belly Lane\nFairfield, CA 94533\n\nRe: Your Request for Advice\n    Our File No. W-08-008\n\nDear Ms. Phillips:\n\nThis letter is to notify you that we have withdrawn the above captioned request for advice per our telephone conversation on January 24, 2008.\n\nIf you have any questions, feel free to call me at (916) 322-5660.\n\nSincerely,\n\nScott Hallabrin\nGeneral Counsel\n\nBy: Trish Mayer\nPolitical Reform Consultant"
+  },
+  "parsed": {
+    "date": "2008-01-28",
+    "date_raw": "January 28, 2008",
+    "requestor_name": "Phillips",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T22:03:40.142995Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "January 28, 2008 Renee Phillips Staff Accountant Jelly Belly Candy Company 1 Jelly Belly Lane Fairfield, CA 94533 Re: Your Request for Advice Our File No. W-08-008 Dear Ms. Phillips: This letter is to notify you that we have withdrawn the above captioned request for advice per our telephone conversation on January 24, 2008. If you have any questions, feel free to call me at (916) 322-5660. Sincerely, Scott Hallabrin General Counsel By: Trish Mayer Political Reform Consultant",
+    "qa_source": "extracted",
+    "first_500_words": "January 28, 2008 Renee Phillips Staff Accountant Jelly Belly Candy Company 1 Jelly Belly Lane Fairfield, CA 94533 Re: Your Request for Advice Our File No. W-08-008 Dear Ms. Phillips: This letter is to notify you that we have withdrawn the above captioned request for advice per our telephone conversation on January 24, 2008. If you have any questions, feel free to call me at (916) 322-5660. Sincerely, Scott Hallabrin General Counsel By: Trish Mayer Political Reform Consultant",
+    "summary": null
+  }
+}

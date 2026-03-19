@@ -1,0 +1,74 @@
+{
+  "id": "80A019",
+  "year": 1980,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1980/80A019.PDF",
+  "pdf_sha256": "50314c2e62b13a1013775f19d987962dba47ff72923eb3e1d0eb48fbd3a1a2ef",
+  "local_pdf_path": "raw_pdfs/1980/80A019.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1980 Advice Letter # 80A019",
+    "tags": [
+      "1980",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:27:58",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1980&tagCount=1&page=15"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-07T16:40:00.497988Z",
+    "page_count": 2,
+    "word_count": 375,
+    "char_count": 2208,
+    "quality_score": 0.7175,
+    "olmocr_cost": 0.0051385,
+    "native_word_count": 31
+  },
+  "content": {
+    "full_text": "March 27, 1980\n\nMr. Monty Manibog  \n231 West Garvey  \nMonterey Park, California 91754\n\nDear Mr. Manibog:\n\nPursuant to our telephone conversation earlier today, this letter is to confirm my advice to you regarding the itemization of political contributions.\n\nThe facts as you presented them are as follows: Tickets for a fundraiser were priced at $10 per person. Some tickets were purchased in blocks of ten or more and individuals wrote a check in the amount of $100 or more to cover cost of the number of tickets taken for the fundraiser. You stated that you were not clear as to whether or not the individuals who wrote the checks in turn sold the tickets to others, or were reimbursed in part or whole for the amount of tickets obtained. You specifically asked if the individuals, who originally wrote the checks to the campaign for the block of tickets, were to be itemized on your committee's campaign statement if their check was in the amount of $100 or more?\n\nGovernment Code Section 84210(g) requires that \"the full name of each person from whom a contribution ... totaling one hundred dollars ($100) or more has been received, and the name of his employer, if any, or the principal place of business if ... self-employed,\" etc. Therefore, if the individual who wrote the check to cover the cost of the block of tickets is in any way reimbursed or paid the cost of the tickets, he will not be itemized on your campaign statement if his direct contribution is less than $100 and will be reported with contributions less than $100 received for the period covered.\n\nThe actual source of the campaign contribution to be reported is the person who ultimately pays the cost of the fundraiser ticket.\n\nMonty Manibog  \nMarch 27, 1980  \nPage 2\n\nThe person originally taking the tickets is only an \"agent\" for the committee and is obligated to disclose to the campaign committee the actual source, or those persons who purchased the tickets from him. (Government Code Section 84302)\n\nI have enclosed a copy of the latest edition of the \"Political Reform Act\" and I hope that this information has been helpful to you.\n\nSincerely,\n\n[Signature]\nHelen P. Arriola  \nPolitical Reform Consultant\n\nHPA:jg  \nEnclosure:",
+    "full_text_markdown": "March 27, 1980\n\nMr. Monty Manibog  \n231 West Garvey  \nMonterey Park, California 91754\n\nDear Mr. Manibog:\n\nPursuant to our telephone conversation earlier today, this letter is to confirm my advice to you regarding the itemization of political contributions.\n\nThe facts as you presented them are as follows: Tickets for a fundraiser were priced at $10 per person. Some tickets were purchased in blocks of ten or more and individuals wrote a check in the amount of $100 or more to cover cost of the number of tickets taken for the fundraiser. You stated that you were not clear as to whether or not the individuals who wrote the checks in turn sold the tickets to others, or were reimbursed in part or whole for the amount of tickets obtained. You specifically asked if the individuals, who originally wrote the checks to the campaign for the block of tickets, were to be itemized on your committee's campaign statement if their check was in the amount of $100 or more?\n\nGovernment Code Section 84210(g) requires that \"the full name of each person from whom a contribution ... totaling one hundred dollars ($100) or more has been received, and the name of his employer, if any, or the principal place of business if ... self-employed,\" etc. Therefore, if the individual who wrote the check to cover the cost of the block of tickets is in any way reimbursed or paid the cost of the tickets, he will not be itemized on your campaign statement if his direct contribution is less than $100 and will be reported with contributions less than $100 received for the period covered.\n\nThe actual source of the campaign contribution to be reported is the person who ultimately pays the cost of the fundraiser ticket.\n\nMonty Manibog  \nMarch 27, 1980  \nPage 2\n\nThe person originally taking the tickets is only an \"agent\" for the committee and is obligated to disclose to the campaign committee the actual source, or those persons who purchased the tickets from him. (Government Code Section 84302)\n\nI have enclosed a copy of the latest edition of the \"Political Reform Act\" and I hope that this information has been helpful to you.\n\nSincerely,\n\n[Signature]\nHelen P. Arriola  \nPolitical Reform Consultant\n\nHPA:jg  \nEnclosure:"
+  },
+  "parsed": {
+    "date": "1980-03-27",
+    "date_raw": "March 27, 1980",
+    "requestor_name": "Manibog",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "The individual who wrote the check to cover the cost of a block of tickets (10 or more at $10 per person, totaling $100 or more) asks if they are to be itemized on the committee's campaign statement if their check was in the amount of $100 or more, given uncertainty about whether they sold the tickets to others or were reimbursed in part or whole for the amount of tickets obtained.",
+    "conclusion": "If the individual who wrote the check is in any way reimbursed or paid the cost of the tickets, they will not be itemized if their direct contribution is less than $100. The actual source of the campaign contribution to be reported is the person who ultimately pays the cost of the fundraiser ticket. The person originally taking the tickets is only an 'agent' for the committee and is obligated to disclose to the campaign committee the actual source or those persons who purchased the tickets from them under Government Code Section 84302.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "When individuals purchase blocks of fundraiser tickets with checks of $100 or more but may be reimbursed or have the tickets resold by them, must those individuals be itemized on campaign statements as contributors?",
+    "conclusion_synthetic": "The person who ultimately pays for the ticket is the actual contributor to be reported, not the intermediary who purchased the block of tickets. If the check writer is reimbursed, they are merely an agent and only contributors who directly paid $100 or more must be itemized under Government Code Section 84210(g).",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Standard advice letter format with clear factual recitation and legal conclusion. No explicit 'CONCLUSION' header but conclusion section is clearly present. Document is well-structured and unambiguous."
+  },
+  "citations": {
+    "government_code": [
+      "84210(g)",
+      "84302"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T16:40:00.497988Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The individual who wrote the check to cover the cost of a block of tickets (10 or more at $10 per person, totaling $100 or more) asks if they are to be itemized on the committee's campaign statement if their check was in the amount of $100 or more, given uncertainty about whether they sold the tickets to others or were reimbursed in part or whole for the amount of tickets obtained.\n\nCONCLUSION: If the individual who wrote the check is in any way reimbursed or paid the cost of the tickets, they will not be itemized if their direct contribution is less than $100. The actual source of the campaign contribution to be reported is the person who ultimately pays the cost of the fundraiser ticket. The person originally taking the tickets is only an 'agent' for the committee and is obligated to disclose to the campaign committee the actual source or those persons who purchased the tickets from them under Government Code Section 84302.",
+    "qa_source": "mixed",
+    "first_500_words": "March 27, 1980 Mr. Monty Manibog 231 West Garvey Monterey Park, California 91754 Dear Mr. Manibog: Pursuant to our telephone conversation earlier today, this letter is to confirm my advice to you regarding the itemization of political contributions. The facts as you presented them are as follows: Tickets for a fundraiser were priced at $10 per person. Some tickets were purchased in blocks of ten or more and individuals wrote a check in the amount of $100 or more to cover cost of the number of tickets taken for the fundraiser. You stated that you were not clear as to whether or not the individuals who wrote the checks in turn sold the tickets to others, or were reimbursed in part or whole for the amount of tickets obtained. You specifically asked if the individuals, who originally wrote the checks to the campaign for the block of tickets, were to be itemized on your committee's campaign statement if their check was in the amount of $100 or more? Government Code Section 84210(g) requires that \"the full name of each person from whom a contribution ... totaling one hundred dollars ($100) or more has been received, and the name of his employer, if any, or the principal place of business if ... self-employed,\" etc. Therefore, if the individual who wrote the check to cover the cost of the block of tickets is in any way reimbursed or paid the cost of the tickets, he will not be itemized on your campaign statement if his direct contribution is less than $100 and will be reported with contributions less than $100 received for the period covered. The actual source of the campaign contribution to be reported is the person who ultimately pays the cost of the fundraiser ticket. Monty Manibog March 27, 1980 Page 2 The person originally taking the tickets is only an \"agent\" for the committee and is obligated to disclose to the campaign committee the actual source, or those persons who purchased the tickets from him. (Government Code Section 84302) I have enclosed a copy of the latest edition of the \"Political Reform Act\" and I hope that this information has been helpful to you. Sincerely, [Signature] Helen P. Arriola Political Reform Consultant HPA:jg Enclosure:",
+    "summary": "FPPC advice letter addressing the itemization requirements for political contributions received through block ticket sales at fundraisers, clarifying that the actual ticket purchaser is the reportable contributor, not intermediary check writers who are reimbursed."
+  }
+}

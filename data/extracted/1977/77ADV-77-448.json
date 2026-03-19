@@ -1,0 +1,71 @@
+{
+  "id": "77ADV-77-448",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-448.PDF",
+  "pdf_sha256": "51b98c0f5a3ac11e4292829e6fc43f7b31c310bf71f01dcbecd8f1bca5042e5f",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-448.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-448",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:22:24",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=47"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:16.317479Z",
+    "page_count": 1,
+    "word_count": 102,
+    "char_count": 681,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 102
+  },
+  "content": {
+    "full_text": "State of.California \nFranchise Tax Board \nMemorandum \nTo \nFair Political Practices Commission \n1100 K Street \nSacramento, CA 95814 \nAttention: \nAlan Herndon \nDa~ \nOctober 19, 1977 \n'l~le No.: \nRCS: lr \nFrom \nRobert C. Summers \nSubject: \nYou recently asked whether or not we would accept photocopies of vouchers \nas necessary documentation during the course of an audit, provided that \nthe originals could be made available on request. \nThis procedure is \nacceptable to this department provided the filer understands that, in some \ncases, he may be requested to secure the original receipt. \nChief, Political Reform Audit Division \ncc: \nD. Converse \nD. Dick \nN. Fuller \nJ. Turrini \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1977-10-19",
+    "date_raw": "October 19, 1977",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Will the Franchise Tax Board accept photocopies of vouchers as documentation during audits, with original documents made available upon request?",
+    "conclusion_synthetic": "The Franchise Tax Board states this procedure is acceptable provided filers understand that original receipts may be requested in some cases.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is incoming correspondence from Franchise Tax Board to FPPC, not an FPPC advice letter. No formal question/conclusion sections exist. The document is responsive to a prior FPPC inquiry about audit documentation procedures. Marked as correspondence rather than incoming_request as it is responding to an earlier query."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:16.317479Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Will the Franchise Tax Board accept photocopies of vouchers as documentation during audits, with original documents made available upon request?\n\nCONCLUSION: The Franchise Tax Board states this procedure is acceptable provided filers understand that original receipts may be requested in some cases.",
+    "qa_source": "synthetic",
+    "first_500_words": "State of.California Franchise Tax Board Memorandum To Fair Political Practices Commission 1100 K Street Sacramento, CA 95814 Attention: Alan Herndon Da~ October 19, 1977 'l~le No.: RCS: lr From Robert C. Summers Subject: You recently asked whether or not we would accept photocopies of vouchers as necessary documentation during the course of an audit, provided that the originals could be made available on request. This procedure is acceptable to this department provided the filer understands that, in some cases, he may be requested to secure the original receipt. Chief, Political Reform Audit Division cc: D. Converse D. Dick N. Fuller J. Turrini",
+    "summary": "This is a memorandum from the Franchise Tax Board to the FPPC responding to a prior question about accepting photocopied vouchers during audits, confirming the Board will accept photocopies with original documents available on request."
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "84138",
+  "year": 1984,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1984/fppc-advice/84138.PDF",
+  "pdf_sha256": "2d6ced0c26edefa5e0d9138aa2deea64a92a54f9b2328ba749177e0c128e616f",
+  "local_pdf_path": "raw_pdfs/1984/84138.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1984 Advice Letter # 84138",
+    "tags": [
+      "1984",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:35:11",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1984&tagCount=1&page=24"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-27T19:05:25.292259Z",
+    "page_count": 1,
+    "word_count": 130,
+    "char_count": 1014,
+    "quality_score": 0.8021189506965053,
+    "olmocr_cost": 0.00252066,
+    "native_word_count": 1,
+    "haiku_cost": 0.00234
+  },
+  "content": {
+    "full_text": "M- 84-138\n\nTO: [xxd]JEANNE        [ ] JAY                                FROM: J. Arriola\n\n    [ ]LYNN           [ ] BARBARA                            DATE: 5/25/84\n\n    [ ]RICH           [ ] BOB S.\n\n    [ ]HELEN          [xxd OTHER Chrono File\n\n(X) Office visitor\n[ ]TELEPHONE ADVICE - SEE BELOW\n\n[ ]CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT\n(IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY)\n\n\nFILE LOCATION: Los Angeles\n\nINCLUDE IN ADVICE PACKAGE:        YES [ ]        NO [x]\n\n\nCALLER Cecilia Santiago\n\nREPRESENTING    Los Angeles\n\nPHONE NUMBER: ___________________________________\n\n\nQUESTION: How does a campaign committee report the investment of campaign\n          funds in real property?\n\n\n\n\nANSWER:   Committee reports payment for property on Schedule E of their\n\n          campaign statement with a brief description of property, i.e.\n\n          address.   Committee's property is reported in other campaign\n\n          statements by notation of additional explanation to \"cash on\n\n          hand\".",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "How does a campaign committee report the investment of campaign funds in real property?\n\nANSWER: Committee reports payment for property on Schedule E of their campaign statement with a brief description of property, i.e. address. Committee's property is reported in other campaign statements by notation of additional explanation to \"cash on hand\".",
+    "conclusion": "Committee reports payment for property on Schedule E of their campaign statement with a brief description of property, i.e. address. Committee's property is reported in other campaign statements by notation of additional explanation to \"cash on hand\".",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The inquirer asks how a campaign committee should properly report the investment of campaign funds in real property on their campaign statements.",
+    "conclusion_synthetic": "Campaign committees should report property purchases on Schedule E with a brief property description and address, and report the property itself in subsequent statements as an addition to cash on hand with explanatory notation.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern; LLM: Office visitor advice from 1984. Document shows standard routing form with question and answer sections clearly delineated. Caller is Cecilia Santiago representing Los Angeles. File location noted as Los Angeles."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T16:24:49.558625Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: How does a campaign committee report the investment of campaign funds in real property?\n\nANSWER: Committee reports payment for property on Schedule E of their campaign statement with a brief description of property, i.e. address. Committee's property is reported in other campaign statements by notation of additional explanation to \"cash on hand\".\n\nCONCLUSION: Committee reports payment for property on Schedule E of their campaign statement with a brief description of property, i.e. address. Committee's property is reported in other campaign statements by notation of additional explanation to \"cash on hand\".",
+    "qa_source": "mixed",
+    "first_500_words": "TO: [xx] JEANNE [ ] JAY [ ] LYNN [ ] BARBARA [ ] RICH [ ] BOB S. [ ] HELEN [xx] OTHER Chrono File (X) Office Visitor [ ] TELEPHONE ADVICE - SEE BELOW [ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT (IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY) FILE LOCATION: Los Angeles INCLUDE IN ADVICE PACKAGE: YES [ ] NO [x] CALLER: Cecilia Santiago REPRESENTING: Los Angeles PHONE NUMBER: QUESTION: How does a campaign committee report the investment of campaign funds in real property? ANSWER: Committee reports payment for property on Schedule E of their campaign statement with a brief description of property, i.e. address. Committee's property is reported in other campaign statements by notation of additional explanation to \"cash on hand\".",
+    "summary": "FPPC advises that campaign committees must report real property investments on Schedule E with property details, and reflect the property in future statements within cash on hand with additional explanation."
+  }
+}

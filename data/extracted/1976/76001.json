@@ -1,0 +1,71 @@
+{
+  "id": "76001",
+  "year": 1976,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1976/76001.PDF",
+  "pdf_sha256": "fb85569b9898baf881114e2d166514cba1bbaec47082ced1aa9794c1971c98c1",
+  "local_pdf_path": "raw_pdfs/1976/76001.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1976 Advice Letter # 76001",
+    "tags": [
+      "1976",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:14:53",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1976&tagCount=1&page=4"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-07T17:14:38.659650Z",
+    "page_count": 1,
+    "word_count": 153,
+    "char_count": 955,
+    "quality_score": 0.7175,
+    "olmocr_cost": 0.00252238,
+    "native_word_count": 6
+  },
+  "content": {
+    "full_text": "This memorandum, dated 1/22/76, is from the Fair Political Practices Commission (Ken Finney) to an unspecified recipient. The subject is \"LEGAL FEES FOR THE 2/3 TAX INITIATIVE ACTION.\"\n\nIn a phone conversation with Vince Thorpe, counsel for the 2/3 Tax Initiative Committee, it was indicated that the committee is low on funds and that legal fees for the action against the FPPC may be paid by certain individuals. Vince wondered whether this activity would create any reporting obligations. Ken indicated that payments might be construed as an in-kind contribution to the committee and reportable as such. He also stated that an expenditure of this nature, by the committee, probably would be reportable.\n\nOn the other hand, Ken suggested that if Vince has any questions about the foregoing, he should submit an opinion request to the Commission. Ken cautioned Vince that he merely was providing staff advice and not a definitive interpretation.\n\nKF: pvp",
+    "full_text_markdown": "This memorandum, dated 1/22/76, is from the Fair Political Practices Commission (Ken Finney) to an unspecified recipient. The subject is \"LEGAL FEES FOR THE 2/3 TAX INITIATIVE ACTION.\"\n\nIn a phone conversation with Vince Thorpe, counsel for the 2/3 Tax Initiative Committee, it was indicated that the committee is low on funds and that legal fees for the action against the FPPC may be paid by certain individuals. Vince wondered whether this activity would create any reporting obligations. Ken indicated that payments might be construed as an in-kind contribution to the committee and reportable as such. He also stated that an expenditure of this nature, by the committee, probably would be reportable.\n\nOn the other hand, Ken suggested that if Vince has any questions about the foregoing, he should submit an opinion request to the Commission. Ken cautioned Vince that he merely was providing staff advice and not a definitive interpretation.\n\nKF: pvp"
+  },
+  "parsed": {
+    "date": "1976-01-22",
+    "date_raw": "1/22/76",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether payments by individuals for legal fees on behalf of the 2/3 Tax Initiative Committee would create reporting obligations under campaign finance law.",
+    "conclusion_synthetic": "Such payments might be construed as in-kind contributions to the committee requiring reporting, and any expenditure of this nature by the committee would likely be reportable; however, formal opinion request should be submitted for definitive interpretation.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.75,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Informal phone conversation documented as memorandum; no formal Q&C sections present; staff explicitly disclaims providing definitive interpretation; recipient and specific committee details somewhat unclear from text"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T17:14:38.659650Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether payments by individuals for legal fees on behalf of the 2/3 Tax Initiative Committee would create reporting obligations under campaign finance law.\n\nCONCLUSION: Such payments might be construed as in-kind contributions to the committee requiring reporting, and any expenditure of this nature by the committee would likely be reportable; however, formal opinion request should be submitted for definitive interpretation.",
+    "qa_source": "synthetic",
+    "first_500_words": "This memorandum, dated 1/22/76, is from the Fair Political Practices Commission (Ken Finney) to an unspecified recipient. The subject is \"LEGAL FEES FOR THE 2/3 TAX INITIATIVE ACTION.\" In a phone conversation with Vince Thorpe, counsel for the 2/3 Tax Initiative Committee, it was indicated that the committee is low on funds and that legal fees for the action against the FPPC may be paid by certain individuals. Vince wondered whether this activity would create any reporting obligations. Ken indicated that payments might be construed as an in-kind contribution to the committee and reportable as such. He also stated that an expenditure of this nature, by the committee, probably would be reportable. On the other hand, Ken suggested that if Vince has any questions about the foregoing, he should submit an opinion request to the Commission. Ken cautioned Vince that he merely was providing staff advice and not a definitive interpretation. KF: pvp",
+    "summary": "FPPC staff (Ken Finney) advises counsel for the 2/3 Tax Initiative Committee via phone conversation that individual payments for legal fees on behalf of the committee may constitute reportable in-kind contributions and expenditures, but recommends formal opinion request for definitive guidance."
+  }
+}

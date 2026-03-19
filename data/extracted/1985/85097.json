@@ -1,0 +1,71 @@
+{
+  "id": "85097",
+  "year": 1985,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1985/fppc-advice/85097.PDF",
+  "pdf_sha256": "4ce24d80a5f8b233ed4013042314191891ac07eeeff0c539097cb9b60817007f",
+  "local_pdf_path": "raw_pdfs/1985/85097.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1985 Advice Letter # 85097",
+    "tags": [
+      "Advice Letter",
+      "1985"
+    ],
+    "scraped_at": "2026-01-31 15:36:35",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1985&tagCount=1&page=13"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T22:21:58.503776Z",
+    "page_count": 1,
+    "word_count": 66,
+    "char_count": 428,
+    "quality_score": 0.8072092586604148,
+    "olmocr_cost": 0.00245444,
+    "native_word_count": 67
+  },
+  "content": {
+    "full_text": "Memorandum\n\nTo: File\n\nDate: April 26, 1985\nNo. T-85-097\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION\n        Mary Ann Kvasager\n\nSubject: Telephone Advice to Edmund Duggan - Pacific Telesis Group\n\nA lobbyist is not prohibited from donating four golf clubs (valued at $150 each) to the Bob Moretti Golf Tournament (a charitable function). The clubs are a gift to the tournament, not the persons who will ultimately receive them.",
+    "full_text_markdown": "Memorandum\n\nTo: File\n\nDate: April 26, 1985\nNo. T-85-097\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION\n        Mary Ann Kvasager\n\nSubject: Telephone Advice to Edmund Duggan - Pacific Telesis Group\n\nA lobbyist is not prohibited from donating four golf clubs (valued at $150 each) to the Bob Moretti Golf Tournament (a charitable function). The clubs are a gift to the tournament, not the persons who will ultimately receive them."
+  },
+  "parsed": {
+    "date": "1985-04-26",
+    "date_raw": "April 26, 1985",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T22:21:58.503776Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "**Memorandum** To: File Date: April 26, 1985 No. T-85-097 From: FAIR POLITICAL PRACTICES COMMISSION Mary Ann Kvasager Subject: Telephone Advice to Edmund Duggan - Pacific Telesis Group A lobbyist is not prohibited from donating four golf clubs (valued at $150 each) to the Bob Moretti Golf Tournament (a charitable function). The clubs are a gift to the tournament, not the persons who will ultimately receive them.",
+    "qa_source": "extracted",
+    "first_500_words": "**Memorandum** To: File Date: April 26, 1985 No. T-85-097 From: FAIR POLITICAL PRACTICES COMMISSION Mary Ann Kvasager Subject: Telephone Advice to Edmund Duggan - Pacific Telesis Group A lobbyist is not prohibited from donating four golf clubs (valued at $150 each) to the Bob Moretti Golf Tournament (a charitable function). The clubs are a gift to the tournament, not the persons who will ultimately receive them.",
+    "summary": null
+  }
+}

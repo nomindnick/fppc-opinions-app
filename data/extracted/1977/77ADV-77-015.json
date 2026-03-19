@@ -1,0 +1,71 @@
+{
+  "id": "77ADV-77-015",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-015.PDF",
+  "pdf_sha256": "bd7f8aea08a5135ca43c06c3d128512185c2048cc5eb18a5a33ea0142d07b4ae",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-015.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-015",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:19:49",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=12"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-07T17:04:04.695775Z",
+    "page_count": 1,
+    "word_count": 147,
+    "char_count": 996,
+    "quality_score": 0.5125,
+    "olmocr_cost": 0.0025241,
+    "native_word_count": 24
+  },
+  "content": {
+    "full_text": "July 13, 1977\n\nWilliam McCormick  \nRepublican Central Committee  \nof Los Angeles County  \n619 South New Hampshire Avenue  \nLos Angeles, CA 90005\n\nDear Mr. McCormick:\n\nThis letter confirms our telephone conversation of July 11, 1977, concerning the Republican Trunk Line. You stated that the subscription cost merely covers the cost of printing and distributing the Trunk Line and does not generate any surplus funds that could be used to make political contributions. Thus, the recipient receives full and adequate consideration for the subscription price and does not make a contribution to the Republican Central Committee of Los Angeles County. Receipts from subscriptions to the newsletter should be reported by the Central Committee as miscellaneous receipts, not as contributions. However, the costs of producing and distributing the newsletter should be reported as expenditures.\n\nI hope this information will be of assistance.\n\nSincerely,\n\nNatalie E. West  \nStaff Counsel  \nLegal Division",
+    "full_text_markdown": "July 13, 1977\n\nWilliam McCormick  \nRepublican Central Committee  \nof Los Angeles County  \n619 South New Hampshire Avenue  \nLos Angeles, CA 90005\n\nDear Mr. McCormick:\n\nThis letter confirms our telephone conversation of July 11, 1977, concerning the Republican Trunk Line. You stated that the subscription cost merely covers the cost of printing and distributing the Trunk Line and does not generate any surplus funds that could be used to make political contributions. Thus, the recipient receives full and adequate consideration for the subscription price and does not make a contribution to the Republican Central Committee of Los Angeles County. Receipts from subscriptions to the newsletter should be reported by the Central Committee as miscellaneous receipts, not as contributions. However, the costs of producing and distributing the newsletter should be reported as expenditures.\n\nI hope this information will be of assistance.\n\nSincerely,\n\nNatalie E. West  \nStaff Counsel  \nLegal Division"
+  },
+  "parsed": {
+    "date": "1977-07-13",
+    "date_raw": "July 13, 1977",
+    "requestor_name": "Mc",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "Receipts from subscriptions to the newsletter should be reported by the Central Committee as miscellaneous receipts, not as contributions. However, the costs of producing and distributing the newsletter should be reported as expenditures.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether subscription revenues from a newsletter (the Republican Trunk Line) should be reported as contributions or miscellaneous receipts, and how the associated costs should be reported.",
+    "conclusion_synthetic": "The FPPC concludes that newsletter subscription receipts constitute miscellaneous receipts rather than contributions since the subscriber receives full and adequate consideration for the subscription price with no surplus funds available for political contributions. Production and distribution costs should be reported as expenditures.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Informal advice letter without explicit question and conclusion sections; structured as follow-up to telephone conversation. No formal 'QUESTION' or 'CONCLUSION' headers present but substantive guidance clearly provided."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T17:04:04.695775Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether subscription revenues from a newsletter (the Republican Trunk Line) should be reported as contributions or miscellaneous receipts, and how the associated costs should be reported.\n\nCONCLUSION: Receipts from subscriptions to the newsletter should be reported by the Central Committee as miscellaneous receipts, not as contributions. However, the costs of producing and distributing the newsletter should be reported as expenditures.",
+    "qa_source": "mixed",
+    "first_500_words": "July 13, 1977 William McCormick Republican Central Committee of Los Angeles County 619 South New Hampshire Avenue Los Angeles, CA 90005 Dear Mr. McCormick: This letter confirms our telephone conversation of July 11, 1977, concerning the Republican Trunk Line. You stated that the subscription cost merely covers the cost of printing and distributing the Trunk Line and does not generate any surplus funds that could be used to make political contributions. Thus, the recipient receives full and adequate consideration for the subscription price and does not make a contribution to the Republican Central Committee of Los Angeles County. Receipts from subscriptions to the newsletter should be reported by the Central Committee as miscellaneous receipts, not as contributions. However, the costs of producing and distributing the newsletter should be reported as expenditures. I hope this information will be of assistance. Sincerely, Natalie E. West Staff Counsel Legal Division",
+    "summary": "FPPC Staff Counsel Natalie E. West advises the Republican Central Committee of Los Angeles County that subscription revenues from their newsletter should be reported as miscellaneous receipts rather than contributions, with associated production costs reported as expenditures."
+  }
+}

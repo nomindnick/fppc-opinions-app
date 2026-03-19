@@ -1,0 +1,73 @@
+{
+  "id": "92549",
+  "year": 1992,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1992/92549.pdf",
+  "pdf_sha256": "8c8ef3dea07a4129eb3a4880cf3e26d82a213357868b22f46c150708b9397685",
+  "local_pdf_path": "raw_pdfs/1992/92549.pdf",
+  "source_metadata": {
+    "title_raw": "Sutherland, Ronald Year: 1992 Advice Letter # 92549",
+    "tags": [
+      "Advice Letter",
+      "1992"
+    ],
+    "scraped_at": "2026-01-31 16:30:01",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1992&tagCount=1&page=96"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:20.237593Z",
+    "page_count": 1,
+    "word_count": 307,
+    "char_count": 1979,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 307
+  },
+  "content": {
+    "full_text": "DARRELL W. LARSEN\nCounty Counsel\nOTFICE OF THE COUNTY COUNSEL\nCOUNTY OF SUTTER\n1160 Civic Center Boulevgrd\nYuba Clty, Celifornia 95993\nT.Lphom (915) 741-?ll0\nRONALD S. ERICKSON\nAssistant\nJAMES SCANLON\nJOSEPH P. CERULLO\nDENNIGE. LE CLERE\nUeputres\n(f\nf'\n,L,:;\n{\\r)\noctober 16, 1992\nMr, Scott HaIlabrin\nActing ceneral Counsel\nFair Political Practices Commission\nP. O. Box 807\nsacramento, cA 95804-0807\nRE: REQUEST FOR ADVICE\nDear Mr. Ha I- Iabrin :\nwe are requesting this advice on behalf of sutter county supervisor\nRona1d Southard.- Sutter County has adopted a PUBLIC SEWER AND\nWATER PoLICY for residential development in a portion of the\nunincorporated area of the County near the City of Yuba City which\nprovides in part the following:\n\"Prior to approval of a master plan for sewer and water\nservices, the County will only approve new tentative maps\nwhich include immediate connection to public sewer and\nwater services . \"\nA developer has filed \nwith the County an application for\nsubdividi-ng approximately 3.39 acres (\"the subdivision\") into six\nresidential units withit the area covered by the above-described\npolicy. Supervisor Southard resides on a parcel, the neares.t point\nLo tie \nsubdivision being his \nsoutheast corner which is\napproximately 910 feet from the northwest corner of \nthe\n=rLdirri=ion. \nSupervisor Southard's direct \ninterest \nin his\nresidential property exceeds one thousand dolIars.\nwe are requesting advice as to whether or not supervisor southard\nmay partiiipate \nand vote on the developer's application- for an\n\"\"i\"pti-on tb tfre above-described policy and in particular for\nperm-ission to subdivide the property without the necessity of\nirooking the parcels up to public sewer service. \nvle make this\nrequesi for advice pursuant to and as contemplated by Government\nCode section 83114 ,\nVery truly yours,\nDARRELL W, LARSEN\nSUTTER COUNTY COUNSEL\n,,1\n(;*-l/.*,1--\n,,</ /\n,/JAI4E{ SCANLON\nLlspurv couNTY couNSEL\nJS: js\ncc: \nSupervisor Ronald Southard\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1992-10-16",
+    "date_raw": "october 16, 1992",
+    "requestor_name": "Ha",
+    "requestor_title": "County Counsel",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "We are requesting advice as to whether or not supervisor southard may participate and vote on the developer's application for an exception to the above-described policy and in particular for permission to subdivide the property without the necessity of hooking the parcels up to public sewer service.",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "May Supervisor Southard participate and vote on a developer's application for a subdivision exemption from the county's public sewer and water policy when his residential property, located approximately 910 feet away, would be affected by the decision?",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an incoming request letter from County Counsel to FPPC, not an FPPC response. No conclusion section present. Document contains specific factual details about the conflict of interest situation and cites Government Code section 83114 as the basis for the request."
+  },
+  "citations": {
+    "government_code": [
+      "83114"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "gifts_honoraria",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:35:20.237593Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: We are requesting advice as to whether or not supervisor southard may participate and vote on the developer's application for an exception to the above-described policy and in particular for permission to subdivide the property without the necessity of hooking the parcels up to public sewer service.",
+    "qa_source": "mixed",
+    "first_500_words": "DARRELL W. LARSEN County Counsel OTFICE OF THE COUNTY COUNSEL COUNTY OF SUTTER 1160 Civic Center Boulevgrd Yuba Clty, Celifornia 95993 T.Lphom (915) 741-?ll0 RONALD S. ERICKSON Assistant JAMES SCANLON JOSEPH P. CERULLO DENNIGE. LE CLERE Ueputres (f f' ,L,:; {\\r) october 16, 1992 Mr, Scott HaIlabrin Acting ceneral Counsel Fair Political Practices Commission P. O. Box 807 sacramento, cA 95804-0807 RE: REQUEST FOR ADVICE Dear Mr. Ha I- Iabrin : we are requesting this advice on behalf of sutter county supervisor Rona1d Southard.- Sutter County has adopted a PUBLIC SEWER AND WATER PoLICY for residential development in a portion of the unincorporated area of the County near the City of Yuba City which provides in part the following: \"Prior to approval of a master plan for sewer and water services, the County will only approve new tentative maps which include immediate connection to public sewer and water services . \" A developer has filed with the County an application for subdividi-ng approximately 3.39 acres (\"the subdivision\") into six residential units withit the area covered by the above-described policy. Supervisor Southard resides on a parcel, the neares.t point Lo tie subdivision being his southeast corner which is approximately 910 feet from the northwest corner of the =rLdirri=ion. Supervisor Southard's direct interest in his residential property exceeds one thousand dolIars. we are requesting advice as to whether or not supervisor southard may partiiipate and vote on the developer's application- for an \"\"i\"pti-on tb tfre above-described policy and in particular for perm-ission to subdivide the property without the necessity of irooking the parcels up to public sewer service. vle make this requesi for advice pursuant to and as contemplated by Government Code section 83114 , Very truly yours, DARRELL W, LARSEN SUTTER COUNTY COUNSEL ,,1 (;*-l/.*,1-- ,,</ / ,/JAI4E{ SCANLON Llspurv couNTY couNSEL JS: js cc: Supervisor Ronald Southard",
+    "summary": "Sutter County Counsel requests FPPC advice regarding whether Supervisor Ronald Southard may participate in voting on a developer's exemption request from the county's public sewer and water service policy, given Southard's nearby residential property interest exceeding $1,000."
+  }
+}

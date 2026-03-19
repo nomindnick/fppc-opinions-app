@@ -1,0 +1,73 @@
+{
+  "id": "85251",
+  "year": 1985,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1985/fppc-advice/85251.PDF",
+  "pdf_sha256": "5ba5cc952d2301bf3021e7d7e1b0157a320be066e5c0cf29adf76e3ffa6662b2",
+  "local_pdf_path": "raw_pdfs/1985/85251.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1985 Advice Letter # 85251",
+    "tags": [
+      "Advice Letter",
+      "1985"
+    ],
+    "scraped_at": "2026-01-31 15:35:55",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1985&tagCount=1&page=4"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:37.831106Z",
+    "page_count": 1,
+    "word_count": 312,
+    "char_count": 2132,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 312
+  },
+  "content": {
+    "full_text": "State of California \nMemorandum \nTo \n, File \nDate \n'December 6, 1985 \nNo. M-85-251 \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nKathy Donovan \nSubject: Telephone Advice to Chris Zirkle, Legislative Counsel's Office, \nRegarding Legislative Newsletters \nChris Zirkle, of the Legislative Counsel's Office, requested \ntelephone advice concerning Government Code section 89001, which \nprohibits an elected state officer from sending any newsletter or \nother mass mailing at public expense after the elected state \nofficer has filed a declaration of candidacy for any office. \nIn \naccordance with regulation 2 Cal. Adm. Code section 18901, \ninformation or materials sent in response to a specific request \ncontained in written correspondence, petitions, oral inquiries, or \ncoupons, are not considered a mass mailing subject to the \nrestrictions of section 89001. \nMr. Zirkle asked whether a \nlegislator who sends a newsletter which includes a coupon for \nconstituents to use in requesting specific information or \nmaterials, may use the newsletter to inform the constituent that \nthe Political Reform Act prohibits the legislator from sending \nadditional newsletters unless the constituent completes and \nreturns the coupon. \nI advised Mr. Zirkle that we think section 89001 permits a \nlegislator to send a newsletter with that type of message, \nalthough I emphasized that the newsletter should provide an \naccurate explanation of section 89001. \nMr. Zirkle requested that \nI provide him with an example of an explanation which we would \nconsider sufficient. \nI suggested the following: \nEnclosed is a coupon which you may use to request \ninformation or materials on specific legislative matters from \nthis office. \nAfter an incumbent legislator has filed a \ndeclaration of candidacy for any office, the Political Reform \nAct prohibits the legislator from sending newsletters or other \nmaterials at public expense unless the information or \nmaterials are sent in response to specific requests. \nIf you \ncomplete and return the enclosed coupon, we will continue to \nsend you information about the legislative matters which \ninterest you. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1985-12-06",
+    "date_raw": "December 6, 1985",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Whether a legislator who sends a newsletter which includes a coupon for constituents to use in requesting specific information or materials, may use the newsletter to inform the constituent that the Political Reform Act prohibits the legislator from sending additional newsletters unless the constituent completes and returns the coupon.",
+    "conclusion": "I advised Mr. Zirkle that we think section 89001 permits a legislator to send a newsletter with that type of message, although I emphasized that the newsletter should provide an accurate explanation of section 89001.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Can a legislator include in a newsletter a message explaining that after filing a declaration of candidacy, they are prohibited from sending newsletters at public expense unless constituents submit a coupon requesting specific information?",
+    "conclusion_synthetic": "FPPC advises that Government Code section 89001 permits a legislator to include such a message in a newsletter, provided the newsletter includes an accurate explanation of the restriction. The FPPC provided a sample explanation of the restriction for use in the newsletter.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is formatted as a memorandum rather than traditional advice letter format. Question and conclusion sections are embedded in narrative text. Document ID M-85-251 corresponds to year 1985. FPPC provided sample language for the legislator to use in communicating the restriction to constituents."
+  },
+  "citations": {
+    "government_code": [
+      "89001"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:36:37.831106Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether a legislator who sends a newsletter which includes a coupon for constituents to use in requesting specific information or materials, may use the newsletter to inform the constituent that the Political Reform Act prohibits the legislator from sending additional newsletters unless the constituent completes and returns the coupon.\n\nCONCLUSION: I advised Mr. Zirkle that we think section 89001 permits a legislator to send a newsletter with that type of message, although I emphasized that the newsletter should provide an accurate explanation of section 89001.",
+    "qa_source": "mixed",
+    "first_500_words": "State of California Memorandum To , File Date 'December 6, 1985 No. M-85-251 From FAIR POLITICAL PRACTICES COMMISSION Kathy Donovan Subject: Telephone Advice to Chris Zirkle, Legislative Counsel's Office, Regarding Legislative Newsletters Chris Zirkle, of the Legislative Counsel's Office, requested telephone advice concerning Government Code section 89001, which prohibits an elected state officer from sending any newsletter or other mass mailing at public expense after the elected state officer has filed a declaration of candidacy for any office. In accordance with regulation 2 Cal. Adm. Code section 18901, information or materials sent in response to a specific request contained in written correspondence, petitions, oral inquiries, or coupons, are not considered a mass mailing subject to the restrictions of section 89001. Mr. Zirkle asked whether a legislator who sends a newsletter which includes a coupon for constituents to use in requesting specific information or materials, may use the newsletter to inform the constituent that the Political Reform Act prohibits the legislator from sending additional newsletters unless the constituent completes and returns the coupon. I advised Mr. Zirkle that we think section 89001 permits a legislator to send a newsletter with that type of message, although I emphasized that the newsletter should provide an accurate explanation of section 89001. Mr. Zirkle requested that I provide him with an example of an explanation which we would consider sufficient. I suggested the following: Enclosed is a coupon which you may use to request information or materials on specific legislative matters from this office. After an incumbent legislator has filed a declaration of candidacy for any office, the Political Reform Act prohibits the legislator from sending newsletters or other materials at public expense unless the information or materials are sent in response to specific requests. If you complete and return the enclosed coupon, we will continue to send you information about the legislative matters which interest you.",
+    "summary": "FPPC provides telephone advice to the Legislative Counsel's Office regarding Government Code section 89001, which restricts newsletters sent by candidates for office. The FPPC advises that legislators may include a message in newsletters explaining this restriction and requesting constituents return a coupon to receive further communications."
+  }
+}

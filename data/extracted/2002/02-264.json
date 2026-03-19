@@ -1,0 +1,76 @@
+{
+  "id": "02-264",
+  "year": 2002,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2002/02-264.pdf",
+  "pdf_sha256": "3a7a00828e0beab86f52061a8e0de59de7015d14b4719105a4aa79b10a0a64ba",
+  "local_pdf_path": "raw_pdfs/2002/02-264.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2002 Advice Letter # 02-264",
+    "tags": [
+      "Advice Letter",
+      "2002"
+    ],
+    "scraped_at": "2026-01-31 14:37:02",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2002&tagCount=1&page=27"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:28.304114Z",
+    "page_count": 2,
+    "word_count": 378,
+    "char_count": 2375,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 378
+  },
+  "content": {
+    "full_text": "Fern Por-rrrcel PnacrrcEs Couurs sroN\n428 J Street. Suite 620. Sacramento, CA g5gl4-2329\n(916) 322-5660. p21 (916) 322-0886\nOctober 78,2002\nColin J. Coffey, General Counsel\nArcher. Norris\nPost Office Box 8035\nWalnut Creek, CA 94596-3728\nRe:\nYour Request for Advice\nOur FiIe No. W-02-264\nDear Mr. Coffey:\nThis letter is in response to your request for advice on behalf of Donald Newman,\nM.D. regarding the provisions of the Political Reform Act (the \"Act').1 The Act requires\nthe Commission to provide written advice to any person whose duties under the Act are\nin question or to that person's authorized representative. (Section 8311a@); regulation\n18329(a) (copy enclosed).) However, the Commission may decline to provide written\nadvice where the requestor is seeking advice that requires us to evaluate conduct that has\nalteady occurred. (Regulation 18329(b)(8XA).) In addition, the Commission may also\ndecline to provide written advice if it would be \"inappropriate or otherwise not in the\npublic interest\" to do so. (Regulation 18329(bX8XF).)\nFormal written advice is the application of law to a given set of facts provided by\nthe requestor and has the purpose of conferring immunity to the requestor. (Siction\n83114; regulation 18329(b)(7).) After a careful review of the facts you provided, we\ndecline to provide written advice to you at this time. The same or very similar issues are\ncurrently the subject of a pending investigation by the Enforcement Division. In\naddition, your current question involves analysis of a series of interrelated decisions,\nsome of which have akeady occurred, such that issuing advice at this time would relate to\npast conduct and, therefore, would not further the impartial, effective administration of\nthe Act so mandated by section 831 1 1.\nPlease note that our decision is not a determination of the questions posed in your\nrequest. In addition, nothing in the Act prevents the official from seeking legal advice\nfrom you or private counsel.\n1 Government Code sections 81000 - 91014. Commission regulations appear at Title 2, sections\n18109-18997, of the California Code of Regulations.\nL::\n\n\nShould you have any further questions, please contact the commission at\nFile No. W-02-264\nPage No. 2\n(et6)\n322-5660.\nEnclosure\ncwje\nI : \\Advi cel. tr s\\W - 02 -2 6 4\nSincerely,\nLuisa Menchaca\nGeneral Counsel\nBy:\nWest\nCounsel, Legal Division\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2002-10-78",
+    "date_raw": "October 78,2002",
+    "requestor_name": "Coffey",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "The Commission declines to provide written advice at this time because the same or very similar issues are currently the subject of a pending investigation by the Enforcement Division, and the request involves analysis of interrelated decisions, some of which have already occurred, making it inappropriate to issue advice that would relate to past conduct.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requestor sought written advice on behalf of Donald Newman, M.D. regarding compliance with the Political Reform Act, but the specific questions are not detailed in the document.",
+    "conclusion_synthetic": "The FPPC declined to provide written advice because similar issues are under pending investigation and the request involves past conduct, which would not further the impartial administration of the Political Reform Act.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is a declination letter with clear reasoning provided. No formal QUESTION or CONCLUSION sections with headers, but substantive explanation of declination grounds is present. Requestor identity and subject matter are identifiable."
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [
+      "18109",
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:34:28.304114Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The requestor sought written advice on behalf of Donald Newman, M.D. regarding compliance with the Political Reform Act, but the specific questions are not detailed in the document.\n\nCONCLUSION: The Commission declines to provide written advice at this time because the same or very similar issues are currently the subject of a pending investigation by the Enforcement Division, and the request involves analysis of interrelated decisions, some of which have already occurred, making it inappropriate to issue advice that would relate to past conduct.",
+    "qa_source": "mixed",
+    "first_500_words": "Fern Por-rrrcel PnacrrcEs Couurs sroN 428 J Street. Suite 620. Sacramento, CA g5gl4-2329 (916) 322-5660. p21 (916) 322-0886 October 78,2002 Colin J. Coffey, General Counsel Archer. Norris Post Office Box 8035 Walnut Creek, CA 94596-3728 Re: Your Request for Advice Our FiIe No. W-02-264 Dear Mr. Coffey: This letter is in response to your request for advice on behalf of Donald Newman, M.D. regarding the provisions of the Political Reform Act (the \"Act').1 The Act requires the Commission to provide written advice to any person whose duties under the Act are in question or to that person's authorized representative. (Section 8311a@); regulation 18329(a) (copy enclosed).) However, the Commission may decline to provide written advice where the requestor is seeking advice that requires us to evaluate conduct that has alteady occurred. (Regulation 18329(b)(8XA).) In addition, the Commission may also decline to provide written advice if it would be \"inappropriate or otherwise not in the public interest\" to do so. (Regulation 18329(bX8XF).) Formal written advice is the application of law to a given set of facts provided by the requestor and has the purpose of conferring immunity to the requestor. (Siction 83114; regulation 18329(b)(7).) After a careful review of the facts you provided, we decline to provide written advice to you at this time. The same or very similar issues are currently the subject of a pending investigation by the Enforcement Division. In addition, your current question involves analysis of a series of interrelated decisions, some of which have akeady occurred, such that issuing advice at this time would relate to past conduct and, therefore, would not further the impartial, effective administration of the Act so mandated by section 831 1 1. Please note that our decision is not a determination of the questions posed in your request. In addition, nothing in the Act prevents the official from seeking legal advice from you or private counsel. 1 Government Code sections 81000 - 91014. Commission regulations appear at Title 2, sections 18109-18997, of the California Code of Regulations. L:: Should you have any further questions, please contact the commission at File No. W-02-264 Page No. 2 (et6) 322-5660. Enclosure cwje I : \\Advi cel. tr s\\W - 02 -2 6 4 Sincerely, Luisa Menchaca General Counsel By: West Counsel, Legal Division",
+    "summary": "This is a declination letter from the FPPC declining to provide written advice to counsel for Donald Newman, M.D. regarding Political Reform Act compliance, citing pending investigation and analysis of past conduct as reasons for the declination."
+  }
+}

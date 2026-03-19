@@ -1,0 +1,72 @@
+{
+  "id": "92586",
+  "year": 1992,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1992/92586.pdf",
+  "pdf_sha256": "295ed109b7de339047945798ea09f734c7eafc1497bfee5bb7e6f0705c878c6d",
+  "local_pdf_path": "raw_pdfs/1992/92586.pdf",
+  "source_metadata": {
+    "title_raw": "Demers, G. Year: 1992 Advice Letter # 92586",
+    "tags": [
+      "Advice Letter",
+      "1992"
+    ],
+    "scraped_at": "2026-01-31 16:29:56",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1992&tagCount=1&page=95"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T17:54:52.118348Z",
+    "page_count": 1,
+    "word_count": 181,
+    "char_count": 1156,
+    "quality_score": 0.7904563750555788,
+    "olmocr_cost": 0.00259462,
+    "native_word_count": 190,
+    "haiku_cost": 0.0026184
+  },
+  "content": {
+    "full_text": "TO: Blanca Breeze\n\nPlease confirm phone advice. Also, please advise if defacted, as to use of funds to thank volunteers after Nov 3rd.\n\nFair Political Practice Commission\nLegal Division\n\nSubject: Proper use of campaign funds\n\nCould you please verify in writing that what we would like to do is legal? We do realize that this is short notice, but can we get an answer as soon as possible. Your quick response would be appreciated very much. If you cannot meet this request, we do understand. Here are the following questions we have:\n\nCan we use campaign funds to host a party, example; catering, rental tables, and chairs used to thank the volunteers on election night?\n\nCan we use any campaign funds to host a victory party, after November 3rd?\n\nThank you,\n[Signature]\nGermina D. Demers\n619-594-2463\n\nAlso, can we have both parties.\n\nAddress: 1009 Csonds Ave\nSpring Valley, CA\n91977\n\nPost-It® brand fax transmittal memo 7671 # of pages / \n\nTO: Blanca Breeze          FROM: Germina Demers\n\nCo.                         Co.\n\nDept.                       Phone#: 619-594-2463\n\nFax #                       Fax #\n\nOCT 22 '92 12:35          5195946892    PAGE.001",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": "Demers",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "Can we use campaign funds to host a party, example; catering, rental tables, and chairs used to thank the volunteers on election night? Can we use any campaign funds to host a victory party, after November 3rd? Also, can we have both parties.",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requester asks whether campaign funds may be used to host volunteer appreciation and/or victory parties after election day, including catering and rental costs, and whether both types of parties may be held.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.75,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an incoming request to the FPPC, not an FPPC response letter. The document shows the request letter from the public to FPPC seeking legal advice. The header 'Fair Political Practice Commission Legal division' and 'To: Blanca Breeze' indicate this is directed to the FPPC but the main body is the questioner's inquiry. No FPPC conclusion or response text is present."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T16:17:15.744517Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Can we use campaign funds to host a party, example; catering, rental tables, and chairs used to thank the volunteers on election night? Can we use any campaign funds to host a victory party, after November 3rd? Also, can we have both parties.",
+    "qa_source": "mixed",
+    "first_500_words": "To: Blanca Breeze Please confirm phone advice. Also, please advise if defeated, as to use of funds to thank volunteers after Nov 3rd. Fair Political Practice Commission Legal division Subject: Proper use of campaign funds Could you please verify in writing that what we would like to do is legal? We do realize that this is short notice, but can we get an answer as soon as possible. Your quick response would be appreciated very much. If you cannot meet this request, we do understand. Here are the following questions we have: Can we use campaign funds to host a party, example; catering, rental tables, and chairs used to thank the volunteers on election night? Can we use any campaign funds to host a victory party, after November 3rd? Also, can we have both parties. Thank you, Germina D. Demers 619-594-2463",
+    "summary": "An incoming request from Germina D. Demers asking the FPPC for written verification regarding the permissibility of using campaign funds for volunteer appreciation and victory parties on and after election night, including specific costs like catering and table rentals."
+  }
+}

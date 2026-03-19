@@ -1,0 +1,76 @@
+{
+  "id": "09-198",
+  "year": 2009,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2009/09-198.pdf",
+  "pdf_sha256": "4ef3d2dc89f54021171100cf3e007617304c61e67dd18fb55cba98e085d74c2f",
+  "local_pdf_path": "raw_pdfs/2009/09-198.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2009 Advice Letter # 09-198",
+    "tags": [
+      "2009",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 17:08:01",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2009&tagCount=1&page=15"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:00.259111Z",
+    "page_count": 1,
+    "word_count": 244,
+    "char_count": 1594,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 244
+  },
+  "content": {
+    "full_text": "Re\nFern PolrrrcAl Pnecrrcps CoMMrssroN\n-128 J Street o Suire 620 o Sacrarnento. CA 958 l.t-2329\n(916) 322-5660 . Fax (916) 322-0886\nAugust 27,2009\nCarol J. Monaham Cummings\nChief Counsel\nOffice of Environmental\nHealth Hazard Assessment\nP.O. Box 4010\nSacramento, CA 95814\nYour Request for Advice\nOur File No. W-09'198\nDear Ms. Cummings:\nThis letter is written confirmation that we have withdrawn your August 12,2009,\nrequest for advice regarding the honorarium provisions of the Political Reform Act.l\nAfter a careful review of the facts you have provided, your current questions involve\nactivities that have already occurred. Issuing advice at this. time would relate to past\nconduct and would not further the impartial, effective admihistration of the Act so\nmandated by Section 83111. As discussed in a telephone conversation on August 25,\n2009, we must, therefore, decline your request for advice. (See Section 831 14(b);\nRegulation 18329(b)(8)(A) and (cX4)(A), copy enclosed.)\nIf you have other questions on this matter, please contact me at (916) 322-5660.\nSincerely,\nscott Hallabrin\nGeneral Counsel\nBy: Brian G. Lau\nCounsel, Legal Division\nI The Political Reform Act is contained in Government Code Sections 81000 through 91014. All\nstatutory ref'erences are to the Government Code, unless otherwise indicated. The regulations of the Fair\nPolitical Practices Commission are contained in Sections t8l l0 through ltt997 of Title 2 of the Califbrnia\nCode of Regulations. All regulatory references are to Title 2, Division 6 of the Califbrnia Code 9f\nRegulations, unless otherwise indicated.\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2009-08-27",
+    "date_raw": "August 27,2009",
+    "requestor_name": "Cummings",
+    "requestor_title": "Chief Counsel",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "After a careful review of the facts you have provided, your current questions involve activities that have already occurred. Issuing advice at this time would relate to past conduct and would not further the impartial, effective administration of the Act so mandated by Section 83111. As discussed in a telephone conversation on August 25, 2009, we must, therefore, decline your request for advice.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requester sought advice regarding the honorarium provisions of the Political Reform Act concerning activities that had already occurred.",
+    "conclusion_synthetic": "The FPPC declined to issue advice because the request concerns past conduct rather than prospective activities, and addressing it would not further the impartial administration of the Political Reform Act as required by statute.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is a declination/withdrawal letter. The FPPC declined the request on grounds that it concerns past conduct. No formal Q/A sections present, but the basis for declination is clearly stated with statutory citation."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "83111"
+    ],
+    "regulations": [
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "gifts_honoraria",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:34:00.259111Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The requester sought advice regarding the honorarium provisions of the Political Reform Act concerning activities that had already occurred.\n\nCONCLUSION: After a careful review of the facts you have provided, your current questions involve activities that have already occurred. Issuing advice at this time would relate to past conduct and would not further the impartial, effective administration of the Act so mandated by Section 83111. As discussed in a telephone conversation on August 25, 2009, we must, therefore, decline your request for advice.",
+    "qa_source": "mixed",
+    "first_500_words": "Re Fern PolrrrcAl Pnecrrcps CoMMrssroN -128 J Street o Suire 620 o Sacrarnento. CA 958 l.t-2329 (916) 322-5660 . Fax (916) 322-0886 August 27,2009 Carol J. Monaham Cummings Chief Counsel Office of Environmental Health Hazard Assessment P.O. Box 4010 Sacramento, CA 95814 Your Request for Advice Our File No. W-09'198 Dear Ms. Cummings: This letter is written confirmation that we have withdrawn your August 12,2009, request for advice regarding the honorarium provisions of the Political Reform Act.l After a careful review of the facts you have provided, your current questions involve activities that have already occurred. Issuing advice at this. time would relate to past conduct and would not further the impartial, effective admihistration of the Act so mandated by Section 83111. As discussed in a telephone conversation on August 25, 2009, we must, therefore, decline your request for advice. (See Section 831 14(b); Regulation 18329(b)(8)(A) and (cX4)(A), copy enclosed.) If you have other questions on this matter, please contact me at (916) 322-5660. Sincerely, scott Hallabrin General Counsel By: Brian G. Lau Counsel, Legal Division I The Political Reform Act is contained in Government Code Sections 81000 through 91014. All statutory ref'erences are to the Government Code, unless otherwise indicated. The regulations of the Fair Political Practices Commission are contained in Sections t8l l0 through ltt997 of Title 2 of the Califbrnia Code of Regulations. All regulatory references are to Title 2, Division 6 of the Califbrnia Code 9f Regulations, unless otherwise indicated.",
+    "summary": "The FPPC withdrew the requester's August 12, 2009 advice request regarding honorarium provisions under the Political Reform Act, declining to provide guidance because the questions involved activities that had already occurred."
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "79-136",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-136.PDF",
+  "pdf_sha256": "ef19c7e52d4a58572d26295257813cdcb2819b2e5f3e2366fc9736a8dc7b7690",
+  "local_pdf_path": "raw_pdfs/1979/79-136.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1979 Advice Letter # 79-136",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:25:51",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=7"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T00:55:44.887465Z",
+    "page_count": 2,
+    "word_count": 426,
+    "char_count": 2795,
+    "quality_score": 0.9339997804354865,
+    "olmocr_cost": 0.00520472,
+    "native_word_count": 45,
+    "haiku_cost": 0.00518
+  },
+  "content": {
+    "full_text": "State of California\n\nMemorandum\n\nTo : File                                                    Date : Sept. 19, 1979\n\n\n                                                            M 79-136\nFrom : FAIR POLITICAL PRACTICES COMMISSION\n       Ted Prim\n\nSubject: Candidate Statements\n\n\n     Government Code Section 87201 requires persons for offices\nspecified in Section 87200 to file a Statement of Economic Interests\nwith their declaration of candidacy. A candidate will have complied\nwith this requirement if he or she files a Statement of Economic\nInterests at the time of or prior to the time of the filing of the\nfinal document with state or local election officials which is\nnecessary to have his name listed on the ballot or to have write-\nin votes counted on his behalf.\n\n     This interpretation is consistent with the Commission's defini-\ntion of \"declaration of candidacy\" in 2 Cal. Adm. Code Section 18902\nas it relates to the prohibition contained in Government Code Section\n89001.\n\nAttachment\nTP:nrw\n\nState of California\n\nMemorandum\n\nTo : Ted                                          Date : July 24, 1979\n\n     cc: Bob S.      Bill\n         Lee         Alice\n         Sarah       Helen\n         Dwight\n\nFrom : FAIR POLITICAL PRACTICES COMMISSION\n       Gina T.\n\nSubject: Candidate's Statements of Economic Interests\n\nThe following problem has been brought to my attention by Yvonne in the\nSan Diego County Elections Department:\n\nIn the past when a person was running for public office he or she had a certain\n30 day period in which to pick up the nominating papers and Statement of Economic\nInterests (Form 720) from the County Clerk, complete them, and return them. It\nis the county clerk's policy not to accept a declaration of candidacy without a\ncompleted Form 720 because of Government Code Section D1720l which states that a\ncandidate \"...shall file with his declaration of candidacy a statement disclosing\nhis investments and his interests in real property.\"\n\nThe Secretary of State has recently amended the Elections Code requiring candidates\nto complete their nominating papers in the clerk's office. The papers cannot\nleave the clerk's office under any circumstances. It is very difficult or impos-\nsible for many candidates to complete the Form 720 without referring to other\nrecords, etc...\n\nYvonne asked the following questions:\n\n1. Given the recent changes in the Elections Code is it legal for her to\n   allow a candidate to complete the Form 720 outside her office?\n\n2. If so, should it be completed prior to filing a declaration of candidacy\n   so that they can be filed together or can she accept the declaration of\n   candidacy without a Form 720, as long as the 720 is filed within the 30\n   day nominating period?\n\nPlease let me know as soon as possible.     Thanks.",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1979-07-24",
+    "date_raw": "July 24, 1979",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "1. Given the recent changes in the Elections Code is it legal for her to allow a candidate to complete the Form 720 outside her office?\n\n2. If so, should it be completed prior to filing a declaration of candidacy so that they can be filed together or can she accept the declaration of candidacy without a Form 720, as long as the 720 is filed within the 30 day nominating period?",
+    "conclusion": "A candidate will have complied with this requirement if he or she files a Statement of Economic Interests at the time of or prior to the time of the filing of the final document with state or local election officials which is necessary to have his name listed on the ballot or to have write-in votes counted on his behalf.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether county election officials may allow candidates to complete the Statement of Economic Interests (Form 720) outside the clerk's office given recent Elections Code amendments requiring nominating papers to be completed in the clerk's office, and the timing requirements for filing the Form 720 relative to the declaration of candidacy.",
+    "conclusion_synthetic": "The FPPC concludes that candidates may file the Statement of Economic Interests prior to or at the same time as filing the final document necessary for ballot inclusion, rather than strictly requiring it to accompany the declaration of candidacy. This interpretation allows flexibility in timing while maintaining compliance with Government Code Section 87201.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document consists of two memoranda: the initial request from Gina T. (July 24, 1979) and the FPPC response from Ted Prim (Sept. 19, 1979). The response addresses the timing requirement rather than explicitly answering whether the form can be completed off-site. No formal QUESTION or CONCLUSION section headers; extracted text is synthesized from the substantive portions."
+  },
+  "citations": {
+    "government_code": [
+      "87200",
+      "87201",
+      "89001"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.6666666666666666,
+    "classified_at": "2026-02-07T16:47:13.024518Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: 1. Given the recent changes in the Elections Code is it legal for her to allow a candidate to complete the Form 720 outside her office?\n\n2. If so, should it be completed prior to filing a declaration of candidacy so that they can be filed together or can she accept the declaration of candidacy without a Form 720, as long as the 720 is filed within the 30 day nominating period?\n\nCONCLUSION: A candidate will have complied with this requirement if he or she files a Statement of Economic Interests at the time of or prior to the time of the filing of the final document with state or local election officials which is necessary to have his name listed on the ballot or to have write-in votes counted on his behalf.",
+    "qa_source": "mixed",
+    "first_500_words": "**Memorandum** **To:** File **Date:** Sept. 19, 1979 **From:** FAIR POLITICAL PRACTICES COMMISSION Ted Prim **Subject:** Candidate Statements Government Code Section 87201 requires persons for offices specified in Section 87200 to file a Statement of Economic Interests with their declaration of candidacy. A candidate will have complied with this requirement if he or she files a Statement of Economic Interests at the time of or prior to the time of the filing of the final document with state or local election officials which is necessary to have his name listed on the ballot or to have write-in votes counted on his behalf. This interpretation is consistent with the Commission's definition of \"declaration of candidacy\" in 2 Cal. Adm. Code Section 18902 as it relates to the prohibition contained in Government Code Section 89001. Attachment TP:nrw **Memorandum** **State of California** **To:** Ted **cc:** Bob S. Bill Lee Alice Sarah Helen Dwight **Date:** July 24, 1979 **From:** FAIR POLITICAL PRACTICES COMMISSION Gina T. **Subject:** Candidate's Statements of Economic Interests The following problem has been brought to my attention by Yvonne in the San Diego County Elections Department: In the past when a person was running for public office he or she had a certain 30 day period in which to pick up the nominating papers and Statement of Economic Interests (Form 720) from the County Clerk, complete them, and return them. It is the county clerk's policy not to accept a declaration of candidacy without a completed Form 720 because of Government Code Section 87201 which states that a candidate \"...shall file with his declaration of candidacy a statement disclosing his investments and his interests in real property.\" The Secretary of State has recently amended the Elections Code requiring candidates to complete their nominating papers in the clerk's office. The papers cannot leave the clerk's office under any circumstances. It is very difficult or impossible for many candidates to complete the Form 720 without referring to other records, etc... Yvonne asked the following questions: 1. Given the recent changes in the Elections Code is it legal for her to allow a candidate to complete the Form 720 outside her office? 2. If so, should it be completed prior to filing a declaration of candidacy so that they can be filed together or can she accept the declaration of candidacy without a Form 720, as long as the 720 is filed within the 30 day nominating period? Please let me know as soon as possible. Thanks.",
+    "summary": "FPPC memorandum addressing whether candidates can complete the Statement of Economic Interests form outside the county clerk's office when recent Elections Code amendments require nominating papers to be completed on-site. The Commission provides guidance that the form must be filed by the time of or before the final ballot documentation is submitted."
+  }
+}

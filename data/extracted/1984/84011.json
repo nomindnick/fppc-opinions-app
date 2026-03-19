@@ -1,0 +1,71 @@
+{
+  "id": "84011",
+  "year": 1984,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1984/fppc-advice/84011.PDF",
+  "pdf_sha256": "6d8f1f2b44c501134c71e8ff520e894bec0d38d9b0fc91a83b32ff607960e759",
+  "local_pdf_path": "raw_pdfs/1984/84011.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1984 Advice Letter # 84011",
+    "tags": [
+      "1984",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:35:24",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1984&tagCount=1&page=27"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T21:54:08.234579Z",
+    "page_count": 1,
+    "word_count": 164,
+    "char_count": 1004,
+    "quality_score": 0.8411088256806861,
+    "olmocr_cost": 0.0025972,
+    "native_word_count": 154
+  },
+  "content": {
+    "full_text": "TO: [ ] JEANNE   [ ] JAY\n[ ] LYNN        [ ] BARBARA\n[ ] RICH        [ ] BOB S.\n[ ] HELEN       [x] OTHER Mary Ann\n\nFROM: Carla Wardlow\nDATE: January 12, 1984\nT-84-011\n\n[x] TELEPHONE ADVICE - SEE BELOW\n[ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT\n(IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY)\n\nFILE LOCATION: 82015, 89001\n\nINCLUDE IN ADVICE PACKAGE: YES [ ] NO [x]\n\nCALLER: Judy Johnson\nREPRESENTING: Assemblywoman Bergeson\nPHONE NUMBER: 714-540-4188\n\nQUESTION: May Assemblywoman Bergeson's campaign committee for her 1984 Senate election use extra copies of Bergeson's most recent legislative newsletter to include in a press package to be sent in connection with her Senate election. Mrs. Bergeson has not yet filed a declaration of candidacy.\n\nANSWER: There is no prohibition against the committee's use of the newsletter. However, the copies would be a non-monetary contribution from the State. The committee should determine the fair market value of the copies and purchase them instead.",
+    "full_text_markdown": "TO: [ ] JEANNE   [ ] JAY\n[ ] LYNN        [ ] BARBARA\n[ ] RICH        [ ] BOB S.\n[ ] HELEN       [x] OTHER Mary Ann\n\nFROM: Carla Wardlow\nDATE: January 12, 1984\nT-84-011\n\n[x] TELEPHONE ADVICE - SEE BELOW\n[ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT\n(IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY)\n\nFILE LOCATION: 82015, 89001\n\nINCLUDE IN ADVICE PACKAGE: YES [ ] NO [x]\n\nCALLER: Judy Johnson\nREPRESENTING: Assemblywoman Bergeson\nPHONE NUMBER: 714-540-4188\n\nQUESTION: May Assemblywoman Bergeson's campaign committee for her 1984 Senate election use extra copies of Bergeson's most recent legislative newsletter to include in a press package to be sent in connection with her Senate election. Mrs. Bergeson has not yet filed a declaration of candidacy.\n\nANSWER: There is no prohibition against the committee's use of the newsletter. However, the copies would be a non-monetary contribution from the State. The committee should determine the fair market value of the copies and purchase them instead."
+  },
+  "parsed": {
+    "date": "1984-01-12",
+    "date_raw": "January 12, 1984",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "May Assemblywoman Bergeson's campaign committee for her 1984 Senate election use extra copies of Bergeson's most recent legislative newsletter to include in a press package to be sent in connection with her Senate election. Mrs. Bergeson has not yet filed a declaration of candidacy.\n\nANSWER: There is no prohibition against the committee's use of the newsletter. However, the copies would be a non-monetary contribution from the State. The committee should determine the fair market value of the copies and purchase them instead.",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.44999999999999996,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T21:54:08.234579Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: May Assemblywoman Bergeson's campaign committee for her 1984 Senate election use extra copies of Bergeson's most recent legislative newsletter to include in a press package to be sent in connection with her Senate election. Mrs. Bergeson has not yet filed a declaration of candidacy.\n\nANSWER: There is no prohibition against the committee's use of the newsletter. However, the copies would be a non-monetary contribution from the State. The committee should determine the fair market value of the copies and purchase them instead.",
+    "qa_source": "extracted",
+    "first_500_words": "TO: [ ] JEANNE [ ] JAY [ ] LYNN [ ] BARBARA [ ] RICH [ ] BOB S. [ ] HELEN [x] OTHER Mary Ann FROM: Carla Wardlow DATE: January 12, 1984 T-84-011 [x] TELEPHONE ADVICE - SEE BELOW [ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT (IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY) FILE LOCATION: 82015, 89001 INCLUDE IN ADVICE PACKAGE: YES [ ] NO [x] CALLER: Judy Johnson REPRESENTING: Assemblywoman Bergeson PHONE NUMBER: 714-540-4188 QUESTION: May Assemblywoman Bergeson's campaign committee for her 1984 Senate election use extra copies of Bergeson's most recent legislative newsletter to include in a press package to be sent in connection with her Senate election. Mrs. Bergeson has not yet filed a declaration of candidacy. ANSWER: There is no prohibition against the committee's use of the newsletter. However, the copies would be a non-monetary contribution from the State. The committee should determine the fair market value of the copies and purchase them instead.",
+    "summary": null
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "03-244",
+  "year": 2003,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2003/03-244.pdf",
+  "pdf_sha256": "4b5ea09c8fd3e428542bbb820ba687207d20dea6c081b64e8851dace5d15ed80",
+  "local_pdf_path": "raw_pdfs/2003/03-244.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2003 Advice Letter # 03-244",
+    "tags": [
+      "2003",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:39:46",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2003&tagCount=1&page=28"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:23.560448Z",
+    "page_count": 1,
+    "word_count": 256,
+    "char_count": 1662,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 256
+  },
+  "content": {
+    "full_text": "Dear Mr. Allen:\nThis letter is in response to your request for written advice on the conflict-of-interest\nprovisions of the Political Reform Act.r Under Califomia Code of Regulations 18329(b)(8XB),\ncopy enclosed, unless you are an atthoized representative of the official for whom yor, r\"\"k\nassistance, the Fair Political Practices Commission cannot address your questions or provide\nanalysis. However, we have enclosed sqme general ilformation that maybe helpful (\"C* I\nVote?\" and the Davies Advice Letter, No. 4-91-256).2\nMoreover, if you believe a violation of the Political Reform Act has occurred, you have\nthe option of filing a complaint with our Enforcement Division.\nFarn Polrrrcar PnacrrcEs CoururssroN\n428 J Street o Suite 620 r Sacramento, CA 95814-2329\n(916) 322-5660 o Fax (916) 322-0886\nOctober 29,2003\nLawrence R. Allen, District Attorney\nSierra County District Attorney\nPost Office Box 457\nDownieville, CA 95936\nRe\nYour Request for Advice\nOur File No. W-03-244\nShould you have additional questions regarding this matter, please do not hesitate to\ncontact me at (916) 322-5660.\nSincerely,\nLuisa Menchaca\nCounsel\nWallace\nAssistant General Counsel\nJwwjg\nEnclosures\nI Government Code sections 81000-91014. Commission regulations appear at Title 2, sections 18109-\n18997, of the California Code of Regulations.\n2 Note that advice letters ari an application of the law to a specific set of facts provided by the requestor\nThey are not precedential, however, they may be consulted for general guidance. Daviei was superseded in 1995\nafter the personal financial effects test was changed from a $250 eftect, to a $250 effect in any l2-month period.\n6,H\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2003-10-29",
+    "date_raw": "October 29,2003",
+    "requestor_name": "Allen",
+    "requestor_title": "District Attorney",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": ". However, we have enclosed sqme general ilformation that maybe helpful (\"C* I\nVote?\" and the Davies Advice Letter, No. 4-91-256).2\nMoreover, if you believe a violation of the Political Reform Act has occurred, you have\nthe option of filing a complaint with our Enforcement Division.\nFarn Polrrrcar PnacrrcEs CoururssroN\n\n(916) 322-5660 o Fax (916) 322-0886\nOctober 29,2003\nLawrence R. Allen, District Attorney\nSierra County District Attorney\nPost Office Box 457\nDownieville, CA 95936\nRe\nYour Request for Advice\nOur File No. W-03-244",
+    "question_synthetic": "The requestor sought written advice on conflict-of-interest provisions of the Political Reform Act, but the specific legal question cannot be determined from this response letter.",
+    "conclusion_synthetic": "The FPPC cannot provide the requested advice because the requestor is not an authorized representative of the official in question, as required by California Code of Regulations 18329(b)(8)(B). General informational materials were enclosed instead.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.75,
+    "has_standard_format": false,
+    "parsing_notes": "Format: ocr; LLM: OCR quality issues present (e.g., 'atthoized', 'yor, r\"\"k', 'ilformation'). No detailed QUESTION or CONCLUSION sections present; response is a declination letter. File number W-03-244 suggests possible withdrawal. Specific legal question not disclosed in this response."
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [
+      "18109",
+      "18329"
+    ],
+    "prior_opinions": [
+      "A-91-256"
+    ],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:34:23.560448Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The requestor sought written advice on conflict-of-interest provisions of the Political Reform Act, but the specific legal question cannot be determined from this response letter.\n\nCONCLUSION: The FPPC cannot provide the requested advice because the requestor is not an authorized representative of the official in question, as required by California Code of Regulations 18329(b)(8)(B). General informational materials were enclosed instead.",
+    "qa_source": "synthetic",
+    "first_500_words": "Dear Mr. Allen: This letter is in response to your request for written advice on the conflict-of-interest provisions of the Political Reform Act.r Under Califomia Code of Regulations 18329(b)(8XB), copy enclosed, unless you are an atthoized representative of the official for whom yor, r\"\"k assistance, the Fair Political Practices Commission cannot address your questions or provide analysis. However, we have enclosed sqme general ilformation that maybe helpful (\"C* I Vote?\" and the Davies Advice Letter, No. 4-91-256).2 Moreover, if you believe a violation of the Political Reform Act has occurred, you have the option of filing a complaint with our Enforcement Division. Farn Polrrrcar PnacrrcEs CoururssroN 428 J Street o Suite 620 r Sacramento, CA 95814-2329 (916) 322-5660 o Fax (916) 322-0886 October 29,2003 Lawrence R. Allen, District Attorney Sierra County District Attorney Post Office Box 457 Downieville, CA 95936 Re Your Request for Advice Our File No. W-03-244 Should you have additional questions regarding this matter, please do not hesitate to contact me at (916) 322-5660. Sincerely, Luisa Menchaca Counsel Wallace Assistant General Counsel Jwwjg Enclosures I Government Code sections 81000-91014. Commission regulations appear at Title 2, sections 18109- 18997, of the California Code of Regulations. 2 Note that advice letters ari an application of the law to a specific set of facts provided by the requestor They are not precedential, however, they may be consulted for general guidance. Daviei was superseded in 1995 after the personal financial effects test was changed from a $250 eftect, to a $250 effect in any l2-month period. 6,H",
+    "summary": "FPPC declines to provide conflict-of-interest advice to Lawrence R. Allen (Sierra County District Attorney) because he does not appear to be an authorized representative of the official for whom assistance was requested, per regulatory requirements. General information materials were enclosed."
+  }
+}

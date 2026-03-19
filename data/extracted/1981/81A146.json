@@ -1,0 +1,75 @@
+{
+  "id": "81A146",
+  "year": 1981,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1981/81A146.PDF",
+  "pdf_sha256": "5d73d39e35e6cd0a7f9d5e7a4c65d23be4a39e6245349b1d594bf026af4a9d7a",
+  "local_pdf_path": "raw_pdfs/1981/81A146.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1981 Advice Letter # 81A146",
+    "tags": [
+      "Advice Letter",
+      "1981"
+    ],
+    "scraped_at": "2026-01-31 15:28:46",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1981&tagCount=1&page=10"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:01.546516Z",
+    "page_count": 1,
+    "word_count": 246,
+    "char_count": 1623,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 246
+  },
+  "content": {
+    "full_text": "State of California \nMemorandum \nTo \nOpinion Request Participants \nDate \n3/26/81 \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nLynn \nSubject: \nTA & A Question (from Helen) at Opinion Request meeting of \nMarch 19, 1981. \nQ. \nAn elected city official's controlled committee makes \nan independent expenditure of more than $500 for a \nmailing which benefits a slate of candidates, but does \nnot spend $500 or more, allocated on a pro-rata basis, \non anyone candidate. \nWhat statements must be filed, \nand where? \nA. \nSection 84200(b) provides: In addition to the campaign \nstatements required by subdivision (a), candidates, \nelected officers, their controlled committees, and \nany committee formed primarily to support or oppose a \ncandidate or a measure that has made or received contri-\nbutions of five hundred dollars ($500) or more or made \nexpenditures of five hundred dollars ($500) or more \nduring the threshold period ... shall file campaign \nstatements .... Therefore, a threshold statement is \nrequired and is filed where the maker of the independent \nexpenditure normally files campaign statements. \nSection 84208(a) provides: In addition to any campaign \nstatements required by Section 84200, if a committee \nhas made independent expenditures totaling five hundred \ndollars ($500) or more in a calendar year to support \nor oppose a candidate, a measure or qualification of \na measure It shall file independent expenditure reports ... \nThe elected official has not spent $500 or more on any \none candidate, allocated on a pro-rata basis, and, there-\nfore, is not required to file an independent expenditure \nreport. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1981-03-19",
+    "date_raw": "March 19, 1981",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "An elected city official's controlled committee makes an independent expenditure of more than $500 for a mailing which benefits a slate of candidates, but does not spend $500 or more, allocated on a pro-rata basis, on anyone candidate. What statements must be filed, and where?",
+    "conclusion": "Section 84200(b) provides: In addition to the campaign statements required by subdivision (a), candidates, elected officers, their controlled committees, and any committee formed primarily to support or oppose a candidate or a measure that has made or received contributions of five hundred dollars ($500) or more or made expenditures of five hundred dollars ($500) or more during the threshold period ... shall file campaign statements .... Therefore, a threshold statement is required and is filed where the maker of the independent expenditure normally files campaign statements. Section 84208(a) provides: In addition to any campaign statements required by Section 84200, if a committee has made independent expenditures totaling five hundred dollars ($500) or more in a calendar year to support or oppose a candidate, a measure or qualification of a measure it shall file independent expenditure reports ... The elected official has not spent $500 or more on any one candidate, allocated on a pro-rata basis, and, therefore, is not required to file an independent expenditure report.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "When an elected official's controlled committee makes independent expenditures exceeding $500 for a mailing benefiting multiple candidates without $500+ allocated to any single candidate, what filing requirements apply and where must statements be filed?",
+    "conclusion_synthetic": "A threshold campaign statement is required and must be filed where the elected official normally files campaign statements due to the $500+ expenditure threshold. However, no independent expenditure report is required since the expenditure does not allocate $500 or more to any single candidate.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is a memorandum from FPPC responding to a question raised at an opinion request meeting. Contains clear Q and A sections. Dated March 26, 1981, Document ID 81A146."
+  },
+  "citations": {
+    "government_code": [
+      "84200",
+      "84200(b)",
+      "84208(a)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:37:01.546516Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: An elected city official's controlled committee makes an independent expenditure of more than $500 for a mailing which benefits a slate of candidates, but does not spend $500 or more, allocated on a pro-rata basis, on anyone candidate. What statements must be filed, and where?\n\nCONCLUSION: Section 84200(b) provides: In addition to the campaign statements required by subdivision (a), candidates, elected officers, their controlled committees, and any committee formed primarily to support or oppose a candidate or a measure that has made or received contributions of five hundred dollars ($500) or more or made expenditures of five hundred dollars ($500) or more during the threshold period ... shall file campaign statements .... Therefore, a threshold statement is required and is filed where the maker of the independent expenditure normally files campaign statements. Section 84208(a) provides: In addition to any campaign statements required by Section 84200, if a committee has made independent expenditures totaling five hundred dollars ($500) or more in a calendar year to support or oppose a candidate, a measure or qualification of a measure it shall file independent expenditure reports ... The elected official has not spent $500 or more on any one candidate, allocated on a pro-rata basis, and, therefore, is not required to file an independent expenditure report.",
+    "qa_source": "mixed",
+    "first_500_words": "State of California Memorandum To Opinion Request Participants Date 3/26/81 From FAIR POLITICAL PRACTICES COMMISSION Lynn Subject: TA & A Question (from Helen) at Opinion Request meeting of March 19, 1981. Q. An elected city official's controlled committee makes an independent expenditure of more than $500 for a mailing which benefits a slate of candidates, but does not spend $500 or more, allocated on a pro-rata basis, on anyone candidate. What statements must be filed, and where? A. Section 84200(b) provides: In addition to the campaign statements required by subdivision (a), candidates, elected officers, their controlled committees, and any committee formed primarily to support or oppose a candidate or a measure that has made or received contri- butions of five hundred dollars ($500) or more or made expenditures of five hundred dollars ($500) or more during the threshold period ... shall file campaign statements .... Therefore, a threshold statement is required and is filed where the maker of the independent expenditure normally files campaign statements. Section 84208(a) provides: In addition to any campaign statements required by Section 84200, if a committee has made independent expenditures totaling five hundred dollars ($500) or more in a calendar year to support or oppose a candidate, a measure or qualification of a measure It shall file independent expenditure reports ... The elected official has not spent $500 or more on any one candidate, allocated on a pro-rata basis, and, there- fore, is not required to file an independent expenditure report.",
+    "summary": "FPPC advises that an elected official's controlled committee making independent expenditures over $500 for a multi-candidate mailing must file a threshold campaign statement but not an independent expenditure report, since the pro-rata allocation to individual candidates does not reach $500."
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "84008",
+  "year": 1984,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1984/fppc-advice/84008.PDF",
+  "pdf_sha256": "eb7c3b0fd70d3b6e50032aa1f474fd7f33ecbab4b88f27fad7394e0a82db1cd5",
+  "local_pdf_path": "raw_pdfs/1984/84008.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1984 Advice Letter # 84008",
+    "tags": [
+      "1984",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:34:23",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1984&tagCount=1&page=13"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T15:33:31.792459Z",
+    "page_count": 1,
+    "word_count": 89,
+    "char_count": 533,
+    "quality_score": 0.8369652965507725,
+    "olmocr_cost": 0.00246476,
+    "native_word_count": 76
+  },
+  "content": {
+    "full_text": "This is a memorandum from the Fair Political Practices Commission, signed by Janis Shank McLean, dated January 18, 1984. The memo is addressed to File and concerns advice to Buck Delventhal of the San Francisco City Attorney's Office.\n\nThe content of the memo states:\n\n\"The mayor's approval or veto of a rent control ordinance is nondelegable. Under the 'rule of necessity' she can make the decision despite a conflict. She may also listen to people's views; express her own; and give a speech on the subject. See A-80-074.\"\n\nJSM:plh",
+    "full_text_markdown": "This is a memorandum from the Fair Political Practices Commission, signed by Janis Shank McLean, dated January 18, 1984. The memo is addressed to File and concerns advice to Buck Delventhal of the San Francisco City Attorney's Office.\n\nThe content of the memo states:\n\n\"The mayor's approval or veto of a rent control ordinance is nondelegable. Under the 'rule of necessity' she can make the decision despite a conflict. She may also listen to people's views; express her own; and give a speech on the subject. See A-80-074.\"\n\nJSM:plh"
+  },
+  "parsed": {
+    "date": "1984-01-18",
+    "date_raw": "January 18, 1984",
+    "requestor_name": null,
+    "requestor_title": "City Attorney",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [
+      "A-80-074"
+    ],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-20T15:33:31.792459Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "This is a memorandum from the Fair Political Practices Commission, signed by Janis Shank McLean, dated January 18, 1984. The memo is addressed to File and concerns advice to Buck Delventhal of the San Francisco City Attorney's Office. The content of the memo states: \"The mayor's approval or veto of a rent control ordinance is nondelegable. Under the 'rule of necessity' she can make the decision despite a conflict. She may also listen to people's views; express her own; and give a speech on the subject. See A-80-074.\" JSM:plh",
+    "qa_source": "extracted",
+    "first_500_words": "This is a memorandum from the Fair Political Practices Commission, signed by Janis Shank McLean, dated January 18, 1984. The memo is addressed to File and concerns advice to Buck Delventhal of the San Francisco City Attorney's Office. The content of the memo states: \"The mayor's approval or veto of a rent control ordinance is nondelegable. Under the 'rule of necessity' she can make the decision despite a conflict. She may also listen to people's views; express her own; and give a speech on the subject. See A-80-074.\" JSM:plh",
+    "summary": null
+  }
+}

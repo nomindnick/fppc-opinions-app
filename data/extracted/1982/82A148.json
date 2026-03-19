@@ -1,0 +1,75 @@
+{
+  "id": "82A148",
+  "year": 1982,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1982/82A148.PDF",
+  "pdf_sha256": "364fce7240d34b9406c17662d46e3093047779701ae72430cfd2abb01d7e2926",
+  "local_pdf_path": "raw_pdfs/1982/82A148.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1982 Advice Letter # 82A148",
+    "tags": [
+      "1982",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:31:02",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1982&tagCount=1&page=20"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:58.495466Z",
+    "page_count": 1,
+    "word_count": 113,
+    "char_count": 709,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 113
+  },
+  "content": {
+    "full_text": "State of California \nMemorandum \nTo \nFile \nDate \nAugust 13, 1982 \nFile No. M-82-148 \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nJanis Shank ' \nSubject: Section 82015 \nFacts: \nThe Building Industry Association invited \n4 out of 12 candidates running for SMU~ Board positions \nto speak at their General ~1embership meeting. \nThe \nB.I.A. does not have to report this as a contribution \nto the candidates. \nRationale: \nBecause the meeting is held for a purpose \nother than just to listen to the candidates, and since \nthere is no additional expense incurred to have the \ncandidates there, the B.I.A. need not report this as a \ncontribution. \nAlso, people are free to choose whether \nor not to attend. \nJS~1 :plh \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1982-08-13",
+    "date_raw": "August 13, 1982",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": "The Building Industry Association invited \n4 out of 12 candidates running for SMU~ Board positions \nto speak at their General ~1embership meeting. \nThe \nB.I.A. does not have to report this as a contribution \nto the candidates. \nRationale: \nBecause the meeting is held for a purpose \nother than just to listen to the candidates, and since \nthere is no additional expense incurred to have the \ncandidates there, the B.I.A. need not report this as a \ncontribution. \nAlso, people are free to choose whether \nor not to attend. \nJS~1 :plh",
+    "analysis": null,
+    "question_synthetic": "Whether the Building Industry Association must report as a contribution the invitation and speaking opportunity provided to 4 out of 12 candidates for SMU Board positions at their General Membership meeting.",
+    "conclusion_synthetic": "The B.I.A. does not have to report this as a contribution because the meeting serves a purpose other than just listening to candidates, no additional expense is incurred, and attendance is voluntary.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "Format: modern; LLM: Document is a memorandum rather than traditional advice letter format. No formal QUESTION or CONCLUSION sections present; analysis structured as Facts and Rationale. File number M-82-148 corresponds to document ID 82A148."
+  },
+  "citations": {
+    "government_code": [
+      "82015"
+    ],
+    "regulations": [],
+    "prior_opinions": [
+      "M-82-148"
+    ],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:36:58.495466Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether the Building Industry Association must report as a contribution the invitation and speaking opportunity provided to 4 out of 12 candidates for SMU Board positions at their General Membership meeting.\n\nCONCLUSION: The B.I.A. does not have to report this as a contribution because the meeting serves a purpose other than just listening to candidates, no additional expense is incurred, and attendance is voluntary.",
+    "qa_source": "synthetic",
+    "first_500_words": "State of California Memorandum To File Date August 13, 1982 File No. M-82-148 From FAIR POLITICAL PRACTICES COMMISSION Janis Shank ' Subject: Section 82015 Facts: The Building Industry Association invited 4 out of 12 candidates running for SMU~ Board positions to speak at their General ~1embership meeting. The B.I.A. does not have to report this as a contribution to the candidates. Rationale: Because the meeting is held for a purpose other than just to listen to the candidates, and since there is no additional expense incurred to have the candidates there, the B.I.A. need not report this as a contribution. Also, people are free to choose whether or not to attend. JS~1 :plh",
+    "summary": "FPPC memorandum ruling that the Building Industry Association's invitation of 4 candidates to speak at their General Membership meeting does not constitute a reportable contribution under Section 82015."
+  }
+}

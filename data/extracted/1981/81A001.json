@@ -1,0 +1,71 @@
+{
+  "id": "81A001",
+  "year": 1981,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1981/81A001.PDF",
+  "pdf_sha256": "b8eb5dbe6e7f93d429213670c621bcc7158e2d5794470fa79aa405fe904776c7",
+  "local_pdf_path": "raw_pdfs/1981/81A001.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1981 Advice Letter # 81A001",
+    "tags": [
+      "Advice Letter",
+      "1981"
+    ],
+    "scraped_at": "2026-01-31 15:28:33",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1981&tagCount=1&page=7"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:01.124576Z",
+    "page_count": 1,
+    "word_count": 134,
+    "char_count": 839,
+    "quality_score": 0.5125,
+    "olmocr_cost": null,
+    "native_word_count": 134
+  },
+  "content": {
+    "full_text": "State of California \nMemoran \nm \nTo \nFile \nDate \nJan. 9, 1981 \nFrom \nFAIR POlnOCAl PRACTICES COMMISSION \nSarah Cameron \nA-\nSubject: Tickets to a school's own sporting events \nAt the Conflicts of Interest seminar in Anaheim on January \n6, 1981, someone from a school district asked whether the tickets \nwhich the superintendent and board members get to the school's \nathletic events were reportable gifts. \nFollowing the Commission's \ndetermination in the case of the San Diego City Council's receipt \nof boxes at San Diego Stadium, I advised that ticket~ to the \nschool's own sporting events were not gifts but were Mo~e akin to \nbenefits of office. \nI pointed out~owever, that this only \napplies because the district is giving the tickets to the officials, \nthat it does not apply to tickets \nreceived from private sporting \nteams, etc. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1981-01-06",
+    "date_raw": "January \n6, 1981",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Are tickets to a school's own athletic events that are provided to the superintendent and board members reportable gifts under California political practices law?",
+    "conclusion_synthetic": "Tickets to a school's own sporting events are not reportable gifts but rather benefits of office, similar to the Commission's prior determination regarding San Diego City Council's receipt of boxes at San Diego Stadium. This determination applies only when the district itself provides the tickets to officials, and does not extend to tickets received from private sporting teams.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Informal memorandum format rather than standard formal advice letter. No formal QUESTION or CONCLUSION sections present. Advice provided during seminar setting. Contains reference to prior Commission determination (San Diego City Council case) as precedent."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:01.124576Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Are tickets to a school's own athletic events that are provided to the superintendent and board members reportable gifts under California political practices law?\n\nCONCLUSION: Tickets to a school's own sporting events are not reportable gifts but rather benefits of office, similar to the Commission's prior determination regarding San Diego City Council's receipt of boxes at San Diego Stadium. This determination applies only when the district itself provides the tickets to officials, and does not extend to tickets received from private sporting teams.",
+    "qa_source": "synthetic",
+    "first_500_words": "State of California Memoran m To File Date Jan. 9, 1981 From FAIR POlnOCAl PRACTICES COMMISSION Sarah Cameron A- Subject: Tickets to a school's own sporting events At the Conflicts of Interest seminar in Anaheim on January 6, 1981, someone from a school district asked whether the tickets which the superintendent and board members get to the school's athletic events were reportable gifts. Following the Commission's determination in the case of the San Diego City Council's receipt of boxes at San Diego Stadium, I advised that ticket~ to the school's own sporting events were not gifts but were Mo~e akin to benefits of office. I pointed out~owever, that this only applies because the district is giving the tickets to the officials, that it does not apply to tickets received from private sporting teams, etc.",
+    "summary": "FPPC memorandum providing informal advice at a Conflicts of Interest seminar regarding whether tickets to school athletic events constitute reportable gifts for school superintendents and board members."
+  }
+}

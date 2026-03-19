@@ -1,0 +1,74 @@
+{
+  "id": "83A122",
+  "year": 1983,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1983/83A122.PDF",
+  "pdf_sha256": "728478e0b7d3ef48a0820b2c5aacc7154fc0b95c928a9af804fb4745b515589d",
+  "local_pdf_path": "raw_pdfs/1983/83A122.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1983 Advice Letter # 83A122",
+    "tags": [
+      "1983",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:31:45",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1983&tagCount=1&page=4"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:50.934192Z",
+    "page_count": 1,
+    "word_count": 101,
+    "char_count": 630,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 101
+  },
+  "content": {
+    "full_text": "of California \no \nd \nm \nAdvice File: \nSections 82036 and 84206 \nfAIR POLITICAL PRACTICES COMMISSION \nJeanne Pritchard \nDote \nThe pa~ent of a pledge is not required to be \nreport~ on a Late Contribution Report. \n5/9/83 \nWhen a pledge which has previously be reported \nis paid during the late contribution period, no Late \nContribution Report is required to be filed. \nPursuant \nto the fourth paragraph of Section 82015, such a pay-\nment is not a \"contributiotl.\" \nHowever, if the amount paid during the late \ncontribution period differs from the amount previously \nreported as a pledge, a Late Contribution Report must \nbe filed. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1983-05-09",
+    "date_raw": "5/9/83",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "The payment of a pledge is not required to be reported on a Late Contribution Report. When a pledge which has previously been reported is paid during the late contribution period, no Late Contribution Report is required to be filed. Pursuant to the fourth paragraph of Section 82015, such a payment is not a \"contribution.\" However, if the amount paid during the late contribution period differs from the amount previously reported as a pledge, a Late Contribution Report must be filed.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether the payment of a previously reported pledge during the late contribution period must be reported on a Late Contribution Report, and how discrepancies between the pledged and paid amounts should be handled.",
+    "conclusion_synthetic": "Payment of a previously reported pledge during the late contribution period is not a reportable contribution and does not require a Late Contribution Report, unless the amount paid differs from the pledged amount. If there is a discrepancy between the pledged and paid amounts, a Late Contribution Report must be filed.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document has minimal structure with no formal QUESTION/CONCLUSION headers. Sections 82036 and 84206 cited as legal basis. Recipient identified as Jeanne Pritchard. Date: 5/9/83. Advice File reference present but document content is the substantive response."
+  },
+  "citations": {
+    "government_code": [
+      "82015",
+      "82036"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:36:50.934192Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether the payment of a previously reported pledge during the late contribution period must be reported on a Late Contribution Report, and how discrepancies between the pledged and paid amounts should be handled.\n\nCONCLUSION: The payment of a pledge is not required to be reported on a Late Contribution Report. When a pledge which has previously been reported is paid during the late contribution period, no Late Contribution Report is required to be filed. Pursuant to the fourth paragraph of Section 82015, such a payment is not a \"contribution.\" However, if the amount paid during the late contribution period differs from the amount previously reported as a pledge, a Late Contribution Report must be filed.",
+    "qa_source": "mixed",
+    "first_500_words": "of California o d m Advice File: Sections 82036 and 84206 fAIR POLITICAL PRACTICES COMMISSION Jeanne Pritchard Dote The pa~ent of a pledge is not required to be report~ on a Late Contribution Report. 5/9/83 When a pledge which has previously be reported is paid during the late contribution period, no Late Contribution Report is required to be filed. Pursuant to the fourth paragraph of Section 82015, such a pay- ment is not a \"contributiotl.\" However, if the amount paid during the late contribution period differs from the amount previously reported as a pledge, a Late Contribution Report must be filed.",
+    "summary": "FPPC advice letter addressing whether payment of a previously reported pledge requires Late Contribution Report filing, concluding that such payments are not reportable unless the amount differs from the original pledge."
+  }
+}

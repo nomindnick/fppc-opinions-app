@@ -1,0 +1,74 @@
+{
+  "id": "92-217",
+  "year": 1992,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1992/92-217.pdf",
+  "pdf_sha256": "f170a16c69834d1132865ddf6b40318a89679e296ceff77f955ddd5c1ab8e3fb",
+  "local_pdf_path": "raw_pdfs/1992/92-217.pdf",
+  "source_metadata": {
+    "title_raw": "Conway, William Year: 1992 Advice Letter # 92-217",
+    "tags": [
+      "Advice Letter",
+      "1992"
+    ],
+    "scraped_at": "2026-01-31 16:23:49",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1992&tagCount=1&page=14"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:12.596117Z",
+    "page_count": 1,
+    "word_count": 189,
+    "char_count": 1215,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 189
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\nApril\n27,\n1992\nWilliam P.\nConway, Jr.\n1116 24th Street\nSacramento,\nCA 95816\nRe:\nYour Request for Advice\nOur File No.\nA-92-217\nDear Mr.\nConway:\nYou have requested advice on behalf of the California\nMortuary Alliance and the Interment Association of California\nconcerning the campaign provisions of the Political Reform Act\n(the “Act”) .1/\nThis letter is to advise you that the name “California\nInterment and Mortuary Political Action Committee” does comply\nwith the name identification requirements for a sponsored\ncommittee under the Act.\n(Section 84102.)\nPlease feel free to call me at\n(916)\n322-5662,\nMonday through\nThursday between 8:00 a.m.\nand 5:00 p.m., if you have any\nadditional questions regarding this matter.\nSincerely,\nScott Hallabrin\nActing General Counsel\nBy:\nAlice Hughes\nPolitical Reform Consultant\n¶1/\nGovernment Code Sections 81000-91015.\nAll tattoy\nreferences are to the Government Code unless otherwise indicated.\nCommission regulations appear at\n2 California Code of Regulations\nSection 18000,\net q.\nAll references to regulations are to Title\n2,\nDivision\n6 of the Californi3\nCode of Regulations.\n•4.’S\nI trtt. Stiik S.’’\n. r.(\nI’\\\n®\n‘ \\\nS”\n•\n>lc’\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1992-04-27",
+    "date_raw": "April\n27,\n1992",
+    "requestor_name": "Conway",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "This letter is to advise you that the name \"California Interment and Mortuary Political Action Committee\" does comply with the name identification requirements for a sponsored committee under the Act. (Section 84102.)",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Does the name 'California Interment and Mortuary Political Action Committee' comply with the name identification requirements for a sponsored committee under the Political Reform Act?",
+    "conclusion_synthetic": "The FPPC advises that the proposed committee name 'California Interment and Mortuary Political Action Committee' complies with the name identification requirements for a sponsored committee under Government Code Section 84102.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document lacks formal QUESTION and CONCLUSION section headers but contains clear question and advice within body text. Question inferred from context of request. No explicit 'QUESTION' or 'CONCLUSION' section headers present."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "84102"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:35:12.596117Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Does the name 'California Interment and Mortuary Political Action Committee' comply with the name identification requirements for a sponsored committee under the Political Reform Act?\n\nCONCLUSION: This letter is to advise you that the name \"California Interment and Mortuary Political Action Committee\" does comply with the name identification requirements for a sponsored committee under the Act. (Section 84102.)",
+    "qa_source": "mixed",
+    "first_500_words": "California Fair Political Practices Commission April 27, 1992 William P. Conway, Jr. 1116 24th Street Sacramento, CA 95816 Re: Your Request for Advice Our File No. A-92-217 Dear Mr. Conway: You have requested advice on behalf of the California Mortuary Alliance and the Interment Association of California concerning the campaign provisions of the Political Reform Act (the “Act”) .1/ This letter is to advise you that the name “California Interment and Mortuary Political Action Committee” does comply with the name identification requirements for a sponsored committee under the Act. (Section 84102.) Please feel free to call me at (916) 322-5662, Monday through Thursday between 8:00 a.m. and 5:00 p.m., if you have any additional questions regarding this matter. Sincerely, Scott Hallabrin Acting General Counsel By: Alice Hughes Political Reform Consultant ¶1/ Government Code Sections 81000-91015. All tattoy references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations Section 18000, et q. All references to regulations are to Title 2, Division 6 of the Californi3 Code of Regulations. •4.’S I trtt. Stiik S.’’ . r.( I’\\ ® ‘ \\ S” • >lc’",
+    "summary": "The FPPC advises William P. Conway, Jr. on behalf of the California Mortuary Alliance and Interment Association of California that the proposed committee name 'California Interment and Mortuary Political Action Committee' complies with Political Reform Act requirements for sponsored committee name identification."
+  }
+}

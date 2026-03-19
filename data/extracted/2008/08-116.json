@@ -1,0 +1,71 @@
+{
+  "id": "08-116",
+  "year": 2008,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2008/08-116.pdf",
+  "pdf_sha256": "002cad8b56068dbb22e6d0e35d10fde6b28909867ce33084663a72c11aa8116c",
+  "local_pdf_path": "raw_pdfs/2008/08-116.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2008 Advice Letter # 08-116",
+    "tags": [
+      "2008",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:48:28",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2008&tagCount=1&page=18"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T23:02:15.714492Z",
+    "page_count": 1,
+    "word_count": 70,
+    "char_count": 445,
+    "quality_score": 0.7678478342556535,
+    "olmocr_cost": 0.00247336,
+    "native_word_count": 87
+  },
+  "content": {
+    "full_text": "July 15, 2008\n\nNeal Simpson, MD\n220 North San Jacinto\nHemet, CA 92543\n\nRe: Your Request for Advice\nOur File No. W-08-116\n\nDear Dr. Simpson:\n\nPursuant to our telephone conversation of July 14, 2008, you have rescinded your request for written advice.\n\nIf you have any additional questions, please feel free to call me toll free at 866-275-3772.\n\nSincerely,\n\n[signature]\nKevin S. Moen, PhD\nPolitical Reform Consultant\nTechnical Assistance Division",
+    "full_text_markdown": "July 15, 2008\n\nNeal Simpson, MD\n220 North San Jacinto\nHemet, CA 92543\n\nRe: Your Request for Advice\nOur File No. W-08-116\n\nDear Dr. Simpson:\n\nPursuant to our telephone conversation of July 14, 2008, you have rescinded your request for written advice.\n\nIf you have any additional questions, please feel free to call me toll free at 866-275-3772.\n\nSincerely,\n\n[signature]\nKevin S. Moen, PhD\nPolitical Reform Consultant\nTechnical Assistance Division"
+  },
+  "parsed": {
+    "date": "2008-07-15",
+    "date_raw": "July 15, 2008",
+    "requestor_name": "Simpson",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T23:02:15.714492Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "July 15, 2008 Neal Simpson, MD 220 North San Jacinto Hemet, CA 92543 Re: Your Request for Advice Our File No. W-08-116 Dear Dr. Simpson: Pursuant to our telephone conversation of July 14, 2008, you have rescinded your request for written advice. If you have any additional questions, please feel free to call me toll free at 866-275-3772. Sincerely, [signature] Kevin S. Moen, PhD Political Reform Consultant Technical Assistance Division",
+    "qa_source": "extracted",
+    "first_500_words": "July 15, 2008 Neal Simpson, MD 220 North San Jacinto Hemet, CA 92543 Re: Your Request for Advice Our File No. W-08-116 Dear Dr. Simpson: Pursuant to our telephone conversation of July 14, 2008, you have rescinded your request for written advice. If you have any additional questions, please feel free to call me toll free at 866-275-3772. Sincerely, [signature] Kevin S. Moen, PhD Political Reform Consultant Technical Assistance Division",
+    "summary": null
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "78ADV-78-104",
+  "year": 1978,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1978/78ADV-78-104.PDF",
+  "pdf_sha256": "3adc0649a4e302ef2957b71afcc137a30feae7a4992db7a862fe13e605785f1a",
+  "local_pdf_path": "raw_pdfs/1978/78ADV-78-104.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1978ADV Advice Letter # 78ADV-78-104",
+    "tags": [
+      "Advice Letter",
+      "1978"
+    ],
+    "scraped_at": "2026-01-31 15:24:35",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=24"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:10.723111Z",
+    "page_count": 2,
+    "word_count": 170,
+    "char_count": 1108,
+    "quality_score": 0.595,
+    "olmocr_cost": null,
+    "native_word_count": 170
+  },
+  "content": {
+    "full_text": "February 6, 1978 \nMs. Robin Young \nof Robin Young \n591 Magnolia Way \n, California \n90631 \nDear \nyou will not \nsending your Womens Rights Handbook through \nthe mail the identifioation requirement outlined in Section 84305 \nGovernment Code is not applioable. \nYou may, however, \nto oomply with the provisions of the Elections Code \nSection \n410 which covers all material having reference to an \nelection other than mass mailings oovered by the Political Reform \n• \nSo I would suggest you either oontact your looal distriot \nattorney or \nAttorney General's Office (Scott \nI 916/44 \n08) \ninformation conoerning identification requirements under the \nCode. \nto your second question, an assembly oandidate is a \ncandidate for state office \ntherefore, all mass mailings sent \ncandidates or committees supporting or opposing a state \ncandidate must be sent to the Commission. \nIt was very good to hear from you. \nI hope you will let me know if \nloan be of assistance in the future. \nVery truly yours, \nRegina Siciliano-Kutchins \nTechnical Assistanoe Program Coordinator \nTeohnical \nand Analysis Division \n\n\n. \n, \n• \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1978-02-06",
+    "date_raw": "February 6, 1978",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requestor asked two questions: (1) whether identification requirements under Government Code Section 84305 apply to a Women's Rights Handbook sent by mail, and (2) whether an assembly candidate is considered a candidate for state office requiring mass mailing disclosures to the Commission.",
+    "conclusion_synthetic": "The FPPC advised that Section 84305 identification requirements do not apply to the Women's Rights Handbook, but Elections Code Section 410 may apply; the requestor should contact the district attorney or Attorney General for Elections Code questions. An assembly candidate is a state office candidate, so all mass mailings by such candidates or supporting/opposing committees must be sent to the Commission.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.75,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is heavily degraded with OCR errors and missing text sections. No formal QUESTION or CONCLUSION headers present. Content reconstructed from fragmented text. Two distinct advisory responses provided regarding different aspects of political reform compliance."
+  },
+  "citations": {
+    "government_code": [
+      "84305"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:37:10.723111Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The requestor asked two questions: (1) whether identification requirements under Government Code Section 84305 apply to a Women's Rights Handbook sent by mail, and (2) whether an assembly candidate is considered a candidate for state office requiring mass mailing disclosures to the Commission.\n\nCONCLUSION: The FPPC advised that Section 84305 identification requirements do not apply to the Women's Rights Handbook, but Elections Code Section 410 may apply; the requestor should contact the district attorney or Attorney General for Elections Code questions. An assembly candidate is a state office candidate, so all mass mailings by such candidates or supporting/opposing committees must be sent to the Commission.",
+    "qa_source": "synthetic",
+    "first_500_words": "February 6, 1978 Ms. Robin Young of Robin Young 591 Magnolia Way , California 90631 Dear you will not sending your Womens Rights Handbook through the mail the identifioation requirement outlined in Section 84305 Government Code is not applioable. You may, however, to oomply with the provisions of the Elections Code Section 410 which covers all material having reference to an election other than mass mailings oovered by the Political Reform • So I would suggest you either oontact your looal distriot attorney or Attorney General's Office (Scott I 916/44 08) information conoerning identification requirements under the Code. to your second question, an assembly oandidate is a candidate for state office therefore, all mass mailings sent candidates or committees supporting or opposing a state candidate must be sent to the Commission. It was very good to hear from you. I hope you will let me know if loan be of assistance in the future. Very truly yours, Regina Siciliano-Kutchins Technical Assistanoe Program Coordinator Teohnical and Analysis Division . , •",
+    "summary": "FPPC response to Ms. Robin Young regarding identification requirements for a Women's Rights Handbook and mass mailing disclosure obligations for assembly candidates under California political reform law."
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "97-116",
+  "year": 1997,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/1997/97-116.pdf",
+  "pdf_sha256": "639912f66df9be3532faa4beb75ebf0ba979ce135c40d9435ff2df2f424373a1",
+  "local_pdf_path": "raw_pdfs/1997/97-116.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 1997 Advice Letter # 97-116",
+    "tags": [
+      "1997",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:41:37",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1997&tagCount=1"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:45.685209Z",
+    "page_count": 2,
+    "word_count": 334,
+    "char_count": 2191,
+    "quality_score": 0.635,
+    "olmocr_cost": null,
+    "native_word_count": 334
+  },
+  "content": {
+    "full_text": "RAvI MEHTA\nCHAIRMAN\nFAIR POLITICAL PRACTICES COMMISSION\nMarch24, 1997\nFred Dyzynske\nCity Councilmember\nCity ofPortola\n35 Third Avenue\nPost Office Box 1225\nPortola, California 96112\nRe: Your Request for Advice\nOur File No. G-97-116\nDear Mr. Dyzynske:\nThis letter is a response to your request for advice regarding the provisions of the\nPolitical Reform Act (the “Act”).’\nSpecifically, you have asked whether a fellow Portola city\ncouncilmember should abstain from voting on projects being undertaken by the city. The\nCalifornia Code of Regulations states that written advice can be solicited by “any person whose\nduties under the Act are in question or by that person’s authorized representative.” (Regulation\n18329(b)(1) and 18329(c)(1), copy enclosed.)\nYour letter indicates that the city attorney has\nadvised a newly appointed councilmember that he should abstain from any vote on a current\nwater project being undertaken by the City ofPortola. However, nothing in your letter indicates\nthat you are acting as the representative ofthe newly appointed councilmember. Therefore, we\nare unable to provide you with any advice on this matter.\nFor your information, I enclose a copy of the Commission’s “Guide to the Political\nReform Act of 1974.” The guide addresses the questions and concerns raised in your letter and\nshould be a helpful resource for you. I have also enclosed a copy ofregulation 18703 which sets\nGovernment Code sections 81000\n- 91014. Commission regulations appear at title 2, sections 18109 -\n18995, of the California Code of Regulations.\n428 J STREET, SUITE 800, SACRAMENTO, CALIFORNIA 95814\n(916) 322-5660\n\n\nFile No. G-97-116\nPage 2\nforth the standards applicable to public officials who are disqualified from participating in\ngovernmental decisions but who may participate ifthe “public generally” exception applies.\nShould you have a specific prospective question relative to your conduct, please feel free to seek\nwritten assistance in the future.\nIf you have any other questions regarding this matter, please contact me at (916) 322-\n5660.\nSincerely,\nSteven G. Churchwell\nGeneral Counsel\nBy: Deborah Maddux-Allison\nStaff Counsel, Legal Division\nSGC:DMA:ak\nEnclosure\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1997-03-24",
+    "date_raw": "March24, 1997",
+    "requestor_name": "Dyzynske",
+    "requestor_title": "city attorney",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "Whether a fellow Portola city councilmember should abstain from voting on projects being undertaken by the city.",
+    "conclusion": "We are unable to provide you with any advice on this matter.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requester asked whether a newly appointed city councilmember should abstain from voting on a water project undertaken by the City of Portola.",
+    "conclusion_synthetic": "The FPPC declined to provide advice because the requester was not acting as an authorized representative of the newly appointed councilmember, as required by Regulation 18329(b)(1) and 18329(c)(1).",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is a declination letter where the FPPC refuses to answer because the requester lacks standing. The letter contains a clear question and clear conclusion, though the conclusion is negative (inability to advise rather than substantive legal guidance)."
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [
+      "18109",
+      "18329",
+      "18703"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:34:45.685209Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether a fellow Portola city councilmember should abstain from voting on projects being undertaken by the city.\n\nCONCLUSION: We are unable to provide you with any advice on this matter.",
+    "qa_source": "mixed",
+    "first_500_words": "RAvI MEHTA CHAIRMAN FAIR POLITICAL PRACTICES COMMISSION March24, 1997 Fred Dyzynske City Councilmember City ofPortola 35 Third Avenue Post Office Box 1225 Portola, California 96112 Re: Your Request for Advice Our File No. G-97-116 Dear Mr. Dyzynske: This letter is a response to your request for advice regarding the provisions of the Political Reform Act (the “Act”).’ Specifically, you have asked whether a fellow Portola city councilmember should abstain from voting on projects being undertaken by the city. The California Code of Regulations states that written advice can be solicited by “any person whose duties under the Act are in question or by that person’s authorized representative.” (Regulation 18329(b)(1) and 18329(c)(1), copy enclosed.) Your letter indicates that the city attorney has advised a newly appointed councilmember that he should abstain from any vote on a current water project being undertaken by the City ofPortola. However, nothing in your letter indicates that you are acting as the representative ofthe newly appointed councilmember. Therefore, we are unable to provide you with any advice on this matter. For your information, I enclose a copy of the Commission’s “Guide to the Political Reform Act of 1974.” The guide addresses the questions and concerns raised in your letter and should be a helpful resource for you. I have also enclosed a copy ofregulation 18703 which sets Government Code sections 81000 - 91014. Commission regulations appear at title 2, sections 18109 - 18995, of the California Code of Regulations. 428 J STREET, SUITE 800, SACRAMENTO, CALIFORNIA 95814 (916) 322-5660 File No. G-97-116 Page 2 forth the standards applicable to public officials who are disqualified from participating in governmental decisions but who may participate ifthe “public generally” exception applies. Should you have a specific prospective question relative to your conduct, please feel free to seek written assistance in the future. If you have any other questions regarding this matter, please contact me at (916) 322- 5660. Sincerely, Steven G. Churchwell General Counsel By: Deborah Maddux-Allison Staff Counsel, Legal Division SGC:DMA:ak Enclosure",
+    "summary": "The FPPC declined to provide written advice to Fred Dyzynske regarding whether a fellow councilmember should abstain from voting on city projects, finding he was not authorized to request advice on behalf of that councilmember. The Commission enclosed guidance materials and invited him to seek advice regarding his own prospective conduct."
+  }
+}

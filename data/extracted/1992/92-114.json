@@ -1,0 +1,74 @@
+{
+  "id": "92-114",
+  "year": 1992,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1992/92-114.pdf",
+  "pdf_sha256": "c575e38e2ad21d3675172ce89e2a5ab5f2abddca3fd3fe1766873805448c87e5",
+  "local_pdf_path": "raw_pdfs/1992/92-114.pdf",
+  "source_metadata": {
+    "title_raw": "Roberti, Senator Year: 1992 Advice Letter # 92-114",
+    "tags": [
+      "Advice Letter",
+      "1992"
+    ],
+    "scraped_at": "2026-01-31 16:23:39",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1992&tagCount=1&page=12"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:12.322343Z",
+    "page_count": 1,
+    "word_count": 245,
+    "char_count": 1631,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 245
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\nMarch 31,\n1992\nShirley Wechsler\nCampaign Finance Office\n11783 Laureicrest Drive\nStudio City,\nCA\n91604\nRE:\nYour Request for Advice\nOur File No.\nA—92—114\nDear Ms. Wechsler:\nYou have requested advice on behalf of Senator David Roberti\nconcerning the campaign provisions of the Political Reform Act\n(the 11\nAct”) .1/\nIn your letter of February 28,\n1992,\nyou have asked if the\nfunds transferred from Senator David Roberti’s regular campaign\naccount into his special election campaign account during the late\ncontribution reporting period,\nMarch 22,\n1991-April 6,\n1992,\nfor\nthe April 7,\n1992 election,\nwould trigger the requirement to file\nlate contribution reports.\nThe Commission has provided previous advice that the transfer\nof funds from one committee controlled by a candidate to another\ncommittee controlled by the same candidate during the late\ncontribution reporting period does not trigger the late\ncontribution filing requirement of Government Code Section 84203.\n(Whitney Advice Letter,\nNo.\nA—83-212,\ncopy enclosed.)\nIf you have any additional questions concerning this matter,\nplease do not hesitate to contact me at 916/322—5662.\nSincerely,\nScott Hallabrin\nActing General Counsel\nEnclosure\n1/ Government Code Sections 81000-91015.\nAll statutory references\nare to the Government Code unless otherwise indicated.\nCommission\nregulations appear at\n2 California Code of Regulations Section\n18000,\ng.\nAll references to regulations are to Title 2,\nDivision\n6 of the California Code of Regulations.\n428 J Street, Suite 800\n•\nP.O. Box 807 • .Sacrarnento CA 95804-0807 •\n(916) 322-5660\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1992-03-31",
+    "date_raw": "March 31,\n1992",
+    "requestor_name": "Wechsler",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "If the funds transferred from Senator David Roberti's regular campaign account into his special election campaign account during the late contribution reporting period, March 22, 1991-April 6, 1992, for the April 7, 1992 election, would trigger the requirement to file late contribution reports.",
+    "conclusion": "The Commission has provided previous advice that the transfer of funds from one committee controlled by a candidate to another committee controlled by the same candidate during the late contribution reporting period does not trigger the late contribution filing requirement of Government Code Section 84203.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether transfers of campaign funds from one candidate-controlled committee to another candidate-controlled committee during the late contribution reporting period trigger late contribution filing requirements under Government Code Section 84203.",
+    "conclusion_synthetic": "Transfers of funds between committees controlled by the same candidate do not trigger late contribution filing requirements, as established in prior FPPC advice.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Standard advice letter format with clear question and conclusion sections. Document references prior Whitney Advice Letter No. A-83-212 for substantive precedent."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "84203"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:35:12.322343Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: If the funds transferred from Senator David Roberti's regular campaign account into his special election campaign account during the late contribution reporting period, March 22, 1991-April 6, 1992, for the April 7, 1992 election, would trigger the requirement to file late contribution reports.\n\nCONCLUSION: The Commission has provided previous advice that the transfer of funds from one committee controlled by a candidate to another committee controlled by the same candidate during the late contribution reporting period does not trigger the late contribution filing requirement of Government Code Section 84203.",
+    "qa_source": "mixed",
+    "first_500_words": "California Fair Political Practices Commission March 31, 1992 Shirley Wechsler Campaign Finance Office 11783 Laureicrest Drive Studio City, CA 91604 RE: Your Request for Advice Our File No. A—92—114 Dear Ms. Wechsler: You have requested advice on behalf of Senator David Roberti concerning the campaign provisions of the Political Reform Act (the 11 Act”) .1/ In your letter of February 28, 1992, you have asked if the funds transferred from Senator David Roberti’s regular campaign account into his special election campaign account during the late contribution reporting period, March 22, 1991-April 6, 1992, for the April 7, 1992 election, would trigger the requirement to file late contribution reports. The Commission has provided previous advice that the transfer of funds from one committee controlled by a candidate to another committee controlled by the same candidate during the late contribution reporting period does not trigger the late contribution filing requirement of Government Code Section 84203. (Whitney Advice Letter, No. A—83-212, copy enclosed.) If you have any additional questions concerning this matter, please do not hesitate to contact me at 916/322—5662. Sincerely, Scott Hallabrin Acting General Counsel Enclosure 1/ Government Code Sections 81000-91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations Section 18000, g. All references to regulations are to Title 2, Division 6 of the California Code of Regulations. 428 J Street, Suite 800 • P.O. Box 807 • .Sacrarnento CA 95804-0807 • (916) 322-5660",
+    "summary": "The FPPC advises that transfers of campaign funds from Senator David Roberti's regular campaign account to his special election campaign account during the late contribution reporting period do not trigger late contribution reporting requirements under Government Code Section 84203."
+  }
+}

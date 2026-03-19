@@ -1,0 +1,71 @@
+{
+  "id": "01-016",
+  "year": 2001,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2001/01-016.pdf",
+  "pdf_sha256": "be6011ae099cdad3d9e05f4d6198144d7e3cb7836f4a6d46813867f04f5d5f32",
+  "local_pdf_path": "raw_pdfs/2001/01-016.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2001 Advice Letter # 01-016",
+    "tags": [
+      "2001",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:35:00",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2001&tagCount=1&page=30"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T00:45:28.056163Z",
+    "page_count": 1,
+    "word_count": 90,
+    "char_count": 579,
+    "quality_score": 0.8182697550034508,
+    "olmocr_cost": 0.00250174,
+    "native_word_count": 107
+  },
+  "content": {
+    "full_text": "March 9, 2001\n\nKinnari P. Shah\nStradling Yocca Carlson & Rauth\n44 Montgomery Street, Suite 4200\nSan Francisco, CA 94104\n\nRe: Your Request for Advice\nOur File No. W-01-016\n\nDear Ms. Shah:\n\nThis letter is to memorialize the withdrawal of your January 17, 2001, request for written advice to the Fair Political Practices Commission, as confirmed by your March 7, 2001, telephone conversation with Lawrence T. Woodlock.\n\nPlease contact the Commission at (916) 322-5660 should you have any additional questions or comments.\n\nVery truly yours,\n\nJoan Giannetta\nSecretary, Legal Division",
+    "full_text_markdown": "March 9, 2001\n\nKinnari P. Shah\nStradling Yocca Carlson & Rauth\n44 Montgomery Street, Suite 4200\nSan Francisco, CA 94104\n\nRe: Your Request for Advice\nOur File No. W-01-016\n\nDear Ms. Shah:\n\nThis letter is to memorialize the withdrawal of your January 17, 2001, request for written advice to the Fair Political Practices Commission, as confirmed by your March 7, 2001, telephone conversation with Lawrence T. Woodlock.\n\nPlease contact the Commission at (916) 322-5660 should you have any additional questions or comments.\n\nVery truly yours,\n\nJoan Giannetta\nSecretary, Legal Division"
+  },
+  "parsed": {
+    "date": "2001-03-09",
+    "date_raw": "March 9, 2001",
+    "requestor_name": "Shah",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-20T00:45:28.056163Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "March 9, 2001 Kinnari P. Shah Stradling Yocca Carlson & Rauth 44 Montgomery Street, Suite 4200 San Francisco, CA 94104 Re: Your Request for Advice Our File No. W-01-016 Dear Ms. Shah: This letter is to memorialize the withdrawal of your January 17, 2001, request for written advice to the Fair Political Practices Commission, as confirmed by your March 7, 2001, telephone conversation with Lawrence T. Woodlock. Please contact the Commission at (916) 322-5660 should you have any additional questions or comments. Very truly yours, Joan Giannetta Secretary, Legal Division",
+    "qa_source": "extracted",
+    "first_500_words": "March 9, 2001 Kinnari P. Shah Stradling Yocca Carlson & Rauth 44 Montgomery Street, Suite 4200 San Francisco, CA 94104 Re: Your Request for Advice Our File No. W-01-016 Dear Ms. Shah: This letter is to memorialize the withdrawal of your January 17, 2001, request for written advice to the Fair Political Practices Commission, as confirmed by your March 7, 2001, telephone conversation with Lawrence T. Woodlock. Please contact the Commission at (916) 322-5660 should you have any additional questions or comments. Very truly yours, Joan Giannetta Secretary, Legal Division",
+    "summary": null
+  }
+}

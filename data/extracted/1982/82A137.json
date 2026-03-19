@@ -1,0 +1,73 @@
+{
+  "id": "82A137",
+  "year": 1982,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1982/82A137.PDF",
+  "pdf_sha256": "7850815679ae88eef5a6959919d66ff3d13b378b0fd03c96e2e570498f636218",
+  "local_pdf_path": "raw_pdfs/1982/82A137.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1982 Advice Letter # 82A137",
+    "tags": [
+      "1982",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:30:36",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1982&tagCount=1&page=14"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T20:25:58.370669Z",
+    "page_count": 1,
+    "word_count": 154,
+    "char_count": 1061,
+    "quality_score": 0.8610855371900826,
+    "olmocr_cost": 0.00253528,
+    "native_word_count": 161
+  },
+  "content": {
+    "full_text": "State of California\n\nMemorandum\n\nTo: Kent Bailey\nPolitical Reform Audit Division\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION\nJeanne Pritchard\n\nSubject: Intermediary Reporting Pursuant to Gov. Code Section 84302\n\nI apologize for the delay in following up on our telephone conversation with this memo. The questions you had concerned intermediary reporting pursuant to Gov. Code Section 84302.\n\nIt is the staff's interpretation that an intermediary must disclose to the recipient the information required by Section 84302 every time an intermediary makes a contribution on behalf of another, whatever the amount. That information must be maintained in the recipient's records.\n\nThe recipient is required to disclose the name of the intermediary, and the other required information, on the campaign statement only when the contribution constitutes an itemizable contribution; that is, whenever the contributor must be itemized, the intermediary must be itemized.\n\nI hope this adequately answers your question. Please contact me if you have any additional questions.",
+    "full_text_markdown": "State of California\n\nMemorandum\n\nTo: Kent Bailey\nPolitical Reform Audit Division\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION\nJeanne Pritchard\n\nSubject: Intermediary Reporting Pursuant to Gov. Code Section 84302\n\nI apologize for the delay in following up on our telephone conversation with this memo. The questions you had concerned intermediary reporting pursuant to Gov. Code Section 84302.\n\nIt is the staff's interpretation that an intermediary must disclose to the recipient the information required by Section 84302 every time an intermediary makes a contribution on behalf of another, whatever the amount. That information must be maintained in the recipient's records.\n\nThe recipient is required to disclose the name of the intermediary, and the other required information, on the campaign statement only when the contribution constitutes an itemizable contribution; that is, whenever the contributor must be itemized, the intermediary must be itemized.\n\nI hope this adequately answers your question. Please contact me if you have any additional questions."
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [
+      "84302"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-20T20:25:58.370669Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "State of California Memorandum To: Kent Bailey Political Reform Audit Division From: FAIR POLITICAL PRACTICES COMMISSION Jeanne Pritchard Subject: Intermediary Reporting Pursuant to Gov. Code Section 84302 I apologize for the delay in following up on our telephone conversation with this memo. The questions you had concerned intermediary reporting pursuant to Gov. Code Section 84302. It is the staff's interpretation that an intermediary must disclose to the recipient the information required by Section 84302 every time an intermediary makes a contribution on behalf of another, whatever the amount. That information must be maintained in the recipient's records. The recipient is required to disclose the name of the intermediary, and the other required information, on the campaign statement only when the contribution constitutes an itemizable contribution; that is, whenever the contributor must be itemized, the intermediary must be itemized. I hope this adequately answers your question. Please contact me if you have any additional questions.",
+    "qa_source": "extracted",
+    "first_500_words": "State of California Memorandum To: Kent Bailey Political Reform Audit Division From: FAIR POLITICAL PRACTICES COMMISSION Jeanne Pritchard Subject: Intermediary Reporting Pursuant to Gov. Code Section 84302 I apologize for the delay in following up on our telephone conversation with this memo. The questions you had concerned intermediary reporting pursuant to Gov. Code Section 84302. It is the staff's interpretation that an intermediary must disclose to the recipient the information required by Section 84302 every time an intermediary makes a contribution on behalf of another, whatever the amount. That information must be maintained in the recipient's records. The recipient is required to disclose the name of the intermediary, and the other required information, on the campaign statement only when the contribution constitutes an itemizable contribution; that is, whenever the contributor must be itemized, the intermediary must be itemized. I hope this adequately answers your question. Please contact me if you have any additional questions.",
+    "summary": null
+  }
+}

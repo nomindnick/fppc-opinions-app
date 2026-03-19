@@ -1,0 +1,72 @@
+{
+  "id": "82A140",
+  "year": 1982,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1982/82A140.PDF",
+  "pdf_sha256": "5db2573650d70b33ca71f6cb417513b83c24b1a6596ebe160a21ffcc32534977",
+  "local_pdf_path": "raw_pdfs/1982/82A140.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1982 Advice Letter # 82A140",
+    "tags": [
+      "1982",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:30:49",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1982&tagCount=1&page=17"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T16:25:46.577499Z",
+    "page_count": 1,
+    "word_count": 233,
+    "char_count": 1728,
+    "quality_score": 0.8156482115563328,
+    "olmocr_cost": 0.00268062,
+    "native_word_count": 209,
+    "haiku_cost": 0.003036
+  },
+  "content": {
+    "full_text": "T-82-140\n\nTO: [ ]JEANNE      [ ] JAY                    FROM: Irm\n\n    [ ]LYNN        [ ] BARBARA               DATE: 7/19/82\n\n    [ ]RICH        [ ] BOB S.\n\n    [ ]HELEN       [ ] OTHER_____Legal_____\n\n[ ]TELEPHONE ADVICE - SEE BELOW\n\n[ ]CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT\n    (IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY)\n\nFILE LOCATION: 82013 (b) & 18225 (b)\n\nINCLUDE IN ADVICE PACKAGE:        YES [ ]        NO [ ]\n\n_________________________________________________________________\n\nCALLER: Bruce Bishop and Neil Morgan (and Keith Boyer)\n\nREPRESENTING: San Diego Tribune (and San Diego Elections)\n\nPHONE NUMBER: (714) 236-1661 299-3131 X1358 (& 565-5520)\n\nQUESTION: Neil Morgan, editor of the San Diego Tribune, printed a copy of\n         ballot petition along with an editorial urging people to sign it\n         petition and return it to the Tribune. The postage will be paid\n         by the newspaper. What reporting requirements does the newspaper\n         incur? (No coordination has occurred between the newspaper and\n         the committee primarily formed for the measure.)\n\nANSWER:   The newspaper has no requirement to report the costs for the ed-\n         itorial and reprinting of the petition pursuant to 2 Cal Admin\n         Code Sec. 18225 (b) (4) (A).\n\n         Additional costs incurred such as the return postage or employee\n         spending 10% or more of their compensated time on coordination\n         toward                  would accrue the $500 independent expenditure committee requirement and the paper should file as such a committee at the point\n         that its reportable independent expenditures total $500.\n\n_________________________________________________________________",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1982-07-19",
+    "date_raw": "7/19/82",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Neil Morgan, editor of the San Diego Tribune, printed a copy of ballot petition along with an editorial urging people to sign the petition and return it to the Tribune. The postage will be paid by the newspaper. What reporting requirements does the newspaper incur? (No coordination has occurred between the newspaper and the committee primarily formed for the measure.)\n\nANSWER:\nThe newspaper has no requirement to report the costs for the editorial and reprinting of the petition pursuant to 2 CA1 Admin Code Sec. 18225 (b) (4) (A).\n\nAdditional costs incurred such as the return postage or employee spending 10% or more of their compensated time on coordination toward would accrue the $500 independent expenditure committee requirement and the paper should file as such a committee at the point that its reportable independent expenditures total $500.",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.44999999999999996,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T19:55:03.755188Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Neil Morgan, editor of the San Diego Tribune, printed a copy of ballot petition along with an editorial urging people to sign the petition and return it to the Tribune. The postage will be paid by the newspaper. What reporting requirements does the newspaper incur? (No coordination has occurred between the newspaper and the committee primarily formed for the measure.)\n\nANSWER:\nThe newspaper has no requirement to report the costs for the editorial and reprinting of the petition pursuant to 2 CA1 Admin Code Sec. 18225 (b) (4) (A).\n\nAdditional costs incurred such as the return postage or employee spending 10% or more of their compensated time on coordination toward would accrue the $500 independent expenditure committee requirement and the paper should file as such a committee at the point that its reportable independent expenditures total $500.",
+    "qa_source": "extracted",
+    "first_500_words": "TO: [X] JEANNE [X] JAY [X] LYNN [X] BARBARA [X] RICH [X] BOB S. [X] HELEN [ ] OTHER Legal FROM: Lynn DATE: 7/19/82 [ ] TELEPHONE ADVICE - SEE BELOW [ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT (IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY) FILE LOCATION: 82013 (b) & 18225 (b) INCLUDE IN ADVICE PACKAGE: YES [ ] NO [ ] CALLER Bruce Bishop and Neil Morgan (and Keith Boyer) REPRESENTING San Diego Tribune (and San Diego Elections) PHONE NUMBER: (714) 236-1661 299-3131 X1358 (& 565-5520) QUESTION: Neil Morgan, editor of the San Diego Tribune, printed a copy of ballot petition along with an editorial urging people to sign the petition and return it to the Tribune. The postage will be paid by the newspaper. What reporting requirements does the newspaper incur? (No coordination has occurred between the newspaper and the committee primarily formed for the measure.) ANSWER: The newspaper has no requirement to report the costs for the editorial and reprinting of the petition pursuant to 2 CA1 Admin Code Sec. 18225 (b) (4) (A). Additional costs incurred such as the return postage or employee spending 10% or more of their compensated time on coordination toward would accrue the $500 independent expenditure committee requirement and the paper should file as such a committee at the point that its reportable independent expenditures total $500.",
+    "summary": null
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "01-295",
+  "year": 2001,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2001/01-295.pdf",
+  "pdf_sha256": "e7dcb5012688d541094557eb0317bd3bdd0dfed266b960dab162445cc333d82c",
+  "local_pdf_path": "raw_pdfs/2001/01-295.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2001 Advice Letter # 01-295",
+    "tags": [
+      "2001",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:52:57",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2001&tagCount=1&page=25"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T20:29:25.990914Z",
+    "page_count": 1,
+    "word_count": 83,
+    "char_count": 501,
+    "quality_score": 0.7466058752906325,
+    "olmocr_cost": 0.00249314,
+    "native_word_count": 100
+  },
+  "content": {
+    "full_text": "January 8, 2002\n\nMark T. Morodomi\nCity of Oakland\nOne Frank H. Ogawa Plaza – 6th Floor\nOakland, CA 94612\n\nRe: Your Request for Advice\nOur File No. W-01-295\n\nDear Mr. Morodomi:\n\nPursuant to your phone message of January 4, 2002, your request for advice has been withdrawn. Accordingly, our file on this matter is closed.\n\nIf you have any other questions regarding this matter, please contact me at (916) 322-5660.\n\nSincerely,\n\nLuisa Menchaca\nGeneral Counsel\n\nBy: C. Scott Tocher\nCounsel, Legal Division",
+    "full_text_markdown": "January 8, 2002\n\nMark T. Morodomi\nCity of Oakland\nOne Frank H. Ogawa Plaza – 6th Floor\nOakland, CA 94612\n\nRe: Your Request for Advice\nOur File No. W-01-295\n\nDear Mr. Morodomi:\n\nPursuant to your phone message of January 4, 2002, your request for advice has been withdrawn. Accordingly, our file on this matter is closed.\n\nIf you have any other questions regarding this matter, please contact me at (916) 322-5660.\n\nSincerely,\n\nLuisa Menchaca\nGeneral Counsel\n\nBy: C. Scott Tocher\nCounsel, Legal Division"
+  },
+  "parsed": {
+    "date": "2002-01-08",
+    "date_raw": "January 8, 2002",
+    "requestor_name": "Morodomi",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T20:29:25.990914Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "January 8, 2002 Mark T. Morodomi City of Oakland One Frank H. Ogawa Plaza – 6th Floor Oakland, CA 94612 Re: Your Request for Advice Our File No. W-01-295 Dear Mr. Morodomi: Pursuant to your phone message of January 4, 2002, your request for advice has been withdrawn. Accordingly, our file on this matter is closed. If you have any other questions regarding this matter, please contact me at (916) 322-5660. Sincerely, Luisa Menchaca General Counsel By: C. Scott Tocher Counsel, Legal Division",
+    "qa_source": "extracted",
+    "first_500_words": "January 8, 2002 Mark T. Morodomi City of Oakland One Frank H. Ogawa Plaza – 6th Floor Oakland, CA 94612 Re: Your Request for Advice Our File No. W-01-295 Dear Mr. Morodomi: Pursuant to your phone message of January 4, 2002, your request for advice has been withdrawn. Accordingly, our file on this matter is closed. If you have any other questions regarding this matter, please contact me at (916) 322-5660. Sincerely, Luisa Menchaca General Counsel By: C. Scott Tocher Counsel, Legal Division",
+    "summary": null
+  }
+}

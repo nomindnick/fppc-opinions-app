@@ -1,0 +1,73 @@
+{
+  "id": "82A141",
+  "year": 1982,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1982/82A141.PDF",
+  "pdf_sha256": "1b2a8416d2841cd5dc5698bfe141ccf83cf3639776b688995c6797dc196a9e18",
+  "local_pdf_path": "raw_pdfs/1982/82A141.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1982 Advice Letter # 82A141",
+    "tags": [
+      "1982",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:30:23",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1982&tagCount=1&page=11"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:56.146949Z",
+    "page_count": 2,
+    "word_count": 431,
+    "char_count": 2733,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 431
+  },
+  "content": {
+    "full_text": "P.O. BOX 807 • SACRAMENTO, 95804 \nTechnical Assistance/Administration \n(916) 322·5660 \nCommissioIL \n1100 K STREET BUILDING, SACRAMENTO, 95814 \nExecutive/legal \n322·5901 \nEnforcement/Conflict of Interest \n322·6441 \nAugust 3, 1982 \nSenator John Ho1mdah1 \n3086 State Capitol \nSacramento, CA \n95814 \nDear Senator Ho1mdah1: \nThis is in response to your letter dated August 2, 1982, and \nmy earlier telephone conversation with a member of your staff, \nGeorge Spanos, in which you asked about your semi-annual filing re-\nquirement for campaign disclosure statements .. for both your current \nposition as a member of the Senate and your appointment and confirm-\nation to the Court of Appeals. \nAs stated in your letter, as a member of the Senate you must \nfile a semi-annual statement disclosing all receipts and expenditures \nthat have been made pursuant to Government Code Section 84200 which \nstates in part that: \n... All elected officers shall file campaign statements no \nlater than July 31 and January 31 ... \nWith regard to your judicial appointment, Section 84200 further \nstates that: \n... provided that this requirement does not apply to elected \nofficers whose salaries are less than one hundred dollars \n($100) a month or to judg~s, unless such elected officer or \njudge is a candidate or committee which receives contributions \nor makes expenditures during the applicable six-month period. \nSince you have received no contributions and made no expendi-\ntures in connection with the judicial office, you have no require-\nment to file a semi-annual statement for that office. \nIf I can be of any further assistance, please do not hesitate \nto contact me. \nYours Truly, \nLynn Montgomery \nPolitical Reform \nConsultant \n\n\nL \nAugust 2, 1982 \nFair Political Practices Commission \nTechnical Assistance and Analysis Division \n1100 \"K\" Street \nSacramento, California \nAttention: \nLynn Montgomery \nThis will confirm the substance of your conversation with a \nmember of my staff. \nI am a member of the Senate and in that \ncapacity have filed a campaign statement covering the first \nsix months of 1982 and setting forth all receipts and \nexpenditures I have made. \nYou were also informed that, during the first six months of 1982, \nI was appointed to the Court of Appeal and my appointment \\'vas \nconfirmed. \nI have received no contributions and made no expendi-\ntures in connection with the judicial office, or in connection \nwith any office except as shown on the statement I filed as a \nSenator. \nThis will confirm that you have indicated that I need not file \nan additional statement because of my status as an appointee \nto the court. \nYour confirmation of this letter is requested. \nYours trulYl \n-\nf \n,/ \nJOHN tv. \nHOLMDAHL \nH: sn \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1982-08-03",
+    "date_raw": "August 3, 1982",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Does Senator John Holmdahl have a semi-annual filing requirement for campaign disclosure statements for his appointment and confirmation to the Court of Appeals, in addition to his filing requirement as a member of the Senate?",
+    "conclusion": "Since you have received no contributions and made no expenditures in connection with the judicial office, you have no requirement to file a semi-annual statement for that office. With regard to your Senate position, you must file semi-annual statements pursuant to Government Code Section 84200. Section 84200 exempts judges from the filing requirement unless they are candidates or their committees receive contributions or make expenditures during the applicable six-month period.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "A state senator who was appointed and confirmed to the Court of Appeals asks whether he must file separate semi-annual campaign disclosure statements for his judicial position in addition to his Senate filings.",
+    "conclusion_synthetic": "Senator Holmdahl must continue filing semi-annual statements for his Senate position, but he has no filing requirement for his Court of Appeals appointment since he received no contributions and made no expenditures related to that judicial office.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document includes both the incoming request letter (dated August 2, 1982) and the FPPC response letter (dated August 3, 1982). Both are presented in sequence. Minor typographical errors in original document preserved as written (e.g., 'Holmdahl' appears as 'Ho1mdah1' in one instance)."
+  },
+  "citations": {
+    "government_code": [
+      "84200"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:36:56.146949Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Does Senator John Holmdahl have a semi-annual filing requirement for campaign disclosure statements for his appointment and confirmation to the Court of Appeals, in addition to his filing requirement as a member of the Senate?\n\nCONCLUSION: Since you have received no contributions and made no expenditures in connection with the judicial office, you have no requirement to file a semi-annual statement for that office. With regard to your Senate position, you must file semi-annual statements pursuant to Government Code Section 84200. Section 84200 exempts judges from the filing requirement unless they are candidates or their committees receive contributions or make expenditures during the applicable six-month period.",
+    "qa_source": "mixed",
+    "first_500_words": "P.O. BOX 807 • SACRAMENTO, 95804 Technical Assistance/Administration (916) 322·5660 CommissioIL 1100 K STREET BUILDING, SACRAMENTO, 95814 Executive/legal 322·5901 Enforcement/Conflict of Interest 322·6441 August 3, 1982 Senator John Ho1mdah1 3086 State Capitol Sacramento, CA 95814 Dear Senator Ho1mdah1: This is in response to your letter dated August 2, 1982, and my earlier telephone conversation with a member of your staff, George Spanos, in which you asked about your semi-annual filing re- quirement for campaign disclosure statements .. for both your current position as a member of the Senate and your appointment and confirm- ation to the Court of Appeals. As stated in your letter, as a member of the Senate you must file a semi-annual statement disclosing all receipts and expenditures that have been made pursuant to Government Code Section 84200 which states in part that: ... All elected officers shall file campaign statements no later than July 31 and January 31 ... With regard to your judicial appointment, Section 84200 further states that: ... provided that this requirement does not apply to elected officers whose salaries are less than one hundred dollars ($100) a month or to judg~s, unless such elected officer or judge is a candidate or committee which receives contributions or makes expenditures during the applicable six-month period. Since you have received no contributions and made no expendi- tures in connection with the judicial office, you have no require- ment to file a semi-annual statement for that office. If I can be of any further assistance, please do not hesitate to contact me. Yours Truly, Lynn Montgomery Political Reform Consultant L August 2, 1982 Fair Political Practices Commission Technical Assistance and Analysis Division 1100 \"K\" Street Sacramento, California Attention: Lynn Montgomery This will confirm the substance of your conversation with a member of my staff. I am a member of the Senate and in that capacity have filed a campaign statement covering the first six months of 1982 and setting forth all receipts and expenditures I have made. You were also informed that, during the first six months of 1982, I was appointed to the Court of Appeal and my appointment \\'vas confirmed. I have received no contributions and made no expendi- tures in connection with the judicial office, or in connection with any office except as shown on the statement I filed as a Senator. This will confirm that you have indicated that I need not file an additional statement because of my status as an appointee to the court. Your confirmation of this letter is requested. Yours trulYl - f ,/ JOHN tv. HOLMDAHL H: sn",
+    "summary": "FPPC response to Senator John Holmdahl regarding his dual filing obligations as a state senator and Court of Appeals appointee. The FPPC advises that while he must file semi-annual statements for his Senate position, he is exempt from filing for his judicial appointment because he had no campaign activity."
+  }
+}

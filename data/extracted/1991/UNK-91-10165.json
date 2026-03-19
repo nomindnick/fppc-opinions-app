@@ -1,0 +1,82 @@
+{
+  "id": "UNK-91-10165",
+  "year": 1991,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1991/91-280.pdf",
+  "pdf_sha256": "9d7a8171a7571e1ba326dff736b6738ee6c30b6020029d471a2f7a0738465702",
+  "local_pdf_path": "raw_pdfs/1991/91-280.pdf",
+  "source_metadata": {
+    "title_raw": "91-280.pdf",
+    "tags": [
+      "1991",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:17:49",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1991&tagCount=1&page=29"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T17:28:17.227767Z",
+    "page_count": 2,
+    "word_count": 483,
+    "char_count": 3515,
+    "quality_score": 0.980079133093862,
+    "olmocr_cost": 0.0052675000000000005,
+    "native_word_count": 495,
+    "haiku_cost": 0.0058104
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\n\n\nJuly 31, 1991\n\n\nGary R. Odom\n4075 Main Street, Suite 460\nRiverside, CA  92501\nRe: Your Request For Informal\nAssistance\nOur File No. I-91-280\n\nDear Mr. Odom:\n\nThis is in reply to your letter requesting advice concerning\nthe conflict of interest disclosure and campaign disclosure\nprovisions of the Political Reform Act.1/ Because your question is\na general inquiry, we are treating it as a request for informal\nassistance pursuant to Regulation 18329(c) (copy enclosed).2/\n\nQUESTION\n\nAre airline tickets purchased with \"frequent flier\" credits\nearned while on official business or on campaign business required\nto be disclosed on an official's statement of economic interests?\n\nCONCLUSION\n\nThe official would not be required to disclose the airline\ntickets on his or her statement of economic interests.\n\n\n\n\n_________________________\n1/ Government Code Sections 81000-91015. All statutory references\nare to the Government Code unless otherwise indicated. Commission\nregulations appear at 2 California Code of Regulations Section\n18000, et seq. All references to regulations are to Title 2,\nDivision 6 of the California Code of Regulations.\n\n2/ Informal assistance does not provide the requestor with the\nimmunity provided by an opinion or formal written advice.\n(Section 83114; Regulation 18329(c)(3).)\n\n\n428 J Street, Suite 800  •  P.O. Box 807  •  Sacramento CA 95804-0807  •  (916) 322-5660\n\nGary Odom\npage 2\n\n\nANALYSIS\n\n     Section 82028 defines \"gift\" as any payment to the extent\nthat consideration of equal or greater value is not received and\nincludes a rebate or discount in the price of buying of value\nunless the rebate or discount is made in the regular course of\nbusiness to members of the public without regard to official\nstatus. To the extent that the airline's frequent flier program\nis available to all members of the public, the official has not\nreceived a gift and is not required to disclose the free airline\ntickets on his or her statement of economic interests.3/\n\n     For purposes of campaign disclosure, you may also wish to\nnote that Section 89513(a)(4) states:\n\n     Whenever campaign funds are used to pay or reimburse a\n     candidate, elected officer, his or her representative, or a\n     member of the candidate's household for travel expenses and\n     necessary accommodations, any mileage credit which is earned\n     or awarded pursuant to an airline bonus mileage program shall\n     be deemed personally earned by or awarded to the individual\n     traveler. Neither the earning or awarding of mileage credit,\n     nor the redeeming of credit for actual travel, shall be\n     subject to reporting pursuant to Section 84211.\n\n     If you have any questions or need further assistance, please\ncontact me at (916) 322-5662.\n\n                                        Sincerely,\n\n                                        Scott Hallabrin\n                                        Acting General Counsel\n\n                                        [signature]\n\n                                        by: Colleen McGee\n                                            Political Reform Consultant\n                                            Technical Assistance and\n                                            Analysis Division\n\nEnclosure\n\n\n3/ You may wish to contact the State Attorney General or, in the\ncase of a local official, the District Attorney, to determine if\nthe official may retain frequent flier credits earned while on\nofficial business.",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1991-07-31",
+    "date_raw": "July 31, 1991",
+    "requestor_name": "Odom",
+    "requestor_title": "District Attorney",
+    "requestor_city": null,
+    "document_type": "informal_advice"
+  },
+  "sections": {
+    "question": "Are airline tickets purchased with \"frequent flier\" credits earned while on official business or on campaign business required to be disclosed on an official's statement of economic interests?",
+    "conclusion": "The official would not be required to disclose the airline tickets on his or her statement of economic interests.\n\n1, et seq. All references to regulations are to Title 2, Division 6 of the California Code of Regulations.\n\n2/ Informal assistance does not provide the requestor with the immunity provided by an opinion or formal written advice. (Section 83114; Regulation 18329(c)(3).)",
+    "facts": null,
+    "analysis": "Section 82028 defines \"gift\" as any payment to the extent that consideration of equal or greater value is not received and includes a rebate or discount in the price of anything of value unless the rebate or discount is made in the regular course of business to members of the public without regard to official status. To the extent that the airline's frequent flier program is available to all members of the public, the official has not received a gift and is not required to disclose the free airline tickets on his or her statement of economic interests.3/\n\nFor purposes of campaign disclosure, you may also wish to note that Section 89513(a)(4) states:\n\nWhenever campaign funds are used to pay or reimburse a candidate, elected officer, his or her representative, or a member of the candidate's household for travel expenses and necessary accommodations, any mileage credit which is earned or awarded pursuant to an airline bonus mileage program shall be deemed personally earned by or awarded to the individual traveler. Neither the earning or awarding of mileage credit, nor the redeeming of credit for actual travel, shall be subject to reporting pursuant to Section 84211.",
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.85,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern"
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "82028",
+      "83114",
+      "84211",
+      "89513(a)(4)"
+    ],
+    "regulations": [
+      "18329"
+    ],
+    "prior_opinions": [
+      "I-91-280"
+    ],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "gifts_honoraria",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.4,
+    "classified_at": "2026-02-20T13:42:45.923127Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Are airline tickets purchased with \"frequent flier\" credits earned while on official business or on campaign business required to be disclosed on an official's statement of economic interests?\n\nCONCLUSION: The official would not be required to disclose the airline tickets on his or her statement of economic interests.\n\n1, et seq. All references to regulations are to Title 2, Division 6 of the California Code of Regulations.\n\n2/ Informal assistance does not provide the requestor with the immunity provided by an opinion or formal written advice. (Section 83114; Regulation 18329(c)(3).)",
+    "qa_source": "extracted",
+    "first_500_words": "July 31, 1991 Gary R. Odom 4075 Main Street, Suite 460 Riverside, CA 92501 Re: Your Request For Informal Assistance Our File No. I-91-280 Dear Mr. Odom: This is in reply to your letter requesting advice concerning the conflict of interest disclosure and campaign disclosure provisions of the Political Reform Act.1/ Because your question is a general inquiry, we are treating it as a request for informal assistance pursuant to Regulation 18329(c) (copy enclosed).2/ QUESTION Are airline tickets purchased with \"frequent flier\" credits earned while on official business or on campaign business required to be disclosed on an official's statement of economic interests? CONCLUSION The official would not be required to disclose the airline tickets on his or her statement of economic interests. 1/ Government Code Sections 81000-91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations Section 18000, et seq. All references to regulations are to Title 2, Division 6 of the California Code of Regulations. 2/ Informal assistance does not provide the requestor with the immunity provided by an opinion or formal written advice. (Section 83114; Regulation 18329(c)(3).) ANALYSIS Section 82028 defines \"gift\" as any payment to the extent that consideration of equal or greater value is not received and includes a rebate or discount in the price of anything of value unless the rebate or discount is made in the regular course of business to members of the public without regard to official status. To the extent that the airline's frequent flier program is available to all members of the public, the official has not received a gift and is not required to disclose the free airline tickets on his or her statement of economic interests.3/ For purposes of campaign disclosure, you may also wish to note that Section 89513(a)(4) states: Whenever campaign funds are used to pay or reimburse a candidate, elected officer, his or her representative, or a member of the candidate's household for travel expenses and necessary accommodations, any mileage credit which is earned or awarded pursuant to an airline bonus mileage program shall be deemed personally earned by or awarded to the individual traveler. Neither the earning or awarding of mileage credit, nor the redeeming of credit for actual travel, shall be subject to reporting pursuant to Section 84211. If you have any questions or need further assistance, please contact me at (916) 322-5662. Sincerely, Scott Hallabrin Acting General Counsel [Signature] by: Colleen McGee Political Reform Consultant Technical Assistance and Analysis Division Enclosure 3/ You may wish to contact the State Attorney General or, in the case of a local official, the District Attorney, to determine if the official may retain frequent flier credits earned while on official business.",
+    "summary": null
+  }
+}

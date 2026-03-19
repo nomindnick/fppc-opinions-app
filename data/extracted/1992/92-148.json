@@ -1,0 +1,73 @@
+{
+  "id": "92-148",
+  "year": 1992,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1992/92-148.pdf",
+  "pdf_sha256": "44c306bea3d1dbb03a2a3b9ac863b7253267ab80810e2ea8acff2554fba554dc",
+  "local_pdf_path": "raw_pdfs/1992/92-148.pdf",
+  "source_metadata": {
+    "title_raw": "Gregg, John Year: 1992 Advice Letter # 92-148",
+    "tags": [
+      "Advice Letter",
+      "1992"
+    ],
+    "scraped_at": "2026-01-31 16:23:08",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1992&tagCount=1&page=5"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:11.655730Z",
+    "page_count": 1,
+    "word_count": 184,
+    "char_count": 1196,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 184
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\nApril 10,\n1992\nJohn Gregg\n1000 Peppermill Court\nConcord,\nCA\n94518—1746\nRe:\nYour Request for Advice\nOur File No.\nA-92-148\nDear Mr.\nGregg:\nThis is in reply to your letter requesting advice concerning\nthe conflict of interest disclosure provisions of the Political\nReform Act.\n(Government Code Sections 81000-91015.)\nAs an employee of the Contra Costa Water District you must\ncomplete a Statement of Economic Interests\n(Form 730).\nYou have\nasked if you must disclose your community property interest in\nyour spouse’s salary if your spouse is employed by a local\ngovernmental agency.\nSalary and reimbursement for expenses from a local, state,\nor\nfederal government agency are excluded from the Act’s definition\nof “income.”\nTherefore,\nyou are not required to disclose your\nspouse’s income from the Central Contra Costa Sanitary District on\nSchedule D-Income.\nIf I can be of further assistance, please contact me at\n(916)\n322—5662.\nSincerely,\nScott Hallabrin\nActing General Counsel\nBy:\nColleen McGee\nPolitical Reform Consultant\nTechnical Assistance and\nAnalysis Division\n428 J Street, Suite 800\n0\nP.O. Box 807 • Sacramento CA 9S804-0807\n0\n(916) 322-S660\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1992-04-10",
+    "date_raw": "April 10,\n1992",
+    "requestor_name": "Gregg",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Must you disclose your community property interest in your spouse's salary if your spouse is employed by a local governmental agency?",
+    "conclusion": "Salary and reimbursement for expenses from a local, state, or federal government agency are excluded from the Act's definition of \"income.\" Therefore, you are not required to disclose your spouse's income from the Central Contra Costa Sanitary District on Schedule D-Income.",
+    "facts": null,
+    "analysis": "Division\n428 J Street, Suite 800\n0\nP.O. Box 807 • Sacramento CA 9S804-0807\n0\n(916) 322-S660",
+    "question_synthetic": "The requester asks whether, as an employee of the Contra Costa Water District required to file a Statement of Economic Interests (Form 730), he must disclose his community property interest in his spouse's salary earned from the Central Contra Costa Sanitary District.",
+    "conclusion_synthetic": "Salary and reimbursements from government agencies are excluded from the definition of \"income\" under the Political Reform Act, so the requester is not required to disclose his spouse's government salary on Schedule D-Income.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "Format: ocr; LLM: Clear advice letter format with direct question and answer about disclosure obligations under the Political Reform Act. OCR quality is good with minimal formatting issues."
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:35:11.655730Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Must you disclose your community property interest in your spouse's salary if your spouse is employed by a local governmental agency?\n\nCONCLUSION: Salary and reimbursement for expenses from a local, state, or federal government agency are excluded from the Act's definition of \"income.\" Therefore, you are not required to disclose your spouse's income from the Central Contra Costa Sanitary District on Schedule D-Income.",
+    "qa_source": "mixed",
+    "first_500_words": "California Fair Political Practices Commission April 10, 1992 John Gregg 1000 Peppermill Court Concord, CA 94518—1746 Re: Your Request for Advice Our File No. A-92-148 Dear Mr. Gregg: This is in reply to your letter requesting advice concerning the conflict of interest disclosure provisions of the Political Reform Act. (Government Code Sections 81000-91015.) As an employee of the Contra Costa Water District you must complete a Statement of Economic Interests (Form 730). You have asked if you must disclose your community property interest in your spouse’s salary if your spouse is employed by a local governmental agency. Salary and reimbursement for expenses from a local, state, or federal government agency are excluded from the Act’s definition of “income.” Therefore, you are not required to disclose your spouse’s income from the Central Contra Costa Sanitary District on Schedule D-Income. If I can be of further assistance, please contact me at (916) 322—5662. Sincerely, Scott Hallabrin Acting General Counsel By: Colleen McGee Political Reform Consultant Technical Assistance and Analysis Division 428 J Street, Suite 800 0 P.O. Box 807 • Sacramento CA 9S804-0807 0 (916) 322-S660",
+    "summary": "FPPC advises that an employee of Contra Costa Water District is not required to disclose his spouse's salary from the Central Contra Costa Sanitary District because government salaries are excluded from the Act's definition of \"income.\""
+  }
+}

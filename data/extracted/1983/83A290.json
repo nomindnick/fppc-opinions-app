@@ -1,0 +1,71 @@
+{
+  "id": "83A290",
+  "year": 1983,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1983/83A290.PDF",
+  "pdf_sha256": "b65edd573039c294f4d97ae6e8a6e50372279bf7d936662f89c2d5fb57647b47",
+  "local_pdf_path": "raw_pdfs/1983/83A290.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1983 Advice Letter # 83A290",
+    "tags": [
+      "1983",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:32:25",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1983&tagCount=1&page=13"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T16:16:29.953961Z",
+    "page_count": 1,
+    "word_count": 236,
+    "char_count": 1352,
+    "quality_score": 0.8669703449109813,
+    "olmocr_cost": 0.00267718,
+    "native_word_count": 225
+  },
+  "content": {
+    "full_text": "TO: [x] JEANNE   [ ] JAY\n    [ ] LYNN      [ ] BARBARA\n    [ ] RICH     [ ] BOB S.\n    [x] HELEN    [x] OTHER Alice, Jeanette, Mary Ann\n\nFROM: Carla Wardlow\nDATE: 12/21/83\n\n[x] TELEPHONE ADVICE - SEE BELOW\n[ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT\n(If you have any comments, notify advisor within 1 day)\n\nFILE LOCATION: 82015, 82028, 84211, 87207\n\nINCLUDE IN ADVICE PACKAGE: YES [ ] NO [x]\n\nCALLER Rod Stein\nREPRESENTING City Attorney, Lodi\nPHONE NUMBER: 209-334-5634\n\nQUESTION: A member of the city council attends a testimonial dinner held in his/her honor and receives the proceeds of the dinner. Are the proceeds reportable as a gift or a contribution? If so, how are they reported?\n\nANSWER: If the money is intended for campaign use, the entire amount of each ticket purchased is reportable on the official's campaign statement, and any person who purchases $100 or more in tickets must be itemized.\n\nIf the money is intended for the councilmember personally, the official must report the total amount received as a gift on his/her statement of economic interests (if $50 or more) and must provide the name of each person who paid $50 or more over the cost of the meal. In addition, the official has received a gift in the amount of the meal. To determine this amount, the total cost of the dinner is divided by the number of persons present.",
+    "full_text_markdown": "TO: [x] JEANNE   [ ] JAY\n    [ ] LYNN      [ ] BARBARA\n    [ ] RICH     [ ] BOB S.\n    [x] HELEN    [x] OTHER Alice, Jeanette, Mary Ann\n\nFROM: Carla Wardlow\nDATE: 12/21/83\n\n[x] TELEPHONE ADVICE - SEE BELOW\n[ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT\n(If you have any comments, notify advisor within 1 day)\n\nFILE LOCATION: 82015, 82028, 84211, 87207\n\nINCLUDE IN ADVICE PACKAGE: YES [ ] NO [x]\n\nCALLER Rod Stein\nREPRESENTING City Attorney, Lodi\nPHONE NUMBER: 209-334-5634\n\nQUESTION: A member of the city council attends a testimonial dinner held in his/her honor and receives the proceeds of the dinner. Are the proceeds reportable as a gift or a contribution? If so, how are they reported?\n\nANSWER: If the money is intended for campaign use, the entire amount of each ticket purchased is reportable on the official's campaign statement, and any person who purchases $100 or more in tickets must be itemized.\n\nIf the money is intended for the councilmember personally, the official must report the total amount received as a gift on his/her statement of economic interests (if $50 or more) and must provide the name of each person who paid $50 or more over the cost of the meal. In addition, the official has received a gift in the amount of the meal. To determine this amount, the total cost of the dinner is divided by the number of persons present."
+  },
+  "parsed": {
+    "date": "1983-12-21",
+    "date_raw": "12/21/83",
+    "requestor_name": null,
+    "requestor_title": "City Attorney",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "A member of the city council attends a testimonial dinner held in his/her honor and receives the proceeds of the dinner. Are the proceeds reportable as a gift or a contribution? If so, how are they reported?\n\nANSWER: If the money is intended for campaign use, the entire amount of each ticket purchased is reportable on the official's campaign statement, and any person who purchases $100 or more in tickets must be itemized.\n\nIf the money is intended for the councilmember personally, the official must report the total amount received as a gift on his/her statement of economic interests (if $50 or more) and must provide the name of each person who paid $50 or more over the cost of the meal. In addition, the official has received a gift in the amount of the meal. To determine this amount, the total cost of the dinner is divided by the number of persons present.",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.44999999999999996,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-20T16:16:29.953961Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: A member of the city council attends a testimonial dinner held in his/her honor and receives the proceeds of the dinner. Are the proceeds reportable as a gift or a contribution? If so, how are they reported?\n\nANSWER: If the money is intended for campaign use, the entire amount of each ticket purchased is reportable on the official's campaign statement, and any person who purchases $100 or more in tickets must be itemized.\n\nIf the money is intended for the councilmember personally, the official must report the total amount received as a gift on his/her statement of economic interests (if $50 or more) and must provide the name of each person who paid $50 or more over the cost of the meal. In addition, the official has received a gift in the amount of the meal. To determine this amount, the total cost of the dinner is divided by the number of persons present.",
+    "qa_source": "extracted",
+    "first_500_words": "TO: [x] JEANNE [ ] JAY [ ] LYNN [ ] BARBARA [ ] RICH [ ] BOB S. [x] HELEN [x] OTHER Alice, Jeanette, Mary Ann FROM: Carla Wardlow DATE: 12/21/83 [x] TELEPHONE ADVICE - SEE BELOW [ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT (If you have any comments, notify advisor within 1 day) FILE LOCATION: 82015, 82028, 84211, 87207 INCLUDE IN ADVICE PACKAGE: YES [ ] NO [x] CALLER Rod Stein REPRESENTING City Attorney, Lodi PHONE NUMBER: 209-334-5634 QUESTION: A member of the city council attends a testimonial dinner held in his/her honor and receives the proceeds of the dinner. Are the proceeds reportable as a gift or a contribution? If so, how are they reported? ANSWER: If the money is intended for campaign use, the entire amount of each ticket purchased is reportable on the official's campaign statement, and any person who purchases $100 or more in tickets must be itemized. If the money is intended for the councilmember personally, the official must report the total amount received as a gift on his/her statement of economic interests (if $50 or more) and must provide the name of each person who paid $50 or more over the cost of the meal. In addition, the official has received a gift in the amount of the meal. To determine this amount, the total cost of the dinner is divided by the number of persons present.",
+    "summary": null
+  }
+}

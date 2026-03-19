@@ -1,0 +1,73 @@
+{
+  "id": "77ADV-77-133",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-133.PDF",
+  "pdf_sha256": "5d73435b67464c3de9f277396614f70876d0fa8b71599fcfbf38016e9d971b77",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-133.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-133",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:20:42",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=24"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:14.221203Z",
+    "page_count": 1,
+    "word_count": 296,
+    "char_count": 1747,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 296
+  },
+  "content": {
+    "full_text": "State of California \nMemorandum \nTo \n: File \nDate \nJan. 12 I \n19 7 7 \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nKen Finney \nSubject: \nIn a telephone conversation January 11, 1977, with Judge Miller, \nI discussed whether he would have to report a salary that he \nreceives from the San Mateo Elks Lodge as income. \nPreviously, \nDawn had informed me that the Judge contends that the salary \nis really a reimbursement for expenses and that, in fact, it \ndoes not even cover all of his expenses. \nAccordingly, the \nissue that I discussed with the Judge was whether the Elks \nClub is a bona fide educational, academic or charitable organi-\nzation within the meaning of Section 82030(b) (2). \nI informed the Judge that I thought the Elks Club was not a \nbona fide educational, academic or charitable organization. \nIn particular, I relied on the fact that the Club files pur-\nsuant to Internal Revenue Code Section ,SOlCc) (8) as a fraternal \norganization and does not file pursuant to Internal Revenue Code \nSection SOl(c) (3) as a charitable organization. \nThe Judge re-\nsponded that the Elks Club administers a charitable fund and \nthat donations to the fund are deductible. \nI responded that I \nthought that the Elks Club and the fund \nare separate entities \nand that since his payment comes from the Elks Club, I thought \nthat it would be reportable as income. \nI also informed the Judge that if he disagreed with my advice, \nhe could seek a formal opinion of the Commission. \nMoreover, \nI informed him about the opinion request procedures and how \nlong it would take to receive an opinion. \nOn the other hand, \nI told him that he would receive interim advice pending the \nissuance of any opinion, assuming that his request were accepted. \nKF: jo \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1977-01-11",
+    "date_raw": "January 11, 1977",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a judge must report salary received from the San Mateo Elks Lodge as income, specifically whether the Elks Club qualifies as a bona fide educational, academic, or charitable organization exempt from reporting under Section 82030(b)(2).",
+    "conclusion_synthetic": "The FPPC staff advised that the Elks Club is not a bona fide educational, academic, or charitable organization under Section 82030(b)(2) because it files as a fraternal organization under IRC Section 501(c)(8) rather than as a charitable organization under IRC Section 501(c)(3), and therefore the salary is reportable as income since the payment comes directly from the Elks Club rather than from a separate charitable fund entity.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Internal memorandum rather than formal advice letter; no formal QUESTION or CONCLUSION sections; contains informal discussion of telephone advice; references possibility of formal opinion request process but this is a record of informal advice provided."
+  },
+  "citations": {
+    "government_code": [
+      "82030(b)(2)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:37:14.221203Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether a judge must report salary received from the San Mateo Elks Lodge as income, specifically whether the Elks Club qualifies as a bona fide educational, academic, or charitable organization exempt from reporting under Section 82030(b)(2).\n\nCONCLUSION: The FPPC staff advised that the Elks Club is not a bona fide educational, academic, or charitable organization under Section 82030(b)(2) because it files as a fraternal organization under IRC Section 501(c)(8) rather than as a charitable organization under IRC Section 501(c)(3), and therefore the salary is reportable as income since the payment comes directly from the Elks Club rather than from a separate charitable fund entity.",
+    "qa_source": "synthetic",
+    "first_500_words": "State of California Memorandum To : File Date Jan. 12 I 19 7 7 From FAIR POLITICAL PRACTICES COMMISSION Ken Finney Subject: In a telephone conversation January 11, 1977, with Judge Miller, I discussed whether he would have to report a salary that he receives from the San Mateo Elks Lodge as income. Previously, Dawn had informed me that the Judge contends that the salary is really a reimbursement for expenses and that, in fact, it does not even cover all of his expenses. Accordingly, the issue that I discussed with the Judge was whether the Elks Club is a bona fide educational, academic or charitable organi- zation within the meaning of Section 82030(b) (2). I informed the Judge that I thought the Elks Club was not a bona fide educational, academic or charitable organization. In particular, I relied on the fact that the Club files pur- suant to Internal Revenue Code Section ,SOlCc) (8) as a fraternal organization and does not file pursuant to Internal Revenue Code Section SOl(c) (3) as a charitable organization. The Judge re- sponded that the Elks Club administers a charitable fund and that donations to the fund are deductible. I responded that I thought that the Elks Club and the fund are separate entities and that since his payment comes from the Elks Club, I thought that it would be reportable as income. I also informed the Judge that if he disagreed with my advice, he could seek a formal opinion of the Commission. Moreover, I informed him about the opinion request procedures and how long it would take to receive an opinion. On the other hand, I told him that he would receive interim advice pending the issuance of any opinion, assuming that his request were accepted. KF: jo",
+    "summary": "Internal FPPC memorandum documenting staff advice given to Judge Miller regarding whether salary from the San Mateo Elks Lodge must be reported as income, concluding that the Elks Club does not qualify as an exempt charitable organization and the salary is reportable."
+  }
+}

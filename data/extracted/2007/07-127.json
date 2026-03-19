@@ -1,0 +1,71 @@
+{
+  "id": "07-127",
+  "year": 2007,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2007/07-127.pdf",
+  "pdf_sha256": "5a55dbc9e69cd9e9b8272108278740879f25dbbe0ca994265960f8ef239e5be6",
+  "local_pdf_path": "raw_pdfs/2007/07-127.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2007 Advice Letter # 07-127",
+    "tags": [
+      "2007",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:46:58",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2007&tagCount=1&page=18"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T20:04:18.118812Z",
+    "page_count": 1,
+    "word_count": 71,
+    "char_count": 444,
+    "quality_score": 0.6997986575350529,
+    "olmocr_cost": 0.0024828199999999997,
+    "native_word_count": 96
+  },
+  "content": {
+    "full_text": "July 27, 2007\n\nBianca Pirayou\nPirayou Law Office\n6950 Almaden Expressway, #125\nSan Jose, CA 95120\n\nRe: Your Request for Advice\nOur File No. W-07-127\n\nDear Ms. Pirayou:\n\nThis letter is to notify you that, at your request, we have withdrawn the above captioned request for advice.\n\nIf you have any questions, feel free to call me at (916) 322-5660.\n\nSincerely,\n\nScott Hallabrin\nGeneral Counsel\n\nBy: Adrianne Korchmaros\nPolitical Reform Consultant",
+    "full_text_markdown": "July 27, 2007\n\nBianca Pirayou\nPirayou Law Office\n6950 Almaden Expressway, #125\nSan Jose, CA 95120\n\nRe: Your Request for Advice\nOur File No. W-07-127\n\nDear Ms. Pirayou:\n\nThis letter is to notify you that, at your request, we have withdrawn the above captioned request for advice.\n\nIf you have any questions, feel free to call me at (916) 322-5660.\n\nSincerely,\n\nScott Hallabrin\nGeneral Counsel\n\nBy: Adrianne Korchmaros\nPolitical Reform Consultant"
+  },
+  "parsed": {
+    "date": "2007-07-27",
+    "date_raw": "July 27, 2007",
+    "requestor_name": "Pirayou",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T20:04:18.118812Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "July 27, 2007 Bianca Pirayou Pirayou Law Office 6950 Almaden Expressway, #125 San Jose, CA 95120 Re: Your Request for Advice Our File No. W-07-127 Dear Ms. Pirayou: This letter is to notify you that, at your request, we have withdrawn the above captioned request for advice. If you have any questions, feel free to call me at (916) 322-5660. Sincerely, Scott Hallabrin General Counsel By: Adrianne Korchmaros Political Reform Consultant",
+    "qa_source": "extracted",
+    "first_500_words": "July 27, 2007 Bianca Pirayou Pirayou Law Office 6950 Almaden Expressway, #125 San Jose, CA 95120 Re: Your Request for Advice Our File No. W-07-127 Dear Ms. Pirayou: This letter is to notify you that, at your request, we have withdrawn the above captioned request for advice. If you have any questions, feel free to call me at (916) 322-5660. Sincerely, Scott Hallabrin General Counsel By: Adrianne Korchmaros Political Reform Consultant",
+    "summary": null
+  }
+}

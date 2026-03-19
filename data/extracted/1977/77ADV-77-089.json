@@ -1,0 +1,75 @@
+{
+  "id": "77ADV-77-089",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-089.PDF",
+  "pdf_sha256": "756100ee7616cd389b6e8fe0faa2c319e707870ddae6cd76ac12e4811a64494b",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-089.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-089",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:20:03",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=15"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:13.208057Z",
+    "page_count": 2,
+    "word_count": 286,
+    "char_count": 1767,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 286
+  },
+  "content": {
+    "full_text": "California \nr \nd \nTo \n: Nancy Conzett \nDate \nDecember 29, 1977 \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nDwight Dickerson. \nSubject: Phone Advice \nOur office received a letter from Menlo Park Council Member \nJennifer Bigelow dated December 8, 1977. \nIn that letter she \nasked us to consider the following: \nIn the near future, a \nmatter pertaining to the development of a parcel of land \nadjacent to a piece of property upon which she resides will \nbe considered by the Council. \nThe question she raises is \nwhether she is disqualified from participating in the matter \npertaining to the development. \nOn December 22, 1977, I advised her by phone that Government \nCode §§87100 and 87103(b) stated that she had to disqualify \nherself from participating in a governmental decision where \nit is foreseeable that the decision could have a material \neffect on her property interest. \nI pointed out to her that \nthe Commission offered guidelines in Regulation 18702(b) (2) \nfor determining when a material financial effect would be \npresent. \nI made it clear to Council Member Bigelow that the guidelines \noffered by the Commission were not conclusive. \nThe Commission \nstated in 18702(a) that if the official knows or has reason to \nknow that their financial interest could impair their ability \nto be free from bias, materiality would be present, and the \nofficial would probably have to be disqualified if the other \nelements were present. \nDD:ma \n\n\nA~ERIJ. ~ TEPHENS \n.¥lAYOR \nJENNIFER BIGELOW \nMAYOR PRO TEM \nJAMES l. BLOCH \nCOUNCllMEMBER \nIRA E. BONDE \nCOUNCILMEMBER \nJAMES W. CALLOWAY \nCOUNCILMEMBER \n~ \n! \n1 \nI \nI \n. \nI \n! \nI \n, \nI \nCITY OF \n! \nCIV\"JC CtNTER / MENLO PARK, CALIFORNIA 94025 / TELEPHONE (415) 325-3211 \nI MENl.O Ir~ \"{: \n-.3 \n! \n~ \nl\\)~:\"; \n~' \n\\ \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1977-12-29",
+    "date_raw": "December 29, 1977",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Whether a Menlo Park Council Member is disqualified from participating in a matter pertaining to the development of a parcel of land adjacent to a piece of property upon which she resides.",
+    "conclusion": "Government Code §§87100 and 87103(b) stated that she had to disqualify herself from participating in a governmental decision where it is foreseeable that the decision could have a material effect on her property interest. The Commission's Regulation 18702(b)(2) provides guidelines for determining when a material financial effect would be present, though these guidelines are not conclusive. Under Commission Regulation 18702(a), if the official knows or has reason to know that their financial interest could impair their ability to be free from bias, materiality would be present, and the official would probably have to be disqualified if the other elements were present.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "A Menlo Park Council Member asked whether she must disqualify herself from voting on a land development matter involving a parcel adjacent to her own property.",
+    "conclusion_synthetic": "The FPPC advised the Council Member that she must disqualify herself under Government Code §§87100 and 87103(b) because the land development decision could foreseeably have a material effect on her adjacent property. The determination of materiality depends on whether the official knows or has reason to know that their financial interest could impair their objectivity, guided by Regulation 18702.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is a summary of phone advice given on December 22, 1977, documented in a letter dated December 29, 1977. No formal 'QUESTION' or 'CONCLUSION' headers present but clear question and conclusion sections exist in narrative form. City letterhead present suggesting this may be a copy sent to city officials."
+  },
+  "citations": {
+    "government_code": [
+      "87100"
+    ],
+    "regulations": [
+      "18702"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:37:13.208057Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether a Menlo Park Council Member is disqualified from participating in a matter pertaining to the development of a parcel of land adjacent to a piece of property upon which she resides.\n\nCONCLUSION: Government Code §§87100 and 87103(b) stated that she had to disqualify herself from participating in a governmental decision where it is foreseeable that the decision could have a material effect on her property interest. The Commission's Regulation 18702(b)(2) provides guidelines for determining when a material financial effect would be present, though these guidelines are not conclusive. Under Commission Regulation 18702(a), if the official knows or has reason to know that their financial interest could impair their ability to be free from bias, materiality would be present, and the official would probably have to be disqualified if the other elements were present.",
+    "qa_source": "mixed",
+    "first_500_words": "California r d To : Nancy Conzett Date December 29, 1977 From FAIR POLITICAL PRACTICES COMMISSION Dwight Dickerson. Subject: Phone Advice Our office received a letter from Menlo Park Council Member Jennifer Bigelow dated December 8, 1977. In that letter she asked us to consider the following: In the near future, a matter pertaining to the development of a parcel of land adjacent to a piece of property upon which she resides will be considered by the Council. The question she raises is whether she is disqualified from participating in the matter pertaining to the development. On December 22, 1977, I advised her by phone that Government Code §§87100 and 87103(b) stated that she had to disqualify herself from participating in a governmental decision where it is foreseeable that the decision could have a material effect on her property interest. I pointed out to her that the Commission offered guidelines in Regulation 18702(b) (2) for determining when a material financial effect would be present. I made it clear to Council Member Bigelow that the guidelines offered by the Commission were not conclusive. The Commission stated in 18702(a) that if the official knows or has reason to know that their financial interest could impair their ability to be free from bias, materiality would be present, and the official would probably have to be disqualified if the other elements were present. DD:ma A~ERIJ. ~ TEPHENS .¥lAYOR JENNIFER BIGELOW MAYOR PRO TEM JAMES l. BLOCH COUNCllMEMBER IRA E. BONDE COUNCILMEMBER JAMES W. CALLOWAY COUNCILMEMBER ~ ! 1 I I . I ! I , I CITY OF ! CIV\"JC CtNTER / MENLO PARK, CALIFORNIA 94025 / TELEPHONE (415) 325-3211 I MENl.O Ir~ \"{: -.3 ! ~ l\\)~:\"; ~' \\",
+    "summary": "The FPPC provided phone advice to Menlo Park Council Member Jennifer Bigelow regarding her disqualification requirements for a vote on a land development matter affecting property adjacent to her residence. The FPPC advised that she must disqualify herself under Government Code §§87100 and 87103(b) because the decision could foreseeably have a material effect on her property interest."
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "90516",
+  "year": 1990,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1990/90516.pdf",
+  "pdf_sha256": "9f17437fb35b648a139b72bbb9ca0b4e2c6559987a5c5bcbeb0804d98a2f63fd",
+  "local_pdf_path": "raw_pdfs/1990/90516.pdf",
+  "source_metadata": {
+    "title_raw": "Reynoso, Sarah Year: 1990 Advice Letter # 90516",
+    "tags": [
+      "1990",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:06:46",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1990&tagCount=1&page=13"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:32.149230Z",
+    "page_count": 1,
+    "word_count": 165,
+    "char_count": 1072,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 165
+  },
+  "content": {
+    "full_text": "City of Berkeley\nOffice of the City Attomey\nMartin Luther King, Jr.\nCivic Center Building\n2180 Milvia Street\nkrkeley, California 94704\nTelecommunications Device for the Deaf (4151 g4-6915\nTelephone: (415) 644-6380\nTelecopy: (415\\ 644-W1\nAugust 2, 1990\nLegal Assistance Division\nFair Political Practices Commission\n428 \"J\" Street, Suite 800\nSacramento, CA 95814\nDear Colleague :\nSeveral of our elected officers have asked for guidance in using\nsurplus campaign funds for their November 'l 990 re-election bid.\nWe would be grateful if you coufd advise us concerning the\nfollowing questions:\n1) \nUnder the preliminary injunction issued ln SEIU v FPPC, are\nthere any conditions under which a candidate cannot use\nsurplus campaign funds?\n2) \nrf the Judge lifts \nthe Prel-iminary Injunction, what, if any\naction, will the FPPC take against candidates who have\ntransferred surplus funds to current campaigns?\nThank you for your assistance in this matter.\nS incerely ,\nMANUELA ALBUQUERQUE\nCity Attorney\nSo(al^.'U5^,=--.-'--\nSARAH REYNOSO\nDeputy city Attorney\nSR/1h\nAuc 6 il ir r'\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1990-08-02",
+    "date_raw": "August 2, 1990",
+    "requestor_name": "Reynoso",
+    "requestor_title": "City Attorney",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "1) Under the preliminary injunction issued in SEIU v FPPC, are there any conditions under which a candidate cannot use surplus campaign funds?\n2) If the Judge lifts the Preliminary Injunction, what, if any action, will the FPPC take against candidates who have transferred surplus funds to current campaigns?",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The City of Berkeley seeks FPPC guidance on whether candidates can use surplus campaign funds for re-election campaigns under the SEIU v FPPC preliminary injunction, and what enforcement actions the FPPC may take if the injunction is lifted.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an incoming request letter from the City of Berkeley to the FPPC, not an FPPC response. Contains two numbered questions regarding campaign fund use and enforcement. No CONCLUSION or ANSWER section present as this is a request for advice, not an FPPC response letter."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:35:32.149230Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: 1) Under the preliminary injunction issued in SEIU v FPPC, are there any conditions under which a candidate cannot use surplus campaign funds?\n2) If the Judge lifts the Preliminary Injunction, what, if any action, will the FPPC take against candidates who have transferred surplus funds to current campaigns?",
+    "qa_source": "mixed",
+    "first_500_words": "City of Berkeley Office of the City Attomey Martin Luther King, Jr. Civic Center Building 2180 Milvia Street krkeley, California 94704 Telecommunications Device for the Deaf (4151 g4-6915 Telephone: (415) 644-6380 Telecopy: (415\\ 644-W1 August 2, 1990 Legal Assistance Division Fair Political Practices Commission 428 \"J\" Street, Suite 800 Sacramento, CA 95814 Dear Colleague : Several of our elected officers have asked for guidance in using surplus campaign funds for their November 'l 990 re-election bid. We would be grateful if you coufd advise us concerning the following questions: 1) Under the preliminary injunction issued ln SEIU v FPPC, are there any conditions under which a candidate cannot use surplus campaign funds? 2) rf the Judge lifts the Prel-iminary Injunction, what, if any action, will the FPPC take against candidates who have transferred surplus funds to current campaigns? Thank you for your assistance in this matter. S incerely , MANUELA ALBUQUERQUE City Attorney So(al^.'U5^,=--.-'-- SARAH REYNOSO Deputy city Attorney SR/1h Auc 6 il ir r'",
+    "summary": "The City of Berkeley Office of the City Attorney requests FPPC guidance regarding elected officers' use of surplus campaign funds for November 1990 re-election bids, specifically addressing conditions under the SEIU v FPPC preliminary injunction and potential FPPC enforcement actions."
+  }
+}

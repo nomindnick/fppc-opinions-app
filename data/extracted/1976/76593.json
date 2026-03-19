@@ -1,0 +1,73 @@
+{
+  "id": "76593",
+  "year": 1976,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1976/76593.pdf",
+  "pdf_sha256": "4ed28b924f0ad57a7f770aa424d32865523b4396182fdd605d2aeef6fb38b28e",
+  "local_pdf_path": "raw_pdfs/1976/76593.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 1976 Advice Letter # 76593",
+    "tags": [
+      "1976",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:15:06",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1976&tagCount=1&page=7"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T21:06:31.896260Z",
+    "page_count": 1,
+    "word_count": 83,
+    "char_count": 562,
+    "quality_score": 0.8186396326565002,
+    "olmocr_cost": 0.00249314,
+    "native_word_count": 133
+  },
+  "content": {
+    "full_text": "Memorandum\n\nState of California\n\nTo: Bob S., Gina, Nan, Barbara, John, Rick, Mike, Ken, Ken G., Dan, Mark, Ted, Del, Mickey  \nDate: 3/22/76\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION  \nNatalie West\n\nSubject: 86108(b) Filings\n\nPursuant to our conversation of Friday, March 19, a client who pays $250 or more in any one month to influence legislative or administrative action must file pursuant to Section 86108(b).\n\nThe law firm or other entity retained by the client is not subject to the reporting requirements.\n\nNEW: pvp",
+    "full_text_markdown": "Memorandum\n\nState of California\n\nTo: Bob S., Gina, Nan, Barbara, John, Rick, Mike, Ken, Ken G., Dan, Mark, Ted, Del, Mickey  \nDate: 3/22/76\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION  \nNatalie West\n\nSubject: 86108(b) Filings\n\nPursuant to our conversation of Friday, March 19, a client who pays $250 or more in any one month to influence legislative or administrative action must file pursuant to Section 86108(b).\n\nThe law firm or other entity retained by the client is not subject to the reporting requirements.\n\nNEW: pvp"
+  },
+  "parsed": {
+    "date": "1976-03-22",
+    "date_raw": "3/22/76",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [
+      "86108(b)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "lobbying",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-19T21:06:31.896260Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "**Memorandum** **State of California** **To:** Bob S., Gina, Nan, Barbara, John, Rick, Mike, Ken, Ken G., Dan, Mark, Ted, Del, Mickey **Date:** 3/22/76 **From:** FAIR POLITICAL PRACTICES COMMISSION **Natalie West** **Subject:** 86108(b) Filings **Pursuant to our conversation of Friday, March 19, a client who pays $250 or more in any one month to influence legislative or administrative action must file pursuant to Section 86108(b).** **The law firm or other entity retained by the client is not subject to the reporting requirements.** **NEW: pvp**",
+    "qa_source": "extracted",
+    "first_500_words": "**Memorandum** **State of California** **To:** Bob S., Gina, Nan, Barbara, John, Rick, Mike, Ken, Ken G., Dan, Mark, Ted, Del, Mickey **Date:** 3/22/76 **From:** FAIR POLITICAL PRACTICES COMMISSION **Natalie West** **Subject:** 86108(b) Filings **Pursuant to our conversation of Friday, March 19, a client who pays $250 or more in any one month to influence legislative or administrative action must file pursuant to Section 86108(b).** **The law firm or other entity retained by the client is not subject to the reporting requirements.** **NEW: pvp**",
+    "summary": null
+  }
+}

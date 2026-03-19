@@ -1,0 +1,75 @@
+{
+  "id": "98-093",
+  "year": 1998,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/1998/98-093.pdf",
+  "pdf_sha256": "fd631365cd86082bb261f5c8f5d5f19fd68e1f6607a133a1a2539961446cef16",
+  "local_pdf_path": "raw_pdfs/1998/98-093.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 1998 Advice Letter # 98-093",
+    "tags": [
+      "1998",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:45:59",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1998&tagCount=1&page=9"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:43.505551Z",
+    "page_count": 1,
+    "word_count": 161,
+    "char_count": 989,
+    "quality_score": 0.6675,
+    "olmocr_cost": null,
+    "native_word_count": 161
+  },
+  "content": {
+    "full_text": "FAIR POLITICAL PRACTICES COM?VIISSION\nP.O. Box 807\n• 428 J Street\n. Sacramento, CA 958 12-0807\n(916) 322-5660\n• Fax (916) 322-0886\nApril 20, 1998\nR. James Shaffer\nAttorney at Law\n16412 Sundancer Lane\nHuntington Beach, California 92649\nRe: Your Request for Advice\nOur File No. 1-98-093\nDear Mr. Shaffer:\nThis letter is in response to your request for advice regarding the provisions ofthe\nPolitical Reform Act (the “Act”).\n1 Due to the hypothetical nature of your request, I have\nattempted to contact you on several occasions by telephone and fax to obtain information\nrequired to answer your questions, but have been unable to reach you. Therefore, I am closing\nthis file with no response.\nPlease feel free to contact me at (916) 322-5660, if you have any further questions.\nSincerely,\nflctLt I•-t\nMary Ann Kvasager\nPolitical Reform Consultant\nGovernment Code sections 81000 - 91014. Commission regulations appear at title 2, sections 18109\n-\n18995, of the California Code of Regulations.\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1998-04-20",
+    "date_raw": "April 20, 1998",
+    "requestor_name": "Shaffer",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requester sought advice regarding provisions of the Political Reform Act, but the specific legal question was not disclosed due to inability to establish contact.",
+    "conclusion_synthetic": "The FPPC closed the file without providing a response due to the hypothetical nature of the request and inability to contact the requester for necessary clarifying information.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Declination/closure letter with no Q&A sections. The letter explicitly states the file is being closed without response due to hypothetical nature of request and failed contact attempts. No substantive legal analysis provided."
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [
+      "18109"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:34:43.505551Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The requester sought advice regarding provisions of the Political Reform Act, but the specific legal question was not disclosed due to inability to establish contact.\n\nCONCLUSION: The FPPC closed the file without providing a response due to the hypothetical nature of the request and inability to contact the requester for necessary clarifying information.",
+    "qa_source": "synthetic",
+    "first_500_words": "FAIR POLITICAL PRACTICES COM?VIISSION P.O. Box 807 • 428 J Street . Sacramento, CA 958 12-0807 (916) 322-5660 • Fax (916) 322-0886 April 20, 1998 R. James Shaffer Attorney at Law 16412 Sundancer Lane Huntington Beach, California 92649 Re: Your Request for Advice Our File No. 1-98-093 Dear Mr. Shaffer: This letter is in response to your request for advice regarding the provisions ofthe Political Reform Act (the “Act”). 1 Due to the hypothetical nature of your request, I have attempted to contact you on several occasions by telephone and fax to obtain information required to answer your questions, but have been unable to reach you. Therefore, I am closing this file with no response. Please feel free to contact me at (916) 322-5660, if you have any further questions. Sincerely, flctLt I•-t Mary Ann Kvasager Political Reform Consultant Government Code sections 81000 - 91014. Commission regulations appear at title 2, sections 18109 - 18995, of the California Code of Regulations.",
+    "summary": "FPPC declination letter closing file 1-98-093 from R. James Shaffer without substantive response, citing inability to reach the requester by telephone or fax to obtain required information for answering his hypothetical Political Reform Act questions."
+  }
+}

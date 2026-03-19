@@ -1,0 +1,71 @@
+{
+  "id": "79-207",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-207.PDF",
+  "pdf_sha256": "02d31eb9f7ac1edc9f6b723beb2621be8c6a164ae8c7a676372d9ac83089062b",
+  "local_pdf_path": "raw_pdfs/1979/79-207.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1979 Advice Letter # 79-207",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:25:51",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=7"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T00:00:23.110857Z",
+    "page_count": 1,
+    "word_count": 99,
+    "char_count": 556,
+    "quality_score": 0.7101974341602459,
+    "olmocr_cost": 0.0024871199999999998,
+    "native_word_count": 101
+  },
+  "content": {
+    "full_text": "An exchange is a payment to influence which can trigger a filing obligation. Although the filing obligation is triggered, the exchange need not be reported if it is less than the required threshold. Thus, in the case of an 86108(b) filer, the 650 report may not indicate on its face that the filer is required to file reports. Example: Person makes $100 of 82045(e) payments and $300 of 82045(c) which are exchanges in this case. Payments to influence equal $400 but only $100 will show up on the form since the $500 threshold in 86109(d) has not been met.",
+    "full_text_markdown": "An exchange is a payment to influence which can trigger a filing obligation. Although the filing obligation is triggered, the exchange need not be reported if it is less than the required threshold. Thus, in the case of an 86108(b) filer, the 650 report may not indicate on its face that the filer is required to file reports. Example: Person makes $100 of 82045(e) payments and $300 of 82045(c) which are exchanges in this case. Payments to influence equal $400 but only $100 will show up on the form since the $500 threshold in 86109(d) has not been met."
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-20T00:00:23.110857Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "An exchange is a payment to influence which can trigger a filing obligation. Although the filing obligation is triggered, the exchange need not be reported if it is less than the required threshold. Thus, in the case of an 86108(b) filer, the 650 report may not indicate on its face that the filer is required to file reports. Example: Person makes $100 of 82045(e) payments and $300 of 82045(c) which are exchanges in this case. Payments to influence equal $400 but only $100 will show up on the form since the $500 threshold in 86109(d) has not been met.",
+    "qa_source": "extracted",
+    "first_500_words": "An exchange is a payment to influence which can trigger a filing obligation. Although the filing obligation is triggered, the exchange need not be reported if it is less than the required threshold. Thus, in the case of an 86108(b) filer, the 650 report may not indicate on its face that the filer is required to file reports. Example: Person makes $100 of 82045(e) payments and $300 of 82045(c) which are exchanges in this case. Payments to influence equal $400 but only $100 will show up on the form since the $500 threshold in 86109(d) has not been met.",
+    "summary": null
+  }
+}

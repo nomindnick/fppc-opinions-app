@@ -1,0 +1,71 @@
+{
+  "id": "76ADV-251",
+  "year": 1976,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1976/76ADV-251.PDF",
+  "pdf_sha256": "eec09678189a0a5183a56903944e532ec48abc4d099705ad52af198dc0cb5af6",
+  "local_pdf_path": "raw_pdfs/1976/76ADV-251.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1976ADV Advice Letter # 76ADV-251",
+    "tags": [
+      "1976",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:16:43",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1976&tagCount=1&page=29"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:20.085218Z",
+    "page_count": 2,
+    "word_count": 284,
+    "char_count": 1827,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 284
+  },
+  "content": {
+    "full_text": "I \ntate of CaliforIlia \nair Political Practices CommissioIL \nP.O. BOX 807 • SACRAMENTO, 95804 ••• 1100 K STREET BUILDING, SACRAMENTO, 95814 \nSeptember 10, 1976 \nLarry Milnes, Assistant City Manager \nCity of Fremont \nCity Government Building \nFremont, California \n94538 \nDear Mr. Milnes: \nIn reiteration of our conversation of September 8, 1976, \nplease be advised that the advice your school district received \nfrom the office of the County Counsel of Alameda County is \ncorrect: \nThe Board of Supervisors of that county is the code \nreviewing body for your district. \nIf I can be of any further assistance to you please feel \nfree to call me \nat 916/322-6444. \nDLS: jhm \nSincerely, \nDelbert L. Spurlock, Jr., \nChief, Conflicts of Interest \nDivision \n\n\nCity of Fremont \nCity Government Building \nFremont, California 94538 \nSeptember 2, 1976 \nDelbert L. Spurlock, Jr. \nChief, \nConflict of Interest Division \nFair Political Practices Commission \nP.O. Box 807 \nSacramento, CA \n95804 \nDear Mr. Spurlock: \nC \n9 331M '1' \nThe City of Fremont was verbally advised by several FPPC staff \nmembers that the City Council of the City of Fremont would be the \ncode reviewing body for the Fremont Unified School District, since \nthe District is located wholly within the boundaries of the City \nof Fremont. \nWe were subsequently advised by the Alameda County Counsel that the \nCounty Board of Supervisors is the code reviewing body for the Fremont \nUnified School District. \nA copy of the County Counsel's opinion is \nenc losed. \nUnless we receive written advice from the FPPC to the contrary, we \nintend to follow the advice of the County Counsel in this matter. \n'('jcerelY, \n~~ \nLARRY MILNES \nAssistant City Manager \nLM:dac \ncc: \nWayne Ferguson, Superintendent, \nFremont Unified School District \nRichard J. Moore, Alameda County Counsel \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1976-09-10",
+    "date_raw": "September 10, 1976",
+    "requestor_name": "Milnes",
+    "requestor_title": "County Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "The Board of Supervisors of that county is the code reviewing body for your district.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Which entity serves as the code reviewing body for the Fremont Unified School District—the City Council of Fremont or the County Board of Supervisors—when the District is located wholly within the City's boundaries?",
+    "conclusion_synthetic": "The FPPC affirmed that the Alameda County Board of Supervisors, not the City of Fremont, serves as the code reviewing body for the Fremont Unified School District.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document contains both the incoming request (September 2, 1976) and the FPPC response (September 10, 1976). No formal Q&A section headers present; question and conclusion extracted from letter body. Email reference number '9331M' appears on request letter. Minor OCR artifacts visible in header ('CaliforIlia' for California, 'CommissioIL' for Commission)."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:20.085218Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Which entity serves as the code reviewing body for the Fremont Unified School District—the City Council of Fremont or the County Board of Supervisors—when the District is located wholly within the City's boundaries?\n\nCONCLUSION: The Board of Supervisors of that county is the code reviewing body for your district.",
+    "qa_source": "mixed",
+    "first_500_words": "I tate of CaliforIlia air Political Practices CommissioIL P.O. BOX 807 • SACRAMENTO, 95804 ••• 1100 K STREET BUILDING, SACRAMENTO, 95814 September 10, 1976 Larry Milnes, Assistant City Manager City of Fremont City Government Building Fremont, California 94538 Dear Mr. Milnes: In reiteration of our conversation of September 8, 1976, please be advised that the advice your school district received from the office of the County Counsel of Alameda County is correct: The Board of Supervisors of that county is the code reviewing body for your district. If I can be of any further assistance to you please feel free to call me at 916/322-6444. DLS: jhm Sincerely, Delbert L. Spurlock, Jr., Chief, Conflicts of Interest Division City of Fremont City Government Building Fremont, California 94538 September 2, 1976 Delbert L. Spurlock, Jr. Chief, Conflict of Interest Division Fair Political Practices Commission P.O. Box 807 Sacramento, CA 95804 Dear Mr. Spurlock: C 9 331M '1' The City of Fremont was verbally advised by several FPPC staff members that the City Council of the City of Fremont would be the code reviewing body for the Fremont Unified School District, since the District is located wholly within the boundaries of the City of Fremont. We were subsequently advised by the Alameda County Counsel that the County Board of Supervisors is the code reviewing body for the Fremont Unified School District. A copy of the County Counsel's opinion is enc losed. Unless we receive written advice from the FPPC to the contrary, we intend to follow the advice of the County Counsel in this matter. '('jcerelY, ~~ LARRY MILNES Assistant City Manager LM:dac cc: Wayne Ferguson, Superintendent, Fremont Unified School District Richard J. Moore, Alameda County Counsel",
+    "summary": "FPPC Chief Delbert Spurlock responded to City of Fremont Assistant City Manager Larry Milnes, confirming that the Alameda County Board of Supervisors is the proper code reviewing body for the Fremont Unified School District, contrary to earlier verbal advice from FPPC staff members suggesting the City Council would serve in that role."
+  }
+}

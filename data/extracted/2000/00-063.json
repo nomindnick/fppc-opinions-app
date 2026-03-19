@@ -1,0 +1,74 @@
+{
+  "id": "00-063",
+  "year": 2000,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2000/00-063.pdf",
+  "pdf_sha256": "bdf07b88d44b58a904cd1447739fe963d945ed000988ee0138ae43ac15f706b0",
+  "local_pdf_path": "raw_pdfs/2000/00-063.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2000 Advice Letter # 00-063",
+    "tags": [
+      "2000",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 00:42:23",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2000&tagCount=1&page=4"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T00:54:06.757771Z",
+    "page_count": 1,
+    "word_count": 118,
+    "char_count": 766,
+    "quality_score": 0.8703040917801371,
+    "olmocr_cost": 0.00253098,
+    "native_word_count": 141
+  },
+  "content": {
+    "full_text": "March 8, 2000\n\nHenry C. Lozano\n6067 Angel Drive\nWinton, CA 95388\n\nRe: Your Request for Assistance\nOur File No. G-00-063\n\nDear Mr. Lozano:\n\nYour letter requesting assistance was received by the Fair Political Practices Commission on March 6, 2000. The Fair Political Practices Commission solely has jurisdiction over the Political Reform Act (Government Code Sections 81000-91015). Consequently, we are unable to provide assistance with respect to the issues you raise in your letter.\n\nFor questions concerning Government Code Section 1090, we suggest that you contact the Office of the Attorney General.\n\nPlease feel free to call me at (916) 322-5660 if you have any questions.\n\nSincerely,\n\nLuisa Menchaca\nAssistant General Counsel\n\nBy: Kelly L. Winsor\nLegal Analyst",
+    "full_text_markdown": "March 8, 2000\n\nHenry C. Lozano\n6067 Angel Drive\nWinton, CA 95388\n\nRe: Your Request for Assistance\nOur File No. G-00-063\n\nDear Mr. Lozano:\n\nYour letter requesting assistance was received by the Fair Political Practices Commission on March 6, 2000. The Fair Political Practices Commission solely has jurisdiction over the Political Reform Act (Government Code Sections 81000-91015). Consequently, we are unable to provide assistance with respect to the issues you raise in your letter.\n\nFor questions concerning Government Code Section 1090, we suggest that you contact the Office of the Attorney General.\n\nPlease feel free to call me at (916) 322-5660 if you have any questions.\n\nSincerely,\n\nLuisa Menchaca\nAssistant General Counsel\n\nBy: Kelly L. Winsor\nLegal Analyst"
+  },
+  "parsed": {
+    "date": "2000-03-08",
+    "date_raw": "March 8, 2000",
+    "requestor_name": "Lozano",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [
+      "1090",
+      "81000"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-20T00:54:06.757771Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "March 8, 2000 Henry C. Lozano 6067 Angel Drive Winton, CA 95388 Re: Your Request for Assistance Our File No. G-00-063 Dear Mr. Lozano: Your letter requesting assistance was received by the Fair Political Practices Commission on March 6, 2000. The Fair Political Practices Commission solely has jurisdiction over the Political Reform Act (Government Code Sections 81000-91015). Consequently, we are unable to provide assistance with respect to the issues you raise in your letter. For questions concerning Government Code Section 1090, we suggest that you contact the Office of the Attorney General. Please feel free to call me at (916) 322-5660 if you have any questions. Sincerely, Luisa Menchaca Assistant General Counsel By: Kelly L. Winsor Legal Analyst",
+    "qa_source": "extracted",
+    "first_500_words": "March 8, 2000 Henry C. Lozano 6067 Angel Drive Winton, CA 95388 Re: Your Request for Assistance Our File No. G-00-063 Dear Mr. Lozano: Your letter requesting assistance was received by the Fair Political Practices Commission on March 6, 2000. The Fair Political Practices Commission solely has jurisdiction over the Political Reform Act (Government Code Sections 81000-91015). Consequently, we are unable to provide assistance with respect to the issues you raise in your letter. For questions concerning Government Code Section 1090, we suggest that you contact the Office of the Attorney General. Please feel free to call me at (916) 322-5660 if you have any questions. Sincerely, Luisa Menchaca Assistant General Counsel By: Kelly L. Winsor Legal Analyst",
+    "summary": null
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "78ADV-78-237",
+  "year": 1978,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1978/78ADV-78-237.PDF",
+  "pdf_sha256": "2491a68274ee29dbfc92fdbc6529181741d88f83955f2574ff8ecfefdba19836",
+  "local_pdf_path": "raw_pdfs/1978/78ADV-78-237.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1978ADV Advice Letter # 78ADV-78-237",
+    "tags": [
+      "Advice Letter",
+      "1978"
+    ],
+    "scraped_at": "2026-01-31 15:24:18",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=20"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:10.154878Z",
+    "page_count": 1,
+    "word_count": 210,
+    "char_count": 1247,
+    "quality_score": 0.635,
+    "olmocr_cost": null,
+    "native_word_count": 210
+  },
+  "content": {
+    "full_text": "r \nTo \nFile 86107 and 86109 \nDate \nFeb. 3, 1978 \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nBob Stern \nSubject: \nReporting of a Gift to a Lobbyist \nThe lobbyist for the State Building and Construction \nTrades Council has been offered a trip by Southern \nCalifornia Gas Company to Japan to inspect a Japanese \nLNG operation. \nThis trip will be helpful to the lobbyist \nin his efforts to lobby the legislature for an LNG \nterminal in California. \nQuestion: \n1. \nDoes the lobbyist have to report the receipt of \nthe trip? If so, on which part of the form? \nThe opinion request meeting concluded that both the \nlobbyist and Southern California Gas Company would have \nto list the value of the trip on their respective forms. \nThe lobbyist should include the trip from Southern \nCalifornia Gas Company on \"Payments Received in Connec-\ntion with Lobbying Activity,\" column (c) -\n\"Advances or \nOther Receipts.\" \n2. \nDoes Southern California Gas Company have to \nreport its payment for the trip? If so, on what part of \nthe form? \nThe lobbyist employer should include the trip and \nthe name of the lobbyist on its form in Part 2(a) \"Pay-\nments aggregating $25 or more this period for services \nprovided by other than the filer or the filer's employees.\" \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "1. \nDoes the lobbyist have to report the receipt of \nthe trip? If so, on which part of the form? \nThe opinion request meeting concluded that both the \nlobbyist and Southern California Gas Company would have \nto list the value of the trip on their respective forms. \nThe lobbyist should include the trip from Southern \nCalifornia Gas Company on \"Payments Received in Connec-\ntion with Lobbying Activity,\" column (c) -\n\"Advances or \nOther Receipts.\" \n2. \nDoes Southern California Gas Company have to \nreport its payment for the trip? If so, on what part of \nthe form? \nThe lobbyist employer should include the trip and \nthe name of the lobbyist on its form in Part 2(a) \"Pay-\nments aggregating $25 or more this period for services \nprovided by other than the filer or the filer's employees.\"",
+    "conclusion": "The opinion request meeting concluded that both the lobbyist and Southern California Gas Company would have to list the value of the trip on their respective forms. The lobbyist should include the trip from Southern California Gas Company on \"Payments Received in Connection with Lobbying Activity,\" column (c) - \"Advances or Other Receipts.\" The lobbyist employer should include the trip and the name of the lobbyist on its form in Part 2(a) \"Payments aggregating $25 or more this period for services provided by other than the filer or the filer's employees.\"",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "A lobbyist has been offered a trip to Japan by Southern California Gas Company to inspect an LNG operation relevant to his lobbying work. The question asks whether the lobbyist and the company must report this gift, and if so, on which forms and sections.",
+    "conclusion_synthetic": "Both the lobbyist and Southern California Gas Company must report the trip's value on their respective forms. The lobbyist reports it under \"Payments Received in Connection with Lobbying Activity\" in the \"Advances or Other Receipts\" column, while the company reports it in Part 2(a) under payments for services by non-employees.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern; LLM: Document is a formal FPPC advice letter with clear Question and Conclusion sections. File numbers 86107 and 86109 referenced. Response authored by Bob Stern from FPPC."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:10.154878Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: 1. \nDoes the lobbyist have to report the receipt of \nthe trip? If so, on which part of the form? \nThe opinion request meeting concluded that both the \nlobbyist and Southern California Gas Company would have \nto list the value of the trip on their respective forms. \nThe lobbyist should include the trip from Southern \nCalifornia Gas Company on \"Payments Received in Connec-\ntion with Lobbying Activity,\" column (c) -\n\"Advances or \nOther Receipts.\" \n2. \nDoes Southern California Gas Company have to \nreport its payment for the trip? If so, on what part of \nthe form? \nThe lobbyist employer should include the trip and \nthe name of the lobbyist on its form in Part 2(a) \"Pay-\nments aggregating $25 or more this period for services \nprovided by other than the filer or the filer's employees.\"\n\nCONCLUSION: The opinion request meeting concluded that both the lobbyist and Southern California Gas Company would have to list the value of the trip on their respective forms. The lobbyist should include the trip from Southern California Gas Company on \"Payments Received in Connection with Lobbying Activity,\" column (c) - \"Advances or Other Receipts.\" The lobbyist employer should include the trip and the name of the lobbyist on its form in Part 2(a) \"Payments aggregating $25 or more this period for services provided by other than the filer or the filer's employees.\"",
+    "qa_source": "mixed",
+    "first_500_words": "r To File 86107 and 86109 Date Feb. 3, 1978 From FAIR POLITICAL PRACTICES COMMISSION Bob Stern Subject: Reporting of a Gift to a Lobbyist The lobbyist for the State Building and Construction Trades Council has been offered a trip by Southern California Gas Company to Japan to inspect a Japanese LNG operation. This trip will be helpful to the lobbyist in his efforts to lobby the legislature for an LNG terminal in California. Question: 1. Does the lobbyist have to report the receipt of the trip? If so, on which part of the form? The opinion request meeting concluded that both the lobbyist and Southern California Gas Company would have to list the value of the trip on their respective forms. The lobbyist should include the trip from Southern California Gas Company on \"Payments Received in Connec- tion with Lobbying Activity,\" column (c) - \"Advances or Other Receipts.\" 2. Does Southern California Gas Company have to report its payment for the trip? If so, on what part of the form? The lobbyist employer should include the trip and the name of the lobbyist on its form in Part 2(a) \"Pay- ments aggregating $25 or more this period for services provided by other than the filer or the filer's employees.\"",
+    "summary": "FPPC advice letter addressing gift reporting requirements for a lobbyist offered a trip to Japan by Southern California Gas Company. Both the lobbyist and the company are required to report the trip's value on their respective lobbying forms."
+  }
+}

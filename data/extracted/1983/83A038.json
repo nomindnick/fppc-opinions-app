@@ -1,0 +1,73 @@
+{
+  "id": "83A038",
+  "year": 1983,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1983/83A038.PDF",
+  "pdf_sha256": "ccb70290dc3d314ffe51403cb705b5c9a2b3349ec01707931fbee6cb7f422b7c",
+  "local_pdf_path": "raw_pdfs/1983/83A038.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1983 Advice Letter # 83A038",
+    "tags": [
+      "1983",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:32:42",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1983&tagCount=1&page=17"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T00:28:23.662435Z",
+    "page_count": 1,
+    "word_count": 47,
+    "char_count": 337,
+    "quality_score": 0.7549903585987882,
+    "olmocr_cost": 0.0024372400000000002,
+    "native_word_count": 47
+  },
+  "content": {
+    "full_text": "State of California\n\nMemorandum\n\nTo: File\n\nDate: Feb. 11, 1983\nNo. T-83-038\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION\n        Janis Shank McLean\n\nSubject: Telephone Advice\n        Janet Gladfelter, Stockton City Attorney\n\nThe same penalties that apply to other violations of the PRA apply to violations of Government Code Section 84308.",
+    "full_text_markdown": "State of California\n\nMemorandum\n\nTo: File\n\nDate: Feb. 11, 1983\nNo. T-83-038\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION\n        Janis Shank McLean\n\nSubject: Telephone Advice\n        Janet Gladfelter, Stockton City Attorney\n\nThe same penalties that apply to other violations of the PRA apply to violations of Government Code Section 84308."
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": "City Attorney",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [
+      "84308"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-20T00:28:23.662435Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "State of California Memorandum To: File Date: Feb. 11, 1983 No. T-83-038 From: FAIR POLITICAL PRACTICES COMMISSION Janis Shank McLean Subject: Telephone Advice Janet Gladfelter, Stockton City Attorney The same penalties that apply to other violations of the PRA apply to violations of Government Code Section 84308.",
+    "qa_source": "extracted",
+    "first_500_words": "State of California Memorandum To: File Date: Feb. 11, 1983 No. T-83-038 From: FAIR POLITICAL PRACTICES COMMISSION Janis Shank McLean Subject: Telephone Advice Janet Gladfelter, Stockton City Attorney The same penalties that apply to other violations of the PRA apply to violations of Government Code Section 84308.",
+    "summary": null
+  }
+}

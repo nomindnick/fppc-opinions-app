@@ -1,0 +1,71 @@
+{
+  "id": "78ADV-78-254",
+  "year": 1978,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1978/78ADV-78-254.PDF",
+  "pdf_sha256": "ecf64c1fb7e68fc45ec408c58d9275f9096e74759c151c4c4154524a7a1e5cba",
+  "local_pdf_path": "raw_pdfs/1978/78ADV-78-254.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1978ADV Advice Letter # 78ADV-78-254",
+    "tags": [
+      "Advice Letter",
+      "1978"
+    ],
+    "scraped_at": "2026-01-31 15:23:38",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=11"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-08T17:13:12.707577Z",
+    "page_count": 2,
+    "word_count": 255,
+    "char_count": 1634,
+    "quality_score": 0.5975,
+    "olmocr_cost": 0.00504046,
+    "native_word_count": 63
+  },
+  "content": {
+    "full_text": "October 26, 1978\n\nC. Thomas Apple  \nDepartment of Economic and Business Development  \nP.O. Box 1499  \nSacramento, California 95805\n\nDear Mr. Apple:\n\nThis letter will confirm the advice given you regarding the reporting obligation of IBM Corporation (IBM) under the Political Reform Act of 1974. You asked how IBM should report the salary and reimbursed extraordinary living expenses of an executive loaned to the State of California.\n\nIn an opinion requested by John C. Morrissey, 1 FPPC Opinion 130 (75-066, October 1, 1975), the Commission held that salary payments to company employees who are also agency officials are exchanges, not payments to influence administrative action, and that such payments may be reportable if the salary exceeds $1,000 in a calendar year. Routine fringe benefits are not part of the \"exchange\" for the purposes of determining whether the $1,000 threshold is met.\n\nIBM must only report exchanges: (1) with agency officials of agencies which are, or should be, listed on its lobbyist's registration statement; or, (2) if IBM spends $250 or more in any one month to influence legislative or administrative action and an agency official with whom it engages in such exchange is an official of an agency whose administrative action IBM attempts to influence.\n\nAccordingly, IBM must report the payments for salary and extraordinary living expenses made to you as exchanges if the exchanges exceed $1,000 (86109(d)).\n\nIf I can be of further assistance please contact me.\n\nSincerely,\n\nJ. Richard Eichman\nCompliance Representative\n\ncc: Ed Shirball\nIBM Corporation\n520 Capitol Mall\nSacramento, CA 95814\n\nJRE:BW",
+    "full_text_markdown": "October 26, 1978\n\nC. Thomas Apple  \nDepartment of Economic and Business Development  \nP.O. Box 1499  \nSacramento, California 95805\n\nDear Mr. Apple:\n\nThis letter will confirm the advice given you regarding the reporting obligation of IBM Corporation (IBM) under the Political Reform Act of 1974. You asked how IBM should report the salary and reimbursed extraordinary living expenses of an executive loaned to the State of California.\n\nIn an opinion requested by John C. Morrissey, 1 FPPC Opinion 130 (75-066, October 1, 1975), the Commission held that salary payments to company employees who are also agency officials are exchanges, not payments to influence administrative action, and that such payments may be reportable if the salary exceeds $1,000 in a calendar year. Routine fringe benefits are not part of the \"exchange\" for the purposes of determining whether the $1,000 threshold is met.\n\nIBM must only report exchanges: (1) with agency officials of agencies which are, or should be, listed on its lobbyist's registration statement; or, (2) if IBM spends $250 or more in any one month to influence legislative or administrative action and an agency official with whom it engages in such exchange is an official of an agency whose administrative action IBM attempts to influence.\n\nAccordingly, IBM must report the payments for salary and extraordinary living expenses made to you as exchanges if the exchanges exceed $1,000 (86109(d)).\n\nIf I can be of further assistance please contact me.\n\nSincerely,\n\nJ. Richard Eichman\nCompliance Representative\n\ncc: Ed Shirball\nIBM Corporation\n520 Capitol Mall\nSacramento, CA 95814\n\nJRE:BW"
+  },
+  "parsed": {
+    "date": "1978-10-26",
+    "date_raw": "October 26, 1978",
+    "requestor_name": "Apple",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "How should IBM Corporation report the salary and reimbursed extraordinary living expenses of an executive loaned to the State of California under the Political Reform Act of 1974?",
+    "conclusion": "IBM must report the payments for salary and extraordinary living expenses made to the executive as exchanges if the exchanges exceed $1,000 (86109(d)). IBM must only report exchanges: (1) with agency officials of agencies which are, or should be, listed on its lobbyist's registration statement; or, (2) if IBM spends $250 or more in any one month to influence legislative or administrative action and an agency official with whom it engages in such exchange is an official of an agency whose administrative action IBM attempts to influence.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The question asks how IBM Corporation should report salary and extraordinary living expenses for an employee loaned to a California state agency under the Political Reform Act of 1974.",
+    "conclusion_synthetic": "IBM must report salary and extraordinary living expenses as exchanges if they exceed $1,000 in a calendar year, but only if the exchanges involve agency officials listed on IBM's lobbyist registration statement or if IBM has spent $250+ monthly to influence that agency's administrative action. Routine fringe benefits are not counted toward the $1,000 threshold.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Standard advice letter format. Question and conclusion sections clearly identifiable in body text. References prior FPPC opinion (1 FPPC Opinion 130, 75-066). Document appears complete with appropriate signature and distribution."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-08T17:13:12.707577Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: How should IBM Corporation report the salary and reimbursed extraordinary living expenses of an executive loaned to the State of California under the Political Reform Act of 1974?\n\nCONCLUSION: IBM must report the payments for salary and extraordinary living expenses made to the executive as exchanges if the exchanges exceed $1,000 (86109(d)). IBM must only report exchanges: (1) with agency officials of agencies which are, or should be, listed on its lobbyist's registration statement; or, (2) if IBM spends $250 or more in any one month to influence legislative or administrative action and an agency official with whom it engages in such exchange is an official of an agency whose administrative action IBM attempts to influence.",
+    "qa_source": "mixed",
+    "first_500_words": "October 26, 1978 C. Thomas Apple Department of Economic and Business Development P.O. Box 1499 Sacramento, California 95805 Dear Mr. Apple: This letter will confirm the advice given you regarding the reporting obligation of IBM Corporation (IBM) under the Political Reform Act of 1974. You asked how IBM should report the salary and reimbursed extraordinary living expenses of an executive loaned to the State of California. In an opinion requested by John C. Morrissey, 1 FPPC Opinion 130 (75-066, October 1, 1975), the Commission held that salary payments to company employees who are also agency officials are exchanges, not payments to influence administrative action, and that such payments may be reportable if the salary exceeds $1,000 in a calendar year. Routine fringe benefits are not part of the \"exchange\" for the purposes of determining whether the $1,000 threshold is met. IBM must only report exchanges: (1) with agency officials of agencies which are, or should be, listed on its lobbyist's registration statement; or, (2) if IBM spends $250 or more in any one month to influence legislative or administrative action and an agency official with whom it engages in such exchange is an official of an agency whose administrative action IBM attempts to influence. Accordingly, IBM must report the payments for salary and extraordinary living expenses made to you as exchanges if the exchanges exceed $1,000 (86109(d)). If I can be of further assistance please contact me. Sincerely, J. Richard Eichman Compliance Representative cc: Ed Shirball IBM Corporation 520 Capitol Mall Sacramento, CA 95814 JRE:BW",
+    "summary": "The FPPC advises IBM Corporation on reporting requirements for salary and reimbursed extraordinary living expenses of a loaned executive under the Political Reform Act. The Commission concludes that such payments must be reported as exchanges if they exceed $1,000 annually, subject to conditions regarding registered agencies and lobbying expenditures."
+  }
+}

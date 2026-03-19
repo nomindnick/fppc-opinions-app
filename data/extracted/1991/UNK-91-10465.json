@@ -1,0 +1,71 @@
+{
+  "id": "UNK-91-10465",
+  "year": 1991,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1991/91253.pdf",
+  "pdf_sha256": "af83082cd5fce2f84cc5c1367a65587ce365d0b444ac5672c63821905b184d60",
+  "local_pdf_path": "raw_pdfs/1991/91253.pdf",
+  "source_metadata": {
+    "title_raw": "1991-91253-Dorman, Marilyn",
+    "tags": [
+      "1991",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:20:32",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1991&tagCount=1&page=65"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:28.800344Z",
+    "page_count": 2,
+    "word_count": 114,
+    "char_count": 705,
+    "quality_score": 0.5075,
+    "olmocr_cost": null,
+    "native_word_count": 114
+  },
+  "content": {
+    "full_text": "PHYLLI S\n. .,\\\nLa\nPRICE-MEURER ELECTION COMMITTEE\nP. O. BOX 1 247\nSALINAS, CALIF. 93902\nN$\nApril 26, 1991\nSusan Bobrow\nFair Political Practices Commission\n428 J St. , Suite 800\nSacramento , Ca, 9581 4\nDear Ms. Bobrow,\nWe spoke on the phone on Wednesday, April 24, 1991 regarding\nthe receipt of contributions for someone running for .l-ocal\npolitical office from another candidate's campaign fund. At that\ntime you stated that it is acceptable to transfer funds from one\ncandidate to another.\nPlease send me lrritten confirmation that a candidate can\ntransfer fund to another candidate as discussed during our phone\nconversation.\nThank you for your assistance.\nSincerely,\nMarilyn Dorman\nCommittee member\n\n\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1991-04-26",
+    "date_raw": "April 26, 1991",
+    "requestor_name": "Bobrow",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "We spoke on the phone on Wednesday, April 24, 1991 regarding the receipt of contributions for someone running for local political office from another candidate's campaign fund. At that time you stated that it is acceptable to transfer funds from one candidate to another. Please send me written confirmation that a candidate can transfer fund to another candidate as discussed during our phone conversation.",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requester seeks written confirmation that a candidate can legally transfer campaign funds to another candidate, referencing a prior phone conversation with FPPC staff.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an incoming request from a committee member to the FPPC, not an FPPC response letter. No formal QUESTION or CONCLUSION sections are present. The request references a prior phone conversation but seeks written confirmation. Document shows typical characteristics of an informal request letter rather than an official advice letter response."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:35:28.800344Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: We spoke on the phone on Wednesday, April 24, 1991 regarding the receipt of contributions for someone running for local political office from another candidate's campaign fund. At that time you stated that it is acceptable to transfer funds from one candidate to another. Please send me written confirmation that a candidate can transfer fund to another candidate as discussed during our phone conversation.",
+    "qa_source": "mixed",
+    "first_500_words": "PHYLLI S . .,\\ La PRICE-MEURER ELECTION COMMITTEE P. O. BOX 1 247 SALINAS, CALIF. 93902 N$ April 26, 1991 Susan Bobrow Fair Political Practices Commission 428 J St. , Suite 800 Sacramento , Ca, 9581 4 Dear Ms. Bobrow, We spoke on the phone on Wednesday, April 24, 1991 regarding the receipt of contributions for someone running for .l-ocal political office from another candidate's campaign fund. At that time you stated that it is acceptable to transfer funds from one candidate to another. Please send me lrritten confirmation that a candidate can transfer fund to another candidate as discussed during our phone conversation. Thank you for your assistance. Sincerely, Marilyn Dorman Committee member",
+    "summary": "This is an incoming request letter from Marilyn Dorman of the Price-Meurer Election Committee asking the FPPC to provide written confirmation regarding the legality of transferring campaign funds between candidates, following a prior phone conversation."
+  }
+}

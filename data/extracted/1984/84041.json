@@ -1,0 +1,74 @@
+{
+  "id": "84041",
+  "year": 1984,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1984/fppc-advice/84041.PDF",
+  "pdf_sha256": "9c587f80e56e8f2fcb908d0e5a5c61e46792dfeb32e25762f94ffd89eda23c73",
+  "local_pdf_path": "raw_pdfs/1984/84041.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1984 Advice Letter # 84041",
+    "tags": [
+      "1984",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:35:33",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1984&tagCount=1&page=29"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:49.885314Z",
+    "page_count": 1,
+    "word_count": 271,
+    "char_count": 1729,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 271
+  },
+  "content": {
+    "full_text": "LAW OFFICES OF \nNIELSEN, HODGSON, PARRINELLO & MUELLER \nSAC~AMENTO \n1225 EiGhTH STREET, SUiTE 550 \nSACQAMENTO, CALJFCRNIA 95814 \nTELEPHONE (916) 446~6752 \nA PARTNERSH!P !NCLuDING PROYES$iONA:... CORPORAT,ONS \nTHe: HARTF'ORO BUILDING \n650 CALiF'ORNIA STREET, SUiTE 2650 \nSAN FRANCISCO, CALIFORNIA 94108 \nTELEPHONE (4IS} 989·6800 \nFebruary 27, 1984 \nJanis Shank McLean, Esq. \nLegal Division \nFair Political Practices Commission \nPost Office Box 807 \nSacramento, CA 95804 \nRe: \nValuation of Fundraising Tickets Provided \nto Public Officials \nDear Ms. McLean: \nPursuant to our phone conversation, I wish to \nrestate the advice you gave me. \nrilE NUMBER \nI described a situation in which Corporation A \nhas purchased a table of tickets to a fundraising dinner \nfor Candidate X. \nPublic Official B has been invited as \nthe guest of Corporation A to that fundraising event. \nThe \nquestion is whether or not Corporation A has made a gift \nto Public Official B for the value of the fundraising dinner \nticket. \nYou advised me that it has been the opinion of the \nstaff of the FPPC that the value of the ticket to a fundraiser \nis nothing. \nTherefore, if Corporation A invites Public \nOfficial B to sit at its table at a fundraising dinner for \nCandidate X, no gift, as defined in Government Code Section \n82028, has been made by Corporation A or accep~ed by Public \nOfficial B and therefore Public Official B has no reporting \nresponsibilities under Government Code Section 87207(a) (1) \nby reason of his attendance at the fundraising dinner. \nPlease confirm our conversation by signing the \nattached letter copy and returning it to me. \nIf I have misstated \nany part of our conversation, please advise me at your earliest \nconvenience. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1984-02-27",
+    "date_raw": "February 27, 1984",
+    "requestor_name": "Mc",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "is whether or not Corporation A has made a gift \nto Public Official B for the value of the fundraising dinner \nticket. \nYou advised me that it has been the opinion of the \nstaff of the FPPC that the value of the ticket to a fundraiser \nis nothing. \nTherefore, if Corporation A invites Public \nOfficial B to sit at its table at a fundraising dinner for \nCandidate X, no gift, as defined in Government Code Section \n82028, has been made by Corporation A or accep~ed by Public \nOfficial B and therefore Public Official B has no reporting \nresponsibilities under Government Code Section 87207(a) (1) \nby reason of his attendance at the fundraising dinner. \nPlease confirm our conversation by signing the \nattached letter copy and returning it to me. \nIf I have misstated \nany part of our conversation, please advise me at your earliest \nconvenience.",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Does a corporation providing a fundraising dinner ticket to a public official as a guest constitute a reportable gift under Government Code Section 82028?",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.75,
+    "has_standard_format": true,
+    "parsing_notes": "Format: ocr; LLM: This is an incoming request/correspondence seeking FPPC confirmation of prior verbal advice rather than an official FPPC advice letter response. The letter references advice already given by FPPC staff but does not contain a formal FPPC conclusion or response. No formal Q/A sections present; question and advice are stated informally within the letter body."
+  },
+  "citations": {
+    "government_code": [
+      "82028",
+      "87207(a)(1)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:36:49.885314Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: is whether or not Corporation A has made a gift \nto Public Official B for the value of the fundraising dinner \nticket. \nYou advised me that it has been the opinion of the \nstaff of the FPPC that the value of the ticket to a fundraiser \nis nothing. \nTherefore, if Corporation A invites Public \nOfficial B to sit at its table at a fundraising dinner for \nCandidate X, no gift, as defined in Government Code Section \n82028, has been made by Corporation A or accep~ed by Public \nOfficial B and therefore Public Official B has no reporting \nresponsibilities under Government Code Section 87207(a) (1) \nby reason of his attendance at the fundraising dinner. \nPlease confirm our conversation by signing the \nattached letter copy and returning it to me. \nIf I have misstated \nany part of our conversation, please advise me at your earliest \nconvenience.",
+    "qa_source": "mixed",
+    "first_500_words": "LAW OFFICES OF NIELSEN, HODGSON, PARRINELLO & MUELLER SAC~AMENTO 1225 EiGhTH STREET, SUiTE 550 SACQAMENTO, CALJFCRNIA 95814 TELEPHONE (916) 446~6752 A PARTNERSH!P !NCLuDING PROYES$iONA:... CORPORAT,ONS THe: HARTF'ORO BUILDING 650 CALiF'ORNIA STREET, SUiTE 2650 SAN FRANCISCO, CALIFORNIA 94108 TELEPHONE (4IS} 989·6800 February 27, 1984 Janis Shank McLean, Esq. Legal Division Fair Political Practices Commission Post Office Box 807 Sacramento, CA 95804 Re: Valuation of Fundraising Tickets Provided to Public Officials Dear Ms. McLean: Pursuant to our phone conversation, I wish to restate the advice you gave me. rilE NUMBER I described a situation in which Corporation A has purchased a table of tickets to a fundraising dinner for Candidate X. Public Official B has been invited as the guest of Corporation A to that fundraising event. The question is whether or not Corporation A has made a gift to Public Official B for the value of the fundraising dinner ticket. You advised me that it has been the opinion of the staff of the FPPC that the value of the ticket to a fundraiser is nothing. Therefore, if Corporation A invites Public Official B to sit at its table at a fundraising dinner for Candidate X, no gift, as defined in Government Code Section 82028, has been made by Corporation A or accep~ed by Public Official B and therefore Public Official B has no reporting responsibilities under Government Code Section 87207(a) (1) by reason of his attendance at the fundraising dinner. Please confirm our conversation by signing the attached letter copy and returning it to me. If I have misstated any part of our conversation, please advise me at your earliest convenience.",
+    "summary": "An attorney writes to the FPPC's Legal Division requesting confirmation of prior phone advice that the value of fundraising dinner tickets provided by a corporation to a public official as a guest is nothing and therefore does not constitute a reportable gift."
+  }
+}

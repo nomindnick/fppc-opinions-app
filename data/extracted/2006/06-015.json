@@ -1,0 +1,78 @@
+{
+  "id": "06-015",
+  "year": 2006,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2006/06-015.pdf",
+  "pdf_sha256": "4c82692b6825e99484a448d9713b60fe16115692083ea8b1dccdb04230b198f8",
+  "local_pdf_path": "raw_pdfs/2006/06-015.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2006 Advice Letter # 06-015",
+    "tags": [
+      "Advice Letter",
+      "2006"
+    ],
+    "scraped_at": "2026-01-31 14:44:54",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2006&tagCount=1&page=13"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:09.457949Z",
+    "page_count": 1,
+    "word_count": 219,
+    "char_count": 1428,
+    "quality_score": 0.585,
+    "olmocr_cost": null,
+    "native_word_count": 219
+  },
+  "content": {
+    "full_text": "Farn Polrrrcel PnacrrcEs CouvrrssroN\n428 J Street o Suite 620 . Sacramento, CA 95814-2329\n(916) 322-5660 r Fax (916) 322-0886\nFebruary 2,2005\nJohn B. Walker\nClassifi ed Personnel Director\nP.O. Box 878\nOjai, CA 93024\nRe: Your Request for Advice\nOur File No. W-06-015\nThis letter is in response to your request for written advice on Government Code $ 1090\nand its application to the Board of Trustees of the Ojai Unified School District. Under the\nprovisions of regulation 18329(b)(8XD), copy enclosed, we must decline your request for advice.\nGovernment Code section 1090 is a conflict of interest law that is applied independent of\n(and in addition to) the Political Reform Act's (the \"Act\"l) conflict of interest provisions\n(sections 87100 et seq.). However, section 1090 is outside the jurisdiction of the Fair Political\nPractices Commission. The Commission advises only on laws in the Act.\nWith respect to the Act's conflict-of-interest provisions we enclose an information\nbooklet, \"Can I Vote? Conflict of Interest Overview\" for your information.\nShould you have additional questions regarding this matter, please do not hesitate to\ncontact me at (916) 322-5660.\nSincerely,\nLuisa Menchaca\nCounsel\nW. Wallace\nGeneral Counsel, Legal Division\nJWW:rd\nI:\\Adviceltrs\\06-015\nI Government Code sections 81000-91014. Commission regulations appear at Title 2, sections 18109-\n7899't, of the California Code of Regulations.\nBy: J\n,@J\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2005-02-02",
+    "date_raw": "February 2,2005",
+    "requestor_name": null,
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requester asked for written advice on Government Code Section 1090 and its application to the Board of Trustees of the Ojai Unified School District.",
+    "conclusion_synthetic": "The FPPC declines to provide advice because Government Code Section 1090 is outside the Commission's jurisdiction; the FPPC only advises on matters within the Political Reform Act.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Declination letter without formal QUESTION or CONCLUSION sections. Document references regulation 18329(b)(8)(D) as basis for declining. Enclosures mentioned: regulation text and informational booklet on conflict of interest."
+  },
+  "citations": {
+    "government_code": [
+      "1090",
+      "81000",
+      "87100"
+    ],
+    "regulations": [
+      "18109",
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.6666666666666666,
+    "classified_at": "2026-02-06T18:34:09.457949Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The requester asked for written advice on Government Code Section 1090 and its application to the Board of Trustees of the Ojai Unified School District.\n\nCONCLUSION: The FPPC declines to provide advice because Government Code Section 1090 is outside the Commission's jurisdiction; the FPPC only advises on matters within the Political Reform Act.",
+    "qa_source": "synthetic",
+    "first_500_words": "Farn Polrrrcel PnacrrcEs CouvrrssroN 428 J Street o Suite 620 . Sacramento, CA 95814-2329 (916) 322-5660 r Fax (916) 322-0886 February 2,2005 John B. Walker Classifi ed Personnel Director P.O. Box 878 Ojai, CA 93024 Re: Your Request for Advice Our File No. W-06-015 This letter is in response to your request for written advice on Government Code $ 1090 and its application to the Board of Trustees of the Ojai Unified School District. Under the provisions of regulation 18329(b)(8XD), copy enclosed, we must decline your request for advice. Government Code section 1090 is a conflict of interest law that is applied independent of (and in addition to) the Political Reform Act's (the \"Act\"l) conflict of interest provisions (sections 87100 et seq.). However, section 1090 is outside the jurisdiction of the Fair Political Practices Commission. The Commission advises only on laws in the Act. With respect to the Act's conflict-of-interest provisions we enclose an information booklet, \"Can I Vote? Conflict of Interest Overview\" for your information. Should you have additional questions regarding this matter, please do not hesitate to contact me at (916) 322-5660. Sincerely, Luisa Menchaca Counsel W. Wallace General Counsel, Legal Division JWW:rd I:\\Adviceltrs\\06-015 I Government Code sections 81000-91014. Commission regulations appear at Title 2, sections 18109- 7899't, of the California Code of Regulations. By: J ,@J",
+    "summary": "The FPPC declines a request for advice regarding Government Code Section 1090's application to a school district board, explaining that Section 1090 falls outside FPPC jurisdiction as the Commission only advises on the Political Reform Act."
+  }
+}

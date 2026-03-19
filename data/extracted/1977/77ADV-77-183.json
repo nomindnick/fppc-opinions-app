@@ -1,0 +1,71 @@
+{
+  "id": "77ADV-77-183",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-183.PDF",
+  "pdf_sha256": "2f623c819c0469713a633fe00610602b897c7b6f29788debc47ecc268bd8593a",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-183.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-183",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:19:27",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=7"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:12.176389Z",
+    "page_count": 1,
+    "word_count": 245,
+    "char_count": 1659,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 245
+  },
+  "content": {
+    "full_text": "· St. l!Jf. California \nMemorandum \nTo \nFile \nDate \nJune 9, 1977 \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nNan Emmerson \nSubject: \nShirley Wechsler, treasurer of Senator Roberti's committee, called \nJune 6, 1977 with questions concerning the following situations: \nSenator Roberti's committee contributed to an unsuccess-\nful candidate in the 46th Assembly District Special Election \nand filed the abbreviated statement due by May 17, 1977. \nThe committee made an additional contribution after May 14, 1977, \nthe closing date of the second pre-election statement. \nMust \nthe committee file an abbreviated post-election statement, or \nmay it simply include the contribution it its complete off-\nyear report which is due before the deadline for post-election \nstatements filed re the 46th AD (August 25, 1977)? \nSenator Roberti's committee contributed to an unsuccessful \ncandidate in the 44th Assembly District Special Election \nsubsequent to the deadline for filing second pre-election \nstatements. \nMust the committee file a separate post-\nelection statement, or may it simply include the contribution \nin its off-year statement which is due before the deadline \nfor the post-election statement (September 1, 1977)? \nIn both instances: \nCopies of the off-year statements will be filed with the \nLos Angeles County, which is the largest county by population \nin both the 44th and 46th Assembly Districts, and \nThe run-off elections are held in June. \nFollowing a conversation with Ted, I advised Ms. Wechsler that the \nRoberti Committee may include the contributions in its off-year \nstatement and need not file separate reports for the special elections. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1977-06-09",
+    "date_raw": "June 9, 1977",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Must Senator Roberti's committee file abbreviated post-election statements for contributions made after the closing date of pre-election statements in the 46th and 44th Assembly District Special Elections, or may it include these contributions in its off-year report instead?",
+    "conclusion": "The Roberti Committee may include the contributions in its off-year statement and need not file separate reports for the special elections.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a political committee may include contributions made after pre-election statement deadlines in its regular off-year statement rather than filing separate post-election statements for special elections.",
+    "conclusion_synthetic": "The FPPC advised that the committee may include the post-contribution disclosures in its off-year statement due before the post-election statement deadlines, without filing separate post-election reports.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is an internal FPPC memorandum documenting telephone advice. Question and conclusion are reconstructed from narrative content rather than formal sections. Advice is informal ('Following a conversation with Ted, I advised...'). No formal CONCLUSION or QUESTION headers present."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:12.176389Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Must Senator Roberti's committee file abbreviated post-election statements for contributions made after the closing date of pre-election statements in the 46th and 44th Assembly District Special Elections, or may it include these contributions in its off-year report instead?\n\nCONCLUSION: The Roberti Committee may include the contributions in its off-year statement and need not file separate reports for the special elections.",
+    "qa_source": "mixed",
+    "first_500_words": "· St. l!Jf. California Memorandum To File Date June 9, 1977 From FAIR POLITICAL PRACTICES COMMISSION Nan Emmerson Subject: Shirley Wechsler, treasurer of Senator Roberti's committee, called June 6, 1977 with questions concerning the following situations: Senator Roberti's committee contributed to an unsuccess- ful candidate in the 46th Assembly District Special Election and filed the abbreviated statement due by May 17, 1977. The committee made an additional contribution after May 14, 1977, the closing date of the second pre-election statement. Must the committee file an abbreviated post-election statement, or may it simply include the contribution it its complete off- year report which is due before the deadline for post-election statements filed re the 46th AD (August 25, 1977)? Senator Roberti's committee contributed to an unsuccessful candidate in the 44th Assembly District Special Election subsequent to the deadline for filing second pre-election statements. Must the committee file a separate post- election statement, or may it simply include the contribution in its off-year statement which is due before the deadline for the post-election statement (September 1, 1977)? In both instances: Copies of the off-year statements will be filed with the Los Angeles County, which is the largest county by population in both the 44th and 46th Assembly Districts, and The run-off elections are held in June. Following a conversation with Ted, I advised Ms. Wechsler that the Roberti Committee may include the contributions in its off-year statement and need not file separate reports for the special elections.",
+    "summary": "FPPC memorandum advising Senator Roberti's committee treasurer that contributions made after pre-election statement deadlines in two assembly district special elections may be disclosed in the committee's off-year statement rather than in separate post-election statements."
+  }
+}

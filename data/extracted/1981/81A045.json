@@ -1,0 +1,75 @@
+{
+  "id": "81A045",
+  "year": 1981,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1981/81A045.PDF",
+  "pdf_sha256": "46960a4f1e965801dfb5267d0ad1cf9db51e3c03d180d0730f6f7b16a19eed1f",
+  "local_pdf_path": "raw_pdfs/1981/81A045.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1981 Advice Letter # 81A045",
+    "tags": [
+      "Advice Letter",
+      "1981"
+    ],
+    "scraped_at": "2026-01-31 15:28:38",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1981&tagCount=1&page=8"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-27T17:56:51.737365Z",
+    "page_count": 2,
+    "word_count": 341,
+    "char_count": 2660,
+    "quality_score": 0.8960028501888007,
+    "olmocr_cost": 0.00517462,
+    "native_word_count": 78,
+    "haiku_cost": 0.005236
+  },
+  "content": {
+    "full_text": "State of California\nFair Political Practices Commission\nP.O. BOX 807 • SACRAMENTO, 95804 • • • 1100 K STREET BUILDING, SACRAMENTO, 95814\n\nTechnical Assistance        Administration          Executive Legal          Ethics Training          Statement of Economic Interest\n(916) 322-5660             322-5660               322-5501                 322-6441               322-6444\n\nAugust 17, 1981\n\nNancy C. Miller, Esq.\nLaw Offices of Richard H. Hyde, Inc.\n111 Capitol Mall Building, Suite 225\nSacramento, CA  95814\n\n                                                Re:  Capitol Area Development\n                                                     Authority\n\nDear Nancy:\n\n     This letter is sent to confirm your letter of July 17,\n1981, and our phone conversations. As previously determined,\nCADA is a \"state agency\" within the provisions of Government\nCode Sections 82004 and 86100-86300 pursuant to Commission\nRegulation 2 Cal. Adm. Code Section 18249. Accordingly,\nlobbying activities on CADA's behalf are exempt from the\nlobbyist registration and reporting requirements.\n\n     If I can be of further assistance, please feel free to\ncontact me at (916) 322-5401.\n\n                                                Very truly yours,\n\n\n                                                Diane Maura Fishburg\n                                                Counsel\n                                                Legal Division\n\nDMF:plh\n\nLAW OFFICES\nOF\nRICHARD H. HYDE, INC.\n111 Capitol Mall Building, Suite 225\nSacramento, California 95814\nTelephone: (916) 447-7933\n\nJuly 17, 1981\n\nDiane Fishburn, Esq.\nFair Political Practices Commission\n1100 \"K\" Street\nSacramento, CA 95814\n\nRe: Capitol Area Development Authority\n\nDear Diane:\n\nPursuant to our telephone conversation of July 14,\n1981, enclosed please find Capitol Area Development\nAuthority documents as follows:\n\n1. Joint Powers Agreement between the City of\nSacramento and State of California dated\nJuly, 1978.\n\n2. Letter to Dwight Dickerson dated April 23,\n1979, confirming a telephone conversation\nregarding CADA's status as a \"State Agency\".\n\nAs we discussed, our firm is retained as the Agency's\ncounsel, and we do on occasion perform \"lobbyist\" activities\non behalf of the Authority. I would appreciate a confirming\nletter from you stating that CADA, for the purposes of the\nFPPC, is a State Agency and that our performance of lobbying\nfunctions on its behalf are exempt from the Lobbyist\nRegistration and Reporting Requirements under Government\nCode Section 86100 - 86300.\n\nIf you need any additional documentation or information,\nplease contact me.\n\nVery truly yours,\n\nNANCY J. MILLER\n\nNCM:cr\n\nEnclosures",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1981-08-17",
+    "date_raw": "August 17, 1981",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Whether the Capitol Area Development Authority (CADA) is a 'state agency' within the provisions of Government Code Sections 82004 and 86100-86300, and whether lobbying activities on CADA's behalf are exempt from lobbyist registration and reporting requirements.",
+    "conclusion": "CADA is a 'state agency' within the provisions of Government Code Sections 82004 and 86100-86300 pursuant to Commission Regulation 2 Cal. Adm. Code Section 18249. Accordingly, lobbying activities on CADA's behalf are exempt from the lobbyist registration and reporting requirements.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Is the Capitol Area Development Authority a state agency exempt from lobbyist registration and reporting requirements?",
+    "conclusion_synthetic": "The FPPC confirms that CADA qualifies as a state agency under applicable law and therefore lobbying activities performed on its behalf are exempt from lobbyist registration and reporting requirements.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document contains both the incoming request (July 17, 1981 letter from Nancy Miller) and the FPPC response (August 17, 1981 letter from Diane Maura Fishburg). No explicit 'QUESTION' or 'CONCLUSION' section headers present, but the structure clearly indicates the legal question and FPPC's answer. Confidence is high based on clear statement of legal determination."
+  },
+  "citations": {
+    "government_code": [
+      "82004",
+      "86100"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "lobbying",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-07T16:34:35.243630Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether the Capitol Area Development Authority (CADA) is a 'state agency' within the provisions of Government Code Sections 82004 and 86100-86300, and whether lobbying activities on CADA's behalf are exempt from lobbyist registration and reporting requirements.\n\nCONCLUSION: CADA is a 'state agency' within the provisions of Government Code Sections 82004 and 86100-86300 pursuant to Commission Regulation 2 Cal. Adm. Code Section 18249. Accordingly, lobbying activities on CADA's behalf are exempt from the lobbyist registration and reporting requirements.",
+    "qa_source": "mixed",
+    "first_500_words": "**August 17, 1981** Nancy C. Miller, Esq. Law Offices of Richard H. Hyde, Inc. 111 Capitol Mall Building, Suite 225 Sacramento, CA 95814 Re: Capitol Area Development Authority Dear Nancy: This letter is sent to confirm your letter of July 17, 1981, and our phone conversations. As previously determined, CADA is a \"state agency\" within the provisions of Government Code Sections 82004 and 86100-86300 pursuant to Commission Regulation 2 Cal. Adm. Code Section 18249. Accordingly, lobbying activities on CADA's behalf are exempt from the lobbyist registration and reporting requirements. If I can be of further assistance, please feel free to contact me at (916) 322-5901. Very truly yours, Diane Maura Fishburg Counsel Legal Division DMF:plh **LAW OFFICES OF RICHARD H. HYDE, INC.** 111 Capitol Mall Building, Suite 225 Sacramento, California 95814 Telephone: (916) 447-7933 July 17, 1981 Diane Fishburn, Esq. Fair Political Practices Commission 1100 \"K\" Street Sacramento, CA 95814 Re: Capitol Area Development Authority Dear Diane: Pursuant to our telephone conversation of July 14, 1981, enclosed please find Capitol Area Development Authority documents as follows: 1. Joint Powers Agreement between the City of Sacramento and State of California dated July, 1978. 2. Letter to Dwight Dickerson dated April 23, 1979, confirming a telephone conversation regarding CADA's status as a \"State Agency\". As we discussed, our firm is retained as the Agency's counsel, and we do on occasion perform \"lobbyist\" activities on behalf of the Authority. I would appreciate a confirming letter from you stating that CADA, for the purposes of the FPPC, is a State Agency and that our performance of lobbying functions on its behalf are exempt from the Lobbyist Registration and Reporting Requirements under Government Code Section 86100 - 86300. If you need any additional documentation or information, please contact me. Very truly yours, NANCY O. MILLER NCM:cr Enclosures",
+    "summary": "The FPPC responds to an inquiry from counsel for the Capitol Area Development Authority, confirming that CADA is a state agency and that lobbying activities performed on its behalf are exempt from lobbyist registration and reporting requirements under Government Code Sections 86100-86300."
+  }
+}

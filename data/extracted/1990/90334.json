@@ -1,0 +1,73 @@
+{
+  "id": "90334",
+  "year": 1990,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1990/90334.pdf",
+  "pdf_sha256": "5f3859ddec74ccc36dd31efc180ed0b223da86995766daa57a3126e982b84c36",
+  "local_pdf_path": "raw_pdfs/1990/90334.pdf",
+  "source_metadata": {
+    "title_raw": "Fishburn, Diane Year: 1990 Advice Letter # 90334",
+    "tags": [
+      "1990",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:08:40",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1990&tagCount=1&page=38"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T20:57:49.913704Z",
+    "page_count": 1,
+    "word_count": 101,
+    "char_count": 648,
+    "quality_score": 0.7608060996513885,
+    "olmocr_cost": 0.00250088,
+    "native_word_count": 161
+  },
+  "content": {
+    "full_text": "May 8, 1990\n\nJill Stecher, Counsel\nLegal Division\nFair Political Practices Committee\n428 J Street, Suite 800\nSacramento, CA 95804\n\nRe: Confirmation of Telephone Advice\n\nDear Ms. Stecher:\n\nThis letter is sent to request written confirmation of telephone advice your provided this office last week.\n\nWe asked whether a local candidate's committee could make contributions to a federal candidate. You indicated that this would not be a permissible use of campaign funds pursuant to Government Code §§ 85202(b) and 85801.\n\nThank you for your attention to this matter.\n\nVery truly yours,\n\nOLSON CONNELLY, HAGEL, FONG & LEIDIGH\n\nDIANE M. FISHBURN\n\nDMF:sk",
+    "full_text_markdown": "May 8, 1990\n\nJill Stecher, Counsel\nLegal Division\nFair Political Practices Committee\n428 J Street, Suite 800\nSacramento, CA 95804\n\nRe: Confirmation of Telephone Advice\n\nDear Ms. Stecher:\n\nThis letter is sent to request written confirmation of telephone advice your provided this office last week.\n\nWe asked whether a local candidate's committee could make contributions to a federal candidate. You indicated that this would not be a permissible use of campaign funds pursuant to Government Code §§ 85202(b) and 85801.\n\nThank you for your attention to this matter.\n\nVery truly yours,\n\nOLSON CONNELLY, HAGEL, FONG & LEIDIGH\n\nDIANE M. FISHBURN\n\nDMF:sk"
+  },
+  "parsed": {
+    "date": "1990-05-08",
+    "date_raw": "May 8, 1990",
+    "requestor_name": "Stecher",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [
+      "85202(b)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-19T20:57:49.913704Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "May 8, 1990 Jill Stecher, Counsel Legal Division Fair Political Practices Committee 428 J Street, Suite 800 Sacramento, CA 95804 Re: Confirmation of Telephone Advice Dear Ms. Stecher: This letter is sent to request written confirmation of telephone advice your provided this office last week. We asked whether a local candidate's committee could make contributions to a federal candidate. You indicated that this would not be a permissible use of campaign funds pursuant to Government Code §§ 85202(b) and 85801. Thank you for your attention to this matter. Very truly yours, OLSON CONNELLY, HAGEL, FONG & LEIDIGH DIANE M. FISHBURN DMF:sk",
+    "qa_source": "extracted",
+    "first_500_words": "May 8, 1990 Jill Stecher, Counsel Legal Division Fair Political Practices Committee 428 J Street, Suite 800 Sacramento, CA 95804 Re: Confirmation of Telephone Advice Dear Ms. Stecher: This letter is sent to request written confirmation of telephone advice your provided this office last week. We asked whether a local candidate's committee could make contributions to a federal candidate. You indicated that this would not be a permissible use of campaign funds pursuant to Government Code §§ 85202(b) and 85801. Thank you for your attention to this matter. Very truly yours, OLSON CONNELLY, HAGEL, FONG & LEIDIGH DIANE M. FISHBURN DMF:sk",
+    "summary": null
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "93-455",
+  "year": 1993,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1993/93-455.pdf",
+  "pdf_sha256": "31e33ab76d6b38b4a19de8eea5d8d285b85e85b7f957a91938037f0db2d7355a",
+  "local_pdf_path": "raw_pdfs/1993/93-455.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 1993 Advice Letter # 93-455",
+    "tags": [
+      "1993",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:33:53",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1993&tagCount=1&page=40"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:10.691331Z",
+    "page_count": 2,
+    "word_count": 384,
+    "char_count": 2321,
+    "quality_score": 0.8,
+    "olmocr_cost": null,
+    "native_word_count": 384
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\nDecember 17,\n1993\nCynthia L.\nHumbert\nAssistant City Attorney\nCity of Stockton\n425 North El Dorado Street\nStockton,\nCA\n95202—1997\nRe:\nYour Request for Advice\nOur File No.\nA—93—455\nDear Ms. Hujithert:\nI am writing to confirm our telephone conversation on\nDecember 6,\n1993 wherein we discussed your request for advice on\nbehalf of Stockton City Councilmember Nick Rust regarding his\nduties under the conflict-of-interest provisions of the Political\nReform Act (the “Act”) •1\nAccording to your facts, in February or March of 1994, the\ncity council will hear a proposal for a General Plan .Aiuencbnent and\nRezoning involving Food for Less,\na grocery establishment which is\nowned by Dodie,\nInc.\n(“Dodie”).\nMr.\nGary Podesto is President of\nDodie and his family owns 100 percent of the corporation.\nMr.\nPodesto retained Councilmeniber Rust to provide personnel\ntraining for management staff of Food for Less in early 1993.\nMr. Rust completed the job and was paid $1300 for these services\nby check dated February 19,\n1993 from Dodie.\nMr.\nRust received\nthe check on February 22 and cashed the check on\nFebruary 24,\n1993.\nI advised you that pursuant to Section 87103(c),\nDodie is\nconsidered to be a source of income to Mr. Rust for a period of\ntwelve months after the date he was paid by Dodie. Therefore, if\nthe city council votes on the General Plan uendment and Rezoning\nin March of 1994,\nDodie is no longer considered a source of income\nunder the Act, provided that Mr.\nRust has been paid in full and\nhas provided rio further services.\nI further advised you that a council decision to delay the\nvote on this issue to March 1994 is not considered ministerial and\n1\nGovernment Code Sections 81000—91015.\nAll statutory references\nare to the Government Code unless otherwise indicated.\nCommission\nregulations appear at\n2 California Code of Regulations, Sections\n18000-18954.\nAll references to regulations are to Title 2,\nDivision 6 of the California Code of Regulations.\n428 J Street, Suite 800 •\nP.O. Box 807 •\nSacramento, CA\n95804-0807 •\n(916) 322-5660\n\n\nFile No\nA-93—455\nPage\n2\nMr.\nRust should not participate in the decision regarding the date\nof the council meeting.\nI trust this answers your question.\nSincerely,\nSteven G.\nChurchwell\nGeneral Counsel\nJil\nLegal Division\nSGC:JS:ak\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1993-12-17",
+    "date_raw": "December 17,\n1993",
+    "requestor_name": "Hujithert",
+    "requestor_title": "City Attorney",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether Stockton City Councilmember Nick Rust must recuse himself from voting on a General Plan Amendment and Rezoning proposal for Food for Less in March 1994, given that he received $1,300 in payment from the company's owner in February 1993 for personnel training services.",
+    "conclusion_synthetic": "Under Section 87103(c), Dodie (Food for Less's parent company) is considered a source of income for twelve months after the date of payment (February 1993), meaning by March 1994 it would no longer be a source of income requiring recusal, provided no further services were rendered. However, any decision to delay the vote to March 1994 is non-ministerial and Councilmember Rust should not participate in determining the council meeting date.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Telephone advice letter confirming prior oral discussion. No formal QUESTION or CONCLUSION sections found; advice provided in body of letter. Extracted question and conclusion from substantive content discussing Section 87103(c) application and timing analysis."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "87103(c)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:35:10.691331Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether Stockton City Councilmember Nick Rust must recuse himself from voting on a General Plan Amendment and Rezoning proposal for Food for Less in March 1994, given that he received $1,300 in payment from the company's owner in February 1993 for personnel training services.\n\nCONCLUSION: Under Section 87103(c), Dodie (Food for Less's parent company) is considered a source of income for twelve months after the date of payment (February 1993), meaning by March 1994 it would no longer be a source of income requiring recusal, provided no further services were rendered. However, any decision to delay the vote to March 1994 is non-ministerial and Councilmember Rust should not participate in determining the council meeting date.",
+    "qa_source": "synthetic",
+    "first_500_words": "California Fair Political Practices Commission December 17, 1993 Cynthia L. Humbert Assistant City Attorney City of Stockton 425 North El Dorado Street Stockton, CA 95202—1997 Re: Your Request for Advice Our File No. A—93—455 Dear Ms. Hujithert: I am writing to confirm our telephone conversation on December 6, 1993 wherein we discussed your request for advice on behalf of Stockton City Councilmember Nick Rust regarding his duties under the conflict-of-interest provisions of the Political Reform Act (the “Act”) •1 According to your facts, in February or March of 1994, the city council will hear a proposal for a General Plan .Aiuencbnent and Rezoning involving Food for Less, a grocery establishment which is owned by Dodie, Inc. (“Dodie”). Mr. Gary Podesto is President of Dodie and his family owns 100 percent of the corporation. Mr. Podesto retained Councilmeniber Rust to provide personnel training for management staff of Food for Less in early 1993. Mr. Rust completed the job and was paid $1300 for these services by check dated February 19, 1993 from Dodie. Mr. Rust received the check on February 22 and cashed the check on February 24, 1993. I advised you that pursuant to Section 87103(c), Dodie is considered to be a source of income to Mr. Rust for a period of twelve months after the date he was paid by Dodie. Therefore, if the city council votes on the General Plan uendment and Rezoning in March of 1994, Dodie is no longer considered a source of income under the Act, provided that Mr. Rust has been paid in full and has provided rio further services. I further advised you that a council decision to delay the vote on this issue to March 1994 is not considered ministerial and 1 Government Code Sections 81000—91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations, Sections 18000-18954. All references to regulations are to Title 2, Division 6 of the California Code of Regulations. 428 J Street, Suite 800 • P.O. Box 807 • Sacramento, CA 95804-0807 • (916) 322-5660 File No A-93—455 Page 2 Mr. Rust should not participate in the decision regarding the date of the council meeting. I trust this answers your question. Sincerely, Steven G. Churchwell General Counsel Jil Legal Division SGC:JS:ak",
+    "summary": "FPPC General Counsel advises that a Stockton City Councilmember who received payment in February 1993 from a company for services may vote on that company's rezoning proposal in March 1994, as the twelve-month income source period will have expired, but must recuse himself from decisions about scheduling the vote."
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "94-261",
+  "year": 1994,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1994/94-261.pdf",
+  "pdf_sha256": "6afd99027158d65807e89c55f7f73cf72a9bf4f39708c071a581b05c91fc8151",
+  "local_pdf_path": "raw_pdfs/1994/94-261.pdf",
+  "source_metadata": {
+    "title_raw": "Romaine, William Year: 1994 Advice Letter # 94-261",
+    "tags": [
+      "1994",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:36:21",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1994&tagCount=1&page=31"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:04.405723Z",
+    "page_count": 2,
+    "word_count": 343,
+    "char_count": 2192,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 343
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\nAugust 24,\n1994\nWilliam A.\nRomaine\nBehrens,\nSnyder,\n& Romaine\n1025 North Demaree Street\nVisalia,\nCA 93291-4117\nRe:\nYour Request for Confirmation\nof Telephone Advice\nOur File No.\nA-94-261\nDear Mr.\nRomaine:\nYou have requested confirmation of telephone advice provided\nto you on behalf of Judge Glenda Doan concerning the campaign\ndisclosure provisions of the Political Reform Act\n(the\n“Act”) .\nYour letter accurately reflects the advice given to you.\nJudge Glenda Doan is soliciting contributions for the purpose of\ndefending herself against charges brought by the Commission on\nJudicial Performance which could potentially result in her removal\nfrom office.\nJudge Doan was recently re-elected to office and the\nCommittee to Reelect Judge Glenda K.\nDoan\n(CRJGD),\nwhich was\nformed to support that candidacy,\nhas not be terminated.\nThe money she raises to defend herself against the charges\nbefore the Commission on Judicial Performance are contributions\nunder the Act and must be deposited in the account of\nCRJGD and\nreported by CRJGD on its campaign statements.\nIt is not necessary\nfor CRJGD to change its name.\nIf\nCRJGD uses\n“mass mailings” to\nsolicit contributions for Judge Doan’s defense, its name and\naddress must be disclosed pursuant to the requirements of Section\n84305 and Regulation 18435.\nWe are enclosing a copy of In re Montova\n(1989)\n12\nFPPC Ops.\n7,\nwhich discusses funds raised in connection with activities\n1\nGovernment\nCode Sections 81000-91015.\nAll statutory\nreferences are to the Government Code unless otherwise indicated.\nCommission regulations appear at\n2 California Code of Regulations\nSection 18000,\net .\nAll referenâes to regulations are to Title\n2, Division\n6 of the California Code of Regulations.\n428 J Street, Suite 800 •\nP.O. Box 807 •\nSacramento, CA\n95804-0807 •\n(918) 322-5660\n\n\nRomaine, William A.\nNo. A-94-261\nPage\n2\nrelated to an official’s status as an officeholder and indicates\nthat funds received under such circumstances are contributions.\nIf you have additional questions, please contact me at\n(916)\n322-5662.\nSincerely,\nSteven G.\nChurchwell\nGeneral Coun el\nBy:\nWjyne P.\nImberi\nPlitical Reform Consultant\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1994-08-24",
+    "date_raw": "August 24,\n1994",
+    "requestor_name": "Romaine",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "The money Judge Doan raises to defend herself against the charges before the Commission on Judicial Performance are contributions under the Act and must be deposited in the account of CRJGD and reported by CRJGD on its campaign statements. It is not necessary for CRJGD to change its name. If CRJGD uses \"mass mailings\" to solicit contributions for Judge Doan's defense, its name and address must be disclosed pursuant to the requirements of Section 84305 and Regulation 18435.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Must contributions raised by a recently re-elected judge to defend herself against Commission on Judicial Performance charges be deposited in her existing re-election campaign committee account and reported on campaign statements?",
+    "conclusion_synthetic": "Defense contributions are reportable contributions under the Political Reform Act that must be deposited in and reported through the existing Committee to Reelect Judge Glenda K. Doan account without requiring a name change. Mass mailings soliciting such contributions must include the committee's name and address disclosures.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is a confirmation letter of prior telephone advice. No formal QUESTION section exists; the question was inferred from the letter's content. The CONCLUSION is drawn from the substantive advice paragraphs. Letter references Government Code sections and regulations for context."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "84305"
+    ],
+    "regulations": [
+      "18435"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": [
+      "In re Montova(1989)12 FPPC Ops. 7"
+    ]
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:35:04.405723Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Must contributions raised by a recently re-elected judge to defend herself against Commission on Judicial Performance charges be deposited in her existing re-election campaign committee account and reported on campaign statements?\n\nCONCLUSION: The money Judge Doan raises to defend herself against the charges before the Commission on Judicial Performance are contributions under the Act and must be deposited in the account of CRJGD and reported by CRJGD on its campaign statements. It is not necessary for CRJGD to change its name. If CRJGD uses \"mass mailings\" to solicit contributions for Judge Doan's defense, its name and address must be disclosed pursuant to the requirements of Section 84305 and Regulation 18435.",
+    "qa_source": "mixed",
+    "first_500_words": "California Fair Political Practices Commission August 24, 1994 William A. Romaine Behrens, Snyder, & Romaine 1025 North Demaree Street Visalia, CA 93291-4117 Re: Your Request for Confirmation of Telephone Advice Our File No. A-94-261 Dear Mr. Romaine: You have requested confirmation of telephone advice provided to you on behalf of Judge Glenda Doan concerning the campaign disclosure provisions of the Political Reform Act (the “Act”) . Your letter accurately reflects the advice given to you. Judge Glenda Doan is soliciting contributions for the purpose of defending herself against charges brought by the Commission on Judicial Performance which could potentially result in her removal from office. Judge Doan was recently re-elected to office and the Committee to Reelect Judge Glenda K. Doan (CRJGD), which was formed to support that candidacy, has not be terminated. The money she raises to defend herself against the charges before the Commission on Judicial Performance are contributions under the Act and must be deposited in the account of CRJGD and reported by CRJGD on its campaign statements. It is not necessary for CRJGD to change its name. If CRJGD uses “mass mailings” to solicit contributions for Judge Doan’s defense, its name and address must be disclosed pursuant to the requirements of Section 84305 and Regulation 18435. We are enclosing a copy of In re Montova (1989) 12 FPPC Ops. 7, which discusses funds raised in connection with activities 1 Government Code Sections 81000-91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations Section 18000, et . All referenâes to regulations are to Title 2, Division 6 of the California Code of Regulations. 428 J Street, Suite 800 • P.O. Box 807 • Sacramento, CA 95804-0807 • (918) 322-5660 Romaine, William A. No. A-94-261 Page 2 related to an official’s status as an officeholder and indicates that funds received under such circumstances are contributions. If you have additional questions, please contact me at (916) 322-5662. Sincerely, Steven G. Churchwell General Coun el By: Wjyne P. Imberi Plitical Reform Consultant",
+    "summary": "FPPC confirms telephone advice that campaign contributions raised by Judge Glenda Doan for her defense against Commission on Judicial Performance charges must be deposited in and reported through her existing re-election campaign committee account, with specific disclosure requirements for mass mailings."
+  }
+}

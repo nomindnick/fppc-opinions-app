@@ -1,0 +1,72 @@
+{
+  "id": "78ADV-78-144",
+  "year": 1978,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1978/78ADV-78-144.PDF",
+  "pdf_sha256": "be9695ab4dd52706097032909090cb43903c4fe23823d38b80cac43af3b7b54f",
+  "local_pdf_path": "raw_pdfs/1978/78ADV-78-144.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1978ADV Advice Letter # 78ADV-78-144",
+    "tags": [
+      "Advice Letter",
+      "1978"
+    ],
+    "scraped_at": "2026-01-31 15:24:39",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=25"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T00:51:12.683453Z",
+    "page_count": 1,
+    "word_count": 261,
+    "char_count": 1656,
+    "quality_score": 0.9259318294701987,
+    "olmocr_cost": 0.00262988,
+    "native_word_count": 12,
+    "haiku_cost": 0.00278
+  },
+  "content": {
+    "full_text": "State of California\n\nMemorandum\n\nTo      :   Participants of the Opinion Request\n            Meeting\n\nDate    :   March 27, 1978\n\nFrom    :   FAIR POLITICAL PRACTICES COMMISSION\n            John Giansallo\n\nSubject:\n\n\nA judge wishes to make a personal contribution to another judge\nrunning for re-election. Judge I (donor) is himself a\ncandidate for re-election this year. Judge I has no committee\nand raises and spends no funds himself for political purposes\nother than the contribution at issue here. Does the making of\nthe instant contribution make Judge I a candidate so that he is\nrequired to file a semi-annual statement for the period in which\nthe contribution is made? Would the answer change if the judge\nwere raising and spending money to pay off debts in his own\nelection two years ago?\n\n\nThe making of a personal contribution by itself does not consti-\ntute the making of an expenditure with a view to bringing about\nhis nomination or election to any elective office. Therefore,\nthe making of personal contributions does not make the judge a\ncandidate under 82007. By its terms 84206 does not apply to\njudges unless they are \"candidates or committees\" receiving\ncontributions or making expenditures during the specified periods.\nIf the judge were otherwise receiving contributions or making\nexpenditures during the specified periods, his personal contribu-\ntions would be reported on his semi-annual statement. We did\nnot reach the issue of whether the raising or spending of funds\nsince the last election solely to repay debts incurred in connec-\ntion with that (past) election made the judge a candidate with\nsemi-annual reporting obligations.",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1978-03-27",
+    "date_raw": "March 27, 1978",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "A judge wishes to make a personal contribution to another judge running for re-election. Judge I (donor) is not himself a candidate for re-election this year. Judge I has no committee and raises and spends no funds himself for political purposes other than the contribution at issue here. Does the making of the instant contribution make Judge I a candidate so that he is required to file a semi-annual statement for the period in which the contribution is made? Would the answer change if the judge were raising and spending money to pay off debts in his own election two years ago?",
+    "conclusion": "The making of a personal contribution by itself does not constitute the making of an expenditure with a view to bringing about his nomination or election to any elective office. Therefore, the making of personal contributions does not make the judge a candidate under 82007. By its terms 84206 does not apply to judges unless they are \"candidates or committees\" receiving contributions or making expenditures during the specified periods. If the judge were otherwise receiving contributions or making expenditures during the specified periods, his personal contributions would be reportable on his semi-annual statement. We did not reach the issue of whether the raising or spending of funds since the last election solely to repay debts incurred in connection with that (past) election made the judge a candidate with semi-annual reporting obligations.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a judge making a personal contribution to another judge's re-election campaign becomes a candidate requiring semi-annual statement filing, and whether this analysis changes if the judge is also raising funds to pay off prior election debts.",
+    "conclusion_synthetic": "A judge making a personal contribution to another candidate does not become a candidate solely by making that contribution and thus need not file semi-annual statements unless engaging in other qualifying political activities. The FPPC did not address whether debt repayment from prior elections would trigger candidate status.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is internal FPPC memorandum from opinion request meeting. Contains clear Q/C sections though not explicitly labeled as such. References Political Reform Act sections 82007 and 84206. Straightforward extraction with high confidence."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T16:59:23.278534Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: A judge wishes to make a personal contribution to another judge running for re-election. Judge I (donor) is not himself a candidate for re-election this year. Judge I has no committee and raises and spends no funds himself for political purposes other than the contribution at issue here. Does the making of the instant contribution make Judge I a candidate so that he is required to file a semi-annual statement for the period in which the contribution is made? Would the answer change if the judge were raising and spending money to pay off debts in his own election two years ago?\n\nCONCLUSION: The making of a personal contribution by itself does not constitute the making of an expenditure with a view to bringing about his nomination or election to any elective office. Therefore, the making of personal contributions does not make the judge a candidate under 82007. By its terms 84206 does not apply to judges unless they are \"candidates or committees\" receiving contributions or making expenditures during the specified periods. If the judge were otherwise receiving contributions or making expenditures during the specified periods, his personal contributions would be reportable on his semi-annual statement. We did not reach the issue of whether the raising or spending of funds since the last election solely to repay debts incurred in connection with that (past) election made the judge a candidate with semi-annual reporting obligations.",
+    "qa_source": "mixed",
+    "first_500_words": "**Memorandum** **To:** Participants of the Opinion Request Meeting **Date:** March 27, 1978 **From:** FAIR POLITICAL PRACTICES COMMISSION John Giansello **Subject:** A judge wishes to make a personal contribution to another judge running for re-election. Judge I (donor) is not himself a candidate for re-election this year. Judge I has no committee and raises and spends no funds himself for political purposes other than the contribution at issue here. Does the making of the instant contribution make Judge I a candidate so that he is required to file a semi-annual statement for the period in which the contribution is made? Would the answer change if the judge were raising and spending money to pay off debts in his own election two years ago? The making of a personal contribution by itself does not constitute the making of an expenditure with a view to bringing about his nomination or election to any elective office. Therefore, the making of personal contributions does not make the judge a candidate under 82007. By its terms 84206 does not apply to judges unless they are \"candidates or committees\" receiving contributions or making expenditures during the specified periods. If the judge were otherwise receiving contributions or making expenditures during the specified periods, his personal contributions would be reportable on his semi-annual statement. We did not reach the issue of whether the raising or spending of funds since the last election solely to repay debts incurred in connection with that (past) election made the judge a candidate with semi-annual reporting obligations.",
+    "summary": "The FPPC advises that a judge making a personal contribution to another judge's re-election campaign does not become a candidate requiring semi-annual filing unless the judge is otherwise raising contributions or making expenditures. The question of whether debt repayment from prior elections creates candidate status was not decided."
+  }
+}

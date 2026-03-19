@@ -1,0 +1,72 @@
+{
+  "id": "90633A",
+  "year": 1990,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1990/90633A.pdf",
+  "pdf_sha256": "38a429f7c716c3f1cfeb0a510d1e6d9381f6b01e51865799f2797985bb186a2e",
+  "local_pdf_path": "raw_pdfs/1990/90633A.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 1990 Advice Letter # 90633A",
+    "tags": [
+      "1990",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:07:09",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1990&tagCount=1&page=18"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T16:39:30.449896Z",
+    "page_count": 1,
+    "word_count": 178,
+    "char_count": 1134,
+    "quality_score": 0.7099574883178376,
+    "olmocr_cost": 0.00249572,
+    "native_word_count": 161,
+    "haiku_cost": 0.0028952
+  },
+  "content": {
+    "full_text": "ARTER, HADDEN,\nLAWLER, FELIX & HALL\n\n700 South Flower Street\nLos Angeles, CA 90017\nTelephone 213/629-9300\nTelecopy 213/617-9255\n\nWriters Direct Dial Number:\n\n(213) 629-9328\n\n\nSeptember 28, 1990\n\n\nVIA FAX\n\nMs. Luisa Menchaca\nStaff Counsel\nFair Political Practices Commission\n428 \"J\" Street, Suite 800\nSacramento, CA\n\nDear Ms. Menchaca:\n\nThis confirms our conversation on September 28, 1990 at approximately 3:00 p.m. in which you affirmed the legality of my contribution of $5,000 to Feinstein for Governor, on the basis of the fact that no stay has yet been obtained to the Order o f the District Court overturning Proposition 72. This appeared to me to be obvious but I called to make sure I was doing the right thing.\n\nVery truly yours,\n\nDarrell J. Salomon\n\nDJS:jfs\n\n\nIN CLEVELAND\n\nARTER & HADDEN\n1100 Huntington Building\nCleveland, Ohio 44115\n216/696-1100\n\nIN COLUMBUS\n\nARTER & HADDEN\n10 West Broad Street\nColumbus, Ohio 43215\n614/221-3133\n\nIN DALLAS\n\nARTER & HADDEN\n1717 Main Street, Suite 4100\nDallas, Texas 75201\n214/761-2100\n\nIN WASHINGTON D.C.\n\nARTER & HADDEN\n1919 Pennsylvania Avenue, N.W.\nWashington, D.C. 20006\n202/775-7100",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1990-09-28",
+    "date_raw": "September 28, 1990",
+    "requestor_name": "Menchaca",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Is a $5,000 contribution to Feinstein for Governor legal given the status of Proposition 72 and a District Court order?",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.75,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an incoming request/inquiry letter written to FPPC staff, not an FPPC advice letter response. The letter confirms a phone conversation with Ms. Luisa Menchaca (FPPC Staff Counsel) rather than presenting a formal request. No formal question or conclusion sections are present. Document describes affirmation of contribution legality during the call."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T16:18:43.794750Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Is a $5,000 contribution to Feinstein for Governor legal given the status of Proposition 72 and a District Court order?",
+    "qa_source": "synthetic",
+    "first_500_words": "September 28, 1990 VIA FAX Ms. Luisa Menchaca Staff Counsel Fair Political Practices Commission 428 \"J\" Street, Suite 800 Sacramento, CA Dear Ms. Menchaca: This confirms our conversation on September 28, 1990 at approximately 3:00 p.m. in which you affirmed the legality of my contribution of $5,000 to Feinstein for Governor, on the basis of the fact that no stay has yet been obtained to the Order of the District Court overturning Proposition 72. This appeared to me to be obvious but I called to make sure I was doing the right thing. Very truly yours, Darrell J. Salomon DJS:jfs",
+    "summary": "A contributor seeks confirmation from FPPC staff counsel that a $5,000 contribution to Feinstein for Governor is legal based on the lack of a stay on a District Court order overturning Proposition 72."
+  }
+}

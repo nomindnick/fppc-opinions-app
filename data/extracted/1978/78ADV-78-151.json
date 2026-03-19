@@ -1,0 +1,73 @@
+{
+  "id": "78ADV-78-151",
+  "year": 1978,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1978/78ADV-78-151.PDF",
+  "pdf_sha256": "93704e4c5689e4f09c79d67a285865e3708269758217e7159a7a2aee1e7c6966",
+  "local_pdf_path": "raw_pdfs/1978/78ADV-78-151.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1978ADV Advice Letter # 78ADV-78-151",
+    "tags": [
+      "Advice Letter",
+      "1978"
+    ],
+    "scraped_at": "2026-01-31 15:23:42",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=12"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:09.491335Z",
+    "page_count": 1,
+    "word_count": 140,
+    "char_count": 815,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 140
+  },
+  "content": {
+    "full_text": "State of Colifornia \nMemor \nd \nTo \n:Ted Prim \nAlice Hughes \nGina 'l'odd \nBarbara Campbell \nFrom \nFAIR POLITICAL PRACTICES COMIt,nSSION \nSubject: Defini tion of II dependent children II \n3 f \n1978 \nAt its May 2, 1978, meeting, the Fair Political Practices \nCommission agreed upon the following definition of \"dependent \nchildren il as used in Government Code Section 82029: \nA dependent child is a blood or \nadopted child who has not attained \nage \n18 and is eligible to be \nclaimed as an exemption as a dependen t. \nof the filer for tax purposes. \nAn exemption can \nclaimed for a \nhas \nover \nf of \nchild's \nrt. \ns is \nfinition whi \nshould be \ntions are \non the \nof \nt ch \nif \nused \nThe members of the Commission decided not to include \nchi \nwithin the \nchildren \ntion. \nCall !Ti('! if you \nany questions. \nif \nter \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1978-05-02",
+    "date_raw": "May 2, 1978",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "A dependent child is a blood or adopted child who has not attained age 18 and is eligible to be claimed as an exemption as a dependent of the filer for tax purposes.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "What is the definition of 'dependent children' as used in Government Code Section 82029?",
+    "conclusion_synthetic": "The FPPC defined 'dependent children' under Government Code Section 82029 as blood or adopted children under age 18 who are eligible to be claimed as tax exemptions by the filer. The Commission decided not to include stepchildren within this definition.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.75,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is heavily degraded/OCR-corrupted with significant text loss and illegibility throughout. No formal question/answer sections present; this is a policy memorandum rather than a response to a specific inquiry. Definition sections partially readable despite document quality issues. Confidence reduced due to text degradation affecting completeness of extraction."
+  },
+  "citations": {
+    "government_code": [
+      "82029"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:37:09.491335Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: What is the definition of 'dependent children' as used in Government Code Section 82029?\n\nCONCLUSION: A dependent child is a blood or adopted child who has not attained age 18 and is eligible to be claimed as an exemption as a dependent of the filer for tax purposes.",
+    "qa_source": "mixed",
+    "first_500_words": "State of Colifornia Memor d To :Ted Prim Alice Hughes Gina 'l'odd Barbara Campbell From FAIR POLITICAL PRACTICES COMIt,nSSION Subject: Defini tion of II dependent children II 3 f 1978 At its May 2, 1978, meeting, the Fair Political Practices Commission agreed upon the following definition of \"dependent children il as used in Government Code Section 82029: A dependent child is a blood or adopted child who has not attained age 18 and is eligible to be claimed as an exemption as a dependen t. of the filer for tax purposes. An exemption can claimed for a has over f of child's rt. s is finition whi should be tions are on the of t ch if used The members of the Commission decided not to include chi within the children tion. Call !Ti('! if you any questions. if ter",
+    "summary": "FPPC memorandum from May 2, 1978, establishing the official definition of 'dependent children' under Government Code Section 82029 as blood or adopted children under age 18 eligible as tax dependents, excluding stepchildren."
+  }
+}

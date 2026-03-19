@@ -1,0 +1,71 @@
+{
+  "id": "90354",
+  "year": 1990,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1990/90354.pdf",
+  "pdf_sha256": "f20c2e880e72bdf33163201df4147c555af56bd2a7a020b20cc256d77efe9fff",
+  "local_pdf_path": "raw_pdfs/1990/90354.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 1990 Advice Letter # 90354",
+    "tags": [
+      "1990",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:07:55",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1990&tagCount=1&page=28"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T19:09:24.923870Z",
+    "page_count": 1,
+    "word_count": 121,
+    "char_count": 659,
+    "quality_score": 0.8756085301062575,
+    "olmocr_cost": 0.00250174,
+    "native_word_count": 140
+  },
+  "content": {
+    "full_text": "May 16, 1990\n\nJohn Rothman\nFPPC\nPO Box 807\nSacramento, Ca 95804\n\nDear Mr. Rothman,\n\nFollowing up our phone conversation I am requesting copies of any advice the FPPC has given concerning statements of economic interest to be filed by law firms or attorneys that are employed by a public agency.\n\nIn the case that I am interested in, our housing commission hires a law firm to be general counsel. It does not file an SEI, but one of its attorneys does. However, he does not list clients who pay over $10,000 to him or the law firm. His reason is that he does not own 10% of the stock of the law firm.\n\nThanks for your consideration.\n\nSincerely,\n\nMelvin Shapiro",
+    "full_text_markdown": "May 16, 1990\n\nJohn Rothman\nFPPC\nPO Box 807\nSacramento, Ca 95804\n\nDear Mr. Rothman,\n\nFollowing up our phone conversation I am requesting copies of any advice the FPPC has given concerning statements of economic interest to be filed by law firms or attorneys that are employed by a public agency.\n\nIn the case that I am interested in, our housing commission hires a law firm to be general counsel. It does not file an SEI, but one of its attorneys does. However, he does not list clients who pay over $10,000 to him or the law firm. His reason is that he does not own 10% of the stock of the law firm.\n\nThanks for your consideration.\n\nSincerely,\n\nMelvin Shapiro"
+  },
+  "parsed": {
+    "date": "1990-05-16",
+    "date_raw": "May 16, 1990",
+    "requestor_name": "Rothman",
+    "requestor_title": "general counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-20T19:09:24.923870Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "May 16, 1990 John Rothman FPPC PO Box 807 Sacramento, Ca 95804 Dear Mr. Rothman, Following up our phone conversation I am requesting copies of any advice the FPPC has given concerning statements of economic interest to be filed by law firms or attorneys that are employed by a public agency. In the case that I am interested in, our housing commission hires a law firm to be general counsel. It does not file an SEI, but one of its attorneys does. However, he does not list clients who pay over $10,000 to him or the law firm. His reason is that he does not own 10% of the stock of the law firm. Thanks for your consideration. Sincerely, Melvin Shapiro",
+    "qa_source": "extracted",
+    "first_500_words": "May 16, 1990 John Rothman FPPC PO Box 807 Sacramento, Ca 95804 Dear Mr. Rothman, Following up our phone conversation I am requesting copies of any advice the FPPC has given concerning statements of economic interest to be filed by law firms or attorneys that are employed by a public agency. In the case that I am interested in, our housing commission hires a law firm to be general counsel. It does not file an SEI, but one of its attorneys does. However, he does not list clients who pay over $10,000 to him or the law firm. His reason is that he does not own 10% of the stock of the law firm. Thanks for your consideration. Sincerely, Melvin Shapiro",
+    "summary": null
+  }
+}

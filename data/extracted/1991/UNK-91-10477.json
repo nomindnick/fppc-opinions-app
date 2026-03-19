@@ -1,0 +1,71 @@
+{
+  "id": "UNK-91-10477",
+  "year": 1991,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1991/91250.pdf",
+  "pdf_sha256": "ed42689fdf5230121bb494e6b4b40e66df5de31badd4e7d2f3fb1a6b74074cb8",
+  "local_pdf_path": "raw_pdfs/1991/91250.pdf",
+  "source_metadata": {
+    "title_raw": "1991-91250-Harmony, Clair",
+    "tags": [
+      "1991",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:20:36",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1991&tagCount=1&page=66"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T00:07:31.686611Z",
+    "page_count": 1,
+    "word_count": 62,
+    "char_count": 404,
+    "quality_score": 0.83712442098821,
+    "olmocr_cost": 0.00244928,
+    "native_word_count": 88
+  },
+  "content": {
+    "full_text": "April 24, 1991\n\nFAIR POLITICAL PRACTICES COMMISSION\nAttn: Legal Dept.\n428 \"J\" Street, Suite 600\nSacramento, CA 95814\n\nDear Sirs:\n\nUnder guidelines issued by the FPPC, Does Prop. 73 prevent an elected official from recommending the subject matter of material included in newsletters, which meet the test of mass mailings?\n\nPlease confirm you answer in writing.\n\nMost sincerely,\n\nClair W. Harmony\nPresident",
+    "full_text_markdown": "April 24, 1991\n\nFAIR POLITICAL PRACTICES COMMISSION\nAttn: Legal Dept.\n428 \"J\" Street, Suite 600\nSacramento, CA 95814\n\nDear Sirs:\n\nUnder guidelines issued by the FPPC, Does Prop. 73 prevent an elected official from recommending the subject matter of material included in newsletters, which meet the test of mass mailings?\n\nPlease confirm you answer in writing.\n\nMost sincerely,\n\nClair W. Harmony\nPresident"
+  },
+  "parsed": {
+    "date": "1991-04-24",
+    "date_raw": "April 24, 1991",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-20T00:07:31.686611Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "April 24, 1991 FAIR POLITICAL PRACTICES COMMISSION Attn: Legal Dept. 428 \"J\" Street, Suite 600 Sacramento, CA 95814 Dear Sirs: Under guidelines issued by the FPPC, Does Prop. 73 prevent an elected official from recommending the subject matter of material included in newsletters, which meet the test of mass mailings? Please confirm you answer in writing. Most sincerely, Clair W. Harmony President",
+    "qa_source": "extracted",
+    "first_500_words": "April 24, 1991 FAIR POLITICAL PRACTICES COMMISSION Attn: Legal Dept. 428 \"J\" Street, Suite 600 Sacramento, CA 95814 Dear Sirs: Under guidelines issued by the FPPC, Does Prop. 73 prevent an elected official from recommending the subject matter of material included in newsletters, which meet the test of mass mailings? Please confirm you answer in writing. Most sincerely, Clair W. Harmony President",
+    "summary": null
+  }
+}

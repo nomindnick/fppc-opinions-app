@@ -1,0 +1,73 @@
+{
+  "id": "77ADV-77-049",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-049.PDF",
+  "pdf_sha256": "a344e9f05b94f1dc4cf0be5f167e657827d04ff4f9af5884d1743ff64a5c2f8b",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-049.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-049",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:22:19",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=46"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-07T17:13:22.758627Z",
+    "page_count": 1,
+    "word_count": 113,
+    "char_count": 830,
+    "quality_score": 0.5975,
+    "olmocr_cost": 0.00250776,
+    "native_word_count": 5
+  },
+  "content": {
+    "full_text": "State of California\n\nMemorandum\n\nTo: File\n\nDate: Feb. 9, 1977\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION\n        Ted Prim\n\nSubject: Can a candidate or officeholder become a major donor committee?\n\nAt the opinion request meeting of January 28, 1977, the staff determined that a candidate/officeholder cannot become a major donor committee pursuant to Section 82013(c). Rather, any contributions or expenditures made by a candidate/officeholder must be reported on his next campaign statement.\n\nWhen the candidate/officeholder uses personal funds to make contributions or expenditures, such funds shall be reported as contributions to the candidate/officeholder on his next semiannual statement, candidate's statement, or consolidated candidate/committee report. The expenditure also should be reported on the same statement.\n\nTP:jo",
+    "full_text_markdown": "State of California\n\nMemorandum\n\nTo: File\n\nDate: Feb. 9, 1977\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION\n        Ted Prim\n\nSubject: Can a candidate or officeholder become a major donor committee?\n\nAt the opinion request meeting of January 28, 1977, the staff determined that a candidate/officeholder cannot become a major donor committee pursuant to Section 82013(c). Rather, any contributions or expenditures made by a candidate/officeholder must be reported on his next campaign statement.\n\nWhen the candidate/officeholder uses personal funds to make contributions or expenditures, such funds shall be reported as contributions to the candidate/officeholder on his next semiannual statement, candidate's statement, or consolidated candidate/committee report. The expenditure also should be reported on the same statement.\n\nTP:jo"
+  },
+  "parsed": {
+    "date": "1977-01-28",
+    "date_raw": "January 28, 1977",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Can a candidate or officeholder establish or become a major donor committee to make contributions and expenditures?",
+    "conclusion_synthetic": "A candidate or officeholder cannot become a major donor committee under Section 82013(c). Instead, all contributions and expenditures made by a candidate/officeholder must be reported on their campaign statements, with personal funds reported as contributions to the candidate/officeholder on semiannual statements, candidate statements, or consolidated reports.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Memorandum format without formal QUESTION/CONCLUSION sections. Subject line serves as the question. No formal conclusion section but advisory text provides the FPPC determination. Staff opinion from opinion request meeting. Includes reporting instructions for personal fund contributions."
+  },
+  "citations": {
+    "government_code": [
+      "82013(c)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T17:13:22.758627Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Can a candidate or officeholder establish or become a major donor committee to make contributions and expenditures?\n\nCONCLUSION: A candidate or officeholder cannot become a major donor committee under Section 82013(c). Instead, all contributions and expenditures made by a candidate/officeholder must be reported on their campaign statements, with personal funds reported as contributions to the candidate/officeholder on semiannual statements, candidate statements, or consolidated reports.",
+    "qa_source": "synthetic",
+    "first_500_words": "State of California Memorandum To: File Date: Feb. 9, 1977 From: FAIR POLITICAL PRACTICES COMMISSION Ted Prim Subject: Can a candidate or officeholder become a major donor committee? At the opinion request meeting of January 28, 1977, the staff determined that a candidate/officeholder cannot become a major donor committee pursuant to Section 82013(c). Rather, any contributions or expenditures made by a candidate/officeholder must be reported on his next campaign statement. When the candidate/officeholder uses personal funds to make contributions or expenditures, such funds shall be reported as contributions to the candidate/officeholder on his next semiannual statement, candidate's statement, or consolidated candidate/committee report. The expenditure also should be reported on the same statement. TP:jo",
+    "summary": "FPPC staff determined that candidates and officeholders are prohibited from establishing major donor committees and must instead report all contributions and expenditures through their own campaign statements."
+  }
+}

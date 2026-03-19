@@ -1,0 +1,71 @@
+{
+  "id": "82A135",
+  "year": 1982,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1982/82A135.PDF",
+  "pdf_sha256": "54d11ea65f7e04bb1a064d11412c55aa180bb4b1d581c1d1347cfce7e381c519",
+  "local_pdf_path": "raw_pdfs/1982/82A135.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1982 Advice Letter # 82A135",
+    "tags": [
+      "1982",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:31:28",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1982&tagCount=1&page=26"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:59.407614Z",
+    "page_count": 1,
+    "word_count": 281,
+    "char_count": 1805,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 281
+  },
+  "content": {
+    "full_text": "P.O. BOX 807 • SACRAMENTO, 95804 ••• 1100 K STREET BUILDING, SACRAMENTO, 95814 \nTechnical Assistance \n(916) 322·5662 \nAdministration \n322·5660 \nExecutive/legal \n322·5901 \nMarch 4, 1982 \nMs. Pam Swift, City Clerk \nCity of Pasadena \nRoom 218 \n100 North Garfield Avenue \nPasadena, C~ 91109 \nDear Pam: \nEnforcement \n322-64.41 \nStatements of Economic I nteres \n322-6444 \nThis letter is to confirm my advice to you during our telephone \nconversation of January 26, 1982. \nPlease accept my apologies for the delay in providing you with \nthis letter. \nYou asked whether donations solicited by a councilmember specifically \nto be used for a newsletter for his or her constituency are report-\nable under the Political Reform Act. \nAt this time the councilmember \nplans to issue the newsletter on a regular basis which will be deter-\nmined by the amount of donations received. \n7he newsletter will con-\ntain articles on issues concerning the city and will not carry any \n\"political purposes\" articles on any other officeholders, ballot \nmeasures, candidates, referendums or initiatives. \nMonies received \nwill be maintained in a separate account and will not be commingled \nwith the campaign funds of the officeholder. \nI advised you that since the donations solicited for the newsletter \nwill not be received for \"political purposes,\" that is, to influence \nthe action of the voters for or against the nomination or election \nof any officeholder, candidate, measure, or the qualification of \nany measure (2 Cal. Adm. Code Sections 18215 and 18225) I \nthese dona-\ntions are not required to be reported on any campaign statement. \nI hope this information has been helpful to you. \nPlease contact me \nif I can be of further assistance. \n/\"] j. \n/h.<:~~~<: /c:( \nHelen P. A.rriola \nPolitical Reform Consultant \nHPA:cm \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1982-03-04",
+    "date_raw": "March 4, 1982",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "You asked whether donations solicited by a councilmember specifically to be used for a newsletter for his or her constituency are reportable under the Political Reform Act.",
+    "conclusion": "I advised you that since the donations solicited for the newsletter will not be received for \"political purposes,\" that is, to influence the action of the voters for or against the nomination or election of any officeholder, candidate, measure, or the qualification of any measure (2 Cal. Adm. Code Sections 18215 and 18225), these donations are not required to be reported on any campaign statement.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Are donations solicited by a councilmember specifically for a constituency newsletter reportable under the Political Reform Act?",
+    "conclusion_synthetic": "Donations for the newsletter are not reportable under the Political Reform Act because they are not received for \"political purposes\" as defined by law. Provided the newsletter contains only city issue articles and not articles about other officeholders, ballot measures, candidates, or initiatives, and funds are kept separate from campaign funds, reporting is not required.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Standard advice letter confirming prior telephone consultation. Clear question and conclusion sections present. Document references specific California Administrative Code sections (18215 and 18225). Minor formatting irregularities in original document do not affect extraction quality."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:36:59.407614Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: You asked whether donations solicited by a councilmember specifically to be used for a newsletter for his or her constituency are reportable under the Political Reform Act.\n\nCONCLUSION: I advised you that since the donations solicited for the newsletter will not be received for \"political purposes,\" that is, to influence the action of the voters for or against the nomination or election of any officeholder, candidate, measure, or the qualification of any measure (2 Cal. Adm. Code Sections 18215 and 18225), these donations are not required to be reported on any campaign statement.",
+    "qa_source": "mixed",
+    "first_500_words": "P.O. BOX 807 • SACRAMENTO, 95804 ••• 1100 K STREET BUILDING, SACRAMENTO, 95814 Technical Assistance (916) 322·5662 Administration 322·5660 Executive/legal 322·5901 March 4, 1982 Ms. Pam Swift, City Clerk City of Pasadena Room 218 100 North Garfield Avenue Pasadena, C~ 91109 Dear Pam: Enforcement 322-64.41 Statements of Economic I nteres 322-6444 This letter is to confirm my advice to you during our telephone conversation of January 26, 1982. Please accept my apologies for the delay in providing you with this letter. You asked whether donations solicited by a councilmember specifically to be used for a newsletter for his or her constituency are report- able under the Political Reform Act. At this time the councilmember plans to issue the newsletter on a regular basis which will be deter- mined by the amount of donations received. 7he newsletter will con- tain articles on issues concerning the city and will not carry any \"political purposes\" articles on any other officeholders, ballot measures, candidates, referendums or initiatives. Monies received will be maintained in a separate account and will not be commingled with the campaign funds of the officeholder. I advised you that since the donations solicited for the newsletter will not be received for \"political purposes,\" that is, to influence the action of the voters for or against the nomination or election of any officeholder, candidate, measure, or the qualification of any measure (2 Cal. Adm. Code Sections 18215 and 18225) I these dona- tions are not required to be reported on any campaign statement. I hope this information has been helpful to you. Please contact me if I can be of further assistance. /\"] j. /h.<:~~~<: /c:( Helen P. A.rriola Political Reform Consultant HPA:cm",
+    "summary": "FPPC confirms that donations solicited by a councilmember for a constituency newsletter are not reportable under the Political Reform Act, as they are not received for political purposes as defined in the statute."
+  }
+}

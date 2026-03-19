@@ -1,0 +1,73 @@
+{
+  "id": "76169",
+  "year": 1976,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1976/76169.PDF",
+  "pdf_sha256": "7b7991ce76ea2990731626268ff7429ffe264ab8d05265ad43b85fe79143db3a",
+  "local_pdf_path": "raw_pdfs/1976/76169.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1976 Advice Letter # 76169",
+    "tags": [
+      "1976",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:18:47",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1976&tagCount=1&page=57"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:22.475996Z",
+    "page_count": 1,
+    "word_count": 157,
+    "char_count": 917,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 157
+  },
+  "content": {
+    "full_text": "To \nMemo to File \nDate \nMay 26, 1976 \n1 \nFrom \nFAIR POLITICAL PRACTICES \nGina Siciliano Kutchins \nSubject: \nOn May 3, 1976 I spoke to Loretta Tulley, employed by the \n1mv firm Green & Azevedo. \nShe asked whether it·was possible \nunder the Political Reform Act for registered state lobby-\nist to contribute to an elected state official 1;-7ho is run-\nn \nfor a federal office. \nI stated that it was all right \nif \nwas clear that the contribution was for the federal \nc~ndidacy. \nThis information is not correct based on Sections \n86200 and 86202 of the Political Reform Act. \nI called Ms. Tulley today, May 25, 1976, and informed her \nthat the original advice she received was incorrect. \nShe \nindicated that Don Green, the person for whom she requested \nthe information, had not acted on the advice and that to her \nkno\"l;qledge, based on the advice, no contribution by a lobby-\nist \"l;vas made to a state candidate. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1976-05-26",
+    "date_raw": "May 26, 1976",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "Whether it is possible under the Political Reform Act for a registered state lobbyist to contribute to an elected state official who is running for federal office.",
+    "conclusion": "This information is not correct based on Sections 86200 and 86202 of the Political Reform Act.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "May a registered state lobbyist contribute to an elected state official running for federal office under the Political Reform Act?",
+    "conclusion_synthetic": "The FPPC determined that the original advice given was incorrect and that registered state lobbyists cannot make such contributions under Sections 86200 and 86202 of the Political Reform Act.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.75,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an internal FPPC memo correcting erroneous advice previously given. No formal Q&A sections present. Document serves as both internal record and correction notice. The synthetic conclusion reflects the stated correction rather than a detailed legal analysis."
+  },
+  "citations": {
+    "government_code": [
+      "86200"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "lobbying",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:37:22.475996Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether it is possible under the Political Reform Act for a registered state lobbyist to contribute to an elected state official who is running for federal office.\n\nCONCLUSION: This information is not correct based on Sections 86200 and 86202 of the Political Reform Act.",
+    "qa_source": "mixed",
+    "first_500_words": "To Memo to File Date May 26, 1976 1 From FAIR POLITICAL PRACTICES Gina Siciliano Kutchins Subject: On May 3, 1976 I spoke to Loretta Tulley, employed by the 1mv firm Green & Azevedo. She asked whether it·was possible under the Political Reform Act for registered state lobby- ist to contribute to an elected state official 1;-7ho is run- n for a federal office. I stated that it was all right if was clear that the contribution was for the federal c~ndidacy. This information is not correct based on Sections 86200 and 86202 of the Political Reform Act. I called Ms. Tulley today, May 25, 1976, and informed her that the original advice she received was incorrect. She indicated that Don Green, the person for whom she requested the information, had not acted on the advice and that to her kno\"l;qledge, based on the advice, no contribution by a lobby- ist \"l;vas made to a state candidate.",
+    "summary": "An internal FPPC memorandum documenting that incorrect advice was provided to a lobbyist regarding contributions to a state official running for federal office, and that the error was corrected before any contribution was made."
+  }
+}

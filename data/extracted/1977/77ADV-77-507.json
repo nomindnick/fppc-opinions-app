@@ -1,0 +1,73 @@
+{
+  "id": "77ADV-77-507",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-507.PDF",
+  "pdf_sha256": "33c212ada184f74288a698a7485b7a9a1dfb5452953463978f2fbe9ad4b5d6f4",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-507.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-507",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:22:32",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=49"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T18:26:01.978220Z",
+    "page_count": 1,
+    "word_count": 55,
+    "char_count": 398,
+    "quality_score": 0.8147843267553487,
+    "olmocr_cost": 0.0024329399999999998,
+    "native_word_count": 64
+  },
+  "content": {
+    "full_text": "Memorandum\n\nTo: Opinion request meeting participants\n\nDate: 1/27/77\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION\n        Kenneth Finney\n\nSubject: Item for Discussion:\n\nMay a judge use the legal description of his personal residence in designating this interest in real property instead of the street address?\n\nNote that §87206(c) requires \"address or other precise location of the real property.\"",
+    "full_text_markdown": "Memorandum\n\nTo: Opinion request meeting participants\n\nDate: 1/27/77\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION\n        Kenneth Finney\n\nSubject: Item for Discussion:\n\nMay a judge use the legal description of his personal residence in designating this interest in real property instead of the street address?\n\nNote that §87206(c) requires \"address or other precise location of the real property.\""
+  },
+  "parsed": {
+    "date": "1977-01-27",
+    "date_raw": "1/27/77",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [
+      "87206(c)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-20T18:26:01.978220Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "**Memorandum** To: Opinion request meeting participants Date: 1/27/77 From: FAIR POLITICAL PRACTICES COMMISSION Kenneth Finney Subject: Item for Discussion: May a judge use the legal description of his personal residence in designating this interest in real property instead of the street address? Note that §87206(c) requires \"address or other precise location of the real property.\"",
+    "qa_source": "extracted",
+    "first_500_words": "**Memorandum** To: Opinion request meeting participants Date: 1/27/77 From: FAIR POLITICAL PRACTICES COMMISSION Kenneth Finney Subject: Item for Discussion: May a judge use the legal description of his personal residence in designating this interest in real property instead of the street address? Note that §87206(c) requires \"address or other precise location of the real property.\"",
+    "summary": null
+  }
+}

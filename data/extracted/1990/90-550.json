@@ -1,0 +1,73 @@
+{
+  "id": "90-550",
+  "year": 1990,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1990/90-550.pdf",
+  "pdf_sha256": "f815b9404c60777879660226a712d2390263579a855a2f4aa88b5e725f02d0f6",
+  "local_pdf_path": "raw_pdfs/1990/90-550.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 1990 Advice Letter # 90-550",
+    "tags": [
+      "1990",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:11:42",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1990&tagCount=1&page=78"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T22:17:57.928583Z",
+    "page_count": 1,
+    "word_count": 186,
+    "char_count": 1241,
+    "quality_score": 0.8997086055349268,
+    "olmocr_cost": 0.0026178399999999998,
+    "native_word_count": 189
+  },
+  "content": {
+    "full_text": "CONFIRMATION OF TELEPHONE ADVICE\n\nFile No.        M-90-550\nDate:           August 23, 1990\nDate of Advice: July 30, 1990\nStaff:          Hughes, Alice\nDivision:       TA & A\nAdvisee:        Byrna\n                (619) 231-9733\n\nFACTS\n\nAn individual died and had specified in his will that $6,000 be contributed to a specific general purpose recipient committee. The trustee sent a check for $6,000 in June and it was deposited into the campaign bank account. The committee has only one account.\n\nQUESTION\n\nDoes the PAC have to return the contribution?\n\nCONCLUSION\n\nThe PAC must return the contribution to the contributor (trust) because it exceeded the contribution limits. The PAC is prohibited from receiving contributions over $2,500 from a single source in a fiscal year. (Section 85302.)\n\nThe Committee must report the receipt of the contribution on Form 420, Schedule A. They can indicate the contribution was returned if they choose. In addition, the return must be reported on Schedule E.\n\nThe PAC can request another contribution for $2,500 to be designated for the candidate account. If the committee establishes an administrative/non-candidate account, they can also request the $3,500 be designated for the non-candidate account.",
+    "full_text_markdown": "CONFIRMATION OF TELEPHONE ADVICE\n\nFile No.        M-90-550\nDate:           August 23, 1990\nDate of Advice: July 30, 1990\nStaff:          Hughes, Alice\nDivision:       TA & A\nAdvisee:        Byrna\n                (619) 231-9733\n\nFACTS\n\nAn individual died and had specified in his will that $6,000 be contributed to a specific general purpose recipient committee. The trustee sent a check for $6,000 in June and it was deposited into the campaign bank account. The committee has only one account.\n\nQUESTION\n\nDoes the PAC have to return the contribution?\n\nCONCLUSION\n\nThe PAC must return the contribution to the contributor (trust) because it exceeded the contribution limits. The PAC is prohibited from receiving contributions over $2,500 from a single source in a fiscal year. (Section 85302.)\n\nThe Committee must report the receipt of the contribution on Form 420, Schedule A. They can indicate the contribution was returned if they choose. In addition, the return must be reported on Schedule E.\n\nThe PAC can request another contribution for $2,500 to be designated for the candidate account. If the committee establishes an administrative/non-candidate account, they can also request the $3,500 be designated for the non-candidate account."
+  },
+  "parsed": {
+    "date": "1990-08-23",
+    "date_raw": "August 23, 1990",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Does the PAC have to return the contribution?",
+    "conclusion": "The PAC must return the contribution to the contributor (trust) because it exceeded the contribution limits. The PAC is prohibited from receiving contributions over $2,500 from a single source in a fiscal year. (Section 85302.)\n\nThe Committee must report the receipt of the contribution on Form 420, Schedule A. They can indicate the contribution was returned if they choose. In addition, the return must be reported on Schedule E.\n\nThe PAC can request another contribution for $2,500 to be designated for the candidate account. If the committee establishes an administrative/non-candidate account, they can also request the $3,500 be designated for the non-candidate account.",
+    "facts": "An individual died and had specified in his will that $6,000 be contributed to a specific general purpose recipient committee. The trustee sent a check for $6,000 in June and it was deposited into the campaign bank account. The committee has only one account.",
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.85,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern"
+  },
+  "citations": {
+    "government_code": [
+      "85302"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-19T22:17:57.928583Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Does the PAC have to return the contribution?\n\nCONCLUSION: The PAC must return the contribution to the contributor (trust) because it exceeded the contribution limits. The PAC is prohibited from receiving contributions over $2,500 from a single source in a fiscal year. (Section 85302.)\n\nThe Committee must report the receipt of the contribution on Form 420, Schedule A. They can indicate the contribution was returned if they choose. In addition, the return must be reported on Schedule E.\n\nThe PAC can request another contribution for $2,500 to be designated for the candidate account. If the committee establishes an administrative/non-candidate account, they can also request the $3,500 be designated for the non-candidate account.",
+    "qa_source": "extracted",
+    "first_500_words": "CONFIRMATION OF TELEPHONE ADVICE File No. M-90-550 Date: August 23, 1990 Date of Advice: July 30, 1990 Staff: Hughes, Alice Division: TA & A Advisee: Byrna (619) 231-9733 FACTS An individual died and had specified in his will that $6,000 be contributed to a specific general purpose recipient committee. The trustee sent a check for $6,000 in June and it was deposited into the campaign bank account. The committee has only one account. QUESTION Does the PAC have to return the contribution? CONCLUSION The PAC must return the contribution to the contributor (trust) because it exceeded the contribution limits. The PAC is prohibited from receiving contributions over $2,500 from a single source in a fiscal year. (Section 85302.) The Committee must report the receipt of the contribution on Form 420, Schedule A. They can indicate the contribution was returned if they choose. In addition, the return must be reported on Schedule E. The PAC can request another contribution for $2,500 to be designated for the candidate account. If the committee establishes an administrative/non-candidate account, they can also request the $3,500 be designated for the non-candidate account.",
+    "summary": null
+  }
+}

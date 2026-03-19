@@ -1,0 +1,71 @@
+{
+  "id": "07-161",
+  "year": 2007,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2007/07-161.pdf",
+  "pdf_sha256": "e09bd0cf78474c861bedec4e0620a6b5272f1070133d0a8201f013d3365114ec",
+  "local_pdf_path": "raw_pdfs/2007/07-161.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2007 Advice Letter # 07-161",
+    "tags": [
+      "2007",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:47:02",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2007&tagCount=1&page=19"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T13:42:32.866315Z",
+    "page_count": 1,
+    "word_count": 90,
+    "char_count": 574,
+    "quality_score": 0.8118398887084509,
+    "olmocr_cost": 0.00247938,
+    "native_word_count": 111
+  },
+  "content": {
+    "full_text": "October 26, 2007\n\nCarol Dean\n332 Decker Street\nSanta Rosa, CA 95401\n\nRe:    You Request for Advice\n        Our File No. W-07-161\n\nDear Ms. Dean:\n\nThank you for providing the information previously requested.\n\nThis will confirm that you have agreed to withdraw your request for advice given the fact that the decision you were inquiring about was voted upon without your participation at the city council meeting of October 9, 2007. Accordingly, we are closing our file on this matter.\n\nSincerely,\n\nScott Hallabrin\nGeneral Counsel\n\nBy: Valentina Joyce\nCounsel, Legal Division",
+    "full_text_markdown": "October 26, 2007\n\nCarol Dean\n332 Decker Street\nSanta Rosa, CA 95401\n\nRe:    You Request for Advice\n        Our File No. W-07-161\n\nDear Ms. Dean:\n\nThank you for providing the information previously requested.\n\nThis will confirm that you have agreed to withdraw your request for advice given the fact that the decision you were inquiring about was voted upon without your participation at the city council meeting of October 9, 2007. Accordingly, we are closing our file on this matter.\n\nSincerely,\n\nScott Hallabrin\nGeneral Counsel\n\nBy: Valentina Joyce\nCounsel, Legal Division"
+  },
+  "parsed": {
+    "date": "2007-10-26",
+    "date_raw": "October 26, 2007",
+    "requestor_name": "Dean",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-20T13:42:32.866315Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "October 26, 2007 Carol Dean 332 Decker Street Santa Rosa, CA 95401 Re: You Request for Advice Our File No. W-07-161 Dear Ms. Dean: Thank you for providing the information previously requested. This will confirm that you have agreed to withdraw your request for advice given the fact that the decision you were inquiring about was voted upon without your participation at the city council meeting of October 9, 2007. Accordingly, we are closing our file on this matter. Sincerely, Scott Hallabrin General Counsel By: Valentina Joyce Counsel, Legal Division",
+    "qa_source": "extracted",
+    "first_500_words": "October 26, 2007 Carol Dean 332 Decker Street Santa Rosa, CA 95401 Re: You Request for Advice Our File No. W-07-161 Dear Ms. Dean: Thank you for providing the information previously requested. This will confirm that you have agreed to withdraw your request for advice given the fact that the decision you were inquiring about was voted upon without your participation at the city council meeting of October 9, 2007. Accordingly, we are closing our file on this matter. Sincerely, Scott Hallabrin General Counsel By: Valentina Joyce Counsel, Legal Division",
+    "summary": null
+  }
+}

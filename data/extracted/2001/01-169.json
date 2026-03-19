@@ -1,0 +1,75 @@
+{
+  "id": "01-169",
+  "year": 2001,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2001/01-169.pdf",
+  "pdf_sha256": "230c571fc228e716bcaaefab12cca44d6a59999c264f71f476a803f9b7a671f3",
+  "local_pdf_path": "raw_pdfs/2001/01-169.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2001 Advice Letter # 01-169",
+    "tags": [
+      "2001",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:52:03",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2001&tagCount=1&page=13"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T20:22:51.791200Z",
+    "page_count": 1,
+    "word_count": 159,
+    "char_count": 1089,
+    "quality_score": 0.8696504279817021,
+    "olmocr_cost": 0.00264364,
+    "native_word_count": 161
+  },
+  "content": {
+    "full_text": "FAIR POLITICAL PRACTICES COMMISSION\nP.O. Box 807 • 428 J Street • Sacramento, CA 95812-0807\n(916) 322-5660 • Fax (916) 322-0886\n\nMarch 4, 2002\n\nShirley Bianchi, Supervisor\nBoard of Supervisors\nSan Luis Obispo County\nCounty Government Center\nRoom 370\nSan Luis Obispo, CA 93408-2040\n\nRe: Your Request for Advice\nOur File No. W-01-169\n\nDear Ms. Bianchi:\n\nThis correspondence is written confirmation that the Fair Political Practices Commission (\"FPPC\") has withdrawn your July 5, 2001, request for advice under the provisions of the Political Reform Act¹. You have advised the litigation that created a potential conflict of interest for you was resolved by agreement. Therefore, written advice is not necessary.\n\nShould you have any additional questions regarding this matter, please contact me at (916) 322-5660.\n\nSincerely,\n\nLuisa Menchaca\nGeneral Counsel\n\nBy: Lawrence T. Woodlock\nSenior Commission Counsel, Legal Division\n\nLTW:jg\nEnclosure\n\n¹ Government Code sections 81000-91014. Commission regulations appear at Title 2, sections 18109-18997, of the California Code of Regulations.",
+    "full_text_markdown": "FAIR POLITICAL PRACTICES COMMISSION\nP.O. Box 807 • 428 J Street • Sacramento, CA 95812-0807\n(916) 322-5660 • Fax (916) 322-0886\n\nMarch 4, 2002\n\nShirley Bianchi, Supervisor\nBoard of Supervisors\nSan Luis Obispo County\nCounty Government Center\nRoom 370\nSan Luis Obispo, CA 93408-2040\n\nRe: Your Request for Advice\nOur File No. W-01-169\n\nDear Ms. Bianchi:\n\nThis correspondence is written confirmation that the Fair Political Practices Commission (\"FPPC\") has withdrawn your July 5, 2001, request for advice under the provisions of the Political Reform Act¹. You have advised the litigation that created a potential conflict of interest for you was resolved by agreement. Therefore, written advice is not necessary.\n\nShould you have any additional questions regarding this matter, please contact me at (916) 322-5660.\n\nSincerely,\n\nLuisa Menchaca\nGeneral Counsel\n\nBy: Lawrence T. Woodlock\nSenior Commission Counsel, Legal Division\n\nLTW:jg\nEnclosure\n\n¹ Government Code sections 81000-91014. Commission regulations appear at Title 2, sections 18109-18997, of the California Code of Regulations."
+  },
+  "parsed": {
+    "date": "2002-03-04",
+    "date_raw": "March 4, 2002",
+    "requestor_name": "Bianchi",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [
+      "18109"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-20T20:22:51.791200Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "**FAIR POLITICAL PRACTICES COMMISSION** P.O. Box 807 • 428 J Street • Sacramento, CA 95812-0807 (916) 322-5660 • Fax (916) 322-0886 March 4, 2002 Shirley Bianchi, Supervisor Board of Supervisors San Luis Obispo County County Government Center Room 370 San Luis Obispo, CA 93408-2040 Re: Your Request for Advice Our File No. W-01-169 Dear Ms. Bianchi: This correspondence is written confirmation that the Fair Political Practices Commission (\"FPPC\") has withdrawn your July 5, 2001, request for advice under the provisions of the Political Reform Act¹. You have advised the litigation that created a potential conflict of interest for you was resolved by agreement. Therefore, written advice is not necessary. Should you have any additional questions regarding this matter, please contact me at (916) 322-5660. Sincerely, Luisa Menchaca General Counsel By: Lawrence T. Woodlock Senior Commission Counsel, Legal Division LTW:jg Enclosure ¹ Government Code sections 81000-91014. Commission regulations appear at Title 2, sections 18109-18997, of the California Code of Regulations.",
+    "qa_source": "extracted",
+    "first_500_words": "**FAIR POLITICAL PRACTICES COMMISSION** P.O. Box 807 • 428 J Street • Sacramento, CA 95812-0807 (916) 322-5660 • Fax (916) 322-0886 March 4, 2002 Shirley Bianchi, Supervisor Board of Supervisors San Luis Obispo County County Government Center Room 370 San Luis Obispo, CA 93408-2040 Re: Your Request for Advice Our File No. W-01-169 Dear Ms. Bianchi: This correspondence is written confirmation that the Fair Political Practices Commission (\"FPPC\") has withdrawn your July 5, 2001, request for advice under the provisions of the Political Reform Act¹. You have advised the litigation that created a potential conflict of interest for you was resolved by agreement. Therefore, written advice is not necessary. Should you have any additional questions regarding this matter, please contact me at (916) 322-5660. Sincerely, Luisa Menchaca General Counsel By: Lawrence T. Woodlock Senior Commission Counsel, Legal Division LTW:jg Enclosure ¹ Government Code sections 81000-91014. Commission regulations appear at Title 2, sections 18109-18997, of the California Code of Regulations.",
+    "summary": null
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "04-060",
+  "year": 2004,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2004/04-060.pdf",
+  "pdf_sha256": "088ece6d891f4e9cfe2e8a4d346a0a86e4aeccdd0920955984a2474ffac61cf1",
+  "local_pdf_path": "raw_pdfs/2004/04-060.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2004 Advice Letter # 04-060",
+    "tags": [
+      "2004",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:41:41",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2004&tagCount=1&page=23"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:18.352904Z",
+    "page_count": 1,
+    "word_count": 224,
+    "char_count": 1426,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 224
+  },
+  "content": {
+    "full_text": "Farn Polrrrcal PnecrrcEs CoupussroN\n428 J Street o Suite 620 . Sacramento, CA 95814-2329\n(916) 322-5660 o Fax (916) 322-0886\nMarch 25,2004\nRoy A. Hanley, City Attomey\nThe Municipal Advocates Group, LLP\n8930 Morro Road\nAtascadero, CA93422\nRe:\nYour Request for Advice\nOur FiIe No. W-04-060\nDear Mr. Hanley:\nThis letter is in response to your request for written advice on thd conflict-of-interest\nprovisions of the Political Reform Act.l Your question concerns Ms. Yaeger's ability to\nparticipate in a vote at the planning commission level on whether or not to recommend changes\nto the Second Unit Ordinance in the City of Solvang.\nCurrently, the same or very similar issues are the subject of a pending investigation by\nthe Enforcement Division. Moreover, your question involves analysis of a series of interrelaied\ndecisions, some of which may have already occurred, such that issuing further advice at this time\nwould relate to past conduct and, therefore, would not further the impartial, effective\nadministration of the Act so mandated by section 831 I l. Your request is therefore considered\nwithdrawn.\nShould you have additional questions regarding this matter, please do not hesitate to\ncontact me at (916) 322-5660.\nSincerely\nLuisa Menchaca\nCounsel\nGeneral Counsel\nJwwjg\nI Government Code sections 81000 - 91014. Commission regulations appear atTitle 2, sections 1g109 -\n18997, of the California Code of Regulations.\n@\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2004-03-25",
+    "date_raw": "March 25,2004",
+    "requestor_name": "Hanley",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether Ms. Yaeger may participate in a planning commission vote on recommending changes to the Second Unit Ordinance in the City of Solvang under the conflict-of-interest provisions of the Political Reform Act.",
+    "conclusion_synthetic": "The FPPC withdrew the request for advice because a pending investigation by the Enforcement Division involves the same or similar issues, and the question involves analysis of interrelated decisions some of which may have already occurred, making advice on past conduct inconsistent with the impartial administration of the Political Reform Act.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is a withdrawal letter (File No. W-04-060). The document contains no verbatim QUESTION or CONCLUSION sections but clearly identifies the subject matter and reason for withdrawal. The request was withdrawn rather than declined, indicating the FPPC deemed it appropriate to terminate the advice process mid-stream."
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:34:18.352904Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether Ms. Yaeger may participate in a planning commission vote on recommending changes to the Second Unit Ordinance in the City of Solvang under the conflict-of-interest provisions of the Political Reform Act.\n\nCONCLUSION: The FPPC withdrew the request for advice because a pending investigation by the Enforcement Division involves the same or similar issues, and the question involves analysis of interrelated decisions some of which may have already occurred, making advice on past conduct inconsistent with the impartial administration of the Political Reform Act.",
+    "qa_source": "synthetic",
+    "first_500_words": "Farn Polrrrcal PnecrrcEs CoupussroN 428 J Street o Suite 620 . Sacramento, CA 95814-2329 (916) 322-5660 o Fax (916) 322-0886 March 25,2004 Roy A. Hanley, City Attomey The Municipal Advocates Group, LLP 8930 Morro Road Atascadero, CA93422 Re: Your Request for Advice Our FiIe No. W-04-060 Dear Mr. Hanley: This letter is in response to your request for written advice on thd conflict-of-interest provisions of the Political Reform Act.l Your question concerns Ms. Yaeger's ability to participate in a vote at the planning commission level on whether or not to recommend changes to the Second Unit Ordinance in the City of Solvang. Currently, the same or very similar issues are the subject of a pending investigation by the Enforcement Division. Moreover, your question involves analysis of a series of interrelaied decisions, some of which may have already occurred, such that issuing further advice at this time would relate to past conduct and, therefore, would not further the impartial, effective administration of the Act so mandated by section 831 I l. Your request is therefore considered withdrawn. Should you have additional questions regarding this matter, please do not hesitate to contact me at (916) 322-5660. Sincerely Luisa Menchaca Counsel General Counsel Jwwjg I Government Code sections 81000 - 91014. Commission regulations appear atTitle 2, sections 1g109 - 18997, of the California Code of Regulations. @",
+    "summary": "FPPC withdrawal letter declining to provide written advice on whether a planning commissioner may vote on changes to a Second Unit Ordinance due to a related pending Enforcement Division investigation and the interrelated nature of past decisions involved."
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "83A192",
+  "year": 1983,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1983/83A192.PDF",
+  "pdf_sha256": "6643d437f588355e06f537428a138916b2345e1166bafaa5eb152c06274dab2c",
+  "local_pdf_path": "raw_pdfs/1983/83A192.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1983 Advice Letter # 83A192",
+    "tags": [
+      "1983",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:31:59",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1983&tagCount=1&page=7"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-27T18:53:30.842858Z",
+    "page_count": 2,
+    "word_count": 172,
+    "char_count": 1241,
+    "quality_score": 0.7013795292367743,
+    "olmocr_cost": 0.0049277999999999995,
+    "native_word_count": 153,
+    "haiku_cost": 0.003904
+  },
+  "content": {
+    "full_text": "T-83-/92\nTELEPHONE ADVICE\n\nAttorney: Leidich\n\nDate: 6/7/83\n\nAdvice Letter: ___________________________________\n\nPerson Requesting Advice\n\nWilliam Hopkins\n\n___________________________________\n\n___________________________________\n\n___________________________________\n\nTelephone: (714) 998-5769\n\nQuestion: §2013(c) Major Donor\n(Councilmember has questions re: individual\ncan become a councilmember if he gives $5,000 or more\nto a candidate even if he/she is from our state?\n\nBelow is SCO letter for Hopkins\nafter ask for Bob Franks\n\n\nAdvice: Out of state contributor can contribute $5000 + in calendar\nyear to Cand. receives committee license under federal\nFEC- has jurisdiction has under problem is out of State\nattendee raising jurisdiction depending judgment.\n\n6, '83\n\nJudy:\n\nPlease call Bill Hopkins,\nAnaheim City Attorney, regarding\nenforcement jurisdiction in\nconnection with person from out\nof state who violates PRA --\nspecifically, an individual who\nqualifies as a major donor but\nrefuses to file disclosure\nstatements.  (This is a hypothet\nical question which he was asked\na city councilmember.)\n\nIf Mr. Hopkins is not avail\nable, please ask to speak to\nBob Franks.\n\nPhone:  (714) 999-5169\n\nThanks.\n\nJeanne\n\nFor computer\nFrom J. Davis",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1983-06-07",
+    "date_raw": "6/7/83",
+    "requestor_name": null,
+    "requestor_title": "City Attorney",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "82013(c) Major Donor\nCouncilmember has questions - can individual become a committee if he gives $5,000 or more to a candidate even if he's from out of state?\n\nBefore TiSSO ask for Hopkins afterward, ask for Bob Franks.\n\nAdvice:\nOut of state contributor who contributes $5000+ in calendar year to Calif candidates/committees becomes major donor. FSC has jurisdiction but unusual problems re out of state defendant: exerting jurisdiction, executing on judgment.\n\nJudy:\n\nPlease call Bill Hopkins, Anaheim City Attorney, regarding enforcement jurisdiction in connection with person from out of state who violates PRA -- specifically, an individual who qualifies as a major donor but refuses to file disclosure statements. (This is a hypothetical question which he was asked a city councilmember.)\n\nIf Mr. Hopkins is not available, please ask to speak to Bob Franks.\n\nPhone: (714) 999-5169\n\nThanks.\n\nJeanne",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.44999999999999996,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T19:04:43.246758Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: 82013(c) Major Donor\nCouncilmember has questions - can individual become a committee if he gives $5,000 or more to a candidate even if he's from out of state?\n\nBefore TiSSO ask for Hopkins afterward, ask for Bob Franks.\n\nAdvice:\nOut of state contributor who contributes $5000+ in calendar year to Calif candidates/committees becomes major donor. FSC has jurisdiction but unusual problems re out of state defendant: exerting jurisdiction, executing on judgment.\n\nJudy:\n\nPlease call Bill Hopkins, Anaheim City Attorney, regarding enforcement jurisdiction in connection with person from out of state who violates PRA -- specifically, an individual who qualifies as a major donor but refuses to file disclosure statements. (This is a hypothetical question which he was asked a city councilmember.)\n\nIf Mr. Hopkins is not available, please ask to speak to Bob Franks.\n\nPhone: (714) 999-5169\n\nThanks.\n\nJeanne",
+    "qa_source": "extracted",
+    "first_500_words": "TELEPHONE ADVICE Attorney: Leidigh Date: 6/7/83 Advice Letter: Person Requesting Advice William Hopkins Telephone: (214) 999-5169 Question: 82013(c) Major Donor Councilmember has questions - can individual become a committee if he gives $5,000 or more to a candidate even if he's from out of state? Before TiSSO ask for Hopkins afterward, ask for Bob Franks. Advice: Out of state contributor who contributes $5000+ in calendar year to Calif candidates/committees becomes major donor. FSC has jurisdiction but unusual problems re out of state defendant: exerting jurisdiction, executing on judgment. Judy: Please call Bill Hopkins, Anaheim City Attorney, regarding enforcement jurisdiction in connection with person from out of state who violates PRA -- specifically, an individual who qualifies as a major donor but refuses to file disclosure statements. (This is a hypothetical question which he was asked a city councilmember.) If Mr. Hopkins is not available, please ask to speak to Bob Franks. Phone: (714) 999-5169 Thanks. Jeanne",
+    "summary": null
+  }
+}

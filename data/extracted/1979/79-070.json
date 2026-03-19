@@ -1,0 +1,75 @@
+{
+  "id": "79-070",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-070.PDF",
+  "pdf_sha256": "f79bb3a1e3d708352e99b3bbe01ec9917fa5878baf6bbabd2b9d4a7e9ae64f63",
+  "local_pdf_path": "raw_pdfs/1979/79-070.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1979 Advice Letter # 79-070",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:26:35",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=17"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T00:58:05.487872Z",
+    "page_count": 1,
+    "word_count": 260,
+    "char_count": 1608,
+    "quality_score": 0.9258693120260023,
+    "olmocr_cost": 0.0026539600000000003,
+    "native_word_count": 14,
+    "haiku_cost": 0.002872
+  },
+  "content": {
+    "full_text": "State of California\n\nMemorandum\n\nTo : File\n\nDate : May 15, 1979\n\nFrom : FAIR POLITICAL PRACTICES COMMISSION\nBarbara Campbell\n\nSubject: 84210(g), 84303\n\nAt the May 14, 1979, Opinion Request meeting, the staff considered\nthe following hypothetical:\n\nSmith is connected with a taxpayers' association. (A registered\nmultipurpose committee.) He does not appear on the statement\nof organization; however, it is understood that he directs the\nactivities of the committee.\n\nSmith arranges to have Jones prepare a layout for a brochure\nthat the association wants to put out supporting specific city\ncouncil candidates.\n\nJones makes it known that he wants to be paid in cash. Smith,\nout of his own funds, takes $335 in cash, places it in an\nenvelope, and gives it to Pitman.\n\nJones arranges to meet with Pitman and picks up the cash in\nthe envelope.\n\nUnder that hypothetical we concluded the following: The taxpayers'\nassociation must report receipt of an in-kind contribution from\nSmith for brochures valued at $335. Since Smith has not qualified\nas a major donor committee, Smith will have no reporting obligation\nother than to provide a notice of an in-kind contribution under\nSection 84300. Neither Jones nor Pitman will be required to file\ncampaign statements.\n\nPitman is not an intermediary of an in-kind contribution under\nSection 84302. Pitman is merely acting as a messenger of the expenditure.\n\nIf Smith had qualified as a major donor committee, he would\nhave to report Jones' name as the person providing the consideration\nfor the expenditure as well as disclosing the committee's name as\nthe payee.\n\nBC:plh",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1979-05-15",
+    "date_raw": "May 15, 1979",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "The taxpayers' association must report receipt of an in-kind contribution from Smith for brochures valued at $335. Since Smith has not qualified as a major donor committee, Smith will have no reporting obligation other than to provide a notice of an in-kind contribution under Section 84300. Neither Jones nor Pitman will be required to file campaign statements. Pitman is not an intermediary of an in-kind contribution under Section 84302; Pitman is merely acting as a messenger of the expenditure. If Smith had qualified as a major donor committee, he would have to report Jones' name as the person providing the consideration for the expenditure as well as disclosing the committee's name as the payee.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a taxpayers' association and individuals involved in arranging and executing payment for campaign brochure layout must report the transaction under California campaign finance law, specifically regarding in-kind contributions and intermediary status.",
+    "conclusion_synthetic": "The taxpayers' association must report the $335 in-kind contribution for brochure layout from Smith, but Smith has no additional reporting obligation since he is not a major donor committee. Neither Jones nor Pitman are required to file campaign statements, and Pitman is merely a messenger rather than an intermediary.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is structured as a memorandum without traditional 'QUESTION' and 'CONCLUSION' section headers, but contains clear question and conclusion elements within the body. Staff meeting context noted. No formal section headers present but content is clearly identifiable."
+  },
+  "citations": {
+    "government_code": [
+      "84300",
+      "84302"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T16:52:50.644979Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether a taxpayers' association and individuals involved in arranging and executing payment for campaign brochure layout must report the transaction under California campaign finance law, specifically regarding in-kind contributions and intermediary status.\n\nCONCLUSION: The taxpayers' association must report receipt of an in-kind contribution from Smith for brochures valued at $335. Since Smith has not qualified as a major donor committee, Smith will have no reporting obligation other than to provide a notice of an in-kind contribution under Section 84300. Neither Jones nor Pitman will be required to file campaign statements. Pitman is not an intermediary of an in-kind contribution under Section 84302; Pitman is merely acting as a messenger of the expenditure. If Smith had qualified as a major donor committee, he would have to report Jones' name as the person providing the consideration for the expenditure as well as disclosing the committee's name as the payee.",
+    "qa_source": "mixed",
+    "first_500_words": "This memorandum, dated May 15, 1979, from the Fair Political Practices Commission (Barbara Campbell) to File, discusses a hypothetical scenario involving Smith, Jones, and Pitman. At the May 14, 1979, Opinion Request meeting, the staff considered the following hypothetical: Smith is connected with a taxpayers' association. (A registered multipurpose committee.) He does not appear on the statement of organization; however, it is understood that he directs the activities of the committee. Smith arranges to have Jones prepare a layout for a brochure that the association wants to put out supporting specific city council candidates. Jones makes it known that he wants to be paid in cash. Smith, out of his own funds, takes $335 in cash, places it in an envelope, and gives it to Pitman. Jones arranges to meet with Pitman and picks up the cash in the envelope. Under that hypothetical we concluded the following: The taxpayers' association must report receipt of an in-kind contribution from Smith for brochures valued at $335. Since Smith has not qualified as a major donor committee, Smith will have no reporting obligation other than to provide a notice of an in-kind contribution under Section 84300. Neither Jones nor Pitman will be required to file campaign statements. Pitman is not an intermediary of an in-kind contribution under Section 84302. Pitman is merely acting as a messenger of the expenditure. If Smith had qualified as a major donor committee, he would have to report Jones' name as the person providing the consideration for the expenditure as well as disclosing the committee's name as the payee. BC:plh",
+    "summary": "FPPC staff analysis of a hypothetical scenario involving campaign finance reporting obligations when a taxpayers' association receives in-kind contributions for brochures supporting city council candidates, with conclusions regarding reporting requirements for all parties involved."
+  }
+}

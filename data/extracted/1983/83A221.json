@@ -1,0 +1,75 @@
+{
+  "id": "83A221",
+  "year": 1983,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1983/83A221.PDF",
+  "pdf_sha256": "250f22a5e69715d10be6e3930662437d333e0c2bec5856c422b2ec74b9d893dd",
+  "local_pdf_path": "raw_pdfs/1983/83A221.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1983 Advice Letter # 83A221",
+    "tags": [
+      "1983",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:32:16",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1983&tagCount=1&page=11"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:52.165738Z",
+    "page_count": 1,
+    "word_count": 142,
+    "char_count": 919,
+    "quality_score": 0.515,
+    "olmocr_cost": null,
+    "native_word_count": 142
+  },
+  "content": {
+    "full_text": "State of California \nMemorandum \nTo \nFile \nDate \nSept. 29, 1983 \nNo. 1.\\-1-83-221 \nFrom \n: \nFAIR POLITICAL PRACTICES COMMISSION \nJanis Shank McLean ~ \nSubject: \nAwards of Contracts Under Gov. Code Section 84308 \nThe Light Rail Commission will award a construction contract \nfor $25 million. \nOne of the bidders gave a $500 contribution to \na member. \nHow does 2 Cal. Adm. Code Section 18438.2's statement \nthat awards of contracts aren't \"applications for licenses, \npermits, or other entitlements for use\" apply? \nIf the award of the contract is: \n1. \nUnder competitive bidding, or \n2. \nTotaly discretionary, then the action is \nquasi-legislative and comes within the meaning of 2 Cal. \nAdm. Code Section 18438(b) • \nIf the person involved has a legal right regarding the \ncontract (for example, if he or she was denied a contract under \ncompetitive bidding) the decision concerning this is \nquasi-judicial. \nJSM:plh \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "One of the bidders gave a $500 contribution to a member. How does 2 Cal. Adm. Code Section 18438.2's statement that awards of contracts aren't \"applications for licenses, permits, or other entitlements for use\" apply?",
+    "conclusion": "If the award of the contract is: 1. Under competitive bidding, or 2. Totally discretionary, then the action is quasi-legislative and comes within the meaning of 2 Cal. Adm. Code Section 18438(b). If the person involved has a legal right regarding the contract (for example, if he or she was denied a contract under competitive bidding) the decision concerning this is quasi-judicial.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a contract award by the Light Rail Commission for a $25 million construction project, where one bidder made a $500 contribution to a member, qualifies as an application for licenses, permits, or other entitlements under 2 Cal. Adm. Code Section 18438.2.",
+    "conclusion_synthetic": "Contract awards are quasi-legislative in nature and fall within Section 18438(b) whether made through competitive bidding or total discretion. However, if a person has a legal right regarding the contract (such as being denied a contract under competitive bidding), the decision becomes quasi-judicial.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is a memorandum to file from FPPC staff member Janis Shank McLean. No formal QUESTION or CONCLUSION section headers present; question and conclusion content extracted from body text. Parsing succeeded despite lack of standard section formatting."
+  },
+  "citations": {
+    "government_code": [
+      "84308"
+    ],
+    "regulations": [],
+    "prior_opinions": [
+      "I-83-221"
+    ],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:36:52.165738Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: One of the bidders gave a $500 contribution to a member. How does 2 Cal. Adm. Code Section 18438.2's statement that awards of contracts aren't \"applications for licenses, permits, or other entitlements for use\" apply?\n\nCONCLUSION: If the award of the contract is: 1. Under competitive bidding, or 2. Totally discretionary, then the action is quasi-legislative and comes within the meaning of 2 Cal. Adm. Code Section 18438(b). If the person involved has a legal right regarding the contract (for example, if he or she was denied a contract under competitive bidding) the decision concerning this is quasi-judicial.",
+    "qa_source": "mixed",
+    "first_500_words": "State of California Memorandum To File Date Sept. 29, 1983 No. 1.\\-1-83-221 From : FAIR POLITICAL PRACTICES COMMISSION Janis Shank McLean ~ Subject: Awards of Contracts Under Gov. Code Section 84308 The Light Rail Commission will award a construction contract for $25 million. One of the bidders gave a $500 contribution to a member. How does 2 Cal. Adm. Code Section 18438.2's statement that awards of contracts aren't \"applications for licenses, permits, or other entitlements for use\" apply? If the award of the contract is: 1. Under competitive bidding, or 2. Totaly discretionary, then the action is quasi-legislative and comes within the meaning of 2 Cal. Adm. Code Section 18438(b) • If the person involved has a legal right regarding the contract (for example, if he or she was denied a contract under competitive bidding) the decision concerning this is quasi-judicial. JSM:plh",
+    "summary": "The FPPC advises on the application of Government Code Section 84308 regarding contract awards by the Light Rail Commission, clarifying that such awards constitute quasi-legislative actions under competitive bidding or discretionary circumstances, but become quasi-judicial if a party has a legal right regarding the contract."
+  }
+}

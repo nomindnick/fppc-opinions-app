@@ -1,0 +1,75 @@
+{
+  "id": "75146",
+  "year": 1975,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1975/75146.PDF",
+  "pdf_sha256": "1fbe9a699fabaf89b1c5fc91e0efb4fe0bf9f0d892b07dc3fb6a38115be82af0",
+  "local_pdf_path": "raw_pdfs/1975/75146.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1975 Advice Letter # 75146",
+    "tags": [
+      "1975",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:14:08",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1975&tagCount=1&page=5"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:23.387694Z",
+    "page_count": 1,
+    "word_count": 216,
+    "char_count": 1405,
+    "quality_score": 0.7150000000000001,
+    "olmocr_cost": null,
+    "native_word_count": 216
+  },
+  "content": {
+    "full_text": "MEMO TO FILE \nOctober 24, 1975 \nRE: \nTelephone inquiry re Section 18202 \nFROM: \nNatalie \nFROM: \nRon Gastelum \nMetropolitan Water District \nLos Angeles \nQuasi-legislative proceeding under Section 82002 \n(administrative action) and 2 Cal. Admin. Code \nSection 18202. \nMetropolitan Water District negotiates with \nthe California Department of Water Resources \nconcerning allocating expenditures on the state \nwater contract. \nThe amount of water that the District will \npurchase from the state is established under a \npre-existing contract. \nHowever, each year the \nDistrict incurs certain expenses in planning, \nengineering, etc., which they are allowed to deduct \nfrom the purchase price paid to DWR. \nNegotiations \nare carried on between the District and DWR to \ndetermine how much of a deduction will be allowed. \nQuestion: \nAre these negotiations a \"quasi-\nlegislative proceeding\" and thus subject to Prop. 9? \nAnswer: \nIn my opinion these negotiations are \ncarried on to determine the rights of the respective \nparties under a pre-existing contract, and would not \nbe quasi-legislative. \nHowever, our regulation does \nnot specifically address this kind of question .... \nIt may come within (a) (1) or (a) (4) of 18202. \nI told him that he can request an opinion if he \nwants a formal answer - or that I will send him an \n'informal written answer if he sends a letter setting \nout more specific facts. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1975-10-24",
+    "date_raw": "October 24, 1975",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "Are these negotiations a \"quasi-\nlegislative proceeding\" and thus subject to Prop. 9? \nAnswer: \nIn my opinion these negotiations are \ncarried on to determine the rights of the respective \nparties under a pre-existing contract, and would not \nbe quasi-legislative. \nHowever, our regulation does \nnot specifically address this kind of question .... \nIt may come within (a) (1) or (a) (4) of 18202. \nI told him that he can request an opinion if he \nwants a formal answer - or that I will send him an \n'informal written answer if he sends a letter setting \nout more specific facts.",
+    "conclusion": "In my opinion these negotiations are carried on to determine the rights of the respective parties under a pre-existing contract, and would not be quasi-legislative. However, our regulation does not specifically address this kind of question .... It may come within (a) (1) or (a) (4) of 18202.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether negotiations between the Metropolitan Water District and California Department of Water Resources regarding allocation of expenditures on a state water contract constitute a quasi-legislative proceeding subject to Proposition 9.",
+    "conclusion_synthetic": "The negotiations are likely not quasi-legislative in nature since they determine rights under a pre-existing contract; however, the regulation does not specifically address this situation and it may fall within certain subsections of Section 18202.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern; LLM: Internal memo documenting informal telephone inquiry and staff response; not a formal advice letter format. Question and answer sections are present but in informal memo style. Document appears to be staff note-to-file rather than official FPPC correspondence."
+  },
+  "citations": {
+    "government_code": [
+      "82002"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [
+      "75165"
+    ],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:37:23.387694Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Are these negotiations a \"quasi-\nlegislative proceeding\" and thus subject to Prop. 9? \nAnswer: \nIn my opinion these negotiations are \ncarried on to determine the rights of the respective \nparties under a pre-existing contract, and would not \nbe quasi-legislative. \nHowever, our regulation does \nnot specifically address this kind of question .... \nIt may come within (a) (1) or (a) (4) of 18202. \nI told him that he can request an opinion if he \nwants a formal answer - or that I will send him an \n'informal written answer if he sends a letter setting \nout more specific facts.\n\nCONCLUSION: In my opinion these negotiations are carried on to determine the rights of the respective parties under a pre-existing contract, and would not be quasi-legislative. However, our regulation does not specifically address this kind of question .... It may come within (a) (1) or (a) (4) of 18202.",
+    "qa_source": "mixed",
+    "first_500_words": "MEMO TO FILE October 24, 1975 RE: Telephone inquiry re Section 18202 FROM: Natalie FROM: Ron Gastelum Metropolitan Water District Los Angeles Quasi-legislative proceeding under Section 82002 (administrative action) and 2 Cal. Admin. Code Section 18202. Metropolitan Water District negotiates with the California Department of Water Resources concerning allocating expenditures on the state water contract. The amount of water that the District will purchase from the state is established under a pre-existing contract. However, each year the District incurs certain expenses in planning, engineering, etc., which they are allowed to deduct from the purchase price paid to DWR. Negotiations are carried on between the District and DWR to determine how much of a deduction will be allowed. Question: Are these negotiations a \"quasi- legislative proceeding\" and thus subject to Prop. 9? Answer: In my opinion these negotiations are carried on to determine the rights of the respective parties under a pre-existing contract, and would not be quasi-legislative. However, our regulation does not specifically address this kind of question .... It may come within (a) (1) or (a) (4) of 18202. I told him that he can request an opinion if he wants a formal answer - or that I will send him an 'informal written answer if he sends a letter setting out more specific facts.",
+    "summary": "FPPC staff memo documenting a telephone inquiry from the Metropolitan Water District regarding whether contract negotiations with the California Department of Water Resources constitute a quasi-legislative proceeding under Proposition 9. Staff provided an informal preliminary opinion that the negotiations likely do not qualify as quasi-legislative but noted regulatory ambiguity."
+  }
+}

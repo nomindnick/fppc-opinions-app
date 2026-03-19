@@ -1,0 +1,71 @@
+{
+  "id": "88157",
+  "year": 1988,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1988/fppc-advice/88157.PDF",
+  "pdf_sha256": "bdc91d90492567e2cb27819b8ed1f45405d28a8edde22ce49fc2f31db35d93d7",
+  "local_pdf_path": "raw_pdfs/1988/88157.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1988 Advice Letter # 88157",
+    "tags": [
+      "1988",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:57:46",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1988&tagCount=1&page=2"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T21:14:16.779356Z",
+    "page_count": 1,
+    "word_count": 136,
+    "char_count": 779,
+    "quality_score": 0.844197213622291,
+    "olmocr_cost": 0.00252324,
+    "native_word_count": 140
+  },
+  "content": {
+    "full_text": "MEMORANDUM\n\nTO: File\nRE: Telephone advice to John Calhoun, City Attorney, Long Beach\n    April 26, 27, 1988\nFROM: Bruce W. Robeck\n\nFACTS The spouse of a city councilman died after a prolonged illness. On or about the time of the funeral ceremony, an unknown male left $2,000 in cash in the mortuary office with the verbal instructions to contribute the money toward the costs of the funeral.\n\nQUESTIONS\n1. Is the gift reportable by the city councilman on his statement of economic interests?\n2. If yes to above question, how should it be reported?\n\nANSWERS\n1. Yes, it is reportable on the filer's statement of economic interests as a gift.\n\n2. List the date and the amount of the gift and list the source as \"unknown.\" Include an explanatory note about why the source is unknown.",
+    "full_text_markdown": "MEMORANDUM\n\nTO: File\nRE: Telephone advice to John Calhoun, City Attorney, Long Beach\n    April 26, 27, 1988\nFROM: Bruce W. Robeck\n\nFACTS The spouse of a city councilman died after a prolonged illness. On or about the time of the funeral ceremony, an unknown male left $2,000 in cash in the mortuary office with the verbal instructions to contribute the money toward the costs of the funeral.\n\nQUESTIONS\n1. Is the gift reportable by the city councilman on his statement of economic interests?\n2. If yes to above question, how should it be reported?\n\nANSWERS\n1. Yes, it is reportable on the filer's statement of economic interests as a gift.\n\n2. List the date and the amount of the gift and list the source as \"unknown.\" Include an explanatory note about why the source is unknown."
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": "City Attorney",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "1. Is the gift reportable by the city councilman on his statement of economic interests?\n2. If yes to above question, how should it be reported?",
+    "conclusion": "Yes, it is reportable on the filer's statement of economic interests as a gift.\n\n2. List the date and the amount of the gift and list the source as \"unknown.\" Include an explanatory note about why the source is unknown.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.85,
+    "has_standard_format": true,
+    "parsing_notes": "Mixed formats: modern, numbered"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T21:14:16.779356Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: 1. Is the gift reportable by the city councilman on his statement of economic interests?\n2. If yes to above question, how should it be reported?\n\nCONCLUSION: Yes, it is reportable on the filer's statement of economic interests as a gift.\n\n2. List the date and the amount of the gift and list the source as \"unknown.\" Include an explanatory note about why the source is unknown.",
+    "qa_source": "extracted",
+    "first_500_words": "MEMORANDUM TO: File RE: Telephone advice to John Calhoun, City Attorney, Long Beach April 26, 27, 1988 FROM: Bruce W. Robeck FACTS The spouse of a city councilman died after a prolonged illness. On or about the time of the funeral ceremony, an unknown male left $2,000 in cash in the mortuary office with the verbal instructions to contribute the money toward the costs of the funeral. QUESTIONS 1. Is the gift reportable by the city councilman on his statement of economic interests? 2. If yes to above question, how should it be reported? ANSWERS 1. Yes, it is reportable on the filer's statement of economic interests as a gift. 2. List the date and the amount of the gift and list the source as \"unknown.\" Include an explanatory note about why the source is unknown.",
+    "summary": null
+  }
+}

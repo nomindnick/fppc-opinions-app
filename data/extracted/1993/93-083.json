@@ -1,0 +1,75 @@
+{
+  "id": "93-083",
+  "year": 1993,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1993/93-083.pdf",
+  "pdf_sha256": "0f60eb3abc1cf593ebe45cbed43b28d2ea791c4d518d6abc7c6095e40c525ddb",
+  "local_pdf_path": "raw_pdfs/1993/93-083.pdf",
+  "source_metadata": {
+    "title_raw": "SD, Railroad Year: 1993 Advice Letter # 93-083",
+    "tags": [
+      "1993",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:31:17",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1993&tagCount=1&page=5"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:05.815957Z",
+    "page_count": 2,
+    "word_count": 342,
+    "char_count": 2117,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 342
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\nMarch 11,\n1993\nKay B.\nCarter\nExecutive Director\nSan Diego Railroad Museum\n1050 Kettner Boulevard\nSan Diego, California\n92101\nRe:\nYour Request for Advice\nOur File No.\n1—93-083\nDear Ms. Carter:\nYou have requested advice regarding the personal use\nprovisions of the Political Reform Act\n(the “Act”)\n1\n,\nspecifically as they pertain to the use of the surplus campaign\nfunds of former State Senator James Mills.\nYou are the Executive Director of the San Diego Railroad\nMuseum Association\n(“museum”).\nSenator James Mills is being\nconsidered for a paid position on the museum board.\nSenator Mills\nhas offered to donate “surplus” campaign funds to the museum.\nDuring our telephone conversation on February 23,\n1993,\nI\ninformed you that since you are not requesting advice on behalf of\nSenator Mills,\nI could not advise you regarding the proper use of\nhis campaign funds.\n2\nFurthermore,\nSection 89519 only governs the use of “surplus”\ncampaign funds raised after January 1,\n1989.\nElections Code\nSection 12400,\nwhich is under the jurisdiction of the Attorney\nGeneral’s office,\ngoverns the use of surplus campaign funds raised\nprior to January 1,\n1989.\n1\nGovernment Code Sections 81000—91015.\nAll statutory references\nare to the Government Code unless otherwise indicated.\nCommission\nregulations appear at\n2 California Code of Regulations Section\n18000\ng.\nAll references to regulations are to Title 2,\nDivision\n6 of the California Code of Regulations.\n2\nThe Commission may decline to provide informal assistance or\nmay limit such assistance to the explanation,\nin general terms,\nof\nthe requirements of the Act when advice is being sought regarding\nthe duties of another person and the requestor does not appear to\nbe authorized to make the request as the person’s representative.\n(Government Code Section 83114;\n2 Cal.\nCode of Regs.\nSection 18329(c) (4) (C).)\n428 J Street, Suite 800 •\nP.O. Box 807 •\nSacramento, CA\n95812 •\n(916) 322-5660\n\n\nOur File No.\n1-93-083\nPage\n2\nI hope this is of assistance to you.\nSincerely,\nJeff Marschner\nGeneral Counsel\nBy:\nier\nLegal Division\nJM:JS:dl\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1993-03-11",
+    "date_raw": "March 11,\n1993",
+    "requestor_name": "Carter",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Can surplus campaign funds from former State Senator James Mills be donated to the San Diego Railroad Museum Association, and what rules govern the use of such funds?",
+    "conclusion_synthetic": "The FPPC declines to provide advice on behalf of Senator Mills' campaign fund usage since the requestor is not authorized to seek such advice on his behalf. The FPPC notes that Government Code Section 89519 governs surplus funds raised after January 1, 1989, while Elections Code Section 12400 (under Attorney General jurisdiction) governs surplus funds raised before that date.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document lacks traditional QUESTION and CONCLUSION section headers. Appears to be a declination or limitation of advice letter. The FPPC provides regulatory guidance but explicitly declines to advise on the specifics of the campaign fund donation."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "83114",
+      "89519"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "gifts_honoraria",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.6666666666666666,
+    "classified_at": "2026-02-06T18:35:05.815957Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Can surplus campaign funds from former State Senator James Mills be donated to the San Diego Railroad Museum Association, and what rules govern the use of such funds?\n\nCONCLUSION: The FPPC declines to provide advice on behalf of Senator Mills' campaign fund usage since the requestor is not authorized to seek such advice on his behalf. The FPPC notes that Government Code Section 89519 governs surplus funds raised after January 1, 1989, while Elections Code Section 12400 (under Attorney General jurisdiction) governs surplus funds raised before that date.",
+    "qa_source": "synthetic",
+    "first_500_words": "California Fair Political Practices Commission March 11, 1993 Kay B. Carter Executive Director San Diego Railroad Museum 1050 Kettner Boulevard San Diego, California 92101 Re: Your Request for Advice Our File No. 1—93-083 Dear Ms. Carter: You have requested advice regarding the personal use provisions of the Political Reform Act (the “Act”) 1 , specifically as they pertain to the use of the surplus campaign funds of former State Senator James Mills. You are the Executive Director of the San Diego Railroad Museum Association (“museum”). Senator James Mills is being considered for a paid position on the museum board. Senator Mills has offered to donate “surplus” campaign funds to the museum. During our telephone conversation on February 23, 1993, I informed you that since you are not requesting advice on behalf of Senator Mills, I could not advise you regarding the proper use of his campaign funds. 2 Furthermore, Section 89519 only governs the use of “surplus” campaign funds raised after January 1, 1989. Elections Code Section 12400, which is under the jurisdiction of the Attorney General’s office, governs the use of surplus campaign funds raised prior to January 1, 1989. 1 Government Code Sections 81000—91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations Section 18000 g. All references to regulations are to Title 2, Division 6 of the California Code of Regulations. 2 The Commission may decline to provide informal assistance or may limit such assistance to the explanation, in general terms, of the requirements of the Act when advice is being sought regarding the duties of another person and the requestor does not appear to be authorized to make the request as the person’s representative. (Government Code Section 83114; 2 Cal. Code of Regs. Section 18329(c) (4) (C).) 428 J Street, Suite 800 • P.O. Box 807 • Sacramento, CA 95812 • (916) 322-5660 Our File No. 1-93-083 Page 2 I hope this is of assistance to you. Sincerely, Jeff Marschner General Counsel By: ier Legal Division JM:JS:dl",
+    "summary": "The FPPC responds to a request regarding the donation of surplus campaign funds from former State Senator James Mills to the San Diego Railroad Museum. The Commission declines to provide advice on the proper use of Senator Mills' campaign funds, as the requestor is not authorized to make the request on his behalf."
+  }
+}

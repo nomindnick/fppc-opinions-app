@@ -1,0 +1,71 @@
+{
+  "id": "79-164",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-164.PDF",
+  "pdf_sha256": "d3c2869105336844118f463a6e4cc08c77c7945fca5d954bbcc9155e3a05d97c",
+  "local_pdf_path": "raw_pdfs/1979/79-164.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1979 Advice Letter # 79-164",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:26:49",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=20"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:08.115451Z",
+    "page_count": 1,
+    "word_count": 198,
+    "char_count": 1206,
+    "quality_score": 0.55,
+    "olmocr_cost": null,
+    "native_word_count": 198
+  },
+  "content": {
+    "full_text": "Federal preemption \n2 U.S.C. 431(b) provides that a person is a candidate \nunder the Federal Election Campaign Act if he seeks nomination or \nelection to a federal elective office. \nThe FEC has provided by \nregulation that a person is not a candidate if he does not actually \nseek nomination to an office. \nThus, funds raised to \"test the \nwater\" by a person who ultimately does not seek nomination to an \noffice are not reportable. \nThe question arose as to whether California was pre-\nempted from requiring reporting of federal testing the water \nmoney. \nNancy Simmons of the FEC in consultation with the general counsel \nadvised me that California clearly could require that state campaign \nstatements be amended to disclose federal testing the water money \nwhen the person did not become a federal candidate. \nIf California \nwishes to require the federal testing the water money to be reported \nprior to the time that the person knows whether or not he will ulti-\nmately be a federal candidate, she suggested that we write for a \ngeneral counsel's opinion. \nShe indicated that they might hold that \nCalifornia would not be preempted until the person in question actually \nbecomes a federal candidate. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": "general counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Is California preempted by federal law from requiring the disclosure of federal 'testing the water' funds raised by persons who do not ultimately become federal candidates?",
+    "conclusion_synthetic": "California can clearly require state campaign statements to be amended to disclose federal testing the water money when a person does not become a federal candidate. If California wishes to require reporting of such funds before the person decides whether to become a candidate, the FEC general counsel should be consulted, as they may hold that preemption does not apply until the person actually becomes a federal candidate.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.75,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document lacks traditional QUESTION/CONCLUSION section headers but contains analysis and conclusions. The document appears to be internal FPPC analysis rather than a formal response letter. No formal question statement is presented verbatim. Content discusses federal preemption and consultation with FEC."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:08.115451Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Is California preempted by federal law from requiring the disclosure of federal 'testing the water' funds raised by persons who do not ultimately become federal candidates?\n\nCONCLUSION: California can clearly require state campaign statements to be amended to disclose federal testing the water money when a person does not become a federal candidate. If California wishes to require reporting of such funds before the person decides whether to become a candidate, the FEC general counsel should be consulted, as they may hold that preemption does not apply until the person actually becomes a federal candidate.",
+    "qa_source": "synthetic",
+    "first_500_words": "Federal preemption 2 U.S.C. 431(b) provides that a person is a candidate under the Federal Election Campaign Act if he seeks nomination or election to a federal elective office. The FEC has provided by regulation that a person is not a candidate if he does not actually seek nomination to an office. Thus, funds raised to \"test the water\" by a person who ultimately does not seek nomination to an office are not reportable. The question arose as to whether California was pre- empted from requiring reporting of federal testing the water money. Nancy Simmons of the FEC in consultation with the general counsel advised me that California clearly could require that state campaign statements be amended to disclose federal testing the water money when the person did not become a federal candidate. If California wishes to require the federal testing the water money to be reported prior to the time that the person knows whether or not he will ulti- mately be a federal candidate, she suggested that we write for a general counsel's opinion. She indicated that they might hold that California would not be preempted until the person in question actually becomes a federal candidate.",
+    "summary": "This FPPC advice letter addresses whether California is preempted from requiring disclosure of federal 'testing the water' campaign funds under the Federal Election Campaign Act, consulting with the FEC on the preemption issue."
+  }
+}

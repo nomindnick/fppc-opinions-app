@@ -1,0 +1,76 @@
+{
+  "id": "13-148",
+  "year": 2013,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2013/13-148.pdf",
+  "pdf_sha256": "09b8c3fe493dcf97f59d64d676d2e9a4c7069055d136ed3d2bf7c3b404479019",
+  "local_pdf_path": "raw_pdfs/2013/13-148.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2013 Advice Letter # 13-148",
+    "tags": [
+      "Advice Letter",
+      "2013"
+    ],
+    "scraped_at": "2026-01-31 14:56:17",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2013&tagCount=1&page=8"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:33:38.458380Z",
+    "page_count": 2,
+    "word_count": 405,
+    "char_count": 2597,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 405
+  },
+  "content": {
+    "full_text": "FAIR POLITICAL PRACTICES CoMMrss10N \n428 J Street • Suite 620 • Sacramento, CA 95814-2329 \nLysa Ray, President \nLysa Ray Campaign Services \n603 E. Alton A venue, Suite H \nSanta Ana, CA 92705 \n(916) 322-5660 • Fax (916) 322-0886 \nDecember 4, 2013 \nRe: \nYour Request for Informal Assistance \nOur File No. 1-13-148 \nDear Ms. Ray: \nThis letter responds to your request for advice on behalf of the committee .. Friends of \nBob Roper for County Supervisor 2012\" regarding campaign finance provisions of the Political \nReform Act (the \"Act\").1 Please note that our advice is based solely on the Act. We therefore \noffer no opinion on the application, if any, of additional local campaign finance rules. We advise \nyou to check with your local jurisdiction regarding the applicability of other requirements and \n. . \n, \nrestnct1ons. \n¥ \nYou wish to re-activate the committee, .. Friends of Bob Roper for County Supervisor \n2012 #1343307 in order to repay campaign debt. This is a county committee therefore the \nrequirements under Regulation 18404.1 do not apply. Regulation 18404. l only applies to \ncommittees formed for state offices. \nConsequently, if local ordinances permit you to reopen your committee, you would \nmerely need to file an amended Form 410 (Statement of Organization) with the Secretary of \nState's office. \n1 The Political Reform Act is contained in Government Code Sections 81000 through 91014. All statutory \nreferences are to the Government Code, unless otherwise indicated. The regulations of the Fair Political Practices \nCommission arc contained in Sections 18110 through 18997 of Title 2 of the California Code of Regulations. All \nregulatory references arc to Title 2, Division 6 of the California Code of Regulations, unless otherwise indicated. \ni For instance, we note that Ventura County Ordinance Code Section 1280 applies restrictions on when \ncontributions may be collected. fl states that \"[n]cither a county candidate, elected county officials, nor any \ncommittee controlled by the candidate may receive any contributions more than one year before and 90 days after an \nelection on which the candidate is on the ballot except for contributions of the candidate's own money to the \ncandidate's controlled committee account,\" We suggest that you contact your local elections office to determine if \nthis or any other local provisions apply tu your situation. \n\n\nER:jgl \nFile No. 1-13-148 \nPage No. 2 \nIf you have other questions on this matter, please contact me at (916) 322-5660. \nSincerely, \nZackery P. Morazzini \nGeneral Counsel \n\u0004t:A'\u0005o \nCounsel, Legal Division \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2013-12-04",
+    "date_raw": "December 4, 2013",
+    "requestor_name": "Ray",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "informal_advice"
+  },
+  "sections": {
+    "question": "How can the committee 'Friends of Bob Roper for County Supervisor 2012 #1343307' be re-activated in order to repay campaign debt?",
+    "conclusion": "If local ordinances permit you to reopen your committee, you would merely need to file an amended Form 410 (Statement of Organization) with the Secretary of State's office. Regulation 18404.1 does not apply because this is a county committee, not a committee formed for state offices.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requester asks how to re-activate a county committee formed for a prior campaign in order to repay outstanding campaign debt.",
+    "conclusion_synthetic": "The FPPC advises that the county committee can be re-activated by filing an amended Form 410 with the Secretary of State, provided local ordinances permit reopening; Regulation 18404.1 does not apply to county-level committees.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Standard FPPC advice letter with clear question and conclusion sections. Document includes relevant regulatory references and footnotes regarding local ordinance applicability. No significant extraction challenges."
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [
+      "18404",
+      "18404.1"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:33:38.458380Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: How can the committee 'Friends of Bob Roper for County Supervisor 2012 #1343307' be re-activated in order to repay campaign debt?\n\nCONCLUSION: If local ordinances permit you to reopen your committee, you would merely need to file an amended Form 410 (Statement of Organization) with the Secretary of State's office. Regulation 18404.1 does not apply because this is a county committee, not a committee formed for state offices.",
+    "qa_source": "mixed",
+    "first_500_words": "FAIR POLITICAL PRACTICES CoMMrss10N 428 J Street • Suite 620 • Sacramento, CA 95814-2329 Lysa Ray, President Lysa Ray Campaign Services 603 E. Alton A venue, Suite H Santa Ana, CA 92705 (916) 322-5660 • Fax (916) 322-0886 December 4, 2013 Re: Your Request for Informal Assistance Our File No. 1-13-148 Dear Ms. Ray: This letter responds to your request for advice on behalf of the committee .. Friends of Bob Roper for County Supervisor 2012\" regarding campaign finance provisions of the Political Reform Act (the \"Act\").1 Please note that our advice is based solely on the Act. We therefore offer no opinion on the application, if any, of additional local campaign finance rules. We advise you to check with your local jurisdiction regarding the applicability of other requirements and . . , restnct1ons. ¥ You wish to re-activate the committee, .. Friends of Bob Roper for County Supervisor 2012 #1343307 in order to repay campaign debt. This is a county committee therefore the requirements under Regulation 18404.1 do not apply. Regulation 18404. l only applies to committees formed for state offices. Consequently, if local ordinances permit you to reopen your committee, you would merely need to file an amended Form 410 (Statement of Organization) with the Secretary of State's office. 1 The Political Reform Act is contained in Government Code Sections 81000 through 91014. All statutory references are to the Government Code, unless otherwise indicated. The regulations of the Fair Political Practices Commission arc contained in Sections 18110 through 18997 of Title 2 of the California Code of Regulations. All regulatory references arc to Title 2, Division 6 of the California Code of Regulations, unless otherwise indicated. i For instance, we note that Ventura County Ordinance Code Section 1280 applies restrictions on when contributions may be collected. fl states that \"[n]cither a county candidate, elected county officials, nor any committee controlled by the candidate may receive any contributions more than one year before and 90 days after an election on which the candidate is on the ballot except for contributions of the candidate's own money to the candidate's controlled committee account,\" We suggest that you contact your local elections office to determine if this or any other local provisions apply tu your situation. ER:jgl File No. 1-13-148 Page No. 2 If you have other questions on this matter, please contact me at (916) 322-5660. Sincerely, Zackery P. Morazzini General Counsel \u0004t:A'\u0005o Counsel, Legal Division",
+    "summary": "The FPPC advises Lysa Ray on behalf of the 'Friends of Bob Roper for County Supervisor 2012' committee regarding procedures to re-activate the committee to repay campaign debt. The FPPC concludes that an amended Form 410 filing is sufficient, as Regulation 18404.1 applies only to state-level committees."
+  }
+}

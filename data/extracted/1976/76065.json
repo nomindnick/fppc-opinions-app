@@ -1,0 +1,71 @@
+{
+  "id": "76065",
+  "year": 1976,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1976/76065.PDF",
+  "pdf_sha256": "9ca0de149e1702750fb6eb7151b5301ffc1eaf7f56bc7e473b1e172baaad004c",
+  "local_pdf_path": "raw_pdfs/1976/76065.PDF",
+  "source_metadata": {
+    "title_raw": "ADAMS, BRUCE Year: 1976 Advice Letter # 76065",
+    "tags": [
+      "1976",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:17:45",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1976&tagCount=1&page=43"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:21.670145Z",
+    "page_count": 1,
+    "word_count": 207,
+    "char_count": 1356,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 207
+  },
+  "content": {
+    "full_text": "May 12, 1976 \nMr. Bruce Adams \nCoopers and Lybrand \nOne Bush Street \nSan Francisco, Californi~ \nDear Mr. Adams: \nThis letter is to confirm our telephone conversation of May 10, \n1976, concerning campaig~ disclosure requirements of the Political \nReform Act. \nYou stated the following facts: \n(1) The California Labor \nFederation plans to sendHto its members, at a cost which will \nexceed $500, a letter st_ting its position on Proposition 15; \n(2) there has been no coqperation, mutual understanding or agree-\nment between the California Labor Federation and its political \narm, COPE, with regard tq the mailing; (J) although the Federation \nwill pay for the mailing ,from membership dues, no portion of the \ndues was earmarked for pqlitical purposes when collected; and \n(4) the Federation has n,ver used dues for political purposes. \nI informed you that unde~ these circumstances, the Federation will \nbecome a committee under~overnment Code Section 8201J(b) and \nshould file Form 460 to ~eport the costs directly attributable to \nthe communication. \nEnclqsed is a copy of 2 Cal. Adm. Code \nSection 18225 which discqsses the items which should be included \nin computing the cost of ~he mailing. \n,.. \nIf you have further quest~ons, please contact our staff. \nNH:mak \nEnclosure \nbee: \nJeanne \nSincerely, \nNAN HAMBLETON \nSpecial Compliance Representative \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1976-05-12",
+    "date_raw": "May 12, 1976",
+    "requestor_name": "Adams",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "I informed you that under these circumstances, the Federation will become a committee under Government Code Section 82013(b) and should file Form 460 to report the costs directly attributable to the communication.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Does the California Labor Federation's planned mailing to members regarding Proposition 15, costing over $500, trigger campaign disclosure requirements under the Political Reform Act, and what reporting obligations arise?",
+    "conclusion_synthetic": "The California Labor Federation must register as a committee under Government Code Section 82013(b) and file Form 460 to report the costs directly attributable to the Proposition 15 communication mailing.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document lacks formal QUESTION and CONCLUSION section headers but contains substantive Q&A in narrative format. Facts are clearly stated and advice is explicitly provided. Minor document quality issues (some characters appear corrupted or unclear) but core content is extractable."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:21.670145Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Does the California Labor Federation's planned mailing to members regarding Proposition 15, costing over $500, trigger campaign disclosure requirements under the Political Reform Act, and what reporting obligations arise?\n\nCONCLUSION: I informed you that under these circumstances, the Federation will become a committee under Government Code Section 82013(b) and should file Form 460 to report the costs directly attributable to the communication.",
+    "qa_source": "mixed",
+    "first_500_words": "May 12, 1976 Mr. Bruce Adams Coopers and Lybrand One Bush Street San Francisco, Californi~ Dear Mr. Adams: This letter is to confirm our telephone conversation of May 10, 1976, concerning campaig~ disclosure requirements of the Political Reform Act. You stated the following facts: (1) The California Labor Federation plans to sendHto its members, at a cost which will exceed $500, a letter st_ting its position on Proposition 15; (2) there has been no coqperation, mutual understanding or agree- ment between the California Labor Federation and its political arm, COPE, with regard tq the mailing; (J) although the Federation will pay for the mailing ,from membership dues, no portion of the dues was earmarked for pqlitical purposes when collected; and (4) the Federation has n,ver used dues for political purposes. I informed you that unde~ these circumstances, the Federation will become a committee under~overnment Code Section 8201J(b) and should file Form 460 to ~eport the costs directly attributable to the communication. Enclqsed is a copy of 2 Cal. Adm. Code Section 18225 which discqsses the items which should be included in computing the cost of ~he mailing. ,.. If you have further quest~ons, please contact our staff. NH:mak Enclosure bee: Jeanne Sincerely, NAN HAMBLETON Special Compliance Representative",
+    "summary": "FPPC advises that the California Labor Federation's planned mailing to members regarding Proposition 15, exceeding $500 in cost, triggers campaign committee registration and Form 460 reporting requirements under the Political Reform Act. The FPPC provides guidance on what costs should be included in the disclosure calculation."
+  }
+}

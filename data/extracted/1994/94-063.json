@@ -1,0 +1,73 @@
+{
+  "id": "94-063",
+  "year": 1994,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1994/94-063.pdf",
+  "pdf_sha256": "74700c010efd97ceeced223463b957bf494c21833241a273a4c271c4f1e73a90",
+  "local_pdf_path": "raw_pdfs/1994/94-063.pdf",
+  "source_metadata": {
+    "title_raw": "Kopp, Quentin Year: 1994 Advice Letter # 94-063",
+    "tags": [
+      "1994",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:34:20",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1994&tagCount=1&page=4"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:01.177739Z",
+    "page_count": 1,
+    "word_count": 182,
+    "char_count": 1180,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 182
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\nMarch 18,\n1994\nHonorable Quentin L.\nKopp\nMember of the Senate\nState Capitol\nSacramento,\nCA\n94814\nRe:\nYour Request for Confirmation\nof Telephone Advice\nOur File No.\nA-94-063\nDear Senator Kopp:\nYou have requested confirmation of telephone advice provided\nto you concerning the campaign provisions of the Political Reform\nAct.\n(Government Code Sections 81000-91015.)\nThis will confirm that your letter dated February 23,\n1994,\naccurately summarizes my advice that:\n1.\nThe Act does not prohibit you from controlling a ballot\nmeasure committee and does not limit the number of ballot measure\ncommittees you may control;\nand\n2.\nThe Kopp for Senate Committee may make monetary and/or\nnon-monetary contributions to the BART to the Airport Committee,\nincluding the donation of office space and/or inclusion of\nadvertising in a Kopp for Senate Committee billboard.\nIf you have additional questions, please do not hesitate to\ncontact me at\n(916)\n322—5662.\nSincerely,\nSteven G.\nChurchwell\nGeneral Counsel\n()\nBy:\nCarla Wardlow\nChief,\nTechnical Assistance\nDivision\n4S J Street, Suite SOO\n•\nP.O. Box SOT\n•\nSacramento, CA\n95804-0S07\n•\n(916) 32-566O\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1994-03-18",
+    "date_raw": "March 18,\n1994",
+    "requestor_name": "Kopp",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "The Act does not prohibit you from controlling a ballot measure committee and does not limit the number of ballot measure committees you may control; and The Kopp for Senate Committee may make monetary and/or non-monetary contributions to the BART to the Airport Committee, including the donation of office space and/or inclusion of advertising in a Kopp for Senate Committee billboard.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Senator Kopp seeks confirmation of telephone advice regarding whether the Political Reform Act prohibits him from controlling multiple ballot measure committees and whether his campaign committee may make monetary and non-monetary contributions to a ballot measure committee.",
+    "conclusion_synthetic": "The FPPC confirms that the Political Reform Act does not prohibit a legislator from controlling multiple ballot measure committees or limit the number such committees. A campaign committee may make monetary and non-monetary contributions to another committee, including in-kind donations of office space and advertising.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: No formal QUESTION/CONCLUSION section headers, but document clearly confirms prior telephone advice with two substantive rulings. Letter format with bracketed file number and proper FPPC letterhead."
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:35:01.177739Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Senator Kopp seeks confirmation of telephone advice regarding whether the Political Reform Act prohibits him from controlling multiple ballot measure committees and whether his campaign committee may make monetary and non-monetary contributions to a ballot measure committee.\n\nCONCLUSION: The Act does not prohibit you from controlling a ballot measure committee and does not limit the number of ballot measure committees you may control; and The Kopp for Senate Committee may make monetary and/or non-monetary contributions to the BART to the Airport Committee, including the donation of office space and/or inclusion of advertising in a Kopp for Senate Committee billboard.",
+    "qa_source": "mixed",
+    "first_500_words": "California Fair Political Practices Commission March 18, 1994 Honorable Quentin L. Kopp Member of the Senate State Capitol Sacramento, CA 94814 Re: Your Request for Confirmation of Telephone Advice Our File No. A-94-063 Dear Senator Kopp: You have requested confirmation of telephone advice provided to you concerning the campaign provisions of the Political Reform Act. (Government Code Sections 81000-91015.) This will confirm that your letter dated February 23, 1994, accurately summarizes my advice that: 1. The Act does not prohibit you from controlling a ballot measure committee and does not limit the number of ballot measure committees you may control; and 2. The Kopp for Senate Committee may make monetary and/or non-monetary contributions to the BART to the Airport Committee, including the donation of office space and/or inclusion of advertising in a Kopp for Senate Committee billboard. If you have additional questions, please do not hesitate to contact me at (916) 322—5662. Sincerely, Steven G. Churchwell General Counsel () By: Carla Wardlow Chief, Technical Assistance Division 4S J Street, Suite SOO • P.O. Box SOT • Sacramento, CA 95804-0S07 • (916) 32-566O",
+    "summary": "This is an FPPC confirmation letter to Senator Quentin Kopp confirming prior telephone advice regarding campaign committee contributions and control of ballot measure committees under the Political Reform Act."
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "82A193",
+  "year": 1982,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1982/82A193.PDF",
+  "pdf_sha256": "597c51517aa694b032f721b5cbfbd171790e7b7e0a0fba73a73f7d449f0fce56",
+  "local_pdf_path": "raw_pdfs/1982/82A193.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1982 Advice Letter # 82A193",
+    "tags": [
+      "1982",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:31:06",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1982&tagCount=1&page=21"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T14:31:07.199055Z",
+    "page_count": 1,
+    "word_count": 140,
+    "char_count": 853,
+    "quality_score": 0.8376978021978022,
+    "olmocr_cost": 0.0025301200000000003,
+    "native_word_count": 133
+  },
+  "content": {
+    "full_text": "TELEPHONE ADVICE\n\nAttorney: Alice Hughes\nDate: November 8, 1982\nAdvice Letter: A - 78 - 088\n\nPerson Requesting Advice\nBob Hauter of Assemblyman Nolan's office for Linda who is a field representative\n\nTelephone: 213/240-6330\n\nQuestion:\nDoes an Assemblyperson's field representative have to report gifts from her boyfriend who is in a partnership with a lobbyist. The partnership itself does not engage in lobbying. Her boyfriend has bought various things, such as flowers, dresses, etc. Also, he is taking her on a 1 week trip to Hawaii at Christmas time. Does she have to report these gifts?\n\nAdvice:\nAfter discussing this with Ted Prim and others staff members, I advised her that gifts received as a result of a bona fide dating relationship would not be reportable. However, if her friend was acting as an intermediary, the gifts would be reportable.",
+    "full_text_markdown": "TELEPHONE ADVICE\n\nAttorney: Alice Hughes\nDate: November 8, 1982\nAdvice Letter: A - 78 - 088\n\nPerson Requesting Advice\nBob Hauter of Assemblyman Nolan's office for Linda who is a field representative\n\nTelephone: 213/240-6330\n\nQuestion:\nDoes an Assemblyperson's field representative have to report gifts from her boyfriend who is in a partnership with a lobbyist. The partnership itself does not engage in lobbying. Her boyfriend has bought various things, such as flowers, dresses, etc. Also, he is taking her on a 1 week trip to Hawaii at Christmas time. Does she have to report these gifts?\n\nAdvice:\nAfter discussing this with Ted Prim and others staff members, I advised her that gifts received as a result of a bona fide dating relationship would not be reportable. However, if her friend was acting as an intermediary, the gifts would be reportable."
+  },
+  "parsed": {
+    "date": "1982-11-08",
+    "date_raw": "November 8, 1982",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Does an Assemblyperson's field representative have to report gifts from her boyfriend who is in a partnership with a lobbyist. The partnership itself does not engage in lobbying. Her boyfriend has bought various things, such as flowers, dresses, etc. Also, he is taking her on a 1 week trip to Hawaii at Christmas time. Does she have to report these gifts?\n\nAdvice:\nAfter discussing this with Ted Prim and others staff members, I advised her that gifts received as a result of a bona fide dating relationship would not be reportable. However, if her friend was acting as an intermediary, the gifts would be reportable.",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.44999999999999996,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-20T14:31:07.199055Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Does an Assemblyperson's field representative have to report gifts from her boyfriend who is in a partnership with a lobbyist. The partnership itself does not engage in lobbying. Her boyfriend has bought various things, such as flowers, dresses, etc. Also, he is taking her on a 1 week trip to Hawaii at Christmas time. Does she have to report these gifts?\n\nAdvice:\nAfter discussing this with Ted Prim and others staff members, I advised her that gifts received as a result of a bona fide dating relationship would not be reportable. However, if her friend was acting as an intermediary, the gifts would be reportable.",
+    "qa_source": "extracted",
+    "first_500_words": "TELEPHONE ADVICE Attorney: Alice Hughes Date: November 8, 1982 Advice Letter: A - 78 - 088 Person Requesting Advice Bob Hauter of Assemblyman Nolan's office for Linda who is a field representative Telephone: 213/240-6330 Question: Does an Assemblyperson's field representative have to report gifts from her boyfriend who is in a partnership with a lobbyist. The partnership itself does not engage in lobbying. Her boyfriend has bought various things, such as flowers, dresses, etc. Also, he is taking her on a 1 week trip to Hawaii at Christmas time. Does she have to report these gifts? Advice: After discussing this with Ted Prim and others staff members, I advised her that gifts received as a result of a bona fide dating relationship would not be reportable. However, if her friend was acting as an intermediary, the gifts would be reportable.",
+    "summary": null
+  }
+}

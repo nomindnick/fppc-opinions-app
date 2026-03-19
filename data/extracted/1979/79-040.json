@@ -1,0 +1,74 @@
+{
+  "id": "79-040",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-040.PDF",
+  "pdf_sha256": "a99164ca0d228cd0ea082f5b5508d3dd1ee09bb5fc9b716a87d76e57d73df04a",
+  "local_pdf_path": "raw_pdfs/1979/79-040.PDF",
+  "source_metadata": {
+    "title_raw": "BOONE, BETTY Year: 1979 Advice Letter # 79-040",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:26:39",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=18"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-27T17:21:49.086670Z",
+    "page_count": 1,
+    "word_count": 239,
+    "char_count": 1754,
+    "quality_score": 0.9182825377711538,
+    "olmocr_cost": 0.0025756999999999998,
+    "native_word_count": 6,
+    "haiku_cost": 0.00294
+  },
+  "content": {
+    "full_text": "State of California\n\nFair Political Practices Commission\nP.O. BOX 807 • SACRAMENTO 25804 • • • 1100 K STREET BUILDING, SACRAMENTO, 95814\n\nTechnical Assistance • • • Administration • • • Executive/Legal • • • Enforcement • • • Conflict of Interest\n(916) 322-5662          322-5660          322-5901          322-6441          322-6444\n\nMarch 13, 1979\n\nBetty Boone\nChief Deputy\nOffice of the San Diego\nCounty Counsel\n355 County Administration Center\n1600 Pacific Highway\nSan Diego, CA 92101\n\nDear Betty:\n\n     This will confirm today's telephone conversation.\n\n     You informed me that your husband is a sole practitioner.\nAs part of his activities, he defends criminal cases by\nappointment for the County of San Diego (\"County\"). He is\npaid by the County. You asked whether you were required to\ndisclose on your Statement of Economic Interests your com-\nmunity property share of the payments he receives from the\nCounty.\n\n     I advised you that the payments from the County were\nexcluded from the definition of income under Government Code\nSection 82030(b)(2). Although Government Code Section 82030(b)(2)\nexcludes \"salary\" from a state, local or federal government\nagency, the staff has interpreted salary to include payments\nsuch as those your husband received from the County for his\ncriminal defense work. Therefore, you do not have to disclose\nyour community property share of his County payments on your\nStatement of Economic Interests.\n\n     If you have any other questions or comments, please\ncall.\n\n                                   Sincerely,\n\n                                   [illegible]\n                                   Barbara Campbell\n                                   Counsel\n                                   Legal Division\n\nBC:kp",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1979-03-13",
+    "date_raw": "March 13, 1979",
+    "requestor_name": "BOONE",
+    "requestor_title": "County Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "You asked whether you were required to disclose on your Statement of Economic Interests your community property share of the payments he receives from the County.",
+    "conclusion": "The payments from the County were excluded from the definition of income under Government Code Section 82030(b)(2). Although Government Code Section 82030(b)(2) excludes \"salary\" from a state, local or federal government agency, the staff has interpreted salary to include payments such as those your husband received from the County for his criminal defense work. Therefore, you do not have to disclose your community property share of his County payments on your Statement of Economic Interests.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a person must disclose on their Statement of Economic Interests their community property share of their spouse's income from county-appointed criminal defense work.",
+    "conclusion_synthetic": "Payments from the County for criminal defense work are excluded from the definition of income under Government Code Section 82030(b)(2), so the spouse does not need to disclose their community property share of such payments on the Statement of Economic Interests.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Straightforward advice letter with clear Q&A structure embedded in narrative form. No formal QUESTION or CONCLUSION section headers present, but question and conclusion content are clearly identifiable. Addressee is Betty Boone, Chief Deputy, San Diego County Counsel."
+  },
+  "citations": {
+    "government_code": [
+      "82030(b)(2)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T16:52:55.670043Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: You asked whether you were required to disclose on your Statement of Economic Interests your community property share of the payments he receives from the County.\n\nCONCLUSION: The payments from the County were excluded from the definition of income under Government Code Section 82030(b)(2). Although Government Code Section 82030(b)(2) excludes \"salary\" from a state, local or federal government agency, the staff has interpreted salary to include payments such as those your husband received from the County for his criminal defense work. Therefore, you do not have to disclose your community property share of his County payments on your Statement of Economic Interests.",
+    "qa_source": "mixed",
+    "first_500_words": "March 13, 1979 Betty Boone Chief Deputy Office of the San Diego County Counsel 355 County Administration Center 1600 Pacific Highway San Diego, CA 92101 Dear Betty: This will confirm today's telephone conversation. You informed me that your husband is a sole practitioner. As part of his activities, he defends criminal cases by appointment for the County of San Diego (\"County\"). He is paid by the County. You asked whether you were required to disclose on your Statement of Economic Interests your community property share of the payments he receives from the County. I advised you that the payments from the County were excluded from the definition of income under Government Code Section 82030(b)(2). Although Government Code Section 82030(b)(2) excludes \"salary\" from a state, local or federal government agency, the staff has interpreted salary to include payments such as those your husband received from the County for his criminal defense work. Therefore, you do not have to disclose your community property share of his County payments on your Statement of Economic Interests. If you have any other questions or comments, please call. Sincerely, Barbara Campbell Counsel Legal Division",
+    "summary": "FPPC advises that a Chief Deputy County Counsel is not required to disclose on her Statement of Economic Interests her community property share of her husband's income from county-appointed criminal defense work, as such government payments are excluded under Government Code Section 82030(b)(2)."
+  }
+}

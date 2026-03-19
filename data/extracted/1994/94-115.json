@@ -1,0 +1,76 @@
+{
+  "id": "94-115",
+  "year": 1994,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1994/94-115.pdf",
+  "pdf_sha256": "196ab4d04a781d24d7d9da3fa2a3a96626b4d6aeb7dc259efc5dc30768fd8f42",
+  "local_pdf_path": "raw_pdfs/1994/94-115.pdf",
+  "source_metadata": {
+    "title_raw": "Holshouser, Sally Year: 1994 Advice Letter # 94-115",
+    "tags": [
+      "1994",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:34:39",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1994&tagCount=1&page=8"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:01.502978Z",
+    "page_count": 2,
+    "word_count": 369,
+    "char_count": 2336,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 369
+  },
+  "content": {
+    "full_text": "California\nFair Political\n• Practices Commission\nApril 12,\n1994\nSally Hoishouser\nSantee Recall 1994\nP.O.\nBox 711033\nSantee,\nCA 92072\nRe:\nYour Request for\nConfirmation of Telephone\nAdvice\nOur File No.\n1—94—115\nDear Ms.\nHoishouser:\nYou have requested confirmation of telephone advice provided\nto you regarding the campaign disclosure provisions of the\nPolitical Reform Act.\n1\nSince your request is one for general\ninformation,\nwe are treating your request as one for informal\nassistance pursuant to Regulation 18329(c).\n2\nYour letter dated March 30,\n1994,\ncorrectly summarizes my\nadvice.\nLoans made to committees may be repaid and the Act\nimposes no limit on contributions,\nincluding loans,\nwhich are made\nto committees formed to qualify,\nsupport or oppose recall\nmeasures.\nA non—monetary loan made to a committee which is not\nrepaid in the same reporting period in which it is made must be\nreported on Schedule\nC as\na non—monetary loan,\nand also on\nSchedule\nF as\nan unpaid bill owed to the lender.\nFor more\ncomplete instructions,\nsee page\n30 in the enclosed Information\nManual\nD.\nThe Act requires city clerks and other filing officers. to\nprovide FPPC forms and manuals to candidates and committees to\nenable them to satisfy their filing requirements under the Act.\nPlease contact the Technical Assistance Division of the Fair\nPolitical Practices Commission for technical information regarding\n1\nGovernment\nCode Sections\n81000—91015.\nAll statutory\nreferences are to the Government Code unless otherwise indicated.\nCommission regulations appear at\n2 California Code of Regulations\nSection 18000,\ng.\nAll references to regulations are to Title\n2,\nDivision\n6 of the California Code of Regulations.\n2\nInformal assistance does not provide the requestor with the\nimmunity provided by an opinion or formal written advice.\n(Government Code Section 83114;\n2 Cal.\nCode of Regs.\nSections\n18329(c) (3) .)\n428 J Street, Suite 800\n•\nP.O. Box 807 •\nSacramento, CA\n95804-0807 •\n(916) 322-5660\n\n\nHoishouser, Sally\n1—94—115\nPage\n2\nthe Act, at the number given below.\nIf your city clerk is not\ncooperative in providing information or materials necessary for\nyou to comply with your filing obligations, please contact us.\nIf you have additional questions, please contact me at\n(916)\n322—5662.\nSincerely,\nWayne .\nImberi\nPolitiëal Reform Consultant\nEnclosures\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1994-04-12",
+    "date_raw": "April 12,\n1994",
+    "requestor_name": "Hoishouser",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "informal_advice"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "Loans made to committees may be repaid and the Act imposes no limit on contributions, including loans, which are made to committees formed to qualify, support or oppose recall measures. A non-monetary loan made to a committee which is not repaid in the same reporting period in which it is made must be reported on Schedule C as a non-monetary loan, and also on Schedule F as an unpaid bill owed to the lender.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "What are the campaign disclosure requirements for loans made to committees formed to qualify, support, or oppose recall measures, and how should non-monetary loans be reported?",
+    "conclusion_synthetic": "The Political Reform Act imposes no limit on contributions or loans to recall measure committees, and loans may be repaid. Non-monetary loans not repaid in the same reporting period must be reported on both Schedule C (as a non-monetary loan) and Schedule F (as an unpaid bill).",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Informal advice letter confirming prior telephone advice. No formal QUESTION/CONCLUSION sections with headers, but question and conclusion content are clearly present in body text. Document explicitly states this is informal assistance under Regulation 18329(c) and does not provide immunity of formal opinion."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "83114"
+    ],
+    "regulations": [
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "gifts_honoraria",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:35:01.502978Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: What are the campaign disclosure requirements for loans made to committees formed to qualify, support, or oppose recall measures, and how should non-monetary loans be reported?\n\nCONCLUSION: Loans made to committees may be repaid and the Act imposes no limit on contributions, including loans, which are made to committees formed to qualify, support or oppose recall measures. A non-monetary loan made to a committee which is not repaid in the same reporting period in which it is made must be reported on Schedule C as a non-monetary loan, and also on Schedule F as an unpaid bill owed to the lender.",
+    "qa_source": "mixed",
+    "first_500_words": "California Fair Political • Practices Commission April 12, 1994 Sally Hoishouser Santee Recall 1994 P.O. Box 711033 Santee, CA 92072 Re: Your Request for Confirmation of Telephone Advice Our File No. 1—94—115 Dear Ms. Hoishouser: You have requested confirmation of telephone advice provided to you regarding the campaign disclosure provisions of the Political Reform Act. 1 Since your request is one for general information, we are treating your request as one for informal assistance pursuant to Regulation 18329(c). 2 Your letter dated March 30, 1994, correctly summarizes my advice. Loans made to committees may be repaid and the Act imposes no limit on contributions, including loans, which are made to committees formed to qualify, support or oppose recall measures. A non—monetary loan made to a committee which is not repaid in the same reporting period in which it is made must be reported on Schedule C as a non—monetary loan, and also on Schedule F as an unpaid bill owed to the lender. For more complete instructions, see page 30 in the enclosed Information Manual D. The Act requires city clerks and other filing officers. to provide FPPC forms and manuals to candidates and committees to enable them to satisfy their filing requirements under the Act. Please contact the Technical Assistance Division of the Fair Political Practices Commission for technical information regarding 1 Government Code Sections 81000—91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations Section 18000, g. All references to regulations are to Title 2, Division 6 of the California Code of Regulations. 2 Informal assistance does not provide the requestor with the immunity provided by an opinion or formal written advice. (Government Code Section 83114; 2 Cal. Code of Regs. Sections 18329(c) (3) .) 428 J Street, Suite 800 • P.O. Box 807 • Sacramento, CA 95804-0807 • (916) 322-5660 Hoishouser, Sally 1—94—115 Page 2 the Act, at the number given below. If your city clerk is not cooperative in providing information or materials necessary for you to comply with your filing obligations, please contact us. If you have additional questions, please contact me at (916) 322—5662. Sincerely, Wayne . Imberi Politiëal Reform Consultant Enclosures",
+    "summary": "FPPC confirms telephone advice to Sally Hoishouser regarding campaign disclosure requirements for loans to committees supporting or opposing recall measures, clarifying that there are no contribution limits and specifying the reporting requirements for non-monetary loans."
+  }
+}

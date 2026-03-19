@@ -1,0 +1,72 @@
+{
+  "id": "UNK-91-10647",
+  "year": 1991,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1991/91501.pdf",
+  "pdf_sha256": "83262872020cb7e17aa0c660da4b2279b905e0e4c6f5aaab730b72e9d7f0c13d",
+  "local_pdf_path": "raw_pdfs/1991/91501.pdf",
+  "source_metadata": {
+    "title_raw": "1991-91501-Goff, Charles",
+    "tags": [
+      "1991",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:22:05",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1991&tagCount=1&page=85"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-27T23:37:26.305818Z",
+    "page_count": 2,
+    "word_count": 112,
+    "char_count": 893,
+    "quality_score": 0.8248849121466769,
+    "olmocr_cost": 0.00495876,
+    "native_word_count": 101,
+    "haiku_cost": 0.0036024000000000004
+  },
+  "content": {
+    "full_text": "FPPC\nNov | 10 30 AM '91                    JUDGE CHARLES EGAN GOFF\n                                      3 MARCELA AVENUE\n                                      SAN FRANCISCO 94116\n\n\nFair Political Practices Commission\nP.O. 807\nSacramento, California 95804\n\nGentlemen:\n\nI retired as a Municipal Court Judge on June 4, 1990. I took\nno temporary assignments until July 9, 1991. Since then I have\nworked about half-time on assignments by the Chief Justice.\nI have not filed a financial disclosure statement since I retired.\n\nQuestion: Must I now file such a statement, and, if so, when?\n\n                                      Thank You,\n\n                                      [signature]\n                                      CHARLES EGAN GOFF\n\nDUDE CHARRED RANCH FOOD\nMURPHY CAFETERIA\nHAT MERCHANDISE\n\n[illegible text at top]\n\n[illegible text in middle section]\n\n\"FOOD GRANT\n\nA REAL MADE DOLLARS\"",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1990-06-04",
+    "date_raw": "June 4, 1990",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Must I now file such a statement, and, if so, when?\n\nThank You,\n\nCHARLES EGAN GOFF\n\nThe image appears to be a typed or printed document with some text visible, but the majority of the content is extremely faint and mostly illegible due to the quality and brightness of the scan. Here's what I can make out:\n\n- The top line reads: \"SAN FRANCISCO 94116\"\n- The next line reads: \"8 MARCELIA AVENUE\"\n- The third line reads: \"JUDGE CHARLES ECAN COFF\"\n\nBelow this, there is more text that is very faint and mostly illegible. Only a few scattered letters and numbers are partially visible, such as \"080\", \"0.5\", and \"3280\". There are also some numbers and letters at the bottom, including \"04\" and \"00\".\n\nIf you have another scan or higher quality image, please provide it for better results.",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.5499999999999999,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T17:19:24.992546Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Must I now file such a statement, and, if so, when?\n\nThank You,\n\nCHARLES EGAN GOFF\n\nThe image appears to be a typed or printed document with some text visible, but the majority of the content is extremely faint and mostly illegible due to the quality and brightness of the scan. Here's what I can make out:\n\n- The top line reads: \"SAN FRANCISCO 94116\"\n- The next line reads: \"8 MARCELIA AVENUE\"\n- The third line reads: \"JUDGE CHARLES ECAN COFF\"\n\nBelow this, there is more text that is very faint and mostly illegible. Only a few scattered letters and numbers are partially visible, such as \"080\", \"0.5\", and \"3280\". There are also some numbers and letters at the bottom, including \"04\" and \"00\".\n\nIf you have another scan or higher quality image, please provide it for better results.",
+    "qa_source": "extracted",
+    "first_500_words": "Fair Political Practices Commission P.O. 807 Sacramento, California 95804 Gentlemen: I retired as a Municipal Court Judge on June 4, 1990. I took no temporary assignments until July 9, 1991. Since then I have worked about half-time on assignments by the Chief Justice. I have not filed a financial disclosure statement since I retired. Question: Must I now file such a statement, and, if so, when? Thank You, CHARLES EGAN GOFF The image appears to be a typed or printed document with some text visible, but the majority of the content is extremely faint and mostly illegible due to the quality and brightness of the scan. Here's what I can make out: - The top line reads: \"SAN FRANCISCO 94116\" - The next line reads: \"8 MARCELIA AVENUE\" - The third line reads: \"JUDGE CHARLES ECAN COFF\" Below this, there is more text that is very faint and mostly illegible. Only a few scattered letters and numbers are partially visible, such as \"080\", \"0.5\", and \"3280\". There are also some numbers and letters at the bottom, including \"04\" and \"00\". If you have another scan or higher quality image, please provide it for better results.",
+    "summary": null
+  }
+}

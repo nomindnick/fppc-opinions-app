@@ -1,0 +1,75 @@
+{
+  "id": "77A-313",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77A-313.PDF",
+  "pdf_sha256": "53184964594aea78e5751ae0bb1423bdf6e2cf61d0ff42121e55c71d0c21021f",
+  "local_pdf_path": "raw_pdfs/1977/77A-313.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977A Advice Letter # 77A-313",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:20:33",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=22"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-07T17:09:08.104881Z",
+    "page_count": 2,
+    "word_count": 339,
+    "char_count": 2202,
+    "quality_score": 0.9208730905306002,
+    "olmocr_cost": 0.0050783,
+    "native_word_count": 24
+  },
+  "content": {
+    "full_text": "Memorandum\n\nTo: Gina Kutchins  \nDate: March 24, 1977\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION  \nKen Finney\n\nSubject: Places where semiannual campaign statements should be filed.\n\nWhen a candidate, elected officer or committee is required to file a semiannual campaign statement, the place (or places) where the statement must be filed should be determined by reference to Government Code Section 81005(a) through (e). For purposes of Section 81005, the concept of \"supporting a candidate\", which is the determinative factor, means the following:\n\n1. A candidate or elected officer supports himself and files according to the office sought.\n\n2. A controlled committee supports the candidate that controls it and any other candidates to whom it makes contributions or on whose behalf it makes expenditures.\n\n3. A committee other than a controlled committee supports those candidates to whom it makes contributions and on whose behalf it makes expenditures. In the event that such a committee must file a semiannual campaign statement only by virtue of receiving contributions (it does not make contributions or expenditures during the period covered), the committee is deemed to support those candidates that it intends to support; and in order to determine intent, the committee should consider its previous campaign activities. Therefore, if the committee historically supported candidates for the state legislature and during the period covered by the semiannual campaign statement only received contributions, it nevertheless would be deemed to \"support\" candidates for the state legislature and should file pursuant to Section 81005(b).\n\nAt this time, we think these criteria will be sufficient for purposes of determining where semiannual campaign\n\nstatements should be filed and we do not think it is necessary to adopt a regulation. On the other hand, we are not entirely satisfied with the results that the foregoing scheme yields and we think that the question of where semiannual campaign statements must be filed should be part of a general review of where all campaign statements must be filed.\n\nIf you have any questions about the foregoing, see me.\n\nKF:plh\ncc: Ted Prim\n    Bob Stern",
+    "full_text_markdown": "Memorandum\n\nTo: Gina Kutchins  \nDate: March 24, 1977\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION  \nKen Finney\n\nSubject: Places where semiannual campaign statements should be filed.\n\nWhen a candidate, elected officer or committee is required to file a semiannual campaign statement, the place (or places) where the statement must be filed should be determined by reference to Government Code Section 81005(a) through (e). For purposes of Section 81005, the concept of \"supporting a candidate\", which is the determinative factor, means the following:\n\n1. A candidate or elected officer supports himself and files according to the office sought.\n\n2. A controlled committee supports the candidate that controls it and any other candidates to whom it makes contributions or on whose behalf it makes expenditures.\n\n3. A committee other than a controlled committee supports those candidates to whom it makes contributions and on whose behalf it makes expenditures. In the event that such a committee must file a semiannual campaign statement only by virtue of receiving contributions (it does not make contributions or expenditures during the period covered), the committee is deemed to support those candidates that it intends to support; and in order to determine intent, the committee should consider its previous campaign activities. Therefore, if the committee historically supported candidates for the state legislature and during the period covered by the semiannual campaign statement only received contributions, it nevertheless would be deemed to \"support\" candidates for the state legislature and should file pursuant to Section 81005(b).\n\nAt this time, we think these criteria will be sufficient for purposes of determining where semiannual campaign\n\nstatements should be filed and we do not think it is necessary to adopt a regulation. On the other hand, we are not entirely satisfied with the results that the foregoing scheme yields and we think that the question of where semiannual campaign statements must be filed should be part of a general review of where all campaign statements must be filed.\n\nIf you have any questions about the foregoing, see me.\n\nKF:plh\ncc: Ted Prim\n    Bob Stern"
+  },
+  "parsed": {
+    "date": "1977-03-24",
+    "date_raw": "March 24, 1977",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Where should candidates, elected officers, and committees file their semiannual campaign statements under Government Code Section 81005?",
+    "conclusion_synthetic": "Semiannual campaign statement filing locations are determined by reference to Government Code Section 81005(a) through (e), with filing requirements based on which candidates are 'supported' as defined by specific criteria: candidates file by office sought, controlled committees file based on the candidate controlling them and recipients of contributions, and other committees file based on actual or intended candidate support as evidenced by previous campaign activities.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is a memorandum rather than formal advice letter format with labeled Q/C sections. No formal QUESTION or CONCLUSION sections present, but substantive legal guidance provided. Content extracted from body text. Author expresses view that current criteria are temporary and broader regulatory review may be needed."
+  },
+  "citations": {
+    "government_code": [
+      "81005",
+      "81005(a)",
+      "81005(b)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T17:09:08.104881Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Where should candidates, elected officers, and committees file their semiannual campaign statements under Government Code Section 81005?\n\nCONCLUSION: Semiannual campaign statement filing locations are determined by reference to Government Code Section 81005(a) through (e), with filing requirements based on which candidates are 'supported' as defined by specific criteria: candidates file by office sought, controlled committees file based on the candidate controlling them and recipients of contributions, and other committees file based on actual or intended candidate support as evidenced by previous campaign activities.",
+    "qa_source": "synthetic",
+    "first_500_words": "**Memorandum** To: Gina Kutchins Date: March 24, 1977 From: FAIR POLITICAL PRACTICES COMMISSION Ken Finney Subject: Places where semiannual campaign statements should be filed. When a candidate, elected officer or committee is required to file a semiannual campaign statement, the place (or places) where the statement must be filed should be determined by reference to Government Code Section 81005(a) through (e). For purposes of Section 81005, the concept of \"supporting a candidate\", which is the determinative factor, means the following: 1. A candidate or elected officer supports himself and files according to the office sought. 2. A controlled committee supports the candidate that controls it and any other candidates to whom it makes contributions or on whose behalf it makes expenditures. 3. A committee other than a controlled committee supports those candidates to whom it makes contributions and on whose behalf it makes expenditures. In the event that such a committee must file a semiannual campaign statement only by virtue of receiving contributions (it does not make contributions or expenditures during the period covered), the committee is deemed to support those candidates that it intends to support; and in order to determine intent, the committee should consider its previous campaign activities. Therefore, if the committee historically supported candidates for the state legislature and during the period covered by the semiannual campaign statement only received contributions, it nevertheless would be deemed to \"support\" candidates for the state legislature and should file pursuant to Section 81005(b). At this time, we think these criteria will be sufficient for purposes of determining where semiannual campaign statements should be filed and we do not think it is necessary to adopt a regulation. On the other hand, we are not entirely satisfied with the results that the foregoing scheme yields and we think that the question of where semiannual campaign statements must be filed should be part of a general review of where all campaign statements must be filed. If you have any questions about the foregoing, see me. KF:plh cc: Ted Prim Bob Stern",
+    "summary": "FPPC memorandum providing guidance on determining the proper filing locations for semiannual campaign statements under Government Code Section 81005, establishing criteria for which candidates are deemed to be 'supported' by various types of candidates and committees."
+  }
+}

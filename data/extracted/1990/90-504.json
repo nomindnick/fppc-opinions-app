@@ -1,0 +1,73 @@
+{
+  "id": "90-504",
+  "year": 1990,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1990/90-504.pdf",
+  "pdf_sha256": "771be056291cab44689156ca0db3e19686c1986d32b812f4fd2eb4c2669f0840",
+  "local_pdf_path": "raw_pdfs/1990/90-504.pdf",
+  "source_metadata": {
+    "title_raw": "Cain, Michael Year: 1990 Advice Letter # 90-504",
+    "tags": [
+      "1990",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:12:41",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1990&tagCount=1&page=91"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T23:28:09.930514Z",
+    "page_count": 2,
+    "word_count": 257,
+    "char_count": 1701,
+    "quality_score": 0.9415216376623078,
+    "olmocr_cost": 0.00504906,
+    "native_word_count": 278
+  },
+  "content": {
+    "full_text": "California Fair Political Practices Commission\n\nAugust 21, 1990\n\nMichael O. Cain  \n26488 Soboba Street  \nHemet, CA 92344\n\nRE: Your Request for Confirmation of Telephone Advice  \nOur File No. A-90-504\n\nDear Mr. Cain:\n\nYou have requested advice concerning the campaign disclosure provisions of the Political Reform Act.¹ This letter will confirm the telephone advice I provided to you on August 6, 1990.\n\nFACTS\n\nAs a member of the Riverside County Republican Party Central Committee, you filed a candidate and officeholder campaign statement—short form (Form 470) upon your declaration of candidacy for 1990.\n\nQUESTION\n\nAre you required to file an additional campaign statement for the calendar year 1990?\n\nANSWER\n\nIf the Form 470 is filed by a candidate or officeholder with a declaration of candidacy, or on or before the filing deadline for the first campaign statement required for the current calendar year, no additional campaign statements need be filed for that calendar year so long as total receipts and total expenditures remain less than $1,000.\n\n¹ Government Code Sections 81000-91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations Section 18000, et seq. All references to regulations are to Title 2, Division 6 of the California Code of Regulations.\n\nShould you leave office, you must file a statement of termination (Form 415) to terminate your campaign disclosure obligations.\n\nIf you have any further questions regarding the above, please contact me at (916) 322-5662.\n\nSincerely,\n\nScott Hallabrin\nActing General Counsel\n\n[Signature]\nBy: Sandra L. Taylor\nPolitical Reform Consultant",
+    "full_text_markdown": "California Fair Political Practices Commission\n\nAugust 21, 1990\n\nMichael O. Cain  \n26488 Soboba Street  \nHemet, CA 92344\n\nRE: Your Request for Confirmation of Telephone Advice  \nOur File No. A-90-504\n\nDear Mr. Cain:\n\nYou have requested advice concerning the campaign disclosure provisions of the Political Reform Act.¹ This letter will confirm the telephone advice I provided to you on August 6, 1990.\n\nFACTS\n\nAs a member of the Riverside County Republican Party Central Committee, you filed a candidate and officeholder campaign statement—short form (Form 470) upon your declaration of candidacy for 1990.\n\nQUESTION\n\nAre you required to file an additional campaign statement for the calendar year 1990?\n\nANSWER\n\nIf the Form 470 is filed by a candidate or officeholder with a declaration of candidacy, or on or before the filing deadline for the first campaign statement required for the current calendar year, no additional campaign statements need be filed for that calendar year so long as total receipts and total expenditures remain less than $1,000.\n\n¹ Government Code Sections 81000-91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations Section 18000, et seq. All references to regulations are to Title 2, Division 6 of the California Code of Regulations.\n\nShould you leave office, you must file a statement of termination (Form 415) to terminate your campaign disclosure obligations.\n\nIf you have any further questions regarding the above, please contact me at (916) 322-5662.\n\nSincerely,\n\nScott Hallabrin\nActing General Counsel\n\n[Signature]\nBy: Sandra L. Taylor\nPolitical Reform Consultant"
+  },
+  "parsed": {
+    "date": "1990-08-21",
+    "date_raw": "August 21, 1990",
+    "requestor_name": "Cain",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Are you required to file an additional campaign statement for the calendar year 1990?\n\nANSWER\n\nIf the Form 470 is filed by a candidate or officeholder with a declaration of candidacy, or on or before the filing deadline for the first campaign statement required for the current calendar year, no additional campaign statements need be filed for that calendar year so long as total receipts and total expenditures remain less than $1,000.\n\n¹, et seq. All references to regulations are to Title 2, Division 6 of the California Code of Regulations.\n\nShould you leave office, you must file a statement of termination (Form 415) to terminate your campaign disclosure obligations.",
+    "conclusion": null,
+    "facts": "As a member of the Riverside County Republican Party Central Committee, you filed a candidate and officeholder campaign statement—short form (Form 470) upon your declaration of candidacy for 1990.",
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.5499999999999999,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern"
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-19T23:28:09.930514Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Are you required to file an additional campaign statement for the calendar year 1990?\n\nANSWER\n\nIf the Form 470 is filed by a candidate or officeholder with a declaration of candidacy, or on or before the filing deadline for the first campaign statement required for the current calendar year, no additional campaign statements need be filed for that calendar year so long as total receipts and total expenditures remain less than $1,000.\n\n¹, et seq. All references to regulations are to Title 2, Division 6 of the California Code of Regulations.\n\nShould you leave office, you must file a statement of termination (Form 415) to terminate your campaign disclosure obligations.",
+    "qa_source": "extracted",
+    "first_500_words": "**California Fair Political Practices Commission** August 21, 1990 Michael O. Cain 26488 Soboba Street Hemet, CA 92344 RE: Your Request for Confirmation of Telephone Advice Our File No. A-90-504 Dear Mr. Cain: You have requested advice concerning the campaign disclosure provisions of the Political Reform Act.¹ This letter will confirm the telephone advice I provided to you on August 6, 1990. FACTS As a member of the Riverside County Republican Party Central Committee, you filed a candidate and officeholder campaign statement—short form (Form 470) upon your declaration of candidacy for 1990. QUESTION Are you required to file an additional campaign statement for the calendar year 1990? ANSWER If the Form 470 is filed by a candidate or officeholder with a declaration of candidacy, or on or before the filing deadline for the first campaign statement required for the current calendar year, no additional campaign statements need be filed for that calendar year so long as total receipts and total expenditures remain less than $1,000. ¹ Government Code Sections 81000-91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations Section 18000, et seq. All references to regulations are to Title 2, Division 6 of the California Code of Regulations. Should you leave office, you must file a statement of termination (Form 415) to terminate your campaign disclosure obligations. If you have any further questions regarding the above, please contact me at (916) 322-5662. Sincerely, Scott Hallabrin Acting General Counsel [Signature] By: Sandra L. Taylor Political Reform Consultant",
+    "summary": null
+  }
+}

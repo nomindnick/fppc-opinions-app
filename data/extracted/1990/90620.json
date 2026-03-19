@@ -1,0 +1,71 @@
+{
+  "id": "90620",
+  "year": 1990,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1990/90620.pdf",
+  "pdf_sha256": "f0be0a94b2a00577c5c63110f959544ccbf976275a2b289edb5da9a30b23f439",
+  "local_pdf_path": "raw_pdfs/1990/90620.pdf",
+  "source_metadata": {
+    "title_raw": "Ginsborg, David Year: 1990 Advice Letter # 90620",
+    "tags": [
+      "1990",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:07:27",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1990&tagCount=1&page=22"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:32.863174Z",
+    "page_count": 1,
+    "word_count": 251,
+    "char_count": 1483,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 251
+  },
+  "content": {
+    "full_text": "ffi\nt= ?: \n' \n!\"1\nt- f\" i'1,\nSer [? I is flit'90\nSeptember 21, 1990\nSandra Taylor\nFPPC\n428 J. St. 6th Floor\nSacramento, Ca. 95814\nDear Ms. Taylor:\nI would like to confirm the conversation\n21, 1990, regarding acceptable Campaign\ncontributors.\nwe had last Friday, September\nContributions from low dollar\nSpecifically, our campaign is interested in raising money from\ncontributors attending a musical performance at a local club where there\nare musical performances nightly. The club normally charges a nominal\nentrance fee. On a specific night, they are planning to have a special\nbenefit for our candidate and are willing to add an additional dollar to\nthe normal entrance fee. That additional dollar will be given to our\ncampaign.\nAs per my understanding with you, if the club owner charges a special\n$1 fee above and beyond the owner's normal entrance fee she can direct\nthat money from these low contributors to our campaign. Those\ncontributions received from this event, below $100, are to be noted on\nSchedule A, Form 420, line 2. Further, those individuals contributions\nare to be treated like all other less than $100 contributions.\nI realize this is the campaign season, however, we have already begun\npromoting this event and we need to know whether we have to cancel\nthe event due to unforseen prohibitions in the FPPC rules. Please notify\nme as soon as possible at (408) 280-7383. Thank you for your help and\ncooperation.\ni150 N,\nARGAS (\n'ob\nCampaign Manager\n408) 28o-PETI\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1990-09-21",
+    "date_raw": "September 21, 1990",
+    "requestor_name": "Taylor",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "Can a campaign raise money from low dollar contributors attending a musical performance at a local club where the club owner charges a special additional dollar above the normal entrance fee, with that additional dollar directed to the campaign? Should contributions below $100 from this event be noted on Schedule A, Form 420, line 2?",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The sender is requesting confirmation that a campaign can solicit contributions from a fundraising event at a club where an additional fee above the normal entrance charge is directed to the campaign, with contributions under $100 reported on Schedule A.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an incoming request letter to FPPC, not an FPPC response. The sender references a prior conversation with Sandra Taylor and is seeking written confirmation of advice already given verbally. No formal CONCLUSION section is present. Document appears to be a follow-up to confirm guidance rather than an initial inquiry."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:35:32.863174Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Can a campaign raise money from low dollar contributors attending a musical performance at a local club where the club owner charges a special additional dollar above the normal entrance fee, with that additional dollar directed to the campaign? Should contributions below $100 from this event be noted on Schedule A, Form 420, line 2?",
+    "qa_source": "mixed",
+    "first_500_words": "ffi t= ?: ' !\"1 t- f\" i'1, Ser [? I is flit'90 September 21, 1990 Sandra Taylor FPPC 428 J. St. 6th Floor Sacramento, Ca. 95814 Dear Ms. Taylor: I would like to confirm the conversation 21, 1990, regarding acceptable Campaign contributors. we had last Friday, September Contributions from low dollar Specifically, our campaign is interested in raising money from contributors attending a musical performance at a local club where there are musical performances nightly. The club normally charges a nominal entrance fee. On a specific night, they are planning to have a special benefit for our candidate and are willing to add an additional dollar to the normal entrance fee. That additional dollar will be given to our campaign. As per my understanding with you, if the club owner charges a special $1 fee above and beyond the owner's normal entrance fee she can direct that money from these low contributors to our campaign. Those contributions received from this event, below $100, are to be noted on Schedule A, Form 420, line 2. Further, those individuals contributions are to be treated like all other less than $100 contributions. I realize this is the campaign season, however, we have already begun promoting this event and we need to know whether we have to cancel the event due to unforseen prohibitions in the FPPC rules. Please notify me as soon as possible at (408) 280-7383. Thank you for your help and cooperation. i150 N, ARGAS ( 'ob Campaign Manager 408) 28o-PETI",
+    "summary": "A campaign manager writes to FPPC staff seeking confirmation regarding the legality of raising campaign contributions from attendees at a benefit event at a local club, where an additional dollar fee above the normal entrance fee would be directed to the campaign."
+  }
+}

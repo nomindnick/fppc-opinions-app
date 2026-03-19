@@ -1,0 +1,73 @@
+{
+  "id": "90-042",
+  "year": 1990,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1990/90-042.pdf",
+  "pdf_sha256": "d0cf33c6f8531e047a33f7680a442deb1a9901dd7099c17f5860bc671fea71ed",
+  "local_pdf_path": "raw_pdfs/1990/90-042.pdf",
+  "source_metadata": {
+    "title_raw": "Mashore, Lloyd Year: 1990 Advice Letter # 90-042",
+    "tags": [
+      "1990",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:14:17",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1990&tagCount=1&page=112"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:42.438258Z",
+    "page_count": 2,
+    "word_count": 393,
+    "char_count": 2419,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 393
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\nJanuary 25, ].990\nMarian Staton\nTreasurer\nFriends of Lloyd Mashore\n4255 Clayton Road\nConcord, CA 9452].\nRe:\nYour Request for Advi-ce\nour FiIe No. A-9o-o4 2\nDear Ms. staton:\nThis is in response to your request for confirmation of\ntelephone advice provided to you on behalf of Lloyd Mashore\nregaiding the propriety of using campaign funds to pay for Iegal\nfees undir the- new personal use provisions of the Pol-itical Reforn\nAct (the rrtrsSrr 1 . 1/\nThis letter confirms that your letter dated January 8, 1990\naccurately summarizes the telephone advice I provided to you on\nthat date. As I stated in our telephone conversation, section\n85802.5 of the Act Provides:\n(a) Expenditures of carnpaign funds for\nattorney's fees and other costs in connection with\nadminislrative, civil, \nor crirninal litigation \nare\nnot directly retated to a political, \nlegislative,\nor governmentat purpose except where the titigation\nariies directly out of a candidate's or elected\nofficer's activities, \nduties, or status as a\ncandidate or elected officer, including, but not\nlirnj-ted to, an action to enjoin defamation, defense\nof an action to enjoin defarnation, defense of an\naction brought for a violation of state or local\ncampaign, disclosure, or election laws, and an\naction arising from an election contest or recount.\nThus, where the litigation \narises directly out of a\ncandidate's status as a candidate, such as where his\nL/ Government code sections Blooo-91015. A11 statutory refer-\nences are to the Government code unless otherwise indicated. \nCom-\nmission regulations appear at 2 California Code of Regulations\nSection L8000, et seq. All- references to regulations are to\nTitle 2, Division 6 of the California code of Regufations.\n428 J Street, Suite 8OO . P.O. Box 8O7 o Sacramento CA 958O4-O8OZ . (916) 322-5660\n\n\nFile No. A-9 0-0 4 2\nPage 2\nqualifications as a candidate as specified in the elections code\njre challenged, the attorney fees associated with the litigation\nare directly related to a political purpose. Therefore, use of\ncarnpaign funds to pay the attorney fees and other costs associated\nwith the litigation \nis pernitted under the Act.\nIf you have any further questions regarding this natter,\nplease feel free to contact this office at (916) 322-5901 .\nS incere 1y ,\nKathryn E. Donovan\nGeneral Counsel\nC.LR--\nwa 1lace\nLegaI Division\nKED: Jww: pIh\nhn w.\nunse I ,\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1990-01-08",
+    "date_raw": "January 8, 1990",
+    "requestor_name": "Mashore",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether campaign funds may be used to pay attorney's fees and litigation costs when a candidate's qualifications or status as a candidate are challenged under the Political Reform Act.",
+    "conclusion_synthetic": "Campaign funds may be used to pay attorney's fees and other litigation costs when the litigation arises directly out of a candidate's status as a candidate, such as challenges to the candidate's qualifications specified in the Elections Code, as permitted under Government Code section 85802.5.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is a confirmation letter of prior telephone advice; no explicit 'QUESTION' or 'CONCLUSION' section headers are present, but the legal question and answer are clearly articulated in the body. The document cites Government Code section 85802.5 as the governing statute. Minor OCR artifacts present (e.g., 'J' in date, spacing irregularities)."
+  },
+  "citations": {
+    "government_code": [
+      "85802"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:35:42.438258Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether campaign funds may be used to pay attorney's fees and litigation costs when a candidate's qualifications or status as a candidate are challenged under the Political Reform Act.\n\nCONCLUSION: Campaign funds may be used to pay attorney's fees and other litigation costs when the litigation arises directly out of a candidate's status as a candidate, such as challenges to the candidate's qualifications specified in the Elections Code, as permitted under Government Code section 85802.5.",
+    "qa_source": "synthetic",
+    "first_500_words": "California Fair Political Practices Commission January 25, ].990 Marian Staton Treasurer Friends of Lloyd Mashore 4255 Clayton Road Concord, CA 9452]. Re: Your Request for Advi-ce our FiIe No. A-9o-o4 2 Dear Ms. staton: This is in response to your request for confirmation of telephone advice provided to you on behalf of Lloyd Mashore regaiding the propriety of using campaign funds to pay for Iegal fees undir the- new personal use provisions of the Pol-itical Reforn Act (the rrtrsSrr 1 . 1/ This letter confirms that your letter dated January 8, 1990 accurately summarizes the telephone advice I provided to you on that date. As I stated in our telephone conversation, section 85802.5 of the Act Provides: (a) Expenditures of carnpaign funds for attorney's fees and other costs in connection with adminislrative, civil, or crirninal litigation are not directly retated to a political, legislative, or governmentat purpose except where the titigation ariies directly out of a candidate's or elected officer's activities, duties, or status as a candidate or elected officer, including, but not lirnj-ted to, an action to enjoin defamation, defense of an action to enjoin defarnation, defense of an action brought for a violation of state or local campaign, disclosure, or election laws, and an action arising from an election contest or recount. Thus, where the litigation arises directly out of a candidate's status as a candidate, such as where his L/ Government code sections Blooo-91015. A11 statutory refer- ences are to the Government code unless otherwise indicated. Com- mission regulations appear at 2 California Code of Regulations Section L8000, et seq. All- references to regulations are to Title 2, Division 6 of the California code of Regufations. 428 J Street, Suite 8OO . P.O. Box 8O7 o Sacramento CA 958O4-O8OZ . (916) 322-5660 File No. A-9 0-0 4 2 Page 2 qualifications as a candidate as specified in the elections code jre challenged, the attorney fees associated with the litigation are directly related to a political purpose. Therefore, use of carnpaign funds to pay the attorney fees and other costs associated with the litigation is pernitted under the Act. If you have any further questions regarding this natter, please feel free to contact this office at (916) 322-5901 . S incere 1y , Kathryn E. Donovan General Counsel C.LR-- wa 1lace LegaI Division KED: Jww: pIh hn w. unse I ,",
+    "summary": "FPPC General Counsel confirms telephone advice to the treasurer of Friends of Lloyd Mashore regarding the permissibility of using campaign funds to pay legal fees for litigation arising from challenges to the candidate's qualifications or status under the Political Reform Act's personal use provisions."
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "76148",
+  "year": 1976,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1976/76148.PDF",
+  "pdf_sha256": "9eb2cfc0eb5a15ac617bbf0881426f12cb2f4167a818420f24fe41c49ff2f321",
+  "local_pdf_path": "raw_pdfs/1976/76148.PDF",
+  "source_metadata": {
+    "title_raw": "LOFTIN, MELANESE Year: 1976 Advice Letter # 76148",
+    "tags": [
+      "1976",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:16:03",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1976&tagCount=1&page=20"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T03:48:03.869008Z",
+    "page_count": 2,
+    "word_count": 167,
+    "char_count": 1161,
+    "quality_score": 0.8355896673685596,
+    "olmocr_cost": 0.00493812,
+    "native_word_count": 8,
+    "haiku_cost": 0.003772
+  },
+  "content": {
+    "full_text": "October 26, 1976\n\nMs. Melanese Loftin\n120 Montgomery Street\nSan Francisco, California 94106\n\nDear Ms. Loftin:\n\nThis letter is to confirm my advice to you by telephone on\nOctober 21, 1976, regarding the reporting obligations of major\ndonor committees under the Political Reform Act.\n\nYou asked whether persons who are major donor committees under\nGovernment Code Section 82013(c) are required to report campaign\ncontributions made to candidates outside of California. I\nstated that major donor committees must report only contributions\nto and expenditures in behalf of candidates for California state\nand local offices.\n\nSincerely,\n\nNAM HAMBLETON\nSpecial Compliance Representative\n\nNH:mak\n\nbcc: Jeanne\n\nNovember 1, 1976\n\n\nMs. Melanie Loftin\n120 Montgomery Street\nSan Francisco, California 94106\n\nDear Ms. Loftin:\n\nThis letter is to supplement the information contained in my\nletter to you of October 26, 1976.\n\nUnder the Political Reform Act, major donor committees must report\nonly contributions and expenditures relative to California state\nand local ballot measure campaigns.\n\nSincerely,\n\n\nNAN HAMBLETON\nSpecial Compliance Representative\n\n\nNH:mak\n\nbcc: Jeanne",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1976-10-26",
+    "date_raw": "October 26, 1976",
+    "requestor_name": "Loftin",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Whether persons who are major donor committees under Government Code Section 82013(c) are required to report campaign contributions made to candidates outside of California.",
+    "conclusion": "Major donor committees must report only contributions to and expenditures in behalf of candidates for California state and local offices. Under the Political Reform Act, major donor committees must report only contributions and expenditures relative to California state and local ballot measure campaigns.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requestor asked whether major donor committees must report contributions to candidates outside of California or only to California candidates and ballot measures.",
+    "conclusion_synthetic": "Major donor committees are required to report only contributions to and expenditures for California state and local candidates and ballot measures, not contributions to candidates outside California.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document consists of two related letters from October 26 and November 1, 1976, both providing advice on major donor committee reporting obligations. The second letter supplements the first with additional clarification regarding ballot measure campaigns. Both letters are signed by NAN HAMBLETON, Special Compliance Representative."
+  },
+  "citations": {
+    "government_code": [
+      "82013(c)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T17:16:48.410001Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether persons who are major donor committees under Government Code Section 82013(c) are required to report campaign contributions made to candidates outside of California.\n\nCONCLUSION: Major donor committees must report only contributions to and expenditures in behalf of candidates for California state and local offices. Under the Political Reform Act, major donor committees must report only contributions and expenditures relative to California state and local ballot measure campaigns.",
+    "qa_source": "mixed",
+    "first_500_words": "October 26, 1976 Ms. Melanese Loftin 120 Montgomery Street San Francisco, California 94106 Dear Ms. Loftin: This letter is to confirm my advice to you by telephone on October 21, 1976, regarding the reporting obligations of major donor committees under the Political Reform Act. You asked whether persons who are major donor committees under Government Code Section 82013(c) are required to report campaign contributions made to candidates outside of California. I stated that major donor committees must report only contributions to and expenditures in behalf of candidates for California state and local offices. Sincerely, NAN HAMBLETON Special Compliance Representative NH:mak bcc: Jeanne November 1, 1976 Ms. Melanie Loftin 120 Montgomery Street San Francisco, California 94106 Dear Ms. Loftin: This letter is to supplement the information contained in my letter to you of October 26, 1976. Under the Political Reform Act, major donor committees must report only contributions and expenditures relative to California state and local ballot measure campaigns. Sincerely, NAN HAMBLETON Special Compliance Representative NH: mak bcc: Jeanne",
+    "summary": "Two related FPPC advice letters confirming that major donor committees under the Political Reform Act must report only contributions and expenditures for California state and local offices and ballot measures, not contributions to candidates outside California."
+  }
+}

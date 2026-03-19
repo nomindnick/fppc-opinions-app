@@ -1,0 +1,71 @@
+{
+  "id": "83A282",
+  "year": 1983,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1983/83A282.PDF",
+  "pdf_sha256": "b2403b74379addcc8ec136877eecd740527a3b158824bbd480a3e804943efdb2",
+  "local_pdf_path": "raw_pdfs/1983/83A282.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1983 Advice Letter # 83A282",
+    "tags": [
+      "1983",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:33:13",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1983&tagCount=1&page=24"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:53.971728Z",
+    "page_count": 2,
+    "word_count": 265,
+    "char_count": 1680,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 265
+  },
+  "content": {
+    "full_text": "Attorney: \nDate: \nAdvice Letter: \nTelephone: \nQuestion: \nAdvice: \nTELEPHONE ADVICE \nAlice Hughes \n50 November 1983 \nPerson Requestiny Advice \nSenator Boatwight's Aide \nDoes a filer have to report gifts received from \na friend whom he is dating? \nI advised him that gifts of equal value exchanged \nbetween friends on holidays, birthdays, or similar \noccasions, other than from a lobbyist, are exempt \nfrom disclosure. \n(See FPPC Reg. 18727(b)}. \nHe requested that I check \"old\" 721 manuals to see how \nlong that advice had been listed as an exception. \nI \ncalled him back to advise him that the exemption has \nbeen listed since 1977. \nIn addition, I advised him of the memo from Ted Prim \ndated December 15, 1979, indicating that gifts exchanged \nbetween friends who have a bona fide dating relationship \nare not reportable (see attached.) \n\n\nDate: \nAdvice Letter: \nTelephone: \nQuestion: \nAdvice: \nTELEPHONE ADVICE \n~-g3-dg~ \nAlice Hughes \n50 November 1983 \nPerson Requestin~ Advice \nSenator Boatwight's Aide \nDoes a filer have to report gifts received from \na friend whom he is dating? \nI advised him that gifts o£equal value exchanged \nbetween friends on holidays, birthdays, or similar \noccasions, other than from a lobbyist, are exempt \nfrom disclosure. \n(See FPPC Reg. l8727(b}). \nHe requested that I check \"old\" 721 manuals to see how \nlong that advice had been listed as an exception. \nI \ncalled him back to advise him that the exemption has \nbeen listed since 1977. \nIn addition, I advised him of the memo from Ted Prim \ndated December 15, 1979, indicating that gifts exchanged \nbetween friends who have a bona fide dating relationship \nare not reportable (see attached.) \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1979-12-15",
+    "date_raw": "December 15, 1979",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Advice: \nTELEPHONE ADVICE \nAlice Hughes \n50 November 1983 \nPerson Requestiny Advice \nSenator Boatwight's Aide \nDoes a filer have to report gifts received from \na friend whom he is dating? \nI advised him that gifts of equal value exchanged \nbetween friends on holidays, birthdays, or similar \noccasions, other than from a lobbyist, are exempt \nfrom disclosure. \n(See FPPC Reg. 18727(b)}. \nHe requested that I check \"old\" 721 manuals to see how \nlong that advice had been listed as an exception. \nI \ncalled him back to advise him that the exemption has \nbeen listed since 1977. \nIn addition, I advised him of the memo from Ted Prim \ndated December 15, 1979, indicating that gifts exchanged \nbetween friends who have a bona fide dating relationship \nare not reportable (see attached.) \n\n\nDate: \nAdvice Letter: \nTelephone: \nQuestion: \nAdvice: \nTELEPHONE ADVICE \n~-g3-dg~ \nAlice Hughes \n50 November 1983 \nPerson Requestin~ Advice \nSenator Boatwight's Aide \nDoes a filer have to report gifts received from \na friend whom he is dating? \nI advised him that gifts o£equal value exchanged \nbetween friends on holidays, birthdays, or similar \noccasions, other than from a lobbyist, are exempt \nfrom disclosure. \n(See FPPC Reg. l8727(b}). \nHe requested that I check \"old\" 721 manuals to see how \nlong that advice had been listed as an exception. \nI \ncalled him back to advise him that the exemption has \nbeen listed since 1977. \nIn addition, I advised him of the memo from Ted Prim \ndated December 15, 1979, indicating that gifts exchanged \nbetween friends who have a bona fide dating relationship \nare not reportable (see attached.)",
+    "conclusion": "I advised him that gifts of equal value exchanged between friends on holidays, birthdays, or similar occasions, other than from a lobbyist, are exempt from disclosure. (See FPPC Reg. 18727(b)). He requested that I check \"old\" 721 manuals to see how long that advice had been listed as an exception. I called him back to advise him that the exemption has been listed since 1977. In addition, I advised him of the memo from Ted Prim dated December 15, 1979, indicating that gifts exchanged between friends who have a bona fide dating relationship are not reportable (see attached.)",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requestor asked whether gifts received from a dating partner must be reported as gifts under the Political Reform Act.",
+    "conclusion_synthetic": "FPPC advised that gifts of equal value exchanged between friends on holidays, birthdays, or similar occasions are exempt from disclosure under Regulation 18727(b), and that this exemption applies to gifts exchanged between friends with a bona fide dating relationship. The exemption has been in place since 1977 and is further supported by a December 15, 1979 memo from Ted Prim.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern; LLM: Telephone advice format with duplicated sections in source document. Advice references external memo and regulation. Document appears to be from November 50, 1983 (likely November 30, 1983 based on context)."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:36:53.971728Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Advice: \nTELEPHONE ADVICE \nAlice Hughes \n50 November 1983 \nPerson Requestiny Advice \nSenator Boatwight's Aide \nDoes a filer have to report gifts received from \na friend whom he is dating? \nI advised him that gifts of equal value exchanged \nbetween friends on holidays, birthdays, or similar \noccasions, other than from a lobbyist, are exempt \nfrom disclosure. \n(See FPPC Reg. 18727(b)}. \nHe requested that I check \"old\" 721 manuals to see how \nlong that advice had been listed as an exception. \nI \ncalled him back to advise him that the exemption has \nbeen listed since 1977. \nIn addition, I advised him of the memo from Ted Prim \ndated December 15, 1979, indicating that gifts exchanged \nbetween friends who have a bona fide dating relationship \nare not reportable (see attached.) \n\n\nDate: \nAdvice Letter: \nTelephone: \nQuestion: \nAdvice: \nTELEPHONE ADVICE \n~-g3-dg~ \nAlice Hughes \n50 November 1983 \nPerson Requestin~ Advice \nSenator Boatwight's Aide \nDoes a filer have to report gifts received from \na friend whom he is dating? \nI advised him that gifts o£equal value exchanged \nbetween friends on holidays, birthdays, or similar \noccasions, other than from a lobbyist, are exempt \nfrom disclosure. \n(See FPPC Reg. l8727(b}). \nHe requested that I check \"old\" 721 manuals to see how \nlong that advice had been listed as an exception. \nI \ncalled him back to advise him that the exemption has \nbeen listed since 1977. \nIn addition, I advised him of the memo from Ted Prim \ndated December 15, 1979, indicating that gifts exchanged \nbetween friends who have a bona fide dating relationship \nare not reportable (see attached.)\n\nCONCLUSION: I advised him that gifts of equal value exchanged between friends on holidays, birthdays, or similar occasions, other than from a lobbyist, are exempt from disclosure. (See FPPC Reg. 18727(b)). He requested that I check \"old\" 721 manuals to see how long that advice had been listed as an exception. I called him back to advise him that the exemption has been listed since 1977. In addition, I advised him of the memo from Ted Prim dated December 15, 1979, indicating that gifts exchanged between friends who have a bona fide dating relationship are not reportable (see attached.)",
+    "qa_source": "mixed",
+    "first_500_words": "Attorney: Date: Advice Letter: Telephone: Question: Advice: TELEPHONE ADVICE Alice Hughes 50 November 1983 Person Requestiny Advice Senator Boatwight's Aide Does a filer have to report gifts received from a friend whom he is dating? I advised him that gifts of equal value exchanged between friends on holidays, birthdays, or similar occasions, other than from a lobbyist, are exempt from disclosure. (See FPPC Reg. 18727(b)}. He requested that I check \"old\" 721 manuals to see how long that advice had been listed as an exception. I called him back to advise him that the exemption has been listed since 1977. In addition, I advised him of the memo from Ted Prim dated December 15, 1979, indicating that gifts exchanged between friends who have a bona fide dating relationship are not reportable (see attached.) Date: Advice Letter: Telephone: Question: Advice: TELEPHONE ADVICE ~-g3-dg~ Alice Hughes 50 November 1983 Person Requestin~ Advice Senator Boatwight's Aide Does a filer have to report gifts received from a friend whom he is dating? I advised him that gifts o£equal value exchanged between friends on holidays, birthdays, or similar occasions, other than from a lobbyist, are exempt from disclosure. (See FPPC Reg. l8727(b}). He requested that I check \"old\" 721 manuals to see how long that advice had been listed as an exception. I called him back to advise him that the exemption has been listed since 1977. In addition, I advised him of the memo from Ted Prim dated December 15, 1979, indicating that gifts exchanged between friends who have a bona fide dating relationship are not reportable (see attached.)",
+    "summary": "FPPC telephone advice letter addressing whether gifts received from a dating partner must be reported. FPPC advised that such gifts are exempt from disclosure when exchanged between friends on holidays, birthdays, or similar occasions, provided the gift giver is not a lobbyist."
+  }
+}

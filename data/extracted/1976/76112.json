@@ -1,0 +1,71 @@
+{
+  "id": "76112",
+  "year": 1976,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1976/76112.PDF",
+  "pdf_sha256": "1c711736734e3235d46ca809ef00e1d147186ee03ef913f20f4cf1a5cf8df3fa",
+  "local_pdf_path": "raw_pdfs/1976/76112.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1976 Advice Letter # 76112",
+    "tags": [
+      "1976",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:15:59",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1976&tagCount=1&page=19"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-07T17:16:45.338880Z",
+    "page_count": 1,
+    "word_count": 184,
+    "char_count": 1149,
+    "quality_score": 0.9262031971954747,
+    "olmocr_cost": 0.00258774,
+    "native_word_count": 19
+  },
+  "content": {
+    "full_text": "Memorandum\n\nTo: Alfredo, Del, Dan, Barbara, Ken G., Mickey, Rich M., Ed, Jeanne, Fred, Dawn, Mike, Bob S., Gina, Ted, John K., Rich E., Jay\n\nDate: Dec. 21, 1976\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION\nKen Goshorn\n\nSubject: Whether Retirement Benefits from the State, Social Security and Similar Types of Payments are \"Income\"\n\nAt the opinion request meeting of December 20, 1976, the staff discussed the referenced issue. It was agreed that there were substantial policy reasons for excluding payments of the subject type from the definition of income. However, such a position may require issuance of a regulation or a statutory amendment. Furthermore, the pending Richard Moore opinion, No. 76-074, touches on the issue and will be heard by the Commission in January.\n\nAccordingly, it was impossible to arrive at a definitive conclusion. It was agreed that for the purpose of giving interim advice, the staff will advise filers of Form 721 that payments of this type from public (i.e. state, federal, local government) sources need not be disclosed but payments of a similar type from private sector benefit plans should be reported.\n\nKG:av",
+    "full_text_markdown": "Memorandum\n\nTo: Alfredo, Del, Dan, Barbara, Ken G., Mickey, Rich M., Ed, Jeanne, Fred, Dawn, Mike, Bob S., Gina, Ted, John K., Rich E., Jay\n\nDate: Dec. 21, 1976\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION\nKen Goshorn\n\nSubject: Whether Retirement Benefits from the State, Social Security and Similar Types of Payments are \"Income\"\n\nAt the opinion request meeting of December 20, 1976, the staff discussed the referenced issue. It was agreed that there were substantial policy reasons for excluding payments of the subject type from the definition of income. However, such a position may require issuance of a regulation or a statutory amendment. Furthermore, the pending Richard Moore opinion, No. 76-074, touches on the issue and will be heard by the Commission in January.\n\nAccordingly, it was impossible to arrive at a definitive conclusion. It was agreed that for the purpose of giving interim advice, the staff will advise filers of Form 721 that payments of this type from public (i.e. state, federal, local government) sources need not be disclosed but payments of a similar type from private sector benefit plans should be reported.\n\nKG:av"
+  },
+  "parsed": {
+    "date": "1976-12-20",
+    "date_raw": "December 20, 1976",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether retirement benefits from the State, Social Security, and similar types of payments should be classified as 'income' for disclosure purposes under FPPC regulations.",
+    "conclusion_synthetic": "The FPPC staff determined that while there are policy reasons to exclude such payments from the income definition, a definitive conclusion was impossible pending the Richard Moore opinion (No. 76-074). Interim guidance: public sector retirement/benefit payments need not be disclosed, but similar payments from private sector plans should be reported on Form 721.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.75,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Internal memorandum rather than formal advice letter; no traditional QUESTION/CONCLUSION sections; addresses policy question discussed at staff meeting; pending related opinion (76-074) noted as relevant to final determination; interim guidance provided pending further action"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T17:16:45.338880Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether retirement benefits from the State, Social Security, and similar types of payments should be classified as 'income' for disclosure purposes under FPPC regulations.\n\nCONCLUSION: The FPPC staff determined that while there are policy reasons to exclude such payments from the income definition, a definitive conclusion was impossible pending the Richard Moore opinion (No. 76-074). Interim guidance: public sector retirement/benefit payments need not be disclosed, but similar payments from private sector plans should be reported on Form 721.",
+    "qa_source": "synthetic",
+    "first_500_words": "**Memorandum** To: Alfredo, Del, Dan, Barbara, Ken G., Mickey, Rich M., Ed, Jeanne, Fred, Dawn, Mike, Bob S., Gina, Ted, John K., Rich E., Jay Date: Dec. 21, 1976 From: FAIR POLITICAL PRACTICES COMMISSION Ken Goshorn Subject: Whether Retirement Benefits from the State, Social Security and Similar Types of Payments are \"Income\" At the opinion request meeting of December 20, 1976, the staff discussed the referenced issue. It was agreed that there were substantial policy reasons for excluding payments of the subject type from the definition of income. However, such a position may require issuance of a regulation or a statutory amendment. Furthermore, the pending Richard Moore opinion, No. 76-074, touches on the issue and will be heard by the Commission in January. Accordingly, it was impossible to arrive at a definitive conclusion. It was agreed that for the purpose of giving interim advice, the staff will advise filers of Form 721 that payments of this type from public (i.e. state, federal, local government) sources need not be disclosed but payments of a similar type from private sector benefit plans should be reported. KG:av",
+    "summary": "Internal FPPC memorandum from staff meeting discussing whether retirement benefits and similar payments constitute reportable 'income' under FPPC disclosure requirements, concluding that interim guidance should distinguish between public and private sector benefit payments pending further regulatory or statutory clarification."
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "76081",
+  "year": 1976,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1976/76081.PDF",
+  "pdf_sha256": "c19d1fb5565315d6ada74953f78c30942fb16da0be2ac6ab5b0bea85ec5a7975",
+  "local_pdf_path": "raw_pdfs/1976/76081.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1976 Advice Letter # 76081",
+    "tags": [
+      "1976",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:17:36",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1976&tagCount=1&page=41"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:21.496182Z",
+    "page_count": 1,
+    "word_count": 255,
+    "char_count": 1590,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 255
+  },
+  "content": {
+    "full_text": "PAuL \nWATKINS (1899~ 197 \nDANA \n(1898~ 1974) \nr;ABLE ADDRESS LATrWAT \nL~ATHA:M & WATKINS \nATTOR N EYS AT LAW \n555 SOUTH FLOWER STREET \nLOS ANGELES. CALIFORNIA 90071 \nTELEPHONE (213) 485 1234 \nOctober 1, 1976 \nKenneth Finney, Esq. \nFair Political Practices Commission \nP. O. Box 807 \n1100 K Street Building \nSacramento, California 95814 \nDear Ken: \nORANGE COUNTY OFFICE \n660 NEWPORT CENTER DRIVE \nNEWPORT BEACH. CA~IFORNIA 92660 \nTELEPHONE (7i4) 752 9100 \nThis is to confirm our conversation of today \nconcerning our client which has recently discovered that \nit failed to report certain cash contributions to a \npolitical committee in 1975. \nYou have informed me as follows: \nOur client, \nor I, acting on its behalf, should write the Commission \nand explain what contributions our client inadvertently \nfailed to report. \nYou will respond with a letter directing \nour client to file the 1975 data along with the timely filing \nof its 1976 contribution report. \nYour present expectation \nis that in the letter you will state that our client is not \nsubject to sanctions under the Political Reform Act of 1974, \nas amended, over which the Commission has jurisdiction. \nFinally, you suggest that we file with the Secretary of \nState not only our reports but also copies of our corre-\nspondence with you. \nIt is also your present understanding \nthat the Secretary of State will impose no sanctions on \nour client for the inadvertent failure to report. \nIf this letter misstates our understanding, please \nlet me know as soon as possible. \nVery truly yours, \nReed E. Hundt \nof LATHAM & WATKINS \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1976-10-01",
+    "date_raw": "October 1, 1976",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "An attorney seeks confirmation that their client, which inadvertently failed to report certain cash contributions to a political committee in 1975, will not be subject to sanctions under the Political Reform Act of 1974 if they file the unreported data with their 1976 contribution report.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an incoming request/correspondence letter from an attorney to FPPC, not an FPPC advice response. The letter confirms an oral conversation with Kenneth Finney regarding compliance procedures for unreported contributions. No formal question or conclusion sections are present; the document is structured as a confirmation letter summarizing FPPC's informal guidance."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:21.496182Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: An attorney seeks confirmation that their client, which inadvertently failed to report certain cash contributions to a political committee in 1975, will not be subject to sanctions under the Political Reform Act of 1974 if they file the unreported data with their 1976 contribution report.",
+    "qa_source": "synthetic",
+    "first_500_words": "PAuL WATKINS (1899~ 197 DANA (1898~ 1974) r;ABLE ADDRESS LATrWAT L~ATHA:M & WATKINS ATTOR N EYS AT LAW 555 SOUTH FLOWER STREET LOS ANGELES. CALIFORNIA 90071 TELEPHONE (213) 485 1234 October 1, 1976 Kenneth Finney, Esq. Fair Political Practices Commission P. O. Box 807 1100 K Street Building Sacramento, California 95814 Dear Ken: ORANGE COUNTY OFFICE 660 NEWPORT CENTER DRIVE NEWPORT BEACH. CA~IFORNIA 92660 TELEPHONE (7i4) 752 9100 This is to confirm our conversation of today concerning our client which has recently discovered that it failed to report certain cash contributions to a political committee in 1975. You have informed me as follows: Our client, or I, acting on its behalf, should write the Commission and explain what contributions our client inadvertently failed to report. You will respond with a letter directing our client to file the 1975 data along with the timely filing of its 1976 contribution report. Your present expectation is that in the letter you will state that our client is not subject to sanctions under the Political Reform Act of 1974, as amended, over which the Commission has jurisdiction. Finally, you suggest that we file with the Secretary of State not only our reports but also copies of our corre- spondence with you. It is also your present understanding that the Secretary of State will impose no sanctions on our client for the inadvertent failure to report. If this letter misstates our understanding, please let me know as soon as possible. Very truly yours, Reed E. Hundt of LATHAM & WATKINS",
+    "summary": "An attorney from Latham & Watkins writes to FPPC staff to confirm an informal conversation regarding their client's inadvertent failure to report 1975 political contributions, seeking confirmation that no sanctions will apply if the client files the missing data with its 1976 report."
+  }
+}

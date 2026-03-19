@@ -1,0 +1,73 @@
+{
+  "id": "84262",
+  "year": 1984,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1984/fppc-advice/84262.PDF",
+  "pdf_sha256": "8d9063b93309182993c0d3fb1acc73908cba56ae3a8ca152acb02dcc3d6d92a3",
+  "local_pdf_path": "raw_pdfs/1984/84262.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1984 Advice Letter # 84262",
+    "tags": [
+      "1984",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:33:52",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1984&tagCount=1&page=6"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T22:31:41.986278Z",
+    "page_count": 1,
+    "word_count": 227,
+    "char_count": 1451,
+    "quality_score": 0.9220667067586368,
+    "olmocr_cost": 0.00261526,
+    "native_word_count": 200
+  },
+  "content": {
+    "full_text": "This memorandum is from the Fair Political Practices Commission, dated October 17, 1984, and addressed to Advice Files -- Section 84308. The subject is an application of Prohibition Advice No. T-84-262.\n\nJonathan Smith, attorney for the Bay Conservation and Development Commission, called for advice on behalf of San Francisco Supervisor Carol Ruth Silver. Ms. Silver is a member of BCDC, and she is running for re-election as supervisor in the November election.\n\nFACTS: Less than one month ago, BCDC voted to deny a permit to Continental Development Corporation. Ms. Silver was not able to attend the meeting, so she sent her alternate in her place. Now Continental Development Corporation wants to make a campaign contribution to Ms. Silver's re-election campaign of over $250.\n\nISSUE: Is this contribution prohibited under Section 84308?\n\nADVICE: Yes. The statute states clearly that during a proceeding involving a license, permit or other entitlement for use and for three months following a decision in the proceeding no official of the agency shall accept, solicit or direct a contribution of $250 or more from the applicant. The fact that her alternate actually participated in the proceeding does not make any difference. The prohibition applies to all of the decisionmakers whether or not they actually participated. If she had disqualified herself at the proceeding based upon 84308, the prohibition would still have applied also.\n\nDMF:nwm",
+    "full_text_markdown": "This memorandum is from the Fair Political Practices Commission, dated October 17, 1984, and addressed to Advice Files -- Section 84308. The subject is an application of Prohibition Advice No. T-84-262.\n\nJonathan Smith, attorney for the Bay Conservation and Development Commission, called for advice on behalf of San Francisco Supervisor Carol Ruth Silver. Ms. Silver is a member of BCDC, and she is running for re-election as supervisor in the November election.\n\nFACTS: Less than one month ago, BCDC voted to deny a permit to Continental Development Corporation. Ms. Silver was not able to attend the meeting, so she sent her alternate in her place. Now Continental Development Corporation wants to make a campaign contribution to Ms. Silver's re-election campaign of over $250.\n\nISSUE: Is this contribution prohibited under Section 84308?\n\nADVICE: Yes. The statute states clearly that during a proceeding involving a license, permit or other entitlement for use and for three months following a decision in the proceeding no official of the agency shall accept, solicit or direct a contribution of $250 or more from the applicant. The fact that her alternate actually participated in the proceeding does not make any difference. The prohibition applies to all of the decisionmakers whether or not they actually participated. If she had disqualified herself at the proceeding based upon 84308, the prohibition would still have applied also.\n\nDMF:nwm"
+  },
+  "parsed": {
+    "date": "1984-10-17",
+    "date_raw": "October 17, 1984",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": "Less than one month ago, BCDC voted to deny a permit to Continental Development Corporation. Ms. Silver was not able to attend the meeting, so she sent her alternate in her place. Now Continental Development Corporation wants to make a campaign contribution to Ms. Silver's re-election campaign of over $250.\n\nISSUE: Is this contribution prohibited under Section 84308?\n\nADVICE: Yes. The statute states clearly that during a proceeding involving a license, permit or other entitlement for use and for three months following a decision in the proceeding no official of the agency shall accept, solicit or direct a contribution of $250 or more from the applicant. The fact that her alternate actually participated in the proceeding does not make any difference. The prohibition applies to all of the decisionmakers whether or not they actually participated. If she had disqualified herself at the proceeding based upon 84308, the prohibition would still have applied also.\n\nDMF:nwm",
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.25,
+    "has_standard_format": false,
+    "parsing_notes": "Format: modern"
+  },
+  "citations": {
+    "government_code": [
+      "84308"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-19T22:31:41.986278Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "This memorandum is from the Fair Political Practices Commission, dated October 17, 1984, and addressed to Advice Files -- Section 84308. The subject is an application of Prohibition Advice No. T-84-262. Jonathan Smith, attorney for the Bay Conservation and Development Commission, called for advice on behalf of San Francisco Supervisor Carol Ruth Silver. Ms. Silver is a member of BCDC, and she is running for re-election as supervisor in the November election. FACTS: Less than one month ago, BCDC voted to deny a permit to Continental Development Corporation. Ms. Silver was not able to attend the meeting, so she sent her alternate in her place. Now Continental Development Corporation wants to make a campaign contribution to Ms. Silver's re-election campaign of over $250. ISSUE: Is this contribution prohibited under Section 84308? ADVICE: Yes. The statute states clearly that during a proceeding involving a license, permit or other entitlement for use and for three months following a decision in the proceeding no official of the agency shall accept, solicit or direct a contribution of $250 or more from the applicant. The fact that her alternate actually participated in the proceeding does not make any difference. The prohibition applies to all of the decisionmakers whether or not they actually participated. If she had disqualified herself at the proceeding based upon 84308, the prohibition would still have applied also. DMF:nwm",
+    "qa_source": "extracted",
+    "first_500_words": "This memorandum is from the Fair Political Practices Commission, dated October 17, 1984, and addressed to Advice Files -- Section 84308. The subject is an application of Prohibition Advice No. T-84-262. Jonathan Smith, attorney for the Bay Conservation and Development Commission, called for advice on behalf of San Francisco Supervisor Carol Ruth Silver. Ms. Silver is a member of BCDC, and she is running for re-election as supervisor in the November election. FACTS: Less than one month ago, BCDC voted to deny a permit to Continental Development Corporation. Ms. Silver was not able to attend the meeting, so she sent her alternate in her place. Now Continental Development Corporation wants to make a campaign contribution to Ms. Silver's re-election campaign of over $250. ISSUE: Is this contribution prohibited under Section 84308? ADVICE: Yes. The statute states clearly that during a proceeding involving a license, permit or other entitlement for use and for three months following a decision in the proceeding no official of the agency shall accept, solicit or direct a contribution of $250 or more from the applicant. The fact that her alternate actually participated in the proceeding does not make any difference. The prohibition applies to all of the decisionmakers whether or not they actually participated. If she had disqualified herself at the proceeding based upon 84308, the prohibition would still have applied also. DMF:nwm",
+    "summary": null
+  }
+}

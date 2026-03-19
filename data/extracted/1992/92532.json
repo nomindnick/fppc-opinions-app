@@ -1,0 +1,72 @@
+{
+  "id": "92532",
+  "year": 1992,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1992/92532.pdf",
+  "pdf_sha256": "05bad5bb3d70219ee800ae126c9724fd06cd1682d82955d5320abb83ed5c80a9",
+  "local_pdf_path": "raw_pdfs/1992/92532.pdf",
+  "source_metadata": {
+    "title_raw": "Bosshard, Jeffrey Year: 1992 Advice Letter # 92532",
+    "tags": [
+      "Advice Letter",
+      "1992"
+    ],
+    "scraped_at": "2026-01-31 16:30:01",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1992&tagCount=1&page=96"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T17:55:39.013604Z",
+    "page_count": 1,
+    "word_count": 164,
+    "char_count": 1118,
+    "quality_score": 0.8542738721244701,
+    "olmocr_cost": 0.00240026,
+    "native_word_count": 164,
+    "haiku_cost": 0.0024032000000000003
+  },
+  "content": {
+    "full_text": "QD532\n\nJeffrey J. Bosshard\nAttorney at Law\n\nOCT 0 5 1992\n\n123 Jewell Street\nSanta Cruz, California 95060\n(408) 426-8811\n\nOctober 5, 1992\n\n\nPolitical Fair Practices Commission\n428 J Street #800\nSacramento, CA  95814\n\nGentlemen:\n\n     I represent a client who is a member of a local city council who has raised a question concerning the disclosure of information on his Form 721 \"Statement of Economic Interests\".  I would appreciate a prompt written response to this inquiry.\n\n     My client owns a home in his city, to which there is an attached garage with an apartment over it, all on the same parcel of land.  Although built for other purposes, the apartment is currently being rented to a friend.  This generates at least two questions:\n\n     1.  Should the home itself be listed as an \"investment\" on Schedule A?\n\n     2.  Should the rent income be included on Schedule D, although it does not qualify as \"income\" for Federal Income Tax purposes?\n\n                                        Yours truly,\n\n                                        [Signature]\n                                        Jeffrey J. Bosshard",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": "Bosshard",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T23:24:59.446946Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "The letter is from Jeffrey J. Bosshard, an attorney at law, to the Political Fair Practices Commission regarding a client who owns a home with an attached garage and apartment over it, all on the same parcel of land. The client rents the apartment to a friend and has two questions: 1. Should the home itself be listed as an \"investment\" on Schedule A? 2. Should the rent income be included on Schedule D, although it does not qualify as \"income\" for Federal Income Tax purposes? Yours truly, Jeffrey J. Bosshard",
+    "qa_source": "extracted",
+    "first_500_words": "The letter is from Jeffrey J. Bosshard, an attorney at law, to the Political Fair Practices Commission regarding a client who owns a home with an attached garage and apartment over it, all on the same parcel of land. The client rents the apartment to a friend and has two questions: 1. Should the home itself be listed as an \"investment\" on Schedule A? 2. Should the rent income be included on Schedule D, although it does not qualify as \"income\" for Federal Income Tax purposes? Yours truly, Jeffrey J. Bosshard",
+    "summary": null
+  }
+}

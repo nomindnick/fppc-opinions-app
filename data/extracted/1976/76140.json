@@ -1,0 +1,71 @@
+{
+  "id": "76140",
+  "year": 1976,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1976/76140.PDF",
+  "pdf_sha256": "99445acb545c30a9e577d0fe8a84b03c09af805adf7cfddb6e20fc1d0e000704",
+  "local_pdf_path": "raw_pdfs/1976/76140.PDF",
+  "source_metadata": {
+    "title_raw": "PROSS, ALLEN Year: 1976 Advice Letter # 76140",
+    "tags": [
+      "1976",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:17:32",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1976&tagCount=1&page=40"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:21.376642Z",
+    "page_count": 2,
+    "word_count": 208,
+    "char_count": 1255,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 208
+  },
+  "content": {
+    "full_text": ".June \n7 \n/ \ncal \nI \n\n\nCalifornia ;\\;\\edical Politi \nI \nMarket Street \nSan \nMay 18, 1976 \nFair Political Practices Commission \n1100 K Street \nSacramento, CA \n95814 \nATTENTION: \nNatalie West \nDear Ms. West: \nCalifornia 94103 \nPursuant to our telephone conversation, I would like to request an \nopinion as to whether it is necessary under law to provide on com-\nmittee campaign statements the residential address of a political \naction committee's treasurer. \nCALPAC has routinely filled out Form 420 indicating that the mail-\ning address for all correspondence and the phone number is as \nlisted above on our letterhead. \nRequiring the residential address \nand phone number to appear on the form smacks of invasion of privacy \nand serves no useful purpose as long as the treasurer can be readily \nreached at the address of the committee itself. \nI know that Mr. Bryant, Elections Deputy for the County of Los Angeles, \nis also interested in a solution to this problem. \nIf you need any \nfurther information or desire clarification, please do not hesitate \nto give me a call. \nALP: j 1 \ncc: \nMr. Richard W, Bryant \nA \n<if our report \nfiled \nthe Federal Election \nA 1 1 en L. Pros s , \nExecutive Secretary \nand is \nfor \nfrom the \nElection \nWa\"hington, D,(' \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1976-05-18",
+    "date_raw": "May 18, 1976",
+    "requestor_name": "West",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "Pursuant to our telephone conversation, I would like to request an opinion as to whether it is necessary under law to provide on committee campaign statements the residential address of a political action committee's treasurer.",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Does the Fair Political Practices Act require a political action committee to disclose the treasurer's residential address on campaign statements (Form 420), or is the mailing address of the committee itself and phone number sufficient?",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an incoming request from CALPAC to FPPC seeking an opinion, not an FPPC response letter. No conclusion or advice from FPPC is present. Document dated May 18, 1976 (Document ID 76140). Form 420 and privacy concerns mentioned. County Elections Deputy Richard Bryant also interested in the matter."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:21.376642Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Pursuant to our telephone conversation, I would like to request an opinion as to whether it is necessary under law to provide on committee campaign statements the residential address of a political action committee's treasurer.",
+    "qa_source": "mixed",
+    "first_500_words": ".June 7 / cal I California ;\\;\\edical Politi I Market Street San May 18, 1976 Fair Political Practices Commission 1100 K Street Sacramento, CA 95814 ATTENTION: Natalie West Dear Ms. West: California 94103 Pursuant to our telephone conversation, I would like to request an opinion as to whether it is necessary under law to provide on com- mittee campaign statements the residential address of a political action committee's treasurer. CALPAC has routinely filled out Form 420 indicating that the mail- ing address for all correspondence and the phone number is as listed above on our letterhead. Requiring the residential address and phone number to appear on the form smacks of invasion of privacy and serves no useful purpose as long as the treasurer can be readily reached at the address of the committee itself. I know that Mr. Bryant, Elections Deputy for the County of Los Angeles, is also interested in a solution to this problem. If you need any further information or desire clarification, please do not hesitate to give me a call. ALP: j 1 cc: Mr. Richard W, Bryant A <if our report filed the Federal Election A 1 1 en L. Pros s , Executive Secretary and is for from the Election Wa\"hington, D,('",
+    "summary": "California Medical Political Action Committee (CALPAC) seeks FPPC guidance on whether Form 420 campaign statements must include a treasurer's residential address and phone number, arguing that the committee's business address and phone suffice and that residential information raises privacy concerns."
+  }
+}

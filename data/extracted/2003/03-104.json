@@ -1,0 +1,75 @@
+{
+  "id": "03-104",
+  "year": 2003,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2003/03-104.pdf",
+  "pdf_sha256": "0f78ed39bfbe26a10792e86b97f0891628ddca3fad975c604c4c2b46e584d902",
+  "local_pdf_path": "raw_pdfs/2003/03-104.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2003 Advice Letter # 03-104",
+    "tags": [
+      "2003",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:38:34",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2003&tagCount=1&page=12"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:21.426784Z",
+    "page_count": 1,
+    "word_count": 230,
+    "char_count": 1464,
+    "quality_score": 0.635,
+    "olmocr_cost": null,
+    "native_word_count": 230
+  },
+  "content": {
+    "full_text": "Farn Polrrrcal PnACTTcES CovrrrarssroN\n428 J Street. Suite 620. Sacramento, CA 95814-2329\n(916) 322-5660. Fax (916) 322-0886\nMay 27,2003\nRoger Rodoni, Supervisor\nCounty of Humboldt\n825 5h Street\nEureka, CA 95501-1 153\nRe:\nDear Mr. Rodoni\nYour Request for Advice\nOur File No. W-03-104\nThis letter is in response to your request for written advice on the conflict-of-interest\nprovisions of the Political Reform Act.l Your question concerns your ability to determine fair\nmarket value for the ranch you lease in Humboldt County. The Fair Political Practices\nCommission does not act as a finder of fact when providing advice. (In re Oglesby (1975) I\nFPPC ops.71.)\nCurrently, the same or very similar issues are the subject of a pending investigation by\nthe Enforcement Division. Moreover, your question involves analysii of a series of interrelaied\ndecisions, some of which may have already occurred, such that issuing further advice at this time\nwould relate to past conduct and, therefore, would not further the impartial, effective\nadministration of the Act so mandated by section 831 1 1 . Your request is therefore considered\nwithdrawn.\nShould you have additional questions regarding this matter, please do not hesitate to\ncontact me at (916) 322-5660.\nSincerely,\nLuisa Menchaca\nCounsel\nW. Wallace\nGeneral Counsel\n' Government Code sections 81000 - gl}14. Commission regulations appear at Title 2, sections 18109 -\n18997, of the California Code of Regulations.\n@\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2003-05-27",
+    "date_raw": "May 27,2003",
+    "requestor_name": "Rodoni\nYour",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Can a county supervisor determine fair market value for a ranch he leases in Humboldt County under the Political Reform Act's conflict-of-interest provisions?",
+    "conclusion_synthetic": "The FPPC withdrew the advice request because a pending investigation by the Enforcement Division involves the same issues, and analyzing the interrelated decisions—some of which may have already occurred—would relate to past conduct and would not further impartial administration of the Act.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Withdrawal letter rather than standard advice letter. No separate QUESTION or CONCLUSION sections; legal question and reasoning are embedded in body text. File reference given as W-03-104 (W prefix indicates withdrawal)."
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [
+      "18109"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:34:21.426784Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Can a county supervisor determine fair market value for a ranch he leases in Humboldt County under the Political Reform Act's conflict-of-interest provisions?\n\nCONCLUSION: The FPPC withdrew the advice request because a pending investigation by the Enforcement Division involves the same issues, and analyzing the interrelated decisions—some of which may have already occurred—would relate to past conduct and would not further impartial administration of the Act.",
+    "qa_source": "synthetic",
+    "first_500_words": "Farn Polrrrcal PnACTTcES CovrrrarssroN 428 J Street. Suite 620. Sacramento, CA 95814-2329 (916) 322-5660. Fax (916) 322-0886 May 27,2003 Roger Rodoni, Supervisor County of Humboldt 825 5h Street Eureka, CA 95501-1 153 Re: Dear Mr. Rodoni Your Request for Advice Our File No. W-03-104 This letter is in response to your request for written advice on the conflict-of-interest provisions of the Political Reform Act.l Your question concerns your ability to determine fair market value for the ranch you lease in Humboldt County. The Fair Political Practices Commission does not act as a finder of fact when providing advice. (In re Oglesby (1975) I FPPC ops.71.) Currently, the same or very similar issues are the subject of a pending investigation by the Enforcement Division. Moreover, your question involves analysii of a series of interrelaied decisions, some of which may have already occurred, such that issuing further advice at this time would relate to past conduct and, therefore, would not further the impartial, effective administration of the Act so mandated by section 831 1 1 . Your request is therefore considered withdrawn. Should you have additional questions regarding this matter, please do not hesitate to contact me at (916) 322-5660. Sincerely, Luisa Menchaca Counsel W. Wallace General Counsel ' Government Code sections 81000 - gl}14. Commission regulations appear at Title 2, sections 18109 - 18997, of the California Code of Regulations. @",
+    "summary": "The FPPC withdrew an advice request from Humboldt County Supervisor Roger Rodoni regarding fair market value determination for a leased ranch, citing a pending investigation and the request's relation to past conduct."
+  }
+}

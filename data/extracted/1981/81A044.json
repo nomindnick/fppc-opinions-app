@@ -1,0 +1,76 @@
+{
+  "id": "81A044",
+  "year": 1981,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1981/81A044.PDF",
+  "pdf_sha256": "d260e6e805fb95dea06115759631ac06a56443a370613f30785ea152fec5b32e",
+  "local_pdf_path": "raw_pdfs/1981/81A044.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1981 Advice Letter # 81A044",
+    "tags": [
+      "Advice Letter",
+      "1981"
+    ],
+    "scraped_at": "2026-01-31 15:28:11",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1981&tagCount=1&page=2"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T16:18:42.471343Z",
+    "page_count": 2,
+    "word_count": 421,
+    "char_count": 2617,
+    "quality_score": 0.9100345321419838,
+    "olmocr_cost": 0.00514366,
+    "native_word_count": 25,
+    "haiku_cost": 0.0051400000000000005
+  },
+  "content": {
+    "full_text": "State of California\nFair Political Practices Commission\nP.O. BOX 807 • SACRAMENTO, 95804 • • • 1100 K STREET BUILDING, SACRAMENTO, 95814\n\nTechnical Assistance • • Administration • • Executive/Legal • • Enforcement • • Statements of Economic Interest\n(916) 322-5662 322-5660 322-5901 322-6441 322-6444\n\nAugust 19, 1981\n\nMs. Thelma N. Kail\nChief Deputy City Clerk\nCity of Pico Rivera\n6615 Passons Boulevard\nPico Rivera, CA 90660\n\nDear Ms. Kail:\n\nIn your letter of August 14, 1981, you asked whether contributions to candidates could result in a conflict of interest under the Political Reform Act. Government Code, §87100, prohibits public officials from making or participating in making any governmental decisions in which they have a financial interest. A public official has a financial interest in a decision, as defined in §87103, if the decision will have a material financial effect on any source of income to the official. A person does not become a source of income to a public official merely by making a campaign contribution to that official. §82030(b)(1). Therefore, the fact that a public official has received a campaign contribution does not create a conflict of interest problem under the Political Reform Act. Furthermore, there is nothing in the Act which prevents a public official from making campaign contributions to any other candidate, either State or local. Therefore, in answer to your questions, none of the situations you describe constitute a conflict of interest situation under the Political Reform Act.\n\nIf you have any further questions on this matter, please feel free to contact me.\n\nVery truly yours,\n\nBarbara A. Milman\nChief\nLegal Division\n\nFile: GCS82030 and §87100\n\nBAM:ce\n\nCity of Pico Rivera\n\n6615 PASSONS BOULEVARD • PICO RIVERA, CALIFORNIA 90660\n\nAugust 14, 1981\n\nFair Political Practices Commission\n1100 K Street\nSacramento, California 95814\n\nREQUEST FOR OPINION\n\nThe City of Pico Rivera has not adopted any Ordinance or other forms\nof limitations regarding contributions to a candidate for City Council.\nCan a State Assemblyman contribute to a candidate in his own district\nwithout having a conflict of interest?\n\nThe City owns a Municipal Golf Course and contracts for a manager of\nsame. Can that person contribute to a candidate for City Council\nwithout creating a conflict?\n\nThe garbage and trash haulers in the City have an agreement with the\nCity for hauling and picking up garbage and trash. Will a contribution\nfrom them to a candidate cause any problems?\n\nI would appreciate an answer as soon as possible.\n\nVery truly yours,\n\nThelma M. Kail\nChief Deputy City Clerk",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1981-08-19",
+    "date_raw": "August 19, 1981",
+    "requestor_name": "Kail",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Can a State Assemblyman contribute to a candidate in his own district without having a conflict of interest? The City owns a Municipal Golf Course and contracts for a manager of same. Can that person contribute to a candidate for City Council without creating a conflict? The garbage and trash haulers in the City have an agreement with the City for hauling and picking up garbage and trash. Will a contribution from them to a candidate cause any problems?",
+    "conclusion": "A public official has a financial interest in a decision if the decision will have a material financial effect on any source of income to the official. A person does not become a source of income to a public official merely by making a campaign contribution to that official. Therefore, the fact that a public official has received a campaign contribution does not create a conflict of interest problem under the Political Reform Act. Furthermore, there is nothing in the Act which prevents a public official from making campaign contributions to any other candidate, either State or local. Therefore, none of the situations described constitute a conflict of interest situation under the Political Reform Act.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requester asked whether campaign contributions by a State Assemblyman, a municipal golf course manager, and garbage/trash haulers to local candidates would create conflicts of interest under the Political Reform Act, given that the City of Pico Rivera had not adopted any contribution limitations.",
+    "conclusion_synthetic": "The FPPC concluded that campaign contributions do not create a conflict of interest under Government Code §87100, as a person making a contribution does not become a 'source of income' to the recipient merely through the contribution. Public officials are free to make campaign contributions to other candidates without triggering conflict of interest restrictions.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document contains both the incoming request letter (dated August 14, 1981) and the FPPC response letter (dated August 19, 1981). The question and conclusion sections are clearly identifiable. References to Government Code §87100, §87103, and §82030(b)(1) are cited."
+  },
+  "citations": {
+    "government_code": [
+      "82030(b)(1)",
+      "87100",
+      "87103"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T16:33:32.626552Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Can a State Assemblyman contribute to a candidate in his own district without having a conflict of interest? The City owns a Municipal Golf Course and contracts for a manager of same. Can that person contribute to a candidate for City Council without creating a conflict? The garbage and trash haulers in the City have an agreement with the City for hauling and picking up garbage and trash. Will a contribution from them to a candidate cause any problems?\n\nCONCLUSION: A public official has a financial interest in a decision if the decision will have a material financial effect on any source of income to the official. A person does not become a source of income to a public official merely by making a campaign contribution to that official. Therefore, the fact that a public official has received a campaign contribution does not create a conflict of interest problem under the Political Reform Act. Furthermore, there is nothing in the Act which prevents a public official from making campaign contributions to any other candidate, either State or local. Therefore, none of the situations described constitute a conflict of interest situation under the Political Reform Act.",
+    "qa_source": "mixed",
+    "first_500_words": "August 19, 1981 Ms. Thelma N. Kail Chief Deputy City Clerk City of Pico Rivera 6615 Passons Boulevard Pico Rivera, CA 90660 Dear Ms. Kail: In your letter of August 14, 1981, you asked whether contributions to candidates could result in a conflict of interest under the Political Reform Act. Government Code, §87100, prohibits public officials from making or participating in making any governmental decisions in which they have a financial interest. A public official has a financial interest in a decision, as defined in §87103, if the decision will have a material financial effect on any source of income to the official. A person does not become a source of income to a public official merely by making a campaign contribution to that official. §82030(b)(1). Therefore, the fact that a public official has received a campaign contribution does not create a conflict of interest problem under the Political Reform Act. Furthermore, there is nothing in the Act which prevents a public official from making campaign contributions to any other candidate, either State or local. Therefore, in answer to your questions, none of the situations you describe constitute a conflict of interest situation under the Political Reform Act. If you have any further questions on this matter, please feel free to contact me. Very truly yours, Barbara A. Milman Chief Legal Division File: GCS82030 and §87100 August 14, 1981 Fair Political Practices Commission 1100 K Street Sacramento, California 95814 REQUEST FOR OPINION The City of Pico Rivera has not adopted any Ordinance or other forms of limitations regarding contributions to a candidate for City Council. Can a State Assemblyman contribute to a candidate in his own district without having a conflict of interest? The City owns a Municipal Golf Course and contracts for a manager of same. Can that person contribute to a candidate for City Council without creating a conflict? The garbage and trash haulers in the City have an agreement with the City for hauling and picking up garbage and trash. Will a contribution from them to a candidate cause any problems? I would appreciate an answer as soon as possible. Very truly yours, Thelma M. Kail Thelma M. Kail Chief Deputy City Clerk",
+    "summary": "This is an FPPC advice letter responding to questions about whether campaign contributions by various individuals and entities to City Council candidates would create conflicts of interest under the Political Reform Act. The FPPC concluded that none of the described situations constitute conflicts of interest."
+  }
+}

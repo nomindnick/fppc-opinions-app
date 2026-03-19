@@ -1,0 +1,73 @@
+{
+  "id": "78ADV-78-184",
+  "year": 1978,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1978/78ADV-78-184.PDF",
+  "pdf_sha256": "b5c0c7809e7fa322215bf1a79b26944b135374ea5faed0ba180c117d9108dbff",
+  "local_pdf_path": "raw_pdfs/1978/78ADV-78-184.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1978ADV Advice Letter # 78ADV-78-184",
+    "tags": [
+      "Advice Letter",
+      "1978"
+    ],
+    "scraped_at": "2026-01-31 15:24:35",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=24"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:10.734284Z",
+    "page_count": 1,
+    "word_count": 164,
+    "char_count": 1051,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 164
+  },
+  "content": {
+    "full_text": "California \nr \nFile -\n§84206 \nfrom \nFAIR POLITICAL PRACTICES COMMISSION \nBarbara Campbell \nCombined Filing \nDate \nJune 15, 1978 \nTony Alperin called this morning to ask whether a combined \nsemiannual/first preelection campaign statement could be filed in \nthe following situation: \nThere will be a recall election on August 15, 1978, in \nLos Angeles County. \nThe first preelection campaign statement's \nclosing date is July 3, 1978. \nTony asked whether one statement, instead of two, could \nbe filed by nonabbreviated campaign statement filers as long as \nthat combined statement was filed at the earlier deadline. \nAfter \ndiscussing the situation was Gina, Ted and Bob Stern, \nI advised \nTony that such a combined statement could be filed by July 6, \n1978, instead of the first preelection campaign statement due \nJuly 6, 1978, covering through July 3, 1978, ~ \nthe semiannual \nstatement due July 31, 1978, covering from January 1 through June 30, \n1978. \nThe combined statement should cover the period from January 1 \nthrough July 3, 1978. \nBC:plh \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1978-06-15",
+    "date_raw": "June 15, 1978",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a combined semiannual/first preelection campaign statement could be filed by nonabbreviated campaign statement filers in lieu of two separate statements for a recall election, if filed by the earlier deadline.",
+    "conclusion_synthetic": "A combined statement covering January 1 through July 3, 1978 may be filed by July 6, 1978, replacing both the first preelection campaign statement (due July 6, covering through July 3) and the semiannual statement (due July 31, covering January 1 through June 30).",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is a brief advice letter with narrative format rather than formal Q/A sections. Includes internal FPPC notations (BC:plh) and references to staff discussion. No formal conclusion section header present. Synthesized sections based on content structure."
+  },
+  "citations": {
+    "government_code": [
+      "84206"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:37:10.734284Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether a combined semiannual/first preelection campaign statement could be filed by nonabbreviated campaign statement filers in lieu of two separate statements for a recall election, if filed by the earlier deadline.\n\nCONCLUSION: A combined statement covering January 1 through July 3, 1978 may be filed by July 6, 1978, replacing both the first preelection campaign statement (due July 6, covering through July 3) and the semiannual statement (due July 31, covering January 1 through June 30).",
+    "qa_source": "synthetic",
+    "first_500_words": "California r File - §84206 from FAIR POLITICAL PRACTICES COMMISSION Barbara Campbell Combined Filing Date June 15, 1978 Tony Alperin called this morning to ask whether a combined semiannual/first preelection campaign statement could be filed in the following situation: There will be a recall election on August 15, 1978, in Los Angeles County. The first preelection campaign statement's closing date is July 3, 1978. Tony asked whether one statement, instead of two, could be filed by nonabbreviated campaign statement filers as long as that combined statement was filed at the earlier deadline. After discussing the situation was Gina, Ted and Bob Stern, I advised Tony that such a combined statement could be filed by July 6, 1978, instead of the first preelection campaign statement due July 6, 1978, covering through July 3, 1978, ~ the semiannual statement due July 31, 1978, covering from January 1 through June 30, 1978. The combined statement should cover the period from January 1 through July 3, 1978. BC:plh",
+    "summary": "FPPC advises that a combined semiannual/first preelection campaign statement may be filed in lieu of two separate statements for a recall election scheduled for August 15, 1978, provided it is filed by the earlier deadline of July 6, 1978 and covers the full period from January 1 through July 3, 1978."
+  }
+}

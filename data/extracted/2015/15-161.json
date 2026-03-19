@@ -1,0 +1,78 @@
+{
+  "id": "15-161",
+  "year": 2015,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2015/15-161.pdf",
+  "pdf_sha256": "215c3dc897325c5a3ce646f9335d3ffc3be98927398ce1c28dcf426c1dcfeffd",
+  "local_pdf_path": "raw_pdfs/2015/15-161.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2015 Advice Letter # 15-161",
+    "tags": [
+      "2015",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 17:16:45",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2015&tagCount=1&page=4"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:33:28.099367Z",
+    "page_count": 2,
+    "word_count": 425,
+    "char_count": 2696,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 425
+  },
+  "content": {
+    "full_text": "STATE OF CALIFORNIA \nFAIR POLITICAL PRACTICES COMMISSION \n· 428 ,J Street • Suite 620 • Sacramento, CA 95814-2329 \n(916) 322-5660 • Fax (916) 322-0886 \nDoug Karpa \nLegal Program Director \nTurtle Island Restoration Network \nPO Box 370 \nForest Knolls, CA 94933 \nRe: \nYour Request for Advice \nOur File No. A-15-161 \nDear Mr. Karpa: \nAugust 31, 2015 \nThis letter responds to your request for advice regarding your obligations under the conflict \nof interest provisions of the Political Reform Act (the \"Act\").1 \nPlease note that the Act requires the Commission to provide written advice to any person \nwhose duties under the Act arc in question or to that person's authorized representative. (Section \n83 l 14(b); Regulation 18329(b)( 1 ).) However, the Commission does not provide advice to a third \nparty about a public official's duties under the Act. (Section 83114; regulation 18329.) Thus, we \ncannot respond to your specific questions about members of the Marin County Board of \nSupervisors and do not expressly discuss them herein. \nHowever, we can respond to your questions about your liability under Section 83116.5. \nSection 83116.5 provides: \n\"Any person who violates any provision of this title, who purposely or \nnegligently causes any other person to violate any provision of this title, or who \naids and abets any other person in the violation of any provision of this title, shall \nbe liable under the provisions of this chapter. However, this section shall apply \nonly to persons who have filing or reporting obligations under this title, or who \nare compensated for services involving the planning, organizing, or directing any \nactivity regulated or required by this title, and a violation of this section shall not \nconstitute an additional violation under Chapter 11 (commencing with Section \n91000).\" \n1 The Political Reform Act is contained in Government Code Sections 81000 through 91014. All statutory \nreferences are to the Go\\'emment Code. unless otherwise indicated. The regulations of the Fair Political Practices \nCommission are contained in Sections I 8 I IO through I 8997 of Title 2 of the California Code of Regulations. All \nregulatory references are to Title 2. Division 6 of the California Code of Regulations. unless otherwise indicated. \n\n\nFile No. A-15-161 \nPage No. 2 \nThis section is only applicable to persons with filing duties under the Act. Since you do not \nhave filing responsibilities under the Act, and based on your description of your conduct, you would \nnot be subject to Section 83116.5. \nIf you have other questions on this matter, please contact me at (916) 322-5660. \nJWW:jgl \nSincerely, \nHyla P. Wagner \neneral Counsel \neneral Counsel \nion \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2015-08-31",
+    "date_raw": "August 31, 2015",
+    "requestor_name": "Karpa",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "This section is only applicable to persons with filing duties under the Act. Since you do not have filing responsibilities under the Act, and based on your description of your conduct, you would not be subject to Section 83116.5.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Does the requestor have liability under Political Reform Act Section 83116.5 for involvement in activities related to Marin County Board of Supervisors members' potential conflicts of interest?",
+    "conclusion_synthetic": "The requestor is not subject to Section 83116.5 liability because they do not have filing responsibilities under the Political Reform Act and their described conduct does not meet the statute's applicability requirements.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document lacks explicit QUESTION and CONCLUSION section headers but contains clear question and answer content. FPPC explains limitation on providing advice about public officials while addressing requestor's specific liability question. Document dated August 31, 2015."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "83114",
+      "83116",
+      "91000"
+    ],
+    "regulations": [
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:33:28.099367Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Does the requestor have liability under Political Reform Act Section 83116.5 for involvement in activities related to Marin County Board of Supervisors members' potential conflicts of interest?\n\nCONCLUSION: This section is only applicable to persons with filing duties under the Act. Since you do not have filing responsibilities under the Act, and based on your description of your conduct, you would not be subject to Section 83116.5.",
+    "qa_source": "mixed",
+    "first_500_words": "STATE OF CALIFORNIA FAIR POLITICAL PRACTICES COMMISSION · 428 ,J Street • Suite 620 • Sacramento, CA 95814-2329 (916) 322-5660 • Fax (916) 322-0886 Doug Karpa Legal Program Director Turtle Island Restoration Network PO Box 370 Forest Knolls, CA 94933 Re: Your Request for Advice Our File No. A-15-161 Dear Mr. Karpa: August 31, 2015 This letter responds to your request for advice regarding your obligations under the conflict of interest provisions of the Political Reform Act (the \"Act\").1 Please note that the Act requires the Commission to provide written advice to any person whose duties under the Act arc in question or to that person's authorized representative. (Section 83 l 14(b); Regulation 18329(b)( 1 ).) However, the Commission does not provide advice to a third party about a public official's duties under the Act. (Section 83114; regulation 18329.) Thus, we cannot respond to your specific questions about members of the Marin County Board of Supervisors and do not expressly discuss them herein. However, we can respond to your questions about your liability under Section 83116.5. Section 83116.5 provides: \"Any person who violates any provision of this title, who purposely or negligently causes any other person to violate any provision of this title, or who aids and abets any other person in the violation of any provision of this title, shall be liable under the provisions of this chapter. However, this section shall apply only to persons who have filing or reporting obligations under this title, or who are compensated for services involving the planning, organizing, or directing any activity regulated or required by this title, and a violation of this section shall not constitute an additional violation under Chapter 11 (commencing with Section 91000).\" 1 The Political Reform Act is contained in Government Code Sections 81000 through 91014. All statutory references are to the Go\\'emment Code. unless otherwise indicated. The regulations of the Fair Political Practices Commission are contained in Sections I 8 I IO through I 8997 of Title 2 of the California Code of Regulations. All regulatory references are to Title 2. Division 6 of the California Code of Regulations. unless otherwise indicated. File No. A-15-161 Page No. 2 This section is only applicable to persons with filing duties under the Act. Since you do not have filing responsibilities under the Act, and based on your description of your conduct, you would not be subject to Section 83116.5. If you have other questions on this matter, please contact me at (916) 322-5660. JWW:jgl Sincerely, Hyla P. Wagner eneral Counsel eneral Counsel ion",
+    "summary": "FPPC responds to Doug Karpa's request regarding potential liability under Political Reform Act Section 83116.5, clarifying that the Commission cannot advise on public officials' duties but can address the requestor's personal liability, concluding that the requestor is not subject to Section 83116.5 due to lack of filing obligations."
+  }
+}

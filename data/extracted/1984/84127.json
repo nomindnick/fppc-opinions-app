@@ -1,0 +1,71 @@
+{
+  "id": "84127",
+  "year": 1984,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1984/fppc-advice/84127.PDF",
+  "pdf_sha256": "fd7f5a101c1756ef7dc2e87afa446b1f016cd2a2a0ada7accde6ee4ef085f6e5",
+  "local_pdf_path": "raw_pdfs/1984/84127.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1984 Advice Letter # 84127",
+    "tags": [
+      "1984",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:34:27",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1984&tagCount=1&page=14"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:47.312726Z",
+    "page_count": 1,
+    "word_count": 296,
+    "char_count": 1937,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 296
+  },
+  "content": {
+    "full_text": "From \nSubject : \nMarian Ash, Chief \nPolitical Reform Division \nSecretary of State's Office \n, ; \nn \nA . ./\" C \n/' \n~)/~~ \nFAIR POUnCAL PRACTICES COMMISSION \nJeanne Pritchard \nDate \nIncomplete Campaign Disclosure Statements \nMay 2, 1984 \n/ -\nYour staff recently asked for FPPC guidance in determining \nthe procedures to be followed when grossly incomplete campaign \ndisclosure statements are filed. \nFor example, your office has \nreceived statements which provide only summary page information \n(aggregate receipts and expenditures) but no itemized information \nregarding receipts and expenditures. \nThe FPPC staff has determined that such incomplete \nstatements should not be re3~cted or returned to the filer, but \nshould be file-stamped and logged in in the same manner as other \nfilings. \nIn addition, such statements should not be considered \nnnon-filings\nU for the purpose of assessing late fines. \nWe suggest that a letter be sent to the candidate or \ncommittee.requesting that an amendment providing all of the \nrequired information be filed within 10 days, and indicating that \nif the required information is not filed within 10 days the \nstatement will be referred to the FPPC Enforcement Division. \nPlease send a copy of your letter and the incomplete filing to \nthe Enforcement Division. \nIn addition, if an amendment is not \nfiled within 10 days, please notify the Enforcement Division. \nSuch filing constitutes seriously inadequate campaign \ndisclosure and our office will take into consideration several \nfactors in determining what action will be taken. \nSuch factors \nmay include, among other factors, the volume and amount of \nreceipts and expenditures not properly reported, whether it is \nthe first time the candidate or committee has filed an incomplete \nstatement, and the proximity of the filing deadline to the \nelection. \nThank you for bringing this to our attention. \nPlease call \nme if you have any questions. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1984-05-02",
+    "date_raw": "May 2, 1984",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Your staff recently asked for FPPC guidance in determining the procedures to be followed when grossly incomplete campaign disclosure statements are filed. For example, your office has received statements which provide only summary page information (aggregate receipts and expenditures) but no itemized information regarding receipts and expenditures.",
+    "conclusion": "The FPPC staff has determined that such incomplete statements should not be rejected or returned to the filer, but should be file-stamped and logged in the same manner as other filings. In addition, such statements should not be considered \"non-filings\" for the purpose of assessing late fines. A letter should be sent to the candidate or committee requesting that an amendment providing all required information be filed within 10 days, with notification that failure to comply will result in referral to the FPPC Enforcement Division.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "What procedures should be followed when grossly incomplete campaign disclosure statements are filed, such as those containing only summary information without itemized details?",
+    "conclusion_synthetic": "Incomplete campaign disclosure statements should be filed and logged normally without rejection, and the filer should be given 10 days to submit an amendment with complete information, with enforcement action threatened if the amendment is not filed. The FPPC will consider various factors including the volume of unreported receipts/expenditures, prior filing history, and election proximity when determining enforcement action.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Clear FPPC advice letter with identifiable question and conclusion sections. Document contains procedural guidance on campaign finance disclosure enforcement."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:36:47.312726Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Your staff recently asked for FPPC guidance in determining the procedures to be followed when grossly incomplete campaign disclosure statements are filed. For example, your office has received statements which provide only summary page information (aggregate receipts and expenditures) but no itemized information regarding receipts and expenditures.\n\nCONCLUSION: The FPPC staff has determined that such incomplete statements should not be rejected or returned to the filer, but should be file-stamped and logged in the same manner as other filings. In addition, such statements should not be considered \"non-filings\" for the purpose of assessing late fines. A letter should be sent to the candidate or committee requesting that an amendment providing all required information be filed within 10 days, with notification that failure to comply will result in referral to the FPPC Enforcement Division.",
+    "qa_source": "mixed",
+    "first_500_words": "From Subject : Marian Ash, Chief Political Reform Division Secretary of State's Office , ; n A . ./\" C /' ~)/~~ FAIR POUnCAL PRACTICES COMMISSION Jeanne Pritchard Date Incomplete Campaign Disclosure Statements May 2, 1984 / - Your staff recently asked for FPPC guidance in determining the procedures to be followed when grossly incomplete campaign disclosure statements are filed. For example, your office has received statements which provide only summary page information (aggregate receipts and expenditures) but no itemized information regarding receipts and expenditures. The FPPC staff has determined that such incomplete statements should not be re3~cted or returned to the filer, but should be file-stamped and logged in in the same manner as other filings. In addition, such statements should not be considered nnon-filings U for the purpose of assessing late fines. We suggest that a letter be sent to the candidate or committee.requesting that an amendment providing all of the required information be filed within 10 days, and indicating that if the required information is not filed within 10 days the statement will be referred to the FPPC Enforcement Division. Please send a copy of your letter and the incomplete filing to the Enforcement Division. In addition, if an amendment is not filed within 10 days, please notify the Enforcement Division. Such filing constitutes seriously inadequate campaign disclosure and our office will take into consideration several factors in determining what action will be taken. Such factors may include, among other factors, the volume and amount of receipts and expenditures not properly reported, whether it is the first time the candidate or committee has filed an incomplete statement, and the proximity of the filing deadline to the election. Thank you for bringing this to our attention. Please call me if you have any questions.",
+    "summary": "The FPPC advises the Secretary of State's office on handling grossly incomplete campaign disclosure statements by filing them normally, requesting amendments within 10 days, and referring non-compliant filers to the Enforcement Division."
+  }
+}

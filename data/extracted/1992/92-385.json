@@ -1,0 +1,73 @@
+{
+  "id": "92-385",
+  "year": 1992,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1992/92-385.pdf",
+  "pdf_sha256": "94f977d0c5d91f76ed378c9b2482a9f357e67f1c04d6c762f28b9530fad95163",
+  "local_pdf_path": "raw_pdfs/1992/92-385.pdf",
+  "source_metadata": {
+    "title_raw": "Felando, Gerald Year: 1992 Advice Letter # 92-385",
+    "tags": [
+      "Advice Letter",
+      "1992"
+    ],
+    "scraped_at": "2026-01-31 16:24:47",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1992&tagCount=1&page=27"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:13.916956Z",
+    "page_count": 2,
+    "word_count": 358,
+    "char_count": 2181,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 358
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\nJuly 9,\n1992\nJoyce Ann Felando\nTreasurer for Friends of Felando\nc/o Assemblymember Gerald N.\nFelando\nState Capitol\nSacramento,\nCA 95814\nRe:\nYour Request for Advice\nOur File No.\nA—92—385\nDear Ms.\nFelando:\nThis is in reply to your letter dated June 23,\n1992 which\nconcerns two issues:\n(1)\nWhether your husband,\nAssemblyinember Gerald Felando,\ncan\ntransfer his campaign funds to a new checking account but\nleave some of the funds in the old checking account for a\nshort period to cover outstanding checks;\nand\n(2)\nWhether the Felando campaign may submit its campaign\nreporting forms in the computerized format that accompanied\nyour letter.\nOn June 16,\n1992\nI informed Assemblymember Felando that it\nwas permissible for him to transfer his campaign funds into a new\ncampaign checking account but leave some of the funds in the old\naccount to cover outstanding checks.\nFurther,\nAsseinblymember\nFelando agreed that the old account would remain open for\na\nday\nperiod solely to allow outstanding checks written against that\naccount to clear and for no other reason.\nAssemblymember Felando\nindicated that he felt this was a reasonable resolution to the\nproblem posed by Section 85201.\nThat section permits only\ncampaign bank account for each public office sought or held.\nAlso,\nplease note that Mr.\nFelando must file with the\nCommission a Form 502\ncampaign bank account statement both within\n10 days after he opens his new account and after he terminates his\nold account.\nI have enclosed two 502 forms for your use in this\nregard.\nFinally,\nas to your request concerning submission of Mr.\nFelando’s campaign reports in\na specific computerized format,\nthe\n428 J Street, Suite 800 •\nP.O. Box 807 • Sacramento CA 95804-0807 • (916)322-5660\n\n\nOur File No.\nA-92-385\nPage\n2\nforms you submitted are being reviewed by Kim Taylor in our\nTechnical Assistance and Analysis Division.\nShe will contact you\nsoon after she has completed her review.\nIf you have any questions, please contact Carla Wardlow, the\nChief of the our Technical Assistance and Analysis Division, at\n322—5662 and she will be able to assist you.\nSincerely,\nWay\nOrdos\nExecutive Director\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1992-07-09",
+    "date_raw": "July 9,\n1992",
+    "requestor_name": "Felando",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Whether your husband, Assemblymember Gerald Felando, can transfer his campaign funds to a new checking account but leave some of the funds in the old checking account for a short period to cover outstanding checks; and (2) Whether the Felando campaign may submit its campaign reporting forms in the computerized format that accompanied your letter.",
+    "conclusion": "On June 16, 1992 I informed Assemblymember Felando that it was permissible for him to transfer his campaign funds into a new campaign checking account but leave some of the funds in the old account to cover outstanding checks. Further, Assemblymember Felando agreed that the old account would remain open for a day period solely to allow outstanding checks written against that account to clear and for no other reason. Also, please note that Mr. Felando must file with the Commission a Form 502 campaign bank account statement both within 10 days after he opens his new account and after he terminates his old account.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Can an assemblymember transfer campaign funds to a new account while maintaining an old account temporarily for outstanding checks, and can campaign reports be submitted in a specific computerized format?",
+    "conclusion_synthetic": "The FPPC approved transferring campaign funds to a new account while keeping the old account open briefly (for one day) to clear outstanding checks, provided Assemblymember Felando files Form 502 statements within 10 days of opening the new account and terminating the old account. The question regarding computerized reporting format submission was referred to the Technical Assistance and Analysis Division for review.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Standard advice letter format with clear question and conclusion sections. Specific file number A-92-385. References prior communication dated June 16, 1992. Secondary issue regarding computerized format was deferred to another division rather than fully addressed in this letter."
+  },
+  "citations": {
+    "government_code": [
+      "85201"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:35:13.916956Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether your husband, Assemblymember Gerald Felando, can transfer his campaign funds to a new checking account but leave some of the funds in the old checking account for a short period to cover outstanding checks; and (2) Whether the Felando campaign may submit its campaign reporting forms in the computerized format that accompanied your letter.\n\nCONCLUSION: On June 16, 1992 I informed Assemblymember Felando that it was permissible for him to transfer his campaign funds into a new campaign checking account but leave some of the funds in the old account to cover outstanding checks. Further, Assemblymember Felando agreed that the old account would remain open for a day period solely to allow outstanding checks written against that account to clear and for no other reason. Also, please note that Mr. Felando must file with the Commission a Form 502 campaign bank account statement both within 10 days after he opens his new account and after he terminates his old account.",
+    "qa_source": "mixed",
+    "first_500_words": "California Fair Political Practices Commission July 9, 1992 Joyce Ann Felando Treasurer for Friends of Felando c/o Assemblymember Gerald N. Felando State Capitol Sacramento, CA 95814 Re: Your Request for Advice Our File No. A—92—385 Dear Ms. Felando: This is in reply to your letter dated June 23, 1992 which concerns two issues: (1) Whether your husband, Assemblyinember Gerald Felando, can transfer his campaign funds to a new checking account but leave some of the funds in the old checking account for a short period to cover outstanding checks; and (2) Whether the Felando campaign may submit its campaign reporting forms in the computerized format that accompanied your letter. On June 16, 1992 I informed Assemblymember Felando that it was permissible for him to transfer his campaign funds into a new campaign checking account but leave some of the funds in the old account to cover outstanding checks. Further, Asseinblymember Felando agreed that the old account would remain open for a day period solely to allow outstanding checks written against that account to clear and for no other reason. Assemblymember Felando indicated that he felt this was a reasonable resolution to the problem posed by Section 85201. That section permits only campaign bank account for each public office sought or held. Also, please note that Mr. Felando must file with the Commission a Form 502 campaign bank account statement both within 10 days after he opens his new account and after he terminates his old account. I have enclosed two 502 forms for your use in this regard. Finally, as to your request concerning submission of Mr. Felando’s campaign reports in a specific computerized format, the 428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804-0807 • (916)322-5660 Our File No. A-92-385 Page 2 forms you submitted are being reviewed by Kim Taylor in our Technical Assistance and Analysis Division. She will contact you soon after she has completed her review. If you have any questions, please contact Carla Wardlow, the Chief of the our Technical Assistance and Analysis Division, at 322—5662 and she will be able to assist you. Sincerely, Way Ordos Executive Director",
+    "summary": "The FPPC advised Assemblymember Gerald Felando that he may transfer campaign funds to a new checking account while maintaining the old account temporarily to cover outstanding checks, with required Form 502 filings within 10 days. The question regarding computerized campaign report submission format was referred to the Technical Assistance and Analysis Division."
+  }
+}

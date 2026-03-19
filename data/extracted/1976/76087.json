@@ -1,0 +1,73 @@
+{
+  "id": "76087",
+  "year": 1976,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1976/76087.PDF",
+  "pdf_sha256": "2ab9eaf456ec40ccb18f31d012dec4d516eba08046a848f7c5ba801ba942d034",
+  "local_pdf_path": "raw_pdfs/1976/76087.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1976 Advice Letter # 76087",
+    "tags": [
+      "1976",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:15:50",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1976&tagCount=1&page=17"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:18.465148Z",
+    "page_count": 2,
+    "word_count": 177,
+    "char_count": 1095,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 177
+  },
+  "content": {
+    "full_text": "State of California \nMemorandum \nTo \nDate \n1/22/76 \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nKen Finney \nSubject: \nLEGAL FEES FOR THE 2/3 TAX INITIATIVE ACTION \nIn a phone conversation with Vince Thorpe, counsel \nfor the 2/3 Tax Initiative Committee, he indicated that \nthe committee is low on funds and that the legal fees \nfor the action against the FPPC may be paid by certain \nindividuals. \nHe wondered whether this activity will \ncreate any reporting obligations. \nI indicated that the \npayments might be construed as an in-kind contribution \nto the committee and reportable as such. \nI also indicated \nthat an expenditure of this nature, by the \ncommittee, \nprobably would be reportable. \nOn the other hand, I suggested that if he has any \nquestions about the foregoing, he should submit an \nopinion request to the Commission. \nI cautioned him \nthat I merely was providing staff advice and not a \ndifinitive interpretation. \nKF:pvp \n\n\nsoon as \nstaterrlents; \nrelat: \n1 \nIs who act \nI \nthis information i \nful. \nP \na e contact our s \nfurt \nq \ns 1. \nsentet \nEnclosure \nbcc: \nJeanne P. \ns \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1976-01-22",
+    "date_raw": "1/22/76",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "s about the foregoing, he should submit an \nopinion request to the Commission. \nI cautioned him \nthat I merely was providing staff advice and not a \ndifinitive interpretation. \nKF:pvp \n\n\nsoon as \nstaterrlents; \nrelat: \n1 \nIs who act \nI \nthis information i \nful. \nP \na e contact our s \nfurt \nq \ns 1. \nsentet \nEnclosure \nbcc: \nJeanne P. \ns",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether legal fees paid by individuals to a political committee's action against the FPPC create reporting obligations under campaign finance law.",
+    "conclusion_synthetic": "Staff indicated that such payments might constitute in-kind contributions requiring reporting by the committee, and that any expenditures of this nature by the committee would likely be reportable, but recommended that the committee submit a formal opinion request for a definitive interpretation.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.72,
+    "has_standard_format": true,
+    "parsing_notes": "Format: ocr; LLM: Document is an internal memorandum rather than a formal advice letter response. No formal QUESTION or CONCLUSION sections present. Staff explicitly cautioned that the advice given was not a definitive interpretation. Bottom portion of document is partially illegible due to OCR quality issues."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [
+      "82A047"
+    ],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:18.465148Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: s about the foregoing, he should submit an \nopinion request to the Commission. \nI cautioned him \nthat I merely was providing staff advice and not a \ndifinitive interpretation. \nKF:pvp \n\n\nsoon as \nstaterrlents; \nrelat: \n1 \nIs who act \nI \nthis information i \nful. \nP \na e contact our s \nfurt \nq \ns 1. \nsentet \nEnclosure \nbcc: \nJeanne P. \ns\n\nCONCLUSION: Staff indicated that such payments might constitute in-kind contributions requiring reporting by the committee, and that any expenditures of this nature by the committee would likely be reportable, but recommended that the committee submit a formal opinion request for a definitive interpretation.",
+    "qa_source": "mixed",
+    "first_500_words": "State of California Memorandum To Date 1/22/76 From FAIR POLITICAL PRACTICES COMMISSION Ken Finney Subject: LEGAL FEES FOR THE 2/3 TAX INITIATIVE ACTION In a phone conversation with Vince Thorpe, counsel for the 2/3 Tax Initiative Committee, he indicated that the committee is low on funds and that the legal fees for the action against the FPPC may be paid by certain individuals. He wondered whether this activity will create any reporting obligations. I indicated that the payments might be construed as an in-kind contribution to the committee and reportable as such. I also indicated that an expenditure of this nature, by the committee, probably would be reportable. On the other hand, I suggested that if he has any questions about the foregoing, he should submit an opinion request to the Commission. I cautioned him that I merely was providing staff advice and not a difinitive interpretation. KF:pvp soon as staterrlents; relat: 1 Is who act I this information i ful. P a e contact our s furt q s 1. sentet Enclosure bcc: Jeanne P. s",
+    "summary": "This is an internal FPPC memorandum documenting a phone conversation between FPPC staff member Ken Finney and counsel for the 2/3 Tax Initiative Committee regarding potential reporting obligations for legal fees related to litigation against the FPPC."
+  }
+}

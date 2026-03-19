@@ -1,0 +1,79 @@
+{
+  "id": "92-121",
+  "year": 1992,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1992/92-121.pdf",
+  "pdf_sha256": "b31b350578e3ab55084c406c3d618dc6b28d383411814182fe412de208ad4740",
+  "local_pdf_path": "raw_pdfs/1992/92-121.pdf",
+  "source_metadata": {
+    "title_raw": "Baber, Bill Year: 1992 Advice Letter # 92-121",
+    "tags": [
+      "Advice Letter",
+      "1992"
+    ],
+    "scraped_at": "2026-01-31 16:23:17",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1992&tagCount=1&page=7"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:11.928535Z",
+    "page_count": 2,
+    "word_count": 352,
+    "char_count": 2271,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 352
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\nMarch 31,\n1992\nBill Baber\n4167 46th Street\nSan Diego,\nCA\n92105\nRe:\nYour Request for Advice\nOur File No.\n1-92-121\nDear Mr.\nBaber:\nYou have requested confirmation of telephone advice provided\nto you concerning the campaign disclosure provisions of the\nPolitical Reform Act\n(the “Act”).\n1\n!\nBecause your questions are\ngeneral in nature,\nwe are treating your letter as a request for\ninformal assistance pursuant to Regulation 18329(c) (4) •2/\nYour letter, dated February 13,\n1992,\naccurately summarizes\nmy advice that the definition of “intermediary” does not include a\nperson who receives checks made payable to a candidate’s committee\nand who forwards those checks to the committee treasurer.\n(Regulation 18432.5,\ncopy enclosed.\n3\n!)\nI also advised you that\nthe requirement contained in Section 84305 to include the name and\naddress of the sender of a mailing is not applicable to any\nmailing of fewer than 200 substantially similar pieces sent in a\ncalendar month.\nSection 84305 requires such identification on any\n1/\nGovernment Code Sections 81000-91015.\nAll statutory\nreferences are to the Government Code unless otherwise indicated.\nCommission regulations appear at\n2 California Code of Regulations\nSection 18000, et q.\nAll references to regulations are to Title\n2, Division\n6 of the California Code of Regulations.\n2/\nInformal assistance does not provide the requestor with the\nimmunity provided by an opinion or formal written advice.\n(Section 83114; Regulation 18329(c) (3).)\n3w”\nRegulation 18432.5 was amended by the Commission on July 9,\n1991, to remove from the definition of “intermediary” persons who\nmerely transmit contributions to a candidate or committee.\nThe\namendment has not yet gone into effect.\nHowever, the enclosed\nversion represents the current policy of the Commission.\n428 J Street, Suite SO •\nP.O. Box 807 • Sacramento CA 9804-08O7\n•\n(UÔ) 322-660\n\n\nBill Baber\n1—92—121\nPage\n2\n“mass mailing,” which is defined as over 200 substantially similar\npieces of mail.\n(Section 82041.5.)\nIf you have additional questions, please contact me at\n(916)\n322—5662.\nSincerely,\nScott Hallabrin\nActing General Counsel\ntJdLA)\nBy:\nCarla Wardlow\nActing Division Chief\nTechnical Assistance and\nAnalysis Division\nEnclosure\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1992-03-31",
+    "date_raw": "March 31,\n1992",
+    "requestor_name": "Baber",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "informal_advice"
+  },
+  "sections": {
+    "question": "1) Does the definition of 'intermediary' include a person who receives checks made payable to a candidate's committee and forwards those checks to the committee treasurer? 2) Does the requirement in Section 84305 to include the name and address of the sender of a mailing apply to mailings of fewer than 200 substantially similar pieces sent in a calendar month?",
+    "conclusion": "The definition of 'intermediary' does not include a person who receives checks made payable to a candidate's committee and who forwards those checks to the committee treasurer. The requirement contained in Section 84305 to include the name and address of the sender of a mailing is not applicable to any mailing of fewer than 200 substantially similar pieces sent in a calendar month.",
+    "facts": null,
+    "analysis": "Division\nEnclosure",
+    "question_synthetic": "The requestor seeks clarification on whether a person who receives and forwards checks to a candidate committee qualifies as an 'intermediary' under campaign finance law, and whether the sender identification requirement for mailings applies to mailings under 200 pieces.",
+    "conclusion_synthetic": "A person who merely transmits contributions to a candidate or committee does not meet the definition of 'intermediary,' and the sender identification requirement for mailings only applies to 'mass mailings' of over 200 substantially similar pieces.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "Format: ocr; LLM: Document is informal advice letter (not opinion/formal written advice). Contains clear question and conclusion sections. References regulation amendment not yet in effect. Some OCR artifacts present but text is legible."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "82041",
+      "83114",
+      "84305"
+    ],
+    "regulations": [
+      "18329",
+      "18432.5"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.25,
+    "classified_at": "2026-02-06T18:35:11.928535Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: 1) Does the definition of 'intermediary' include a person who receives checks made payable to a candidate's committee and forwards those checks to the committee treasurer? 2) Does the requirement in Section 84305 to include the name and address of the sender of a mailing apply to mailings of fewer than 200 substantially similar pieces sent in a calendar month?\n\nCONCLUSION: The definition of 'intermediary' does not include a person who receives checks made payable to a candidate's committee and who forwards those checks to the committee treasurer. The requirement contained in Section 84305 to include the name and address of the sender of a mailing is not applicable to any mailing of fewer than 200 substantially similar pieces sent in a calendar month.",
+    "qa_source": "mixed",
+    "first_500_words": "California Fair Political Practices Commission March 31, 1992 Bill Baber 4167 46th Street San Diego, CA 92105 Re: Your Request for Advice Our File No. 1-92-121 Dear Mr. Baber: You have requested confirmation of telephone advice provided to you concerning the campaign disclosure provisions of the Political Reform Act (the “Act”). 1 ! Because your questions are general in nature, we are treating your letter as a request for informal assistance pursuant to Regulation 18329(c) (4) •2/ Your letter, dated February 13, 1992, accurately summarizes my advice that the definition of “intermediary” does not include a person who receives checks made payable to a candidate’s committee and who forwards those checks to the committee treasurer. (Regulation 18432.5, copy enclosed. 3 !) I also advised you that the requirement contained in Section 84305 to include the name and address of the sender of a mailing is not applicable to any mailing of fewer than 200 substantially similar pieces sent in a calendar month. Section 84305 requires such identification on any 1/ Government Code Sections 81000-91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations Section 18000, et q. All references to regulations are to Title 2, Division 6 of the California Code of Regulations. 2/ Informal assistance does not provide the requestor with the immunity provided by an opinion or formal written advice. (Section 83114; Regulation 18329(c) (3).) 3w” Regulation 18432.5 was amended by the Commission on July 9, 1991, to remove from the definition of “intermediary” persons who merely transmit contributions to a candidate or committee. The amendment has not yet gone into effect. However, the enclosed version represents the current policy of the Commission. 428 J Street, Suite SO • P.O. Box 807 • Sacramento CA 9804-08O7 • (UÔ) 322-660 Bill Baber 1—92—121 Page 2 “mass mailing,” which is defined as over 200 substantially similar pieces of mail. (Section 82041.5.) If you have additional questions, please contact me at (916) 322—5662. Sincerely, Scott Hallabrin Acting General Counsel tJdLA) By: Carla Wardlow Acting Division Chief Technical Assistance and Analysis Division Enclosure",
+    "summary": "The FPPC confirms informal telephone advice provided to Bill Baber regarding the definition of 'intermediary' and mailing identification requirements under the Political Reform Act. The advice clarifies that check forwarders are not intermediaries and that mailing identification is only required for mailings exceeding 200 pieces."
+  }
+}

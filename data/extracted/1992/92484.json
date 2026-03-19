@@ -1,0 +1,71 @@
+{
+  "id": "92484",
+  "year": 1992,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1992/92484.pdf",
+  "pdf_sha256": "883932d6a1c90682474d3f824f6548b0d5f347ac43ea09246a9f301b5ea1a715",
+  "local_pdf_path": "raw_pdfs/1992/92484.pdf",
+  "source_metadata": {
+    "title_raw": "Aguilar, Tony Year: 1992 Advice Letter # 92484",
+    "tags": [
+      "Advice Letter",
+      "1992"
+    ],
+    "scraped_at": "2026-01-31 16:29:34",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1992&tagCount=1&page=90"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T13:35:16.156300Z",
+    "page_count": 1,
+    "word_count": 86,
+    "char_count": 534,
+    "quality_score": 0.7985483403706309,
+    "olmocr_cost": 0.0024596,
+    "native_word_count": 112
+  },
+  "content": {
+    "full_text": "September 8, 1992\n\nFair Political Practices Division\nP.O. Box 807\nSacramento, California 95808\n\nAttn: Legal Division, L. Menchaca\n\nDear Ms. Menchaca:\n\nWould you be so kind as to advise me on the following questions:\n\n1. Am I prevented from serving on the planning commission in the city I reside in (Palm Springs), merely because I am a licensed California Real Estate Broker?\n\n2. Also, please advise as to any conflicts that may apply to Real Estate Brokers?\n\nSincerely,\n\nTony C. Aguilar, Jr.\nPresident-Broker\nAll American Properties",
+    "full_text_markdown": "September 8, 1992\n\nFair Political Practices Division\nP.O. Box 807\nSacramento, California 95808\n\nAttn: Legal Division, L. Menchaca\n\nDear Ms. Menchaca:\n\nWould you be so kind as to advise me on the following questions:\n\n1. Am I prevented from serving on the planning commission in the city I reside in (Palm Springs), merely because I am a licensed California Real Estate Broker?\n\n2. Also, please advise as to any conflicts that may apply to Real Estate Brokers?\n\nSincerely,\n\nTony C. Aguilar, Jr.\nPresident-Broker\nAll American Properties"
+  },
+  "parsed": {
+    "date": "1992-09-08",
+    "date_raw": "September 8, 1992",
+    "requestor_name": "Menchaca",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-20T13:35:16.156300Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "September 8, 1992 Fair Political Practices Division P.O. Box 807 Sacramento, California 95808 Attn: Legal Division, L. Menchaca Dear Ms. Menchaca: Would you be so kind as to advise me on the following questions: 1. Am I prevented from serving on the planning commission in the city I reside in (Palm Springs), merely because I am a licensed California Real Estate Broker? 2. Also, please advise as to any conflicts that may apply to Real Estate Brokers? Sincerely, Tony C. Aguilar, Jr. President-Broker All American Properties",
+    "qa_source": "extracted",
+    "first_500_words": "September 8, 1992 Fair Political Practices Division P.O. Box 807 Sacramento, California 95808 Attn: Legal Division, L. Menchaca Dear Ms. Menchaca: Would you be so kind as to advise me on the following questions: 1. Am I prevented from serving on the planning commission in the city I reside in (Palm Springs), merely because I am a licensed California Real Estate Broker? 2. Also, please advise as to any conflicts that may apply to Real Estate Brokers? Sincerely, Tony C. Aguilar, Jr. President-Broker All American Properties",
+    "summary": null
+  }
+}

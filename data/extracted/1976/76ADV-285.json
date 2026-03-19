@@ -1,0 +1,73 @@
+{
+  "id": "76ADV-285",
+  "year": 1976,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1976/76ADV-285.PDF",
+  "pdf_sha256": "1b68ecf2094d7e2a9c0d5fd6866d35b485dec7f86b997ef48569159811ac8732",
+  "local_pdf_path": "raw_pdfs/1976/76ADV-285.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1976ADV Advice Letter # 76ADV-285",
+    "tags": [
+      "1976",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:15:37",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1976&tagCount=1&page=14"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:18.038164Z",
+    "page_count": 1,
+    "word_count": 272,
+    "char_count": 1756,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 272
+  },
+  "content": {
+    "full_text": "• \n,,-,..,. a \nitical Practices CommissioIl \nTechnical Assistance/ Administratian \n(916) 322·5660 \nMs. Pauline Soules, Secretary \n••• 1100 K STREET BUILDING, SACRAMENTO, 95814 \nExecutive/legal \n322·5901 \nEnforcement/Conflict of Interest \n-3't:H/lt4+ 3 2 2 - 6 4 4 4 \nNovember 3, 1976 \nLake Community Services District \nStar Route Box 411 \nBridgeville, CA 95526 \nDear Ms. Soules: \nPlease be advised that the 'deadline date for the submission of \na Conflict of Interest Code of the Ruth Lake Community Services \nstrict to the Fair Political Practices Commission is February 10, \n1977. \nThe District was inadvertently omitted from the list of \nagencies with jurisdiction in more than one county supplied to \ns office by the Office of the Controller from which we comprised \nour \nling list. \nLocal government agencies with jurisdiction in more than one \nt develop Conflict of Interest Codes pursuant to \nCode Section 87300, et seq. for submission to the Fair \nPolitica~ Practices Commission.-- ---\nAttached is an information package for the development of \nyour Conflict of Interest Codes pursuant to Government Code \nSection 87300, et seq. \nI am informed by Mr. John L. Loomis, Assistant District \nAttorney that your's is a very small District which would in all \nprobability designate only the Directors for inclusion within \nthe Code. \nUnder such circumstances, you may wish to serious \nconsider recommending the adoption of a \"Small District Code\" as \nset forth in Section VI.A.3 of the informational mate \nIs \nIf you have any questions regarding the District's obligation \nunder the Political Reform Act, please do not hesitate to call \ns office \nSincerely, \nDe \nL. \n, Jr. f \nConflicts of Interest Division \ncc: \nJohn L. Loomis, Asst. \nstrict \nEnclosure \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1976-11-03",
+    "date_raw": "November 3, 1976",
+    "requestor_name": "Soules",
+    "requestor_title": "District \nAttorney",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "What is the deadline for Ruth Lake Community Services District to submit a Conflict of Interest Code to the FPPC, and what are the requirements for local government agencies with multi-county jurisdiction?",
+    "conclusion_synthetic": "The FPPC advises that Ruth Lake Community Services District must submit its Conflict of Interest Code by February 10, 1977, pursuant to Government Code Section 87300, and recommends the District consider adopting a 'Small District Code' given its size.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an administrative notification letter without traditional QUESTION and CONCLUSION sections. The letter contains procedural guidance and a deadline notification rather than a response to a specific legal inquiry. Some text is partially illegible due to document quality, but core information is extractable."
+  },
+  "citations": {
+    "government_code": [
+      "87300"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:37:18.038164Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: What is the deadline for Ruth Lake Community Services District to submit a Conflict of Interest Code to the FPPC, and what are the requirements for local government agencies with multi-county jurisdiction?\n\nCONCLUSION: The FPPC advises that Ruth Lake Community Services District must submit its Conflict of Interest Code by February 10, 1977, pursuant to Government Code Section 87300, and recommends the District consider adopting a 'Small District Code' given its size.",
+    "qa_source": "synthetic",
+    "first_500_words": "• ,,-,..,. a itical Practices CommissioIl Technical Assistance/ Administratian (916) 322·5660 Ms. Pauline Soules, Secretary ••• 1100 K STREET BUILDING, SACRAMENTO, 95814 Executive/legal 322·5901 Enforcement/Conflict of Interest -3't:H/lt4+ 3 2 2 - 6 4 4 4 November 3, 1976 Lake Community Services District Star Route Box 411 Bridgeville, CA 95526 Dear Ms. Soules: Please be advised that the 'deadline date for the submission of a Conflict of Interest Code of the Ruth Lake Community Services strict to the Fair Political Practices Commission is February 10, 1977. The District was inadvertently omitted from the list of agencies with jurisdiction in more than one county supplied to s office by the Office of the Controller from which we comprised our ling list. Local government agencies with jurisdiction in more than one t develop Conflict of Interest Codes pursuant to Code Section 87300, et seq. for submission to the Fair Politica~ Practices Commission.-- --- Attached is an information package for the development of your Conflict of Interest Codes pursuant to Government Code Section 87300, et seq. I am informed by Mr. John L. Loomis, Assistant District Attorney that your's is a very small District which would in all probability designate only the Directors for inclusion within the Code. Under such circumstances, you may wish to serious consider recommending the adoption of a \"Small District Code\" as set forth in Section VI.A.3 of the informational mate Is If you have any questions regarding the District's obligation under the Political Reform Act, please do not hesitate to call s office Sincerely, De L. , Jr. f Conflicts of Interest Division cc: John L. Loomis, Asst. strict Enclosure",
+    "summary": "The FPPC notifies Ruth Lake Community Services District of its obligation to develop and submit a Conflict of Interest Code by February 10, 1977, and provides guidance on compliance with Government Code Section 87300 for multi-county jurisdictional agencies."
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "77ADV-77-496",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-496.PDF",
+  "pdf_sha256": "0f35e07580c28e7a9efbcd478fd734c5c72fe61a37d1adf52409276d673f668e",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-496.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-496",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:20:25",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=20"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-07T17:08:24.695541Z",
+    "page_count": 1,
+    "word_count": 94,
+    "char_count": 548,
+    "quality_score": 0.515,
+    "olmocr_cost": 0.00246132,
+    "native_word_count": 91
+  },
+  "content": {
+    "full_text": "State of California\n\nMemorandum\n\nTo: Ken\nDate: 1-21-77\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION\nDawn\n\nSubject: Subject - Opinion Request Meeting\n\nIs interest income received from a bankers acceptance note reportable as income? Yes\n\nA bankers acceptance note is usually a short term investment similar to a treasury note. The investment may be withdrawn at any time and would be sold on the open market which may result in a loss or profit if the discount rate, at the time of disposal is at a different rate than the rate at the time of purchase.",
+    "full_text_markdown": "State of California\n\nMemorandum\n\nTo: Ken\nDate: 1-21-77\n\nFrom: FAIR POLITICAL PRACTICES COMMISSION\nDawn\n\nSubject: Subject - Opinion Request Meeting\n\nIs interest income received from a bankers acceptance note reportable as income? Yes\n\nA bankers acceptance note is usually a short term investment similar to a treasury note. The investment may be withdrawn at any time and would be sold on the open market which may result in a loss or profit if the discount rate, at the time of disposal is at a different rate than the rate at the time of purchase."
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Is interest income received from a bankers acceptance note reportable as income?",
+    "conclusion": "Yes",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether interest income from a bankers acceptance note is reportable as required income.",
+    "conclusion_synthetic": "Interest income received from a bankers acceptance note is reportable as income. A bankers acceptance note is a short-term investment similar to treasury notes that can be withdrawn and sold on the open market, with potential gains or losses based on discount rate changes.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is a brief memorandum format without formal section headers. Question and answer are presented inline. Limited detail provided compared to typical formal advice letters. Date is 1-21-77 (January 21, 1977)."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T17:08:24.695541Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Is interest income received from a bankers acceptance note reportable as income?\n\nCONCLUSION: Yes",
+    "qa_source": "mixed",
+    "first_500_words": "State of California Memorandum To: Ken Date: 1-21-77 From: FAIR POLITICAL PRACTICES COMMISSION Dawn Subject: Subject - Opinion Request Meeting Is interest income received from a bankers acceptance note reportable as income? Yes A bankers acceptance note is usually a short term investment similar to a treasury note. The investment may be withdrawn at any time and would be sold on the open market which may result in a loss or profit if the discount rate, at the time of disposal is at a different rate than the rate at the time of purchase.",
+    "summary": "FPPC advice letter addressing whether interest income from bankers acceptance notes must be reported. The response confirms such income is reportable and provides context on the nature of bankers acceptance notes as short-term investments."
+  }
+}

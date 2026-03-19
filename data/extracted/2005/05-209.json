@@ -1,0 +1,73 @@
+{
+  "id": "05-209",
+  "year": 2005,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2005/05-209.pdf",
+  "pdf_sha256": "2a1c849731d4ed3b87a64e7c29c8075292a5c9dbd0c6ae32834d258575102b75",
+  "local_pdf_path": "raw_pdfs/2005/05-209.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2005 Advice Letter # 05-209",
+    "tags": [
+      "2005",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:43:03",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2005&tagCount=1&page=14"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:13.322026Z",
+    "page_count": 2,
+    "word_count": 277,
+    "char_count": 1797,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 277
+  },
+  "content": {
+    "full_text": "Re:\nFarn Polrrrcal PnacrrcEs ConaurssroN\n428 J Street o Suite 620 o Sacramento, CA 95814-2329\n(916) 322-5660 o Fax (916) 322-0886\nJanuary 26,2006\nJoel Perlstein\nSenior Attorney\nPublic Utilities Commission\n505 Van Ness Avenue\nSan Francisco, CA 94102-3298\nYour Request for Advice\nOur File No. W-05-209\nDear Mr. Perlstein\nWith regard to your letter dated October ll , 2005, the purpose of this letter is to\nconfirm that, as of our latest telephone conversation (on January 10,2006),you were not\nin a position to provide the name of the California Public Utilities Comrnissioner on\nwhose behalf you seek informal assistance regarding the conflict-of-interest provisions of\nthe Political Reform Act. ln addition, your letter does not describe the govemmental\ndecision at issue. Therefore, your request is withdrawn.\nUnder the provisions of California Code of Regulations sections 18329(e@)(C),\n(D) & (F), the Fair Political Practices Commission does not provide informal assistance if\nthe requestor: does not provide the identity of the person on whose behalf the assistance\nis being sought; presents a hlpothetical; or, presents a question based upon facts that are\ninsufficient or too vague to render specific informal assistance, respectively. I have\nenclosed a copy of regulation 18329 for your review.\nIf in the future you can provide the name of the advisee, state that you are\nauthorized to make a request on his or her behalf and indicate your questions are\nprospective in nature, please feel free to submit another request.\n\n\nFile No. W-05-209\nPage No. 2\nShould you have any additional questions regarding this matter,please contact the\nCommission at (916) 322-5660.\nSincerely,\nLuisa Menchaca\nGeneral Counsel\nBy: Andreas C. Rockas\nCounsel, Legal Division\nEnclosure\nACR:rd\nI:\\Adviceltrs\\05-209\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2006-01-26",
+    "date_raw": "January 26,2006",
+    "requestor_name": "Perlstein\nWith",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "Under California Code of Regulations sections 18329(e)(C), (D) & (F), the FPPC does not provide informal assistance when the requestor does not provide the identity of the person on whose behalf assistance is being sought, presents a hypothetical, or presents questions based on insufficient or vague facts. Therefore, the request is withdrawn.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requestor sought informal assistance regarding conflict-of-interest provisions of the Political Reform Act on behalf of a California Public Utilities Commissioner, but did not identify the Commissioner or describe the specific governmental decision at issue.",
+    "conclusion_synthetic": "The FPPC withdrew the request because the requestor failed to identify the specific Commissioner seeking advice, did not describe the governmental decision at issue, and did not establish authorization to represent the advisee.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Withdrawal letter with clear basis for withdrawal. No formal Question or Conclusion sections, but the withdrawal rationale and regulatory basis are clearly stated. Document includes procedural guidance for resubmission."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:34:13.322026Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The requestor sought informal assistance regarding conflict-of-interest provisions of the Political Reform Act on behalf of a California Public Utilities Commissioner, but did not identify the Commissioner or describe the specific governmental decision at issue.\n\nCONCLUSION: Under California Code of Regulations sections 18329(e)(C), (D) & (F), the FPPC does not provide informal assistance when the requestor does not provide the identity of the person on whose behalf assistance is being sought, presents a hypothetical, or presents questions based on insufficient or vague facts. Therefore, the request is withdrawn.",
+    "qa_source": "mixed",
+    "first_500_words": "Re: Farn Polrrrcal PnacrrcEs ConaurssroN 428 J Street o Suite 620 o Sacramento, CA 95814-2329 (916) 322-5660 o Fax (916) 322-0886 January 26,2006 Joel Perlstein Senior Attorney Public Utilities Commission 505 Van Ness Avenue San Francisco, CA 94102-3298 Your Request for Advice Our File No. W-05-209 Dear Mr. Perlstein With regard to your letter dated October ll , 2005, the purpose of this letter is to confirm that, as of our latest telephone conversation (on January 10,2006),you were not in a position to provide the name of the California Public Utilities Comrnissioner on whose behalf you seek informal assistance regarding the conflict-of-interest provisions of the Political Reform Act. ln addition, your letter does not describe the govemmental decision at issue. Therefore, your request is withdrawn. Under the provisions of California Code of Regulations sections 18329(e@)(C), (D) & (F), the Fair Political Practices Commission does not provide informal assistance if the requestor: does not provide the identity of the person on whose behalf the assistance is being sought; presents a hlpothetical; or, presents a question based upon facts that are insufficient or too vague to render specific informal assistance, respectively. I have enclosed a copy of regulation 18329 for your review. If in the future you can provide the name of the advisee, state that you are authorized to make a request on his or her behalf and indicate your questions are prospective in nature, please feel free to submit another request. File No. W-05-209 Page No. 2 Should you have any additional questions regarding this matter,please contact the Commission at (916) 322-5660. Sincerely, Luisa Menchaca General Counsel By: Andreas C. Rockas Counsel, Legal Division Enclosure ACR:rd I:\\Adviceltrs\\05-209",
+    "summary": "The FPPC withdrew an informal advice request from the Public Utilities Commission because the requestor did not identify the specific Commissioner on whose behalf assistance was sought, did not describe the governmental decision, and the request lacked sufficient specificity to provide meaningful guidance."
+  }
+}

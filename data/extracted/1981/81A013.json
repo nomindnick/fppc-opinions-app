@@ -1,0 +1,71 @@
+{
+  "id": "81A013",
+  "year": 1981,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1981/81A013.PDF",
+  "pdf_sha256": "fbe0e1dc5a04d4e65d85e236953f86fdb8d6fe4b8c84c6430dcb8d916c785635",
+  "local_pdf_path": "raw_pdfs/1981/81A013.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1981 Advice Letter # 81A013",
+    "tags": [
+      "Advice Letter",
+      "1981"
+    ],
+    "scraped_at": "2026-01-31 15:29:21",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1981&tagCount=1&page=18"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:02.034325Z",
+    "page_count": 1,
+    "word_count": 217,
+    "char_count": 1249,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 217
+  },
+  "content": {
+    "full_text": "Stata of California \nTo \nFrom \nSubject: \nrandu \nF i 1 e (84200 and 84211) \nFAIR POLITICAL PRACTICES COMMISSION \nRich Eichman \\L-\nCampaign Disclosure \nDate \nMarch 4, 1981 \nAt the opinion request meet \nissues were confirmed: \non \n26, 1981, the following \n(1) \nAn ongoing slate \nttee that \na sl \n(2) \ndifferent candidates for \nsame local office \ns \nnot considered a general purpose cornmittee, and there-\nfore must file on the e \non schedule during each \nelection period with the local filing officers (the \ncommittee always fil s \nection D of the \nmanual) . \nFor the purpose of reporting \nE or F: \nitures on Schedule \nCa) The cumulative amount begins with the first \nof the period covered by each campa \nstatemen. \n(b) Each expenditure of SIOO or more must \ndisclos \nin detail. \n(i.e. If payments were made to the \nsame payee for $125 and $75 during the reporting \nperiod, only the payment of $125 need be itemi \non the campaign statement) . \n(c) If the \nture is a contribution, the \nI \ninformation must \nincluded: \n(i) \nCandidate - full name of \n, district \nand of \nand amount of contribution; \n(ii) Measure \ndiet \ncumul \nnot be \namount \nor letter of \nmeasure and amount of \namount per \nor measure need \non \nisc \nIe E or Fi \nthe Al \nthe cumul \nt \nS \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1981-03-04",
+    "date_raw": "March 4, 1981",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The document addresses campaign disclosure requirements for slate committees supporting different candidates for the same local office, and specifies itemization thresholds and requirements for reporting expenditures on campaign statements.",
+    "conclusion_synthetic": "Slate committees are not general purpose committees and must file on the election schedule with local filing officers. Expenditures of $100 or more must be disclosed in detail, with cumulative amounts calculated per reporting period. Contributions must include candidate or measure information with corresponding amounts, though not all contributions need separate itemization if below threshold.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.65,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is heavily degraded with significant OCR errors and missing text throughout. No formal QUESTION or CONCLUSION sections present; information extracted from body text discussing opinion request meeting. File references suggest this relates to campaign finance committees (files 84200 and 84211). High confidence in document type and general topic, lower confidence in specific details due to text quality."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:02.034325Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The document addresses campaign disclosure requirements for slate committees supporting different candidates for the same local office, and specifies itemization thresholds and requirements for reporting expenditures on campaign statements.\n\nCONCLUSION: Slate committees are not general purpose committees and must file on the election schedule with local filing officers. Expenditures of $100 or more must be disclosed in detail, with cumulative amounts calculated per reporting period. Contributions must include candidate or measure information with corresponding amounts, though not all contributions need separate itemization if below threshold.",
+    "qa_source": "synthetic",
+    "first_500_words": "Stata of California To From Subject: randu F i 1 e (84200 and 84211) FAIR POLITICAL PRACTICES COMMISSION Rich Eichman \\L- Campaign Disclosure Date March 4, 1981 At the opinion request meet issues were confirmed: on 26, 1981, the following (1) An ongoing slate ttee that a sl (2) different candidates for same local office s not considered a general purpose cornmittee, and there- fore must file on the e on schedule during each election period with the local filing officers (the committee always fil s ection D of the manual) . For the purpose of reporting E or F: itures on Schedule Ca) The cumulative amount begins with the first of the period covered by each campa statemen. (b) Each expenditure of SIOO or more must disclos in detail. (i.e. If payments were made to the same payee for $125 and $75 during the reporting period, only the payment of $125 need be itemi on the campaign statement) . (c) If the ture is a contribution, the I information must included: (i) Candidate - full name of , district and of and amount of contribution; (ii) Measure diet cumul not be amount or letter of measure and amount of amount per or measure need on isc Ie E or Fi the Al the cumul t S",
+    "summary": "FPPC advice letter addressing campaign disclosure requirements for slate committees, including filing obligations, expenditure itemization thresholds of $100, and detailed reporting requirements for contributions to candidates and measures."
+  }
+}

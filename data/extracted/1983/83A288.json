@@ -1,0 +1,73 @@
+{
+  "id": "83A288",
+  "year": 1983,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1983/83A288.PDF",
+  "pdf_sha256": "6e0556b085e67a1d44ecfa9f30269704467ffa901643cec25199a2ee5c86ebfe",
+  "local_pdf_path": "raw_pdfs/1983/83A288.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1983 Advice Letter # 83A288",
+    "tags": [
+      "1983",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:33:04",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1983&tagCount=1&page=22"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:53.701678Z",
+    "page_count": 1,
+    "word_count": 72,
+    "char_count": 483,
+    "quality_score": 0.5075,
+    "olmocr_cost": null,
+    "native_word_count": 72
+  },
+  "content": {
+    "full_text": "State of California \nMemorandum \nTo \nAdvice File: \nSections 84211, 84216 \nDote \n12/21/83 \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nCarla \\vardlow \nSubject: \nReporting interest on loans \nWhen interest charges on a loan are incurred, they \nshould not be reported on Schedule B (Loans) of the \ncampaign disclosure statement. \nIn addition, such \ncharges need not be reported as an accrued expense \non Schedule F. \nThey should only be reported on \nSchedule E (Expenditures) when paid. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1983-12-21",
+    "date_raw": "12/21/83",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "When interest charges on a loan are incurred, they should not be reported on Schedule B (Loans) of the campaign disclosure statement. In addition, such charges need not be reported as an accrued expense on Schedule F. They should only be reported on Schedule E (Expenditures) when paid.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "How should interest charges on loans be reported in campaign disclosure statements?",
+    "conclusion_synthetic": "Interest charges on loans should not be reported on Schedule B or as accrued expenses on Schedule F, but should only be reported on Schedule E (Expenditures) when actually paid.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Internal FPPC memorandum to advice file; no formal question/answer sections but contains clear guidance on reporting requirement. Document references sections 84211 and 84216. Typed memorandum format with subject line and single substantive paragraph containing the ruling."
+  },
+  "citations": {
+    "government_code": [
+      "84211"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:36:53.701678Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: How should interest charges on loans be reported in campaign disclosure statements?\n\nCONCLUSION: When interest charges on a loan are incurred, they should not be reported on Schedule B (Loans) of the campaign disclosure statement. In addition, such charges need not be reported as an accrued expense on Schedule F. They should only be reported on Schedule E (Expenditures) when paid.",
+    "qa_source": "mixed",
+    "first_500_words": "State of California Memorandum To Advice File: Sections 84211, 84216 Dote 12/21/83 From FAIR POLITICAL PRACTICES COMMISSION Carla \\vardlow Subject: Reporting interest on loans When interest charges on a loan are incurred, they should not be reported on Schedule B (Loans) of the campaign disclosure statement. In addition, such charges need not be reported as an accrued expense on Schedule F. They should only be reported on Schedule E (Expenditures) when paid.",
+    "summary": "FPPC memorandum addressing the proper reporting of interest charges on loans under campaign disclosure requirements, clarifying that such interest should only be reported on Schedule E when paid, not on Schedule B or as accrued expenses on Schedule F."
+  }
+}

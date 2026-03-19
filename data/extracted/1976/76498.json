@@ -1,0 +1,74 @@
+{
+  "id": "76498",
+  "year": 1976,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1976/76498.pdf",
+  "pdf_sha256": "d770699b58731169899351a8379345e8fed8e89fe85742be3b3d38ce5eb8accf",
+  "local_pdf_path": "raw_pdfs/1976/76498.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 1976 Advice Letter # 76498",
+    "tags": [
+      "1976",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:18:34",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1976&tagCount=1&page=54"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T03:55:57.012735Z",
+    "page_count": 1,
+    "word_count": 86,
+    "char_count": 684,
+    "quality_score": 0.7543145510128898,
+    "olmocr_cost": 0.0025189400000000003,
+    "native_word_count": 91,
+    "haiku_cost": 0.0019632
+  },
+  "content": {
+    "full_text": "te of California\n\nMemorandu                                SUPERSEDED\n                                        by: 182l5(c)(3)\n\nTo : Advice File                Date : October 15, 197\n\n                                        M-76-498\n\nFrom : FAIR POLITICAL PRACTICES COMMISSION\n       J. RICHARD EICHMAN\n\nSubject: Use of a Residence for Meetings or Fundraisers\n\n\nA value need not be attributed to a residence used for a\nmeeting or fundraising activity for the purpose of reporting\nnon-monetary contributions. This exception is tied to\nregulation 18215(c) regarding volunteer personal services.\nThe exception is not extended to office space, nor does it\napply to costs of the fundraiser.",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [
+      "18215"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T17:35:53.361971Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "This memorandum, dated October 15, 1971, is from the Fair Political Practices Commission and signed by J. Richard Eichman. It is addressed to the Advice File and is marked \"SUPERSEDED\" with the reference number 18215(c)(3). The subject of the memo is \"Use of a Residence for Meetings or Fundraisers.\" The content states: \"A value need not be attributed to a residence used for a meeting or fundraising activity for the purpose of reporting non-monetary contributions. This exception is tied to regulation 18215(e) regarding volunteer personal services. The exception is not extended to office space, nor does it apply to costs of the fundraiser.\"",
+    "qa_source": "extracted",
+    "first_500_words": "This memorandum, dated October 15, 1971, is from the Fair Political Practices Commission and signed by J. Richard Eichman. It is addressed to the Advice File and is marked \"SUPERSEDED\" with the reference number 18215(c)(3). The subject of the memo is \"Use of a Residence for Meetings or Fundraisers.\" The content states: \"A value need not be attributed to a residence used for a meeting or fundraising activity for the purpose of reporting non-monetary contributions. This exception is tied to regulation 18215(e) regarding volunteer personal services. The exception is not extended to office space, nor does it apply to costs of the fundraiser.\"",
+    "summary": null
+  }
+}

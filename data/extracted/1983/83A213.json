@@ -1,0 +1,71 @@
+{
+  "id": "83A213",
+  "year": 1983,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1983/83A213.PDF",
+  "pdf_sha256": "a297d0c4ea537f2c35c86d586cb843fb5eb8d8944b42037619e2e84f6c6308ae",
+  "local_pdf_path": "raw_pdfs/1983/83A213.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1983 Advice Letter # 83A213",
+    "tags": [
+      "1983",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:31:59",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1983&tagCount=1&page=7"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T22:06:11.981599Z",
+    "page_count": 1,
+    "word_count": 167,
+    "char_count": 976,
+    "quality_score": 0.8102962421951667,
+    "olmocr_cost": 0.00257656,
+    "native_word_count": 164
+  },
+  "content": {
+    "full_text": "TO: [✓] JEANNE   [ ] JAY\n[✓] LYNN   [ ] BARBARA\n[ ] RICH   [ ] BOB S.\n[✓] HELEN   [✓] OTHER Carla\n\nFROM: Mary Ann\nDATE: August 17 '83\n\n[ ] TELEPHONE ADVICE - SEE BELOW\n[ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT\n(IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY)\n\nFILE LOCATION:\n\nINCLUDE IN ADVICE PACKAGE: YES [ ] NO ☒\n\nCALLER Mr. Ledford\nREPRESENTING Frazee's Office\nPHONE NUMBER: 619/729-8504\n\nQUESTION: Does a loan which has previously been reported trigger a threshold statement when the loan is forgiven during a subsequent threshold period? All other criteria for having to file a threshold statement have been met.\n\nANSWER: No. The loan has already been reported. The contributor will need to report the forgiveness on Schedule E on the next required threshold filing or semi-annual statement itemizing the recipient of the loan with an explanation in the description column that the loan was forgiven (but not entering the amount in the \"Amount Paid\" column).",
+    "full_text_markdown": "TO: [✓] JEANNE   [ ] JAY\n[✓] LYNN   [ ] BARBARA\n[ ] RICH   [ ] BOB S.\n[✓] HELEN   [✓] OTHER Carla\n\nFROM: Mary Ann\nDATE: August 17 '83\n\n[ ] TELEPHONE ADVICE - SEE BELOW\n[ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT\n(IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY)\n\nFILE LOCATION:\n\nINCLUDE IN ADVICE PACKAGE: YES [ ] NO ☒\n\nCALLER Mr. Ledford\nREPRESENTING Frazee's Office\nPHONE NUMBER: 619/729-8504\n\nQUESTION: Does a loan which has previously been reported trigger a threshold statement when the loan is forgiven during a subsequent threshold period? All other criteria for having to file a threshold statement have been met.\n\nANSWER: No. The loan has already been reported. The contributor will need to report the forgiveness on Schedule E on the next required threshold filing or semi-annual statement itemizing the recipient of the loan with an explanation in the description column that the loan was forgiven (but not entering the amount in the \"Amount Paid\" column)."
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Does a loan which has previously been reported trigger a threshold statement when the loan is forgiven during a subsequent threshold period? All other criteria for having to file a threshold statement have been met.\n\nANSWER: No. The loan has already been reported. The contributor will need to report the forgiveness on Schedule E on the next required threshold filing or semi-annual statement itemizing the recipient of the loan with an explanation in the description column that the loan was forgiven (but not entering the amount in the \"Amount Paid\" column).",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.44999999999999996,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T22:06:11.981599Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Does a loan which has previously been reported trigger a threshold statement when the loan is forgiven during a subsequent threshold period? All other criteria for having to file a threshold statement have been met.\n\nANSWER: No. The loan has already been reported. The contributor will need to report the forgiveness on Schedule E on the next required threshold filing or semi-annual statement itemizing the recipient of the loan with an explanation in the description column that the loan was forgiven (but not entering the amount in the \"Amount Paid\" column).",
+    "qa_source": "extracted",
+    "first_500_words": "TO: [✓] JEANNE [ ] JAY [✓] LYNN [ ] BARBARA [ ] RICH [ ] BOB S. [✓] HELEN [✓] OTHER Carla FROM: Mary Ann DATE: August 17 '83 [ ] TELEPHONE ADVICE - SEE BELOW [ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT (IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY) FILE LOCATION: INCLUDE IN ADVICE PACKAGE: YES [ ] NO ☒ CALLER Mr. Ledford REPRESENTING Frazee's Office PHONE NUMBER: 619/729-8504 QUESTION: Does a loan which has previously been reported trigger a threshold statement when the loan is forgiven during a subsequent threshold period? All other criteria for having to file a threshold statement have been met. ANSWER: No. The loan has already been reported. The contributor will need to report the forgiveness on Schedule E on the next required threshold filing or semi-annual statement itemizing the recipient of the loan with an explanation in the description column that the loan was forgiven (but not entering the amount in the \"Amount Paid\" column).",
+    "summary": null
+  }
+}

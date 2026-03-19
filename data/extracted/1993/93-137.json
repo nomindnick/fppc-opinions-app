@@ -1,0 +1,76 @@
+{
+  "id": "93-137",
+  "year": 1993,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1993/93-137.pdf",
+  "pdf_sha256": "7362f8d47912585fc86c1ceac84f275dad36739f8becfd30073803aaabfe851d",
+  "local_pdf_path": "raw_pdfs/1993/93-137.pdf",
+  "source_metadata": {
+    "title_raw": ", Wardlow Year: 1993 Advice Letter # 93-137",
+    "tags": [
+      "1993",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:31:00",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1993&tagCount=1"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:05.264966Z",
+    "page_count": 2,
+    "word_count": 480,
+    "char_count": 3086,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 480
+  },
+  "content": {
+    "full_text": "alifornia\nFair Political\nPractices Commission\nMay 27,\n1993\nJanice Rogers Brown\nLegal Affairs Secretary\nOffice of the Governor\nState Capitol\nSacramento,\nCA\n95814\nRe:\nYour Request for Informal\nAssistance\nOur File No.\n1-93-137\nDear Ms.\nBrown:\nYou have requested advice concerning the reporting of various\npublic events held during the week of March 22,\n1993, to honor the\nmemory and accomplishments of the late Assemblyman B.\nT. Collins\nunder the provisions of the Political Reform Act\n(the “Act).\n1\n-/\nYour letter asks only a general question..\nTherefore,\nwe consider\nit to be a request for informal assistance pursuant to Regulation\n18329(c)\n2/\nYour letter states that the events following Assemblyman\nCollins’\ndeath were funded by conations from individuals and\nbusinesses,\nand asks if the Act’s reporting provisions would be\napplicable to such donations.\nAs you know, the Act requires disclosure by public officials\nof gifts and other benefits received if an official receives gifts\ntotaling $50 or more from a single source.\nIn addition,\nelected\nofficials and certain administrative officials may not receive\ngifts totaling more than $270\niii a calendar year from a single\nsource,\nand may not receive qifts totaling more than $10 in a\ncalendar month made or arranged by a lobbyist.\n1/\nGovernment Code Sections 81000-91015.\nAll statutory\nreferences are to the Government Code unless otherwise indicated.\nCommission regulations appear at\n2 California Code of Regulations\nSection 18000,\net g.\nAll references to regulations are to Title\n2,\nDivision\n6 of the California Code of Regulations.\n2/\nInformal assistance does not provide the requestor with the\nimmunity provided by an opinion or formal written advice.\n(Section 83114; Regulation 18329(c) (3).)\n42S j Street, Suite S0O\n•\nP.O. Box S07\n•\nSacramento, CA\n95S04-0807\n•\n(916) 322-5660\n\n\n• ers Brown\nNo.\n1—93—137\nAccording to information provided by lobbyist Paula Treat,\nthe California Correctional Peace Officers Association paid $5,000\nand later reimbursed her an additional $2,564.05 for costs\nassociated with a “wake” held during the week following\nAssemblyman Collins’ death.\nThe event was open to the public,\nand\nMs.\nTreat estimates that 2,500 to 3,000 people attended.\nIt\nappears that there wera no oth2r events at which officials\nreceived reportable benefits.\nAlthough we agree.that these payments were made to honor\nAssemblyman Collins and were not made for the purpose of\nentertaining or making gifts to officials,\nthe Act does not\nprovide a method for exempting such payments from disclosure or\nlimitations.\nHowever,\nbecause the amount of benefit attributable\nto each attendee is approximately $3.00\n($7,564.05 divided by\n2,500), the benefit will not be reportable by any official who\nattended the event unless the official receives other gifts from\nthe California Correctional Peace Officers Association during 1993\ntotaling $47 or more.\nIf you have additional questions concerning this matter,\nplease do not hesitate to contact me at\n(916)\n322-5662.\nSincerely,\nuJ\nCarla Wardlow\nDivision Chief\nTechnical Assistance Division\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1993-05-27",
+    "date_raw": "May 27,\n1993",
+    "requestor_name": "Brown",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "informal_advice"
+  },
+  "sections": {
+    "question": "Your letter states that the events following Assemblyman Collins' death were funded by donations from individuals and businesses, and asks if the Act's reporting provisions would be applicable to such donations.",
+    "conclusion": "Although we agree that these payments were made to honor Assemblyman Collins and were not made for the purpose of entertaining or making gifts to officials, the Act does not provide a method for exempting such payments from disclosure or limitations. However, because the amount of benefit attributable to each attendee is approximately $3.00 ($7,564.05 divided by 2,500), the benefit will not be reportable by any official who attended the event unless the official receives other gifts from the California Correctional Peace Officers Association during 1993 totaling $47 or more.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Are donations funding public memorial events for a deceased assemblyman subject to the Political Reform Act's gift reporting and limitation requirements?",
+    "conclusion_synthetic": "Memorial event donations are technically subject to gift reporting requirements under the Act, but the per-attendee value (approximately $3.00) falls below the $50 reporting threshold, so no reporting is required unless the donor makes additional gifts to officials totaling $47 or more during the year.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Informal advice letter; no formal QUESTION or CONCLUSION section headers, but clear Q&A structure present. Letter dated May 27, 1993 regarding memorial events held in March 1993. Document provides specific dollar amounts and threshold calculations."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "83114"
+    ],
+    "regulations": [
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "gifts_honoraria",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:35:05.264966Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Your letter states that the events following Assemblyman Collins' death were funded by donations from individuals and businesses, and asks if the Act's reporting provisions would be applicable to such donations.\n\nCONCLUSION: Although we agree that these payments were made to honor Assemblyman Collins and were not made for the purpose of entertaining or making gifts to officials, the Act does not provide a method for exempting such payments from disclosure or limitations. However, because the amount of benefit attributable to each attendee is approximately $3.00 ($7,564.05 divided by 2,500), the benefit will not be reportable by any official who attended the event unless the official receives other gifts from the California Correctional Peace Officers Association during 1993 totaling $47 or more.",
+    "qa_source": "mixed",
+    "first_500_words": "alifornia Fair Political Practices Commission May 27, 1993 Janice Rogers Brown Legal Affairs Secretary Office of the Governor State Capitol Sacramento, CA 95814 Re: Your Request for Informal Assistance Our File No. 1-93-137 Dear Ms. Brown: You have requested advice concerning the reporting of various public events held during the week of March 22, 1993, to honor the memory and accomplishments of the late Assemblyman B. T. Collins under the provisions of the Political Reform Act (the “Act). 1 -/ Your letter asks only a general question.. Therefore, we consider it to be a request for informal assistance pursuant to Regulation 18329(c) 2/ Your letter states that the events following Assemblyman Collins’ death were funded by conations from individuals and businesses, and asks if the Act’s reporting provisions would be applicable to such donations. As you know, the Act requires disclosure by public officials of gifts and other benefits received if an official receives gifts totaling $50 or more from a single source. In addition, elected officials and certain administrative officials may not receive gifts totaling more than $270 iii a calendar year from a single source, and may not receive qifts totaling more than $10 in a calendar month made or arranged by a lobbyist. 1/ Government Code Sections 81000-91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations Section 18000, et g. All references to regulations are to Title 2, Division 6 of the California Code of Regulations. 2/ Informal assistance does not provide the requestor with the immunity provided by an opinion or formal written advice. (Section 83114; Regulation 18329(c) (3).) 42S j Street, Suite S0O • P.O. Box S07 • Sacramento, CA 95S04-0807 • (916) 322-5660 • ers Brown No. 1—93—137 According to information provided by lobbyist Paula Treat, the California Correctional Peace Officers Association paid $5,000 and later reimbursed her an additional $2,564.05 for costs associated with a “wake” held during the week following Assemblyman Collins’ death. The event was open to the public, and Ms. Treat estimates that 2,500 to 3,000 people attended. It appears that there wera no oth2r events at which officials received reportable benefits. Although we agree.that these payments were made to honor Assemblyman Collins and were not made for the purpose of entertaining or making gifts to officials, the Act does not provide a method for exempting such payments from disclosure or limitations. However, because the amount of benefit attributable to each attendee is approximately $3.00 ($7,564.05 divided by 2,500), the benefit will not be reportable by any official who attended the event unless the official receives other gifts from the California Correctional Peace Officers Association during 1993 totaling $47 or more. If you have additional questions concerning this matter, please do not hesitate to contact me at (916) 322-5662. Sincerely, uJ Carla Wardlow Division Chief Technical Assistance Division",
+    "summary": "The FPPC provides informal advice on whether donations funding memorial events for deceased Assemblyman B.T. Collins must be reported under the Political Reform Act's gift disclosure rules. The FPPC concludes that while such payments are technically subject to the Act, the low per-attendee benefit amount means no reporting is required unless additional gifts from the same source exceed certain thresholds."
+  }
+}

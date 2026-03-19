@@ -1,0 +1,71 @@
+{
+  "id": "90603",
+  "year": 1990,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1990/90603.pdf",
+  "pdf_sha256": "9d3e61840a87235a8a578aab131fec64af2c471036496982fd1dd172fd62b302",
+  "local_pdf_path": "raw_pdfs/1990/90603.pdf",
+  "source_metadata": {
+    "title_raw": "Garcia, Robert Year: 1990 Advice Letter # 90603",
+    "tags": [
+      "1990",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:06:55",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1990&tagCount=1&page=15"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T21:09:56.937424Z",
+    "page_count": 1,
+    "word_count": 77,
+    "char_count": 485,
+    "quality_score": 0.7957698143709989,
+    "olmocr_cost": 0.00250174,
+    "native_word_count": 95
+  },
+  "content": {
+    "full_text": "Sept. 18, 1990\n\nMark Moradomi, Esq.\nFair Political Practices Commission\nP.O. Box 807\nSacramento, Calif. 95812\n\nRe: Friends of Robert Garcia\n\nDear Mr. Moradomi,\n\nThank you for taking the time to answer my question regarding appreciation picnics for volunteers. You stated that political campaign funds could be used for a appreciation picnic even though I lost the election.\n\nIf this is incorrect please let me know.\n\nVery truly yours,\n\nRobert A. Garcia\nAttorney at Law\n\nRG:sp\nEnclosure",
+    "full_text_markdown": "Sept. 18, 1990\n\nMark Moradomi, Esq.\nFair Political Practices Commission\nP.O. Box 807\nSacramento, Calif. 95812\n\nRe: Friends of Robert Garcia\n\nDear Mr. Moradomi,\n\nThank you for taking the time to answer my question regarding appreciation picnics for volunteers. You stated that political campaign funds could be used for a appreciation picnic even though I lost the election.\n\nIf this is incorrect please let me know.\n\nVery truly yours,\n\nRobert A. Garcia\nAttorney at Law\n\nRG:sp\nEnclosure"
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": "Moradomi",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T21:09:56.937424Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "Sept. 18, 1990 Mark Moradomi, Esq. Fair Political Practices Commission P.O. Box 807 Sacramento, Calif. 95812 Re: Friends of Robert Garcia Dear Mr. Moradomi, Thank you for taking the time to answer my question regarding appreciation picnics for volunteers. You stated that political campaign funds could be used for a appreciation picnic even though I lost the election. If this is incorrect please let me know. Very truly yours, Robert A. Garcia Attorney at Law RG:sp Enclosure",
+    "qa_source": "extracted",
+    "first_500_words": "Sept. 18, 1990 Mark Moradomi, Esq. Fair Political Practices Commission P.O. Box 807 Sacramento, Calif. 95812 Re: Friends of Robert Garcia Dear Mr. Moradomi, Thank you for taking the time to answer my question regarding appreciation picnics for volunteers. You stated that political campaign funds could be used for a appreciation picnic even though I lost the election. If this is incorrect please let me know. Very truly yours, Robert A. Garcia Attorney at Law RG:sp Enclosure",
+    "summary": null
+  }
+}

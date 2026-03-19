@@ -1,0 +1,71 @@
+{
+  "id": "79-058",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-058.PDF",
+  "pdf_sha256": "e7e6a7d6829d296161065aa3245c23bffcf2ac81ca0f3595c9c36208e6bcadfb",
+  "local_pdf_path": "raw_pdfs/1979/79-058.PDF",
+  "source_metadata": {
+    "title_raw": "STORPER, MICHAEL Year: 1979 Advice Letter # 79-058",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:26:04",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=10"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:06.185858Z",
+    "page_count": 2,
+    "word_count": 160,
+    "char_count": 1021,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 160
+  },
+  "content": {
+    "full_text": "-~. \nAu \nt \n9 \ne \nD \n7 \nt \n'led \n1) \n1 \nf \nn \nely, \nr \no \nP: \n\n\nJuly 23, 1979 \nMr. Michael Bennett, Executive Director \nFair political Practices Commission \n1100 -\nK street \nSacramento, California \n95814 \nDear Mr. Bennett: \nI has come to our attention that each subdivision of \nthe state is required to submit its own guidelines for \ndeclaration of property holdings of employees or directors \nln order to determine potential conflicts of interest. \nWe would like to know: \na. \nWhat criteria and evaluation procedures does FPPC \nemploy in deciding whether a particular agency \nconflict-of-interest guideline should be \napproved? \nb. \nIs there a procedure by which the FPPC can \nreverse a decision to approve such guidelines? \nc. \nIs there a procedure by which the public can \nrequest reversal of prior certification of such \nguidelines. \nWe would appreciate having this information as soon as \npossible. \nThanking you in advance for your consideration, I am \nSincerely yours, \nMichael Storper \nSACRAMENTO REPRESENTATIVE \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1979-07-23",
+    "date_raw": "July 23, 1979",
+    "requestor_name": "Bennett",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "a. What criteria and evaluation procedures does FPPC employ in deciding whether a particular agency conflict-of-interest guideline should be approved?\n\nb. Is there a procedure by which the FPPC can reverse a decision to approve such guidelines?\n\nc. Is there a procedure by which the public can request reversal of prior certification of such guidelines.",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requester asks what criteria and procedures the FPPC uses to approve agency conflict-of-interest guidelines, whether the FPPC can reverse prior approvals, and whether the public has a mechanism to request reversal of previously certified guidelines.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Incoming request letter, not an FPPC response. No conclusion or answer section present. Document contains clear question section with three sub-parts (a, b, c). Poor OCR quality in header section but body text is legible."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:06.185858Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: a. What criteria and evaluation procedures does FPPC employ in deciding whether a particular agency conflict-of-interest guideline should be approved?\n\nb. Is there a procedure by which the FPPC can reverse a decision to approve such guidelines?\n\nc. Is there a procedure by which the public can request reversal of prior certification of such guidelines.",
+    "qa_source": "mixed",
+    "first_500_words": "-~. Au t 9 e D 7 t 'led 1) 1 f n ely, r o P: July 23, 1979 Mr. Michael Bennett, Executive Director Fair political Practices Commission 1100 - K street Sacramento, California 95814 Dear Mr. Bennett: I has come to our attention that each subdivision of the state is required to submit its own guidelines for declaration of property holdings of employees or directors ln order to determine potential conflicts of interest. We would like to know: a. What criteria and evaluation procedures does FPPC employ in deciding whether a particular agency conflict-of-interest guideline should be approved? b. Is there a procedure by which the FPPC can reverse a decision to approve such guidelines? c. Is there a procedure by which the public can request reversal of prior certification of such guidelines. We would appreciate having this information as soon as possible. Thanking you in advance for your consideration, I am Sincerely yours, Michael Storper SACRAMENTO REPRESENTATIVE",
+    "summary": "This is an incoming request from Sacramento Representative Michael Storper to FPPC Executive Director Michael Bennett seeking information about the FPPC's procedures for approving, reversing, and allowing public challenge of agency conflict-of-interest guidelines."
+  }
+}

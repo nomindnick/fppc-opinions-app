@@ -1,0 +1,72 @@
+{
+  "id": "76571",
+  "year": 1976,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1976/76571.pdf",
+  "pdf_sha256": "bfbd43df03805ec3993737df7440ddc1daf21b0d7e1387b8069e712f513100ea",
+  "local_pdf_path": "raw_pdfs/1976/76571.pdf",
+  "source_metadata": {
+    "title_raw": "BERMAN, HOWARD Year: 1976 Advice Letter # 76571",
+    "tags": [
+      "1976",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:15:54",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1976&tagCount=1&page=18"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T03:47:21.642442Z",
+    "page_count": 1,
+    "word_count": 305,
+    "char_count": 1849,
+    "quality_score": 0.7980228363946392,
+    "olmocr_cost": 0.00250088,
+    "native_word_count": 290,
+    "haiku_cost": 0.004007200000000001
+  },
+  "content": {
+    "full_text": "RICHARD GUZELA\nCHIEF COUNSEL\n\nGERALD ROSE ADAMS\nDAVID D. AXELROD\nMARTIN L. ANDERSON\nPAUL ANTICH\nLESLIE ARES\nCHARLES C. ARGILL\nJAMES E. ARONOFF\nJOHN CORZINE\nBEN E. DALE\nMICHAEL DEMEREE\nC. DAVID DICKERSON\nFRANCIS S. DORSIN\nROBERT H. DOUGHTY\nCARL NEO ELDER, JR.\nLAWRENCE H. FEIN\nJOHN FOISETTE\nHARVEY J. FOSTER\nROBERT FRANKLIN III\nALVIN D. GRESS\nROBERT D. GROMKE\nJAMES W. HEINZER\nTHOMAS R. HEUER\nJAMES P. HERRICK\nMICHAEL J. KERSTEN\nL. DOUGLAS KINNEY\nJEAN KLINGENSMITH\nVICTOR KOZLINSKI\nWILLIAM LEVOSI\nDANIEL LOUIS\nJAMES A. MARSALA\nDAVID R. MERGER\nPETER F. NELRICOE\nNELSON J. PACHECO\nROBERT G. MILLER\nJOHN A. MOGER\nVERNE L. OLIVER\nEUGENE L. PAINE\nJAMES H. POWELL II\nMARGARETTE ROTH\nHUGH P. SCARAMELLA\nDONALD J. SILVER\nWILLIAM K. STARK\nJOHN T. STUDEBAKER\nBRIAN L. WALKUP\nTHOMAS D. WHELAN\nJAMES D. WILSON\nCHRISTOPHER ZIRKLE\nDEPUTIES\n\nRICHARD K. RUSSELL\nALV IN REBER\n\nKENT L. DECARDHEAU\nERNEST H. KUSE JR.\nSTANLEY W. LOURIMORE\nLERWIN C. MACDONALD, JR.\nSPENCER E. MOLLRING\nEDWARD P. NOWAK\nRUSSELL G. PAULING\nPRINCIPAL DEPUTIES\n\n3031 STATE CAPITOL\nSACRAMENTO 95814\n\n107 SOUTH BROADWAY\nLOS ANGELES 90012\n\nLegislative Counsel\nof California\n\nGEORGE H. MURPHY\n\nSacramento, California\n\nFebruary 23, 1976\n\nHonorable Howard L. Berman\nAssembly Chamber\n\nConflicts of Interest - #3043\n\nDear Mr. Berman:\n\nQUESTION\n\nMay members of the Assembly Ways and Means Committee vote on a bill providing for the refund of election filing fees where members of the committee may be among the beneficiaries of such a bill?\n\nOPINION\n\nAn affected legislator may not vote in committee on a bill which will result in the return of his election filing fee. However, an affected legislator may vote on the vote for final passage of such legislation if he can do so impartially notwithstanding his interest and if he enters a statement to that effect in the journal before the vote is taken.",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1976-02-23",
+    "date_raw": "February 23, 1976",
+    "requestor_name": "Berman",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "May members of the Assembly Ways and Means Committee vote on a bill providing for the refund of election filing fees where members of the committee may be among the beneficiaries of such a bill?\n\nOPINION\n\nAn affected legislator may not vote in committee on a bill which will result in the return of his election filing fee. However, an affected legislator may vote on the vote for final passage of such legislation if he can do so impartially notwithstanding his interest and if he enters a statement to that effect in the journal before the vote is taken.",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.44999999999999996,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T17:47:16.482072Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: May members of the Assembly Ways and Means Committee vote on a bill providing for the refund of election filing fees where members of the committee may be among the beneficiaries of such a bill?\n\nOPINION\n\nAn affected legislator may not vote in committee on a bill which will result in the return of his election filing fee. However, an affected legislator may vote on the vote for final passage of such legislation if he can do so impartially notwithstanding his interest and if he enters a statement to that effect in the journal before the vote is taken.",
+    "qa_source": "extracted",
+    "first_500_words": "**Legislative Counsel of California** GEORGE H. MURPHY Sacramento, California February 23, 1976 Honorable Howard L. Berman Assembly Chamber Conflicts of Interest - #3043 Dear Mr. Berman: QUESTION May members of the Assembly Ways and Means Committee vote on a bill providing for the refund of election filing fees where members of the committee may be among the beneficiaries of such a bill? OPINION An affected legislator may not vote in committee on a bill which will result in the return of his election filing fee. However, an affected legislator may vote on the vote for final passage of such legislation if he can do so impartially notwithstanding his interest and if he enters a statement to that effect in the journal before the vote is taken.",
+    "summary": null
+  }
+}

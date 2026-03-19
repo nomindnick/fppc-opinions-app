@@ -1,0 +1,77 @@
+{
+  "id": "79-003",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-003.PDF",
+  "pdf_sha256": "a0f742589fb08650088cef565892ef5fd7b9b3e1f27120b02b12570ab6f234fa",
+  "local_pdf_path": "raw_pdfs/1979/79-003.PDF",
+  "source_metadata": {
+    "title_raw": "WHITE, MICHAEL Year: 1979 Advice Letter # 79-003",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:25:56",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=8"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-25T22:49:09.253720Z",
+    "page_count": 3,
+    "word_count": 554,
+    "char_count": 3460,
+    "quality_score": 0.9211306603749119,
+    "olmocr_cost": 0.007705599999999999,
+    "native_word_count": 0,
+    "haiku_cost": 0.007292
+  },
+  "content": {
+    "full_text": "State of California\n\nFair Political Practices Commission\nPO BOX 807 • SACRAMENTO 95814 • 100 K STREET BUILDING, SACRAMENTO, 95814\n[illegible] • Enforcement • Conflict of Interest\n322-6441 322-6441\n\nMarch 1, 1979\n\nMichael L. White\n3975 Madison\nRiverside, CA 92504\n\nDear Mr. White:\n\nIn response to your letter of February 27, 1979, I am\nproviding you with the following informal advice pursuant\nto Government Code Section 83114(b).\n\nYou have asked whether advertisements you will place\nin the newspaper which you own and publish and in support\nof your campaign are reportable. You state that the newspaper will not charge for the advertising. The Political\nReform Act's definition of \"contribution includes, \"the\ncandidate's own money or property used on behalf of his\ncandidacy.\" Government Code Section 82103. Therefore,\nthe donation of the advertising space is a contribution\nto your campaign and should be reported as such by the\ncampaign pursuant to Government Code Section 84102(b).\nThat section requires, among other things, a listing of\nthe name of a contributor of $100 or more and the amount\nof the contribution. However, the Fair Political\nPractices Commission\nhas exempted regularly published newspapers from the\nreporting of expenditures they make to support or oppose\ncandidates or measures. (Cal. Admin. Code Section\n[illegible](c)(4)(A),\na copy of which is enclosed.) Therefore, even though the\ncampaign is required to report receipt of the advertising\nspace, the newspaper will incur no obligation to report the\nexpenditure for the advertising space.\n\nYou also ask how to value the advertising space for\npurposes of reporting the contribution. Government Code\nSection 81011 is applicable to reporting of contributions\nof goods and services. That section states:\n\nWhenever in this title the amount of goods,\nservices, facilities or anything of value\nother than money is required to be reported,\n\n3915 Madison\nRiveraide, CA\n\nFebruary 27, 1991\n\n\nMr. Dan Lowenstein\nFair Political Practices Commission\n1102 \"K\" Street\nSacramento, CA 95814\n\n\nDear Mr. Lowenstein:\n\nThis is a request for a compliance determination of the correct\nmethod of disclosing donated newspaper advertising space.\n\nAs a publisher of a local newspaper, in which I am the sole\nproprietor, I anticipate a donation of advertising space to be used\nin that publication during an upcoming bid for a local city\ncouncil seat. I would appreciate the commission's advice on\nhow the use of the space needs to be reported. Should the\ncommission decide the space represents a financial contribution\nto my campaign, would it be reported at the real value it costs\nme as an owner to publish the ad or at the value of space sold to\nregular advertisers?\n\nYour prompt attention to this matter is appreciated. If any\nfurther information is necessary, please contact me at\n(714) 588-5390.\n\nSincerely,\n\n\nMichael L. White\n\nMichael L. Wm\nMarch 8, 1979\nPage Two\n\nThe project shall be \"at a reduced rate,\nboard while at your facility to dis-\ncussed, and if discretion. The models,\nservices, or facilities that be appended\nto a report of this\n\nTherefore, the entire project space would be the\nprice the model could command and the advertising space, not your usual contribution publish the\nads.\n\nI hope this information has been helpful to you. If\nyou have any further questions, please do not hesitate to\ncall me at (916) 322-5901.\n\nSincerely,\n\nLeo C. Rosenthal\nDirector\nLegal Division\n\nLCR:pln\nEnclosure",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1979-03-08",
+    "date_raw": "March 8, 1979",
+    "requestor_name": "White",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "You have asked whether advertisements you will place in the newspaper which you own and publish and in support of your campaign are reportable. You state that the newspaper will not charge for the advertising... You also ask how to value the advertising space for purposes of reporting the contribution.",
+    "conclusion": "Therefore, the donation of the advertising space is a contribution to your campaign and should be reported as such by the campaign pursuant to Government Code Section 84201(g)... the newspaper will incur no obligation to report the expenditure for the advertising space. Therefore, the value of the advertising space would be the price the newspaper would charge customers for similar advertising space, not your cost as an owner to publish the ads.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "A newspaper publisher seeking city council office asked whether free advertising space he provides to his own campaign is reportable as a contribution, and if so, how to value it for reporting purposes.",
+    "conclusion_synthetic": "The donated advertising space is a reportable campaign contribution that must be reported by the campaign at fair market value (the price charged to regular advertisers), though the newspaper itself has no reporting obligation under the exemption for regularly published newspapers.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Clear Q/C structure present. Document includes both the incoming request letter (dated Feb 27, 1978) and the FPPC response letter (dated March 8, 1979). Minor date discrepancy in letterhead (1978 vs 1979) appears to be typographical error in source document."
+  },
+  "citations": {
+    "government_code": [
+      "81011",
+      "83015",
+      "83114(b)",
+      "84201(g)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-07T16:48:22.151587Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: You have asked whether advertisements you will place in the newspaper which you own and publish and in support of your campaign are reportable. You state that the newspaper will not charge for the advertising... You also ask how to value the advertising space for purposes of reporting the contribution.\n\nCONCLUSION: Therefore, the donation of the advertising space is a contribution to your campaign and should be reported as such by the campaign pursuant to Government Code Section 84201(g)... the newspaper will incur no obligation to report the expenditure for the advertising space. Therefore, the value of the advertising space would be the price the newspaper would charge customers for similar advertising space, not your cost as an owner to publish the ads.",
+    "qa_source": "mixed",
+    "first_500_words": "March 8, 1979 Michael L. White 3975 Madison Riverside, CA 92504 Dear Mr. White: In response to your letter of February 27, 1979, I am providing you with the following informal advice pursuant to Government Code Section 83114(b). You have asked whether advertisements you will place in the newspaper which you own and publish and in support of your campaign are reportable. You state that the newspaper will not charge for the advertising. The Political Reform Act's definition of contribution includes, \"the candidate's own money or property used on behalf of his candidacy.\" Government Code Section 83015. Therefore, the donation of the advertising space is a contribution to your campaign and should be reported as such by the campaign pursuant to Government Code Section 84201(g). That section requires, among other things, a listing of the name of a contributor of $100 or more and the amount of the contribution. However, by regulation the Commission has exempted regularly published newspapers from the reporting of expenditures they make to support or oppose candidates or measures. 2 Cal. Admin. Code Section 18225(c)(4)(A), a copy of which is enclosed. Therefore, even though the campaign is required to report receipt of the advertising space, the newspaper will incur no obligation to report the expenditure for the advertising space. You also ask how to value the advertising space for purposes of reporting the contribution. Government Code Section 81011 is applicable to reporting of contributions of goods and services. That section states: Whenever in this title the amount of goods, services, facilities or anything of value other than money is required to be reported, 3975 Madison Riverside, CA 92504 February 27, 1978 Mr. Dan Lowenstein Fair Political Practices Commission 110J \"K\" Street Sacramento, CA 95814 Dear Mr. Lowenstein: This is a request for a commission determination of the correct method of disclosing donated newspaper advertising space. As a publisher of a local newspaper, in which I am the sole proprietor, I anticipate placing ads at no charge to my campaign in that publication during an upcoming bid for a local city council seat. I would appreciate the commission's advice on how the use of that space needs to be reported. Should the commission decide the space represents a financial contribution to my campaign, should it be reported at the cash value it costs me as a owner to publish the ad or at the value of space sold to regular advertisers? Your prompt attention to this matter is appreciated. If any further information is necessary, please contact me at (714) 688-5336. Sincerely, Michael L. White The text in the image reads: Michael L. Whi March 8, 1979 Page Two the amount shall be the estimated fair market value at the time received or expended, and a description of the goods, services, or facilities that be appended to the report or statement. Therefore, the value of the advertising space would be the price the newspaper would charge customers for similar advertising space, not your cost as an owner",
+    "summary": "FPPC Director Lee Rosenthal advises Michael White that free newspaper advertising he provides to his own city council campaign is a reportable contribution valued at fair market rates, not his production costs, though the newspaper has no separate reporting obligation."
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "76153",
+  "year": 1976,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1976/76153.PDF",
+  "pdf_sha256": "bf736159a7ef1a897929fc5709a922e7c8fb432212a93cdb921a848e79b246d6",
+  "local_pdf_path": "raw_pdfs/1976/76153.PDF",
+  "source_metadata": {
+    "title_raw": "SATT, JAMES Year: 1976 Advice Letter # 76153",
+    "tags": [
+      "1976",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:15:46",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1976&tagCount=1&page=16"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:18.339858Z",
+    "page_count": 2,
+    "word_count": 121,
+    "char_count": 765,
+    "quality_score": 0.5075,
+    "olmocr_cost": null,
+    "native_word_count": 121
+  },
+  "content": {
+    "full_text": "(916) 32B660 \nDe \n76 \nLos Angeles, CA \n900 2 \n\n\nIN CHAMBERS \n~fUNICIPAL COURT \nLOS ANGELES J\"GDICIAL DISTRICT \nJAMES E. SATT, JUDGE \nNovember 24, 1976 \nstate of California Fair Political \nPractices Commission \nTechnical Assistance and Analysis Division \nP. O. Box 807 \nSacramento, California 95804 \nDear Sirs: \nIn reference to your letter of November 10, 1976, \nregarding filing requirements for Judges under the \nPolitical Reform Act, I attempted to file an original \nand one copy of the candidate's campaign statement \nwith \nCounty Clerk. \nthat the County Clerk in Los Angeles \nthese documents for filing, and \none copy filed with the Registrar \nto comply with your letter. \nWill \np \nme if this ruling is correct \nand \ni \nVery truly yours, \nJames E. Satt, Judge \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1976-11-24",
+    "date_raw": "November 24, 1976",
+    "requestor_name": "SATT",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Judge James E. Satt seeks clarification regarding whether the Los Angeles County Clerk's refusal to file candidate campaign statement documents complies with FPPC filing requirements, and whether filing one copy with the Registrar of Voters satisfies the Political Reform Act requirements.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.65,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an incoming request letter FROM a judge TO the FPPC, not an FPPC response. The document is incomplete/damaged with missing text sections. The judge references a prior FPPC letter dated November 10, 1976, but this response letter is not included. No formal Question/Conclusion sections found; extracted question from letter body. Document partially illegible in places."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:18.339858Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Judge James E. Satt seeks clarification regarding whether the Los Angeles County Clerk's refusal to file candidate campaign statement documents complies with FPPC filing requirements, and whether filing one copy with the Registrar of Voters satisfies the Political Reform Act requirements.",
+    "qa_source": "synthetic",
+    "first_500_words": "(916) 32B660 De 76 Los Angeles, CA 900 2 IN CHAMBERS ~fUNICIPAL COURT LOS ANGELES J\"GDICIAL DISTRICT JAMES E. SATT, JUDGE November 24, 1976 state of California Fair Political Practices Commission Technical Assistance and Analysis Division P. O. Box 807 Sacramento, California 95804 Dear Sirs: In reference to your letter of November 10, 1976, regarding filing requirements for Judges under the Political Reform Act, I attempted to file an original and one copy of the candidate's campaign statement with County Clerk. that the County Clerk in Los Angeles these documents for filing, and one copy filed with the Registrar to comply with your letter. Will p me if this ruling is correct and i Very truly yours, James E. Satt, Judge",
+    "summary": "Judge James E. Satt writes to the FPPC seeking confirmation that the Los Angeles County Clerk correctly refused to file candidate campaign statement documents and asking whether filing with the Registrar of Voters instead complies with the Political Reform Act."
+  }
+}

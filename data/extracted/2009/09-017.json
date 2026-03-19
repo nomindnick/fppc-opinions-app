@@ -1,0 +1,71 @@
+{
+  "id": "09-017",
+  "year": 2009,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2009/09-017.pdf",
+  "pdf_sha256": "711d19dfde8273b3f0ce893e4fe88cdaadca3e14a7173a5e90e1376f060aa787",
+  "local_pdf_path": "raw_pdfs/2009/09-017.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2009 Advice Letter # 09-017",
+    "tags": [
+      "2009",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:48:50",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2009&tagCount=1"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T20:34:13.512181Z",
+    "page_count": 1,
+    "word_count": 82,
+    "char_count": 518,
+    "quality_score": 0.7584730214490204,
+    "olmocr_cost": 0.00249572,
+    "native_word_count": 106
+  },
+  "content": {
+    "full_text": "February 24, 2009\n\nJoseph F. Smith\nSenior Staff Counsel\nDepartment of Toxic Substances Control\nP.O. Box 806\nSacramento, California 95812-0806\n\nRe: Your Request for Advice\nOur File No. W-09-017\n\nDear Mr. Smith:\n\nThis letter is to notify you that we have withdrawn the above captioned request for advice per our telephone conversation on February 9, 2009.\n\nIf you have any questions, feel free to call me at (916) 322-5660.\n\nSincerely,\n\nScott Hallabrin\nGeneral Counsel\n\nBy: Sukhi K. Brar\nCounsel, Legal Division\n\nSKB:jgl",
+    "full_text_markdown": "February 24, 2009\n\nJoseph F. Smith\nSenior Staff Counsel\nDepartment of Toxic Substances Control\nP.O. Box 806\nSacramento, California 95812-0806\n\nRe: Your Request for Advice\nOur File No. W-09-017\n\nDear Mr. Smith:\n\nThis letter is to notify you that we have withdrawn the above captioned request for advice per our telephone conversation on February 9, 2009.\n\nIf you have any questions, feel free to call me at (916) 322-5660.\n\nSincerely,\n\nScott Hallabrin\nGeneral Counsel\n\nBy: Sukhi K. Brar\nCounsel, Legal Division\n\nSKB:jgl"
+  },
+  "parsed": {
+    "date": "2009-02-24",
+    "date_raw": "February 24, 2009",
+    "requestor_name": "Smith",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T20:34:13.512181Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "February 24, 2009 Joseph F. Smith Senior Staff Counsel Department of Toxic Substances Control P.O. Box 806 Sacramento, California 95812-0806 Re: Your Request for Advice Our File No. W-09-017 Dear Mr. Smith: This letter is to notify you that we have withdrawn the above captioned request for advice per our telephone conversation on February 9, 2009. If you have any questions, feel free to call me at (916) 322-5660. Sincerely, Scott Hallabrin General Counsel By: Sukhi K. Brar Counsel, Legal Division SKB:jgl",
+    "qa_source": "extracted",
+    "first_500_words": "February 24, 2009 Joseph F. Smith Senior Staff Counsel Department of Toxic Substances Control P.O. Box 806 Sacramento, California 95812-0806 Re: Your Request for Advice Our File No. W-09-017 Dear Mr. Smith: This letter is to notify you that we have withdrawn the above captioned request for advice per our telephone conversation on February 9, 2009. If you have any questions, feel free to call me at (916) 322-5660. Sincerely, Scott Hallabrin General Counsel By: Sukhi K. Brar Counsel, Legal Division SKB:jgl",
+    "summary": null
+  }
+}

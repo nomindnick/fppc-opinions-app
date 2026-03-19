@@ -1,0 +1,71 @@
+{
+  "id": "09-165",
+  "year": 2009,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2009/09-165.pdf",
+  "pdf_sha256": "3686aaaed600b09b0b3cd6b1546c793fb0f569bf0ccfc0617cff8375cb90e20a",
+  "local_pdf_path": "raw_pdfs/2009/09-165.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2009 Advice Letter # 09-165",
+    "tags": [
+      "2009",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 17:08:59",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2009&tagCount=1&page=28"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T23:30:33.441071Z",
+    "page_count": 1,
+    "word_count": 78,
+    "char_count": 475,
+    "quality_score": 0.7814539173789173,
+    "olmocr_cost": 0.00248024,
+    "native_word_count": 92
+  },
+  "content": {
+    "full_text": "July 20, 2009\n\nKent M. Taylor\n1295 Descanso St.\nSan Luis Obispo, CA 93405\n\nRe: Your Request for Advice\nOur File No. W-09-165\n\nDear Mr. Taylor:\n\nThis letter is to notify you that we have withdrawn the above captioned request for advice per our telephone conversation on July 2, 2009.\n\nIf you have any questions, feel free to call me at (916) 322-5660.\n\nSincerely,\n\nScott Hallabrin\nGeneral Counsel\n\nBy: Cynthia A. Jones\nPolitical Reform Consultant\nTechnical Assistance Division",
+    "full_text_markdown": "July 20, 2009\n\nKent M. Taylor\n1295 Descanso St.\nSan Luis Obispo, CA 93405\n\nRe: Your Request for Advice\nOur File No. W-09-165\n\nDear Mr. Taylor:\n\nThis letter is to notify you that we have withdrawn the above captioned request for advice per our telephone conversation on July 2, 2009.\n\nIf you have any questions, feel free to call me at (916) 322-5660.\n\nSincerely,\n\nScott Hallabrin\nGeneral Counsel\n\nBy: Cynthia A. Jones\nPolitical Reform Consultant\nTechnical Assistance Division"
+  },
+  "parsed": {
+    "date": "2009-07-20",
+    "date_raw": "July 20, 2009",
+    "requestor_name": "Taylor",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T23:30:33.441071Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "July 20, 2009 Kent M. Taylor 1295 Descanso St. San Luis Obispo, CA 93405 Re: Your Request for Advice Our File No. W-09-165 Dear Mr. Taylor: This letter is to notify you that we have withdrawn the above captioned request for advice per our telephone conversation on July 2, 2009. If you have any questions, feel free to call me at (916) 322-5660. Sincerely, Scott Hallabrin General Counsel By: Cynthia A. Jones Political Reform Consultant Technical Assistance Division",
+    "qa_source": "extracted",
+    "first_500_words": "July 20, 2009 Kent M. Taylor 1295 Descanso St. San Luis Obispo, CA 93405 Re: Your Request for Advice Our File No. W-09-165 Dear Mr. Taylor: This letter is to notify you that we have withdrawn the above captioned request for advice per our telephone conversation on July 2, 2009. If you have any questions, feel free to call me at (916) 322-5660. Sincerely, Scott Hallabrin General Counsel By: Cynthia A. Jones Political Reform Consultant Technical Assistance Division",
+    "summary": null
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "93-136",
+  "year": 1993,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1993/93-136.pdf",
+  "pdf_sha256": "3ef861930d85a65265d91e6236377ee128bdbda2043393385f43b565ef7da972",
+  "local_pdf_path": "raw_pdfs/1993/93-136.pdf",
+  "source_metadata": {
+    "title_raw": ", Stecher Year: 1993 Advice Letter # 93-136",
+    "tags": [
+      "1993",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:31:09",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1993&tagCount=1&page=3"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:05.465755Z",
+    "page_count": 2,
+    "word_count": 354,
+    "char_count": 2267,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 354
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\nApril 8,\n1993\nGreg Hill\n338 The Village\nTownhouse\n2\nRedondo Beach, California\n90277\nRe:\nYour Request for Advice\nOur File No.\nA-93--l36\nDear Mr. Hill:\nAs a candidate for City Council in Redondo Beach,\nyou have\nrequested advice regarding the conflict—of—interest provisions of\nthe Political Reform Act.\nSpecifically,\nyou have asked whether\nthe conflict—of—interest provisions of the Act preclude you from\nserving on the city council because of your employment.\nYou are an employee of The Gas Company and have stock\nownership in Pacific Enterprises Corporation,\nwhich is the parent\ncompany of The Gas Company.\nThe conflict—of—interest provisions\nof the Act do not preclude a public official from holding office\nbased on the official’s employment.\nHowever, all public officials\nare subject to the disqualification provisions of the Act.\nSection 87100 prohibits public officials from making,\nparticipating in or using their official position to influence a\ngovernmental decision in which they know or have reason to know\nthey have a financial interest.\nAn official has a financial interest in a governmental deci\nsion within the meaning of Section 87100 if it is reasonably\nforeseeable that the decision will have a material financial ef\nfect, distinguishable from its effect on the public generally,\non\nthe official,\nor on a member of the official’s immediate family,\nor on any of the financial interests listed in Section 87103.\n1\nGovernment Code Sections 81000—91015.\nAll statutory references\nare to the Government Code unless otherwise indicated.\nCommission\nregulations appear at\n2 California Code of Regulations Section\n18000\ng.\nAll references to regulations are to Title 2,\nDivision\n6 of the California Code of Regulations.\n428 J Street, Suite 800 •\nP.O. Box 807 •\nSacramento, CA\n95812 •\n(916) 322-5660\n\n\nOur File No. A-93-136\nPage\n2\nTherefore, if elected,\nyou must disqualify yourself from\nparticipating in any decision which will have a material financial\neffect on The Gas Company or Pacific Enterprises Corporation.\nEnclosed is a pamphlet on the conflict—of—interest provisions\nof the Act.\nI trust this answers your question.\nSincerely,\nJeff Marschner\nGeneral Counsel\nBy:\nCou\n1\nis 1, k-Legal Division\nJM:JS:dl\nenc.\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1993-04-08",
+    "date_raw": "April 8,\n1993",
+    "requestor_name": "Hill",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "As a candidate for City Council in Redondo Beach, whether the conflict-of-interest provisions of the Political Reform Act preclude you from serving on the city council because of your employment with The Gas Company and stock ownership in Pacific Enterprises Corporation, which is the parent company of The Gas Company.",
+    "conclusion": "The conflict-of-interest provisions of the Act do not preclude a public official from holding office based on the official's employment. However, all public officials are subject to the disqualification provisions of the Act. Section 87100 prohibits public officials from making, participating in or using their official position to influence a governmental decision in which they know or have reason to know they have a financial interest. Therefore, if elected, you must disqualify yourself from participating in any decision which will have a material financial effect on The Gas Company or Pacific Enterprises Corporation.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a candidate for city council can serve while employed by The Gas Company and holding stock in its parent company Pacific Enterprises Corporation under the conflict-of-interest provisions of the Political Reform Act.",
+    "conclusion_synthetic": "Employment and stock ownership do not preclude serving on city council, but the applicant must disqualify themselves from any governmental decisions that would have a material financial effect on their employer or its parent company under Section 87100 of the Political Reform Act.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Standard advice letter format with clear question and conclusion sections. File number A-93-136, dated April 8, 1993. Letter signed by Jeff Marschner, General Counsel."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "87100",
+      "87103"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.6666666666666666,
+    "classified_at": "2026-02-06T18:35:05.465755Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: As a candidate for City Council in Redondo Beach, whether the conflict-of-interest provisions of the Political Reform Act preclude you from serving on the city council because of your employment with The Gas Company and stock ownership in Pacific Enterprises Corporation, which is the parent company of The Gas Company.\n\nCONCLUSION: The conflict-of-interest provisions of the Act do not preclude a public official from holding office based on the official's employment. However, all public officials are subject to the disqualification provisions of the Act. Section 87100 prohibits public officials from making, participating in or using their official position to influence a governmental decision in which they know or have reason to know they have a financial interest. Therefore, if elected, you must disqualify yourself from participating in any decision which will have a material financial effect on The Gas Company or Pacific Enterprises Corporation.",
+    "qa_source": "mixed",
+    "first_500_words": "California Fair Political Practices Commission April 8, 1993 Greg Hill 338 The Village Townhouse 2 Redondo Beach, California 90277 Re: Your Request for Advice Our File No. A-93--l36 Dear Mr. Hill: As a candidate for City Council in Redondo Beach, you have requested advice regarding the conflict—of—interest provisions of the Political Reform Act. Specifically, you have asked whether the conflict—of—interest provisions of the Act preclude you from serving on the city council because of your employment. You are an employee of The Gas Company and have stock ownership in Pacific Enterprises Corporation, which is the parent company of The Gas Company. The conflict—of—interest provisions of the Act do not preclude a public official from holding office based on the official’s employment. However, all public officials are subject to the disqualification provisions of the Act. Section 87100 prohibits public officials from making, participating in or using their official position to influence a governmental decision in which they know or have reason to know they have a financial interest. An official has a financial interest in a governmental deci sion within the meaning of Section 87100 if it is reasonably foreseeable that the decision will have a material financial ef fect, distinguishable from its effect on the public generally, on the official, or on a member of the official’s immediate family, or on any of the financial interests listed in Section 87103. 1 Government Code Sections 81000—91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations Section 18000 g. All references to regulations are to Title 2, Division 6 of the California Code of Regulations. 428 J Street, Suite 800 • P.O. Box 807 • Sacramento, CA 95812 • (916) 322-5660 Our File No. A-93-136 Page 2 Therefore, if elected, you must disqualify yourself from participating in any decision which will have a material financial effect on The Gas Company or Pacific Enterprises Corporation. Enclosed is a pamphlet on the conflict—of—interest provisions of the Act. I trust this answers your question. Sincerely, Jeff Marschner General Counsel By: Cou 1 is 1, k-Legal Division JM:JS:dl enc.",
+    "summary": "FPPC advises that employment with The Gas Company and stock ownership in its parent company Pacific Enterprises Corporation do not preclude a candidate from serving on Redondo Beach City Council, but the official must disqualify themselves from decisions with material financial effects on these entities."
+  }
+}

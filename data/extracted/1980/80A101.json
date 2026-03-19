@@ -1,0 +1,75 @@
+{
+  "id": "80A101",
+  "year": 1980,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1980/80A101.PDF",
+  "pdf_sha256": "2db7c27c08ffdbbf10c1889f65862b01a4af13c76cb4da666fdad4cae595b88f",
+  "local_pdf_path": "raw_pdfs/1980/80A101.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1980 Advice Letter # 80A101",
+    "tags": [
+      "1980",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:27:06",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1980&tagCount=1&page=3"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T01:02:16.177605Z",
+    "page_count": 2,
+    "word_count": 294,
+    "char_count": 2034,
+    "quality_score": 0.8867171185956899,
+    "olmocr_cost": 0.00509034,
+    "native_word_count": 17,
+    "haiku_cost": 0.004568
+  },
+  "content": {
+    "full_text": "State of California\n\nMemorandum\n\nTo : File                                                     Date : April 25, 1980\n\n\nFrom : FAIR POLITICAL PRACTICES COMMISSION\n       Dwight Dickerson\n\nSubject: Late fines for Statements of Economic Interests\n\n\n       Government Code Section 91013(c) provides that:\n\n       ... No liability under this section shall exceed\n       the cumulative amount stated in the late statement\n       or report, or one hundred dollars ($100), whichever\n       is greater.\n\n       The Commission staff reaffirmed at its opinion\n       request meeting of April 10, 1980, the policy that the\n       most an official can be fined for filing a late state-\n       ment of economic interests under 91013(c) is $100 because\n       the references to \"cumulative amounts stated\" in 91013(c)\n       apply only to campaign and lobbying reports.\n\n       DEDiph\n\nState of California\n\nMemorandum\n\nTo : Opinion Request Meeting Participants                 Date : April 10, 1980\n\n\nFrom : FAIR POLITICAL PRACTICES COMMISSION\n       Dwight Dickerson\n\nSubject: Late Fines for Statements of Economic Interests\n\n\nGovernment Code Section 91013 allows a filing officer to\nfine an official $10.00 a day when the official fails to file\nhis or her statement of economic interest by the statutory or\nconflict of interest code deadline. Section 91013(c) provides\nthat,\n\n     \"...No liability under this section shall exceed the\n     cumulative amount stated in the late statement or report,\n     or one hundred dollars ($100.00), whichever is greater.\n\nIt has been Commission policy that the maximum fine that\ncan be levied for late statements is $100.00. This policy is\nnow questioned by the Kern County Counsel. He wishes to know\nif there is any statutory justification for the ceiling. He\nbelieves that if the amounts reported on the statement exceed\n$100.00, it is the amount reported that will be used as the\nceiling. With this interpretation of Section 91013, the County\nlevied fines for late statements in excess of $100.00 last\nyear.",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1980-04-25",
+    "date_raw": "April 25, 1980",
+    "requestor_name": null,
+    "requestor_title": "County Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Government Code Section 91013(c) provides that: ... No liability under this section shall exceed the cumulative amount stated in the late statement or report, or one hundred dollars ($100), whichever is greater. The Kern County Counsel wishes to know if there is any statutory justification for the ceiling, and whether if the amounts reported on the statement exceed $100.00, it is the amount reported that will be used as the ceiling.",
+    "conclusion": "The Commission staff reaffirmed at its opinion request meeting of April 10, 1980, the policy that the most an official can be fined for filing a late statement of economic interests under 91013(c) is $100 because the references to 'cumulative amounts stated' in 91013(c) apply only to campaign and lobbying reports.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether the maximum fine for late filing of statements of economic interest is capped at $100 or whether it can exceed $100 if the cumulative amount stated in the statement is greater than $100.",
+    "conclusion_synthetic": "The FPPC confirms that the maximum fine for late statements of economic interest is $100, as the statutory language referring to 'cumulative amounts stated' applies only to campaign and lobbying reports, not statements of economic interest.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document contains two memoranda dated April 10 and April 25, 1980. The April 25 memo reaffirms the policy from the April 10 opinion request meeting. Both memoranda address the same substantive issue."
+  },
+  "citations": {
+    "government_code": [
+      "91013",
+      "91013(c)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T16:36:59.705551Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Government Code Section 91013(c) provides that: ... No liability under this section shall exceed the cumulative amount stated in the late statement or report, or one hundred dollars ($100), whichever is greater. The Kern County Counsel wishes to know if there is any statutory justification for the ceiling, and whether if the amounts reported on the statement exceed $100.00, it is the amount reported that will be used as the ceiling.\n\nCONCLUSION: The Commission staff reaffirmed at its opinion request meeting of April 10, 1980, the policy that the most an official can be fined for filing a late statement of economic interests under 91013(c) is $100 because the references to 'cumulative amounts stated' in 91013(c) apply only to campaign and lobbying reports.",
+    "qa_source": "mixed",
+    "first_500_words": "**Memorandum** To: File Date: April 25, 1980 From: FAIR POLITICAL PRACTICES COMMISSION Dwight Dickerson Subject: Late fines for Statements of Economic Interests Government Code Section 91013(c) provides that: ... No liability under this section shall exceed the cumulative amount stated in the late statement or report, or one hundred dollars ($100), whichever is greater. The Commission staff reaffirmed at its opinion request meeting of April 10, 1980, the policy that the most an official can be fined for filing a late statement of economic interests under 91013(c) is $100 because the references to \"cumulative amounts stated\" in 91013(c) apply only to campaign and lobbying reports. DED:plh **Memorandum** To: Opinion Request Meeting Participants Date: April 10, 1980 From: FAIR POLITICAL PRACTICES COMMISSION Dwight Dickerson Subject: Late Fines for Statements of Economic Interests Government Code Section 91013 allows a filing officer to fine an official $10.00 a day when the official fails to file his or her statement of economic interest by the statutory or conflict of interest code deadline. Section 91013(c) provides that, \"...No liability under this section shall exceed the cumulative amount stated in the late statement or report, or one hundred dollars ($100.00), whichever is greater. It has been Commission policy that the maximum fine that can be levied for late statements is $100.00. This policy is now questioned by the Kern County Counsel. He wishes to know if there is any statutory justification for the ceiling. He believes that if the amounts reported on the statement exceed $100.00, it is the amount reported that will be used as the ceiling. With this interpretation of Section 91013, the County levied fines for late statements in excess of $100.00 last year.\"",
+    "summary": "The FPPC reaffirms its policy that the maximum fine for late filing of statements of economic interest is $100, rejecting an interpretation by Kern County Counsel that would allow fines to exceed $100 based on amounts reported in the statement."
+  }
+}

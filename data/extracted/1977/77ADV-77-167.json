@@ -1,0 +1,73 @@
+{
+  "id": "77ADV-77-167",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-167.PDF",
+  "pdf_sha256": "3853242522665f8ce941cc444069e2378d3123cca7200e040a3b73b5dae70f90",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-167.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-167",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:19:05",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=2"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-07T17:00:51.801218Z",
+    "page_count": 1,
+    "word_count": 164,
+    "char_count": 1033,
+    "quality_score": 0.7175,
+    "olmocr_cost": 0.00258172,
+    "native_word_count": 4
+  },
+  "content": {
+    "full_text": "February 2, 1977\n\nFifi Zeff  \nYolo County Counsel's Office  \nP.O. Box 127  \nWoodland, CA 95695\n\nDear Ms. Zeff:\n\nThis letter confirms our telephone conversation of January 31, 1977, concerning two people who are running for school board in the Winters School District. Because they are unopposed, the two contenders will be appointed to office pursuant to Education Code Section 1328, and no election will be held for that office. Neither person has received contributions, paid a filing fee or made any other expenditures in support of his candidacy.\n\nOn the basis of these facts, I advised you that these two individuals are not \"candidates\" within the meaning of the Political Reform Act. (See Government Code Section 82007, opinion requested by Carl A. Kelly l FPPC Opinions 162 (No. 75-134, October 23, 1975.) Consequently, they are not required to file campaign statements in connection with the March, 1977, election.\n\nI hope this information will be of assistance.\n\nSincerely,\n\nNatalie E. West  \nStaff Counsel  \nLegal Division",
+    "full_text_markdown": "February 2, 1977\n\nFifi Zeff  \nYolo County Counsel's Office  \nP.O. Box 127  \nWoodland, CA 95695\n\nDear Ms. Zeff:\n\nThis letter confirms our telephone conversation of January 31, 1977, concerning two people who are running for school board in the Winters School District. Because they are unopposed, the two contenders will be appointed to office pursuant to Education Code Section 1328, and no election will be held for that office. Neither person has received contributions, paid a filing fee or made any other expenditures in support of his candidacy.\n\nOn the basis of these facts, I advised you that these two individuals are not \"candidates\" within the meaning of the Political Reform Act. (See Government Code Section 82007, opinion requested by Carl A. Kelly l FPPC Opinions 162 (No. 75-134, October 23, 1975.) Consequently, they are not required to file campaign statements in connection with the March, 1977, election.\n\nI hope this information will be of assistance.\n\nSincerely,\n\nNatalie E. West  \nStaff Counsel  \nLegal Division"
+  },
+  "parsed": {
+    "date": "1977-02-02",
+    "date_raw": "February 2, 1977",
+    "requestor_name": "Zeff",
+    "requestor_title": "County Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether individuals running unopposed for school board who will be appointed without an election and have received no contributions or made expenditures are 'candidates' under the Political Reform Act requiring campaign statement filings.",
+    "conclusion_synthetic": "The FPPC concludes that unopposed contenders who will be appointed pursuant to Education Code Section 1328 without an election and have made no campaign expenditures or contributions are not 'candidates' within the meaning of the Political Reform Act and therefore are not required to file campaign statements.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Letter format follows conversational advice confirmation rather than formal Q&A structure. References prior FPPC opinion (No. 75-134). No formal QUESTION or CONCLUSION sections present; synthetic versions derived from letter content."
+  },
+  "citations": {
+    "government_code": [
+      "82007"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T17:00:51.801218Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether individuals running unopposed for school board who will be appointed without an election and have received no contributions or made expenditures are 'candidates' under the Political Reform Act requiring campaign statement filings.\n\nCONCLUSION: The FPPC concludes that unopposed contenders who will be appointed pursuant to Education Code Section 1328 without an election and have made no campaign expenditures or contributions are not 'candidates' within the meaning of the Political Reform Act and therefore are not required to file campaign statements.",
+    "qa_source": "synthetic",
+    "first_500_words": "February 2, 1977 Fifi Zeff Yolo County Counsel's Office P.O. Box 127 Woodland, CA 95695 Dear Ms. Zeff: This letter confirms our telephone conversation of January 31, 1977, concerning two people who are running for school board in the Winters School District. Because they are unopposed, the two contenders will be appointed to office pursuant to Education Code Section 1328, and no election will be held for that office. Neither person has received contributions, paid a filing fee or made any other expenditures in support of his candidacy. On the basis of these facts, I advised you that these two individuals are not \"candidates\" within the meaning of the Political Reform Act. (See Government Code Section 82007, opinion requested by Carl A. Kelly l FPPC Opinions 162 (No. 75-134, October 23, 1975.) Consequently, they are not required to file campaign statements in connection with the March, 1977, election. I hope this information will be of assistance. Sincerely, Natalie E. West Staff Counsel Legal Division",
+    "summary": "FPPC confirms that two unopposed contenders for Winters School District school board positions who will be appointed without an election are not required to file campaign statements, as they do not qualify as 'candidates' under the Political Reform Act."
+  }
+}

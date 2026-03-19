@@ -1,0 +1,73 @@
+{
+  "id": "94-185",
+  "year": 1994,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1994/94-185.pdf",
+  "pdf_sha256": "1dc21ac2342337b35481bb6524766d48833c440a32b41de62b91ef5ce4b58b90",
+  "local_pdf_path": "raw_pdfs/1994/94-185.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 1994 Advice Letter # 94-185",
+    "tags": [
+      "1994",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:36:12",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1994&tagCount=1&page=29"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:04.201317Z",
+    "page_count": 1,
+    "word_count": 231,
+    "char_count": 1448,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 231
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\nJune 20,\n1994\nAssemblyman Gilbert W.\nFerguson\nState Capitol\nP.O.\nBox 942849\nSacramento,\nCA\n94249—0001\nRe:\nYour Request for Advice\nOur File No.\nG—94—185\nDear Assemblyman Ferguson:\nThis is in reply to your request for advice concerning the\nlegality of conducting a raffle as a campaign fund—raiser, basing\neligibility for the raffle on proof that the person voted,\nand\nawarding prizes by use of some of the monies collected from the\nraffle.\nThe Commission only has jurisdiction over matters covered by\nthe Political Reform Act\n(the “Act”).\n1\nThe Act does not address\nthe legality of raffles,\neven when they are conducted for\npolitical fund—raising purposes.\nTherefore,\nwe are without\nauthority to assist you with this question.\nPenal Code Section 319 prohibits some types of raffles.\nOther laws regulate legal raffles.\nThe Attorney General’s Office\ncan provide you with information concerning this aspedt of your\nplan.\nAlso,\nyour question raises issues under the Elections Code\nconcerning inducements to vote.\nOn this issue,\nwe suggest that\nyou contact the Secretary of State’s Election Division at\n916/445—0820.\nWe are sorry that we cannot be of assistance on this issue.\nSincerely,\nSteven G.\nChurchwell\nGeneral C(insel\nByV S ott Hal a rin\nAssistant General Counsel\nSGC: SH: ak\n1\nGovernment Code Sections 81000—91015.\n428 J Street, Suite 800 •\nP.O. Box 807 •\nSacramento, CA\n95804-0807 •\n(916) 322-5660\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1994-06-20",
+    "date_raw": "June 20,\n1994",
+    "requestor_name": null,
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Your request for advice concerning the legality of conducting a raffle as a campaign fund-raiser, basing eligibility for the raffle on proof that the person voted, and awarding prizes by use of some of the monies collected from the raffle.",
+    "conclusion": "The Commission only has jurisdiction over matters covered by the Political Reform Act (the \"Act\"). The Act does not address the legality of raffles, even when they are conducted for political fund-raising purposes. Therefore, we are without authority to assist you with this question. Penal Code Section 319 prohibits some types of raffles. Other laws regulate legal raffles. The Attorney General's Office can provide you with information concerning this aspect of your plan. Also, your question raises issues under the Elections Code concerning inducements to vote. On this issue, we suggest that you contact the Secretary of State's Election Division.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Is it legal under the Political Reform Act to conduct a raffle as a campaign fund-raiser where eligibility is based on proof of voting and prizes are awarded using raffle proceeds?",
+    "conclusion_synthetic": "The FPPC lacks jurisdiction to address raffle legality under the Political Reform Act and declines to provide advice. The requestor should consult the Attorney General's Office regarding Penal Code Section 319 restrictions on raffles and the Secretary of State's Election Division regarding Elections Code issues concerning inducements to vote.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Declination letter with clear question and conclusion sections. Document references Political Reform Act (Government Code Sections 81000-91015) and notes jurisdictional limitations. Response signed by General Counsel Steven G. Churchwell and Assistant General Counsel."
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:35:04.201317Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Your request for advice concerning the legality of conducting a raffle as a campaign fund-raiser, basing eligibility for the raffle on proof that the person voted, and awarding prizes by use of some of the monies collected from the raffle.\n\nCONCLUSION: The Commission only has jurisdiction over matters covered by the Political Reform Act (the \"Act\"). The Act does not address the legality of raffles, even when they are conducted for political fund-raising purposes. Therefore, we are without authority to assist you with this question. Penal Code Section 319 prohibits some types of raffles. Other laws regulate legal raffles. The Attorney General's Office can provide you with information concerning this aspect of your plan. Also, your question raises issues under the Elections Code concerning inducements to vote. On this issue, we suggest that you contact the Secretary of State's Election Division.",
+    "qa_source": "mixed",
+    "first_500_words": "California Fair Political Practices Commission June 20, 1994 Assemblyman Gilbert W. Ferguson State Capitol P.O. Box 942849 Sacramento, CA 94249—0001 Re: Your Request for Advice Our File No. G—94—185 Dear Assemblyman Ferguson: This is in reply to your request for advice concerning the legality of conducting a raffle as a campaign fund—raiser, basing eligibility for the raffle on proof that the person voted, and awarding prizes by use of some of the monies collected from the raffle. The Commission only has jurisdiction over matters covered by the Political Reform Act (the “Act”). 1 The Act does not address the legality of raffles, even when they are conducted for political fund—raising purposes. Therefore, we are without authority to assist you with this question. Penal Code Section 319 prohibits some types of raffles. Other laws regulate legal raffles. The Attorney General’s Office can provide you with information concerning this aspedt of your plan. Also, your question raises issues under the Elections Code concerning inducements to vote. On this issue, we suggest that you contact the Secretary of State’s Election Division at 916/445—0820. We are sorry that we cannot be of assistance on this issue. Sincerely, Steven G. Churchwell General C(insel ByV S ott Hal a rin Assistant General Counsel SGC: SH: ak 1 Government Code Sections 81000—91015. 428 J Street, Suite 800 • P.O. Box 807 • Sacramento, CA 95804-0807 • (916) 322-5660",
+    "summary": "FPPC declines to provide advice on the legality of a campaign raffle with voting-based eligibility, citing lack of jurisdiction under the Political Reform Act and directing the requestor to the Attorney General's Office and Secretary of State's Election Division for relevant legal guidance."
+  }
+}

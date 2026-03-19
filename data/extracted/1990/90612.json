@@ -1,0 +1,72 @@
+{
+  "id": "90612",
+  "year": 1990,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1990/90612.pdf",
+  "pdf_sha256": "3e9fb71da20e85a9ef1459c3cb827ce7ada9c4f20271db1a8d4301ae302901c7",
+  "local_pdf_path": "raw_pdfs/1990/90612.pdf",
+  "source_metadata": {
+    "title_raw": "Dacumos, Beth Year: 1990 Advice Letter # 90612",
+    "tags": [
+      "1990",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:06:28",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1990&tagCount=1&page=9"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T16:35:13.476098Z",
+    "page_count": 1,
+    "word_count": 235,
+    "char_count": 1816,
+    "quality_score": 0.9262021475003428,
+    "olmocr_cost": 0.00245788,
+    "native_word_count": 225,
+    "haiku_cost": 0.0033271999999999998
+  },
+  "content": {
+    "full_text": "SACRAMENTO OFFICE:\nSTATE CAPITOL\nP.O. BOX 942849\nSACRAMENTO, CA 95814-2849\nPHONE (916) 445-7587\n\nDISTRICT OFFICE:\n110 NORTH AVENUE 56\nLOS ANGELES, CA 90042\nPHONE (213) 268-4998\n\nSANDRA CHACÓN\nCHIEF OF STAFF\n\nCHAIRMAN:\nECONOMIC DEVELOPMENT,\nINTERNATIONAL TRADE AND\nTECHNOLOGIES\nSUBCOMMITTEE ON\nMENTAL HEALTH AND\nDEVELOPMENTAL DISABILITIES\nSELECT COMMITTEE ON STATE\nPROCUREMENT\n\nAssembly\nCalifornia Legislature\n\nSEP 2 5\nRECEIVED\n\nRICHARD POLANCO\nASSEMBLYMAN, FIFTY-FIFTH DISTRICT\n\nCOMMITTEES:\nHEALTH\nGOVERNMENTAL ORGANIZATION\nUTILITIES AND COMMERCE\n\nATWATER VILLAGE BOYLE HEIGHTS CITY TERRACE CYPRESS PARK\nEAGLE ROCK EAST LOS ANGELES ECHO PARK EL SERENO\nELYSIAN VALLEY GLASSELL PARK HERMON HIGHLAND PARK LINCOLN HEIGHTS\nMONTICITO HEIGHTS MONTEREY HILLS MT. WASHINGTON PASADENA SILVER LAKE\n\nSeptember 25, 1990\n\n\nMr. John Wallace\nFair Political Practices Commission\n428 \"J\" Street, Suite 800\nSacramento, California  95814\n\nDear John:\n\nPer our phone conversation today, I would like to request\nwritten confirmation of your oral opinion on the following\nquestion:\n\n    QUESTION:  Whether an employee of a controlled\n               committee can volunteer for a candidate\n               during the period of \"in compensated\"\n               employment for the committee?\n\n    OPINION:   \"No prohibition on doing both the\n               volunteer and \"in compensated\" work, and\n               no transfer occurs as long as she is\n               just being compensated for the work she\n               does for the Assemblymember.\"\n\n               \"And to assure that no transfer occurs,\n               she should keep accurate records of the\n               time worked in exchange for her\n               compensation.\"\n\nYour prompt response to this request would be greatly\nappreciated.\n\nSincerely,\n\nBeth Dacumos\n\nBETH DACUMOS",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1990-09-25",
+    "date_raw": "September 25, 1990",
+    "requestor_name": "Dacumos",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Whether an employee of a controlled committee can volunteer for a candidate during the period of \"in compensated\" employment for the committee?\n\nOPINION: \"No prohibition on doing both the volunteer and 'in compensated' work, and no transfer occurs as long as she is just being compensated for the work she does for the Assemblymember.\"\n\n\"And to assure that no transfer occurs, she should keep accurate records of the time worked in exchange for her compensation.\"\n\nYour prompt response to this request would be greatly appreciated.",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.5499999999999999,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T22:41:00.131657Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether an employee of a controlled committee can volunteer for a candidate during the period of \"in compensated\" employment for the committee?\n\nOPINION: \"No prohibition on doing both the volunteer and 'in compensated' work, and no transfer occurs as long as she is just being compensated for the work she does for the Assemblymember.\"\n\n\"And to assure that no transfer occurs, she should keep accurate records of the time worked in exchange for her compensation.\"\n\nYour prompt response to this request would be greatly appreciated.",
+    "qa_source": "extracted",
+    "first_500_words": "September 25, 1990 Mr. John Wallace Fair Political Practices Commission 428 \"J\" Street, Suite 800 Sacramento, California 95814 Dear John: Per our phone conversation today, I would like to request written confirmation of your oral opinion on the following question: QUESTION: Whether an employee of a controlled committee can volunteer for a candidate during the period of \"in compensated\" employment for the committee? OPINION: \"No prohibition on doing both the volunteer and 'in compensated' work, and no transfer occurs as long as she is just being compensated for the work she does for the Assemblymember.\" \"And to assure that no transfer occurs, she should keep accurate records of the time worked in exchange for her compensation.\" Your prompt response to this request would be greatly appreciated. Sincerely, BETH DACUMOS",
+    "summary": null
+  }
+}

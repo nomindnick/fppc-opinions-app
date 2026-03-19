@@ -1,0 +1,73 @@
+{
+  "id": "81A171",
+  "year": 1981,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1981/81A171.PDF",
+  "pdf_sha256": "f90df831dc07549da0d0f229897a50384ed231e7964e68a5cdee22075ce69cb7",
+  "local_pdf_path": "raw_pdfs/1981/81A171.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1981 Advice Letter # 81A171",
+    "tags": [
+      "Advice Letter",
+      "1981"
+    ],
+    "scraped_at": "2026-01-31 15:28:20",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1981&tagCount=1&page=4"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:00.832392Z",
+    "page_count": 1,
+    "word_count": 312,
+    "char_count": 2025,
+    "quality_score": 0.7150000000000001,
+    "olmocr_cost": null,
+    "native_word_count": 312
+  },
+  "content": {
+    "full_text": "tate of Caliibrllia \nair Political Practices CommissioIL \nP.O. BOX 807 • SACRAMENTO, 95804 • 1100 K STREET BUILDING, SACRAMENTO, 95814 \n107 SOUTH BROADWAY \n• •• \nSUITE \n7 00 7 \n••• \nLOS ANGELES, 90012 \nHrs. Jennifer Wyatt \nHonorable Richard Katz \n15226 Parthenia, Suite 3-B \nSepulveda, California 91343 \nDear Jennie: \nSeptember 21, 1981 \nA~/-/1/ \nThis letter is to verify my advice to you during our telephone \nconversation of September 18, 1981. \nThe facts, as you presented them are as follows: \n1. \nAssemblyman Richard Katz has a controlled committee. \n2. \nThe controlled committee recently filed a semi-annual \ncampaign statement for the period ending June 30, 1981. \n3. \nDuring the period of July 1st through September 17th, the \nAssemblyman's committee made a $15,000 contribution to the Assembly \nDemocratic Fund, a recipient committee registered with the \nSecretary of State's office. \nThe question you asked was does the $15,000 contribution to \nthe Assembly Democratic Fund by the Assemblymen's Conrnittee require \nthe filing of the next Threshold campaign statement? \nI advised that Government Code Section 84200(b) , in part, \nstates that \"candidates, ... their controlled committees ... that \nhas made or received contributions of five hundred dollars ($500) \nor more ... during the threshold periods ... shall file campaign \nstatements on ... (3) September 22, with a five hundred dollar \n($500) threshold period of July 1 through September 17.\" \nThere-\nfore, Assemblyman Katz and his controlled committee are required \nto file the third Threshold campaign state~ent since the \ncontribution was over tqe $500 level of activity and it was made \nto another campaign committee during the threshold period. \nI hope this information has been helpful, please do not hesitate \nto call on me if I can be of any further.assistance. \nHPA: j g \nSACRAMENTO (916) 322·5660 \n• \nSincere ly) \n\"-J ,)/ \n. / \nc~-'- 7~4 \n.. {~~.:t-/.'-' \nI \n'-.-. \nHelen P. Arriola \nPolitical ReforT'l \nRepresentative \nLOS ANGELES (213) 620·5196 \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1981-09-21",
+    "date_raw": "September 21, 1981",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Does the $15,000 contribution to the Assembly Democratic Fund by the Assemblyman's Committee require the filing of the next Threshold campaign statement?",
+    "conclusion": "Assemblyman Katz and his controlled committee are required to file the third Threshold campaign statement since the contribution was over the $500 level of activity and it was made to another campaign committee during the threshold period.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a $15,000 contribution made by an Assemblyman's controlled committee to another campaign committee during the July 1 - September 17 threshold period requires filing a threshold campaign statement.",
+    "conclusion_synthetic": "Yes, the filing is required because the $15,000 contribution exceeds the $500 threshold under Government Code Section 84200(b) and was made during the applicable threshold period.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Clear advice letter with standard format; question and conclusion explicitly stated. Document verifies telephone advice given on September 18, 1981. Minor OCR artifacts in header ('Caliibrllia' for 'California', 'CommissioIL' for 'Commission') but body text is clear."
+  },
+  "citations": {
+    "government_code": [
+      "84200(b)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:37:00.832392Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Does the $15,000 contribution to the Assembly Democratic Fund by the Assemblyman's Committee require the filing of the next Threshold campaign statement?\n\nCONCLUSION: Assemblyman Katz and his controlled committee are required to file the third Threshold campaign statement since the contribution was over the $500 level of activity and it was made to another campaign committee during the threshold period.",
+    "qa_source": "mixed",
+    "first_500_words": "tate of Caliibrllia air Political Practices CommissioIL P.O. BOX 807 • SACRAMENTO, 95804 • 1100 K STREET BUILDING, SACRAMENTO, 95814 107 SOUTH BROADWAY • •• SUITE 7 00 7 ••• LOS ANGELES, 90012 Hrs. Jennifer Wyatt Honorable Richard Katz 15226 Parthenia, Suite 3-B Sepulveda, California 91343 Dear Jennie: September 21, 1981 A~/-/1/ This letter is to verify my advice to you during our telephone conversation of September 18, 1981. The facts, as you presented them are as follows: 1. Assemblyman Richard Katz has a controlled committee. 2. The controlled committee recently filed a semi-annual campaign statement for the period ending June 30, 1981. 3. During the period of July 1st through September 17th, the Assemblyman's committee made a $15,000 contribution to the Assembly Democratic Fund, a recipient committee registered with the Secretary of State's office. The question you asked was does the $15,000 contribution to the Assembly Democratic Fund by the Assemblymen's Conrnittee require the filing of the next Threshold campaign statement? I advised that Government Code Section 84200(b) , in part, states that \"candidates, ... their controlled committees ... that has made or received contributions of five hundred dollars ($500) or more ... during the threshold periods ... shall file campaign statements on ... (3) September 22, with a five hundred dollar ($500) threshold period of July 1 through September 17.\" There- fore, Assemblyman Katz and his controlled committee are required to file the third Threshold campaign state~ent since the contribution was over tqe $500 level of activity and it was made to another campaign committee during the threshold period. I hope this information has been helpful, please do not hesitate to call on me if I can be of any further.assistance. HPA: j g SACRAMENTO (916) 322·5660 • Sincere ly) \"-J ,)/ . / c~-'- 7~4 .. {~~.:t-/.'-' I '-.-. Helen P. Arriola Political ReforT'l Representative LOS ANGELES (213) 620·5196",
+    "summary": "FPPC advice letter confirming that Assemblyman Richard Katz's controlled committee must file a threshold campaign statement based on a $15,000 contribution made to the Assembly Democratic Fund during the July 1 - September 17, 1981 threshold period."
+  }
+}

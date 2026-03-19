@@ -1,0 +1,73 @@
+{
+  "id": "79-177",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-177.PDF",
+  "pdf_sha256": "798381529300a3452956d8fa07da7ad738c0e3b02bee0ebaecbaae14ecc51d60",
+  "local_pdf_path": "raw_pdfs/1979/79-177.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1979 Advice Letter # 79-177",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:25:56",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=8"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T21:55:10.390014Z",
+    "page_count": 1,
+    "word_count": 48,
+    "char_count": 340,
+    "quality_score": 0.7138666014350945,
+    "olmocr_cost": 0.00241488,
+    "native_word_count": 56
+  },
+  "content": {
+    "full_text": "Alimony, Child Support, Personal Injury Settlement\n\nAlimony and child support are income. Personal injury settlements arising out of litigation, or contemplated litigation which is received from the tort-feasor's company are income. Payment under one's own insurance policy, on the other hand, is not income pursuant to Section 82030(b)(7).",
+    "full_text_markdown": "Alimony, Child Support, Personal Injury Settlement\n\nAlimony and child support are income. Personal injury settlements arising out of litigation, or contemplated litigation which is received from the tort-feasor's company are income. Payment under one's own insurance policy, on the other hand, is not income pursuant to Section 82030(b)(7)."
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [
+      "82030(b)(7)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-19T21:55:10.390014Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "Alimony, Child Support, Personal Injury Settlement Alimony and child support are income. Personal injury settlements arising out of litigation, or contemplated litigation which is received from the tort-feasor's company are income. Payment under one's own insurance policy, on the other hand, is not income pursuant to Section 82030(b)(7).",
+    "qa_source": "extracted",
+    "first_500_words": "Alimony, Child Support, Personal Injury Settlement Alimony and child support are income. Personal injury settlements arising out of litigation, or contemplated litigation which is received from the tort-feasor's company are income. Payment under one's own insurance policy, on the other hand, is not income pursuant to Section 82030(b)(7).",
+    "summary": null
+  }
+}

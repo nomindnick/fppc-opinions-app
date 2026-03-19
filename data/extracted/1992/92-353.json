@@ -1,0 +1,73 @@
+{
+  "id": "92-353",
+  "year": 1992,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1992/92-353.pdf",
+  "pdf_sha256": "45471111b48a37a834fa1bf96720fa551fe38578d59779aca3040203553a9c23",
+  "local_pdf_path": "raw_pdfs/1992/92-353.pdf",
+  "source_metadata": {
+    "title_raw": "Moreno, William Year: 1992 Advice Letter # 92-353",
+    "tags": [
+      "Advice Letter",
+      "1992"
+    ],
+    "scraped_at": "2026-01-31 16:24:56",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1992&tagCount=1&page=29"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:14.130139Z",
+    "page_count": 1,
+    "word_count": 241,
+    "char_count": 1504,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 241
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\nJuly 8,\n1992\nJudge William Moreno\n955 San Vincente Dr.\nSalinas,\nCA\n93901—1513\nRe:\nYour Request for Advice\nOur File No.\nA-92—353\nDear Judge Moreno:\nYou have requested advice concerning your reporting\nobligations under the conflict of interest disclosure provisions\nof the Political Reform Act.\n(Government Code Sections\n81000—\n91015.)\nYou have asked if,\nas a recently retired judge from Monterey\nCounty Municipal Court,\nyou must file a leaving office statement\nof economic interests\n(Form 721)\nor continue filing annual\nstatements.\nYou will be accepting assignments from the judicial\ncouncil that will last more than 30 days in a 12-month period.\nAs long as you receive assignments from the judicial council\nand serve 30 days or more in a 12—month period,\nyou will continue\nfiling annual statements.\nYou will file your annual statement\nwith the clerk of the court to which you have been assigned at the\ntime the statement is due.\nYou must continue filing annual\nstatements until you no longer accept assignments from the\njudicial council.\nOnce you decide not to accept any new\nassignments,\nyou must file a leaving office statement within 30\ndays of leaving your last assignment.\nIf I can be of further assistance, please contact me at\n(916)\n322—5662.\nSincerely,\nScott Hallabrin\nActing General Counsel\nBy:\nColleen McGee\nPolitical Reform Consultant\nTechnical Assistance Division\n428 J Street, Suite 800\ne\nP.O. Box 807 •\nSacramento CA 95804-0807 •\n(916) 322-66\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1992-07-08",
+    "date_raw": "July 8,\n1992",
+    "requestor_name": "Moreno",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "As a recently retired judge from Monterey County Municipal Court who will be accepting assignments from the judicial council that will last more than 30 days in a 12-month period, must you file a leaving office statement of economic interests (Form 721) or continue filing annual statements?",
+    "conclusion": "As long as you receive assignments from the judicial council and serve 30 days or more in a 12-month period, you will continue filing annual statements. You will file your annual statement with the clerk of the court to which you have been assigned at the time the statement is due. You must continue filing annual statements until you no longer accept assignments from the judicial council. Once you decide not to accept any new assignments, you must file a leaving office statement within 30 days of leaving your last assignment.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "A retired judge from Monterey County Municipal Court seeks clarification on whether he must file a leaving office statement (Form 721) or continue filing annual statements given that he will accept assignments from the judicial council lasting more than 30 days in a 12-month period.",
+    "conclusion_synthetic": "The requestor must continue filing annual statements as long as he receives judicial council assignments of 30 days or more per 12-month period, filing with the assigned court's clerk. He may only file a leaving office statement once he ceases accepting new assignments, which must occur within 30 days of his last assignment.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Standard advice letter format with clear question and conclusion sections. Document lacks explicit 'QUESTION' and 'CONCLUSION' headers but sections are clearly delineated by content structure."
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:35:14.130139Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: As a recently retired judge from Monterey County Municipal Court who will be accepting assignments from the judicial council that will last more than 30 days in a 12-month period, must you file a leaving office statement of economic interests (Form 721) or continue filing annual statements?\n\nCONCLUSION: As long as you receive assignments from the judicial council and serve 30 days or more in a 12-month period, you will continue filing annual statements. You will file your annual statement with the clerk of the court to which you have been assigned at the time the statement is due. You must continue filing annual statements until you no longer accept assignments from the judicial council. Once you decide not to accept any new assignments, you must file a leaving office statement within 30 days of leaving your last assignment.",
+    "qa_source": "mixed",
+    "first_500_words": "California Fair Political Practices Commission July 8, 1992 Judge William Moreno 955 San Vincente Dr. Salinas, CA 93901—1513 Re: Your Request for Advice Our File No. A-92—353 Dear Judge Moreno: You have requested advice concerning your reporting obligations under the conflict of interest disclosure provisions of the Political Reform Act. (Government Code Sections 81000— 91015.) You have asked if, as a recently retired judge from Monterey County Municipal Court, you must file a leaving office statement of economic interests (Form 721) or continue filing annual statements. You will be accepting assignments from the judicial council that will last more than 30 days in a 12-month period. As long as you receive assignments from the judicial council and serve 30 days or more in a 12—month period, you will continue filing annual statements. You will file your annual statement with the clerk of the court to which you have been assigned at the time the statement is due. You must continue filing annual statements until you no longer accept assignments from the judicial council. Once you decide not to accept any new assignments, you must file a leaving office statement within 30 days of leaving your last assignment. If I can be of further assistance, please contact me at (916) 322—5662. Sincerely, Scott Hallabrin Acting General Counsel By: Colleen McGee Political Reform Consultant Technical Assistance Division 428 J Street, Suite 800 e P.O. Box 807 • Sacramento CA 95804-0807 • (916) 322-66",
+    "summary": "FPPC advises a retired Monterey County Municipal Court judge that he must continue filing annual statements of economic interests while accepting judicial council assignments of 30+ days per year, and may only file a leaving office statement once he stops accepting new assignments."
+  }
+}

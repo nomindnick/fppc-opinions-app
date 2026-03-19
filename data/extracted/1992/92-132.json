@@ -1,0 +1,73 @@
+{
+  "id": "92-132",
+  "year": 1992,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1992/92-132.pdf",
+  "pdf_sha256": "c6aec5dd98e55875ada9272864e647bdcf5549ca07b62e002ef73623804335d5",
+  "local_pdf_path": "raw_pdfs/1992/92-132.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 1992 Advice Letter # 92-132",
+    "tags": [
+      "Advice Letter",
+      "1992"
+    ],
+    "scraped_at": "2026-01-31 16:23:17",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1992&tagCount=1&page=7"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:11.921122Z",
+    "page_count": 1,
+    "word_count": 254,
+    "char_count": 1570,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 254
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\nMarch 2,\n1992\nRichard H.\nMcManus\n486 Murray Drive\nEl Cajon,\nCA\n92020\nRe:\nYour Request for Assistance\nOur File No.\nG-92---9-9\nDear Mr.\nMcManus:\nThis is in response to your letter to the Fair Political\nPractices Commission concerning the Political Reform Act\n(the\n“Act”).\nWhile we appreciate your concerns and interest in the\nproblems and issues in your community,\nthe issues you have raised\nin your letter do not appear to be within the jurisdiction of the\nFair Political Practices Commission.\nWhile the Commission possesses broad powers to interpret and\nimplement the provisions of the Act,\nincluding the power to adopt\nregulations to carry out the Act’s purposes,\nthe Commission’s\njurisdiction is limited to the provisions of the Act.\n1\n(Section\n83112.)\nIf you believe there has been a violation of the\nprovisions of the Act,\nyou may wish to file\na complaint with our\nEnforcement Division.\nThey may be reached at\n(916)\n322-6441.\nIf you have\nany further questions regarding this matter,\nplease feel free to contact\nme at\n(916)\n322-5901.\nSincerely,\nCounel,\nLegal Division\nJWW: aa\nEnclosures\nThe Political Reform Act is contained in Government Code\nSections\n31000—91015,\nwith regulations appearing at\n2 California\nCode of Regulations Section\n13000,\n. ( generally,\nPolitical Reform Act of\n1974 as Amended to January\n1,\n1991,\ncopy\nenclosed.)\nWe have also enclosed some other general information\non the Political Reform Act for your information.\n428 J Street, Suite 800\n• P.O. Box 807 • Sacramento CA 95804-0807 •\n(916)322-5660\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1992-03-02",
+    "date_raw": "March 2,\n1992",
+    "requestor_name": "Mc",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "The issues raised do not appear to be within the jurisdiction of the Fair Political Practices Commission, as the Commission's jurisdiction is limited to provisions of the Political Reform Act.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requestor raised concerns about problems and issues in their community that they believed fell under FPPC jurisdiction.",
+    "conclusion_synthetic": "The FPPC declined jurisdiction, finding that the requestor's concerns do not fall within the Commission's authority under the Political Reform Act. The FPPC directed the requestor to file a complaint with the Enforcement Division if there is a violation of the Act's provisions.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: No formal QUESTION or CONCLUSION sections present; document is a declination letter. Question and conclusion content inferred from body text. File number G-92-9-9 referenced."
+  },
+  "citations": {
+    "government_code": [
+      "83112"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "gifts_honoraria",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:35:11.921122Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The requestor raised concerns about problems and issues in their community that they believed fell under FPPC jurisdiction.\n\nCONCLUSION: The issues raised do not appear to be within the jurisdiction of the Fair Political Practices Commission, as the Commission's jurisdiction is limited to provisions of the Political Reform Act.",
+    "qa_source": "mixed",
+    "first_500_words": "California Fair Political Practices Commission March 2, 1992 Richard H. McManus 486 Murray Drive El Cajon, CA 92020 Re: Your Request for Assistance Our File No. G-92---9-9 Dear Mr. McManus: This is in response to your letter to the Fair Political Practices Commission concerning the Political Reform Act (the “Act”). While we appreciate your concerns and interest in the problems and issues in your community, the issues you have raised in your letter do not appear to be within the jurisdiction of the Fair Political Practices Commission. While the Commission possesses broad powers to interpret and implement the provisions of the Act, including the power to adopt regulations to carry out the Act’s purposes, the Commission’s jurisdiction is limited to the provisions of the Act. 1 (Section 83112.) If you believe there has been a violation of the provisions of the Act, you may wish to file a complaint with our Enforcement Division. They may be reached at (916) 322-6441. If you have any further questions regarding this matter, please feel free to contact me at (916) 322-5901. Sincerely, Counel, Legal Division JWW: aa Enclosures The Political Reform Act is contained in Government Code Sections 31000—91015, with regulations appearing at 2 California Code of Regulations Section 13000, . ( generally, Political Reform Act of 1974 as Amended to January 1, 1991, copy enclosed.) We have also enclosed some other general information on the Political Reform Act for your information. 428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804-0807 • (916)322-5660",
+    "summary": "The FPPC responded to Richard H. McManus's letter regarding community concerns, declining jurisdiction and explaining that the Commission's authority is limited to the Political Reform Act. The letter directed the requestor to contact the Enforcement Division if a violation of the Act occurred."
+  }
+}

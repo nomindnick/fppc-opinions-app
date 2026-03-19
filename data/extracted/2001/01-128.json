@@ -1,0 +1,75 @@
+{
+  "id": "01-128",
+  "year": 2001,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2001/01-128.pdf",
+  "pdf_sha256": "73f7a72719a06468db014dd81cd495d13ebd437f55bfa60641ae15b46f6f5dae",
+  "local_pdf_path": "raw_pdfs/2001/01-128.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2001 Advice Letter # 01-128",
+    "tags": [
+      "2001",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:33:52",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2001&tagCount=1&page=15"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-07T16:16:42.823527Z",
+    "page_count": 1,
+    "word_count": 162,
+    "char_count": 1004,
+    "quality_score": 0.6675,
+    "olmocr_cost": null,
+    "native_word_count": 162
+  },
+  "content": {
+    "full_text": "Re:\nF,q,In Porrrrc.tr, Pnacrlcgs ConrvrrssloN\nP.O. Box 807 . 428 J Street . Sacramento, CA 95812-0807\n(916) 322-5660 . Fax (916) 322-0886\nJune 5, 2001\nLenna J. Tanner, City Clerk\nCity of Chino\n13220 Central Avenue\nChino, CA91709\nYour Request for Advice\nOur File No. G-0f-128\nDear Ms. Tanner\nAlso enclosed is a pamphlet entitled, \"canr vote? A conflict of Interest\noverview\" which may provide you general assistance in this area of the law.\nShould you have any additional questions, please contact me at (916) 322-5660\nVery truly yours,\nMenchaca\noan Giannetta\nSecretary, Legal Division\ntie\nEnclosures\n1 Government Code sections 81000 - 91014. Commission regulations appear at Title 2, sections\n18109-18997, of the Califomia Code of Regulations.\nThis letter is in response to your request for advice regarding the provisions of the\nPolitical Reform Act (the \"Act\").' The Fair Political Practices Commission does not\nrender advice on past conduct. I enclose a copy of Regulati on 18329 for your review.\nffi\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2001-06-05",
+    "date_raw": "June 5, 2001",
+    "requestor_name": "Tanner\nAlso",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The document appears to address a request for advice regarding the Political Reform Act and potential conflict of interest provisions, though the specific question is not clearly articulated in the provided text.",
+    "conclusion_synthetic": "The FPPC indicates it does not render advice on past conduct and directs the requestor to Regulation 18329 for guidance on the relevant legal framework.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.45,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document appears incomplete or corrupted with garbled header text and missing substantive question and conclusion sections. Core Q/A sections are not clearly present. High uncertainty due to incomplete document structure and missing content. Metadata and procedural elements are clear (date, parties, file number) but substantive legal content is fragmentary."
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [
+      "18109"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T16:16:42.823527Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The document appears to address a request for advice regarding the Political Reform Act and potential conflict of interest provisions, though the specific question is not clearly articulated in the provided text.\n\nCONCLUSION: The FPPC indicates it does not render advice on past conduct and directs the requestor to Regulation 18329 for guidance on the relevant legal framework.",
+    "qa_source": "synthetic",
+    "first_500_words": "Re: F,q,In Porrrrc.tr, Pnacrlcgs ConrvrrssloN P.O. Box 807 . 428 J Street . Sacramento, CA 95812-0807 (916) 322-5660 . Fax (916) 322-0886 June 5, 2001 Lenna J. Tanner, City Clerk City of Chino 13220 Central Avenue Chino, CA91709 Your Request for Advice Our File No. G-0f-128 Dear Ms. Tanner Also enclosed is a pamphlet entitled, \"canr vote? A conflict of Interest overview\" which may provide you general assistance in this area of the law. Should you have any additional questions, please contact me at (916) 322-5660 Very truly yours, Menchaca oan Giannetta Secretary, Legal Division tie Enclosures 1 Government Code sections 81000 - 91014. Commission regulations appear at Title 2, sections 18109-18997, of the Califomia Code of Regulations. This letter is in response to your request for advice regarding the provisions of the Political Reform Act (the \"Act\").' The Fair Political Practices Commission does not render advice on past conduct. I enclose a copy of Regulati on 18329 for your review. ffi",
+    "summary": "This is an FPPC advice letter responding to City Clerk Lenna J. Tanner's request regarding the Political Reform Act and conflict of interest matters. The FPPC clarifies its limitations regarding past conduct and provides regulatory references and educational materials."
+  }
+}

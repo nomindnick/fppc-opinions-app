@@ -1,0 +1,73 @@
+{
+  "id": "UNK-91-10478",
+  "year": 1991,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1991/91244.pdf",
+  "pdf_sha256": "9a941082460bf3430ce0a133bae35d5b604ea98e12fdc25cb050ac1ab641cb6d",
+  "local_pdf_path": "raw_pdfs/1991/91244.pdf",
+  "source_metadata": {
+    "title_raw": "1991-91244",
+    "tags": [
+      "1991",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:20:36",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1991&tagCount=1&page=66"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T00:24:46.440253Z",
+    "page_count": 2,
+    "word_count": 284,
+    "char_count": 1834,
+    "quality_score": 0.8918056027991851,
+    "olmocr_cost": 0.00498456,
+    "native_word_count": 269
+  },
+  "content": {
+    "full_text": "TELEPHONE ADVICE\n\nCONSULTANT: Cassady, Lynda        DATE: 3/26/91\nREQUESTOR: Fishburn, Diane        TELE: 442-2952\n\nQUESTION\n\nIs a lobbyist employer representative required to be present at the golf portion of a charitable golf tournament and dinner if the employer purchases a ticket for a reportable person and the employer’s lobbyist plans to golf with the reportable person?\n\nFACTS\n\nA charitable event features a golf tournament and dinner. Ticket prices included attendance at both functions or attendance at only the dinner. A lobbyist employer purchased golf and dinner tickets for its lobbyist and a reportable person. Since the lobbyist employer representative did not golf, the employer only wanted to purchase the dinner ticket for the non-lobbyist representative. Before the event, the lobbyist knew that his/her golfing partner would be the reportable person.\n\nCONCLUSION\n\nA representative from the lobbyist employer must be present at both the golf and dinner functions.\n\nANALYSIS\n\nA lobbyist is prohibited from making or arranging a gift to a reportable person aggregating more than of $10.00 in a calendar month. (Section 86203.)\n\nSection 18624 states:\n\nA lobbyist \"arranges for the making of a gift\" within the meaning of Government Code Section 86203 if the lobbyist either directly or through an agent, does any of the following:\n\n(a) Delivers a gift to the recipient.\n(b) Acts as the representative of the donor, if the donor is not present at the occasion of a gift. This does not include accompanying the recipient to an event where the donor will be present.\n\n(Emphasis added.)\n\nFollowing discussions with Jeanne Pritchard and Carla Wardlow conservative telephone advice was to designate the golfing as a separate, although related, event from the dinner. Therefore, the donor must be present at both functions.",
+    "full_text_markdown": "TELEPHONE ADVICE\n\nCONSULTANT: Cassady, Lynda        DATE: 3/26/91\nREQUESTOR: Fishburn, Diane        TELE: 442-2952\n\nQUESTION\n\nIs a lobbyist employer representative required to be present at the golf portion of a charitable golf tournament and dinner if the employer purchases a ticket for a reportable person and the employer’s lobbyist plans to golf with the reportable person?\n\nFACTS\n\nA charitable event features a golf tournament and dinner. Ticket prices included attendance at both functions or attendance at only the dinner. A lobbyist employer purchased golf and dinner tickets for its lobbyist and a reportable person. Since the lobbyist employer representative did not golf, the employer only wanted to purchase the dinner ticket for the non-lobbyist representative. Before the event, the lobbyist knew that his/her golfing partner would be the reportable person.\n\nCONCLUSION\n\nA representative from the lobbyist employer must be present at both the golf and dinner functions.\n\nANALYSIS\n\nA lobbyist is prohibited from making or arranging a gift to a reportable person aggregating more than of $10.00 in a calendar month. (Section 86203.)\n\nSection 18624 states:\n\nA lobbyist \"arranges for the making of a gift\" within the meaning of Government Code Section 86203 if the lobbyist either directly or through an agent, does any of the following:\n\n(a) Delivers a gift to the recipient.\n(b) Acts as the representative of the donor, if the donor is not present at the occasion of a gift. This does not include accompanying the recipient to an event where the donor will be present.\n\n(Emphasis added.)\n\nFollowing discussions with Jeanne Pritchard and Carla Wardlow conservative telephone advice was to designate the golfing as a separate, although related, event from the dinner. Therefore, the donor must be present at both functions."
+  },
+  "parsed": {
+    "date": "1991-03-26",
+    "date_raw": "3/26/91",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Is a lobbyist employer representative required to be present at the golf portion of a charitable golf tournament and dinner if the employer purchases a ticket for a reportable person and the employer’s lobbyist plans to golf with the reportable person?",
+    "conclusion": "A representative from the lobbyist employer must be present at both the golf and dinner functions.",
+    "facts": "A charitable event features a golf tournament and dinner. Ticket prices included attendance at both functions or attendance at only the dinner. A lobbyist employer purchased golf and dinner tickets for its lobbyist and a reportable person. Since the lobbyist employer representative did not golf, the employer only wanted to purchase the dinner ticket for the non-lobbyist representative. Before the event, the lobbyist knew that his/her golfing partner would be the reportable person.",
+    "analysis": "A lobbyist is prohibited from making or arranging a gift to a reportable person aggregating more than of $10.00 in a calendar month. (Section 86203.)\n\nSection 18624 states:\n\nA lobbyist \"arranges for the making of a gift\" within the meaning of Government Code Section 86203 if the lobbyist either directly or through an agent, does any of the following:\n\n(a) Delivers a gift to the recipient.\n(b) Acts as the representative of the donor, if the donor is not present at the occasion of a gift. This does not include accompanying the recipient to an event where the donor will be present.\n\n(Emphasis added.)\n\nFollowing discussions with Jeanne Pritchard and Carla Wardlow conservative telephone advice was to designate the golfing as a separate, although related, event from the dinner. Therefore, the donor must be present at both functions.",
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.9,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern"
+  },
+  "citations": {
+    "government_code": [
+      "86203"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "lobbying",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-20T00:24:46.440253Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Is a lobbyist employer representative required to be present at the golf portion of a charitable golf tournament and dinner if the employer purchases a ticket for a reportable person and the employer’s lobbyist plans to golf with the reportable person?\n\nCONCLUSION: A representative from the lobbyist employer must be present at both the golf and dinner functions.",
+    "qa_source": "extracted",
+    "first_500_words": "TELEPHONE ADVICE CONSULTANT: Cassady, Lynda DATE: 3/26/91 REQUESTOR: Fishburn, Diane TELE: 442-2952 QUESTION Is a lobbyist employer representative required to be present at the golf portion of a charitable golf tournament and dinner if the employer purchases a ticket for a reportable person and the employer’s lobbyist plans to golf with the reportable person? FACTS A charitable event features a golf tournament and dinner. Ticket prices included attendance at both functions or attendance at only the dinner. A lobbyist employer purchased golf and dinner tickets for its lobbyist and a reportable person. Since the lobbyist employer representative did not golf, the employer only wanted to purchase the dinner ticket for the non-lobbyist representative. Before the event, the lobbyist knew that his/her golfing partner would be the reportable person. CONCLUSION A representative from the lobbyist employer must be present at both the golf and dinner functions. ANALYSIS A lobbyist is prohibited from making or arranging a gift to a reportable person aggregating more than of $10.00 in a calendar month. (Section 86203.) Section 18624 states: A lobbyist \"arranges for the making of a gift\" within the meaning of Government Code Section 86203 if the lobbyist either directly or through an agent, does any of the following: (a) Delivers a gift to the recipient. (b) Acts as the representative of the donor, if the donor is not present at the occasion of a gift. This does not include accompanying the recipient to an event where the donor will be present. (Emphasis added.) Following discussions with Jeanne Pritchard and Carla Wardlow conservative telephone advice was to designate the golfing as a separate, although related, event from the dinner. Therefore, the donor must be present at both functions.",
+    "summary": null
+  }
+}

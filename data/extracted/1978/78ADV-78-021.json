@@ -1,0 +1,73 @@
+{
+  "id": "78ADV-78-021",
+  "year": 1978,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1978/78ADV-78-021.PDF",
+  "pdf_sha256": "398acd4391677da4f0e0f7a6dc6666dc4bd6bb1f9709270eec19ba1532fa909e",
+  "local_pdf_path": "raw_pdfs/1978/78ADV-78-021.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1978ADV Advice Letter # 78ADV-78-021",
+    "tags": [
+      "Advice Letter",
+      "1978"
+    ],
+    "scraped_at": "2026-01-31 15:23:03",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=3"
+  },
+  "extraction": {
+    "method": "native+olmocr",
+    "extracted_at": "2026-02-07T19:24:43.724750Z",
+    "page_count": 1,
+    "word_count": 275,
+    "char_count": 1661,
+    "quality_score": 0.6325000000000001,
+    "olmocr_cost": 0.0026711599999999997,
+    "native_word_count": 275
+  },
+  "content": {
+    "full_text": "tate of \nor11ia \nFair Political Practices CommissioIl. \nP.o. BOX 807 • SACRAMENTO,95804 • 1100 K STREET BUILDING, SACRAMENTO, 95814 \n107 SOUTH BROADWAY \n• •• \nSUITE 7007 \n••• \nlOS ANGELES, 90012 \nOctober 12, 1978 \nPetry, Attorney \nINTERNATIONAL \nKarman Avenue \nNewport Beach, California 92660 \n. Petry: \nThis letter is to confirm my advice to you by \ntel \non October 10, 1978. \nYou stated that Smith \nInternational was lending the use of it's lobby for \na reception for republican candidates for state office. \nYau also stated that others were to be responsible for \nrefreshments, paper goods, etc. \nYou asked if use of \nthe lobby area is a contribution to the republican \ncommittee which is sponsoring the reception, and if \nso, how \nthe contribution reported? \nSection \n0 \n• as interpreted by \nSection 18215, provides that a \nion inc \ns any monetary or non-monetary \nnot supported by full and adequate consideration, \nreceived by or made at the behest of a \na controlled committee. an official \na political party, or an organization \nor \nat \ncontrol or \nsing \ni1y for political purposes. \nat of\" means a payment made under the \nthe \ntion of a candidate, or any such \ntee \nion named in the above. \nCode Section 81011 provides that \namount of goods, services, facilit \ns or \nother than money is required to be \n• \namount shall be \nestimated fair \nvalue at the time received or expended ... \" \nth International was acting at the behest of \ntee of a political party the use of \nt in a non-monetary contribution \nrepublican committee. \nof \n1 in-kind contributions of fifty \nmust be reported \nwriting by the \nSACRAMENTO (916) 322-5660 \n• \nLOS ANGELES (213) \n96 \n/ \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1978-10-12",
+    "date_raw": "October 12, 1978",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "You asked if use of the lobby area is a contribution to the republican committee which is sponsoring the reception, and if so, how the contribution reported?",
+    "conclusion": "If Smith International was acting at the behest of a committee of a political party the use of the lobby would constitute a non-monetary contribution to the republican committee. In-kind contributions of fifty dollars or more must be reported in writing by the recipient committee.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a corporation's provision of its lobby space for a political reception constitutes a reportable contribution, and if so, how it must be reported.",
+    "conclusion_synthetic": "The provision of the lobby space constitutes a non-monetary in-kind contribution that must be reported in writing by the recipient committee if the value is fifty dollars or more, with the fair market value estimated at the time received.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.75,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is partially illegible with OCR artifacts and missing text sections. Question and conclusion sections identified but text is fragmented. Confidence reduced due to text quality issues and incomplete regulatory citations. Core advice is discernible despite document quality."
+  },
+  "citations": {
+    "government_code": [
+      "81011"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T19:24:43.724750Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: You asked if use of the lobby area is a contribution to the republican committee which is sponsoring the reception, and if so, how the contribution reported?\n\nCONCLUSION: If Smith International was acting at the behest of a committee of a political party the use of the lobby would constitute a non-monetary contribution to the republican committee. In-kind contributions of fifty dollars or more must be reported in writing by the recipient committee.",
+    "qa_source": "mixed",
+    "first_500_words": "tate of or11ia Fair Political Practices CommissioIl. P.o. BOX 807 • SACRAMENTO,95804 • 1100 K STREET BUILDING, SACRAMENTO, 95814 107 SOUTH BROADWAY • •• SUITE 7007 ••• lOS ANGELES, 90012 October 12, 1978 Petry, Attorney INTERNATIONAL Karman Avenue Newport Beach, California 92660 . Petry: This letter is to confirm my advice to you by tel on October 10, 1978. You stated that Smith International was lending the use of it's lobby for a reception for republican candidates for state office. Yau also stated that others were to be responsible for refreshments, paper goods, etc. You asked if use of the lobby area is a contribution to the republican committee which is sponsoring the reception, and if so, how the contribution reported? Section 0 • as interpreted by Section 18215, provides that a ion inc s any monetary or non-monetary not supported by full and adequate consideration, received by or made at the behest of a a controlled committee. an official a political party, or an organization or at control or sing i1y for political purposes. at of\" means a payment made under the the tion of a candidate, or any such tee ion named in the above. Code Section 81011 provides that amount of goods, services, facilit s or other than money is required to be • amount shall be estimated fair value at the time received or expended ... \" th International was acting at the behest of tee of a political party the use of t in a non-monetary contribution republican committee. of 1 in-kind contributions of fifty must be reported writing by the SACRAMENTO (916) 322-5660 • LOS ANGELES (213) 96 /",
+    "summary": "FPPC confirms via telephone that a corporation's provision of its lobby for a political reception is a non-monetary contribution requiring written reporting by the recipient committee if valued at fifty dollars or more."
+  }
+}

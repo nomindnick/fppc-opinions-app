@@ -1,0 +1,74 @@
+{
+  "id": "92-356",
+  "year": 1992,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1992/92-356.pdf",
+  "pdf_sha256": "66a50868c5edc78477a241e6e16b48ac2524ffdb448fa206334b6cf4311f6880",
+  "local_pdf_path": "raw_pdfs/1992/92-356.pdf",
+  "source_metadata": {
+    "title_raw": "Bishop, Melba Year: 1992 Advice Letter # 92-356",
+    "tags": [
+      "Advice Letter",
+      "1992"
+    ],
+    "scraped_at": "2026-01-31 16:24:52",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1992&tagCount=1&page=28"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:14.119028Z",
+    "page_count": 2,
+    "word_count": 350,
+    "char_count": 2132,
+    "quality_score": 0.8,
+    "olmocr_cost": null,
+    "native_word_count": 350
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\nJuly 6,\n1992\nMelba Bishop\nDeputy Mayor\nCity of Oceanside\nCivic Center\n300 North Hill Street\nOceanside,\nCA\n92054\nRe:\nYour Request for Advice\nOur File No.\nA—92-356\nDear Ms.\nBishop:\nI\nam writing to confirm our telephone conversation of July 3,\n1992, wherein we discussed your request for advice, Letter No.\nA—\n92-356.\nAs the Deputy Mayor of the City of Oceanside,\nyou are\nrequesting advice regarding the conflict—of—interest provisions of\nthe Political Reform Act\n(the “Act”).\n1\nYou enclosed in your letter the June 10,\n1992 memorandum\nprepared by Mr.\nD.\nDwight Worden,\nSpecial Counsel to the City of\nOceanside.\nAlthough Mr.\nWorden’s memorandum to you discussed a\nnumber of areas of law regarding conflicts of interest,\nwe limited\nour discussion to conflicts of interest under the Act.\nFrom the facts presented in the memorandum, it appears that\nMr.\nJohn Patterson is riot,\nand has not been,\na source of income to\nyou within the last\n12 months.\nIf he is not a source of income to\nyou, there is not a conflict of interest under Section 87103(c).\nThe memorandum also stated that you do not have any business\nor economic relations with Mr. Patterson and you do not have any\nfinancial interest in any of the sites currently under\nconsideration for the Materials Recovery Facility.\n1\nGovernment Code Sections 81000-91015.\nAll statutory references\nare to the Government Code unless otherwise indicated.\nCommission\nregulations appear at\n2 California Code of Regulations Section\n18000,\net .\nAll references to regulations are to Title 2,\nDivision\n6 of the California Code of Regulations.\n428 J Street, Suite 800 •\nP.O. Box 807 • Sacramento CA 95804-0807 •\n(916)322-5660\n\n\nOur File No.\nA—92-356\nPage\n2\nTherefore,\nI informed you that Mr.\nWorden’s analysis under\nthe Act is accurate.\nHowever,\nshould other facts arise, they must\nalso be evaluated in terms of a conflict of interest.\nI have\nenclosed a pamphlet outlining conflicts of interest for public\nofficials.\nI trust this answers your question.\nSincerely,\nScott Hallabrin\nActing General Counsel\nBy: Jill\nCouel, Legal Division\nSH:JS:aa\nEnclosure\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1992-07-06",
+    "date_raw": "July 6,\n1992",
+    "requestor_name": "Bishop",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Does the Deputy Mayor of Oceanside have a conflict of interest under the Political Reform Act regarding her relationship with John Patterson and potential involvement with a Materials Recovery Facility project?",
+    "conclusion_synthetic": "No conflict of interest exists under Section 87103(c) because John Patterson is not a source of income to the Deputy Mayor, and she has no business relations or financial interests in the sites under consideration for the Materials Recovery Facility.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: No formal QUESTION or CONCLUSION sections present; content extracted from body of advice letter. FPPC confirms prior analysis by city counsel. Conditional language regarding potential future facts noted."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "87103(c)"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:35:14.119028Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Does the Deputy Mayor of Oceanside have a conflict of interest under the Political Reform Act regarding her relationship with John Patterson and potential involvement with a Materials Recovery Facility project?\n\nCONCLUSION: No conflict of interest exists under Section 87103(c) because John Patterson is not a source of income to the Deputy Mayor, and she has no business relations or financial interests in the sites under consideration for the Materials Recovery Facility.",
+    "qa_source": "synthetic",
+    "first_500_words": "California Fair Political Practices Commission July 6, 1992 Melba Bishop Deputy Mayor City of Oceanside Civic Center 300 North Hill Street Oceanside, CA 92054 Re: Your Request for Advice Our File No. A—92-356 Dear Ms. Bishop: I am writing to confirm our telephone conversation of July 3, 1992, wherein we discussed your request for advice, Letter No. A— 92-356. As the Deputy Mayor of the City of Oceanside, you are requesting advice regarding the conflict—of—interest provisions of the Political Reform Act (the “Act”). 1 You enclosed in your letter the June 10, 1992 memorandum prepared by Mr. D. Dwight Worden, Special Counsel to the City of Oceanside. Although Mr. Worden’s memorandum to you discussed a number of areas of law regarding conflicts of interest, we limited our discussion to conflicts of interest under the Act. From the facts presented in the memorandum, it appears that Mr. John Patterson is riot, and has not been, a source of income to you within the last 12 months. If he is not a source of income to you, there is not a conflict of interest under Section 87103(c). The memorandum also stated that you do not have any business or economic relations with Mr. Patterson and you do not have any financial interest in any of the sites currently under consideration for the Materials Recovery Facility. 1 Government Code Sections 81000-91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations Section 18000, et . All references to regulations are to Title 2, Division 6 of the California Code of Regulations. 428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804-0807 • (916)322-5660 Our File No. A—92-356 Page 2 Therefore, I informed you that Mr. Worden’s analysis under the Act is accurate. However, should other facts arise, they must also be evaluated in terms of a conflict of interest. I have enclosed a pamphlet outlining conflicts of interest for public officials. I trust this answers your question. Sincerely, Scott Hallabrin Acting General Counsel By: Jill Couel, Legal Division SH:JS:aa Enclosure",
+    "summary": "FPPC confirms advice to Deputy Mayor Melba Bishop of Oceanside regarding conflict-of-interest provisions of the Political Reform Act, concluding that no conflict exists based on the facts presented regarding John Patterson and the Materials Recovery Facility project."
+  }
+}

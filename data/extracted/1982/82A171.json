@@ -1,0 +1,71 @@
+{
+  "id": "82A171",
+  "year": 1982,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1982/82A171.PDF",
+  "pdf_sha256": "b696d7609e616f35cb35a6b3eaf928bfb1298fa185ec224cea9b453a8ae277ea",
+  "local_pdf_path": "raw_pdfs/1982/82A171.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1982 Advice Letter # 82A171",
+    "tags": [
+      "1982",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:31:06",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1982&tagCount=1&page=21"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:58.650359Z",
+    "page_count": 1,
+    "word_count": 315,
+    "char_count": 1994,
+    "quality_score": 0.8,
+    "olmocr_cost": null,
+    "native_word_count": 315
+  },
+  "content": {
+    "full_text": "State of California \nMemorandum \nTo \nOpinion Request Meeting Participants \nDate \n9/1/82 \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nJeanne \nSubject: Question from Patrick Golden, PG&E Legal Dept. \nPG&E is making independent expenditures in support \nof a local ballot measure. \nThe question from their legal \ndepartment is whether they must rpeort as expenditures on \ntheir Form 461 the salaries paid to employees who spend \n10% or more of their time in what they describe as \nPolitical Reform Act \"compliance\" activity. \nThe employees \nin question \ndo the following: \n(1) \nKeep records for the company with respect \nto actual expenditures and salaries paid \nto employees who spend %10 or more of their \ntime in connection with designing, printing, \nmailing, etc., of the communications; \n(2) \nPrepare the campaign statements; \n(3) \nAdvise employees involved in the activities \ndescribed in (1) above as to compliance with \nthe Act's disclosure requirements and \nprohibitions. \nThey want to know if this type of activity constitutes \n\"services for political purposes\" as used in 2 Cal. Adm. \nCode Section 18423(a), and whether the salaries paid to these \nemployees is an \"expenditure\" pursuant to 2 Cal. Adm. Code \nSection 18225 (a) (1) . \nI have not found any opinions or advice letters which \ndiscuss this. \nP.S. Another aspect to the same question is: \nif a major donor or \nexpenditure committee pays an outside firm to do their record-\nkeeping, fill out campaign statements, etc., is that a reportable \nexpenditure and if so, if they support or oppose a number of \ncandidates, how do they allocate? \nCONCLUSION: \nIt was decided at the opinion request meeting of September 15, \n1982, that the salary paid to employees (even if they spend 10% or \nmore of their time) on the activities described, are not reportable. \nAlso, payments made by a major donor or expenditure committee to a \nconsultant or outside firm for these services are not reportable by \nmajor donor or expenditure committee. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1982-09-15",
+    "date_raw": "September 15, \n1982",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Whether PG&E must report as expenditures on Form 461 the salaries paid to employees who spend 10% or more of their time in Political Reform Act 'compliance' activity, including record-keeping for actual expenditures and salaries, preparing campaign statements, and advising on compliance with disclosure requirements and prohibitions. Additionally, whether such activity constitutes 'services for political purposes' under 2 Cal. Adm. Code Section 18423(a), and whether salaries are 'expenditures' under 2 Cal. Adm. Code Section 18225(a)(1). A secondary question asks whether payments by a major donor or expenditure committee to outside firms for record-keeping and campaign statement preparation are reportable expenditures and how allocation would work for multi-candidate support.",
+    "conclusion": "It was decided at the opinion request meeting of September 15, \n1982, that the salary paid to employees (even if they spend 10% or \nmore of their time) on the activities described, are not reportable. \nAlso, payments made by a major donor or expenditure committee to a \nconsultant or outside firm for these services are not reportable by \nmajor donor or expenditure committee.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether salaries paid to employees spending 10% or more of their time on campaign compliance activities (record-keeping, statement preparation, and legal compliance advice) constitute reportable expenditures under the Political Reform Act, and whether similar payments to outside consultants by major donors or expenditure committees are reportable.",
+    "conclusion_synthetic": "The FPPC determined that salaries paid to employees for compliance-related activities, even if they constitute 10% or more of their time, are not reportable expenditures on Form 461. Similarly, payments by major donors or expenditure committees to outside firms for record-keeping and campaign statement preparation services are not reportable.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern; LLM: Document is a memorandum to opinion request meeting participants rather than a formal letter format. Contains both a question section and conclusion section. The question section is lengthy and covers multiple related aspects. Minor typo in original ('rpeort' and '%10') preserved in verbatim extraction. Confidence slightly reduced due to informal memo format and meeting decision context rather than formal FPPC letter, but core Q/C sections are clearly present."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:36:58.650359Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether PG&E must report as expenditures on Form 461 the salaries paid to employees who spend 10% or more of their time in Political Reform Act 'compliance' activity, including record-keeping for actual expenditures and salaries, preparing campaign statements, and advising on compliance with disclosure requirements and prohibitions. Additionally, whether such activity constitutes 'services for political purposes' under 2 Cal. Adm. Code Section 18423(a), and whether salaries are 'expenditures' under 2 Cal. Adm. Code Section 18225(a)(1). A secondary question asks whether payments by a major donor or expenditure committee to outside firms for record-keeping and campaign statement preparation are reportable expenditures and how allocation would work for multi-candidate support.\n\nCONCLUSION: It was decided at the opinion request meeting of September 15, \n1982, that the salary paid to employees (even if they spend 10% or \nmore of their time) on the activities described, are not reportable. \nAlso, payments made by a major donor or expenditure committee to a \nconsultant or outside firm for these services are not reportable by \nmajor donor or expenditure committee.",
+    "qa_source": "mixed",
+    "first_500_words": "State of California Memorandum To Opinion Request Meeting Participants Date 9/1/82 From FAIR POLITICAL PRACTICES COMMISSION Jeanne Subject: Question from Patrick Golden, PG&E Legal Dept. PG&E is making independent expenditures in support of a local ballot measure. The question from their legal department is whether they must rpeort as expenditures on their Form 461 the salaries paid to employees who spend 10% or more of their time in what they describe as Political Reform Act \"compliance\" activity. The employees in question do the following: (1) Keep records for the company with respect to actual expenditures and salaries paid to employees who spend %10 or more of their time in connection with designing, printing, mailing, etc., of the communications; (2) Prepare the campaign statements; (3) Advise employees involved in the activities described in (1) above as to compliance with the Act's disclosure requirements and prohibitions. They want to know if this type of activity constitutes \"services for political purposes\" as used in 2 Cal. Adm. Code Section 18423(a), and whether the salaries paid to these employees is an \"expenditure\" pursuant to 2 Cal. Adm. Code Section 18225 (a) (1) . I have not found any opinions or advice letters which discuss this. P.S. Another aspect to the same question is: if a major donor or expenditure committee pays an outside firm to do their record- keeping, fill out campaign statements, etc., is that a reportable expenditure and if so, if they support or oppose a number of candidates, how do they allocate? CONCLUSION: It was decided at the opinion request meeting of September 15, 1982, that the salary paid to employees (even if they spend 10% or more of their time) on the activities described, are not reportable. Also, payments made by a major donor or expenditure committee to a consultant or outside firm for these services are not reportable by major donor or expenditure committee.",
+    "summary": "PG&E sought guidance on whether to report employee salaries for compliance activities and whether a consultant firm's services constitute reportable expenditures. The FPPC concluded that neither employee salaries for compliance work nor payments to outside firms for such services must be reported as expenditures."
+  }
+}

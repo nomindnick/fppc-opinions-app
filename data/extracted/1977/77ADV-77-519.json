@@ -1,0 +1,73 @@
+{
+  "id": "77ADV-77-519",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-519.PDF",
+  "pdf_sha256": "c7babf0b9ccde2a4fa81e9f720fe336d4f7664304e3db7e20825ce8b8a15a1ae",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-519.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-519",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:22:41",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=51"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T20:11:32.334460Z",
+    "page_count": 1,
+    "word_count": 100,
+    "char_count": 644,
+    "quality_score": 0.8228333333333334,
+    "olmocr_cost": 0.00246906,
+    "native_word_count": 102
+  },
+  "content": {
+    "full_text": "Definition of Cumulative Amount\n\n91013 states that a late fine shall not exceed the cumulative amount stated in the statement or $100, whichever is greater. Section 82018 defines cumulative amount as \"the amount contributed or expended since the closing date of the most recent postelection statement which was required to be filed by the filer.\" Therefore, at the OR meeting of October 24, 1977, the staff concluded that the maximum fine may not exceed the cumulative contributions, cumulative expenditures or $100 whichever is greater. The cumulative amount of contributions and expenditures may not be combined to determine the maximum fine.",
+    "full_text_markdown": "Definition of Cumulative Amount\n\n91013 states that a late fine shall not exceed the cumulative amount stated in the statement or $100, whichever is greater. Section 82018 defines cumulative amount as \"the amount contributed or expended since the closing date of the most recent postelection statement which was required to be filed by the filer.\" Therefore, at the OR meeting of October 24, 1977, the staff concluded that the maximum fine may not exceed the cumulative contributions, cumulative expenditures or $100 whichever is greater. The cumulative amount of contributions and expenditures may not be combined to determine the maximum fine."
+  },
+  "parsed": {
+    "date": "1977-10-24",
+    "date_raw": "October 24, 1977",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [
+      "82018"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-20T20:11:32.334460Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "Definition of Cumulative Amount 91013 states that a late fine shall not exceed the cumulative amount stated in the statement or $100, whichever is greater. Section 82018 defines cumulative amount as \"the amount contributed or expended since the closing date of the most recent postelection statement which was required to be filed by the filer.\" Therefore, at the OR meeting of October 24, 1977, the staff concluded that the maximum fine may not exceed the cumulative contributions, cumulative expenditures or $100 whichever is greater. The cumulative amount of contributions and expenditures may not be combined to determine the maximum fine.",
+    "qa_source": "extracted",
+    "first_500_words": "Definition of Cumulative Amount 91013 states that a late fine shall not exceed the cumulative amount stated in the statement or $100, whichever is greater. Section 82018 defines cumulative amount as \"the amount contributed or expended since the closing date of the most recent postelection statement which was required to be filed by the filer.\" Therefore, at the OR meeting of October 24, 1977, the staff concluded that the maximum fine may not exceed the cumulative contributions, cumulative expenditures or $100 whichever is greater. The cumulative amount of contributions and expenditures may not be combined to determine the maximum fine.",
+    "summary": null
+  }
+}

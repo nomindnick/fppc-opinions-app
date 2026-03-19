@@ -1,0 +1,71 @@
+{
+  "id": "06-182",
+  "year": 2006,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2006/06-182.pdf",
+  "pdf_sha256": "1d2b8bee6bdef6f1d52072003fd9820a28d7a1ff376f231451656479c1b57ea5",
+  "local_pdf_path": "raw_pdfs/2006/06-182.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2006 Advice Letter # 06-182",
+    "tags": [
+      "Advice Letter",
+      "2006"
+    ],
+    "scraped_at": "2026-01-31 14:44:58",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2006&tagCount=1&page=14"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T20:41:57.102926Z",
+    "page_count": 1,
+    "word_count": 68,
+    "char_count": 434,
+    "quality_score": 0.7545338846176769,
+    "olmocr_cost": 0.00247078,
+    "native_word_count": 85
+  },
+  "content": {
+    "full_text": "October 23, 2006\n\nRichard E. Patton\n1155 Parkhill Street\nColusa, CA 95932\n\nRE: Your Request for Advice\nOur File No. W-06-182\n\nDear Mr. Patton:\n\nPursuant to our telephone conversation of October 18, 2006, you have rescinded your request for written advice.\n\nIf you have any additional questions, please feel free to call me at (916) 322-5660.\n\nSincerely,\n\nKevin S. Moen, PhD\nPolitical Reform Consultant II\nTechnical Assistance Division",
+    "full_text_markdown": "October 23, 2006\n\nRichard E. Patton\n1155 Parkhill Street\nColusa, CA 95932\n\nRE: Your Request for Advice\nOur File No. W-06-182\n\nDear Mr. Patton:\n\nPursuant to our telephone conversation of October 18, 2006, you have rescinded your request for written advice.\n\nIf you have any additional questions, please feel free to call me at (916) 322-5660.\n\nSincerely,\n\nKevin S. Moen, PhD\nPolitical Reform Consultant II\nTechnical Assistance Division"
+  },
+  "parsed": {
+    "date": "2006-10-23",
+    "date_raw": "October 23, 2006",
+    "requestor_name": "Patton",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T20:41:57.102926Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "October 23, 2006 Richard E. Patton 1155 Parkhill Street Colusa, CA 95932 RE: Your Request for Advice Our File No. W-06-182 Dear Mr. Patton: Pursuant to our telephone conversation of October 18, 2006, you have rescinded your request for written advice. If you have any additional questions, please feel free to call me at (916) 322-5660. Sincerely, Kevin S. Moen, PhD Political Reform Consultant II Technical Assistance Division",
+    "qa_source": "extracted",
+    "first_500_words": "October 23, 2006 Richard E. Patton 1155 Parkhill Street Colusa, CA 95932 RE: Your Request for Advice Our File No. W-06-182 Dear Mr. Patton: Pursuant to our telephone conversation of October 18, 2006, you have rescinded your request for written advice. If you have any additional questions, please feel free to call me at (916) 322-5660. Sincerely, Kevin S. Moen, PhD Political Reform Consultant II Technical Assistance Division",
+    "summary": null
+  }
+}

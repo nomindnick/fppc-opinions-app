@@ -1,0 +1,75 @@
+{
+  "id": "83A055",
+  "year": 1983,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1983/83A055.PDF",
+  "pdf_sha256": "f7c73f0af48b2715e2fd6fc7ab47137a27f74ebaeda08ae1a8490b8b7a96bdc6",
+  "local_pdf_path": "raw_pdfs/1983/83A055.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1983 Advice Letter # 83A055",
+    "tags": [
+      "1983",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:33:04",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1983&tagCount=1&page=22"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T18:51:55.091877Z",
+    "page_count": 1,
+    "word_count": 114,
+    "char_count": 696,
+    "quality_score": 0.8195458020050125,
+    "olmocr_cost": 0.0025051799999999996,
+    "native_word_count": 117
+  },
+  "content": {
+    "full_text": "Memorandum\n\nAdvice No. M-83-055\n\nMarch 2, 1983\n\nTO: Advice Request Meeting Participants\n\nFROM: Alice Hughes\n\nIn 1980, the staff decided that the repayment of a loan by a family member to a public official should be reported as income by the official. At that time, a recommendation was made to amend Section 82030 to exclude this type of transaction. Since no change has been made, should we consider altering our informal advice?\n\nAH:km\n\nMarch 10, 1983\n\n3/3/83 meeting:\n\nAgreed that our advice should be that all loan transactions among family members, including repayment, should not be reportable. Also agreed that Bob Stern should try to include this in this year's amendments to the Act.",
+    "full_text_markdown": "Memorandum\n\nAdvice No. M-83-055\n\nMarch 2, 1983\n\nTO: Advice Request Meeting Participants\n\nFROM: Alice Hughes\n\nIn 1980, the staff decided that the repayment of a loan by a family member to a public official should be reported as income by the official. At that time, a recommendation was made to amend Section 82030 to exclude this type of transaction. Since no change has been made, should we consider altering our informal advice?\n\nAH:km\n\nMarch 10, 1983\n\n3/3/83 meeting:\n\nAgreed that our advice should be that all loan transactions among family members, including repayment, should not be reportable. Also agreed that Bob Stern should try to include this in this year's amendments to the Act."
+  },
+  "parsed": {
+    "date": "1983-03-02",
+    "date_raw": "March 2, 1983",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [
+      "82030"
+    ],
+    "regulations": [],
+    "prior_opinions": [
+      "M-83-055"
+    ],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-20T18:51:55.091877Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "**Memorandum** Advice No. M-83-055 March 2, 1983 TO: Advice Request Meeting Participants FROM: Alice Hughes In 1980, the staff decided that the repayment of a loan by a family member to a public official should be reported as income by the official. At that time, a recommendation was made to amend Section 82030 to exclude this type of transaction. Since no change has been made, should we consider altering our informal advice? AH:km March 10, 1983 3/3/83 meeting: Agreed that our advice should be that all loan transactions among family members, including repayment, should not be reportable. Also agreed that Bob Stern should try to include this in this year's amendments to the Act.",
+    "qa_source": "extracted",
+    "first_500_words": "**Memorandum** Advice No. M-83-055 March 2, 1983 TO: Advice Request Meeting Participants FROM: Alice Hughes In 1980, the staff decided that the repayment of a loan by a family member to a public official should be reported as income by the official. At that time, a recommendation was made to amend Section 82030 to exclude this type of transaction. Since no change has been made, should we consider altering our informal advice? AH:km March 10, 1983 3/3/83 meeting: Agreed that our advice should be that all loan transactions among family members, including repayment, should not be reportable. Also agreed that Bob Stern should try to include this in this year's amendments to the Act.",
+    "summary": null
+  }
+}

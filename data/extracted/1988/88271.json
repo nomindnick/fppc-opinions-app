@@ -1,0 +1,71 @@
+{
+  "id": "88271",
+  "year": 1988,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1988/fppc-advice/88271.PDF",
+  "pdf_sha256": "d679b94616a5079ac6e53b3f7b1c03dd340cdc654d3c21c85107bd94b78f6d72",
+  "local_pdf_path": "raw_pdfs/1988/88271.PDF",
+  "source_metadata": {
+    "title_raw": "LEONARD, NANCY Year: 1988 Advice Letter # 88271",
+    "tags": [
+      "1988",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:00:48",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1988&tagCount=1&page=43"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:18.638488Z",
+    "page_count": 1,
+    "word_count": 202,
+    "char_count": 1360,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 202
+  },
+  "content": {
+    "full_text": "California \nFair Political \nPractices Commission \nJuly 18, 1988 \nNancy Leonard \nAssistant to the City Manager/ \nEmployee Relations \n5275 Orange Avenue \nCypress, CA \n90630 \nDear Ms. Leonard: \nRe: \nYour Request for Advice \nOur File No. A-88-271 \nWe have received your letter concerning the new \nrestrictions on publicly-funded mass mailings under Proposition \n73. \nEnclosed are copies of our first interim advice letters \ninterpreting the mass mailing restrictions. \nAfter examining \nthe new statute and the analysis by the Legislative Analyst, we \nhave concluded that the voters intended to restrict mailings by \nstate and local elected officials, but did not intend to ban \npublicly-funded mailings entirely. \nBased on these interim \nadvice letters, the sample newsletter you provided with your \nletter would be permitted, since it contains no reference to \nelected officials except in the standard letterhead or logotype. \nIn the future, this may change. \nWe expect to address \nadditional questions concerning the mass mailing restrictions \nin Proposition 73, and we will include your name on our mailing \nlist for information on the subject. \nDMG:KED:plh \nEnclosures \nSincerely, \nDiane M. Griffiths \nGeneral Counsel \nf< \nBy: \n, \nKathryn E. Donovan \nCounsel, Legal Division \n428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804-0807 • (916) 322-5660 \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1988-07-18",
+    "date_raw": "July 18, 1988",
+    "requestor_name": "Leonard",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a city newsletter containing standard letterhead/logotype references to elected officials complies with Proposition 73's restrictions on publicly-funded mass mailings.",
+    "conclusion_synthetic": "The sample newsletter provided is permitted under Proposition 73 because it contains no reference to elected officials except in standard letterhead or logotype. The voters intended to restrict mailings by elected officials but not ban publicly-funded mailings entirely.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: No formal QUESTION or CONCLUSION sections present; advice embedded in letter body. Response to incoming request regarding Proposition 73 compliance. Interim guidance letter with indication that interpretation may evolve."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:36:18.638488Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether a city newsletter containing standard letterhead/logotype references to elected officials complies with Proposition 73's restrictions on publicly-funded mass mailings.\n\nCONCLUSION: The sample newsletter provided is permitted under Proposition 73 because it contains no reference to elected officials except in standard letterhead or logotype. The voters intended to restrict mailings by elected officials but not ban publicly-funded mailings entirely.",
+    "qa_source": "synthetic",
+    "first_500_words": "California Fair Political Practices Commission July 18, 1988 Nancy Leonard Assistant to the City Manager/ Employee Relations 5275 Orange Avenue Cypress, CA 90630 Dear Ms. Leonard: Re: Your Request for Advice Our File No. A-88-271 We have received your letter concerning the new restrictions on publicly-funded mass mailings under Proposition 73. Enclosed are copies of our first interim advice letters interpreting the mass mailing restrictions. After examining the new statute and the analysis by the Legislative Analyst, we have concluded that the voters intended to restrict mailings by state and local elected officials, but did not intend to ban publicly-funded mailings entirely. Based on these interim advice letters, the sample newsletter you provided with your letter would be permitted, since it contains no reference to elected officials except in the standard letterhead or logotype. In the future, this may change. We expect to address additional questions concerning the mass mailing restrictions in Proposition 73, and we will include your name on our mailing list for information on the subject. DMG:KED:plh Enclosures Sincerely, Diane M. Griffiths General Counsel f< By: , Kathryn E. Donovan Counsel, Legal Division 428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804-0807 • (916) 322-5660",
+    "summary": "FPPC advises that Cypress, California's sample newsletter complies with Proposition 73's mass mailing restrictions because it lacks substantive references to elected officials beyond standard letterhead. The Commission concluded that Proposition 73 restricts but does not entirely ban publicly-funded mailings."
+  }
+}

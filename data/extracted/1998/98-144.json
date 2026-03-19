@@ -1,0 +1,76 @@
+{
+  "id": "98-144",
+  "year": 1998,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/1998/98-144.pdf",
+  "pdf_sha256": "0ae5884c0de3a594ddfd23a8e8b3e668ae9ec843e914555438e68935fb544bae",
+  "local_pdf_path": "raw_pdfs/1998/98-144.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 1998 Advice Letter # 98-144",
+    "tags": [
+      "1998",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:45:41",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1998&tagCount=1&page=5"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:42.812719Z",
+    "page_count": 2,
+    "word_count": 299,
+    "char_count": 1896,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 299
+  },
+  "content": {
+    "full_text": "FAIR POLITICAL PRACTICES CorvirvnssloN\nP.O. Box 807\n• 428 J Street . Sacramento, CA 958 12-0807\n(916) 322-5660\n• Fax (916) 322-0886\nMay 12, 1998\nHarvey Tsuboi\nOffice of the\nSecretary of State\n1500 11th Street\nSacramento, CA 95814\nRe:\nConsolidated Campaign Statement\nOur File No. 1-98-144\nDear Mr. Tsuboi:\nThis is in response to your question posed to Dixie Howard of this office regarding the\ncampaign disclosure provisions of the Political Reform Act\n1 This letter constitutes written\nadvice under Section 84205.\nSection 84205 provides:\nThe Conunission may by regulation or written advice permit\ncandidates and committees to file campaign statements combining statements\nand reports required to be filed by this title.\nA special election has been called for September 1, 1998, to fill the vacancy of Senator\nBarbara Lee in the 9\nth Senate District. The first pre-election campaign statement required to be\nfiled for this seat is due July 23, 1998, and covers the period through July 18, 1998. The semi\nannual statement filing deadline for candidates and committees qualified prior to July 1, 1998, is\nJuly 31, 1998. We believe it appropriate for committees formed prior to July 1 that are\ncandidate-controlled committees running for that office, or committees formed primarily to\nT\nGovernment Code Section 81000-91014. Commission regulations appear at title 2, sections 18109-18995,\nof the California Code of Regulations.\n\n\nFile No. 1-98-144\nPage 2\nsupport or oppose candidates running for that office, to file a combined semi-annual and first pre\nelection statement no later than July 23, 1998, covering a period from January 1, 1998 through\nJuly 18, 1998.\nIf you have any questions regarding this, please feel free to call me at (916) 322-5660.\nSincerely,\nCarla Wardlow, Chief\nTechnical Assistance Division\nBy: / Jeanette\n( Political Reform Consultant\nTechnical Assistance Division\nSGC/JET/jt\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1998-05-12",
+    "date_raw": "May 12, 1998",
+    "requestor_name": "Tsuboi",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "May candidate-controlled committees and committees formed to support or oppose candidates in a special election for California State Senate combine their semi-annual and first pre-election campaign statements into a single filing?",
+    "conclusion_synthetic": "The FPPC advises that committees formed prior to July 1, 1998, that are candidate-controlled or formed to support/oppose candidates in the September 1, 1998 special election for the 9th Senate District may file a combined semi-annual and first pre-election statement by July 23, 1998, covering January 1 through July 18, 1998.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document lacks explicit 'QUESTION' and 'CONCLUSION' section headers but contains clear question and answer content. Written advice authorized under Government Code Section 84205. Minor OCR artifact ('CorvirvnssloN' likely 'Commission') does not affect extraction quality."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "84205"
+    ],
+    "regulations": [
+      "18109"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:34:42.812719Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: May candidate-controlled committees and committees formed to support or oppose candidates in a special election for California State Senate combine their semi-annual and first pre-election campaign statements into a single filing?\n\nCONCLUSION: The FPPC advises that committees formed prior to July 1, 1998, that are candidate-controlled or formed to support/oppose candidates in the September 1, 1998 special election for the 9th Senate District may file a combined semi-annual and first pre-election statement by July 23, 1998, covering January 1 through July 18, 1998.",
+    "qa_source": "synthetic",
+    "first_500_words": "FAIR POLITICAL PRACTICES CorvirvnssloN P.O. Box 807 • 428 J Street . Sacramento, CA 958 12-0807 (916) 322-5660 • Fax (916) 322-0886 May 12, 1998 Harvey Tsuboi Office of the Secretary of State 1500 11th Street Sacramento, CA 95814 Re: Consolidated Campaign Statement Our File No. 1-98-144 Dear Mr. Tsuboi: This is in response to your question posed to Dixie Howard of this office regarding the campaign disclosure provisions of the Political Reform Act 1 This letter constitutes written advice under Section 84205. Section 84205 provides: The Conunission may by regulation or written advice permit candidates and committees to file campaign statements combining statements and reports required to be filed by this title. A special election has been called for September 1, 1998, to fill the vacancy of Senator Barbara Lee in the 9 th Senate District. The first pre-election campaign statement required to be filed for this seat is due July 23, 1998, and covers the period through July 18, 1998. The semi annual statement filing deadline for candidates and committees qualified prior to July 1, 1998, is July 31, 1998. We believe it appropriate for committees formed prior to July 1 that are candidate-controlled committees running for that office, or committees formed primarily to T Government Code Section 81000-91014. Commission regulations appear at title 2, sections 18109-18995, of the California Code of Regulations. File No. 1-98-144 Page 2 support or oppose candidates running for that office, to file a combined semi-annual and first pre election statement no later than July 23, 1998, covering a period from January 1, 1998 through July 18, 1998. If you have any questions regarding this, please feel free to call me at (916) 322-5660. Sincerely, Carla Wardlow, Chief Technical Assistance Division By: / Jeanette ( Political Reform Consultant Technical Assistance Division SGC/JET/jt",
+    "summary": "FPPC advice letter permitting the consolidation of semi-annual and pre-election campaign statements for committees participating in the special election to fill State Senator Barbara Lee's 9th District seat in September 1998."
+  }
+}

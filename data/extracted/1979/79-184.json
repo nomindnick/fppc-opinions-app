@@ -1,0 +1,75 @@
+{
+  "id": "79-184",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-184.PDF",
+  "pdf_sha256": "68681bf0a537febb6f13080cbc40284d4213d412f9ee4ba1f09b3549bee6196e",
+  "local_pdf_path": "raw_pdfs/1979/79-184.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1979 Advice Letter # 79-184",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:26:35",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=17"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T15:48:40.342107Z",
+    "page_count": 1,
+    "word_count": 119,
+    "char_count": 721,
+    "quality_score": 0.7835701851670901,
+    "olmocr_cost": 0.00250174,
+    "native_word_count": 124
+  },
+  "content": {
+    "full_text": "MEMO RE \"PIECES OF MAIL\" AS USED IN §82041.5\n\nProblem: A political committee wants to mail 70 packages to its supporters. Each package contains ten political brochures. Does this mailing contain 70 or 700 \"pieces of mail\" as that term is used in §82041.5?\n\nAnswer: It constitutes 70 pieces of mail unless there is an understanding that the recipients will mail, at committee expense, each of the ten brochures to other persons.\n\nRationale: The Act is not attempting to stop hand delivery of political materials. However, this result might change if the may draft of proposed regulation 18435 passes -- the sender is the person who pays the largest portion of expenditures attributable to the design, printing and posting.",
+    "full_text_markdown": "MEMO RE \"PIECES OF MAIL\" AS USED IN §82041.5\n\nProblem: A political committee wants to mail 70 packages to its supporters. Each package contains ten political brochures. Does this mailing contain 70 or 700 \"pieces of mail\" as that term is used in §82041.5?\n\nAnswer: It constitutes 70 pieces of mail unless there is an understanding that the recipients will mail, at committee expense, each of the ten brochures to other persons.\n\nRationale: The Act is not attempting to stop hand delivery of political materials. However, this result might change if the may draft of proposed regulation 18435 passes -- the sender is the person who pays the largest portion of expenditures attributable to the design, printing and posting."
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [
+      "82041"
+    ],
+    "regulations": [
+      "18435"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-20T15:48:40.342107Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "MEMO RE \"PIECES OF MAIL\" AS USED IN §82041.5 Problem: A political committee wants to mail 70 packages to its supporters. Each package contains ten political brochures. Does this mailing contain 70 or 700 \"pieces of mail\" as that term is used in §82041.5? Answer: It constitutes 70 pieces of mail unless there is an understanding that the recipients will mail, at committee expense, each of the ten brochures to other persons. Rationale: The Act is not attempting to stop hand delivery of political materials. However, this result might change if the may draft of proposed regulation 18435 passes -- the sender is the person who pays the largest portion of expenditures attributable to the design, printing and posting.",
+    "qa_source": "extracted",
+    "first_500_words": "MEMO RE \"PIECES OF MAIL\" AS USED IN §82041.5 Problem: A political committee wants to mail 70 packages to its supporters. Each package contains ten political brochures. Does this mailing contain 70 or 700 \"pieces of mail\" as that term is used in §82041.5? Answer: It constitutes 70 pieces of mail unless there is an understanding that the recipients will mail, at committee expense, each of the ten brochures to other persons. Rationale: The Act is not attempting to stop hand delivery of political materials. However, this result might change if the may draft of proposed regulation 18435 passes -- the sender is the person who pays the largest portion of expenditures attributable to the design, printing and posting.",
+    "summary": null
+  }
+}

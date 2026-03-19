@@ -1,0 +1,74 @@
+{
+  "id": "77ADV-77-384",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-384.PDF",
+  "pdf_sha256": "8c76b4583d512883d38edd63e0784cad2b5af8a5e808499393f3448f7cff8a19",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-384.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-384",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:19:05",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=2"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:11.773513Z",
+    "page_count": 1,
+    "word_count": 326,
+    "char_count": 1944,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 326
+  },
+  "content": {
+    "full_text": "State of California \nMemorandum \nTo \nFile \nDate \n:Feb. 8, 1977 \n/tl/ \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nTed Prim \nSubject: \nAdvice to Virginia White of Judge Reagan's office concerning \nreporting of investments and interests in real property pur-\nsuant to Section 87206. \nI provided Ms. White with the following advice on February 7, \n1977. \n1. \nInvestments and interests in real property held by his \npresent wife are reportable pursuant to Sections 82029 \nand 82034. \n2. \nInvestments and real property held by a testamentary \ntrust created at the death of Judge Reagan's previous \nwife also must be reported since he is the income bene-\nficiary of the trust and has a right to invade the \nprincipal of the trust in certain circumstances. \nMost \nof the trust corpus is composed of his deceased wife's \ncommunity property share of their property. \nSince property \nis deemed owned by the judge even though it is split between \nhim and the trust, I advised her to lump the property for \nthe purpose of determining which box to check and whether \nthe property exceeds the $1000 threshold. \nExample: \nif \nthe judge and the trust each have a 1/2 undivided interest \nin a piece of property valued at $1500, the property must \nbe disclosed by the judge as an interest in real property \nvalued at $1500 since he is deemed the owner of both 1/2 \ninterests. \n3. \nI advised her that the assessor's parcel number would be \nsufficient for identifying the precise location of property. \nI provided her with this advice after a conversation with \nthe county assessor's office in which I was told that the \nprecise location of property could be provided by them over \nthe phone to a member of the public just as easily from the \nassessor's parcel number as from the legal description. \nI also cleared this advice with Mr. Finney. \n4. \nI advised her that legislative retirement pay was not re-\nportable income. \nThis advice was cleared with Ed Kerry. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1977-02-07",
+    "date_raw": "February 7, \n1977",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "How should Judge Reagan report investments and interests in real property, including assets held by his current wife, a testamentary trust from his deceased wife, and legislative retirement pay, pursuant to FPPC disclosure requirements?",
+    "conclusion_synthetic": "The FPPC advised that investments and real property held by the judge's current wife are reportable; property held in a testamentary trust where the judge is an income beneficiary must be reported and lumped together with directly-held property for threshold purposes; assessor's parcel numbers are sufficient for property identification; and legislative retirement pay is not reportable income.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is an internal FPPC memorandum documenting advice given verbally. No formal Q/C section headers, but advice is clearly structured in numbered points. Question and conclusion synthesized from content. Document appears to relate to Judge Reagan's financial disclosure obligations."
+  },
+  "citations": {
+    "government_code": [
+      "82029",
+      "87206"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:37:11.773513Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: How should Judge Reagan report investments and interests in real property, including assets held by his current wife, a testamentary trust from his deceased wife, and legislative retirement pay, pursuant to FPPC disclosure requirements?\n\nCONCLUSION: The FPPC advised that investments and real property held by the judge's current wife are reportable; property held in a testamentary trust where the judge is an income beneficiary must be reported and lumped together with directly-held property for threshold purposes; assessor's parcel numbers are sufficient for property identification; and legislative retirement pay is not reportable income.",
+    "qa_source": "synthetic",
+    "first_500_words": "State of California Memorandum To File Date :Feb. 8, 1977 /tl/ From FAIR POLITICAL PRACTICES COMMISSION Ted Prim Subject: Advice to Virginia White of Judge Reagan's office concerning reporting of investments and interests in real property pur- suant to Section 87206. I provided Ms. White with the following advice on February 7, 1977. 1. Investments and interests in real property held by his present wife are reportable pursuant to Sections 82029 and 82034. 2. Investments and real property held by a testamentary trust created at the death of Judge Reagan's previous wife also must be reported since he is the income bene- ficiary of the trust and has a right to invade the principal of the trust in certain circumstances. Most of the trust corpus is composed of his deceased wife's community property share of their property. Since property is deemed owned by the judge even though it is split between him and the trust, I advised her to lump the property for the purpose of determining which box to check and whether the property exceeds the $1000 threshold. Example: if the judge and the trust each have a 1/2 undivided interest in a piece of property valued at $1500, the property must be disclosed by the judge as an interest in real property valued at $1500 since he is deemed the owner of both 1/2 interests. 3. I advised her that the assessor's parcel number would be sufficient for identifying the precise location of property. I provided her with this advice after a conversation with the county assessor's office in which I was told that the precise location of property could be provided by them over the phone to a member of the public just as easily from the assessor's parcel number as from the legal description. I also cleared this advice with Mr. Finney. 4. I advised her that legislative retirement pay was not re- portable income. This advice was cleared with Ed Kerry.",
+    "summary": "FPPC memorandum documenting advice provided to Virginia White regarding reporting obligations for Judge Reagan's investments and real property interests under Section 87206, including guidance on spousal property, testamentary trusts, property identification methods, and retirement pay."
+  }
+}

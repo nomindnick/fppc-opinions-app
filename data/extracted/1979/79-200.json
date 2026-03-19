@@ -1,0 +1,71 @@
+{
+  "id": "79-200",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-200.PDF",
+  "pdf_sha256": "4659a23769c89a74e11c437eafe12802373cf581c94e40fa434dbd9844e55f01",
+  "local_pdf_path": "raw_pdfs/1979/79-200.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1979 Advice Letter # 79-200",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:25:47",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=6"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T15:28:48.893850Z",
+    "page_count": 1,
+    "word_count": 81,
+    "char_count": 502,
+    "quality_score": 0.7729,
+    "olmocr_cost": 0.00242864,
+    "native_word_count": 86
+  },
+  "content": {
+    "full_text": "Reporting Loans From A Candidate To His Committee\n\nWhen a candidate loans personal funds to his committee the transaction must be reported as follows. Candidate makes a contribution to himself which must be reported on his candidate statement. In his capacity as candidate, he loans funds to his committee which must be reported as an expenditure by the candidate and a contribution received by the committee. Repayment of the loan follows a reverse route from committee to candidate to private person.",
+    "full_text_markdown": "Reporting Loans From A Candidate To His Committee\n\nWhen a candidate loans personal funds to his committee the transaction must be reported as follows. Candidate makes a contribution to himself which must be reported on his candidate statement. In his capacity as candidate, he loans funds to his committee which must be reported as an expenditure by the candidate and a contribution received by the committee. Repayment of the loan follows a reverse route from committee to candidate to private person."
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-20T15:28:48.893850Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "Reporting Loans From A Candidate To His Committee When a candidate loans personal funds to his committee the transaction must be reported as follows. Candidate makes a contribution to himself which must be reported on his candidate statement. In his capacity as candidate, he loans funds to his committee which must be reported as an expenditure by the candidate and a contribution received by the committee. Repayment of the loan follows a reverse route from committee to candidate to private person.",
+    "qa_source": "extracted",
+    "first_500_words": "Reporting Loans From A Candidate To His Committee When a candidate loans personal funds to his committee the transaction must be reported as follows. Candidate makes a contribution to himself which must be reported on his candidate statement. In his capacity as candidate, he loans funds to his committee which must be reported as an expenditure by the candidate and a contribution received by the committee. Repayment of the loan follows a reverse route from committee to candidate to private person.",
+    "summary": null
+  }
+}

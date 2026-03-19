@@ -1,0 +1,73 @@
+{
+  "id": "79-173",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-173.PDF",
+  "pdf_sha256": "46e3360e9225bcebd3c995407572592d77eb3f6f79e574fdc7f8a6620d4f4a29",
+  "local_pdf_path": "raw_pdfs/1979/79-173.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1979 Advice Letter # 79-173",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:25:47",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=6"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-19T22:06:48.873008Z",
+    "page_count": 1,
+    "word_count": 99,
+    "char_count": 628,
+    "quality_score": 0.7777203810254443,
+    "olmocr_cost": 0.00245272,
+    "native_word_count": 105
+  },
+  "content": {
+    "full_text": "Disclosure of Spouse's Investments when Official and Spouse are Separated\n\n§82029 requires that an official disclose investments and interests in real property of his spouse. If the official and spouse are separated, the official must use reasonable diligence to determine the investments and interests in real property held by the spouse. Reasonable diligence would be satisfied by an inquiry from the official to the spouse. If the spouse refuses to provide information to the official, the official must disclose those investments and interests in real property which he knows or has reason to believe are held by the spouse.",
+    "full_text_markdown": "Disclosure of Spouse's Investments when Official and Spouse are Separated\n\n§82029 requires that an official disclose investments and interests in real property of his spouse. If the official and spouse are separated, the official must use reasonable diligence to determine the investments and interests in real property held by the spouse. Reasonable diligence would be satisfied by an inquiry from the official to the spouse. If the spouse refuses to provide information to the official, the official must disclose those investments and interests in real property which he knows or has reason to believe are held by the spouse."
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [
+      "82029"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-19T22:06:48.873008Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "Disclosure of Spouse's Investments when Official and Spouse are Separated §82029 requires that an official disclose investments and interests in real property of his spouse. If the official and spouse are separated, the official must use reasonable diligence to determine the investments and interests in real property held by the spouse. Reasonable diligence would be satisfied by an inquiry from the official to the spouse. If the spouse refuses to provide information to the official, the official must disclose those investments and interests in real property which he knows or has reason to believe are held by the spouse.",
+    "qa_source": "extracted",
+    "first_500_words": "Disclosure of Spouse's Investments when Official and Spouse are Separated §82029 requires that an official disclose investments and interests in real property of his spouse. If the official and spouse are separated, the official must use reasonable diligence to determine the investments and interests in real property held by the spouse. Reasonable diligence would be satisfied by an inquiry from the official to the spouse. If the spouse refuses to provide information to the official, the official must disclose those investments and interests in real property which he knows or has reason to believe are held by the spouse.",
+    "summary": null
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "76139",
+  "year": 1976,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1976/76139.PDF",
+  "pdf_sha256": "399d1e5c02068dc9d30581b52689fee65d85c4dc9951bba9ab621eefa6e1c916",
+  "local_pdf_path": "raw_pdfs/1976/76139.PDF",
+  "source_metadata": {
+    "title_raw": "CLEMMONS, JUDY Year: 1976 Advice Letter # 76139",
+    "tags": [
+      "1976",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:17:32",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1976&tagCount=1&page=40"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-07T17:18:13.607521Z",
+    "page_count": 1,
+    "word_count": 192,
+    "char_count": 1242,
+    "quality_score": 0.6325000000000001,
+    "olmocr_cost": 0.0026230000000000003,
+    "native_word_count": 17
+  },
+  "content": {
+    "full_text": "May 27, 1976\n\nMs. Judy Clemmons  \n5106 Federal Boulevard  \nSuite 113B  \nSan Diego, California 92105\n\nDear Ms. Clemmons:\n\nRE: Campaign Statement for Assemblyman Pete Chacon,  \n79th Assembly District\n\nThis letter is to confirm our May 25, 1976 telephone conversation regarding the reporting of late contributions.\n\nYou stated that Assemblyman Chacon received a late contribution on May 25, 1976, one day after the closing date for the second pre-primary campaign statement. Since you had not completed and filed the pre-primary statement, covering the period from April 27, 1976 through May 24, 1976, you asked whether you could extend the period covered by the report one day so that you could include receipt of the late contribution. I indicated that your second pre-primary campaign statement could cover the period from April 27, 1976 through May 25, 1976 and that you would not have to file a separate report regarding the late contribution. The beginning date, therefore, for your post-primary election statement will be May 26, 1976.\n\nIf we can be of further assistance, please contact us again.\n\nSincerely,\n\nNAN HAMBLETON  \nSpecial Compliance Representative\n\nNH:mak\n\ncc: Political Reform Unit  \nSecretary of State's Office\n\nbcc: Jeanne",
+    "full_text_markdown": "May 27, 1976\n\nMs. Judy Clemmons  \n5106 Federal Boulevard  \nSuite 113B  \nSan Diego, California 92105\n\nDear Ms. Clemmons:\n\nRE: Campaign Statement for Assemblyman Pete Chacon,  \n79th Assembly District\n\nThis letter is to confirm our May 25, 1976 telephone conversation regarding the reporting of late contributions.\n\nYou stated that Assemblyman Chacon received a late contribution on May 25, 1976, one day after the closing date for the second pre-primary campaign statement. Since you had not completed and filed the pre-primary statement, covering the period from April 27, 1976 through May 24, 1976, you asked whether you could extend the period covered by the report one day so that you could include receipt of the late contribution. I indicated that your second pre-primary campaign statement could cover the period from April 27, 1976 through May 25, 1976 and that you would not have to file a separate report regarding the late contribution. The beginning date, therefore, for your post-primary election statement will be May 26, 1976.\n\nIf we can be of further assistance, please contact us again.\n\nSincerely,\n\nNAN HAMBLETON  \nSpecial Compliance Representative\n\nNH:mak\n\ncc: Political Reform Unit  \nSecretary of State's Office\n\nbcc: Jeanne"
+  },
+  "parsed": {
+    "date": "1976-05-27",
+    "date_raw": "May 27, 1976",
+    "requestor_name": "Clemmons",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "May the reporting period for a pre-primary campaign statement be extended by one day to include a late contribution received after the original closing date?",
+    "conclusion_synthetic": "Yes, the pre-primary campaign statement may be extended to cover the additional day (April 27 through May 25, 1976) to include the late contribution, and no separate report is required. The next post-primary statement period will begin on May 26, 1976.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is confirmation of prior telephone conversation rather than response to written request. No formal QUESTION or CONCLUSION sections present. Advice is provided in letter body. Parsing confidence high due to clear subject matter and directive advice."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T17:18:13.607521Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: May the reporting period for a pre-primary campaign statement be extended by one day to include a late contribution received after the original closing date?\n\nCONCLUSION: Yes, the pre-primary campaign statement may be extended to cover the additional day (April 27 through May 25, 1976) to include the late contribution, and no separate report is required. The next post-primary statement period will begin on May 26, 1976.",
+    "qa_source": "synthetic",
+    "first_500_words": "May 27, 1976 Ms. Judy Clemmons 5106 Federal Boulevard Suite 113B San Diego, California 92105 Dear Ms. Clemmons: RE: Campaign Statement for Assemblyman Pete Chacon, 79th Assembly District This letter is to confirm our May 25, 1976 telephone conversation regarding the reporting of late contributions. You stated that Assemblyman Chacon received a late contribution on May 25, 1976, one day after the closing date for the second pre-primary campaign statement. Since you had not completed and filed the pre-primary statement, covering the period from April 27, 1976 through May 24, 1976, you asked whether you could extend the period covered by the report one day so that you could include receipt of the late contribution. I indicated that your second pre-primary campaign statement could cover the period from April 27, 1976 through May 25, 1976 and that you would not have to file a separate report regarding the late contribution. The beginning date, therefore, for your post-primary election statement will be May 26, 1976. If we can be of further assistance, please contact us again. Sincerely, NAN HAMBLETON Special Compliance Representative NH:mak cc: Political Reform Unit Secretary of State's Office bcc: Jeanne",
+    "summary": "FPPC confirms in this letter that Assemblyman Pete Chacon's second pre-primary campaign statement covering April 27 through May 24, 1976 can be extended one day to May 25, 1976 to include a late contribution received on that date, eliminating the need for a separate report."
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "90101",
+  "year": 1990,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1990/90101.pdf",
+  "pdf_sha256": "250526e8f44be54ffc353ff80e3c4eb02635289717838e5441eb2ab09efd59e5",
+  "local_pdf_path": "raw_pdfs/1990/90101.pdf",
+  "source_metadata": {
+    "title_raw": "Phillips, John Year: 1990 Advice Letter # 90101",
+    "tags": [
+      "1990",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:10:25",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1990&tagCount=1&page=61"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T17:02:18.904200Z",
+    "page_count": 1,
+    "word_count": 72,
+    "char_count": 529,
+    "quality_score": 0.7574092201981464,
+    "olmocr_cost": 0.0024260600000000003,
+    "native_word_count": 89,
+    "haiku_cost": 0.0020112000000000003
+  },
+  "content": {
+    "full_text": "JOHN\nPHILLIPS\nDISTRICT ATTORNEY\nSan Joaquin County\n\nOffice of the District Attorney\nSan Joaquin County Courthouse, Rm. 202\n222 E Weber Ave. Stockton, California 95202\nP.O.Box 990, Stockton, California 95201\nTelephone:(209) 944-3811\n\nFebruary 1, 1990\n\nFair Political Practices Board\nP.O. Box 807\nSacramento, CA  95804-0807\n\nAttention:  Margaret Ellison\n\nMs. Ellison:\n\nPlease send a note confirming our conversation regarding donation\nto Injured Police Officer's Trust Fund.\n\nSincerely,\n\nJOHN D. PHILLIPS,\nDistrict Attorney\n\nJDP/sd",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1990-02-01",
+    "date_raw": "February 1, 1990",
+    "requestor_name": "Phillips",
+    "requestor_title": "District Attorney",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-19T21:02:57.994455Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "February 1, 1990 Fair Political Practices Board P.O. Box 807 Sacramento, CA 95804-0807 Attention: Margaret Ellison Ms. Ellison: Please send a note confirming our conversation regarding donation to Injured Police Officer's Trust Fund. Sincerely, JOHN D. PHILLIPS, District Attorney JDP/sd",
+    "qa_source": "extracted",
+    "first_500_words": "February 1, 1990 Fair Political Practices Board P.O. Box 807 Sacramento, CA 95804-0807 Attention: Margaret Ellison Ms. Ellison: Please send a note confirming our conversation regarding donation to Injured Police Officer's Trust Fund. Sincerely, JOHN D. PHILLIPS, District Attorney JDP/sd",
+    "summary": null
+  }
+}

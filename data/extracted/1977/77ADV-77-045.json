@@ -1,0 +1,71 @@
+{
+  "id": "77ADV-77-045",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-045.PDF",
+  "pdf_sha256": "10f100db9a8c9c8b91283dc561814f3e10076cb9bf67c59b7f69c9e8b9a000a4",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-045.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-045",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:20:03",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=15"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-07T17:05:46.830805Z",
+    "page_count": 1,
+    "word_count": 61,
+    "char_count": 362,
+    "quality_score": 0.33999999999999997,
+    "olmocr_cost": 0.00440492,
+    "native_word_count": 75
+  },
+  "content": {
+    "full_text": "If legal services are paid for with personal funds they are usually deemed personal rather than political in nature. If funds are raised, then the standard set forth in the Hongisto letter is applicable, i.e., are the funds raised unrelated to the filer's status as a candidate or officeholder and used solely for personal purposes.\n\nStaff Memo / Ted Prew\n77-045",
+    "full_text_markdown": "If legal services are paid for with personal funds they are usually deemed personal rather than political in nature. If funds are raised, then the standard set forth in the Hongisto letter is applicable, i.e., are the funds raised unrelated to the filer's status as a candidate or officeholder and used solely for personal purposes.\n\nStaff Memo / Ted Prew\n77-045"
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether legal services paid for with personal funds or funds raised for personal purposes constitute political expenses requiring disclosure.",
+    "conclusion_synthetic": "Legal services paid with personal funds are typically deemed personal rather than political in nature. When funds are raised, the applicable standard requires determining whether the funds are unrelated to the filer's candidate or officeholder status and used solely for personal purposes, following the standard established in the Hongisto letter.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.65,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Staff memo format with no clear QUESTION or CONCLUSION sections. Content appears to be advisory guidance on legal services expense classification. Document identification shows Staff Memo designation by Ted Prew, 77-045. High extraction confidence on synthetic summaries due to clear policy statement; lower overall confidence due to lack of formal section structure."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T17:05:46.830805Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether legal services paid for with personal funds or funds raised for personal purposes constitute political expenses requiring disclosure.\n\nCONCLUSION: Legal services paid with personal funds are typically deemed personal rather than political in nature. When funds are raised, the applicable standard requires determining whether the funds are unrelated to the filer's candidate or officeholder status and used solely for personal purposes, following the standard established in the Hongisto letter.",
+    "qa_source": "synthetic",
+    "first_500_words": "If legal services are paid for with personal funds they are usually deemed personal rather than political in nature. If funds are raised, then the standard set forth in the Hongisto letter is applicable, i.e., are the funds raised unrelated to the filer's status as a candidate or officeholder and used solely for personal purposes. Staff Memo / Ted Prew 77-045",
+    "summary": "FPPC staff memo addressing the classification of legal services expenses as personal versus political, establishing that personal fund payments are typically non-political while raised funds must meet specific criteria under the Hongisto standard."
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "77ADV-77-508",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-508.PDF",
+  "pdf_sha256": "adc4257e0f6b84c17f1729b9aafd5d33716175ae1e3a9899f82f3f42d461ff0f",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-508.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-508",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:20:16",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=18"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:13.606043Z",
+    "page_count": 1,
+    "word_count": 180,
+    "char_count": 1061,
+    "quality_score": 0.55,
+    "olmocr_cost": null,
+    "native_word_count": 180
+  },
+  "content": {
+    "full_text": ",;:)t:! '-' l...LUH \n0 I L. U I \n1-17-77 \np.2 \nTrustee with Legal Title to Trust Assets \nMany trustees have \ntitle to all of the assets of \ntrusts which they administer. \nA trustee who has legal title, but \nno beneficial interest in the trust is not deemed to own any por-\ntion of the trust \"directly, indirectly or beneficially\". \nAc-\ncordingly, a public official, who as a trustee possesses legal \ntitle to trust assets, need not disclose such assets or disqualify \nhimself from governmental decisions which may materially affect \nsuch assets. \nHowever, if the trust were a source of income to the \ntrustee by virtue of payments made to him for administering the \ntrust, he would be required to disclose the trust as~ a source of \nincome and disqualify himself from \ngovernmental decision which \nmay materi \nly \nct the trust. \nHe still would not have to \ns-\nclose the assets of the trust nor disqualify himself from govern-\nmental decisions which could rna \nally affect an individual \ntrust asset but which would not materially affect the trust as \na whole. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "A trustee who has legal title but no beneficial interest in a trust is not deemed to own any portion of the trust \"directly, indirectly or beneficially\" and therefore need not disclose such assets or disqualify from governmental decisions affecting them, unless the trust is a source of income to the trustee.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether a public official serving as trustee with legal title to trust assets must disclose such assets and disqualify from governmental decisions affecting them.",
+    "conclusion_synthetic": "A public official who is a trustee with legal title but no beneficial interest need not disclose trust assets or disqualify from decisions affecting them, unless the trust provides income to the trustee, in which case disclosure and disqualification are required only at the trust level, not individual assets.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.72,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document lacks clear question and conclusion section headers. Text appears to be page 2 of a multi-page document (p.2 notation visible). Content is advisory guidance rather than response to specific question format. Some text is partially illegible or cut off at edges ('materi ly ct'). Date appears to be 1-17-77."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:13.606043Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether a public official serving as trustee with legal title to trust assets must disclose such assets and disqualify from governmental decisions affecting them.\n\nCONCLUSION: A trustee who has legal title but no beneficial interest in a trust is not deemed to own any portion of the trust \"directly, indirectly or beneficially\" and therefore need not disclose such assets or disqualify from governmental decisions affecting them, unless the trust is a source of income to the trustee.",
+    "qa_source": "mixed",
+    "first_500_words": ",;:)t:! '-' l...LUH 0 I L. U I 1-17-77 p.2 Trustee with Legal Title to Trust Assets Many trustees have title to all of the assets of trusts which they administer. A trustee who has legal title, but no beneficial interest in the trust is not deemed to own any por- tion of the trust \"directly, indirectly or beneficially\". Ac- cordingly, a public official, who as a trustee possesses legal title to trust assets, need not disclose such assets or disqualify himself from governmental decisions which may materially affect such assets. However, if the trust were a source of income to the trustee by virtue of payments made to him for administering the trust, he would be required to disclose the trust as~ a source of income and disqualify himself from governmental decision which may materi ly ct the trust. He still would not have to s- close the assets of the trust nor disqualify himself from govern- mental decisions which could rna ally affect an individual trust asset but which would not materially affect the trust as a whole.",
+    "summary": "The FPPC advises that a public official serving as a trustee with legal title to trust assets need not disclose or disqualify from decisions affecting those assets, unless the trust provides income to the official."
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "82A093",
+  "year": 1982,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1982/82A093.PDF",
+  "pdf_sha256": "36545252c046e3c946c9eaded8ad73069427cb3b075dcb3d1fa0255c861ffd8a",
+  "local_pdf_path": "raw_pdfs/1982/82A093.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1982 Advice Letter # 82A093",
+    "tags": [
+      "1982",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:31:15",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1982&tagCount=1&page=23"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:36:58.809127Z",
+    "page_count": 1,
+    "word_count": 320,
+    "char_count": 2010,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 320
+  },
+  "content": {
+    "full_text": "TO: \nState of California \nMemorandum \nAdvice Files, Sections 89001, \n18901 and 82041.5 \nFROM: \nFair Political Pract~c\"e~§5_ACommission \nDiane Maura Fishburn(Tv D \nSUBJECT: Prohibited Mass Mailing \nMay 20, 1982 \nFPPC No. M-82-093 \nVan Ajemian of Assemblyman Martinez' District Office called with \nthe following question. \nAssemblyman Martinez has filed a declaration \nof candidacy for a congressional seat. \nA member of the Commission on \nAging for the City of Montebello (within his district) wrote him \nrequesting that he send a mailing to elderly citizens informing them \nof the new state homeowners' and renters' assistance program for the \nelderly. \nMartinez has a list of 11,000 senior citizens in his \ndistrict. \nThe proposed mailing would have information on the \nprogram, and refer the senior citizens to state and local agencies \nfor futher information. \nThe mailing would not contain any statements \nconcerning Martinez' candidacy. \nI advised Mr. Ajemian that this would be a prohibited mass \nmailing within the meaning of Section 89001 for the following \nreasons. \nMartinez has filed a declaration of candidacy. \nThe fact \nthat he is running for federal office does not make any difference. \nThe proposed mass mailing does not fall within any of the exceptions \nin Section 18901. \nMr. Ajemian argued that the mailing was being done \nin response to a request by a constituent. \nI explained to him that \nwhile mailings sent in response to a request are not included in the \ndefinition of a mass mailing in Section 82041.5, the person \nrequesting the mailing must be the person who receives the mailing. \nOtherwise, the prohibition could be easily avoided. \nThis is not the \ncase here. \nI further explained to Mr. Ajemian that the mailing could go out \nfrom a legislative committee on whiich Assemblyman Martinez sits so \nlong as he does not sign the letter or otherwise indicate that it is \ncoming from him and his name appears only on the letterhead in the \nlist of committee member names. \nDMF: km \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1982-05-20",
+    "date_raw": "May 20, 1982",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Assemblyman Martinez has filed a declaration of candidacy for a congressional seat. A member of the Commission on Aging for the City of Montebello (within his district) wrote him requesting that he send a mailing to elderly citizens informing them of the new state homeowners' and renters' assistance program for the elderly. Martinez has a list of 11,000 senior citizens in his district. The proposed mailing would have information on the program, and refer the senior citizens to state and local agencies for futher information. The mailing would not contain any statements concerning Martinez' candidacy.",
+    "conclusion": "This would be a prohibited mass mailing within the meaning of Section 89001. Martinez has filed a declaration of candidacy, and the fact that he is running for federal office does not make any difference. The proposed mass mailing does not fall within any of the exceptions in Section 18901. While mailings sent in response to a request are not included in the definition of a mass mailing in Section 82041.5, the person requesting the mailing must be the person who receives the mailing. The mailing could go out from a legislative committee on which Assemblyman Martinez sits so long as he does not sign the letter or otherwise indicate that it is coming from him and his name appears only on the letterhead in the list of committee member names.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Can Assemblyman Martinez, who has filed a declaration of candidacy for Congress, send a mass mailing to 11,000 senior citizens in his district about a state homeowners' and renters' assistance program, even though the mailing contains no campaign-related statements?",
+    "conclusion_synthetic": "The proposed mailing constitutes a prohibited mass mailing under Section 89001 because Martinez has filed a declaration of candidacy and the mailing does not qualify for statutory exceptions. However, the mailing could proceed from a legislative committee if Martinez does not sign it or identify it as coming from him personally.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is a memorandum advice letter from FPPC staff (Diane Maura Fishburn). Question and conclusion sections extracted from body text rather than formal section headers. Clear advice provided on prohibited mass mailing restrictions under FPPC Political Reform Act sections."
+  },
+  "citations": {
+    "government_code": [
+      "82041",
+      "89001"
+    ],
+    "regulations": [],
+    "prior_opinions": [
+      "M-82-093"
+    ],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.5,
+    "classified_at": "2026-02-06T18:36:58.809127Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Assemblyman Martinez has filed a declaration of candidacy for a congressional seat. A member of the Commission on Aging for the City of Montebello (within his district) wrote him requesting that he send a mailing to elderly citizens informing them of the new state homeowners' and renters' assistance program for the elderly. Martinez has a list of 11,000 senior citizens in his district. The proposed mailing would have information on the program, and refer the senior citizens to state and local agencies for futher information. The mailing would not contain any statements concerning Martinez' candidacy.\n\nCONCLUSION: This would be a prohibited mass mailing within the meaning of Section 89001. Martinez has filed a declaration of candidacy, and the fact that he is running for federal office does not make any difference. The proposed mass mailing does not fall within any of the exceptions in Section 18901. While mailings sent in response to a request are not included in the definition of a mass mailing in Section 82041.5, the person requesting the mailing must be the person who receives the mailing. The mailing could go out from a legislative committee on which Assemblyman Martinez sits so long as he does not sign the letter or otherwise indicate that it is coming from him and his name appears only on the letterhead in the list of committee member names.",
+    "qa_source": "mixed",
+    "first_500_words": "TO: State of California Memorandum Advice Files, Sections 89001, 18901 and 82041.5 FROM: Fair Political Pract~c\"e~§5_ACommission Diane Maura Fishburn(Tv D SUBJECT: Prohibited Mass Mailing May 20, 1982 FPPC No. M-82-093 Van Ajemian of Assemblyman Martinez' District Office called with the following question. Assemblyman Martinez has filed a declaration of candidacy for a congressional seat. A member of the Commission on Aging for the City of Montebello (within his district) wrote him requesting that he send a mailing to elderly citizens informing them of the new state homeowners' and renters' assistance program for the elderly. Martinez has a list of 11,000 senior citizens in his district. The proposed mailing would have information on the program, and refer the senior citizens to state and local agencies for futher information. The mailing would not contain any statements concerning Martinez' candidacy. I advised Mr. Ajemian that this would be a prohibited mass mailing within the meaning of Section 89001 for the following reasons. Martinez has filed a declaration of candidacy. The fact that he is running for federal office does not make any difference. The proposed mass mailing does not fall within any of the exceptions in Section 18901. Mr. Ajemian argued that the mailing was being done in response to a request by a constituent. I explained to him that while mailings sent in response to a request are not included in the definition of a mass mailing in Section 82041.5, the person requesting the mailing must be the person who receives the mailing. Otherwise, the prohibition could be easily avoided. This is not the case here. I further explained to Mr. Ajemian that the mailing could go out from a legislative committee on whiich Assemblyman Martinez sits so long as he does not sign the letter or otherwise indicate that it is coming from him and his name appears only on the letterhead in the list of committee member names. DMF: km",
+    "summary": "FPPC advises that Assemblyman Martinez cannot send a mass mailing to 11,000 senior citizens about a state assistance program after filing a declaration of candidacy for Congress, but suggests the mailing could come from a legislative committee if properly attributed."
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "81A117",
+  "year": 1981,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1981/81A117.PDF",
+  "pdf_sha256": "096a0dae8e1b8aaa7528d33c6d670729c3b348e9a5be64ac3c76abb23fd906b2",
+  "local_pdf_path": "raw_pdfs/1981/81A117.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1981 Advice Letter # 81A117",
+    "tags": [
+      "Advice Letter",
+      "1981"
+    ],
+    "scraped_at": "2026-01-31 15:28:42",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1981&tagCount=1&page=9"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:01.463462Z",
+    "page_count": 3,
+    "word_count": 374,
+    "char_count": 2168,
+    "quality_score": 0.5975,
+    "olmocr_cost": null,
+    "native_word_count": 374
+  },
+  "content": {
+    "full_text": "P.O. BOX 807 • SACRAMENTO, 95804 ••• 1100 \nAdministration \nExecutive/legel \n322·590l \nEnforc:emer-f \nStatements \nEconomic Interes.t \n322·5660 \nHelen Coney \nAdministrative Assistant to \nSenator John V. Briggs \nState Capitol \nSacramento, CA 95814 \nDear Ms. Coney: \n322-6441 \nFebruary 25, 1981 \n}}7 \nThis is in response to your request that I confirm in \nting the advice which I provided to you over the tel \non February 4, 1981. \n322 <';444 \nYou asked whether a legislator is required to report h s \ntaking a minor child (granddaughter, niece) to Dis \nand on \na pass provided by Disneyland on Legislator's Day at \nsneyland. \nThe Political Reform Act requires a \nany gift of $25 or more on his Statement of \nThe term gift is defined by the Act as \"any \nislator to report \nE \nc Interests. \nto the \nextent that cons \nion of equal or gre ter value is not \nreceived.\" \nGovernment Code Section 82028. \n\" \nturn, is defined in Section 82044 to mean \"a \nbution, trans \n, loan, advance, \nit, ift or other \ns \nrendering of money, property, services or anything else of \nva \n, whether tangible or int \nIe.\" \nS \ne the campI \ntickets described in your letter entitle the holder to attend \nspecified events \nthout paying the \nssion price ch \nto other members of the public, such complimen \nckets \nconstitute items of value. \nMoreover, s \nce the value 0 \nsuch \ntickets is in the entitlement to attend specified even \nfree \nof charge, it makes no difference whether you use the pass \nor \nyour niece or for yourself. \ntickets are \"payments\" within \nthe meaning of Section 82044, and since \nare complimentary, \n\n\nHel~n Coney \nFebruary 25, 19 I \nPage Two \n/ \nwe can assume that members of the legislature have not \nequal or greater consideration in return for them. \nthe complimentary tickets constitute gifts which must be r \nby each member on his or her Statement of Economic Interests. \nPlease feel free to call me i \nyou have any further questions. \nSincerely, \nAl \nHughes \nDocuments Exam \nAH:ma \n\n\n. Alice \nDe \nt \nl\\TE \nEPU L1CAN VV \nP \nb u \n! \n1 8 \nof \nncr \nt.aking a \na pass \nand (a \nCode. \nu provide s \nthing \nte for this \nin writing. \nld \nto have \ns as soon as possible. \nt to \ns \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1981-02-25",
+    "date_raw": "February 25, 1981",
+    "requestor_name": "Coney",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "You asked whether a legislator is required to report his taking a minor child (granddaughter, niece) to Disneyland and on a pass provided by Disneyland on Legislator's Day at Disneyland.",
+    "conclusion": "The complimentary tickets constitute gifts which must be reported by each member on his or her Statement of Economic Interests.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Must a legislator report complimentary Disneyland passes received on Legislator's Day as gifts on their Statement of Economic Interests, regardless of whether the pass is used by the legislator or a minor child?",
+    "conclusion_synthetic": "Yes, complimentary Disneyland passes must be reported as gifts because they constitute items of value (entitlement to attend events free of charge) exceeding $25, and it makes no difference whether the legislator or a minor child uses the pass.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is partially illegible with OCR artifacts and image quality issues. Question and conclusion sections extracted from fragmented text. Confidence reduced due to text clarity issues, but core legal question and answer are identifiable."
+  },
+  "citations": {
+    "government_code": [
+      "82028",
+      "82044"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:37:01.463462Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: You asked whether a legislator is required to report his taking a minor child (granddaughter, niece) to Disneyland and on a pass provided by Disneyland on Legislator's Day at Disneyland.\n\nCONCLUSION: The complimentary tickets constitute gifts which must be reported by each member on his or her Statement of Economic Interests.",
+    "qa_source": "mixed",
+    "first_500_words": "P.O. BOX 807 • SACRAMENTO, 95804 ••• 1100 Administration Executive/legel 322·590l Enforc:emer-f Statements Economic Interes.t 322·5660 Helen Coney Administrative Assistant to Senator John V. Briggs State Capitol Sacramento, CA 95814 Dear Ms. Coney: 322-6441 February 25, 1981 }}7 This is in response to your request that I confirm in ting the advice which I provided to you over the tel on February 4, 1981. 322 <';444 You asked whether a legislator is required to report h s taking a minor child (granddaughter, niece) to Dis and on a pass provided by Disneyland on Legislator's Day at sneyland. The Political Reform Act requires a any gift of $25 or more on his Statement of The term gift is defined by the Act as \"any islator to report E c Interests. to the extent that cons ion of equal or gre ter value is not received.\" Government Code Section 82028. \" turn, is defined in Section 82044 to mean \"a bution, trans , loan, advance, it, ift or other s rendering of money, property, services or anything else of va , whether tangible or int Ie.\" S e the campI tickets described in your letter entitle the holder to attend specified events thout paying the ssion price ch to other members of the public, such complimen ckets constitute items of value. Moreover, s ce the value 0 such tickets is in the entitlement to attend specified even free of charge, it makes no difference whether you use the pass or your niece or for yourself. tickets are \"payments\" within the meaning of Section 82044, and since are complimentary, Hel~n Coney February 25, 19 I Page Two / we can assume that members of the legislature have not equal or greater consideration in return for them. the complimentary tickets constitute gifts which must be r by each member on his or her Statement of Economic Interests. Please feel free to call me i you have any further questions. Sincerely, Al Hughes Documents Exam AH:ma . Alice De t l\\TE EPU L1CAN VV P b u ! 1 8 of ncr t.aking a a pass and (a Code. u provide s thing te for this in writing. ld to have s as soon as possible. t to s",
+    "summary": "FPPC advises that complimentary Disneyland passes received on Legislator's Day must be reported as gifts on the Statement of Economic Interests, as they constitute items of value under the Political Reform Act regardless of who uses them."
+  }
+}

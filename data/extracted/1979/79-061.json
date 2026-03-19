@@ -1,0 +1,75 @@
+{
+  "id": "79-061",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-061.PDF",
+  "pdf_sha256": "61881ac52490ff179f61baf36ea7e0d0b83fbaa72201890af093f2e746b5591b",
+  "local_pdf_path": "raw_pdfs/1979/79-061.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1979 Advice Letter # 79-061",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:26:22",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=14"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-26T16:12:40.661522Z",
+    "page_count": 1,
+    "word_count": 324,
+    "char_count": 2056,
+    "quality_score": 0.8742817901234569,
+    "olmocr_cost": 0.00265826,
+    "native_word_count": 14,
+    "haiku_cost": 0.00328
+  },
+  "content": {
+    "full_text": "State of California\n\nMemorandum                                M-N19-061\n\nTo    : File                                Date  :Sept. 24, 1979\n\n\nFrom  : FAIR POLITICAL PRACTICES COMMISSION\n         John Giansello\n\nSubject:\n\n\nMr. William Kirby, co-treasurer of Quentin Kopp's Campaign for\nMayor of San Francisco, called today (Sept. 21, 1979). Mr. Kopp\nhas a controlled committee, Friends of Kopp, which was formed\nfor and has devoted itself entirely to keeping Supervisor Kopp\nin touch with his district constituency. It does not participate\nand has not participated in the mayoral campaign. Mr. Kirby asks\nwhether Friends of Kopp must report on the mayoral election\nschedule or whether it need only file semi-annual reports.\n\nAfter consultation with Bob Stern I determined that Friends of\nKopp is a \"committee supporting or opposing a candidate\" by the\nterms of Government Code Section 84200 and so must file under that\nsection in connection with the election. I have so informed\nMr. Kirby.\n\nWe have further agreed that the non-involvement in the mayoral\ncampaign of Friends of Kopp and the strict separation of its funds\nfrom mayoral transactions are not material to disposition of the\nissue. The significant fact in this case is that the office in\nwhich Mr. Kopp is an incumbent, supervisor, and the office which\nhe is seeking, mayor, are both offices in the same jurisdiction,\nthe City and County of San Francisco.\n\nWere Mr. Kopp an incumbent in one jurisdiction, for example, as a\ncity councilman, seeking an office in another jurisdiction, for\nexample, a seat in the state legislature, our advice might well\nbe different. We might conclude that a committee formed for the\npurpose of supporting the incumbent in his office of incumbency\nand confining its activities to that purpose and having no acti-\nvity during the period of campaigning for the office in another\njurisdiction need not file on the election schedule for the latter\noffice but might file only semi-annual reports as required by\nSection 84206.\n\n\ncc: Bob Stern\n    Gina\n    Jay\n    John K.",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1979-09-24",
+    "date_raw": "September 24, 1979",
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Whether Friends of Kopp must report on the mayoral election schedule or only file semi-annual reports.",
+    "conclusion": "Friends of Kopp is a \"committee supporting or opposing a candidate\" under Government Code Section 84200 and must file under that section in connection with the mayoral election. The non-involvement in the mayoral campaign and strict separation of funds are not material; the significant fact is that both the supervisor office (incumbent) and mayor office (sought) are in the same jurisdiction (City and County of San Francisco).",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Mr. William Kirby inquired whether Friends of Kopp, a committee formed by Quentin Kopp for his supervisor campaign, must file on the mayoral election schedule or only file semi-annual reports for Mr. Kopp's mayoral candidacy.",
+    "conclusion_synthetic": "The FPPC determined that Friends of Kopp must file on the mayoral election schedule under Government Code Section 84200 because both offices are within the same jurisdiction, regardless of the committee's non-involvement in the mayoral campaign or fund separation. The advice would differ if the incumbent and sought offices were in different jurisdictions.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document lacks formal QUESTION and CONCLUSION section headers but contains clear inquiry and advice determination. Hypothetical scenario included regarding different jurisdictions. Internal routing notation suggests this is memorandum to file for administrative record."
+  },
+  "citations": {
+    "government_code": [
+      "84200",
+      "84206"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-07T16:50:45.433920Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether Friends of Kopp must report on the mayoral election schedule or only file semi-annual reports.\n\nCONCLUSION: Friends of Kopp is a \"committee supporting or opposing a candidate\" under Government Code Section 84200 and must file under that section in connection with the mayoral election. The non-involvement in the mayoral campaign and strict separation of funds are not material; the significant fact is that both the supervisor office (incumbent) and mayor office (sought) are in the same jurisdiction (City and County of San Francisco).",
+    "qa_source": "mixed",
+    "first_500_words": "This memorandum, dated September 24, 1979, is from the Fair Political Practices Commission to File. It discusses the status of Friends of Kopp, a committee formed by Quentin Kopp for his campaign as Supervisor in San Francisco. Mr. William Kirby, co-treasurer of Quentin Kopp's Campaign for Mayor of San Francisco, called to inquire whether Friends of Kopp must report on the mayoral election schedule or only file semi-annual reports. The commission determined that Friends of Kopp is a \"committee supporting or opposing a candidate\" under Government Code Section 84200 and must file under that section in connection with the election. The commission also agreed that the non-involvement in the mayoral campaign of Friends of Kopp and the strict separation of its funds from mayoral transactions are not material to disposition of the issue. The significant fact is that both the office in which Mr. Kopp is an incumbent, supervisor, and the office he is seeking, mayor, are both offices in the same jurisdiction, the City and County of San Francisco. If Mr. Kopp were an incumbent in one jurisdiction, such as a city councilman, seeking an office in another jurisdiction, like a seat in the state legislature, the advice might be different. In such a case, the commission might conclude that a committee formed for the purpose of supporting the incumbent in his office of incumbency and confining its activities to that purpose and having no activity during the period of campaigning for the office in another jurisdiction need not file on the election schedule for the latter office but might file only semi-annual reports as required by Section 84206. cc: Bob Stern Gina Jay John K.",
+    "summary": "This memorandum from the FPPC addresses whether Friends of Kopp must file on the mayoral election schedule or only file semi-annual reports for Quentin Kopp's mayoral candidacy. The FPPC concluded that filing on the election schedule is required under Government Code Section 84200 because both the supervisor position (incumbent) and mayor position (sought) are in the same jurisdiction."
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "UNK-91-10362",
+  "year": 1991,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1991/91130.pdf",
+  "pdf_sha256": "53a50ec13060eec1ba86dcb7e7eed476c58e6a177da37d2823dbc043a5300e22",
+  "local_pdf_path": "raw_pdfs/1991/91130.pdf",
+  "source_metadata": {
+    "title_raw": "1991-91130-Savona, Paul",
+    "tags": [
+      "1991",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:19:33",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1991&tagCount=1&page=52"
+  },
+  "extraction": {
+    "method": "haiku_vision",
+    "extracted_at": "2026-02-27T23:19:41.273936Z",
+    "page_count": 1,
+    "word_count": 257,
+    "char_count": 1519,
+    "quality_score": 0.8780665883052313,
+    "olmocr_cost": 0.0026187,
+    "native_word_count": 109,
+    "haiku_cost": 0.0028432
+  },
+  "content": {
+    "full_text": "SAVONA AND ASSOCIATES\nGOVERNMENT REAL ESTATE\nAND LEASING CONSULTANTS\n\n4501 VALMONTE DRIVE, SACRAMENTO, CA 95864 • (916) 482-4752\n\nBlanca Breeze\nAttorney at law\nSan Mateo Practices Commission\nP.O. Box 707\nSacto, CA 95804\n\nDear Mo Breeze\n\nFollowing is the information you requested during our telephone\nconversation on 2/28/90:\n\n• Drafted 4/30/90 as Chief of the Office of Real Estate & Design,\nDepartment of General Services, State of California\n\n• I was responsible for the acquisition of properties from\nthe private sector as well as the leasing of private\nproperty for state use through a staff of 150 persons\n\n• Most leases were signed by me although negotiated by staff\n\n• A company involved in the purchase of private property\nleased by the state, County or city, he contacted me\nto serve as a consultant to them. The process as\nI understand it involves:\n\n• Purchase of the property from the private owners\n• Renegotiation of the lease with the governmental entity\nto convert the lease to a lease - purchase at a\nsavings to the entity.\n\n• Would not be involved in the negotiations or\nparticipate in the ownership or profits\n\nWould you please advise me if acting as a consultant\nto a firm which may acquire a property, the lease for\nwhich was signed by me on behalf of the state, for the purpose\nof selling the property to the state pursuant to legislative\nauthorization, constitutes a conflict of interest? Please\nnote that any sale would have to have legislative authorization\n\nThank you\n\n[Signature: Donald Born]",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1990-02-26",
+    "date_raw": "2/26/90",
+    "requestor_name": "Breeze",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": "Would you please advise me if acting as a consultant to a firm which may acquire a property, the lease for which was signed by me on behalf of the state, for the purpose of selling the property to the State pursuant to legislative authorization, constitutes a conflict of interest? Please note that any sale would have to have legislative authorization.",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "A retired state official who previously signed property leases on behalf of the State seeks advice on whether serving as a consultant to a private company seeking to acquire and resell properties leased during his tenure would constitute a conflict of interest.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an incoming request/inquiry letter from a private citizen to FPPC, not an FPPC response. No conclusion or advice section is present. Document lacks traditional section headers. Letter is dated 1991 based on document ID year assignment, though the actual letter references 1990 events."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-07T16:17:52.603659Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Would you please advise me if acting as a consultant to a firm which may acquire a property, the lease for which was signed by me on behalf of the state, for the purpose of selling the property to the State pursuant to legislative authorization, constitutes a conflict of interest? Please note that any sale would have to have legislative authorization.",
+    "qa_source": "mixed",
+    "first_500_words": "Dear Ms. Breeze, Following is the information you requested during our telephone conversation on 2/26/90. I retired 4/30/90 as Chief of the Office of Real Estate & Design, Department of General Services, State of California. - I was responsible for the acquisition of properties from the private sector as well as the leasing of private property for state use through a staff of 150 persons. - Most leases were signed by me although negotiated by staff. A Company involved in the purchase of private property leased by the state, County or City has contacted me to serve as a consultant to them. The process as I understand it involves: - Purchase of the property from the private owners - Renegotiation of the lease with the governmental entity to convert the lease to a lease-purchase at a savings to the entity. - I would not be involved in the negotiations or participate in the ownership or profits Would you please advise me if acting as a consultant to a firm which may acquire a property, the lease for which was signed by me on behalf of the state, for the purpose of selling the property to the State pursuant to legislative authorization, constitutes a conflict of interest? Please note that any sale would have to have legislative authorization. Thank you, Paul Thomson",
+    "summary": "Paul Thomson, a retired Chief of the Office of Real Estate & Design, inquires whether accepting a consultant position with a private company that may acquire state-leased properties (previously negotiated by him) and convert them to lease-purchase arrangements would create a conflict of interest."
+  }
+}

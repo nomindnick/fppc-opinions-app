@@ -1,0 +1,73 @@
+{
+  "id": "03-230",
+  "year": 2003,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2003/03-230.pdf",
+  "pdf_sha256": "1ceb831a4a1a84f490b19d2eab3b34fb9d0df2e71fb604412893684418a69674",
+  "local_pdf_path": "raw_pdfs/2003/03-230.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2003 Advice Letter # 03-230",
+    "tags": [
+      "2003",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:39:55",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2003&tagCount=1&page=30"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:23.850782Z",
+    "page_count": 1,
+    "word_count": 186,
+    "char_count": 1211,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 186
+  },
+  "content": {
+    "full_text": "Farn Polrrrcal PnacrrcEs CouvrrssroN\n428 J Street r Suite 620 o Sacramento, CA 95814-2329\n(916) 322-5660 o Fax (916) 322-0886\nOctober 10,2003\nJohn Benoit\nLocal Agency Formation Commission\nOf Lassen County\nPost Office Box2694\nGranite Bay, CA 95746\nRe\nYour Request for Advice\nOur FiIe No. W-03-230\nDear Mr. Benoit:\nThis letter confirms the receipt of your October 6,2003,request for advice wherein you\nask if the LAFCO counsel has a conflict of interest. Under the provisions of California Code of\nRegulations 18329(b)(8XB), unless you are an atthoized repreientative for the LAFCO counsel,\nfor whom you seek assistance, the Fair Political Practices Commission cannot address your\nquestion or provide analysis. Also, the Commission does not advise on past conduct. i enclose\nregulation 18329 and our pamphlet, \"Can I Vote? Conflict of Interest Overview,, for your\nexamination.\nIf you believe a violation of the Political Reform Act has occurred, you may file a\ncomplaint with our agency (form enclosed).\nShould you have any additional questions regarding this matter, please contact the\nCommission at (916) 322-5660.\nSincerely,\nLuisa Menchaca\nCounsel\nBy:\nohn W. Wallace\nGeneral Counsel\nEnclosures\nJwwjg\n7;;.,,-\"i\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2003-10-10",
+    "date_raw": "October 10,2003",
+    "requestor_name": "Benoit",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "or provide analysis. Also, the Commission does not advise on past conduct. i enclose\nregulation 18329 and our pamphlet, \"Can I Vote? Conflict of Interest Overview,, for your\nexamination.\nIf you believe a violation of the Political Reform Act has occurred, you may file a\ncomplaint with our agency (form enclosed).",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.6,
+    "has_standard_format": true,
+    "parsing_notes": "Format: ocr"
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:34:23.850782Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: or provide analysis. Also, the Commission does not advise on past conduct. i enclose\nregulation 18329 and our pamphlet, \"Can I Vote? Conflict of Interest Overview,, for your\nexamination.\nIf you believe a violation of the Political Reform Act has occurred, you may file a\ncomplaint with our agency (form enclosed).",
+    "qa_source": "extracted",
+    "first_500_words": "Farn Polrrrcal PnacrrcEs CouvrrssroN 428 J Street r Suite 620 o Sacramento, CA 95814-2329 (916) 322-5660 o Fax (916) 322-0886 October 10,2003 John Benoit Local Agency Formation Commission Of Lassen County Post Office Box2694 Granite Bay, CA 95746 Re Your Request for Advice Our FiIe No. W-03-230 Dear Mr. Benoit: This letter confirms the receipt of your October 6,2003,request for advice wherein you ask if the LAFCO counsel has a conflict of interest. Under the provisions of California Code of Regulations 18329(b)(8XB), unless you are an atthoized repreientative for the LAFCO counsel, for whom you seek assistance, the Fair Political Practices Commission cannot address your question or provide analysis. Also, the Commission does not advise on past conduct. i enclose regulation 18329 and our pamphlet, \"Can I Vote? Conflict of Interest Overview,, for your examination. If you believe a violation of the Political Reform Act has occurred, you may file a complaint with our agency (form enclosed). Should you have any additional questions regarding this matter, please contact the Commission at (916) 322-5660. Sincerely, Luisa Menchaca Counsel By: ohn W. Wallace General Counsel Enclosures Jwwjg 7;;.,,-\"i",
+    "summary": null
+  }
+}

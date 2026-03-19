@@ -1,0 +1,71 @@
+{
+  "id": "77ADV-77-164",
+  "year": 1977,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1977/77ADV-77-164.PDF",
+  "pdf_sha256": "c46bab63774c0a92e10f3a36dca97b98933fb1828d17c7e0e2efc3bab9a7e6cd",
+  "local_pdf_path": "raw_pdfs/1977/77ADV-77-164.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1977ADV Advice Letter # 77ADV-77-164",
+    "tags": [
+      "1977",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:21:40",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=37"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:37:15.661543Z",
+    "page_count": 1,
+    "word_count": 134,
+    "char_count": 793,
+    "quality_score": 0.515,
+    "olmocr_cost": null,
+    "native_word_count": 134
+  },
+  "content": {
+    "full_text": "> 5tCl-! of California \nMemorandum \nTo \nMemo to File \nDate \n3-1-77 \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nDawn \nSubject: \nKen Cory's statement of Economic Interests \nMyrna, of Ken Cory's office called today and had the following \nquestion: \nIf Mr. Cory has an equity interest in a partnership \nand he alsa loaned the entity additional financing, \nwhich is quaranteed, does he have to report the \nequity interest and the loan to the entity? \n, \nAfter consulting Del and Mike, we determined that the \nloan to the entity would not have to be reported as an \ninvestment and would only be reported when Mr. Cory was \nrepaid at which time it would be reported as income. \nI returned the call to Myrna and she transfered the call \nto Peter Pelkover, who I advised of the reporting requirement. \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "If Mr. Cory has an equity interest in a partnership \nand he alsa loaned the entity additional financing, \nwhich is quaranteed, does he have to report the \nequity interest and the loan to the entity? \n, \nAfter consulting Del and Mike, we determined that the \nloan to the entity would not have to be reported as an \ninvestment and would only be reported when Mr. Cory was \nrepaid at which time it would be reported as income. \nI returned the call to Myrna and she transfered the call \nto Peter Pelkover, who I advised of the reporting requirement.",
+    "conclusion": "The loan to the entity would not have to be reported as an investment and would only be reported when Mr. Cory was repaid at which time it would be reported as income.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Whether an individual with an equity interest in a partnership must report both the equity interest and a loan provided to the partnership entity for statement of economic interests purposes.",
+    "conclusion_synthetic": "The equity interest must be reported, but the loan does not need to be reported as an investment; rather, it should only be reported as income when repayment is received.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern; LLM: Internal FPPC memorandum format rather than formal advice letter; contains question and answer sections though not formally labeled. Date 3-1-77, subject concerns Statement of Economic Interests reporting requirements. Minor typos in source document ('quaranteed', 'transfered') preserved in extraction."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:37:15.661543Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: If Mr. Cory has an equity interest in a partnership \nand he alsa loaned the entity additional financing, \nwhich is quaranteed, does he have to report the \nequity interest and the loan to the entity? \n, \nAfter consulting Del and Mike, we determined that the \nloan to the entity would not have to be reported as an \ninvestment and would only be reported when Mr. Cory was \nrepaid at which time it would be reported as income. \nI returned the call to Myrna and she transfered the call \nto Peter Pelkover, who I advised of the reporting requirement.\n\nCONCLUSION: The loan to the entity would not have to be reported as an investment and would only be reported when Mr. Cory was repaid at which time it would be reported as income.",
+    "qa_source": "mixed",
+    "first_500_words": "> 5tCl-! of California Memorandum To Memo to File Date 3-1-77 From FAIR POLITICAL PRACTICES COMMISSION Dawn Subject: Ken Cory's statement of Economic Interests Myrna, of Ken Cory's office called today and had the following question: If Mr. Cory has an equity interest in a partnership and he alsa loaned the entity additional financing, which is quaranteed, does he have to report the equity interest and the loan to the entity? , After consulting Del and Mike, we determined that the loan to the entity would not have to be reported as an investment and would only be reported when Mr. Cory was repaid at which time it would be reported as income. I returned the call to Myrna and she transfered the call to Peter Pelkover, who I advised of the reporting requirement.",
+    "summary": "FPPC memorandum addressing whether Ken Cory must report both an equity interest in a partnership and a loan made to that partnership entity on his statement of economic interests."
+  }
+}

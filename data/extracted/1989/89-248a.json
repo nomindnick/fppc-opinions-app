@@ -1,0 +1,73 @@
+{
+  "id": "89-248a",
+  "year": 1989,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1989/fppc-advice/89-248a.PDF",
+  "pdf_sha256": "ab6f3edfbaea1cc2e0fce34f2a65a28d56e8f1db1a44c94d4a8ee8e9b5ed899c",
+  "local_pdf_path": "raw_pdfs/1989/89-248a.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1989 Advice Letter # 89-248a",
+    "tags": [
+      "Advice Letter",
+      "1989"
+    ],
+    "scraped_at": "2026-01-31 16:03:45",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1989&tagCount=1&page=38"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:55.956750Z",
+    "page_count": 1,
+    "word_count": 336,
+    "char_count": 2120,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 336
+  },
+  "content": {
+    "full_text": "California \nFair Political \nPractices Commission \nApril 28, 1989 \nRobert E. Leidigh \nOlson, connelly, Hagel & Fong \n300 capitol Mall, suite 350 \nSacramento, CA \n95814 \nRe: \nLetters No. 89-247 and 248 \nDear Mr. Leidigh: \nYour letter requesting advice under the Political Reform Act \nwas received on April 20, 1989 by the Fair Political Practices \ncommission. \nYou have requested confirmation of telephone advice \nprovided to you by the Technical assistance and Analysis division, \nand you have requested written advice on related issues, more \nappropriately handled by the Legal Division. \nAccordingly, we have \ndecided to treat your letter as two separate requests. \nWe will try to confirm your telephone advice as soon as \npossible. \nIf we determine that a more extensive analysis is \nnecessary, we will contact you. \nIf you have any questions about \nthis portion of your request, please contact Jeanne Pritchard, \nChief of the Technical Assistance and Analysis Division. \nOur file \nnumber for this part is 89-247. \nIf you have any questions concerning the remainder of your \nrequest, you may contact Margaret Ellison an attorney in the Legal \nDivision, directly at (916) 322-5901. \nOur file number for this \npart is 89-248. \nWe try to answer all advice requests promptly. \nTherefore, \nunless your request poses particularly complex legal questions, or \nmore information is needed, you should expect a response within 21 \nworking days if your request seeks formal written advice. \nIf more \ninformation is needed, the person assigned to prepare a response \nto your request will contact you shortly to advise you as to \ninformation needed. \nIf your request is for informal assistance, \nwe will answer it as quickly as we can. \n(See Commission \nRegulation 18329 (2 Cal. Code of Regs. Sec. 18329).) \nYou also should be aware that your letter and our response \nare public records which may be disclosed to the public upon \nreceipt of a proper request for disclosure. \nKED:plh \nVery truly yours, \n~t.~ \nKathryn E. Donovan \nGeneral Counsel \n428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804\"()807 • (916) 322-5660 \n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1989-04-28",
+    "date_raw": "April 28, 1989",
+    "requestor_name": "Leidigh",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requestor submitted two separate advice requests: one seeking confirmation of prior telephone advice from the Technical Assistance and Analysis Division, and another requesting written advice on related issues for the Legal Division to handle.",
+    "conclusion_synthetic": "The FPPC has decided to treat the letter as two separate requests, with the Technical Assistance division handling confirmation of the telephone advice (File 89-247) and the Legal Division handling the written advice request (File 89-248), with expected response times of 21 working days for formal advice or as quickly as possible for informal assistance.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Document is an administrative acknowledgment letter rather than a substantive advice letter. No traditional QUESTION or CONCLUSION sections present. The document lacks the typical legal analysis found in formal advice letters. Two separate file numbers (89-247 and 89-248) were assigned to different aspects of the request."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:35:55.956750Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The requestor submitted two separate advice requests: one seeking confirmation of prior telephone advice from the Technical Assistance and Analysis Division, and another requesting written advice on related issues for the Legal Division to handle.\n\nCONCLUSION: The FPPC has decided to treat the letter as two separate requests, with the Technical Assistance division handling confirmation of the telephone advice (File 89-247) and the Legal Division handling the written advice request (File 89-248), with expected response times of 21 working days for formal advice or as quickly as possible for informal assistance.",
+    "qa_source": "synthetic",
+    "first_500_words": "California Fair Political Practices Commission April 28, 1989 Robert E. Leidigh Olson, connelly, Hagel & Fong 300 capitol Mall, suite 350 Sacramento, CA 95814 Re: Letters No. 89-247 and 248 Dear Mr. Leidigh: Your letter requesting advice under the Political Reform Act was received on April 20, 1989 by the Fair Political Practices commission. You have requested confirmation of telephone advice provided to you by the Technical assistance and Analysis division, and you have requested written advice on related issues, more appropriately handled by the Legal Division. Accordingly, we have decided to treat your letter as two separate requests. We will try to confirm your telephone advice as soon as possible. If we determine that a more extensive analysis is necessary, we will contact you. If you have any questions about this portion of your request, please contact Jeanne Pritchard, Chief of the Technical Assistance and Analysis Division. Our file number for this part is 89-247. If you have any questions concerning the remainder of your request, you may contact Margaret Ellison an attorney in the Legal Division, directly at (916) 322-5901. Our file number for this part is 89-248. We try to answer all advice requests promptly. Therefore, unless your request poses particularly complex legal questions, or more information is needed, you should expect a response within 21 working days if your request seeks formal written advice. If more information is needed, the person assigned to prepare a response to your request will contact you shortly to advise you as to information needed. If your request is for informal assistance, we will answer it as quickly as we can. (See Commission Regulation 18329 (2 Cal. Code of Regs. Sec. 18329).) You also should be aware that your letter and our response are public records which may be disclosed to the public upon receipt of a proper request for disclosure. KED:plh Very truly yours, ~t.~ Kathryn E. Donovan General Counsel 428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804\"()807 • (916) 322-5660",
+    "summary": "This is an FPPC administrative letter from April 28, 1989 acknowledging receipt of two related advice requests from attorney Robert E. Leidigh and assigning them to appropriate divisions for handling. The letter explains the process and timeline for responses and notes that the correspondence is a public record."
+  }
+}

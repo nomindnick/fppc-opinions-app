@@ -1,0 +1,73 @@
+{
+  "id": "92483",
+  "year": 1992,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1992/92483.pdf",
+  "pdf_sha256": "84431cfff62b759092786821bdfa39ac27734d5f7bd4432cf60c56e96239b699",
+  "local_pdf_path": "raw_pdfs/1992/92483.pdf",
+  "source_metadata": {
+    "title_raw": "Dorman, RH Year: 1992 Advice Letter # 92483",
+    "tags": [
+      "Advice Letter",
+      "1992"
+    ],
+    "scraped_at": "2026-01-31 16:29:25",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1992&tagCount=1&page=88"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:19.403578Z",
+    "page_count": 1,
+    "word_count": 311,
+    "char_count": 1904,
+    "quality_score": 0.635,
+    "olmocr_cost": null,
+    "native_word_count": 311
+  },
+  "content": {
+    "full_text": "1230 J STREET\nSAcRAMENTo, CALTFoRNIA 958 l4\nSeptember L, L992\nMs. Maryann Kvasager\nFair Political Practices Commission\n428 J Street, Suite 600\nSacramento, California 95804\nDear Ma ryann :\nPursuant to our telephone conversations, I am writing to\nseek informal advice on behalf of Secretary of State March\nFong Eu and her former political \ncommittee regarding the\nproper method of reporting receipts associated with\ncommi t tee- sponso red trips. \nI have received ora] aalvice from\ncommission staff over the years regarding such reporting\nprocedures but I have been unable to locate written responses\nto inquiries. \nThis current inquiry arises in the context of\nthe routine audit of political \ncommittees by the Franchise Tax\nBoa rcl .In 1988, the Frienals of March Fong Eu (now terminated)\nsponsoreal a trip to promote California trade anal investment\nand to raise campaign funds ' \nThe campaign contracted with a\ntravel agency in oriler to handle the arrangements for the\ntrip. \nEach traveler paid the travel agency $3,300 for the\ntravel package. The actual cost of provicling the trip by the\ntravel agency was $2,250. The fair market value of the trip\nwas deemed to be $2,500. The travel agency rebated to the\ncampaign S1,050 per traveler. \nof this amount, the campaign\nreported $800 as being a contribution from the traveler and\n$250 as being a contribution from the travel agency. This\nmethod of reporting was consistent with the oral advice\nreceived from commission staff and with the alef inition of a\n\"contribution\" as being a payment \"except to the extent that\nfu11 and adequate consideration is receivecl\".\nI should very much appreciate receiving your informal\naclvice as to whether the cornrnittee properly reported these\ntransactions under the circumstances set forth.\nSincerely,\n/-/n'\nAN{HONY L.\ncc: Li\"nda Ha lverson,\nAucli to r , Eranchise Tax Board\n$rrrrtarg trf ftoB ' ';:') ii Jl\nMI LLER\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": "Dorman",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": "Whether the committee properly reported receipt transactions from a 1988 committee-sponsored trip to promote California trade and investment and raise campaign funds, where travelers paid $3,300 to a travel agency, the actual cost was $2,250, fair market value was $2,500, and the travel agency rebated $1,050 per traveler (reported as $800 contribution from traveler and $250 from travel agency).",
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "The requestor seeks informal advice on behalf of Secretary of State March Fong Eu's former political committee regarding whether receipts from a committee-sponsored 1988 trip were properly reported, where the campaign received rebates from a travel agency that were allocated between traveler and travel agency contributions.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.85,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is an incoming request letter TO the FPPC, not an FPPC response letter. No conclusion/advice section is present in this document. The letter requests informal advice on contribution reporting from committee-sponsored trip transactions. Minor OCR issues present (e.g., 'aalvice' for 'advice', 'commi t tee' for 'committee')."
+  },
+  "citations": {
+    "government_code": [],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [
+      "08-033"
+    ],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": null,
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.0,
+    "classified_at": "2026-02-06T18:35:19.403578Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Whether the committee properly reported receipt transactions from a 1988 committee-sponsored trip to promote California trade and investment and raise campaign funds, where travelers paid $3,300 to a travel agency, the actual cost was $2,250, fair market value was $2,500, and the travel agency rebated $1,050 per traveler (reported as $800 contribution from traveler and $250 from travel agency).",
+    "qa_source": "mixed",
+    "first_500_words": "1230 J STREET SAcRAMENTo, CALTFoRNIA 958 l4 September L, L992 Ms. Maryann Kvasager Fair Political Practices Commission 428 J Street, Suite 600 Sacramento, California 95804 Dear Ma ryann : Pursuant to our telephone conversations, I am writing to seek informal advice on behalf of Secretary of State March Fong Eu and her former political committee regarding the proper method of reporting receipts associated with commi t tee- sponso red trips. I have received ora] aalvice from commission staff over the years regarding such reporting procedures but I have been unable to locate written responses to inquiries. This current inquiry arises in the context of the routine audit of political committees by the Franchise Tax Boa rcl .In 1988, the Frienals of March Fong Eu (now terminated) sponsoreal a trip to promote California trade anal investment and to raise campaign funds ' The campaign contracted with a travel agency in oriler to handle the arrangements for the trip. Each traveler paid the travel agency $3,300 for the travel package. The actual cost of provicling the trip by the travel agency was $2,250. The fair market value of the trip was deemed to be $2,500. The travel agency rebated to the campaign S1,050 per traveler. of this amount, the campaign reported $800 as being a contribution from the traveler and $250 as being a contribution from the travel agency. This method of reporting was consistent with the oral advice received from commission staff and with the alef inition of a \"contribution\" as being a payment \"except to the extent that fu11 and adequate consideration is receivecl\". I should very much appreciate receiving your informal aclvice as to whether the cornrnittee properly reported these transactions under the circumstances set forth. Sincerely, /-/n' AN{HONY L. cc: Li\"nda Ha lverson, Aucli to r , Eranchise Tax Board $rrrrtarg trf ftoB ' ';:') ii Jl MI LLER",
+    "summary": "Anthony L. Miller requests informal FPPC advice on behalf of Secretary of State March Fong Eu's terminated political committee regarding the proper reporting method for receipts from a 1988 committee-sponsored trip, where travelers paid $3,300 but the travel agency rebated $1,050 per traveler that was reported as contributions."
+  }
+}

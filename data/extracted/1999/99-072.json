@@ -1,0 +1,78 @@
+{
+  "id": "99-072",
+  "year": 1999,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/1999/99-072.pdf",
+  "pdf_sha256": "7aa1b473f26568c5f0289d63c339d14f658e4e7a52a13ed6d636be576d28338d",
+  "local_pdf_path": "raw_pdfs/1999/99-072.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 1999 Advice Letter # 99-072",
+    "tags": [
+      "1999",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:47:22",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1999&tagCount=1"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:37.926717Z",
+    "page_count": 2,
+    "word_count": 391,
+    "char_count": 2398,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 391
+  },
+  "content": {
+    "full_text": "FAIR POLITICAL PRACTICES CoiwrvllssloN\nP0. Box 807\n• 428 J Street\nSacramento. CA 958 2-0807\n(916) 322-5660\n. Fax (916) 322-0886\nMarch23, 1999\nNancy N. Zoller\nZoller & Associates\n2100 Gold Hill Rod.\nNewcastle, CA 95658\nRe:\n: Your Request for Advice\nOur File No. 1-99-072\nDear Ms. Zoller:\nThis letter is in response to your request for advice regarding the provisions of the\nPolitical Reform Act (the “Act”).’ Because your questions are hypothetical in nature, we can\nonly provide general guidance in response to your questions. Accordingly, we are treating your\nrequest as one for informal assistance, which does not provide the requestor with the immunity\nprovided by formal written advice. (Section 83114; Regulation 18329(c)(3).)\nQUESTION\nWhen an individual takes out a loan from a commercial lending institution in order to\nmake a loan to a committee, and subsequently forgives the loan to the committee, should the date\nof forgiveness be the date the contributor repaid the loan to the bank or the date of the memo\nforgiving the loan to the committee?\nCONCLUSION\nThe committee should report on Schedule B, Part lithe date of the memo as the date the\nloan was forgiven.\nFACTS\nHypothetically, a candidate committee received a loan from an individual. In order to\nmake the loan to the committee, the individual obtained a personal loan from a commercial\nGovernment Code sections 81000 -91014. Commission regulations appear at title 2, sections 18109-\n18995, of the California Code of Regulations.\n\n\nPage Two\nMarch23, 1999\n1-99-072\nlending institution. Six months after paying off the loan, the individual forgave the loan to the\ncandidate committee.\nANALYSIS\nSection 84216 requires that for a loan that is forgiven, the following information be\nprovidedfor the period in which the loan wasforgiven:\n“(1) The original date and source of the loan.\n(2) Any change in the interest rate on the loan.\n(3) The balance owed on the original principal at the end of the reporting period.”\nSince, in your scenario, the committee owed the loan to the individual and not to the\nfinancial institution, as treasurer, you would report the loan forgiveness during the reporting\nperiod in which the individual forgave the loan to the committee.\nIf you have additional questions, please feel free to contact me at (916) 322-5660.\nSincerely,\nSteven G. Churchwell\nener\nCounsel\nB\nKevin\n.\noen\nPolincal Reform Consultant\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1999-03-23",
+    "date_raw": "March23, 1999",
+    "requestor_name": "Zoller",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "informal_advice"
+  },
+  "sections": {
+    "question": "When an individual takes out a loan from a commercial lending institution in order to\nmake a loan to a committee, and subsequently forgives the loan to the committee, should the date\nof forgiveness be the date the contributor repaid the loan to the bank or the date of the memo\nforgiving the loan to the committee?",
+    "conclusion": "The committee should report on Schedule B, Part lithe date of the memo as the date the\nloan was forgiven.",
+    "facts": "Hypothetically, a candidate committee received a loan from an individual. In order to\nmake the loan to the committee, the individual obtained a personal loan from a commercialPage Two\nMarch23, 1999\n1-99-072\nlending institution. Six months after paying off the loan, the individual forgave the loan to the\ncandidate committee.",
+    "analysis": "Section 84216 requires that for a loan that is forgiven, the following information be\nprovidedfor the period in which the loan wasforgiven:\n“(1) The original date and source of the loan.\n(2) Any change in the interest rate on the loan.\n(3) The balance owed on the original principal at the end of the reporting period.”\nSince, in your scenario, the committee owed the loan to the individual and not to the\nfinancial institution, as treasurer, you would report the loan forgiveness during the reporting\nperiod in which the individual forgave the loan to the committee.",
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "regex_validated",
+    "extraction_confidence": 0.9,
+    "has_standard_format": true,
+    "parsing_notes": "Format: modern"
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "83114",
+      "84216"
+    ],
+    "regulations": [
+      "18109",
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.3333333333333333,
+    "classified_at": "2026-02-06T18:34:37.926717Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: When an individual takes out a loan from a commercial lending institution in order to\nmake a loan to a committee, and subsequently forgives the loan to the committee, should the date\nof forgiveness be the date the contributor repaid the loan to the bank or the date of the memo\nforgiving the loan to the committee?\n\nCONCLUSION: The committee should report on Schedule B, Part lithe date of the memo as the date the\nloan was forgiven.",
+    "qa_source": "extracted",
+    "first_500_words": "FAIR POLITICAL PRACTICES CoiwrvllssloN P0. Box 807 • 428 J Street Sacramento. CA 958 2-0807 (916) 322-5660 . Fax (916) 322-0886 March23, 1999 Nancy N. Zoller Zoller & Associates 2100 Gold Hill Rod. Newcastle, CA 95658 Re: : Your Request for Advice Our File No. 1-99-072 Dear Ms. Zoller: This letter is in response to your request for advice regarding the provisions of the Political Reform Act (the “Act”).’ Because your questions are hypothetical in nature, we can only provide general guidance in response to your questions. Accordingly, we are treating your request as one for informal assistance, which does not provide the requestor with the immunity provided by formal written advice. (Section 83114; Regulation 18329(c)(3).) QUESTION When an individual takes out a loan from a commercial lending institution in order to make a loan to a committee, and subsequently forgives the loan to the committee, should the date of forgiveness be the date the contributor repaid the loan to the bank or the date of the memo forgiving the loan to the committee? CONCLUSION The committee should report on Schedule B, Part lithe date of the memo as the date the loan was forgiven. FACTS Hypothetically, a candidate committee received a loan from an individual. In order to make the loan to the committee, the individual obtained a personal loan from a commercial Government Code sections 81000 -91014. Commission regulations appear at title 2, sections 18109- 18995, of the California Code of Regulations. Page Two March23, 1999 1-99-072 lending institution. Six months after paying off the loan, the individual forgave the loan to the candidate committee. ANALYSIS Section 84216 requires that for a loan that is forgiven, the following information be providedfor the period in which the loan wasforgiven: “(1) The original date and source of the loan. (2) Any change in the interest rate on the loan. (3) The balance owed on the original principal at the end of the reporting period.” Since, in your scenario, the committee owed the loan to the individual and not to the financial institution, as treasurer, you would report the loan forgiveness during the reporting period in which the individual forgave the loan to the committee. If you have additional questions, please feel free to contact me at (916) 322-5660. Sincerely, Steven G. Churchwell ener Counsel B Kevin . oen Polincal Reform Consultant",
+    "summary": null
+  }
+}

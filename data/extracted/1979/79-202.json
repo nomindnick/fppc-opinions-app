@@ -1,0 +1,73 @@
+{
+  "id": "79-202",
+  "year": 1979,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1976-1983/1979/79-202.PDF",
+  "pdf_sha256": "f5335a6ecf77b70ba0e49ec11a701fcfc894e3c2e5e3ac7466c26c88aff59371",
+  "local_pdf_path": "raw_pdfs/1979/79-202.PDF",
+  "source_metadata": {
+    "title_raw": "Year: 1979 Advice Letter # 79-202",
+    "tags": [
+      "1979",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 15:26:35",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=17"
+  },
+  "extraction": {
+    "method": "olmocr",
+    "extracted_at": "2026-02-20T19:00:13.640078Z",
+    "page_count": 1,
+    "word_count": 117,
+    "char_count": 687,
+    "quality_score": 0.7888375422381236,
+    "olmocr_cost": 0.0024811,
+    "native_word_count": 117
+  },
+  "content": {
+    "full_text": "MEMO TO THE FILE\n\nFrom T. Prim\n\nMr. Logie from Southern California Edison called to ask about the meaning of the term \"intermediary or agent\" or \"making a contribution on behalf of another\" as used in Section 84302. Specifically, he asked when what does the name of a corporate officer have to be disclosed along with the name of the corporation. I told him that if the corporate officer were given discretion to determine the recipients of contributions, his name and address, etc., probably would have to be disclosed. However, if the officer were merely carrying out instructions given to him by the corporation, his name and address would not have to be disclosed pursuant to §84302.",
+    "full_text_markdown": "MEMO TO THE FILE\n\nFrom T. Prim\n\nMr. Logie from Southern California Edison called to ask about the meaning of the term \"intermediary or agent\" or \"making a contribution on behalf of another\" as used in Section 84302. Specifically, he asked when what does the name of a corporate officer have to be disclosed along with the name of the corporation. I told him that if the corporate officer were given discretion to determine the recipients of contributions, his name and address, etc., probably would have to be disclosed. However, if the officer were merely carrying out instructions given to him by the corporation, his name and address would not have to be disclosed pursuant to §84302."
+  },
+  "parsed": {
+    "date": null,
+    "date_raw": null,
+    "requestor_name": null,
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": null,
+    "conclusion_synthetic": null,
+    "extraction_method": "none",
+    "extraction_confidence": 0.0,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found"
+  },
+  "citations": {
+    "government_code": [
+      "84302"
+    ],
+    "regulations": [],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-20T19:00:13.640078Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "MEMO TO THE FILE From T. Prim Mr. Logie from Southern California Edison called to ask about the meaning of the term \"intermediary or agent\" or \"making a contribution on behalf of another\" as used in Section 84302. Specifically, he asked when what does the name of a corporate officer have to be disclosed along with the name of the corporation. I told him that if the corporate officer were given discretion to determine the recipients of contributions, his name and address, etc., probably would have to be disclosed. However, if the officer were merely carrying out instructions given to him by the corporation, his name and address would not have to be disclosed pursuant to §84302.",
+    "qa_source": "extracted",
+    "first_500_words": "MEMO TO THE FILE From T. Prim Mr. Logie from Southern California Edison called to ask about the meaning of the term \"intermediary or agent\" or \"making a contribution on behalf of another\" as used in Section 84302. Specifically, he asked when what does the name of a corporate officer have to be disclosed along with the name of the corporation. I told him that if the corporate officer were given discretion to determine the recipients of contributions, his name and address, etc., probably would have to be disclosed. However, if the officer were merely carrying out instructions given to him by the corporation, his name and address would not have to be disclosed pursuant to §84302.",
+    "summary": null
+  }
+}

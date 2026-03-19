@@ -1,0 +1,77 @@
+{
+  "id": "94-377",
+  "year": 1994,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1994/94-377.pdf",
+  "pdf_sha256": "0c1451d6ebfe5000bcfb3900d89d5ef8ebe026ca6b9a5deff4741ddea8d84f85",
+  "local_pdf_path": "raw_pdfs/1994/94-377.pdf",
+  "source_metadata": {
+    "title_raw": "Phillips, Gordon Year: 1994 Advice Letter # 94-377",
+    "tags": [
+      "1994",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 16:35:45",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1994&tagCount=1&page=23"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:03.445134Z",
+    "page_count": 2,
+    "word_count": 310,
+    "char_count": 2028,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 310
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\nDecember 16,\n1994\nGordon Phillips\nDeputy City Attorney\nCity of Alameda\n2263 Santa Clara Avenue\nAlameda,\nCA 94501-4456\nRe:\nYour Request for Confirmation\nof Telephone Advice\nOur File No.\n1—94—377\nDear Mr. Phillips:\nYou have requested confirmation of telephone advice\nconcerning the conflict of interest disclosure provisions of the\nPolitical Reform Act\n(“the Act”) •1/\nBecause your question is\ngeneral in nature,\nwe consider your letter to be a request for\ninformal assistance pursuant to Regulation 18329(c) (3) 2/\nYour letter, dated November 29,\n1994, accurately summarizes\nmy advice that the members of the Economic Development Commission\nmust file an initial Statement of Economic Interests,\nForm 730,\nwithin 30 days of the effective date of the conflict of interest\ncode.\nAs we discussed, the members are not required to file\nstatements prior to inclusion of the Commission in the City of\nAlameda’s conflict of interest code.\nThe members will be required to disclose reportable\ninvestments, business positions,\nand interests in real property\nheld on the effective date of the conflict of interest code and\nincome received during the 12 months before the effective date of\nthe conflict of interest code.\n(Section 87302.)\n1/\nGovernment Code Sections 81000-91015.\nAll statutory\nreferences are to the Government Code unless otherwise indicated.\nCommission regulations appear at\n2 California Code of Regulations\nSection 18000,\nq.\nAll references to regulations are to Title\n2, Division\n6 of the California Code of Regulations.\n2/\nInformal assistance does not provide the requestor with the\nimmunity provided by an opinion or formal written advice.\n(Section 83114; Regulation 18329(c) (3).)\n428 J Street, Suite 800 •\nP.O. Box 807 •\nSacramento, CA\n95804-0807 •\n(916) 322-5660\n\n\nGordon Phillips\nFile No.\n1—94—377\nPage Two\nIf you have questions concerning this letter, please contact\nme at\n(916)\n322—5662.\nSincerely,\nDixie Howard\nPolitical Reform Consultant\nTechnical Assistance Division\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1994-12-16",
+    "date_raw": "December 16,\n1994",
+    "requestor_name": "Phillips",
+    "requestor_title": "City Attorney",
+    "requestor_city": null,
+    "document_type": "informal_advice"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "Your letter, dated November 29, 1994, accurately summarizes my advice that the members of the Economic Development Commission must file an initial Statement of Economic Interests, Form 730, within 30 days of the effective date of the conflict of interest code. As we discussed, the members are not required to file statements prior to inclusion of the Commission in the City of Alameda's conflict of interest code. The members will be required to disclose reportable investments, business positions, and interests in real property held on the effective date of the conflict of interest code and income received during the 12 months before the effective date of the conflict of interest code. (Section 87302.)",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Must members of an Economic Development Commission file initial Statements of Economic Interests (Form 730) before or after their commission is included in the city's conflict of interest code, and what disclosures are required?",
+    "conclusion_synthetic": "Economic Development Commission members must file Form 730 within 30 days of the conflict of interest code's effective date, but are not required to file before the commission is included in the code. They must disclose investments, business positions, real property interests as of the effective date, and income from the 12 months preceding it.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: Letter confirms prior telephone advice; characterized as informal assistance under Regulation 18329(c)(3), which does not provide immunity. No formal Q/C section headers, but question and conclusion clearly present in body text."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "83114",
+      "87302"
+    ],
+    "regulations": [
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "conflicts_of_interest",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.3333333333333333,
+    "classified_at": "2026-02-06T18:35:03.445134Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Must members of an Economic Development Commission file initial Statements of Economic Interests (Form 730) before or after their commission is included in the city's conflict of interest code, and what disclosures are required?\n\nCONCLUSION: Your letter, dated November 29, 1994, accurately summarizes my advice that the members of the Economic Development Commission must file an initial Statement of Economic Interests, Form 730, within 30 days of the effective date of the conflict of interest code. As we discussed, the members are not required to file statements prior to inclusion of the Commission in the City of Alameda's conflict of interest code. The members will be required to disclose reportable investments, business positions, and interests in real property held on the effective date of the conflict of interest code and income received during the 12 months before the effective date of the conflict of interest code. (Section 87302.)",
+    "qa_source": "mixed",
+    "first_500_words": "California Fair Political Practices Commission December 16, 1994 Gordon Phillips Deputy City Attorney City of Alameda 2263 Santa Clara Avenue Alameda, CA 94501-4456 Re: Your Request for Confirmation of Telephone Advice Our File No. 1—94—377 Dear Mr. Phillips: You have requested confirmation of telephone advice concerning the conflict of interest disclosure provisions of the Political Reform Act (“the Act”) •1/ Because your question is general in nature, we consider your letter to be a request for informal assistance pursuant to Regulation 18329(c) (3) 2/ Your letter, dated November 29, 1994, accurately summarizes my advice that the members of the Economic Development Commission must file an initial Statement of Economic Interests, Form 730, within 30 days of the effective date of the conflict of interest code. As we discussed, the members are not required to file statements prior to inclusion of the Commission in the City of Alameda’s conflict of interest code. The members will be required to disclose reportable investments, business positions, and interests in real property held on the effective date of the conflict of interest code and income received during the 12 months before the effective date of the conflict of interest code. (Section 87302.) 1/ Government Code Sections 81000-91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations Section 18000, q. All references to regulations are to Title 2, Division 6 of the California Code of Regulations. 2/ Informal assistance does not provide the requestor with the immunity provided by an opinion or formal written advice. (Section 83114; Regulation 18329(c) (3).) 428 J Street, Suite 800 • P.O. Box 807 • Sacramento, CA 95804-0807 • (916) 322-5660 Gordon Phillips File No. 1—94—377 Page Two If you have questions concerning this letter, please contact me at (916) 322—5662. Sincerely, Dixie Howard Political Reform Consultant Technical Assistance Division",
+    "summary": "This is an FPPC confirmation letter to the Deputy City Attorney of Alameda regarding conflict of interest disclosure requirements for Economic Development Commission members under the Political Reform Act. The FPPC confirms prior telephone advice that commission members must file initial Statements of Economic Interests within 30 days of their inclusion in the conflict of interest code."
+  }
+}

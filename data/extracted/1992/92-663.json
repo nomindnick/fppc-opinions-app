@@ -1,0 +1,80 @@
+{
+  "id": "92-663",
+  "year": 1992,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1984-1994/1992/92-663.pdf",
+  "pdf_sha256": "9da99273a05ae8a5b7fd531e22b6ec7264a008bf51b8e429fd7dcf8b87a0aaf5",
+  "local_pdf_path": "raw_pdfs/1992/92-663.pdf",
+  "source_metadata": {
+    "title_raw": "Myers, Sara Year: 1992 Advice Letter # 92-663",
+    "tags": [
+      "Advice Letter",
+      "1992"
+    ],
+    "scraped_at": "2026-01-31 16:26:22",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1992&tagCount=1&page=48"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:35:16.344257Z",
+    "page_count": 2,
+    "word_count": 414,
+    "char_count": 2532,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 414
+  },
+  "content": {
+    "full_text": "California\nFair Political\nPractices Commission\nJanuary 20,\n1993\nSara Myers\n100 Baldwin Lake Circle\nFolsom,\nCA\n95630\nRe:\nYour Request for Advice\nOur File No.\nA—92-663\nDear Ms.\nMyers:\nThis is in response to your request for confirmation of\ntelephone advice provided to you on December 29,\n1992 concerning\nthe propriety of using campaign funds to purchase a cellular\ntelephone with campaign funds under the “personal use” provisions\nof the Political Reform Act\n(the “Act”).\n1\nThis letter confirms that your letter dated December 29,\n1992,\naccurately summarizes the telephone advice I provided to you\non that date.\nAs we discussed,\nSection 89517 permits campaign\nfunds to be used for the purchase of equipment so long as\n(1)\nthe\nlegal title of the equipment is in the name of the committee,\nand\n(2)\nany other use is only incidental to its use for political,\nlegislative,\nor governmental purposes.\n2\nAdditionally,\nI advised you that since the cellular telephone\nwould be used for officeholder purposes,\nany payments for the\ncellular telephone should be made either from the campaign bank\naccount established for your current term of office or a campaign\naccount established for\na future election\n(Regulation 18525)\nand\nshould be disclosed on your campaign reports.\nMoreover,\nyou may\n1\nGovernment Code Sections 81000-91015.\nAll statutory references\nare to the Government Code unless otherwise indicated.\nCommission\nregulations appear at\n2 California Code of Regulations Section\n18000,\n.\nAll references to regulations are to Title 2,\nDivision\n6 of the California Code of Regulations.\nSections\n85800—\n85807,\nwhich describe the permissible use of campaign funds,\nare\nreferred to as the “personal use”\nlaws.\n2\nRegulation 18951 clarifies that the use of appliances for\npersonal purposes is incidental if the use occurs in conjunction\nwith its use for a political, legislative,\nor governmental purpose\nand constitutes only\n5 percent or less of the total use of the\nitem in any one calendar month with a value of less than $100.\n428 J Street, Suite 800 •\nP.O. Box 807\n•\nSacramento, CA\n95812\n•\n(916) 322-5660\n\n\nOur File No.\nA—92-663\nPage\n2\ncontribute personal funds to your committee in order to pay for\nthe telephone,\nso long as the money is deposited into the campaign\nbank account before it is expended and both the contribution and\nexpenditure are fully disclosed.\nIf you have any further questions regarding this matter,\nplease feel free to contact me at\n(916)\n322—5901.\nSincerely,\nScott Hallabrin\nWallace\nLegal Division\n.ng General Counsel\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "1993-01-20",
+    "date_raw": "January 20,\n1993",
+    "requestor_name": "Myers",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "advice_letter"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "May campaign funds be used to purchase a cellular telephone, and if so, what conditions and disclosure requirements apply under the Political Reform Act's personal use provisions?",
+    "conclusion_synthetic": "Campaign funds may be used to purchase a cellular telephone if legal title is held by the committee and any other use is only incidental to political/legislative/governmental purposes. Payments must be made from a campaign account for the current term or future election and fully disclosed on campaign reports. Alternatively, personal funds may be contributed to the committee to pay for the telephone if properly deposited and disclosed.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is a confirmation letter of prior telephone advice dated December 29, 1992. No formal QUESTION or CONCLUSION sections exist, but the legal issue and FPPC's position are clearly stated in the body of the letter. Document references Government Code Sections 81000-91015 and Regulation 18951 regarding incidental personal use thresholds."
+  },
+  "citations": {
+    "government_code": [
+      "81000",
+      "85800",
+      "89517"
+    ],
+    "regulations": [
+      "18525",
+      "18951"
+    ],
+    "prior_opinions": [],
+    "cited_by": [
+      "94-304"
+    ],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "campaign_finance",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 0.3333333333333333,
+    "classified_at": "2026-02-06T18:35:16.344257Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: May campaign funds be used to purchase a cellular telephone, and if so, what conditions and disclosure requirements apply under the Political Reform Act's personal use provisions?\n\nCONCLUSION: Campaign funds may be used to purchase a cellular telephone if legal title is held by the committee and any other use is only incidental to political/legislative/governmental purposes. Payments must be made from a campaign account for the current term or future election and fully disclosed on campaign reports. Alternatively, personal funds may be contributed to the committee to pay for the telephone if properly deposited and disclosed.",
+    "qa_source": "synthetic",
+    "first_500_words": "California Fair Political Practices Commission January 20, 1993 Sara Myers 100 Baldwin Lake Circle Folsom, CA 95630 Re: Your Request for Advice Our File No. A—92-663 Dear Ms. Myers: This is in response to your request for confirmation of telephone advice provided to you on December 29, 1992 concerning the propriety of using campaign funds to purchase a cellular telephone with campaign funds under the “personal use” provisions of the Political Reform Act (the “Act”). 1 This letter confirms that your letter dated December 29, 1992, accurately summarizes the telephone advice I provided to you on that date. As we discussed, Section 89517 permits campaign funds to be used for the purchase of equipment so long as (1) the legal title of the equipment is in the name of the committee, and (2) any other use is only incidental to its use for political, legislative, or governmental purposes. 2 Additionally, I advised you that since the cellular telephone would be used for officeholder purposes, any payments for the cellular telephone should be made either from the campaign bank account established for your current term of office or a campaign account established for a future election (Regulation 18525) and should be disclosed on your campaign reports. Moreover, you may 1 Government Code Sections 81000-91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations Section 18000, . All references to regulations are to Title 2, Division 6 of the California Code of Regulations. Sections 85800— 85807, which describe the permissible use of campaign funds, are referred to as the “personal use” laws. 2 Regulation 18951 clarifies that the use of appliances for personal purposes is incidental if the use occurs in conjunction with its use for a political, legislative, or governmental purpose and constitutes only 5 percent or less of the total use of the item in any one calendar month with a value of less than $100. 428 J Street, Suite 800 • P.O. Box 807 • Sacramento, CA 95812 • (916) 322-5660 Our File No. A—92-663 Page 2 contribute personal funds to your committee in order to pay for the telephone, so long as the money is deposited into the campaign bank account before it is expended and both the contribution and expenditure are fully disclosed. If you have any further questions regarding this matter, please feel free to contact me at (916) 322—5901. Sincerely, Scott Hallabrin Wallace Legal Division .ng General Counsel",
+    "summary": "The FPPC confirms telephone advice regarding the permissibility of using campaign funds to purchase a cellular telephone under Section 89517, subject to specific conditions regarding title ownership, incidental use limitations, and required disclosure on campaign reports."
+  }
+}

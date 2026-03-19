@@ -1,0 +1,75 @@
+{
+  "id": "03-150",
+  "year": 2003,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2003/03-150.pdf",
+  "pdf_sha256": "565ca7021fc0c0b8cd69b0373018fc0516a9cde10c9043f6518ea91e1b15ff11",
+  "local_pdf_path": "raw_pdfs/2003/03-150.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2003 Advice Letter # 03-150",
+    "tags": [
+      "2003",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:38:48",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2003&tagCount=1&page=15"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:21.660636Z",
+    "page_count": 1,
+    "word_count": 147,
+    "char_count": 999,
+    "quality_score": 0.5475,
+    "olmocr_cost": null,
+    "native_word_count": 147
+  },
+  "content": {
+    "full_text": "Fern Polrrrcal PnecrrcEs CouurssroN\n428 J Street r Suite 620 o Sacramento, CA 95814-2329\n(916) 322-5660 o Fax (916) 322-0886\nSeptember 16,2003\nBrian T. Hildreth\nBell, McAndrews, Hiltachk & Davidian\n455 Capitol Mall, Suite 801\nSacramento, CA 95814\nRe\nYour Request for Advice\nOur FiIe No. W-03-150\nDear Mr. Hildreth:\nThis correspondence is written confirmation that your request for advice under the\nprovisions of the Political Reform Actr has been withdrawn.\nAs of this date, you have been unable to supply the information requested to complete our\nanalysis. Should these facts become available, please resubmit your advice request.\nIf you have any additional questions regarding this matter, please contact me at (916)\n322-5660.\nSincerely,\nLuisa Menchaca\nGeneral Counsel\nBy: Trish Mayer\nPolitical Reform Consultant\nTechnical Assistance Division\nrMje\nI Government Code sections 81000- 91014. Commissionregulations appear atTitle 2, sections 18109-18997, of\nthe California Code of Regulations.\n.:sery\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2003-09-16",
+    "date_raw": "September 16,2003",
+    "requestor_name": "Hildreth",
+    "requestor_title": "General Counsel",
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": null,
+    "facts": null,
+    "analysis": ". Should these facts become available, please resubmit your advice request.",
+    "question_synthetic": "The requestor sought advice under the Political Reform Act, but the specific legal question is not detailed in this withdrawal notice.",
+    "conclusion_synthetic": null,
+    "extraction_method": "llm",
+    "extraction_confidence": 0.95,
+    "has_standard_format": false,
+    "parsing_notes": "Format: ocr; LLM: Withdrawal letter with no QUESTION or CONCLUSION sections. Document confirms withdrawal due to incomplete information submission. Dated September 16, 2003."
+  },
+  "citations": {
+    "government_code": [
+      "81000"
+    ],
+    "regulations": [
+      "18109"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:34:21.660636Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: The requestor sought advice under the Political Reform Act, but the specific legal question is not detailed in this withdrawal notice.",
+    "qa_source": "synthetic",
+    "first_500_words": "Fern Polrrrcal PnecrrcEs CouurssroN 428 J Street r Suite 620 o Sacramento, CA 95814-2329 (916) 322-5660 o Fax (916) 322-0886 September 16,2003 Brian T. Hildreth Bell, McAndrews, Hiltachk & Davidian 455 Capitol Mall, Suite 801 Sacramento, CA 95814 Re Your Request for Advice Our FiIe No. W-03-150 Dear Mr. Hildreth: This correspondence is written confirmation that your request for advice under the provisions of the Political Reform Actr has been withdrawn. As of this date, you have been unable to supply the information requested to complete our analysis. Should these facts become available, please resubmit your advice request. If you have any additional questions regarding this matter, please contact me at (916) 322-5660. Sincerely, Luisa Menchaca General Counsel By: Trish Mayer Political Reform Consultant Technical Assistance Division rMje I Government Code sections 81000- 91014. Commissionregulations appear atTitle 2, sections 18109-18997, of the California Code of Regulations. .:sery",
+    "summary": "The FPPC withdrew an advice request (File No. W-03-150) from Brian T. Hildreth because the requestor failed to supply necessary information needed to complete the analysis."
+  }
+}

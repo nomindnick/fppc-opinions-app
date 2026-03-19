@@ -1,0 +1,75 @@
+{
+  "id": "05-006",
+  "year": 2005,
+  "pdf_url": "https://fppc.ca.gov/content/dam/fppc/documents/advice-letters/1995-2015/2005/05-006.pdf",
+  "pdf_sha256": "dac0c3683eba5752ea4957ab7d13996e156691c9a54d1e1482f1d728a2c7472f",
+  "local_pdf_path": "raw_pdfs/2005/05-006.pdf",
+  "source_metadata": {
+    "title_raw": "Year: 2005 Advice Letter # 05-006",
+    "tags": [
+      "2005",
+      "Advice Letter"
+    ],
+    "scraped_at": "2026-01-31 14:42:54",
+    "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2005&tagCount=1&page=12"
+  },
+  "extraction": {
+    "method": "native",
+    "extracted_at": "2026-02-06T18:34:12.926528Z",
+    "page_count": 2,
+    "word_count": 377,
+    "char_count": 2517,
+    "quality_score": 0.7175,
+    "olmocr_cost": null,
+    "native_word_count": 377
+  },
+  "content": {
+    "full_text": "Re\nFatn Por-rrrcAl PRACTTcEs CorrrvrrssroN\n428 J Street r Suite 620 e Sacramento, CA 95814-2329\n{916) 322-5660 o Fax (916) 322-0886\nJanuary 26,2005\nMartin Baldwin\n900 Sunset Circle 18\nCrescent City, CA 95531\nYour Request for Advice\nOur File No. W-01006\nDear Mr. Baldwin:\nThis letter confirms the receipt of your January 18, 2005, request for advice regarding\nthe appointment of Herb Kolodner to the Crescent City Council- While the Commission may\nprovide informal assistance (see regulation 18329(cxl)), you do not identitr the person or\npersons you are authorized to rqrresent. Under the provisions ofCalifornia Code of Regulations\n18329, unless you are an authorized representative of the person for whom you seek assistance,\nthe Fair Political Practices Commission cannot address your questions or provide analysis.\n(Regulation 18329(b)(8XB) and (c)(l).) Therefore, your request is withdrawn. I enclose a copy\nof regulation 18329 for your review.\nYour inquiry also presents questions outside the purview of the Political Reform Act.\nSection 81002 provides the parameters of the Fair Political Practices Commission's jurisdiction:\n\"$ 81002.Purposes of fifle.\nThe people enact this title to accomplish the following purposes:\n(a) Receipts and expenditures in election campaigns should b\" fully and tuthfully disclosed in order that\nthe voters may be fully informed and improper practices may be inhibited\n(b) The activities of lobbyists should be regulated and their finances disclosed in order that improper\ninfluences will not be directed at public officials.\n(c) Assets and income ofpublic officials which may be materially affected by thet official actions should\nbe disclosed and in appropriate circumstances the officials should be disqualified from acting in order that\nconflicts of interest may be avoided.\n(d) The state ballot pamphlet should be converted into a usefirl document so that voters will not be\nentirely dependent on paid advertising for information regarding state measures.\n(e) Laws and practices unfaidy favoring incumbents should be abolished in order that elections may be\nconducted more fairly.\n(0 \nAdequate enforcement mechanisms should be provided to public oflicials and private citizens in order\nthat this title will be vigorously enforced.\"\n@\n\n\nAdvice Letter No. W-05-006\nPage No. 2\nShould you have any additional questions regarding this matter, please contact the\nCommission at (916) 322-5660.\nSincerely,\nLuisa Menchaca\nCounsel\nW. Wallace\nAssistant General Cotrnsel\nEnclosure\nrwwjg\n",
+    "full_text_markdown": null
+  },
+  "parsed": {
+    "date": "2005-01-26",
+    "date_raw": "January 26,2005",
+    "requestor_name": "Baldwin",
+    "requestor_title": null,
+    "requestor_city": null,
+    "document_type": "correspondence"
+  },
+  "sections": {
+    "question": null,
+    "conclusion": "The request is withdrawn because the requester did not identify the person or persons he is authorized to represent, which is required under California Code of Regulations 18329. Additionally, the inquiry presents questions outside the purview of the Political Reform Act.",
+    "facts": null,
+    "analysis": null,
+    "question_synthetic": "Martin Baldwin requested advice regarding the appointment of Herb Kolodner to the Crescent City Council, but did not identify the person or persons he was authorized to represent.",
+    "conclusion_synthetic": "The FPPC withdrew the request because the requester failed to establish that he was an authorized representative of the person for whom advice was sought, and the inquiry also fell outside the Commission's jurisdiction under the Political Reform Act.",
+    "extraction_method": "llm",
+    "extraction_confidence": 0.92,
+    "has_standard_format": false,
+    "parsing_notes": "No section headers found; LLM: This is a withdrawal letter (W-05-006) rather than a standard advice letter. No formal QUESTION and CONCLUSION sections present, but the factual basis for withdrawal and jurisdictional analysis are clearly stated in the body of the letter."
+  },
+  "citations": {
+    "government_code": [
+      "81002"
+    ],
+    "regulations": [
+      "18329"
+    ],
+    "prior_opinions": [],
+    "cited_by": [],
+    "external": []
+  },
+  "classification": {
+    "topic_primary": "other",
+    "topic_secondary": null,
+    "topic_tags": [],
+    "confidence": 1.0,
+    "classified_at": "2026-02-06T18:34:12.926528Z",
+    "classification_method": "heuristic:citation_based"
+  },
+  "embedding": {
+    "qa_text": "QUESTION: Martin Baldwin requested advice regarding the appointment of Herb Kolodner to the Crescent City Council, but did not identify the person or persons he was authorized to represent.\n\nCONCLUSION: The request is withdrawn because the requester did not identify the person or persons he is authorized to represent, which is required under California Code of Regulations 18329. Additionally, the inquiry presents questions outside the purview of the Political Reform Act.",
+    "qa_source": "mixed",
+    "first_500_words": "Re Fatn Por-rrrcAl PRACTTcEs CorrrvrrssroN 428 J Street r Suite 620 e Sacramento, CA 95814-2329 {916) 322-5660 o Fax (916) 322-0886 January 26,2005 Martin Baldwin 900 Sunset Circle 18 Crescent City, CA 95531 Your Request for Advice Our File No. W-01006 Dear Mr. Baldwin: This letter confirms the receipt of your January 18, 2005, request for advice regarding the appointment of Herb Kolodner to the Crescent City Council- While the Commission may provide informal assistance (see regulation 18329(cxl)), you do not identitr the person or persons you are authorized to rqrresent. Under the provisions ofCalifornia Code of Regulations 18329, unless you are an authorized representative of the person for whom you seek assistance, the Fair Political Practices Commission cannot address your questions or provide analysis. (Regulation 18329(b)(8XB) and (c)(l).) Therefore, your request is withdrawn. I enclose a copy of regulation 18329 for your review. Your inquiry also presents questions outside the purview of the Political Reform Act. Section 81002 provides the parameters of the Fair Political Practices Commission's jurisdiction: \"$ 81002.Purposes of fifle. The people enact this title to accomplish the following purposes: (a) Receipts and expenditures in election campaigns should b\" fully and tuthfully disclosed in order that the voters may be fully informed and improper practices may be inhibited (b) The activities of lobbyists should be regulated and their finances disclosed in order that improper influences will not be directed at public officials. (c) Assets and income ofpublic officials which may be materially affected by thet official actions should be disclosed and in appropriate circumstances the officials should be disqualified from acting in order that conflicts of interest may be avoided. (d) The state ballot pamphlet should be converted into a usefirl document so that voters will not be entirely dependent on paid advertising for information regarding state measures. (e) Laws and practices unfaidy favoring incumbents should be abolished in order that elections may be conducted more fairly. (0 Adequate enforcement mechanisms should be provided to public oflicials and private citizens in order that this title will be vigorously enforced.\" @ Advice Letter No. W-05-006 Page No. 2 Should you have any additional questions regarding this matter, please contact the Commission at (916) 322-5660. Sincerely, Luisa Menchaca Counsel W. Wallace Assistant General Cotrnsel Enclosure rwwjg",
+    "summary": "The FPPC withdrew Martin Baldwin's January 18, 2005 request for advice regarding a Crescent City Council appointment because he did not identify whom he was authorized to represent and the inquiry fell outside the Commission's statutory jurisdiction."
+  }
+}
