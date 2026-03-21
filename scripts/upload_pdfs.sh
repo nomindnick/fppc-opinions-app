@@ -22,10 +22,10 @@ export -f upload_file
 export BUCKET PDF_DIR
 
 echo "Finding PDFs..."
-TOTAL=$(find "$PDF_DIR" -name "*.pdf" -o -name "*.PDF" | wc -l)
+TOTAL=$(find "$PDF_DIR" \( -name "*.pdf" -o -name "*.PDF" \) | wc -l)
 echo "Uploading ${TOTAL} PDFs with ${PARALLEL} parallel workers..."
 
-find "$PDF_DIR" -name "*.pdf" -o -name "*.PDF" | \
+find "$PDF_DIR" \( -name "*.pdf" -o -name "*.PDF" \) | \
     xargs -P "$PARALLEL" -I {} bash -c 'upload_file "$@"' _ {}
 
 echo "Done."
