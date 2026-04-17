@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2014&tagCount=1&page=20"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:33:36.407706Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-20T18:59:31.080613Z",
     "page_count": 1,
-    "word_count": 173,
-    "char_count": 1019,
-    "quality_score": 0.6325000000000001,
+    "word_count": 168,
+    "char_count": 1021,
+    "quality_score": 0.8942335654117243,
     "olmocr_cost": null,
-    "native_word_count": 173
+    "native_word_count": 173,
+    "haiku_cost": 0.00248
   },
   "content": {
-    "full_text": "FAIR p OLITICAL p RA CT ICES COMMISSION \n428 J Street • Suite 620 • Sacramento, CA 95814-2329 \n(916) 322-5660 • Fax (916) 322-0886 \nDaniel Davis \n1251 Surf A venue \nPacific Grove, CA 93950 \nRE: Your Request for Advice \nOur File No. W-14-025 \nDear Mr. Davis: \nMay 8, 2014 \nThe purpose of this correspondence is to confirm that since we have not received \nword from you since our last correspondence, we have withdrawn your request for \nadvice. \nIn our letter of April 8, 2014 we advised that if we did not receive the information \nwe requested in our March 7, 2014 letter by April I 8, 2014, your request would be \nwithdrawn. Accordingly, pursuant to this correspondence, we have withdrawn you \nrequest for advice. \nHowever, if at a later date you determine that you do desire advice, you may \nsimply request it anew at that time. \nVJ:jgl \nIf you have other questions on this matter, please contact me at (916) 322-5660. \nSincerely, \nZackery P. Morazzini \nGeneral Counsel \nBy: \nValentina Joyce \nCounsel, Legal Division \n",
+    "full_text": "FAIR POLITICAL PRACTICES COMMISSION\n428 J Street • Suite 620 • Sacramento, CA 95814-2329\n(916) 322-5660 • Fax (916) 322-0886\n\nMay 8, 2014\n\nDaniel Davis\n1251 Surf Avenue\nPacific Grove, CA 93950\n\nRE: Your Request for Advice\nOur File No. W-14-025\n\nDear Mr. Davis:\n\nThe purpose of this correspondence is to confirm that since we have not received word from you since our last correspondence, we have withdrawn your request for advice.\n\nIn our letter of April 8, 2014 we advised that if we did not receive the information we requested in our March 7, 2014 letter by April 18, 2014, your request would be withdrawn. Accordingly, pursuant to this correspondence, we have withdrawn your request for advice.\n\nHowever, if at a later date you determine that you do desire advice, you may simply request it anew at that time.\n\nIf you have other questions on this matter, please contact me at (916) 322-5660.\n\nSincerely,\n\nZackery P. Morazzini\nGeneral Counsel\n\n[signature]\n\nBy:    Valentina Joyce\n       Counsel, Legal Division\n\nVJ:jgl",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "QUESTION: This is not an advice letter responding to a legal question, but rather a withdrawal notification due to the requestor's failure to provide requested information within the specified deadline.\n\nCONCLUSION: The FPPC has withdrawn the advice request (File No. W-14-025) because the requestor did not provide information requested by the March 7, 2014 deadline of April 18, 2014, but the requestor may resubmit a new advice request in the future.",
     "qa_source": "synthetic",
-    "first_500_words": "FAIR p OLITICAL p RA CT ICES COMMISSION 428 J Street • Suite 620 • Sacramento, CA 95814-2329 (916) 322-5660 • Fax (916) 322-0886 Daniel Davis 1251 Surf A venue Pacific Grove, CA 93950 RE: Your Request for Advice Our File No. W-14-025 Dear Mr. Davis: May 8, 2014 The purpose of this correspondence is to confirm that since we have not received word from you since our last correspondence, we have withdrawn your request for advice. In our letter of April 8, 2014 we advised that if we did not receive the information we requested in our March 7, 2014 letter by April I 8, 2014, your request would be withdrawn. Accordingly, pursuant to this correspondence, we have withdrawn you request for advice. However, if at a later date you determine that you do desire advice, you may simply request it anew at that time. VJ:jgl If you have other questions on this matter, please contact me at (916) 322-5660. Sincerely, Zackery P. Morazzini General Counsel By: Valentina Joyce Counsel, Legal Division",
+    "first_500_words": "FAIR POLITICAL PRACTICES COMMISSION 428 J Street • Suite 620 • Sacramento, CA 95814-2329 (916) 322-5660 • Fax (916) 322-0886 May 8, 2014 Daniel Davis 1251 Surf Avenue Pacific Grove, CA 93950 RE: Your Request for Advice Our File No. W-14-025 Dear Mr. Davis: The purpose of this correspondence is to confirm that since we have not received word from you since our last correspondence, we have withdrawn your request for advice. In our letter of April 8, 2014 we advised that if we did not receive the information we requested in our March 7, 2014 letter by April 18, 2014, your request would be withdrawn. Accordingly, pursuant to this correspondence, we have withdrawn your request for advice. However, if at a later date you determine that you do desire advice, you may simply request it anew at that time. If you have other questions on this matter, please contact me at (916) 322-5660. Sincerely, Zackery P. Morazzini General Counsel [signature] By: Valentina Joyce Counsel, Legal Division VJ:jgl",
     "summary": "FPPC withdrawal letter notifying Daniel Davis that his request for advice (File No. W-14-025) has been withdrawn due to failure to provide requested information by the April 18, 2014 deadline. The requestor may submit a new request at any time."
   }
 }

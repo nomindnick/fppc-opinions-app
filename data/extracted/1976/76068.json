@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1976&tagCount=1&page=19"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:37:19.022056Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-20T19:21:43.566478Z",
     "page_count": 1,
-    "word_count": 93,
-    "char_count": 578,
-    "quality_score": 0.5975,
+    "word_count": 97,
+    "char_count": 699,
+    "quality_score": 0.8562491293688711,
     "olmocr_cost": null,
-    "native_word_count": 93
+    "native_word_count": 93,
+    "haiku_cost": 0.001988
   },
   "content": {
-    "full_text": "State of California \nMemorandum \nTo \nAdvice File \nDate \nJune 24, 1976 \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nN an \n~/fi?:/C.6~r:J y</ \nSubject: \nRepayment of a Loan by a Third Party \nGovernment Code Section 820l3(b) \nAt the oplnlon request meeting on June 21, 1976, the \nstaff determined that since payment of a loan by a \nthird party is not made directly to the candidate or \ncommittee, the person who makes payments totaling \n$500 or more in a calendar year on loans in behalf \nof candidates or campaign committees is an \"expenditure \nCommittee\" under Section 820l3(b). \n",
+    "full_text": "State of California\n\nMemorandum\n\nTo : Advice File                                     Date : June 24, 1976\n\n                                                     1976-06-065\n\nFrom : FAIR POLITICAL PRACTICES COMMISSION\n       Nan [illegible] (corrupted) Hamilton\n\nSubject: Repayment of a Loan by a Third Party\n         Government Code Section 82013(b)\n\nAt the opinion request meeting on June 21, 1976, the\nstaff determined that since payment of a loan by a\nthird party is not made directly to the candidate or\ncommittee, the person who makes payments totaling\n$500 or more in a calendar year on loans in behalf\nof candidates or campaign committees is an \"expenditure\nCommittee\" under Section 82013(b).",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "QUESTION: Whether a third party who makes loan repayments totaling $500 or more in a calendar year on behalf of candidates or campaign committees constitutes an 'expenditure committee' under Government Code Section 82013(b).\n\nCONCLUSION: Since payment of a loan by a third party is not made directly to the candidate or committee, the person who makes payments totaling $500 or more in a calendar year on loans in behalf of candidates or campaign committees is an 'expenditure Committee' under Section 82013(b).",
     "qa_source": "mixed",
-    "first_500_words": "State of California Memorandum To Advice File Date June 24, 1976 From FAIR POLITICAL PRACTICES COMMISSION N an ~/fi?:/C.6~r:J y</ Subject: Repayment of a Loan by a Third Party Government Code Section 820l3(b) At the oplnlon request meeting on June 21, 1976, the staff determined that since payment of a loan by a third party is not made directly to the candidate or committee, the person who makes payments totaling $500 or more in a calendar year on loans in behalf of candidates or campaign committees is an \"expenditure Committee\" under Section 820l3(b).",
+    "first_500_words": "State of California Memorandum To : Advice File Date : June 24, 1976 1976-06-065 From : FAIR POLITICAL PRACTICES COMMISSION Nan [illegible] (corrupted) Hamilton Subject: Repayment of a Loan by a Third Party Government Code Section 82013(b) At the opinion request meeting on June 21, 1976, the staff determined that since payment of a loan by a third party is not made directly to the candidate or committee, the person who makes payments totaling $500 or more in a calendar year on loans in behalf of candidates or campaign committees is an \"expenditure Committee\" under Section 82013(b).",
     "summary": "FPPC internal memorandum concluding that third parties making loan repayments totaling $500 or more annually on behalf of candidates or campaign committees constitute 'expenditure committees' under Government Code Section 82013(b)."
   }
 }

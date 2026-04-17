@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=12"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:37:09.444594Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-20T16:45:20.357971Z",
     "page_count": 1,
-    "word_count": 104,
-    "char_count": 673,
-    "quality_score": 0.5975,
+    "word_count": 130,
+    "char_count": 800,
+    "quality_score": 0.8934948979591837,
     "olmocr_cost": null,
-    "native_word_count": 104
+    "native_word_count": 104,
+    "haiku_cost": 0.002108
   },
   "content": {
-    "full_text": "February 6, 1978 \nPrinting Company \n6300 Santa Monica Boulev~d, Suite 410 \nAngeles, California ~OOI2 \nAttention: \nBruce \n'* \nis to confirm my telephone advice of \n6, 1978. \nYou \nasked if the publishertspame must appear on mass mailings sent \nin \nof \nor lo~al candidates. \nI informed you that the \nsix-point \nof the \nincurs the \nof the \nneed only be included \nno \noutside envelope and on at least one \nis defined as the person or committee \nlargest~portion of \ncost for the printing. \nEnclosed for your info~tion is an information \nexplaining \nmass mailing provisiqns of the Political Reform Act. \nSincerely, \nMary Ann Kvasager \nTechnical Assistance and \nAnalysis Division \n",
+    "full_text": "February 6, 1978\n\nAyeroff Printing Company\n6300 Santa Monica Boulevard, Suite 410\nLos Angeles, California 90012\n\nAttention: Bruce\n\nGentlemen:\n\nThis is to confirm my telephone advice of February 6, 1978. You\nasked if the publisher's name must appear on mass mailings sent\nin behalf of state or local candidates. I informed you that the\nname and address of the sender need only be included in no less\nthan six-point type on the outside envelope and on at least one\nof the inserts. \"Sender\" is defined as the person or committee\nwhich incurs the largest portion of the cost for the printing.\n\nEnclosed for your information is an information sheet explaining\nthe mass mailing provisions of the Political Reform Act.\n\nSincerely,\n\nMary Ann Kvasager\nTechnical Assistance and\nAnalysis Division\n\nEnclosure\nmak",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "QUESTION: Must the publisher's name appear on mass mailings sent in support of or in opposition to state or local candidates?\n\nCONCLUSION: The six-point type requirement of the Political Reform Act incurs the requirements of the Government Code. The publisher's name need only be included on the outside envelope and on at least one side of the mailer. The publisher is defined as the person or committee bearing the largest portion of the cost for the printing.",
     "qa_source": "mixed",
-    "first_500_words": "February 6, 1978 Printing Company 6300 Santa Monica Boulev~d, Suite 410 Angeles, California ~OOI2 Attention: Bruce '* is to confirm my telephone advice of 6, 1978. You asked if the publishertspame must appear on mass mailings sent in of or lo~al candidates. I informed you that the six-point of the incurs the of the need only be included no outside envelope and on at least one is defined as the person or committee largest~portion of cost for the printing. Enclosed for your info~tion is an information explaining mass mailing provisiqns of the Political Reform Act. Sincerely, Mary Ann Kvasager Technical Assistance and Analysis Division",
+    "first_500_words": "February 6, 1978 Ayeroff Printing Company 6300 Santa Monica Boulevard, Suite 410 Los Angeles, California 90012 Attention: Bruce Gentlemen: This is to confirm my telephone advice of February 6, 1978. You asked if the publisher's name must appear on mass mailings sent in behalf of state or local candidates. I informed you that the name and address of the sender need only be included in no less than six-point type on the outside envelope and on at least one of the inserts. \"Sender\" is defined as the person or committee which incurs the largest portion of the cost for the printing. Enclosed for your information is an information sheet explaining the mass mailing provisions of the Political Reform Act. Sincerely, Mary Ann Kvasager Technical Assistance and Analysis Division Enclosure mak",
     "summary": "FPPC confirms telephone advice regarding requirements for publisher identification on mass mailings supporting or opposing candidates. The publisher's name must appear in six-point type on the outside envelope and at least one side of the mailer."
   }
 }

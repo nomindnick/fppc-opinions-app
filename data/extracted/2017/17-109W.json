@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2017&tagCount=1&page=12"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:33:12.883681Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-19T21:21:42.378557Z",
     "page_count": 1,
-    "word_count": 123,
-    "char_count": 829,
-    "quality_score": 0.5475,
+    "word_count": 122,
+    "char_count": 810,
+    "quality_score": 0.8594777766132803,
     "olmocr_cost": null,
-    "native_word_count": 123
+    "native_word_count": 123,
+    "haiku_cost": 0.002252
   },
   "content": {
-    "full_text": "STATE OF CALIFORNIA \nFAIR POLITICAL PRACTICES COMMISSION \n• 428 J Street • Suite 620 • Sacramento, CA 95814-2329 \n(916) 322-5660 • Fax (916) 322-0886 \nAlex Olvera \nDivision Manager \nLos Angeles County \nRegistrar-Recorder/County Clerk \n12400 Imperial Highway \nNorwalk, CA 90650 \nJune 12, 2017 \nRe: \nYour Request for lnfonnal Assistance \nOur File No. \\V-17-109 \nDear Mr. Olvera: \nThis letter confirms your withdrawal of your request for fonnal written advice regarding the \ncampaign provisions of the Political Refonn Act. Please feel free to contact the Fair Political \nPractices Commission for advice if another question arises under the Act. \nIf you have other questions on this matter, please contact me at (916) 322-5660. \nBy: \nMFC:jgl \nSincerely, \nHyla P. Wagner \nGeneral Counsel \nMatthew F. hrist\n \nCounsel, Legal Division \n",
+    "full_text": "STATE OF CALIFORNIA\nFAIR POLITICAL PRACTICES COMMISSION\n428 J Street • Suite 620 • Sacramento, CA 95814-2329\n(916) 322-5660 • Fax (916) 322-0886\n\nJune 12, 2017\n\nAlex Olvera\nDivision Manager\nLos Angeles County\nRegistrar-Recorder/County Clerk\n12400 Imperial Highway\nNorwalk, CA 90650\n\nRe: Your Request for Informal Assistance\nOur File No. W-17-109\n\nDear Mr. Olvera:\n\nThis letter confirms your withdrawal of your request for formal written advice regarding the campaign provisions of the Political Reform Act. Please feel free to contact the Fair Political Practices Commission for advice if another question arises under the Act.\n\nIf you have other questions on this matter, please contact me at (916) 322-5660.\n\nSincerely,\n\nHyla P. Wagner\nGeneral Counsel\n\nBy: Matthew F. Christy\nCounsel, Legal Division\n\nMFC:jgl",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "QUESTION: Not applicable - this is a withdrawal letter confirming the withdrawal of a prior request for formal written advice regarding campaign provisions of the Political Reform Act.\n\nCONCLUSION: The FPPC confirms the requestor's withdrawal of their request for formal written advice on Political Reform Act campaign provisions.",
     "qa_source": "synthetic",
-    "first_500_words": "STATE OF CALIFORNIA FAIR POLITICAL PRACTICES COMMISSION • 428 J Street • Suite 620 • Sacramento, CA 95814-2329 (916) 322-5660 • Fax (916) 322-0886 Alex Olvera Division Manager Los Angeles County Registrar-Recorder/County Clerk 12400 Imperial Highway Norwalk, CA 90650 June 12, 2017 Re: Your Request for lnfonnal Assistance Our File No. \\V-17-109 Dear Mr. Olvera: This letter confirms your withdrawal of your request for fonnal written advice regarding the campaign provisions of the Political Refonn Act. Please feel free to contact the Fair Political Practices Commission for advice if another question arises under the Act. If you have other questions on this matter, please contact me at (916) 322-5660. By: MFC:jgl Sincerely, Hyla P. Wagner General Counsel Matthew F. hrist Counsel, Legal Division",
+    "first_500_words": "STATE OF CALIFORNIA FAIR POLITICAL PRACTICES COMMISSION 428 J Street • Suite 620 • Sacramento, CA 95814-2329 (916) 322-5660 • Fax (916) 322-0886 June 12, 2017 Alex Olvera Division Manager Los Angeles County Registrar-Recorder/County Clerk 12400 Imperial Highway Norwalk, CA 90650 Re: Your Request for Informal Assistance Our File No. W-17-109 Dear Mr. Olvera: This letter confirms your withdrawal of your request for formal written advice regarding the campaign provisions of the Political Reform Act. Please feel free to contact the Fair Political Practices Commission for advice if another question arises under the Act. If you have other questions on this matter, please contact me at (916) 322-5660. Sincerely, Hyla P. Wagner General Counsel By: Matthew F. Christy Counsel, Legal Division MFC:jgl",
     "summary": "FPPC confirmation letter acknowledging withdrawal of a request for formal written advice regarding campaign provisions of the Political Reform Act, dated June 12, 2017."
   }
 }

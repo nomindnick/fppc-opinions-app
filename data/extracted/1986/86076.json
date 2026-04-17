@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1986&tagCount=1&page=21"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:36:34.336969Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-20T21:54:45.347387Z",
     "page_count": 2,
-    "word_count": 242,
-    "char_count": 1482,
-    "quality_score": 0.5975,
+    "word_count": 240,
+    "char_count": 1444,
+    "quality_score": 0.864307438794727,
     "olmocr_cost": null,
-    "native_word_count": 242
+    "native_word_count": 242,
+    "haiku_cost": 0.004328
   },
   "content": {
-    "full_text": "California \nFair Political \nPractices Commission \nHonorable David Roberti \nstate Senator \nstate Capitol \nSacramento, \nCA \n95814 \nDear Senator Roberti: \nMarch 5, 1986 \nRe: \nYour Request for Advice \nFPPC No. A-86-076 \nThis letter is a follow-up to your letter dated \nFebruary 21, 1986, and to our subsequent telephone conversation. \nYou asked if you and your wife are both invited to attend a dinner \nfunction, are you required to report on your statement of Economic \nInterests the cost for your dinner only or the cost of both \ndinners. \nWhen you and your wife are both invited to attend a dinner \nfunction, you are required to report only the cost of your dinner. \nPlease call me at (916) 322-5662, if you have any additional \nquestions. \nSincerely, \n{2~'1Lu/~ \nAlice Hughes \nTechnical Assistance & Analysis \nAH:kt \n428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804 .. 0807 • (916)322 .. 5660 \n\n\nDAVID R08ERTI \nPRESIDENT PRO TEMPORE \nSTATE OF CALIFORNIA \nSENATE \nSACRAMENTO. CALIFORNIA 95814 \n3 \nr,. \nFebruary 21, 1986 \nMs. Alice Hughes \nDocuments Examiner \nFair Political Practices \nCorrnnission \n428 \"J\" Street, 8th Floor \nSacramento, CA \n95814 \nDear Ms. Hughes: \n3ubj: \nSchedule F, (Gifts) for Form 721 \nto be submitted March 3, 1986 \nWhen my wife and I are both invited to a dinner function, what \namount for the cost of the dinner should appear on my Form 721--\nthe cost for my dinner or the cost for both dinners? \nSincerely~ \ni} \n1(\",C3~J \nDAVID ROBERTI \nDR/mbg \n",
+    "full_text": "California\nFair Political\nPractices Commission\n\nMarch 5, 1986\n\nHonorable David Roberti\nState Senator\nState Capitol\nSacramento, CA 95814\n\nRe: Your Request for Advice\nFPPC No. A-86-076\n\nDear Senator Roberti:\n\nThis letter is a follow-up to your letter dated\nFebruary 21, 1986, and to our subsequent telephone conversation.\nYou asked if you and your wife are both invited to attend a dinner\nfunction, are you required to report on your Statement of Economic\nInterests, the cost for your dinner only or the cost of both\ndinners.\n\nWhen you and your wife are both invited to attend a dinner\nfunction, you are required to report only the cost of your dinner.\n\nPlease call me at (916) 322-5662, if you have any additional\nquestions.\n\nSincerely,\n\nAlice Hughes\nTechnical Assistance & Analysis\n\nAH:kt\n\n428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804-0807 • (916) 322-5660\n\nSTATE OF CALIFORNIA\nSENATE\nSACRAMENTO, CALIFORNIA 95814\n\nFEB 21 3 10 PM '86\n\nDAVID ROBERTI\nPRESIDENT PRO TEMPORE\n\n\nFebruary 21, 1986\n\n\nMs. Alice Hughes\nDocuments Examiner\nFair Political Practices\nCommission\n428 \"J\" Street, 8th Floor\nSacramento, CA 95814\n\nSubj: Schedule F, (Gifts) for Form 721\nto be submitted March 3, 1986\n\nDear Ms. Hughes:\n\nWhen my wife and I are both invited to a dinner function, what amount for the cost of the dinner should appear on my Form 721--the cost for my dinner or the cost for both dinners?\n\nSincerely,\n\n[signature]\n\nDAVID ROBERTI\n\nDR/mbg",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "QUESTION: s.",
     "qa_source": "extracted",
-    "first_500_words": "California Fair Political Practices Commission Honorable David Roberti state Senator state Capitol Sacramento, CA 95814 Dear Senator Roberti: March 5, 1986 Re: Your Request for Advice FPPC No. A-86-076 This letter is a follow-up to your letter dated February 21, 1986, and to our subsequent telephone conversation. You asked if you and your wife are both invited to attend a dinner function, are you required to report on your statement of Economic Interests the cost for your dinner only or the cost of both dinners. When you and your wife are both invited to attend a dinner function, you are required to report only the cost of your dinner. Please call me at (916) 322-5662, if you have any additional questions. Sincerely, {2~'1Lu/~ Alice Hughes Technical Assistance & Analysis AH:kt 428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804 .. 0807 • (916)322 .. 5660 DAVID R08ERTI PRESIDENT PRO TEMPORE STATE OF CALIFORNIA SENATE SACRAMENTO. CALIFORNIA 95814 3 r,. February 21, 1986 Ms. Alice Hughes Documents Examiner Fair Political Practices Corrnnission 428 \"J\" Street, 8th Floor Sacramento, CA 95814 Dear Ms. Hughes: 3ubj: Schedule F, (Gifts) for Form 721 to be submitted March 3, 1986 When my wife and I are both invited to a dinner function, what amount for the cost of the dinner should appear on my Form 721-- the cost for my dinner or the cost for both dinners? Sincerely~ i} 1(\",C3~J DAVID ROBERTI DR/mbg",
+    "first_500_words": "California Fair Political Practices Commission March 5, 1986 Honorable David Roberti State Senator State Capitol Sacramento, CA 95814 Re: Your Request for Advice FPPC No. A-86-076 Dear Senator Roberti: This letter is a follow-up to your letter dated February 21, 1986, and to our subsequent telephone conversation. You asked if you and your wife are both invited to attend a dinner function, are you required to report on your Statement of Economic Interests, the cost for your dinner only or the cost of both dinners. When you and your wife are both invited to attend a dinner function, you are required to report only the cost of your dinner. Please call me at (916) 322-5662, if you have any additional questions. Sincerely, Alice Hughes Technical Assistance & Analysis AH:kt 428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804-0807 • (916) 322-5660 STATE OF CALIFORNIA SENATE SACRAMENTO, CALIFORNIA 95814 FEB 21 3 10 PM '86 DAVID ROBERTI PRESIDENT PRO TEMPORE February 21, 1986 Ms. Alice Hughes Documents Examiner Fair Political Practices Commission 428 \"J\" Street, 8th Floor Sacramento, CA 95814 Subj: Schedule F, (Gifts) for Form 721 to be submitted March 3, 1986 Dear Ms. Hughes: When my wife and I are both invited to a dinner function, what amount for the cost of the dinner should appear on my Form 721--the cost for my dinner or the cost for both dinners? Sincerely, [signature] DAVID ROBERTI DR/mbg",
     "summary": null
   }
 }

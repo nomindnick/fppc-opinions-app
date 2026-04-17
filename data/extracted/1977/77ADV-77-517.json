@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=50"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:37:16.650479Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-19T20:46:46.876878Z",
     "page_count": 1,
-    "word_count": 92,
-    "char_count": 488,
-    "quality_score": 0.5125,
+    "word_count": 93,
+    "char_count": 496,
+    "quality_score": 0.809707713884993,
     "olmocr_cost": null,
-    "native_word_count": 92
+    "native_word_count": 92,
+    "haiku_cost": 0.00186
   },
   "content": {
-    "full_text": "Section 91013 \nClerk May Waive Fine on Estoppel Principle \nI advised Tony Alperin on March 30, 1977, that the \nClerk could waive the fine in the following circumstances. \nFiler receives notice that he will be fined if he does not \nfi \nwithin five days. \nHe calls the Clerk and asks what is \nthe last day on which he can file without fine. \nHe is told \na day which is in fact the sixth day and he files promptly. \nI advised \nthat the Clerk could waive the fine on an \nestoppel theory. \n1 \n",
+    "full_text": "Section 91013\n\nClerk May Waive Fine on Estoppel Principle\n\nI advised Tony Alperin on March 30, 1977, that the\n\nClerk could waive the fine in the following circumstances.\n\nFiler receives notice that he will be fined if he does not\n\nfile within five days. He calls the Clerk and asks what is\n\nthe last day on which he can file without fine. He is told\n\na day which is in fact the sixth day and he files promptly.\n\nI advised Tony that the Clerk could waive the fine on an\n\nestoppel theory.\n\nm-77-517",
     "full_text_markdown": null
   },
   "parsed": {
@@ -67,7 +68,7 @@
   "embedding": {
     "qa_text": "QUESTION: Whether a County Clerk may waive a filing fine when a filer relied on incorrect information provided by the Clerk regarding the deadline for filing without penalty.\n\nCONCLUSION: The Clerk may waive the fine on an estoppel principle when a filer is given incorrect deadline information by the Clerk and files in reliance on that information.",
     "qa_source": "synthetic",
-    "first_500_words": "Section 91013 Clerk May Waive Fine on Estoppel Principle I advised Tony Alperin on March 30, 1977, that the Clerk could waive the fine in the following circumstances. Filer receives notice that he will be fined if he does not fi within five days. He calls the Clerk and asks what is the last day on which he can file without fine. He is told a day which is in fact the sixth day and he files promptly. I advised that the Clerk could waive the fine on an estoppel theory. 1",
+    "first_500_words": "Section 91013 Clerk May Waive Fine on Estoppel Principle I advised Tony Alperin on March 30, 1977, that the Clerk could waive the fine in the following circumstances. Filer receives notice that he will be fined if he does not file within five days. He calls the Clerk and asks what is the last day on which he can file without fine. He is told a day which is in fact the sixth day and he files promptly. I advised Tony that the Clerk could waive the fine on an estoppel theory. m-77-517",
     "summary": "This advice letter addresses whether a County Clerk may waive a filing fine under Section 91013 when a filer receives misinformation about the filing deadline and relies on it. The FPPC concludes that the Clerk may waive the fine based on estoppel theory."
   }
 }

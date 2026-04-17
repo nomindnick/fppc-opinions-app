@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1985&tagCount=1&page=9"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:36:39.394849Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-22T03:26:57.457116Z",
     "page_count": 1,
-    "word_count": 124,
-    "char_count": 823,
-    "quality_score": 0.5975,
+    "word_count": 126,
+    "char_count": 905,
+    "quality_score": 0.8845132793323516,
     "olmocr_cost": null,
-    "native_word_count": 124
+    "native_word_count": 124,
+    "haiku_cost": 0.00212
   },
   "content": {
-    "full_text": "State of California \nMemorandum \nTo \nI OPINION REQUEST MEETING PARTICIPANTS \nFrom , \nFAIR POLITICAL PRACTICES COMMISSION \nMary Ann \nDate \nI \nJune 14, 1985 \nTracy Fletcher from the Secretary of State's Office \nrequested copies of past written advice concerning \nthe reporting requirements of a California PAC making \ncontributions to federal candidates. \nOur past advice required that a lump sum amount be \nreported and to indicate that this amount represents \ncontributions made to federal candidates. \nIn light of the fact that Government Code Section 84211 \nrequires itemization of all expenditures of $100 or \nmore provide the name and address of the payee, do we \nwant to reconsider our past advice? \n7/19 '- Answer: \nREPORT \nLU~1P Sm1 A..~OUNT AND INDICATE THE AMOUNT REPRESENTS \nCONTRIBUTIONS TO FEDERAL CANDIDATES. \n",
+    "full_text": "State of California\n\nMemorandum\n\nTo : OPINION REQUEST MEETING PARTICIPANTS                Date : June 14, 1985\n\n                                                          M-85-149\n\nFrom : FAIR POLITICAL PRACTICES COMMISSION\n         Mary Ann\n\nSubject:\n\n\nTracy Fletcher from the Secretary of State's Office\nrequested copies of past written advice concerning\nthe reporting requirements of a California PAC making\ncontributions to federal candidates.\n\nOur past advice required that a lump sum amount be\nreported and to indicate that this amount represents\ncontributions made to federal candidates.\n\nIn light of the fact that Government Code Section 84211\nrequires itemization of all expenditures of $100 or\nmore provide the name and address of the payee, do we\nwant to reconsider our past advice?\n\n\n7/19 - Answer:\n\nREPORT LUMP SUM AMOUNT AND INDICATE THE AMOUNT REPRESENTS\nCONTRIBUTIONS TO FEDERAL CANDIDATES.",
     "full_text_markdown": null
   },
   "parsed": {
@@ -69,7 +70,7 @@
   "embedding": {
     "qa_text": "QUESTION: In light of the fact that Government Code Section 84211 requires itemization of all expenditures of $100 or more provide the name and address of the payee, do we want to reconsider our past advice?\n\nCONCLUSION: REPORT LUMP SUM AMOUNT AND INDICATE THE AMOUNT REPRESENTS CONTRIBUTIONS TO FEDERAL CANDIDATES.",
     "qa_source": "mixed",
-    "first_500_words": "State of California Memorandum To I OPINION REQUEST MEETING PARTICIPANTS From , FAIR POLITICAL PRACTICES COMMISSION Mary Ann Date I June 14, 1985 Tracy Fletcher from the Secretary of State's Office requested copies of past written advice concerning the reporting requirements of a California PAC making contributions to federal candidates. Our past advice required that a lump sum amount be reported and to indicate that this amount represents contributions made to federal candidates. In light of the fact that Government Code Section 84211 requires itemization of all expenditures of $100 or more provide the name and address of the payee, do we want to reconsider our past advice? 7/19 '- Answer: REPORT LU~1P Sm1 A..~OUNT AND INDICATE THE AMOUNT REPRESENTS CONTRIBUTIONS TO FEDERAL CANDIDATES.",
+    "first_500_words": "State of California Memorandum To : OPINION REQUEST MEETING PARTICIPANTS Date : June 14, 1985 M-85-149 From : FAIR POLITICAL PRACTICES COMMISSION Mary Ann Subject: Tracy Fletcher from the Secretary of State's Office requested copies of past written advice concerning the reporting requirements of a California PAC making contributions to federal candidates. Our past advice required that a lump sum amount be reported and to indicate that this amount represents contributions made to federal candidates. In light of the fact that Government Code Section 84211 requires itemization of all expenditures of $100 or more provide the name and address of the payee, do we want to reconsider our past advice? 7/19 - Answer: REPORT LUMP SUM AMOUNT AND INDICATE THE AMOUNT REPRESENTS CONTRIBUTIONS TO FEDERAL CANDIDATES.",
     "summary": "The FPPC addressed whether past advice on reporting requirements for California PACs making contributions to federal candidates should be reconsidered in light of Government Code Section 84211's itemization requirements. The FPPC reaffirmed its past advice to report such contributions as a lump sum with appropriate notation."
   }
 }

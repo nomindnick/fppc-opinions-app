@@ -17,15 +17,16 @@
     "method": "haiku_vision",
     "extracted_at": "2026-02-27T00:42:13.589726Z",
     "page_count": 2,
-    "word_count": 114,
-    "char_count": 668,
-    "quality_score": 0.7786194765042262,
+    "word_count": 77,
+    "char_count": 446,
+    "quality_score": 0.7234813547187822,
     "olmocr_cost": 0.004865019999999999,
     "native_word_count": 82,
-    "haiku_cost": 0.0033504000000000003
+    "haiku_cost": 0.0033504000000000003,
+    "commentary_stripped_at": "2026-04-07T12:07:43.289270Z"
   },
   "content": {
-    "full_text": "Dear Luisa Menchaca\n\n\nThis letter is in regard to our phone conversation on 11/06/92 at\n0930 hours. I would appreciate a letter to be sent to me\nregarding the issues we discussed regarding it my serving on a\nspecial fire district board would be a conflict of interest,\nbeing that I am employed with the California Department of\nForestry and Fire Protection.\n\nThank You\n\nRusty Souza\n15632 W. E Street\nKerman, CA 93630\n(209) 846-6736\n\nRusty Souza\n\nThe image appears to be mostly blank or very faintly printed, with only some barely visible horizontal lines or marks scattered across the page. The content is too faint or unclear to reliably transcribe any specific text.",
+    "full_text": "Dear Luisa Menchaca\n\n\nThis letter is in regard to our phone conversation on 11/06/92 at\n0930 hours. I would appreciate a letter to be sent to me\nregarding the issues we discussed regarding it my serving on a\nspecial fire district board would be a conflict of interest,\nbeing that I am employed with the California Department of\nForestry and Fire Protection.\n\nThank You\n\nRusty Souza\n15632 W. E Street\nKerman, CA 93630\n(209) 846-6736\n\nRusty Souza\n\n",
     "full_text_markdown": null
   },
   "parsed": {
@@ -68,7 +69,7 @@
   "embedding": {
     "qa_text": "QUESTION: Would serving on a special fire district board constitute a conflict of interest given employment with the California Department of Forestry and Fire Protection?",
     "qa_source": "mixed",
-    "first_500_words": "Dear Luisa Menchaca, This letter is in regard to our phone conversation on 11/06/92 at 0930 hours. I would appreciate a letter to be sent to me regarding the issues we discussed regarding if my serving on a special fire district board would be a conflict of interest, being that I am employed with the California Department of Forestry and Fire Protection. Thank You Rusty Souza 15632 W. E Street Kerman, CA 93630 (209) 846-6736 The image you provided is mostly blank, with very little visible content. There are some faint horizontal lines and a small dark spot near the top center, but no text or significant features are present. If you have another page or section of the document that you would like to discuss, please provide it.",
+    "first_500_words": "Dear Luisa Menchaca This letter is in regard to our phone conversation on 11/06/92 at 0930 hours. I would appreciate a letter to be sent to me regarding the issues we discussed regarding it my serving on a special fire district board would be a conflict of interest, being that I am employed with the California Department of Forestry and Fire Protection. Thank You Rusty Souza 15632 W. E Street Kerman, CA 93630 (209) 846-6736 Rusty Souza",
     "summary": "Rusty Souza requests written FPPC advice regarding potential conflict of interest issues related to serving on a special fire district board while employed by the California Department of Forestry and Fire Protection, following a phone conversation with Luisa Menchaca."
   }
 }

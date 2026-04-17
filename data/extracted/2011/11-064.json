@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2011&tagCount=1&page=5"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:33:46.232404Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-22T00:13:17.111216Z",
     "page_count": 1,
-    "word_count": 199,
-    "char_count": 1251,
-    "quality_score": 0.6675,
+    "word_count": 183,
+    "char_count": 1195,
+    "quality_score": 0.8759003319918279,
     "olmocr_cost": null,
-    "native_word_count": 199
+    "native_word_count": 199,
+    "haiku_cost": 0.002776
   },
   "content": {
-    "full_text": "Ernesto Medina \nFAIR POLITICAL PRACTICES COMMISSION \n428 J Street • Suite 620 • Sacramento, CA 95814-2329 \n(916) 322-5660 • Fax (9 I 6) 322-0886 \nApril 5, 2011 \nC/O Kings County Sheriffs Office \nJail and Inmate information \nP.O. Box 1699 \nHanford, CA 93230 \nRe: \nYour Request for Advice \nOur File No. W-11-064 \nDear Mr. Medina: \nThis letter is in response to your request for written advice of March 25, 2011. Your \ninquiry primarily presents issues that are outside the purview of the Political Reform Act \n(\"Act\") . Thus, under the provisions of Regulation 18329(b )(8)(0), copy enclosed, we are \nunable to provide any advice on this matter. \nYou may wish to contact one of the following with your concerns: \nU.S. Department of Justice \nCalifornia Department of Justice \nAttn: Public Inquiry Unit \n950 Pennsylvania Avenue, NW \nWashington, DC 20530-0001 \nP.O. Box 944255 \nSacramento, CA 94244-2550 \nShould you need assistance in the future, you may contact me at (916) 322-5660. \nJWW:jgl \nEnclosure \n,/if cerel\u0006, \u0007 \nf \n\u0002 , µ \n,1' \n! \nt \nJohn W. Wallace \n( \n1,Assistant GeneraJ Counsel \nV\n'Legal Division \n1 Government Code Sections 81000-91014. Commission Regulations appear at title 2, Sections 18109-\n18996, of the California Code of Regulations. \n",
+    "full_text": "FAIR POLITICAL PRACTICES COMMISSION\n428 J Street • Suite 620 • Sacramento, CA 95814-2329\n(916) 322-5660 • Fax (916) 322-0886\n\nApril 5, 2011\n\n\nErnesto Medina\nC/O Kings County Sheriff's Office\nJail and Inmate information\nP.O. Box 1699\nHanford, CA 93230\n\nRe: Your Request for Advice\nOur File No. W-11-064\n\nDear Mr. Medina:\n\nThis letter is in response to your request for written advice of March 25, 2011. Your inquiry primarily presents issues that are outside the purview of the Political Reform Act (\"Act\")¹. Thus, under the provisions of Regulation 18329(b)(8)(D), copy enclosed, we are unable to provide any advice on this matter.\n\nYou may wish to contact one of the following with your concerns:\n\nU.S. Department of Justice\n950 Pennsylvania Avenue, NW\nWashington, DC 20530-0001\n\nCalifornia Department of Justice\nAttn: Public Inquiry Unit\nP.O. Box 944255\nSacramento, CA 94244-2550\n\nShould you need assistance in the future, you may contact me at (916) 322-5660.\n\nSincerely,\n\nJohn W. Wallace\nAssistant General Counsel\nLegal Division\n\nJWW:jgl\nEnclosure\n\n¹ Government Code Sections 81000-91014. Commission Regulations appear at title 2, Sections 18109-18996, of the California Code of Regulations.",
     "full_text_markdown": null
   },
   "parsed": {
@@ -70,7 +71,7 @@
   "embedding": {
     "qa_text": "QUESTION: Mr. Medina submitted an inquiry to the FPPC regarding matters that fall outside the scope of the Political Reform Act.\n\nCONCLUSION: The FPPC is unable to provide advice because the inquiry presents issues outside the purview of the Political Reform Act, and Mr. Medina is directed to contact the U.S. Department of Justice or California Department of Justice with his concerns.",
     "qa_source": "synthetic",
-    "first_500_words": "Ernesto Medina FAIR POLITICAL PRACTICES COMMISSION 428 J Street • Suite 620 • Sacramento, CA 95814-2329 (916) 322-5660 • Fax (9 I 6) 322-0886 April 5, 2011 C/O Kings County Sheriffs Office Jail and Inmate information P.O. Box 1699 Hanford, CA 93230 Re: Your Request for Advice Our File No. W-11-064 Dear Mr. Medina: This letter is in response to your request for written advice of March 25, 2011. Your inquiry primarily presents issues that are outside the purview of the Political Reform Act (\"Act\") . Thus, under the provisions of Regulation 18329(b )(8)(0), copy enclosed, we are unable to provide any advice on this matter. You may wish to contact one of the following with your concerns: U.S. Department of Justice California Department of Justice Attn: Public Inquiry Unit 950 Pennsylvania Avenue, NW Washington, DC 20530-0001 P.O. Box 944255 Sacramento, CA 94244-2550 Should you need assistance in the future, you may contact me at (916) 322-5660. JWW:jgl Enclosure ,/if cerel\u0006, \u0007 f \u0002 , µ ,1' ! t John W. Wallace ( 1,Assistant GeneraJ Counsel V 'Legal Division 1 Government Code Sections 81000-91014. Commission Regulations appear at title 2, Sections 18109- 18996, of the California Code of Regulations.",
+    "first_500_words": "FAIR POLITICAL PRACTICES COMMISSION 428 J Street • Suite 620 • Sacramento, CA 95814-2329 (916) 322-5660 • Fax (916) 322-0886 April 5, 2011 Ernesto Medina C/O Kings County Sheriff's Office Jail and Inmate information P.O. Box 1699 Hanford, CA 93230 Re: Your Request for Advice Our File No. W-11-064 Dear Mr. Medina: This letter is in response to your request for written advice of March 25, 2011. Your inquiry primarily presents issues that are outside the purview of the Political Reform Act (\"Act\")¹. Thus, under the provisions of Regulation 18329(b)(8)(D), copy enclosed, we are unable to provide any advice on this matter. You may wish to contact one of the following with your concerns: U.S. Department of Justice 950 Pennsylvania Avenue, NW Washington, DC 20530-0001 California Department of Justice Attn: Public Inquiry Unit P.O. Box 944255 Sacramento, CA 94244-2550 Should you need assistance in the future, you may contact me at (916) 322-5660. Sincerely, John W. Wallace Assistant General Counsel Legal Division JWW:jgl Enclosure ¹ Government Code Sections 81000-91014. Commission Regulations appear at title 2, Sections 18109-18996, of the California Code of Regulations.",
     "summary": "This is a declination letter from the FPPC to Ernesto Medina stating that his March 25, 2011 request for advice cannot be addressed because the issues raised fall outside the scope of the Political Reform Act."
   }
 }

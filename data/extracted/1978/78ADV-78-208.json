@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=9"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:37:09.222797Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-28T02:58:13.498750Z",
     "page_count": 1,
-    "word_count": 198,
-    "char_count": 1274,
-    "quality_score": 0.7175,
+    "word_count": 199,
+    "char_count": 1346,
+    "quality_score": 0.9285861111111111,
     "olmocr_cost": null,
-    "native_word_count": 198
+    "native_word_count": 198,
+    "haiku_cost": 0.002492
   },
   "content": {
-    "full_text": "State of California \nMemorandum \nTo \nFile \nDate \n: October 31, 1978 \nBarbara Campbell \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nSubject: \nGovernment Code Section 84214 \nAt our October 30, 1978, opinion request meeting, the \nstaff concluded late contribution reports should be filed \nwith the offices that received pre-election campaign \nstatements and, if known at the time of the making of the \nlate contributions, the offices that will receive the \npost-election campaign statement. \nIf the office that will \nreceive the post-election campiagn statement is not known \nat the time of the making of the late contribution, the maker \nshould exercise his or her best judgment in sending the late \ncontribution report. \nIn imposing fines for late contribution reports, the \nstaff urged that filing officers should exercise reasonable \njudgment in fining for late contribution reports. \nA mailgram is a telegram for notification purposes of \nGovernment Code Section 84214. \nIn the joint venture arrange-\nment with the U.S. Postal Service for mailgrams, Western \nUnion sends a telegram to the post office for the addressee \n(by using the name of the city and zip code) and then the \npost office in turn delivers the mailgram to the addressee \nin the next day's mail delivery. \n",
+    "full_text": "State of California\n\nMemorandum\n\nTo      :    File                                                     Date  :October 31, 1978\n\n\nFrom  :    Barbara Campbell\n            FAIR POLITICAL PRACTICES COMMISSION\n\nSubject:   Government Code Section 84214\n\n     At our October 30, 1978, opinion request meeting, the\nstaff concluded late contribution reports should be filed\nwith the offices that received pre-election campaign\nstatements and, if known at the time of the making of the\nlate contributions, the offices that will receive the\npost-election campaign statement. If the office that will\nreceive the post-election campaign statement is not known\nat the time of the making of the late contribution, the maker\nshould exercise his or her best judgment in sending the late\ncontribution report.\n\n     In imposing fines for late contribution reports, the\nstaff urged that filing officers should exercise reasonable\njudgment in fining for late contribution reports.\n\n     A mailgram is a telegram for notification purposes of\nGovernment Code Section 84214. In the joint venture arrange-\nment with the U.S. Postal Service for mailgrams, Western\nUnion sends a telegram to the post office for the addressee\n(by using the name of the city and zip code) and then the\npost office in turn delivers the mailgram to the addressee\nin the next day's mail delivery.",
     "full_text_markdown": null
   },
   "parsed": {
@@ -67,7 +68,7 @@
   "embedding": {
     "qa_text": "QUESTION: Where should late contribution reports be filed under Government Code Section 84214, and what standards should apply to filing and enforcement?\n\nCONCLUSION: Late contribution reports should be filed with offices that received pre-election campaign statements and, if known, offices that will receive post-election statements. Filers should exercise best judgment if the post-election recipient is unknown. Filing officers should exercise reasonable judgment when imposing fines, and mailgrams are acceptable notification methods.",
     "qa_source": "synthetic",
-    "first_500_words": "State of California Memorandum To File Date : October 31, 1978 Barbara Campbell From FAIR POLITICAL PRACTICES COMMISSION Subject: Government Code Section 84214 At our October 30, 1978, opinion request meeting, the staff concluded late contribution reports should be filed with the offices that received pre-election campaign statements and, if known at the time of the making of the late contributions, the offices that will receive the post-election campaign statement. If the office that will receive the post-election campiagn statement is not known at the time of the making of the late contribution, the maker should exercise his or her best judgment in sending the late contribution report. In imposing fines for late contribution reports, the staff urged that filing officers should exercise reasonable judgment in fining for late contribution reports. A mailgram is a telegram for notification purposes of Government Code Section 84214. In the joint venture arrange- ment with the U.S. Postal Service for mailgrams, Western Union sends a telegram to the post office for the addressee (by using the name of the city and zip code) and then the post office in turn delivers the mailgram to the addressee in the next day's mail delivery.",
+    "first_500_words": "State of California Memorandum To : File Date :October 31, 1978 From : Barbara Campbell FAIR POLITICAL PRACTICES COMMISSION Subject: Government Code Section 84214 At our October 30, 1978, opinion request meeting, the staff concluded late contribution reports should be filed with the offices that received pre-election campaign statements and, if known at the time of the making of the late contributions, the offices that will receive the post-election campaign statement. If the office that will receive the post-election campaign statement is not known at the time of the making of the late contribution, the maker should exercise his or her best judgment in sending the late contribution report. In imposing fines for late contribution reports, the staff urged that filing officers should exercise reasonable judgment in fining for late contribution reports. A mailgram is a telegram for notification purposes of Government Code Section 84214. In the joint venture arrange- ment with the U.S. Postal Service for mailgrams, Western Union sends a telegram to the post office for the addressee (by using the name of the city and zip code) and then the post office in turn delivers the mailgram to the addressee in the next day's mail delivery.",
     "summary": "FPPC staff memorandum addressing the filing requirements for late contribution reports under Government Code Section 84214, establishing guidance on where reports should be submitted and standards for enforcement."
   }
 }

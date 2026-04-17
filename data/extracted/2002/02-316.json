@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2002&tagCount=1&page=31"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:34:28.578748Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-19T19:47:34.111450Z",
     "page_count": 1,
-    "word_count": 160,
-    "char_count": 1085,
-    "quality_score": 0.585,
+    "word_count": 167,
+    "char_count": 1154,
+    "quality_score": 0.8734721803311141,
     "olmocr_cost": null,
-    "native_word_count": 160
+    "native_word_count": 160,
+    "haiku_cost": 0.002556
   },
   "content": {
-    "full_text": "Farn PolrrrcAL PnecrrcEs CorraMrssroN\n428 J Street. Suite 620. Sacramento, CA 95814-2329\n(916) 322-5660. Fax (916) 322-0886\nDecember 2,2002\nDavid Bauer\n400 Capitol Mall, Suite 1560\nSacramento, CA 95814\nYour Request for Advice\nOur File No. W-02-316\nDear Mr. Bauer:\nThis letter is in response to your request for written advice on the campaign provisions of\nthe Political Reform Act.r Under California Code of Regulations 18329OX8)(B), copy enclosed,\nunless you are an authorized representative of the candidate for whom you seek assistance, the\nFair Political Practices Commission cannot address your questions or provide analysis. Please\nreview the enclosed pamphlet, \"Getting Advice From the FPPC,\" prior to submission of future\nadvice requests.\nShould you have additional questions regarding this matter, please do not hesitate to\ncontact me at (916) 322-5660.\nSincerely,\nuisa Menchaca\n. Wallace\nGeneral Counsel\nEnclosures\nJwwjg\nl. Government Code sections 81000-91014. Commission regulations appear at Title 2, sections 18109-\n18997, of the California Code of Regulations.\nRe:\nE=:l\n",
+    "full_text": "FAIR POLITICAL PRACTICES COMMISSION\n428 J Street • Suite 620 • Sacramento, CA 95814-2329\n(916) 322-5660 • Fax (916) 322-0886\nDecember 2, 2002\n\n\nDavid Bauer\n400 Capitol Mall, Suite 1560\nSacramento, CA 95814\n\nRe: Your Request for Advice\nOur File No. W-02-316\n\nDear Mr. Bauer:\n\nThis letter is in response to your request for written advice on the campaign provisions of the Political Reform Act.¹ Under California Code of Regulations 18329(b)(8)(B), copy enclosed, unless you are an authorized representative of the candidate for whom you seek assistance, the Fair Political Practices Commission cannot address your questions or provide analysis. Please review the enclosed pamphlet, \"Getting Advice From the FPPC,\" prior to submission of future advice requests.\n\nShould you have additional questions regarding this matter, please do not hesitate to contact me at (916) 322-5660.\n\nSincerely,\n\nLuisa Menchaca\nGeneral Counsel\n\nJohn W. Wallace\nAssistant General Counsel\n\nEnclosures\nJWW/jg\n\n_________________________\n\n1. Government Code sections 81000-91014. Commission regulations appear at Title 2, sections 18109-18997, of the California Code of Regulations.",
     "full_text_markdown": null
   },
   "parsed": {
@@ -70,7 +71,7 @@
   "embedding": {
     "qa_text": "QUESTION: Can the FPPC provide advice on campaign provisions of the Political Reform Act to a person who is not an authorized representative of a candidate?\n\nCONCLUSION: The FPPC cannot address questions or provide analysis unless the requester is an authorized representative of the candidate for whom advice is being sought, per California Code of Regulations 18329OX8)(B).",
     "qa_source": "synthetic",
-    "first_500_words": "Farn PolrrrcAL PnecrrcEs CorraMrssroN 428 J Street. Suite 620. Sacramento, CA 95814-2329 (916) 322-5660. Fax (916) 322-0886 December 2,2002 David Bauer 400 Capitol Mall, Suite 1560 Sacramento, CA 95814 Your Request for Advice Our File No. W-02-316 Dear Mr. Bauer: This letter is in response to your request for written advice on the campaign provisions of the Political Reform Act.r Under California Code of Regulations 18329OX8)(B), copy enclosed, unless you are an authorized representative of the candidate for whom you seek assistance, the Fair Political Practices Commission cannot address your questions or provide analysis. Please review the enclosed pamphlet, \"Getting Advice From the FPPC,\" prior to submission of future advice requests. Should you have additional questions regarding this matter, please do not hesitate to contact me at (916) 322-5660. Sincerely, uisa Menchaca . Wallace General Counsel Enclosures Jwwjg l. Government Code sections 81000-91014. Commission regulations appear at Title 2, sections 18109- 18997, of the California Code of Regulations. Re: E=:l",
+    "first_500_words": "FAIR POLITICAL PRACTICES COMMISSION 428 J Street • Suite 620 • Sacramento, CA 95814-2329 (916) 322-5660 • Fax (916) 322-0886 December 2, 2002 David Bauer 400 Capitol Mall, Suite 1560 Sacramento, CA 95814 Re: Your Request for Advice Our File No. W-02-316 Dear Mr. Bauer: This letter is in response to your request for written advice on the campaign provisions of the Political Reform Act.¹ Under California Code of Regulations 18329(b)(8)(B), copy enclosed, unless you are an authorized representative of the candidate for whom you seek assistance, the Fair Political Practices Commission cannot address your questions or provide analysis. Please review the enclosed pamphlet, \"Getting Advice From the FPPC,\" prior to submission of future advice requests. Should you have additional questions regarding this matter, please do not hesitate to contact me at (916) 322-5660. Sincerely, Luisa Menchaca General Counsel John W. Wallace Assistant General Counsel Enclosures JWW/jg _________________________ 1. Government Code sections 81000-91014. Commission regulations appear at Title 2, sections 18109-18997, of the California Code of Regulations.",
     "summary": "The FPPC declines to provide advice to David Bauer on campaign provisions of the Political Reform Act because he does not appear to be an authorized representative of a candidate, as required by regulations."
   }
 }

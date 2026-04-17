@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=6"
   },
   "extraction": {
-    "method": "native+olmocr",
-    "extracted_at": "2026-02-07T16:46:44.350680Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-04-04T21:23:13.317997Z",
     "page_count": 1,
-    "word_count": 25,
-    "char_count": 135,
-    "quality_score": 0.33999999999999997,
+    "word_count": 24,
+    "char_count": 148,
+    "quality_score": 0.2965804303278689,
     "olmocr_cost": 0.00237704,
-    "native_word_count": 25
+    "native_word_count": 25,
+    "haiku_cost": 0.001452
   },
   "content": {
-    "full_text": "market va \nas income. \nReporting Real Proper \nOnly the equi \nvalue in real \nI \nneed be disclo \nLoans must \n82033 \nI not the \ndis \nsed \n",
+    "full_text": "82033\n\nReporting Real Property\n\nOnly the equity value in real property, not the\nmarket value, need be disclosed.  Loans must be disclosed\nas income.",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "QUESTION: The document addresses reporting requirements for real property and loans, specifically regarding what equity value must be disclosed for real property holdings.\n\nCONCLUSION: Only the equity value in real property need be disclosed, and loans must be reported (with specific reference to a loan amount of 82033, though the full context is unclear due to document fragmentation).",
     "qa_source": "synthetic",
-    "first_500_words": "market va as income. Reporting Real Proper Only the equi value in real I need be disclo Loans must 82033 I not the dis sed",
+    "first_500_words": "82033 Reporting Real Property Only the equity value in real property, not the market value, need be disclosed. Loans must be disclosed as income.",
     "summary": "This FPPC advice letter addresses the disclosure requirements for real property equity and loan reporting under California political finance regulations."
   }
 }

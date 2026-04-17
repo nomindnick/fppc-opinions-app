@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=19"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:37:10.065613Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-19T20:30:03.830830Z",
     "page_count": 1,
-    "word_count": 99,
-    "char_count": 627,
-    "quality_score": 0.5975,
+    "word_count": 107,
+    "char_count": 717,
+    "quality_score": 0.8387141895075787,
     "olmocr_cost": null,
-    "native_word_count": 99
+    "native_word_count": 99,
+    "haiku_cost": 0.002128
   },
   "content": {
-    "full_text": "December 20, 1978 \nFair Political Practices Commission \nSacramento, California \nRe: \nFishkin Campaign Committee \nLD. \n770041 \nThe current campaign debt of this Committee is less than $1,000.00. \nI plan no further fundraisers but simply to pay it from personal \nfunds. \nAny reports (after the one due on January 31, 1979), will \nsimply reflect transfer of my personal funds to the campaign account \nand payments on outstanding debts. \nIs there any method for me to file a final report showing this? \nVery truly y~urs, \nJE~OME FISH~rN \nAtt=brney ~t Law \nJF/rsg \nJerome Fishkin, Esq. \n1978 -\n45th Avenue \nSan Francisco, CA 94116 \n",
+    "full_text": "December 20, 1978\n\n\nFair Political Practices Commission\nSacramento, California\n\nRe: Fishkin Campaign Committee\n    I.D. #770041\n\nThe current campaign debt of this Committee is less than $1,000.00. I plan no further fundraisers but simply to pay it from personal funds. Any reports (after the one due on January 31, 1979) will simply reflect transfer of my personal funds to the campaign account and payments on outstanding debts.\n\nIs there any method for me to file a final report showing this?\n\nVery truly yours,\n\n\nJEROME FISHKIN\nAttorney at Law\n\nJF/rsg\n\nJerome Fishkin, Esq.\n1978 - 45th Avenue\nSan Francisco, CA 94116\n\n\n[illegible]\n[illegible]\n[illegible]\n[illegible]\n[illegible]\n[illegible]\n[illegible]\n[illegible]",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "QUESTION: Is there any method for me to file a final report showing this?",
     "qa_source": "mixed",
-    "first_500_words": "December 20, 1978 Fair Political Practices Commission Sacramento, California Re: Fishkin Campaign Committee LD. 770041 The current campaign debt of this Committee is less than $1,000.00. I plan no further fundraisers but simply to pay it from personal funds. Any reports (after the one due on January 31, 1979), will simply reflect transfer of my personal funds to the campaign account and payments on outstanding debts. Is there any method for me to file a final report showing this? Very truly y~urs, JE~OME FISH~rN Att=brney ~t Law JF/rsg Jerome Fishkin, Esq. 1978 - 45th Avenue San Francisco, CA 94116",
+    "first_500_words": "December 20, 1978 Fair Political Practices Commission Sacramento, California Re: Fishkin Campaign Committee I.D. #770041 The current campaign debt of this Committee is less than $1,000.00. I plan no further fundraisers but simply to pay it from personal funds. Any reports (after the one due on January 31, 1979) will simply reflect transfer of my personal funds to the campaign account and payments on outstanding debts. Is there any method for me to file a final report showing this? Very truly yours, JEROME FISHKIN Attorney at Law JF/rsg Jerome Fishkin, Esq. 1978 - 45th Avenue San Francisco, CA 94116 [illegible] [illegible] [illegible] [illegible] [illegible] [illegible] [illegible] [illegible]",
     "summary": "Jerome Fishkin, an attorney representing the Fishkin Campaign Committee with outstanding campaign debt under $1,000, inquires about the proper procedure for filing a final campaign report showing only personal fund transfers and debt repayment with no further fundraising."
   }
 }

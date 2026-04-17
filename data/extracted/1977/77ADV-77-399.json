@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=22"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:37:13.887980Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-19T19:51:16.505933Z",
     "page_count": 1,
-    "word_count": 91,
-    "char_count": 589,
-    "quality_score": 0.515,
+    "word_count": 97,
+    "char_count": 680,
+    "quality_score": 0.8177711538461538,
     "olmocr_cost": null,
-    "native_word_count": 91
+    "native_word_count": 91,
+    "haiku_cost": 0.001968
   },
   "content": {
-    "full_text": "State of California \nMemorandum \nTo \n: Opinion Request meeting participants. \nDate \n: Apr. 14, 1977 \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nMike Baker \nSubject: Item for discussion. \nThe State Bar has asked whether an attorney has to disclose \nthe names of his clients in the following two situations: \n(1) \nThe attorney's law firm is located or doing business, \netc., within his official jurisdiction, but his client \nis located outside the jurisdiction. \n(2) \nThe attorney's law firm is located outside the juris-\ndiction and the client is located within the jurisdic-\ntion. \nMB:JO \n",
+    "full_text": "State of California\n\nMemorandum\n\nTo      : Opinion Request meeting participants.                    Date : Apr. 14, 1977\n\n\nFrom    : FAIR POLITICAL PRACTICES COMMISSION\n          Mike Baker\n\nSubject: Item for discussion.\n\n     The State Bar has asked whether an attorney has to disclose\nthe names of his clients in the following two situations:\n\n(1)  The attorney's law firm is located or doing business,\n     etc., within his official jurisdiction, but his client\n     is located outside the jurisdiction.\n\n(2)  The attorney's law firm is located outside the juris-\n     diction and the client is located within the jurisdic-\n     tion.\n\nMB:JO\n\n\n\n\nSee Stuart letter dated 4-28-99",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "QUESTION: Whether attorneys must disclose client names when their law firms or clients are located within or outside their official jurisdictions.",
     "qa_source": "synthetic",
-    "first_500_words": "State of California Memorandum To : Opinion Request meeting participants. Date : Apr. 14, 1977 From FAIR POLITICAL PRACTICES COMMISSION Mike Baker Subject: Item for discussion. The State Bar has asked whether an attorney has to disclose the names of his clients in the following two situations: (1) The attorney's law firm is located or doing business, etc., within his official jurisdiction, but his client is located outside the jurisdiction. (2) The attorney's law firm is located outside the juris- diction and the client is located within the jurisdic- tion. MB:JO",
+    "first_500_words": "State of California Memorandum To : Opinion Request meeting participants. Date : Apr. 14, 1977 From : FAIR POLITICAL PRACTICES COMMISSION Mike Baker Subject: Item for discussion. The State Bar has asked whether an attorney has to disclose the names of his clients in the following two situations: (1) The attorney's law firm is located or doing business, etc., within his official jurisdiction, but his client is located outside the jurisdiction. (2) The attorney's law firm is located outside the juris- diction and the client is located within the jurisdic- tion. MB:JO See Stuart letter dated 4-28-99",
     "summary": "Internal FPPC memorandum to opinion request meeting participants outlining a question from the State Bar regarding attorney client disclosure requirements in two jurisdictional scenarios."
   }
 }

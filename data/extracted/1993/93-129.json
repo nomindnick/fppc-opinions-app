@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1993&tagCount=1"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:35:05.290169Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-21T12:23:32.885153Z",
     "page_count": 1,
-    "word_count": 151,
-    "char_count": 1014,
-    "quality_score": 0.7175,
+    "word_count": 152,
+    "char_count": 1024,
+    "quality_score": 0.8842770606658986,
     "olmocr_cost": null,
-    "native_word_count": 151
+    "native_word_count": 151,
+    "haiku_cost": 0.002488
   },
   "content": {
-    "full_text": "California\nFair Political\nPractices Commission\nApril 30,\n1993\nHonorable Ramona J.\nGarrett\nJudge of the Municipal Court\nNorthern Solano Judicial District\n530 Union Avenue,\nSuite 200\nFairfield,\nCA\n94533\nRE:\nYour Request for Confirmation\nof Telephone Advice\nOur File No.\n1—93—129\nDear Judge Garrett:\nYou have requested confirmation of telephone advice\nconcerning the conflict of interest disclosure provisions of the\nPolitical Reform Act.\n(Government Code Sections 81000—91015.)\nYour letter dated March 17,\n1993,\ncorrectly summarizes\nmy\nadvice.\nAs a judge,\nyou are exempt from the Act’s gift and\nhonoraria limitations.\n(Souza Advice Letter,\nNo.\n1—91—331,\ncopy\nenclosed.)\nTherefore,\nyou may accept the honorarium of $100 you\nreceived for a recent speaking engagement.\nIf you have any additional questions,\nplease feel free to\ncontact me at\n(916)\n322—5662.\nSincerely,\nLinda Moureaux\nPolitical Reform Consultant\nTechnical Assistance Division\n428 J Street, Suite 800 •\nP.O. Box807 •\nSacramento, CA\n95812\n•\n(916) 322-5660\n",
+    "full_text": "California\nFair Political\nPractices Commission\n\nApril 30, 1993\n\nHonorable Ramona J. Garrett\nJudge of the Municipal Court\nNorthern Solano Judicial District\n530 Union Avenue, Suite 200\nFairfield, CA 94533\n\nRE: Your Request for Confirmation\nof Telephone Advice\nOur File No. I-93-129\n\nDear Judge Garrett:\n\nYou have requested confirmation of telephone advice\nconcerning the conflict of interest disclosure provisions of the\nPolitical Reform Act. (Government Code Sections 81000-91015.)\n\nYour letter dated March 17, 1993, correctly summarizes my\nadvice. As a judge, you are exempt from the Act's gift and\nhonoraria limitations. (Souza Advice Letter, No. I-91-331, copy\nenclosed.) Therefore, you may accept the honorarium of $100 you\nreceived for a recent speaking engagement.\n\nIf you have any additional questions, please feel free to\ncontact me at (916) 322-5662.\n\nSincerely,\n\nLinda Moureaux\nPolitical Reform Consultant\nTechnical Assistance Division\n\n428 J Street, Suite 800 • P.O. Box 807 • Sacramento, CA 95812 • (916) 322-5660",
     "full_text_markdown": null
   },
   "parsed": {
@@ -67,7 +68,7 @@
   "embedding": {
     "qa_text": "QUESTION: Whether a judge is subject to the Political Reform Act's gift and honoraria limitations, specifically whether a judge may accept a $100 honorarium for a speaking engagement.\n\nCONCLUSION: As a judge, you are exempt from the Act's gift and honoraria limitations. Therefore, you may accept the honorarium of $100 you received for a recent speaking engagement.",
     "qa_source": "mixed",
-    "first_500_words": "California Fair Political Practices Commission April 30, 1993 Honorable Ramona J. Garrett Judge of the Municipal Court Northern Solano Judicial District 530 Union Avenue, Suite 200 Fairfield, CA 94533 RE: Your Request for Confirmation of Telephone Advice Our File No. 1—93—129 Dear Judge Garrett: You have requested confirmation of telephone advice concerning the conflict of interest disclosure provisions of the Political Reform Act. (Government Code Sections 81000—91015.) Your letter dated March 17, 1993, correctly summarizes my advice. As a judge, you are exempt from the Act’s gift and honoraria limitations. (Souza Advice Letter, No. 1—91—331, copy enclosed.) Therefore, you may accept the honorarium of $100 you received for a recent speaking engagement. If you have any additional questions, please feel free to contact me at (916) 322—5662. Sincerely, Linda Moureaux Political Reform Consultant Technical Assistance Division 428 J Street, Suite 800 • P.O. Box807 • Sacramento, CA 95812 • (916) 322-5660",
+    "first_500_words": "California Fair Political Practices Commission April 30, 1993 Honorable Ramona J. Garrett Judge of the Municipal Court Northern Solano Judicial District 530 Union Avenue, Suite 200 Fairfield, CA 94533 RE: Your Request for Confirmation of Telephone Advice Our File No. I-93-129 Dear Judge Garrett: You have requested confirmation of telephone advice concerning the conflict of interest disclosure provisions of the Political Reform Act. (Government Code Sections 81000-91015.) Your letter dated March 17, 1993, correctly summarizes my advice. As a judge, you are exempt from the Act's gift and honoraria limitations. (Souza Advice Letter, No. I-91-331, copy enclosed.) Therefore, you may accept the honorarium of $100 you received for a recent speaking engagement. If you have any additional questions, please feel free to contact me at (916) 322-5662. Sincerely, Linda Moureaux Political Reform Consultant Technical Assistance Division 428 J Street, Suite 800 • P.O. Box 807 • Sacramento, CA 95812 • (916) 322-5660",
     "summary": "FPPC confirms telephone advice to Judge Ramona J. Garrett that as a judge, she is exempt from the Political Reform Act's gift and honoraria limitations and may accept a $100 honorarium for a speaking engagement."
   }
 }

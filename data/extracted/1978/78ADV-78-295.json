@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=28"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:37:11.081703Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-19T20:40:37.535869Z",
     "page_count": 1,
-    "word_count": 122,
-    "char_count": 735,
-    "quality_score": 0.5125,
+    "word_count": 129,
+    "char_count": 865,
+    "quality_score": 0.8762141001540683,
     "olmocr_cost": null,
-    "native_word_count": 122
+    "native_word_count": 122,
+    "haiku_cost": 0.0022199999999999998
   },
   "content": {
-    "full_text": "r \nFile \nFrom \nFAIR POLITICAL PRACTIC S COMMISSION \nBarbara Campbell \n2 Cal. Adm. Code Section 18732. \nDate \nFeb. 10, 1978 \nBill Schwartz of the San Diego County Counsel's \nOffice called on February 9, 1978, inquiring what \"files\" \nmeant in the above-referenced regulation. \nAfter consul-\ntation with the Conflicts staff, I advised him on \nFebruary 10, 1978, the actual date of the filing is not \ndeterminative. \nRather, it is if the person assumes office, \na conflict of interest code becomes effective, or there \nis a filing deadline for a new conflict of interest code \nbetween October 1 and December 31 and the person files a \nStatement. \nI explained that the regulation might be clari-\nfied in the Spring. \nBC: jo \ncc: \nTed Prim \n",
+    "full_text": "State of California\n\nMemorandum\n\nTo       :   File                                          Date   :   Feb. 10, 1978\n\n\n\n\nFrom  :   FAIR POLITICAL PRACTICES COMMISSION\n           Barbara Campbell [signature]\n\nSubject:   2 Cal. Adm. Code Section 18732.\n\n\n           Bill Schwartz of the San Diego County Counsel's\nOffice called on February 9, 1978, inquiring what \"files\"\nmeant in the above-referenced regulation.  After consul-\ntation with the Conflicts staff, I advised him on\nFebruary 10, 1978, the actual date of the filing is not\ndeterminative.  Rather, it is if the person assumes office,\na conflict of interest code becomes effective, or there\nis a filing deadline for a new conflict of interest code\nbetween October 1 and December 31 and the person files a\nStatement.  I explained that the regulation might be clari-\nfied in the Spring.\n\nBC:jo\n\ncc:   Ted Prim",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "QUESTION: What does 'files' mean under California Administrative Code Section 18732, and is the actual date of filing determinative for conflict of interest code effectiveness?\n\nCONCLUSION: The actual filing date is not determinative. Rather, what matters is whether the person assumes office, a conflict of interest code becomes effective, or there is a filing deadline for a new conflict of interest code between October 1 and December 31 when the person files a Statement.",
     "qa_source": "synthetic",
-    "first_500_words": "r File From FAIR POLITICAL PRACTIC S COMMISSION Barbara Campbell 2 Cal. Adm. Code Section 18732. Date Feb. 10, 1978 Bill Schwartz of the San Diego County Counsel's Office called on February 9, 1978, inquiring what \"files\" meant in the above-referenced regulation. After consul- tation with the Conflicts staff, I advised him on February 10, 1978, the actual date of the filing is not determinative. Rather, it is if the person assumes office, a conflict of interest code becomes effective, or there is a filing deadline for a new conflict of interest code between October 1 and December 31 and the person files a Statement. I explained that the regulation might be clari- fied in the Spring. BC: jo cc: Ted Prim",
+    "first_500_words": "State of California Memorandum To : File Date : Feb. 10, 1978 From : FAIR POLITICAL PRACTICES COMMISSION Barbara Campbell [signature] Subject: 2 Cal. Adm. Code Section 18732. Bill Schwartz of the San Diego County Counsel's Office called on February 9, 1978, inquiring what \"files\" meant in the above-referenced regulation. After consul- tation with the Conflicts staff, I advised him on February 10, 1978, the actual date of the filing is not determinative. Rather, it is if the person assumes office, a conflict of interest code becomes effective, or there is a filing deadline for a new conflict of interest code between October 1 and December 31 and the person files a Statement. I explained that the regulation might be clari- fied in the Spring. BC:jo cc: Ted Prim",
     "summary": "FPPC staff advised Bill Schwartz of the San Diego County Counsel's Office on the meaning of 'files' under Section 18732, clarifying that the timing of conflict of interest code effectiveness depends on when a person assumes office or when filing deadlines occur between October 1-December 31, not the actual filing date."
   }
 }

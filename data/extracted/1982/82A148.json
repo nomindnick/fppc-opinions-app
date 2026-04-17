@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1982&tagCount=1&page=20"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:36:58.495466Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-21T21:52:14.872076Z",
     "page_count": 1,
-    "word_count": 113,
-    "char_count": 709,
-    "quality_score": 0.5975,
+    "word_count": 115,
+    "char_count": 949,
+    "quality_score": 0.8735510516800423,
     "olmocr_cost": null,
-    "native_word_count": 113
+    "native_word_count": 113,
+    "haiku_cost": 0.0021999999999999997
   },
   "content": {
-    "full_text": "State of California \nMemorandum \nTo \nFile \nDate \nAugust 13, 1982 \nFile No. M-82-148 \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nJanis Shank ' \nSubject: Section 82015 \nFacts: \nThe Building Industry Association invited \n4 out of 12 candidates running for SMU~ Board positions \nto speak at their General ~1embership meeting. \nThe \nB.I.A. does not have to report this as a contribution \nto the candidates. \nRationale: \nBecause the meeting is held for a purpose \nother than just to listen to the candidates, and since \nthere is no additional expense incurred to have the \ncandidates there, the B.I.A. need not report this as a \ncontribution. \nAlso, people are free to choose whether \nor not to attend. \nJS~1 :plh \n",
+    "full_text": "State of California\n\nMemorandum\n\nTo    :  File                                                    Date  :  August 13, 1982\n\n                                                                 File No. M-82-148\n\n\nFrom  :  FAIR POLITICAL PRACTICES COMMISSION\n         Janis Shank [illegible]\n\nSubject:  Section 82015\n\n         Facts:  The Building Industry Association invited\n         4 out of 12 candidates running for SMUD Board positions\n         to speak at their General Membership meeting.  The\n         B.I.A. does not have to report this as a contribution\n         to the candidates.\n\n         Rationale:  Because the meeting is held for a purpose\n         other than just to listen to the candidates, and since\n         there is no additional expense incurred to have the\n         candidates there, the B.I.A. need not report this as a\n         contribution.  Also, people are free to choose whether\n         or not to attend.\n\n         JSM:plh",
     "full_text_markdown": null
   },
   "parsed": {
@@ -69,7 +70,7 @@
   "embedding": {
     "qa_text": "QUESTION: Whether the Building Industry Association must report as a contribution the invitation and speaking opportunity provided to 4 out of 12 candidates for SMU Board positions at their General Membership meeting.\n\nCONCLUSION: The B.I.A. does not have to report this as a contribution because the meeting serves a purpose other than just listening to candidates, no additional expense is incurred, and attendance is voluntary.",
     "qa_source": "synthetic",
-    "first_500_words": "State of California Memorandum To File Date August 13, 1982 File No. M-82-148 From FAIR POLITICAL PRACTICES COMMISSION Janis Shank ' Subject: Section 82015 Facts: The Building Industry Association invited 4 out of 12 candidates running for SMU~ Board positions to speak at their General ~1embership meeting. The B.I.A. does not have to report this as a contribution to the candidates. Rationale: Because the meeting is held for a purpose other than just to listen to the candidates, and since there is no additional expense incurred to have the candidates there, the B.I.A. need not report this as a contribution. Also, people are free to choose whether or not to attend. JS~1 :plh",
+    "first_500_words": "State of California Memorandum To : File Date : August 13, 1982 File No. M-82-148 From : FAIR POLITICAL PRACTICES COMMISSION Janis Shank [illegible] Subject: Section 82015 Facts: The Building Industry Association invited 4 out of 12 candidates running for SMUD Board positions to speak at their General Membership meeting. The B.I.A. does not have to report this as a contribution to the candidates. Rationale: Because the meeting is held for a purpose other than just to listen to the candidates, and since there is no additional expense incurred to have the candidates there, the B.I.A. need not report this as a contribution. Also, people are free to choose whether or not to attend. JSM:plh",
     "summary": "FPPC memorandum ruling that the Building Industry Association's invitation of 4 candidates to speak at their General Membership meeting does not constitute a reportable contribution under Section 82015."
   }
 }

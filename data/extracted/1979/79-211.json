@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=21"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:37:08.221924Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-24T17:02:57.906270Z",
     "page_count": 1,
-    "word_count": 177,
-    "char_count": 1100,
-    "quality_score": 0.7175,
+    "word_count": 178,
+    "char_count": 1081,
+    "quality_score": 0.9153390439854889,
     "olmocr_cost": null,
-    "native_word_count": 177
+    "native_word_count": 177,
+    "haiku_cost": 0.002404
   },
   "content": {
-    "full_text": "John w. W1tt \nCity Attorney \nC1ty Administration Building \nSan Diego, CA, \n92101 \nDear Mr. Witt: \nJune 11, 1979 \nReI \nOpinion Request \nNo. 79-006 \nII \nAs you know, the Fair Political Practices Commission, \nat its meet.ing in Sacramento on June 6, 1979, 'concluded \nthat San Diego Stadium passes provided by the City of \nSan Diego to its employees and to the Stadium Authority \nneed not be reported on Statements of Economic Interests \nregardless of whether the t.icket.s are used in accordance \nwith Council Policy No. 700-22 authorizing the issuance \nof such passes. \nAmong other things, this conclusion was \nbased on your testL~ony that, despite the language of \nthe Policy, the practice of the Council is to permit \nusage of the passes at any time, and that the passes are \nprovided by the City to its own employees and to members \nof a joint powers agency in which it is a participant. \nThe passes therefore fall within the exception provided \nin Government Code Section 82030(b)(2). \nIf you have further questions, please contact me. \nMB:TP:plh \nSincerely, \nMichael Bennett \nExecutive Director \n",
+    "full_text": "82030 (b)(2)\n\nJune 11, 1979\n\nJohn W. Witt\nCity Attorney\nCity Administration Building\nSan Diego, CA 92101\n\nRe: Opinion Request\nNo. 79-006\n\nDear Mr. Witt:\n\nAs you know, the Fair Political Practices Commission,\nat its meeting in Sacramento on June 6, 1979, concluded\nthat San Diego Stadium passes provided by the City of\nSan Diego to its employees and to the Stadium Authority\nneed not be reported on Statements of Economic Interests\nregardless of whether the tickets are used in accordance\nwith Council Policy No. 700-22 authorizing the issuance\nof such passes. Among other things, this conclusion was\nbased on your testimony that, despite the language of\nthe Policy, the practice of the Council is to permit\nusage of the passes at any time, and that the passes are\nprovided by the City to its own employees and to members\nof a joint powers agency in which it is a participant.\nThe passes therefore fall within the exception provided\nin Government Code Section 82030(b)(2).\n\nIf you have further questions, please contact me.\n\nSincerely,\n\nMichael Bennett\nExecutive Director\n\nMB:TP:plh",
     "full_text_markdown": null
   },
   "parsed": {
@@ -70,7 +71,7 @@
   "embedding": {
     "qa_text": "QUESTION: Whether San Diego Stadium passes provided by the City to its employees and the Stadium Authority must be reported on Statements of Economic Interests.\n\nCONCLUSION: San Diego Stadium passes provided by the City of San Diego to its employees and to the Stadium Authority need not be reported on Statements of Economic Interests regardless of whether the tickets are used in accordance with Council Policy No. 700-22, as they fall within the exception provided in Government Code Section 82030(b)(2).",
     "qa_source": "mixed",
-    "first_500_words": "John w. W1tt City Attorney C1ty Administration Building San Diego, CA, 92101 Dear Mr. Witt: June 11, 1979 ReI Opinion Request No. 79-006 II As you know, the Fair Political Practices Commission, at its meet.ing in Sacramento on June 6, 1979, 'concluded that San Diego Stadium passes provided by the City of San Diego to its employees and to the Stadium Authority need not be reported on Statements of Economic Interests regardless of whether the t.icket.s are used in accordance with Council Policy No. 700-22 authorizing the issuance of such passes. Among other things, this conclusion was based on your testL~ony that, despite the language of the Policy, the practice of the Council is to permit usage of the passes at any time, and that the passes are provided by the City to its own employees and to members of a joint powers agency in which it is a participant. The passes therefore fall within the exception provided in Government Code Section 82030(b)(2). If you have further questions, please contact me. MB:TP:plh Sincerely, Michael Bennett Executive Director",
+    "first_500_words": "82030 (b)(2) June 11, 1979 John W. Witt City Attorney City Administration Building San Diego, CA 92101 Re: Opinion Request No. 79-006 Dear Mr. Witt: As you know, the Fair Political Practices Commission, at its meeting in Sacramento on June 6, 1979, concluded that San Diego Stadium passes provided by the City of San Diego to its employees and to the Stadium Authority need not be reported on Statements of Economic Interests regardless of whether the tickets are used in accordance with Council Policy No. 700-22 authorizing the issuance of such passes. Among other things, this conclusion was based on your testimony that, despite the language of the Policy, the practice of the Council is to permit usage of the passes at any time, and that the passes are provided by the City to its own employees and to members of a joint powers agency in which it is a participant. The passes therefore fall within the exception provided in Government Code Section 82030(b)(2). If you have further questions, please contact me. Sincerely, Michael Bennett Executive Director MB:TP:plh",
     "summary": "The FPPC advised the San Diego City Attorney that Stadium passes provided to City employees and the Stadium Authority are exempt from disclosure requirements under Government Code Section 82030(b)(2)."
   }
 }

@@ -17,15 +17,16 @@
     "method": "haiku_vision",
     "extracted_at": "2026-02-25T22:50:52.778421Z",
     "page_count": 2,
-    "word_count": 159,
-    "char_count": 885,
-    "quality_score": 0.8007446216166569,
+    "word_count": 107,
+    "char_count": 601,
+    "quality_score": 0.7001481196268748,
     "olmocr_cost": 0.00492952,
     "native_word_count": 112,
-    "haiku_cost": 0.0038144000000000003
+    "haiku_cost": 0.0038144000000000003,
+    "commentary_stripped_at": "2026-04-17T13:37:55.508095Z"
   },
   "content": {
-    "full_text": "1/17/90\n\nFPPC\nJAN 22 9:10 AM '90\n\nKathryn Donavan\nGeneral, F.P.P.C\nP.O. 807\nSacramento, Calif 95804\n\nAs per phone conversation with miss Blanca\nBreeze, atty, F.P.P.C. I would like confirmation\nof my phone call 1/17/90 - 3:30 P.m.\n\nMy request is for usage of comm. to\nRobert Bob Wagner to City Council and to state\nin letter form that I am seeking to be reelected\nto a 2 nd term.\n\nIn South Pasadena I served as city council\nmember from 1984-1988 and have decided to\nrun again in 1990.\n\nMany thanks for your cooperation.\n\nVery truly yours,\nRobert Wagner\nP.D 425\nSouth Pasadena Ca. 91031\n(818) 441-2251\n\n[The image appears to be a mostly blank page with very faint text or markings that are not clearly legible. There appears to be some faint horizontal lines and possibly some text on the right side that looks like it might say \"type\" but it is too faint to transcribe with confidence.]",
+    "full_text": "1/17/90\n\nFPPC\nJAN 22 9:10 AM '90\n\nKathryn Donavan\nGeneral, F.P.P.C\nP.O. 807\nSacramento, Calif 95804\n\nAs per phone conversation with miss Blanca\nBreeze, atty, F.P.P.C. I would like confirmation\nof my phone call 1/17/90 - 3:30 P.m.\n\nMy request is for usage of comm. to\nRobert Bob Wagner to City Council and to state\nin letter form that I am seeking to be reelected\nto a 2 nd term.\n\nIn South Pasadena I served as city council\nmember from 1984-1988 and have decided to\nrun again in 1990.\n\nMany thanks for your cooperation.\n\nVery truly yours,\nRobert Wagner\nP.D 425\nSouth Pasadena Ca. 91031\n(818) 441-2251\n\n",
     "full_text_markdown": null
   },
   "parsed": {
@@ -66,7 +67,7 @@
   "embedding": {
     "qa_text": "QUESTION: My request is for usage of comm. to reelect Bob Wagner to City Council and to state in letter form that I am seeking to be reelected to a 2nd term.",
     "qa_source": "mixed",
-    "first_500_words": "January 17, 1990 Kathryn Donovan General, F.P.P.C. P.O. 807 Sacramento, Calif 95804 As per phone conversation with Miss Blanca Breeze, atty, F.P.P.C. I would like confirmation of my phone call 1/17/90 - 3:30 p.m. My request is for usage of comm. to reelect Bob Wagner to City Council and to state in letter form that I am seeking to be reelected to a 2nd term. In South Pasadena I served as City Council member from 1984-1988 and have decided to run again in 1990. Many thanks for your cooperation. Very truly yours, Robert Wagner P.O. 425 South Pasadena, Ca. 91031 (818) 441-2651 The image is extremely bright and mostly white, with very little visible detail. It appears to be an overexposed photograph or scan, making it difficult to discern any specific content or text. If you have another page or a higher quality scan, please provide it for better results.",
+    "first_500_words": "1/17/90 FPPC JAN 22 9:10 AM '90 Kathryn Donavan General, F.P.P.C P.O. 807 Sacramento, Calif 95804 As per phone conversation with miss Blanca Breeze, atty, F.P.P.C. I would like confirmation of my phone call 1/17/90 - 3:30 P.m. My request is for usage of comm. to Robert Bob Wagner to City Council and to state in letter form that I am seeking to be reelected to a 2 nd term. In South Pasadena I served as city council member from 1984-1988 and have decided to run again in 1990. Many thanks for your cooperation. Very truly yours, Robert Wagner P.D 425 South Pasadena Ca. 91031 (818) 441-2251",
     "summary": "Robert Wagner writes to the FPPC seeking confirmation of a phone conversation with FPPC attorney Blanca Breeze regarding his ability to use communications to promote his reelection to South Pasadena City Council for a second term (having previously served 1984-1988)."
   }
 }

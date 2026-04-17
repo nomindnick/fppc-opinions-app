@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1989&tagCount=1&page=28"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:35:53.210471Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-24T18:03:01.198118Z",
     "page_count": 1,
-    "word_count": 170,
-    "char_count": 1155,
-    "quality_score": 0.7175,
+    "word_count": 185,
+    "char_count": 1407,
+    "quality_score": 0.9137607305922524,
     "olmocr_cost": null,
-    "native_word_count": 170
+    "native_word_count": 170,
+    "haiku_cost": 0.0025599999999999998
   },
   "content": {
-    "full_text": "California \nFair Political \nPractices Commission \nMs. Betty Presley \n1251 E. Dyer Road \nsuite 100 \nsanta Ana, CA 92705 \nDear Betty: \nJanuary 19, 1989 \nT-89-041 \nThis letter is to confirm the conclusion of our telephone \nconversation on January 19, 1989. \nYou wanted confirmation \nregarding the proposition 73 limits on receipt of contributions \nby political committees for purposes other than contributing to \ncandidates. \nGovernment Code Section 85303(c) provides: \nNothing in this Chapter shall limit a person's ability \nto provide financial support to one or more political \ncommittees or broad based political committees provided \nthat the support is used for purposes other than making \ncontributions directly to candidates for elective \noffice. \nThe Commission staff has been recommending that political \ncommittees may want to create separate bank accounts for receipt \nof funds which will be used for making contributions to candidates \nand for funds which are not used for making contributions to \ncandidates. \nIf you have further questions, you may call me at (916) 322-\n5662. \nSincerely, \n~W.(Q.~ \nBruce W. Robeck \nPolitical Reform Consultant \n",
+    "full_text": "California\nFair Political\nPractices Commission\n\nJanuary 19, 1989\n\nMs. Betty Presley\n1251 E. Dyer Road\nSuite 100\nSanta Ana, CA 92705\n\nDear Betty:                                    T-89-041\n\n     This letter is to confirm the conclusion of our telephone\nconversation on January 19, 1989. You wanted confirmation\nregarding the Proposition 73 limits on receipt of contributions\nby political committees for purposes other than contributing to\ncandidates. Government Code Section 85303(c) provides:\n\n     Nothing in this Chapter shall limit a person's ability\n     to provide financial support to one or more political\n     committees or broad based political committees provided\n     that the support is used for purposes other than making\n     contributions directly to candidates for elective\n     office.\n\n     The Commission staff has been recommending that political\ncommittees may want to create separate bank accounts for receipt\nof funds which will be used for making contributions to candidates\nand for funds which are not used for making contributions to\ncandidates.\n\n     If you have further questions, you may call me at (916) 322-\n5662.\n\n                                        Sincerely,\n\n                                        Bruce W. Robeck\n                                        Political Reform Consultant\n\n\n428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804-0807 • (916) 322-5660",
     "full_text_markdown": null
   },
   "parsed": {
@@ -67,7 +68,7 @@
   "embedding": {
     "qa_text": "QUESTION: Are there limits under Proposition 73 on contributions received by political committees for purposes other than contributing to candidates?\n\nCONCLUSION: Nothing in this Chapter shall limit a person's ability to provide financial support to one or more political committees or broad based political committees provided that the support is used for purposes other than making contributions directly to candidates for elective office.",
     "qa_source": "mixed",
-    "first_500_words": "California Fair Political Practices Commission Ms. Betty Presley 1251 E. Dyer Road suite 100 santa Ana, CA 92705 Dear Betty: January 19, 1989 T-89-041 This letter is to confirm the conclusion of our telephone conversation on January 19, 1989. You wanted confirmation regarding the proposition 73 limits on receipt of contributions by political committees for purposes other than contributing to candidates. Government Code Section 85303(c) provides: Nothing in this Chapter shall limit a person's ability to provide financial support to one or more political committees or broad based political committees provided that the support is used for purposes other than making contributions directly to candidates for elective office. The Commission staff has been recommending that political committees may want to create separate bank accounts for receipt of funds which will be used for making contributions to candidates and for funds which are not used for making contributions to candidates. If you have further questions, you may call me at (916) 322- 5662. Sincerely, ~W.(Q.~ Bruce W. Robeck Political Reform Consultant",
+    "first_500_words": "California Fair Political Practices Commission January 19, 1989 Ms. Betty Presley 1251 E. Dyer Road Suite 100 Santa Ana, CA 92705 Dear Betty: T-89-041 This letter is to confirm the conclusion of our telephone conversation on January 19, 1989. You wanted confirmation regarding the Proposition 73 limits on receipt of contributions by political committees for purposes other than contributing to candidates. Government Code Section 85303(c) provides: Nothing in this Chapter shall limit a person's ability to provide financial support to one or more political committees or broad based political committees provided that the support is used for purposes other than making contributions directly to candidates for elective office. The Commission staff has been recommending that political committees may want to create separate bank accounts for receipt of funds which will be used for making contributions to candidates and for funds which are not used for making contributions to candidates. If you have further questions, you may call me at (916) 322- 5662. Sincerely, Bruce W. Robeck Political Reform Consultant 428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804-0807 • (916) 322-5660",
     "summary": "FPPC advice letter confirming that Proposition 73 does not limit contributions to political committees when funds are used for purposes other than contributing to candidates. The Commission staff recommends using separate bank accounts to track these different fund types."
   }
 }

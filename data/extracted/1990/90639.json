@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1990&tagCount=1&page=19"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:35:32.688464Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-19T18:19:38.400626Z",
     "page_count": 1,
-    "word_count": 135,
-    "char_count": 796,
-    "quality_score": 0.5975,
+    "word_count": 127,
+    "char_count": 835,
+    "quality_score": 0.8830413869213506,
     "olmocr_cost": null,
-    "native_word_count": 135
+    "native_word_count": 135,
+    "haiku_cost": 0.0022552
   },
   "content": {
-    "full_text": ",; t { trq\\,$\nq\\u\n\\t1 *\nJOSEPH M. GOEDEN, City Manager\nCAROL B. RICIIARDSON, Assistant City ManaSer\nCITY ADMINTSTRA'I'ION\nOFFICE OF TIIE CITY CLERK\nPERSONNEL DIVISION\nP.O. Box 966\nOFFICE OF THE CITY MANAGER\nWesr Secn rveno, CA 95691\n(916) 373-5800\nOctober 4, 1990\nFair Political Practices Commission\n428 J Street, Suite 800\nSacramento, CA 95814\nTo whom it may concern:\nEnclosed you will find a copy of the City of West Sacramento Resolution 87-74 adopting a\nConflict of Interest Code.\nWe plan on updating the code in the near future, but would like you first to review it and\nsuggest any changes or revisions you might think necessary.\nThank you for your assistance. If you have any questions, please call.\nSincerely,\nll\n)'lr,lt\"->t- 7$t rr*a\nHelen M. Kanowsky \n0\nCity Clerk\nEnclosure\n10049001kr\n",
+    "full_text": "JOSEPH M. GOEDEN, City Manager\nCAROL B. RICHARDSON, Assistant City Manager\n\nCITY ADMINISTRATION\nOFFICE OF THE CITY CLERK\nPERSONNEL DIVISION\n\nTHE CITY OF\nWEST SACRAMENTO\n\nOFFICE OF THE CITY MANAGER\nP.O. Box 966                           WEST SACRAMENTO, CA 95691                           (916) 373-5800\n\n\nOctober 4, 1990\n\n\nFair Political Practices Commission\n428 J Street, Suite 800\nSacramento, CA  95814\n\nTo whom it may concern:\n\nEnclosed you will find a copy of the City of West Sacramento Resolution 87-74 adopting a\nConflict of Interest Code.\n\nWe plan on updating the code in the near future, but would like you first to review it and\nsuggest any changes or revisions you might think necessary.\n\nThank you for your assistance. If you have any questions, please call.\n\nSincerely,\n\nHelen M. Kanowsky\nCity Clerk\n\nEnclosure\n\n10049001kr",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "QUESTION: The City of West Sacramento requests FPPC review and feedback on their Conflict of Interest Code (Resolution 87-74) and suggestions for necessary changes or revisions before updating it.",
     "qa_source": "synthetic",
-    "first_500_words": ",; t { trq\\,$ q\\u \\t1 * JOSEPH M. GOEDEN, City Manager CAROL B. RICIIARDSON, Assistant City ManaSer CITY ADMINTSTRA'I'ION OFFICE OF TIIE CITY CLERK PERSONNEL DIVISION P.O. Box 966 OFFICE OF THE CITY MANAGER Wesr Secn rveno, CA 95691 (916) 373-5800 October 4, 1990 Fair Political Practices Commission 428 J Street, Suite 800 Sacramento, CA 95814 To whom it may concern: Enclosed you will find a copy of the City of West Sacramento Resolution 87-74 adopting a Conflict of Interest Code. We plan on updating the code in the near future, but would like you first to review it and suggest any changes or revisions you might think necessary. Thank you for your assistance. If you have any questions, please call. Sincerely, ll )'lr,lt\"->t- 7$t rr*a Helen M. Kanowsky 0 City Clerk Enclosure 10049001kr",
+    "first_500_words": "JOSEPH M. GOEDEN, City Manager CAROL B. RICHARDSON, Assistant City Manager CITY ADMINISTRATION OFFICE OF THE CITY CLERK PERSONNEL DIVISION THE CITY OF WEST SACRAMENTO OFFICE OF THE CITY MANAGER P.O. Box 966 WEST SACRAMENTO, CA 95691 (916) 373-5800 October 4, 1990 Fair Political Practices Commission 428 J Street, Suite 800 Sacramento, CA 95814 To whom it may concern: Enclosed you will find a copy of the City of West Sacramento Resolution 87-74 adopting a Conflict of Interest Code. We plan on updating the code in the near future, but would like you first to review it and suggest any changes or revisions you might think necessary. Thank you for your assistance. If you have any questions, please call. Sincerely, Helen M. Kanowsky City Clerk Enclosure 10049001kr",
     "summary": "The City of West Sacramento's City Clerk submits their Conflict of Interest Code (Resolution 87-74) to the FPPC for review and requests suggestions for changes or revisions prior to updating the code."
   }
 }

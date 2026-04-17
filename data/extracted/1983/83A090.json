@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1983&tagCount=1&page=7"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:36:51.495625Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-22T23:03:20.099898Z",
     "page_count": 1,
-    "word_count": 111,
-    "char_count": 653,
-    "quality_score": 0.5975,
+    "word_count": 113,
+    "char_count": 737,
+    "quality_score": 0.8888022727272727,
     "olmocr_cost": null,
-    "native_word_count": 111
+    "native_word_count": 111,
+    "haiku_cost": 0.001996
   },
   "content": {
-    "full_text": "State of California \nMemorandum \nTo \n:File \nDate \n:April 5, 1983 \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nTed \nSubject:Conversation with Vance RaYeon March 31, 1983 \nVance RaYG counsel to the Governor, called to ask how a \nseason pass to all major league baseball games should be \ndisclosed by the Governor. \nI advised him that he should find \nout the value of season tickets to an individual team's ball \ngames and add on some amount for the fact that this pass \nadmitted one to any major league ball game anywhere in the \ncountry. \nVance indicated that this sounded like more trouble than \nthe pass was worth so i t ~ \nprobably would be returned. \n",
+    "full_text": "State of California\n\nMemorandum\n\nTo    :File                                                              Date  :April 5, 1983\n\n\n\n\nFrom  : FAIR POLITICAL PRACTICES COMMISSION\n        Ted\n\nSubject: Conversation with Vance Raye on March 31, 1983\n\n\n       Vance Raye counsel to the Governor, called to ask how a\nseason pass to all major league baseball games should be\ndisclosed by the Governor.  I advised him that he should find\nout the value of season tickets to an individual team's ball\ngames and add on some amount for the fact that this pass\nadmitted one to any major league ball game anywhere in the\ncountry.\n\n       Vance indicated that this sounded like more trouble than\nthe pass was worth so it would probably would be returned.",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "QUESTION: How should a season pass to all major league baseball games be valued and disclosed by the Governor?\n\nCONCLUSION: The FPPC advised that the value should be determined by finding the cost of season tickets to an individual team's games and adding an amount for the pass's ability to admit the holder to any major league game anywhere in the country.",
     "qa_source": "synthetic",
-    "first_500_words": "State of California Memorandum To :File Date :April 5, 1983 From FAIR POLITICAL PRACTICES COMMISSION Ted Subject:Conversation with Vance RaYeon March 31, 1983 Vance RaYG counsel to the Governor, called to ask how a season pass to all major league baseball games should be disclosed by the Governor. I advised him that he should find out the value of season tickets to an individual team's ball games and add on some amount for the fact that this pass admitted one to any major league ball game anywhere in the country. Vance indicated that this sounded like more trouble than the pass was worth so i t ~ probably would be returned.",
+    "first_500_words": "State of California Memorandum To :File Date :April 5, 1983 From : FAIR POLITICAL PRACTICES COMMISSION Ted Subject: Conversation with Vance Raye on March 31, 1983 Vance Raye counsel to the Governor, called to ask how a season pass to all major league baseball games should be disclosed by the Governor. I advised him that he should find out the value of season tickets to an individual team's ball games and add on some amount for the fact that this pass admitted one to any major league ball game anywhere in the country. Vance indicated that this sounded like more trouble than the pass was worth so it would probably would be returned.",
     "summary": "A memorandum documenting a phone conversation between FPPC staff and Vance Ray, counsel to the Governor, regarding the disclosure value of a season pass to all major league baseball games."
   }
 }

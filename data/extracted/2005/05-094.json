@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2005&tagCount=1&page=12"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:34:12.992332Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-19T18:44:24.403883Z",
     "page_count": 1,
-    "word_count": 184,
-    "char_count": 1258,
-    "quality_score": 0.635,
+    "word_count": 199,
+    "char_count": 1299,
+    "quality_score": 0.9146506083184995,
     "olmocr_cost": null,
-    "native_word_count": 184
+    "native_word_count": 184,
+    "haiku_cost": 0.0026880000000000003
   },
   "content": {
-    "full_text": "Farn Polrucal PnecrrcEs ConnurssroN\n428 J Street r Suite 620 o Sacramento, CA 95814-2329\n(916) 322-5660 o Fax (916) 322-0886\nMay 13,2005\nPatricia Scott\n1085 Tasman Drive, #898\nSunnyvale,CA 94089\nRe: Request for Advice our File No. 05-094\nDear Ms. Scott:\nThank you for your general concerns regarding the law that could be changing for\ntenants of trailer parks. As specified on our web site, the role of the Political Reform Act\n(the \"Act\"l) is as follows:\nThe mission of the FAIR POLITICAL PRACTICES COMMISSION is to\npromote the integrity of representative state and local govemment in California\nthrough fair, impartial interpretation and enforcernent ofpolitical campaign,\nlobbying, and conflict of interest laws.\nFurther, regulation 18329(b)(8)(D) provides that the Commission may decline to\nprovide advice where the request does not present a question under the Political Reform\nAct. (see also, Reg. 18329(c)@)(F), copy enclosed.) Thus, we would not be the agency\nto respond to your request.\nYou might consider contacting your state representatives.\nSincerely,\nLuisa Menchaca\nCounsel\nW. Wallace\nGeneral Counsel\nI GovernmentCodesectionsSl000- gl}l4. Commissionregulations appearatTitle2,sections 18109-\n18997, of the California Code of Regulations.\n.;;L;\n",
+    "full_text": "FAIR POLITICAL PRACTICES COMMISSION\n428 J Street • Suite 620 • Sacramento, CA 95814-2329\n(916) 322-5660 • Fax (916) 322-0886\n\nMay 13, 2005\n\nPatricia Scott\n1085 Tasman Drive, #898\nSunnyvale, CA 94089\n\nRe: Request for Advice our File No. 05-094\n\nDear Ms. Scott:\n\nThank you for your general concerns regarding the law that could be changing for tenants of trailer parks. As specified on our web site, the role of the Political Reform Act (the \"Act\") is as follows:\n\nThe mission of the FAIR POLITICAL PRACTICES COMMISSION is to promote the integrity of representative state and local government in California through fair, impartial interpretation and enforcement of political campaign, lobbying, and conflict of interest laws.\n\nFurther, regulation 18329(b)(8)(D) provides that the Commission may decline to provide advice where the request does not present a question under the Political Reform Act. (See also, Reg. 18329(c)(4)(F), copy enclosed.) Thus, we would not be the agency to respond to your request.\n\nYou might consider contacting your state representatives.\n\nSincerely,\n\nLuisa Menchaca\nGeneral Counsel\n\nJohn W. Wallace\nAssistant General Counsel\n\n¹ Government Code sections 81000 – 91014. Commission regulations appear at Title 2, sections 18109 – 18997, of the California Code of Regulations.",
     "full_text_markdown": null
   },
   "parsed": {
@@ -67,7 +68,7 @@
   "embedding": {
     "qa_text": "QUESTION: Ms. Scott submitted a request regarding concerns about changing laws affecting tenants of trailer parks.\n\nCONCLUSION: The FPPC declines to provide advice because the request does not present a question under the Political Reform Act, as the FPPC's jurisdiction is limited to political campaign, lobbying, and conflict of interest laws.",
     "qa_source": "synthetic",
-    "first_500_words": "Farn Polrucal PnecrrcEs ConnurssroN 428 J Street r Suite 620 o Sacramento, CA 95814-2329 (916) 322-5660 o Fax (916) 322-0886 May 13,2005 Patricia Scott 1085 Tasman Drive, #898 Sunnyvale,CA 94089 Re: Request for Advice our File No. 05-094 Dear Ms. Scott: Thank you for your general concerns regarding the law that could be changing for tenants of trailer parks. As specified on our web site, the role of the Political Reform Act (the \"Act\"l) is as follows: The mission of the FAIR POLITICAL PRACTICES COMMISSION is to promote the integrity of representative state and local govemment in California through fair, impartial interpretation and enforcernent ofpolitical campaign, lobbying, and conflict of interest laws. Further, regulation 18329(b)(8)(D) provides that the Commission may decline to provide advice where the request does not present a question under the Political Reform Act. (see also, Reg. 18329(c)@)(F), copy enclosed.) Thus, we would not be the agency to respond to your request. You might consider contacting your state representatives. Sincerely, Luisa Menchaca Counsel W. Wallace General Counsel I GovernmentCodesectionsSl000- gl}l4. Commissionregulations appearatTitle2,sections 18109- 18997, of the California Code of Regulations. .;;L;",
+    "first_500_words": "FAIR POLITICAL PRACTICES COMMISSION 428 J Street • Suite 620 • Sacramento, CA 95814-2329 (916) 322-5660 • Fax (916) 322-0886 May 13, 2005 Patricia Scott 1085 Tasman Drive, #898 Sunnyvale, CA 94089 Re: Request for Advice our File No. 05-094 Dear Ms. Scott: Thank you for your general concerns regarding the law that could be changing for tenants of trailer parks. As specified on our web site, the role of the Political Reform Act (the \"Act\") is as follows: The mission of the FAIR POLITICAL PRACTICES COMMISSION is to promote the integrity of representative state and local government in California through fair, impartial interpretation and enforcement of political campaign, lobbying, and conflict of interest laws. Further, regulation 18329(b)(8)(D) provides that the Commission may decline to provide advice where the request does not present a question under the Political Reform Act. (See also, Reg. 18329(c)(4)(F), copy enclosed.) Thus, we would not be the agency to respond to your request. You might consider contacting your state representatives. Sincerely, Luisa Menchaca General Counsel John W. Wallace Assistant General Counsel ¹ Government Code sections 81000 – 91014. Commission regulations appear at Title 2, sections 18109 – 18997, of the California Code of Regulations.",
     "summary": "The FPPC declines Ms. Scott's request for advice regarding trailer park tenant law changes, explaining that such matters fall outside the Commission's jurisdiction under the Political Reform Act and suggesting she contact state representatives instead."
   }
 }

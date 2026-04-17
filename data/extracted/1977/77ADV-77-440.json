@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=31"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:37:15.221599Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-19T18:07:38.546537Z",
     "page_count": 1,
-    "word_count": 78,
-    "char_count": 526,
-    "quality_score": 0.425,
+    "word_count": 79,
+    "char_count": 653,
+    "quality_score": 0.7699180946601881,
     "olmocr_cost": null,
-    "native_word_count": 78
+    "native_word_count": 78,
+    "haiku_cost": 0.001944
   },
   "content": {
-    "full_text": "Itate of California \nMemorandum \nTo \n: File \nDate \nFeb. 15, 1977 \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nNatalie West \nSubject: \nRegulation 18404. \nWhen this regulation was drafted we considered the following \nhypo: \nNW: jo \nA committee (820l3(c)) makes a contribution of \n$1,000 on January 1st, reports it in a post-\nelection statement and terminates. \nIf the committee makes $4,000 in additional \ncontributions during the year, that commit-\ntee has again qualified. \nAggregate all con-\ntributions made during the year. \n",
+    "full_text": "State of California\n\nMemorandum\n\nTo      : File                                          Date   : Feb. 15, 1977\n\n\nFrom  : FAIR POLITICAL PRACTICES COMMISSION\n          Natalie West\n\nSubject: Regulation 18404.\n\n     When this regulation was drafted we considered the following\nhypo:\n\n          A committee (82013(c)) makes a contribution of\n          $1,000 on January 1st, reports it in a post-\n          election statement and terminates.\n\n          If the committee makes $4,000 in additional\n          contributions during the year, that commit-\n          tee has again qualified. Aggregate all con-\n          tributions made during the year.\n\n\nNW:jo",
     "full_text_markdown": null
   },
   "parsed": {
@@ -67,7 +68,7 @@
   "embedding": {
     "qa_text": "QUESTION: How should contributions made by a committee under Political Code Section 82013(c) be aggregated for purposes of Regulation 18404, particularly when a committee makes an initial contribution, terminates, and then makes additional contributions later in the same year?\n\nCONCLUSION: When a committee makes a contribution, reports it in a post-election statement and terminates, but then makes additional contributions during the same year totaling $4,000 or more, the committee has again qualified and all contributions made during the year should be aggregated together.",
     "qa_source": "synthetic",
-    "first_500_words": "Itate of California Memorandum To : File Date Feb. 15, 1977 From FAIR POLITICAL PRACTICES COMMISSION Natalie West Subject: Regulation 18404. When this regulation was drafted we considered the following hypo: NW: jo A committee (820l3(c)) makes a contribution of $1,000 on January 1st, reports it in a post- election statement and terminates. If the committee makes $4,000 in additional contributions during the year, that commit- tee has again qualified. Aggregate all con- tributions made during the year.",
+    "first_500_words": "State of California Memorandum To : File Date : Feb. 15, 1977 From : FAIR POLITICAL PRACTICES COMMISSION Natalie West Subject: Regulation 18404. When this regulation was drafted we considered the following hypo: A committee (82013(c)) makes a contribution of $1,000 on January 1st, reports it in a post- election statement and terminates. If the committee makes $4,000 in additional contributions during the year, that commit- tee has again qualified. Aggregate all con- tributions made during the year. NW:jo",
     "summary": "Internal FPPC memorandum documenting the regulatory intent behind Regulation 18404 regarding the aggregation of contributions made by a committee under Political Code Section 82013(c) when the committee makes initial contributions, terminates, and then resumes contributions within the same calendar year."
   }
 }

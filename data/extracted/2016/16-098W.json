@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2016&tagCount=1&page=17"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:33:21.080590Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-20T16:43:12.800018Z",
     "page_count": 1,
     "word_count": 140,
-    "char_count": 965,
-    "quality_score": 0.5975,
+    "char_count": 910,
+    "quality_score": 0.8825033264582807,
     "olmocr_cost": null,
-    "native_word_count": 140
+    "native_word_count": 140,
+    "haiku_cost": 0.002296
   },
   "content": {
-    "full_text": " \n \n \n \n \n \n \n \n \n \nJuly 14, 2016 \n \nSENT VIA EMAIL AND U.S. MAIL \n \nRichard Egan \nP O Box 1432 \nSusanville, CA 96130 \nRegan@co.lassen.ca.us  \n \nRe: \nYour Request for Advice \n \nOur File No.  W-16-098 \n \nDear Mr. Egan, \n \n \nThis letter responds to your request for advice regarding the conflict of interest provisions \nof the Political Reform Act.  Per our email correspondence of July 12, 2016, you stated that you \nno longer wished to receive written advice, as you had participated in the decision in May based \non your “understanding of the applicable law” that there “was no material conflict.” In addition, \nyou stated that the County “decided not to pursue the project.” Therefore, your request for advice \nhas been withdrawn.   \n \n \nShould you have any questions, please contact me at (916) 322-5660. \n \n \nSincerely,  \n \n \nHyla P. Wagner \n \nGeneral Counsel \n \n \n \n \n \n \n \n/s/ \n \nBy: Emelyn Rodriguez \n \nSenior Commission Counsel \n \nLegal Division \n \nER:jgl \n",
+    "full_text": "July 14, 2016\n\nSENT VIA EMAIL AND U.S. MAIL\n\nRichard Egan\nP O Box 1432\nSusanville, CA 96130\nRegan@co.lassen.ca.us\n\nRe:     Your Request for Advice\n        Our File No. W-16-098\n\nDear Mr. Egan,\n\n        This letter responds to your request for advice regarding the conflict of interest provisions of the Political Reform Act. Per our email correspondence of July 12, 2016, you stated that you no longer wished to receive written advice, as you had participated in the decision in May based on your \"understanding of the applicable law\" that there \"was no material conflict.\" In addition, you stated that the County \"decided not to pursue the project.\" Therefore, your request for advice has been withdrawn.\n\n        Should you have any questions, please contact me at (916) 322-5660.\n\nSincerely,\n\nHyla P. Wagner\nGeneral Counsel\n\n/s/\n\nBy: Emelyn Rodriguez\n    Senior Commission Counsel\n    Legal Division\n\nER:jgl",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "QUESTION: Should advice regarding conflict of interest provisions of the Political Reform Act be provided regarding Mr. Egan's participation in a May decision?\n\nCONCLUSION: The request for written advice has been withdrawn at the requestor's request, as he had already participated in the decision based on his understanding of applicable law and the County decided not to pursue the project.",
     "qa_source": "synthetic",
-    "first_500_words": "July 14, 2016 SENT VIA EMAIL AND U.S. MAIL Richard Egan P O Box 1432 Susanville, CA 96130 Regan@co.lassen.ca.us Re: Your Request for Advice Our File No. W-16-098 Dear Mr. Egan, This letter responds to your request for advice regarding the conflict of interest provisions of the Political Reform Act. Per our email correspondence of July 12, 2016, you stated that you no longer wished to receive written advice, as you had participated in the decision in May based on your “understanding of the applicable law” that there “was no material conflict.” In addition, you stated that the County “decided not to pursue the project.” Therefore, your request for advice has been withdrawn. Should you have any questions, please contact me at (916) 322-5660. Sincerely, Hyla P. Wagner General Counsel /s/ By: Emelyn Rodriguez Senior Commission Counsel Legal Division ER:jgl",
+    "first_500_words": "July 14, 2016 SENT VIA EMAIL AND U.S. MAIL Richard Egan P O Box 1432 Susanville, CA 96130 Regan@co.lassen.ca.us Re: Your Request for Advice Our File No. W-16-098 Dear Mr. Egan, This letter responds to your request for advice regarding the conflict of interest provisions of the Political Reform Act. Per our email correspondence of July 12, 2016, you stated that you no longer wished to receive written advice, as you had participated in the decision in May based on your \"understanding of the applicable law\" that there \"was no material conflict.\" In addition, you stated that the County \"decided not to pursue the project.\" Therefore, your request for advice has been withdrawn. Should you have any questions, please contact me at (916) 322-5660. Sincerely, Hyla P. Wagner General Counsel /s/ By: Emelyn Rodriguez Senior Commission Counsel Legal Division ER:jgl",
     "summary": "FPPC withdrawal letter confirming that Mr. Richard Egan's request for advice regarding conflict of interest under the Political Reform Act has been withdrawn per his July 12, 2016 email stating he no longer wished to receive written advice."
   }
 }

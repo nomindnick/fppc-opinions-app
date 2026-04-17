@@ -17,15 +17,16 @@
     "method": "haiku_vision",
     "extracted_at": "2026-02-26T17:36:12.882905Z",
     "page_count": 2,
-    "word_count": 189,
-    "char_count": 1143,
-    "quality_score": 0.8623756512006512,
+    "word_count": 140,
+    "char_count": 879,
+    "quality_score": 0.8160595933466845,
     "olmocr_cost": 0.00478504,
     "native_word_count": 149,
-    "haiku_cost": 0.0040184
+    "haiku_cost": 0.0040184,
+    "commentary_stripped_at": "2026-04-17T13:37:55.535153Z"
   },
   "content": {
-    "full_text": "SOUTH SAN BERNARDINO\nWATER DISTRICT\n\nADAM WEBB\nPresident\n\nANDREW M. SWANSON\nVice President\n\nEVELYN MERRYMAN\nDirector\n\nSHARON DARLENE WEBB\nDirector\n\nCALVIN L.MINESINGER\nDirector\n\nTONY SEDANO\nGeneral Manager\n\nMarch 5, 1991\n\nMs. Blanca Breeze; Attorney\nFair Political Practices Commission\nP.O. Box 807\nSacramento, CA 95804\n\nDear Blanca Breeze,\n\nAs per our phone conversation of this date, my question\nwas:\n\nCan an employee of the City of San Bernardino, who is\nalso a member of our Board of Directors, cast a vote on the\nmerging of our Water District with the City of San\nBernardino?\n\nYour verbal answer was:\n\nThe member is permitted to vote because, the salary\nfrom a Public Entity is not disqualifying.\n\nThank you very much for your assistance and time.\n\nSincerely,\n\nTony Sedano\nGeneral Manager\n\nTRS/kc\n\n882 S. Tippecanoe Ave.• San Bernardino, CA 92408\n(714) 884-2911 • 796-0910\n\n[The image appears to be a blank or nearly blank page with very faint text or markings that are not legible enough to transcribe with confidence. The page has a light blue or gray tint and appears to be a scanned document, but no clearly readable text is visible.]",
+    "full_text": "SOUTH SAN BERNARDINO\nWATER DISTRICT\n\nADAM WEBB\nPresident\n\nANDREW M. SWANSON\nVice President\n\nEVELYN MERRYMAN\nDirector\n\nSHARON DARLENE WEBB\nDirector\n\nCALVIN L.MINESINGER\nDirector\n\nTONY SEDANO\nGeneral Manager\n\nMarch 5, 1991\n\nMs. Blanca Breeze; Attorney\nFair Political Practices Commission\nP.O. Box 807\nSacramento, CA 95804\n\nDear Blanca Breeze,\n\nAs per our phone conversation of this date, my question\nwas:\n\nCan an employee of the City of San Bernardino, who is\nalso a member of our Board of Directors, cast a vote on the\nmerging of our Water District with the City of San\nBernardino?\n\nYour verbal answer was:\n\nThe member is permitted to vote because, the salary\nfrom a Public Entity is not disqualifying.\n\nThank you very much for your assistance and time.\n\nSincerely,\n\nTony Sedano\nGeneral Manager\n\nTRS/kc\n\n882 S. Tippecanoe Ave.• San Bernardino, CA 92408\n(714) 884-2911 • 796-0910\n\n",
     "full_text_markdown": null
   },
   "parsed": {
@@ -64,9 +65,9 @@
     "classification_method": "heuristic:citation_based"
   },
   "embedding": {
-    "qa_text": "March 5, 1991 Ms. Blanca Breeze; Attorney Fair Political Practices Commission P.O. Box 807 Sacramento, CA 95804 Dear Blanca Breeze, As per our phone conversation of this date, my question was: Can an employee of the City of San Bernardino, who is also a member of our Board of Directors, cast a vote on the merging of our Water District with the City of San Bernardino? Your verbal answer was: The member is permitted to vote because, the salary from a Public Entity is not disqualifying. Thank you very much for your assistance and time. Sincerely, Tony Sedano General Manager TRS/kc The image appears to be mostly blank, with very faint blue lines or noise that might be due to a low quality scan or an artifact from the original document. There is no visible text or content to transcribe or summarize. If you have another page or another scan, please provide it for better results.",
+    "qa_text": "SOUTH SAN BERNARDINO WATER DISTRICT ADAM WEBB President ANDREW M. SWANSON Vice President EVELYN MERRYMAN Director SHARON DARLENE WEBB Director CALVIN L.MINESINGER Director TONY SEDANO General Manager March 5, 1991 Ms. Blanca Breeze; Attorney Fair Political Practices Commission P.O. Box 807 Sacramento, CA 95804 Dear Blanca Breeze, As per our phone conversation of this date, my question was: Can an employee of the City of San Bernardino, who is also a member of our Board of Directors, cast a vote on the merging of our Water District with the City of San Bernardino? Your verbal answer was: The member is permitted to vote because, the salary from a Public Entity is not disqualifying. Thank you very much for your assistance and time. Sincerely, Tony Sedano General Manager TRS/kc 882 S. Tippecanoe Ave.• San Bernardino, CA 92408 (714) 884-2911 • 796-0910",
     "qa_source": "extracted",
-    "first_500_words": "March 5, 1991 Ms. Blanca Breeze; Attorney Fair Political Practices Commission P.O. Box 807 Sacramento, CA 95804 Dear Blanca Breeze, As per our phone conversation of this date, my question was: Can an employee of the City of San Bernardino, who is also a member of our Board of Directors, cast a vote on the merging of our Water District with the City of San Bernardino? Your verbal answer was: The member is permitted to vote because, the salary from a Public Entity is not disqualifying. Thank you very much for your assistance and time. Sincerely, Tony Sedano General Manager TRS/kc The image appears to be mostly blank, with very faint blue lines or noise that might be due to a low quality scan or an artifact from the original document. There is no visible text or content to transcribe or summarize. If you have another page or another scan, please provide it for better results.",
+    "first_500_words": "SOUTH SAN BERNARDINO WATER DISTRICT ADAM WEBB President ANDREW M. SWANSON Vice President EVELYN MERRYMAN Director SHARON DARLENE WEBB Director CALVIN L.MINESINGER Director TONY SEDANO General Manager March 5, 1991 Ms. Blanca Breeze; Attorney Fair Political Practices Commission P.O. Box 807 Sacramento, CA 95804 Dear Blanca Breeze, As per our phone conversation of this date, my question was: Can an employee of the City of San Bernardino, who is also a member of our Board of Directors, cast a vote on the merging of our Water District with the City of San Bernardino? Your verbal answer was: The member is permitted to vote because, the salary from a Public Entity is not disqualifying. Thank you very much for your assistance and time. Sincerely, Tony Sedano General Manager TRS/kc 882 S. Tippecanoe Ave.• San Bernardino, CA 92408 (714) 884-2911 • 796-0910",
     "summary": null
   }
 }

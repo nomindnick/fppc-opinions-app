@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1991&tagCount=1&page=56"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:35:28.175821Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-19T18:15:37.084817Z",
     "page_count": 1,
-    "word_count": 190,
-    "char_count": 1091,
-    "quality_score": 0.6325000000000001,
+    "word_count": 180,
+    "char_count": 1069,
+    "quality_score": 0.921563925313569,
     "olmocr_cost": null,
-    "native_word_count": 190
+    "native_word_count": 190,
+    "haiku_cost": 0.0024752000000000003
   },
   "content": {
-    "full_text": "\\r$\n't\\\nMontereyans for Affordable Housing\nP.O. Box 2776\nMonterey, CA 93942\n375-6898\nJanuary 30, 1991\nBlanca Breeze\nLeqal Division\nFair Political\nPractices Comrnission\nP. O. Box 807\nSacramento, cA 9 5084\nDear Blanca,\nAs per our phone conversation today I am requesting a written\nconfirmation of the information you provided me.\n;'1cieil-f\nAs we discussed I would like to do the following with rnylconmit-\ntee (ID# 903803 ) .\n1. Terminate the conmittee, disposinq our current funds\nin compliance with state 1a!rs.\n2. Retain the same name and bank account.\n3. Enter into a lawsuit as the plaintiff \nchallenging a\nballot measure that was passed by the voters in the\nNovember, 1990 election.\n4. Use the committeers bank account to raise funds in\norder to pay for the cost of the suit.\nIt is ny understanding that this would be in conpliance with\nstate Iaw, and since the cornmittee is challenging a current Iaw,\nnot a ballot measure, that no reporting of the funds raised is\nrequired.\nThank you for all your help in this natter. I look forward to\nyour repIy.\nsir{cer:bly\nM.\nLuke F\ncha i rperson\n",
+    "full_text": "Montereyans for Affordable Housing\nP.O. Box 2776\nMonterey, CA 93942\n375-6898\n\nJanuary 30, 1991\n\nBlanca Breeze\nLegal Division\nFair Political\nPractices Commission\nP.O. Box 807\nSacramento, CA 95084\n\nDear Blanca,\n\nAs per our phone conversation today I am requesting a written\nconfirmation of the information you provided me.\n\nAs we discussed I would like to do the following with my committee (ID# 903803).\n\n1. Terminate the committee, disposing our current funds\nin compliance with state laws.\n\n2. Retain the same name and bank account.\n\n3. Enter into a lawsuit as the plaintiff challenging a\nballot measure that was passed by the voters in the\nNovember, 1990 election.\n\n4. Use the committee's bank account to raise funds in\norder to pay for the cost of the suit.\n\nIt is my understanding that this would be in compliance with\nState law, and since the committee is challenging a current law,\nnot a ballot measure, that no reporting of the funds raised is\nrequired.\n\nThank you for all your help in this matter. I look forward to\nyour reply.\n\nSincerely,\n\nLuke Fry\nChairperson",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "QUESTION: As we discussed I would like to do the following with my committee (ID# 903803): 1. Terminate the committee, disposing our current funds in compliance with state laws. 2. Retain the same name and bank account. 3. Enter into a lawsuit as the plaintiff challenging a ballot measure that was passed by the voters in the November, 1990 election. 4. Use the committee's bank account to raise funds in order to pay for the cost of the suit. It is my understanding that this would be in compliance with state law, and since the committee is challenging a current law, not a ballot measure, that no reporting of the funds raised is required.",
     "qa_source": "mixed",
-    "first_500_words": "\\r$ 't\\ Montereyans for Affordable Housing P.O. Box 2776 Monterey, CA 93942 375-6898 January 30, 1991 Blanca Breeze Leqal Division Fair Political Practices Comrnission P. O. Box 807 Sacramento, cA 9 5084 Dear Blanca, As per our phone conversation today I am requesting a written confirmation of the information you provided me. ;'1cieil-f As we discussed I would like to do the following with rnylconmit- tee (ID# 903803 ) . 1. Terminate the conmittee, disposinq our current funds in compliance with state 1a!rs. 2. Retain the same name and bank account. 3. Enter into a lawsuit as the plaintiff challenging a ballot measure that was passed by the voters in the November, 1990 election. 4. Use the committeers bank account to raise funds in order to pay for the cost of the suit. It is ny understanding that this would be in conpliance with state Iaw, and since the cornmittee is challenging a current Iaw, not a ballot measure, that no reporting of the funds raised is required. Thank you for all your help in this natter. I look forward to your repIy. sir{cer:bly M. Luke F cha i rperson",
+    "first_500_words": "Montereyans for Affordable Housing P.O. Box 2776 Monterey, CA 93942 375-6898 January 30, 1991 Blanca Breeze Legal Division Fair Political Practices Commission P.O. Box 807 Sacramento, CA 95084 Dear Blanca, As per our phone conversation today I am requesting a written confirmation of the information you provided me. As we discussed I would like to do the following with my committee (ID# 903803). 1. Terminate the committee, disposing our current funds in compliance with state laws. 2. Retain the same name and bank account. 3. Enter into a lawsuit as the plaintiff challenging a ballot measure that was passed by the voters in the November, 1990 election. 4. Use the committee's bank account to raise funds in order to pay for the cost of the suit. It is my understanding that this would be in compliance with State law, and since the committee is challenging a current law, not a ballot measure, that no reporting of the funds raised is required. Thank you for all your help in this matter. I look forward to your reply. Sincerely, Luke Fry Chairperson",
     "summary": "Luke F., chairperson of Montereyans for Affordable Housing committee (ID# 903803), requests written confirmation from FPPC Legal Division regarding plans to terminate the committee while retaining its assets to fund a lawsuit challenging a November 1990 ballot measure."
   }
 }

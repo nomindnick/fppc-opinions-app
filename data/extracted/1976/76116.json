@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1976&tagCount=1&page=6"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:37:17.268721Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-27T17:53:44.504338Z",
     "page_count": 1,
-    "word_count": 197,
-    "char_count": 1275,
-    "quality_score": 0.7175,
+    "word_count": 199,
+    "char_count": 1322,
+    "quality_score": 0.9216039782244556,
     "olmocr_cost": null,
-    "native_word_count": 197
+    "native_word_count": 197,
+    "haiku_cost": 0.002636
   },
   "content": {
-    "full_text": "of California \n, \nMemorandum \nTo \nDelbert Spurlock, Chief \nConflicts of Interest Division \nFrom \nFAIR POLITICAL PRACTICES COMMISSION -\nKen Goshorn \nDoto \nSeptember 10, 197, \nSublect: \nTelephone Conversation with Tom MacBride of the Public \nUtilities Commission, September 8, 1976 \nTom MacBride of the Public utilities Commission called on \nSeptember 8, 1976, with an emergency problem. \nTwo Commission \nemployees (engineers) are going to Alaska to inspect gas fields, \netc. \nThey will later participate in decisions materially affect-\ning the utilities holding interests in these sites. \nPUC pays the \nengineers' airfare from San Francisco to Alaska and their per \ndiem, etc. \nHowever, while in Alaska they will fly on company \nplanes to inspect certain areas. \nThere is no feasible alternative \nmeans of travel. \nI orally advised Mr. MacBride that this benefit, or \"income\", \nso long as it was totally work-related, appeared to accrue to the \nPUC, not the officials themselves. \nThe flights are in the nature \nof a \"plant tour\" by the officials and their value should not be \nconstrued as \"income\" to the individuals. \nWe have made a record of this conversation in case there are \nany repercussions later. \ncc: \nTom MacBride \nPublic Utilities Commission \nbcc: \nDHL \nBS \nKF \n",
+    "full_text": "State of California\n\nMemorandum\n\nTo : Delbert Spurlock, Chief\n    Conflicts of Interest Division\n\nDate : September 10, 197[6]\n\nFrom : FAIR POLITICAL PRACTICES COMMISSION - Ken Goshorn\n\nSubject: Telephone Conversation with Tom MacBride of the Public\n         Utilities Commission, September 8, 1976\n\n\n         Tom MacBride of the Public Utilities Commission called on\nSeptember 8, 1976, with an emergency problem.  Two Commission\nemployees (engineers) are going to Alaska to inspect gas fields,\netc.  They will later participate in decisions materially affecting the utilities holding interests in these sites.  PUC pays the\nengineers' airfare from San Francisco to Alaska and their per\ndiem, etc.  However, while in Alaska they will fly on company\nplanes to inspect certain areas.  There is no feasible alternative\nmeans of travel.\n\n         I orally advised Mr. MacBride that this benefit, or \"income\",\nso long as it was totally work-related, appeared to accrue to the\nPUC, not the officials themselves.  The flights are in the nature\nof a \"plant tour\" by the officials and their value should not be\nconstrued as \"income\" to the individuals.\n\n         We have made a record of this conversation in case there are\nany repercussions later.\n\ncc:   Tom MacBride\n      Public Utilities Commission\n\n\nbcc:  DHL\n      BS\n      KF",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "QUESTION: Whether PUC engineers receiving flights on company planes while inspecting gas fields in Alaska constitutes taxable income or a conflict of interest when they will later participate in decisions affecting those utilities.\n\nCONCLUSION: FPPC advised orally that company-provided flights constitute work-related benefits accruing to the PUC rather than personal income to the officials, and should not be construed as income to the individuals, analogous to a plant tour.",
     "qa_source": "synthetic",
-    "first_500_words": "of California , Memorandum To Delbert Spurlock, Chief Conflicts of Interest Division From FAIR POLITICAL PRACTICES COMMISSION - Ken Goshorn Doto September 10, 197, Sublect: Telephone Conversation with Tom MacBride of the Public Utilities Commission, September 8, 1976 Tom MacBride of the Public utilities Commission called on September 8, 1976, with an emergency problem. Two Commission employees (engineers) are going to Alaska to inspect gas fields, etc. They will later participate in decisions materially affect- ing the utilities holding interests in these sites. PUC pays the engineers' airfare from San Francisco to Alaska and their per diem, etc. However, while in Alaska they will fly on company planes to inspect certain areas. There is no feasible alternative means of travel. I orally advised Mr. MacBride that this benefit, or \"income\", so long as it was totally work-related, appeared to accrue to the PUC, not the officials themselves. The flights are in the nature of a \"plant tour\" by the officials and their value should not be construed as \"income\" to the individuals. We have made a record of this conversation in case there are any repercussions later. cc: Tom MacBride Public Utilities Commission bcc: DHL BS KF",
+    "first_500_words": "State of California Memorandum To : Delbert Spurlock, Chief Conflicts of Interest Division Date : September 10, 197[6] From : FAIR POLITICAL PRACTICES COMMISSION - Ken Goshorn Subject: Telephone Conversation with Tom MacBride of the Public Utilities Commission, September 8, 1976 Tom MacBride of the Public Utilities Commission called on September 8, 1976, with an emergency problem. Two Commission employees (engineers) are going to Alaska to inspect gas fields, etc. They will later participate in decisions materially affecting the utilities holding interests in these sites. PUC pays the engineers' airfare from San Francisco to Alaska and their per diem, etc. However, while in Alaska they will fly on company planes to inspect certain areas. There is no feasible alternative means of travel. I orally advised Mr. MacBride that this benefit, or \"income\", so long as it was totally work-related, appeared to accrue to the PUC, not the officials themselves. The flights are in the nature of a \"plant tour\" by the officials and their value should not be construed as \"income\" to the individuals. We have made a record of this conversation in case there are any repercussions later. cc: Tom MacBride Public Utilities Commission bcc: DHL BS KF",
     "summary": "Internal FPPC memorandum documenting an oral advice given to the Public Utilities Commission regarding whether company-provided flights for engineers inspecting gas fields constitute personal income or conflict of interest."
   }
 }

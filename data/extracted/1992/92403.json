@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1992&tagCount=1&page=83"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:35:19.082719Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-21T00:02:54.769333Z",
     "page_count": 2,
-    "word_count": 176,
-    "char_count": 1045,
-    "quality_score": 0.5975,
+    "word_count": 219,
+    "char_count": 1316,
+    "quality_score": 0.8849807107666426,
     "olmocr_cost": null,
-    "native_word_count": 176
+    "native_word_count": 176,
+    "haiku_cost": 0.0039232
   },
   "content": {
-    "full_text": "ICITYGDF RII'ERBANI(\n6707 THIRD STREET ' RIVERSANK, CALIFORNIA 95367 ' AREA COOE 2M . \n869.357I\nJuly 7,\nFAIR POLITICAL PRACTICES COMMISSION\n428 J Street, Sixth Floor\nSacramento, California 9581 4\nDear Sir:\nI would like to know exactly what constitutes an unfair political practice?\nThere is a developer in our area that saved a county supervisor from serious\ninjury, maybe even death when a helicopter they will in developed trouble\nand was forced down abruptly. Now, this developer has brought before this\nsupervisor's board, a project that could make the developer millions of\ndollars.\nMy question is: \"Should the supervisor abstain from voting on the proposed\nproject?\" My feeling is that a very deep and a personal debt is owed by the\nsupervisor to the developer and voting on the project would not be a fair\npolitical practice.\nWould you please advise me if this constitutes an unfair political practice?\nwould like to hear from you before July 20, 1992.\nThank you in advance for your help.\nRIVERBANK CITY COUNCIL\nSB:tlh\n(-\n@\n'a.)\nF-\n&.4\n\n\n",
+    "full_text": "CITY OF RIVERBANK\n6707 THIRD STREET • RIVERBANK, CALIFORNIA 95367 • AREA CODE 209 • 869-3671\n\nJuly 7, 1992\n\nFAIR POLITICAL PRACTICES COMMISSION\n428 J Street, Sixth Floor\nSacramento, California 95814\n\nDear Sir:\n\nI would like to know exactly what constitutes an unfair political practice?\n\nThere is a developer in our area that saved a county supervisor from serious injury, maybe even death when a helicopter they will in developed trouble and was forced down abruptly. Now, this developer has brought before this supervisor's board, a project that could make the developer millions of dollars.\n\nMy question is: \"Should the supervisor abstain from voting on the proposed project?\" My feeling is that a very deep and a personal debt is owed by the supervisor to the developer and voting on the project would not be a fair political practice.\n\nWould you please advise me if this constitutes an unfair political practice? I would like to hear from you before July 20, 1992.\n\nThank you in advance for your help.\n\nSincerely,\n\nSANDRA BENITEZ\nRIVERBANK CITY COUNCIL\n\nSB:tlh\n\nThe image appears to be largely blank or contains only very faint marks that are not legible enough to transcribe with certainty. There are some minimal marks visible in the upper right corner and left edge, but they do not constitute readable text.",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "QUESTION: Should the supervisor abstain from voting on the proposed project? My feeling is that a very deep and a personal debt is owed by the supervisor to the developer and voting on the project would not be a fair political practice.",
     "qa_source": "mixed",
-    "first_500_words": "ICITYGDF RII'ERBANI( 6707 THIRD STREET ' RIVERSANK, CALIFORNIA 95367 ' AREA COOE 2M . 869.357I July 7, FAIR POLITICAL PRACTICES COMMISSION 428 J Street, Sixth Floor Sacramento, California 9581 4 Dear Sir: I would like to know exactly what constitutes an unfair political practice? There is a developer in our area that saved a county supervisor from serious injury, maybe even death when a helicopter they will in developed trouble and was forced down abruptly. Now, this developer has brought before this supervisor's board, a project that could make the developer millions of dollars. My question is: \"Should the supervisor abstain from voting on the proposed project?\" My feeling is that a very deep and a personal debt is owed by the supervisor to the developer and voting on the project would not be a fair political practice. Would you please advise me if this constitutes an unfair political practice? would like to hear from you before July 20, 1992. Thank you in advance for your help. RIVERBANK CITY COUNCIL SB:tlh (- @ 'a.) F- &.4",
+    "first_500_words": "CITY OF RIVERBANK 6707 THIRD STREET • RIVERBANK, CALIFORNIA 95367 • AREA CODE 209 • 869-3671 July 7, 1992 FAIR POLITICAL PRACTICES COMMISSION 428 J Street, Sixth Floor Sacramento, California 95814 Dear Sir: I would like to know exactly what constitutes an unfair political practice? There is a developer in our area that saved a county supervisor from serious injury, maybe even death when a helicopter they will in developed trouble and was forced down abruptly. Now, this developer has brought before this supervisor's board, a project that could make the developer millions of dollars. My question is: \"Should the supervisor abstain from voting on the proposed project?\" My feeling is that a very deep and a personal debt is owed by the supervisor to the developer and voting on the project would not be a fair political practice. Would you please advise me if this constitutes an unfair political practice? I would like to hear from you before July 20, 1992. Thank you in advance for your help. Sincerely, SANDRA BENITEZ RIVERBANK CITY COUNCIL SB:tlh The image appears to be largely blank or contains only very faint marks that are not legible enough to transcribe with certainty. There are some minimal marks visible in the upper right corner and left edge, but they do not constitute readable text.",
     "summary": "A Riverbank City Council member requests FPPC guidance on whether a county supervisor should abstain from voting on a developer's project when the supervisor owes the developer a personal debt for saving them from a helicopter accident."
   }
 }

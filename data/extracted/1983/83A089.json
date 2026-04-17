@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1983&tagCount=1&page=16"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:36:52.796859Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-24T18:29:20.135700Z",
     "page_count": 1,
-    "word_count": 147,
-    "char_count": 885,
-    "quality_score": 0.5975,
+    "word_count": 144,
+    "char_count": 944,
+    "quality_score": 0.9008685185185186,
     "olmocr_cost": null,
-    "native_word_count": 147
+    "native_word_count": 147,
+    "haiku_cost": 0.00228
   },
   "content": {
-    "full_text": "State of California \nMemorandum \nTo \n:File \nFrom \n: \nFAIR POLITICAL PRACTICES COMMISSION \nTed \nDate :April 5, 1983 \nSubiect: Telephone Call from Vance Raye on March 31, 1983 \nVance Rays counsel to the Governor, called to ask whether \nthere were any problems with a member of a state board or \ncommission also being a lobbyist. \nI consulted with Bob Leidigh \nand provided Vance with the following advice. \n1. \nA lobbyist may not serve as a member of the Fair \nPolitical Practices Commission. \n2. \nThe board member would have to disqualify himself \nfrom any decision in which there was a \"nexus It between the \ngovernmental decision and the purpose for which he received \nincome as a lobbyist. \nSee regulation 18702 (b) (3) (B) . \n3. \nThe board member would have to disqualify himself \nfrom \"using his official position to influence\" any decision \nin which he had a financial interest. \n",
+    "full_text": "State of California\n\nMemorandum\n\nTo      : File                                       Date  : April 5, 1983\n\n\n\n\nFrom  :  FAIR POLITICAL PRACTICES COMMISSION\n         Ted\n\nSubject: Telephone Call from Vance Raye on March 31, 1983\n\n\n     Vance Raye, counsel to the Governor, called to ask whether\nthere were any problems with a member of a state board or\ncommission also being a lobbyist. I consulted with Bob Leidigh\nand provided Vance with the following advice.\n\n     1.  A lobbyist may not serve as a member of the Fair\nPolitical Practices Commission.\n\n     2.  The board member would have to disqualify himself\nfrom any decision in which there was a \"nexus\" between the\ngovernmental decision and the purpose for which he received\nincome as a lobbyist.  See regulation 18702(b)(3)(B).\n\n     3.  The board member would have to disqualify himself\nfrom \"using his official position to influence\" any decision\nin which he had a financial interest.",
     "full_text_markdown": null
   },
   "parsed": {
@@ -67,7 +68,7 @@
   "embedding": {
     "qa_text": "QUESTION: Can a member of a state board or commission also serve as a lobbyist, and what disqualification requirements apply?\n\nCONCLUSION: A lobbyist cannot serve on the FPPC itself. Board members who are lobbyists must disqualify themselves from decisions with a nexus to their lobbying work and from using their official position to influence decisions in which they have a financial interest.",
     "qa_source": "synthetic",
-    "first_500_words": "State of California Memorandum To :File From : FAIR POLITICAL PRACTICES COMMISSION Ted Date :April 5, 1983 Subiect: Telephone Call from Vance Raye on March 31, 1983 Vance Rays counsel to the Governor, called to ask whether there were any problems with a member of a state board or commission also being a lobbyist. I consulted with Bob Leidigh and provided Vance with the following advice. 1. A lobbyist may not serve as a member of the Fair Political Practices Commission. 2. The board member would have to disqualify himself from any decision in which there was a \"nexus It between the governmental decision and the purpose for which he received income as a lobbyist. See regulation 18702 (b) (3) (B) . 3. The board member would have to disqualify himself from \"using his official position to influence\" any decision in which he had a financial interest.",
+    "first_500_words": "State of California Memorandum To : File Date : April 5, 1983 From : FAIR POLITICAL PRACTICES COMMISSION Ted Subject: Telephone Call from Vance Raye on March 31, 1983 Vance Raye, counsel to the Governor, called to ask whether there were any problems with a member of a state board or commission also being a lobbyist. I consulted with Bob Leidigh and provided Vance with the following advice. 1. A lobbyist may not serve as a member of the Fair Political Practices Commission. 2. The board member would have to disqualify himself from any decision in which there was a \"nexus\" between the governmental decision and the purpose for which he received income as a lobbyist. See regulation 18702(b)(3)(B). 3. The board member would have to disqualify himself from \"using his official position to influence\" any decision in which he had a financial interest.",
     "summary": "FPPC memorandum documenting advice given via telephone to Governor's Counsel regarding the permissibility of dual service as both a state board/commission member and a lobbyist, with three key conclusions about disqualification requirements."
   }
 }

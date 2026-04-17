@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=7"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:37:08.989036Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-19T20:32:16.015591Z",
     "page_count": 1,
-    "word_count": 85,
-    "char_count": 539,
-    "quality_score": 0.515,
+    "word_count": 87,
+    "char_count": 663,
+    "quality_score": 0.8738806278910399,
     "olmocr_cost": null,
-    "native_word_count": 85
+    "native_word_count": 85,
+    "haiku_cost": 0.0019
   },
   "content": {
-    "full_text": "o L,) 0 I \nState of California \nMemorandum \nTo \n: File \nDate \ntvlarch 6, 1978 \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nTed Prim \nSubject: Disposition of Appeals \nAt the January 1978, meeting, the Commission directed the \nConflicts of Interest Committee to hear all appeals from \ndesignated employees prior to bringing such appeals to the \nfull Commission. \nThis procedure will enable the Committee \nto crystalize \nmajor issues and build a record. \nThe hope \nis that the \ning before the full Commission would be more \nef cient. \nTP:mfa \n",
+    "full_text": "0 13 0 1\n\nState of California\n\nMemorandum\n\nTo : File                                                Date  March 6, 1978\n\n                                                         /11-78-337\n\nFrom : FAIR POLITICAL PRACTICES COMMISSION\n       Ted Prim\n\nSubject: Disposition of Appeals\n\n\n      At the January 1978, meeting, the Commission directed the\nConflicts of Interest Committee to hear all appeals from\ndesignated employees prior to bringing such appeals to the\nfull Commission. This procedure will enable the Committee\nto crystallize the major issues and build a record. The hope\nis that the hearing before the full Commission would be more\nefficient.\n\n\nTP:mfa",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "o L,) 0 I State of California Memorandum To : File Date tvlarch 6, 1978 From FAIR POLITICAL PRACTICES COMMISSION Ted Prim Subject: Disposition of Appeals At the January 1978, meeting, the Commission directed the Conflicts of Interest Committee to hear all appeals from designated employees prior to bringing such appeals to the full Commission. This procedure will enable the Committee to crystalize major issues and build a record. The hope is that the ing before the full Commission would be more ef cient. TP:mfa",
     "qa_source": "synthetic",
-    "first_500_words": "o L,) 0 I State of California Memorandum To : File Date tvlarch 6, 1978 From FAIR POLITICAL PRACTICES COMMISSION Ted Prim Subject: Disposition of Appeals At the January 1978, meeting, the Commission directed the Conflicts of Interest Committee to hear all appeals from designated employees prior to bringing such appeals to the full Commission. This procedure will enable the Committee to crystalize major issues and build a record. The hope is that the ing before the full Commission would be more ef cient. TP:mfa",
+    "first_500_words": "0 13 0 1 State of California Memorandum To : File Date March 6, 1978 /11-78-337 From : FAIR POLITICAL PRACTICES COMMISSION Ted Prim Subject: Disposition of Appeals At the January 1978, meeting, the Commission directed the Conflicts of Interest Committee to hear all appeals from designated employees prior to bringing such appeals to the full Commission. This procedure will enable the Committee to crystallize the major issues and build a record. The hope is that the hearing before the full Commission would be more efficient. TP:mfa",
     "summary": "Internal FPPC memorandum documenting a Commission directive from January 1978 requiring the Conflicts of Interest Committee to hear all appeals from designated employees before escalation to the full Commission."
   }
 }

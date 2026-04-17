@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1993&tagCount=1&page=20"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:35:07.784956Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-23T00:03:48.250569Z",
     "page_count": 1,
-    "word_count": 172,
-    "char_count": 1099,
-    "quality_score": 0.7175,
+    "word_count": 177,
+    "char_count": 1143,
+    "quality_score": 0.8989810284815543,
     "olmocr_cost": null,
-    "native_word_count": 172
+    "native_word_count": 172,
+    "haiku_cost": 0.002556
   },
   "content": {
-    "full_text": "California\nFair Political\nPractices Commission\nJuly 19,\n1993\nKaren Lundgren\n2594 Irvington Avenue\nSan Bernardino,\nCA\n92407\nRe:\nYour Request for Advice\nOur File No.\nA-93--250\nDear Ms.\nLundgren:\nI am writing to confirm our telephone conversation on\nJuly 14,\n1993 wherein we discussed your written request for\nadvice.\nYou are involved with a campaign committee which supports\na candidate for the San Bernardino County Superintendent of\nSchools.\nThe Office of the County Superintendent of Schools\ncurrently does business with many vendors.\nYou inquired as to\nwhether there are contribution limits on the amount of money a\nvendor may contribute to the candidate’s committee.\nI informed you that under the Political Reform Act, there are\nno longer contribution limits unless it is a special election.\nalso suggested that you ascertain if there is a local ordinance\nwhichestablishes local contribution limits.\nI trust this answers your question.\nSincerely,\nJeff Marschner\nGeneral Counsel\nBy:\nnsel,\nLegal Division\nJM:JS:ak\n428 J Street, Suite 800 •\nP.O. Box 807 •\nSacramento, CA\n95804-0807\n•\n(916) 322-5660\n",
+    "full_text": "California\nFair Political\nPractices Commission\n\n\nJuly 19, 1993\n\n\nKaren Lundgren\n2594 Irvington Avenue\nSan Bernardino, CA 92407\n\nRe: Your Request for Advice\nOur File No. A-93-250\n\nDear Ms. Lundgren:\n\nI am writing to confirm our telephone conversation on\nJuly 14, 1993 wherein we discussed your written request for\nadvice. You are involved with a campaign committee which supports\na candidate for the San Bernardino County Superintendent of\nSchools. The Office of the County Superintendent of Schools\ncurrently does business with many vendors. You inquired as to\nwhether there are contribution limits on the amount of money a\nvendor may contribute to the candidate's committee.\n\nI informed you that under the Political Reform Act, there are\nno longer contribution limits unless it is a special election. I\nalso suggested that you ascertain if there is a local ordinance\nwhich establishes local contribution limits.\n\nI trust this answers your question.\n\nSincerely,\n\nJeff Marschner\nGeneral Counsel\n\nBy: [illegible]\nJill Stecher\nCounsel, Legal Division\n\nJM:JS:ak\n\n\n428 J Street, Suite 800 • P.O. Box 807 • Sacramento, CA 95804-0807 • (916) 322-5660",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "QUESTION: Whether there are contribution limits on the amount of money a vendor doing business with the Office of the County Superintendent of Schools may contribute to a candidate's campaign committee.\n\nCONCLUSION: Under the Political Reform Act, there are no longer contribution limits unless it is a special election. The requester should also ascertain if there is a local ordinance establishing local contribution limits.",
     "qa_source": "synthetic",
-    "first_500_words": "California Fair Political Practices Commission July 19, 1993 Karen Lundgren 2594 Irvington Avenue San Bernardino, CA 92407 Re: Your Request for Advice Our File No. A-93--250 Dear Ms. Lundgren: I am writing to confirm our telephone conversation on July 14, 1993 wherein we discussed your written request for advice. You are involved with a campaign committee which supports a candidate for the San Bernardino County Superintendent of Schools. The Office of the County Superintendent of Schools currently does business with many vendors. You inquired as to whether there are contribution limits on the amount of money a vendor may contribute to the candidate’s committee. I informed you that under the Political Reform Act, there are no longer contribution limits unless it is a special election. also suggested that you ascertain if there is a local ordinance whichestablishes local contribution limits. I trust this answers your question. Sincerely, Jeff Marschner General Counsel By: nsel, Legal Division JM:JS:ak 428 J Street, Suite 800 • P.O. Box 807 • Sacramento, CA 95804-0807 • (916) 322-5660",
+    "first_500_words": "California Fair Political Practices Commission July 19, 1993 Karen Lundgren 2594 Irvington Avenue San Bernardino, CA 92407 Re: Your Request for Advice Our File No. A-93-250 Dear Ms. Lundgren: I am writing to confirm our telephone conversation on July 14, 1993 wherein we discussed your written request for advice. You are involved with a campaign committee which supports a candidate for the San Bernardino County Superintendent of Schools. The Office of the County Superintendent of Schools currently does business with many vendors. You inquired as to whether there are contribution limits on the amount of money a vendor may contribute to the candidate's committee. I informed you that under the Political Reform Act, there are no longer contribution limits unless it is a special election. I also suggested that you ascertain if there is a local ordinance which establishes local contribution limits. I trust this answers your question. Sincerely, Jeff Marschner General Counsel By: [illegible] Jill Stecher Counsel, Legal Division JM:JS:ak 428 J Street, Suite 800 • P.O. Box 807 • Sacramento, CA 95804-0807 • (916) 322-5660",
     "summary": "FPPC General Counsel confirms in this advice letter that there are no state contribution limits under the Political Reform Act for contributions to a San Bernardino County Superintendent of Schools candidate committee, except in special elections, though local ordinances may impose additional limits."
   }
 }

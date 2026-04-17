@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=32"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:37:11.444134Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-19T19:17:26.545490Z",
     "page_count": 1,
-    "word_count": 106,
-    "char_count": 716,
-    "quality_score": 0.515,
+    "word_count": 107,
+    "char_count": 776,
+    "quality_score": 0.8241793179936118,
     "olmocr_cost": null,
-    "native_word_count": 106
+    "native_word_count": 106,
+    "haiku_cost": 0.00206
   },
   "content": {
-    "full_text": "Memorandum \nro \nt Opinion Request Meeting Participants \nDote \n: 2-15-78 \n\".. I \nFAIR POLITICAL PRACTICES COMMISSION \nNatalie West \n~ \nDiscuSsion Item. \nIndependent Expenditures by a Lobbyist \n-\nDoes the prohibition on lobbyist contributions, \nSection 86200, 86202, include expenditures? If not, may \na lobbyist make an expenditure supporting a state candidate, \ncommittee supporting a state candidate, or an elected state \nofficer? \nNE\\v: jo \nWe dlcided to avoid giving any advice on this point until \nIGA decision is rendered. \nStaff is split -\n~ome think independent \nexpenditures can be prohibited; others think they can't. \nAt p.4l of our IGA brief we implied that lobbyists can make \nindependent expenditures. \n",
+    "full_text": "State of California\n\nMemorandum\n\nTo : Opinion Request Meeting Participants                Date : 2-15-78\n\nFrom : FAIR POLITICAL PRACTICES COMMISSION\n      Natalie West\n\nSubject: Discussion Item.\n\n         Independent Expenditures by a Lobbyist\n\n\n         Does the prohibition on lobbyist contributions,\nSection 86200, 86202, include expenditures? If not, may\na lobbyist make an expenditure supporting a state candidate,\ncommittee supporting a state candidate, or an elected state\nofficer?\n\nNEW:jo\n\n\n\n\n         We decided to avoid giving any advice on this point until\nIGA decision is rendered. Staff is split - some think independent\nexpenditures can be prohibited; others think they can't.\nAt p.41 of our IGA brief we implied that lobbyists can make\nindependent expenditures.",
     "full_text_markdown": null
   },
   "parsed": {
@@ -67,7 +68,7 @@
   "embedding": {
     "qa_text": "QUESTION: Does the prohibition on lobbyist contributions, Section 86200, 86202, include expenditures? If not, may a lobbyist make an expenditure supporting a state candidate, committee supporting a state candidate, or an elected state officer?\n\nCONCLUSION: The FPPC decided to defer providing advice on this issue pending an IGA (In re Gonsalves Asphalt) decision, with staff holding divided opinions on whether independent expenditures can be prohibited under lobbyist restrictions.",
     "qa_source": "mixed",
-    "first_500_words": "Memorandum ro t Opinion Request Meeting Participants Dote : 2-15-78 \".. I FAIR POLITICAL PRACTICES COMMISSION Natalie West ~ DiscuSsion Item. Independent Expenditures by a Lobbyist - Does the prohibition on lobbyist contributions, Section 86200, 86202, include expenditures? If not, may a lobbyist make an expenditure supporting a state candidate, committee supporting a state candidate, or an elected state officer? NE\\v: jo We dlcided to avoid giving any advice on this point until IGA decision is rendered. Staff is split - ~ome think independent expenditures can be prohibited; others think they can't. At p.4l of our IGA brief we implied that lobbyists can make independent expenditures.",
+    "first_500_words": "State of California Memorandum To : Opinion Request Meeting Participants Date : 2-15-78 From : FAIR POLITICAL PRACTICES COMMISSION Natalie West Subject: Discussion Item. Independent Expenditures by a Lobbyist Does the prohibition on lobbyist contributions, Section 86200, 86202, include expenditures? If not, may a lobbyist make an expenditure supporting a state candidate, committee supporting a state candidate, or an elected state officer? NEW:jo We decided to avoid giving any advice on this point until IGA decision is rendered. Staff is split - some think independent expenditures can be prohibited; others think they can't. At p.41 of our IGA brief we implied that lobbyists can make independent expenditures.",
     "summary": "This is an internal FPPC memorandum from February 15, 1978, documenting discussion of whether lobbyist contribution prohibitions extend to independent expenditures. The Commission deferred rendering advice pending an IGA decision, noting staff disagreement on the legal issue."
   }
 }

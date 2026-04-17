@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1983&tagCount=1&page=4"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:36:51.086809Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-24T16:47:25.436039Z",
     "page_count": 1,
-    "word_count": 184,
-    "char_count": 1119,
-    "quality_score": 0.7175,
+    "word_count": 182,
+    "char_count": 1245,
+    "quality_score": 0.9068435215428655,
     "olmocr_cost": null,
-    "native_word_count": 184
+    "native_word_count": 184,
+    "haiku_cost": 0.002512
   },
   "content": {
-    "full_text": "State of California \nMemorandum \nTo \n: File \nFrom \n: \nFAIR POLITICAL PRACTICES COMMISSION \nRobert E. Leidigh/-?/ \nr- -7 \nDate :July 18, 1983 \nNo. M-83-l76 \nSubject: Applicablity of Section 82033 (Interests in Real Property) \nto Third Parties - Discussed at 7/14/83 Advice Request \nMeeting -\nArose from Telephone Request of George Shenas \nThis topic was discussed at the 7/14/83 Advice Request \nMeeting. \nThe issue was whether Section 82033 applies to a third \nparty who is a source of income to an official. \nSpecifically, \ndoes the third party have an interest in real property held by \nher spouse as his separate property. \nIn the case of an official, \nSection 82033 says \"yes\" the official has an interest in the \nspouse's separate real property. \nIn the case of the third party, \nSection 82033 does not apply and the official may act to affect \nher spouse's separate real property so long as there is no \n\"reasonably foreseeable\" resulting \"material\" effect upon her. \nIn the case of separate property, we will assume that there is no \nsuch effect unless facts are present to indicate to the contrary. \nREL:plh \n, \n",
+    "full_text": "State of California\n\nMemorandum\n\nTo     : File -                                                    Date :July 18, 1983\n                                                                   No. M-83-176\n\n\n\n\nFrom : FAIR POLITICAL PRACTICES COMMISSION\n         Robert E. Leidigh\n\nSubject: Applicability of Section 82033 (Interests in Real Property)\n         to Third Parties - Discussed at 7/14/83 Advice Request\n         Meeting - Arose from Telephone Request of George Shenas\n\n\n         This topic was discussed at the 7/14/83 Advice Request\nMeeting. The issue was whether Section 82033 applies to a third\nparty who is a source of income to an official. Specifically,\ndoes the third party have an interest in real property held by\nher spouse as his separate property. In the case of an official,\nSection 82033 says \"yes\" the official has an interest in the\nspouse's separate real property. In the case of the third party,\nSection 82033 does not apply and the official may act to affect\nher spouse's separate real property so long as there is no\n\"reasonably foreseeable\" resulting \"material\" effect upon her.\nIn the case of separate property, we will assume that there is no\nsuch effect unless facts are present to indicate to the contrary.\n\nREL:plh",
     "full_text_markdown": null
   },
   "parsed": {
@@ -67,7 +68,7 @@
   "embedding": {
     "qa_text": "QUESTION: Whether Section 82033 (interests in real property) applies to third parties who are sources of income to officials, specifically whether a third party has an interest in real property held by an official's spouse as separate property.\n\nCONCLUSION: Section 82033 applies to officials' interests in spouses' separate real property, but does not apply to third parties. An official may act to affect a spouse's separate real property so long as there is no reasonably foreseeable material effect on the third party; absent contrary facts, no such effect is presumed for separate property.",
     "qa_source": "synthetic",
-    "first_500_words": "State of California Memorandum To : File From : FAIR POLITICAL PRACTICES COMMISSION Robert E. Leidigh/-?/ r- -7 Date :July 18, 1983 No. M-83-l76 Subject: Applicablity of Section 82033 (Interests in Real Property) to Third Parties - Discussed at 7/14/83 Advice Request Meeting - Arose from Telephone Request of George Shenas This topic was discussed at the 7/14/83 Advice Request Meeting. The issue was whether Section 82033 applies to a third party who is a source of income to an official. Specifically, does the third party have an interest in real property held by her spouse as his separate property. In the case of an official, Section 82033 says \"yes\" the official has an interest in the spouse's separate real property. In the case of the third party, Section 82033 does not apply and the official may act to affect her spouse's separate real property so long as there is no \"reasonably foreseeable\" resulting \"material\" effect upon her. In the case of separate property, we will assume that there is no such effect unless facts are present to indicate to the contrary. REL:plh ,",
+    "first_500_words": "State of California Memorandum To : File - Date :July 18, 1983 No. M-83-176 From : FAIR POLITICAL PRACTICES COMMISSION Robert E. Leidigh Subject: Applicability of Section 82033 (Interests in Real Property) to Third Parties - Discussed at 7/14/83 Advice Request Meeting - Arose from Telephone Request of George Shenas This topic was discussed at the 7/14/83 Advice Request Meeting. The issue was whether Section 82033 applies to a third party who is a source of income to an official. Specifically, does the third party have an interest in real property held by her spouse as his separate property. In the case of an official, Section 82033 says \"yes\" the official has an interest in the spouse's separate real property. In the case of the third party, Section 82033 does not apply and the official may act to affect her spouse's separate real property so long as there is no \"reasonably foreseeable\" resulting \"material\" effect upon her. In the case of separate property, we will assume that there is no such effect unless facts are present to indicate to the contrary. REL:plh",
     "summary": "FPPC memorandum addressing whether Section 82033 (interests in real property) applies to third-party income sources regarding an official's spouse's separate property. The FPPC concludes that Section 82033 does not apply to third parties, allowing officials to act on spouse's separate property absent reasonably foreseeable material effects."
   }
 }

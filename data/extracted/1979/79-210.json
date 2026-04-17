@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=11"
   },
   "extraction": {
-    "method": "native+olmocr",
-    "extracted_at": "2026-02-08T17:14:16.612088Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-04-04T21:23:23.076533Z",
     "page_count": 1,
-    "word_count": 34,
-    "char_count": 205,
-    "quality_score": 0.33999999999999997,
+    "word_count": 35,
+    "char_count": 213,
+    "quality_score": 0.4981960664582809,
     "olmocr_cost": 0.00239166,
-    "native_word_count": 34
+    "native_word_count": 34,
+    "haiku_cost": 0.001552
   },
   "content": {
-    "full_text": "86204 \nProhibition not applicable if official donates his gift \nto charity. \nAn official may cure a potential violation of \n§86204 by donating gifts of $10 or \nmore from lobbyist to \na bona fide charity. \n",
+    "full_text": "86204\n\nProhibition not applicable if official donates his gift\n\nto charity.\n\nAn official may cure a potential violation of\n\n§86204 by donating gifts of $10 or more from lobbyist to\n\na bona fide charity.\n\n/n-79-210",
     "full_text_markdown": null
   },
   "parsed": {
@@ -67,7 +68,7 @@
   "embedding": {
     "qa_text": "QUESTION: Whether an official can remedy a violation of Government Code Section 86204 by donating gifts received from lobbyists to a bona fide charity.\n\nCONCLUSION: An official may cure a potential violation of §86204 by donating gifts of $10 or more from lobbyist to a bona fide charity.",
     "qa_source": "mixed",
-    "first_500_words": "86204 Prohibition not applicable if official donates his gift to charity. An official may cure a potential violation of §86204 by donating gifts of $10 or more from lobbyist to a bona fide charity.",
+    "first_500_words": "86204 Prohibition not applicable if official donates his gift to charity. An official may cure a potential violation of §86204 by donating gifts of $10 or more from lobbyist to a bona fide charity. /n-79-210",
     "summary": "FPPC advice letter 79-210 addresses whether officials can cure violations of Government Code Section 86204 concerning lobbyist gifts by donating such gifts to charity. The FPPC concludes that donation of gifts of $10 or more from lobbyists to bona fide charities cures the prohibition."
   }
 }

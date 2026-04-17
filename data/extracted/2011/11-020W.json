@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2011&tagCount=1&page=14"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:33:48.756158Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-20T15:41:42.748210Z",
     "page_count": 1,
-    "word_count": 120,
-    "char_count": 788,
-    "quality_score": 0.5475,
+    "word_count": 118,
+    "char_count": 751,
+    "quality_score": 0.8474460849818815,
     "olmocr_cost": null,
-    "native_word_count": 120
+    "native_word_count": 120,
+    "haiku_cost": 0.0021999999999999997
   },
   "content": {
-    "full_text": "FAIR POLITICAL PRACTICES COMMISSION \n428 J Street • Suite 620 • Sacramento, CA 95814-2329 \n(916) 322-5660 • Fax (916) 322-0886 \nPeter Sherman \nDOC Advocacy \n174 Waterfront Street, Suite 500 \nNational Harbor, MD 20745 \nRe: \nYour Request for Advice \nOur File No. W-11-020 \nDear Mr. Sherman: \nMay 2, 2011 \nThis letter is to notify you that we have withdrawn the above captioned request for advice \npursuant to your April 14, 2011 e-mail advising us that the American Insurance Association has \ndecided to rescind their request for written advice dated Febmary 3, 2011. \nIf you have any other questions regarding this matter, please contact me at \n(916) 322-5660. \nSJ:jgl \nSincerely, \nScott Hallabrin \nGeneral Counsel \n/-st0l fotl<A)-<;<Z,,-\nBy: \nSaqcfy Johnson \nPolitical Reform Consultant \n",
+    "full_text": "FAIR POLITICAL PRACTICES COMMISSION\n428 J Street • Suite 620 • Sacramento, CA 95814-2329\n(916) 322-5660 • Fax (916) 322-0886\n\nMay 2, 2011\n\n\nPeter Sherman\nDDC Advocacy\n174 Waterfront Street, Suite 500\nNational Harbor, MD 20745\n\nRe: Your Request for Advice\nOur File No. W-11-020\n\nDear Mr. Sherman:\n\nThis letter is to notify you that we have withdrawn the above captioned request for advice pursuant to your April 14, 2011 e-mail advising us that the American Insurance Association has decided to rescind their request for written advice dated February 3, 2011.\n\nIf you have any other questions regarding this matter, please contact me at (916) 322-5660.\n\nSincerely,\n\nScott Hallabrin\nGeneral Counsel\n\nBy: Sandy Johnson\nPolitical Reform Consultant\n\nSJ:jgl",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "FAIR POLITICAL PRACTICES COMMISSION  (916) 322-5660 • Fax (916) 322-0886 Peter Sherman DOC Advocacy 174 Waterfront Street, Suite 500 National Harbor, MD 20745 Re: Your Request for Advice Our File No. W-11-020 Dear Mr. Sherman: May 2, 2011 This letter is to notify you that we have withdrawn the above captioned request for advice pursuant to your April 14, 2011 e-mail advising us that the American Insurance Association has decided to rescind their request for written advice dated Febmary 3, 2011. If you have any other questions regarding this matter, please contact me at (916) 322-5660. SJ:jgl Sincerely, Scott Hallabrin General Counsel /-st0l fotl<A)-<;<Z,,- By: Saqcfy Johnson Political Reform Consultant",
     "qa_source": "synthetic",
-    "first_500_words": "FAIR POLITICAL PRACTICES COMMISSION 428 J Street • Suite 620 • Sacramento, CA 95814-2329 (916) 322-5660 • Fax (916) 322-0886 Peter Sherman DOC Advocacy 174 Waterfront Street, Suite 500 National Harbor, MD 20745 Re: Your Request for Advice Our File No. W-11-020 Dear Mr. Sherman: May 2, 2011 This letter is to notify you that we have withdrawn the above captioned request for advice pursuant to your April 14, 2011 e-mail advising us that the American Insurance Association has decided to rescind their request for written advice dated Febmary 3, 2011. If you have any other questions regarding this matter, please contact me at (916) 322-5660. SJ:jgl Sincerely, Scott Hallabrin General Counsel /-st0l fotl<A)-<;<Z,,- By: Saqcfy Johnson Political Reform Consultant",
+    "first_500_words": "FAIR POLITICAL PRACTICES COMMISSION 428 J Street • Suite 620 • Sacramento, CA 95814-2329 (916) 322-5660 • Fax (916) 322-0886 May 2, 2011 Peter Sherman DDC Advocacy 174 Waterfront Street, Suite 500 National Harbor, MD 20745 Re: Your Request for Advice Our File No. W-11-020 Dear Mr. Sherman: This letter is to notify you that we have withdrawn the above captioned request for advice pursuant to your April 14, 2011 e-mail advising us that the American Insurance Association has decided to rescind their request for written advice dated February 3, 2011. If you have any other questions regarding this matter, please contact me at (916) 322-5660. Sincerely, Scott Hallabrin General Counsel By: Sandy Johnson Political Reform Consultant SJ:jgl",
     "summary": "The FPPC notifies Peter Sherman that the American Insurance Association's request for written advice (dated February 3, 2011) has been withdrawn per the requestor's April 14, 2011 email."
   }
 }

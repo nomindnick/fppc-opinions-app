@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1988&tagCount=1&page=39"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:36:16.933427Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-20T17:31:56.415474Z",
     "page_count": 1,
-    "word_count": 121,
-    "char_count": 761,
-    "quality_score": 0.5975,
+    "word_count": 138,
+    "char_count": 854,
+    "quality_score": 0.8201788675650654,
     "olmocr_cost": null,
-    "native_word_count": 121
+    "native_word_count": 121,
+    "haiku_cost": 0.0023480000000000003
   },
   "content": {
-    "full_text": "STATE OF CALIFORNIA \nFiRST APPELLATE DiSTRICT \nSTATE BUILDING. SAN FRANCISCO \nAugust 22, 1988 \nMr. Bruce Robeck, Consultant \nFair Political Practices Commission \nP.o. Box 807 \nSacramento, CA 95804-0807 \nRe: \nForm 721, Statement of Economic Interests \nDear Mr. Robeck: \nThis will confirm my secretary's conversation with you on \nAugust 22, concerning the filing of a 721 form. \nIt is my \nunderstanding that it will not be necessary to file the same \nsince there is no break in service until March of 1989. \nBy copy of this letter I am also advising Ms. Frances Manfre in \nAlameda County with regard to the filing of said form. \nThank you for your cooperation. \nSincerely, \n~rley \nAssociate Justice \nJP/smm \ncc: \nFrances T. Manfre \nAlameda County Superior Court \n",
+    "full_text": "M-88-337\n\nAUG 24 9:01 AM 88\n\nSTATE OF CALIFORNIA\n\nCourt of Appeal\nFIRST APPELLATE DISTRICT\n\nSTATE BUILDING, SAN FRANCISCO\n\n\nAugust 22, 1988\n\n\nMr. Bruce Robeck, Consultant\nFair Political Practices Commission\nP.O. Box 807\nSacramento, CA 95804-0807\n\nRe: Form 721, Statement of Economic Interests\n\nDear Mr. Robeck:\n\nThis will confirm my secretary's conversation with you on\nAugust 22, concerning the filing of a 721 form. It is my\nunderstanding that it will not be necessary to file the same\nsince there is no break in service until March of 1989.\n\nBy copy of this letter I am also advising Ms. Frances Manfre in\nAlameda County with regard to the filing of said form.\n\nThank you for your cooperation.\n\nSincerely,\n\n[Signature] Confirmed 8-31-88\nJames F. Perley Bruce W. Robeck\nAssociate Justice\n\nJP/smm\n\ncc: Frances T. Manfre\n    Alameda County Superior Court",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "QUESTION: Whether Form 721 (Statement of Economic Interests) must be filed given that there is no break in service until March 1989.",
     "qa_source": "synthetic",
-    "first_500_words": "STATE OF CALIFORNIA FiRST APPELLATE DiSTRICT STATE BUILDING. SAN FRANCISCO August 22, 1988 Mr. Bruce Robeck, Consultant Fair Political Practices Commission P.o. Box 807 Sacramento, CA 95804-0807 Re: Form 721, Statement of Economic Interests Dear Mr. Robeck: This will confirm my secretary's conversation with you on August 22, concerning the filing of a 721 form. It is my understanding that it will not be necessary to file the same since there is no break in service until March of 1989. By copy of this letter I am also advising Ms. Frances Manfre in Alameda County with regard to the filing of said form. Thank you for your cooperation. Sincerely, ~rley Associate Justice JP/smm cc: Frances T. Manfre Alameda County Superior Court",
+    "first_500_words": "M-88-337 AUG 24 9:01 AM 88 STATE OF CALIFORNIA Court of Appeal FIRST APPELLATE DISTRICT STATE BUILDING, SAN FRANCISCO August 22, 1988 Mr. Bruce Robeck, Consultant Fair Political Practices Commission P.O. Box 807 Sacramento, CA 95804-0807 Re: Form 721, Statement of Economic Interests Dear Mr. Robeck: This will confirm my secretary's conversation with you on August 22, concerning the filing of a 721 form. It is my understanding that it will not be necessary to file the same since there is no break in service until March of 1989. By copy of this letter I am also advising Ms. Frances Manfre in Alameda County with regard to the filing of said form. Thank you for your cooperation. Sincerely, [Signature] Confirmed 8-31-88 James F. Perley Bruce W. Robeck Associate Justice JP/smm cc: Frances T. Manfre Alameda County Superior Court",
     "summary": "An Associate Justice from the First Appellate District confirms a telephone conversation with FPPC Consultant Bruce Robeck regarding Form 721 filing requirements, indicating that filing will not be necessary due to continuity of service through March 1989."
   }
 }

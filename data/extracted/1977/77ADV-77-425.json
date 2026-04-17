@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=39"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:37:15.788195Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-22T03:26:12.307713Z",
     "page_count": 1,
     "word_count": 99,
-    "char_count": 612,
-    "quality_score": 0.5975,
+    "char_count": 602,
+    "quality_score": 0.8777815355042968,
     "olmocr_cost": null,
-    "native_word_count": 99
+    "native_word_count": 99,
+    "haiku_cost": 0.001944
   },
   "content": {
-    "full_text": "For consideration by the Commission \non December 7, 8, and 9, 1977. \nFor \ninformation or comments, contact \nTed Prim, a staff attorney, at \n(916) 322-6444. \nPROPOSED REGULATION \nDRAFT 1 \nTP:jo \nNovember 23, 1977 \n18116. \nReports and Statements; Filing Dates (81005) \nWhenever the Political Reform Act requires that a \nstatement or report be filed prior to, or not later than a \nspecified date or during or within a specified period, and \nthe deadline falls on a Saturday, Sunday or official state \nholiday, the filing deadline for such a statement or report \nshall be extended to the next regular business day. \n",
+    "full_text": "For consideration by the Commission\non December 7, 8, and 9, 1977. For\ninformation or comments, contact\nTed Prim, a staff attorney, at\n(916) 322-6444.\n\nDRAFT 1 TP:jo\nNovember 23, 1977\n\nPROPOSED REGULATION\n\n18116. Reports and Statements; Filing Dates (81005)\n\nWhenever the Political Reform Act requires that a\n\nstatement or report be filed prior to, or not later than a\n\nspecified date or during or within a specified period, and\n\nthe deadline falls on a Saturday, Sunday or official state\n\nholiday, the filing deadline for such a statement or report\n\nshall be extended to the next regular business day.",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "QUESTION: This document does not contain a legal question; it is a proposed regulation draft.",
     "qa_source": "synthetic",
-    "first_500_words": "For consideration by the Commission on December 7, 8, and 9, 1977. For information or comments, contact Ted Prim, a staff attorney, at (916) 322-6444. PROPOSED REGULATION DRAFT 1 TP:jo November 23, 1977 18116. Reports and Statements; Filing Dates (81005) Whenever the Political Reform Act requires that a statement or report be filed prior to, or not later than a specified date or during or within a specified period, and the deadline falls on a Saturday, Sunday or official state holiday, the filing deadline for such a statement or report shall be extended to the next regular business day.",
+    "first_500_words": "For consideration by the Commission on December 7, 8, and 9, 1977. For information or comments, contact Ted Prim, a staff attorney, at (916) 322-6444. DRAFT 1 TP:jo November 23, 1977 PROPOSED REGULATION 18116. Reports and Statements; Filing Dates (81005) Whenever the Political Reform Act requires that a statement or report be filed prior to, or not later than a specified date or during or within a specified period, and the deadline falls on a Saturday, Sunday or official state holiday, the filing deadline for such a statement or report shall be extended to the next regular business day.",
     "summary": "This is a proposed regulation (Draft 1) regarding filing deadlines under the Political Reform Act, proposing that when filing deadlines fall on weekends or state holidays, the deadline be extended to the next regular business day. The document was prepared for Commission consideration on December 7-9, 1977."
   }
 }

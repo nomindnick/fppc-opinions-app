@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1990&tagCount=1&page=32"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:35:33.855166Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-20T19:40:43.244285Z",
     "page_count": 1,
-    "word_count": 156,
-    "char_count": 1019,
-    "quality_score": 0.7175,
+    "word_count": 153,
+    "char_count": 1017,
+    "quality_score": 0.8949469424928442,
     "olmocr_cost": null,
-    "native_word_count": 156
+    "native_word_count": 156,
+    "haiku_cost": 0.0024312
   },
   "content": {
-    "full_text": "/oou,rrorrice\n4040 Paramount Blvd.\nSuite 103\nLakewood, CA 90712\n(213) 429-5422\nPaul C-arpenter\nFourth District Member\nState Board of Equalization\nDt Sacramento Office\n' 1020 N Street\n'i i$\"'ffin'\"'n5.o, CA e5814\nB161445-4664\nJl{,n i_; S\nJune 22, 1990\nFair Political Practices Commission\n428 J Street, Suite 800\nP. O. Box 807\nSacramentor CA 95804\nTo Whom it May Concern:\nI am writing to request information on behalf of Board of\nEqualization Member PauI Carpenter.\nMr. Carpenter is Treasurer of a federal Campaign Committee,\n\"Friends of Senator Paul Carpenter. n At present, that committee\nhas assets amounting to approximately $472.00\nIttr. Carpenter wishes to terminate the federal committee, and I\nam writing to request your advice regarding whether or not Mr.\nCarpenter may deposit the above referenced \"federal fundsn into\nhis Board of Equalization re-election committee account, the\nCarpenter Campaigrr Committee.\nI would appreciate a reply at your earliest convenience.\nSincerely r\nDeputy to Paul CarPenter\nt+zr'\n",
+    "full_text": "District Office\n4040 Paramount Blvd.\nSuite 103\nLakewood, CA 90712\n(213) 429-5422\n\nPaul Carpenter\nFourth District Member\nState Board of Equalization\n\nSacramento Office\n1020 N Street\nRoom 125\nSacramento, CA 95814\n(916) 445-4664\n\nJune 22, 1990\n\nFair Political Practices Commission\n428 J Street, Suite 800\nP.O. Box 807\nSacramento, CA 95804\n\nTo Whom it May Concern:\n\nI am writing to request information on behalf of Board of\nEqualization Member Paul Carpenter.\n\nMr. Carpenter is Treasurer of a federal Campaign Committee,\n\"Friends of Senator Paul Carpenter.\" At present, that committee\nhas assets amounting to approximately $472.00\n\nMr. Carpenter wishes to terminate the federal committee, and I\nam writing to request your advice regarding whether or not Mr.\nCarpenter may deposit the above referenced \"federal funds into\nhis Board of Equalization re-election committee account, the\nCarpenter Campaign Committee.\n\nI would appreciate a reply at your earliest convenience.\n\nSincerely,\n\nAnn M. Peifer\nDeputy to Paul Carpenter",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "QUESTION: Whether Mr. Carpenter may deposit federal campaign committee funds (approximately $472.00 from \"Friends of Senator Paul Carpenter\") into his Board of Equalization re-election committee account, the Carpenter Campaign Committee, upon termination of the federal committee.",
     "qa_source": "mixed",
-    "first_500_words": "/oou,rrorrice 4040 Paramount Blvd. Suite 103 Lakewood, CA 90712 (213) 429-5422 Paul C-arpenter Fourth District Member State Board of Equalization Dt Sacramento Office ' 1020 N Street 'i i$\"'ffin'\"'n5.o, CA e5814 B161445-4664 Jl{,n i_; S June 22, 1990 Fair Political Practices Commission 428 J Street, Suite 800 P. O. Box 807 Sacramentor CA 95804 To Whom it May Concern: I am writing to request information on behalf of Board of Equalization Member PauI Carpenter. Mr. Carpenter is Treasurer of a federal Campaign Committee, \"Friends of Senator Paul Carpenter. n At present, that committee has assets amounting to approximately $472.00 Ittr. Carpenter wishes to terminate the federal committee, and I am writing to request your advice regarding whether or not Mr. Carpenter may deposit the above referenced \"federal fundsn into his Board of Equalization re-election committee account, the Carpenter Campaigrr Committee. I would appreciate a reply at your earliest convenience. Sincerely r Deputy to Paul CarPenter t+zr'",
+    "first_500_words": "District Office 4040 Paramount Blvd. Suite 103 Lakewood, CA 90712 (213) 429-5422 Paul Carpenter Fourth District Member State Board of Equalization Sacramento Office 1020 N Street Room 125 Sacramento, CA 95814 (916) 445-4664 June 22, 1990 Fair Political Practices Commission 428 J Street, Suite 800 P.O. Box 807 Sacramento, CA 95804 To Whom it May Concern: I am writing to request information on behalf of Board of Equalization Member Paul Carpenter. Mr. Carpenter is Treasurer of a federal Campaign Committee, \"Friends of Senator Paul Carpenter.\" At present, that committee has assets amounting to approximately $472.00 Mr. Carpenter wishes to terminate the federal committee, and I am writing to request your advice regarding whether or not Mr. Carpenter may deposit the above referenced \"federal funds into his Board of Equalization re-election committee account, the Carpenter Campaign Committee. I would appreciate a reply at your earliest convenience. Sincerely, Ann M. Peifer Deputy to Paul Carpenter",
     "summary": "A deputy requests FPPC advice on behalf of Paul Carpenter, a Board of Equalization member, regarding whether he may deposit federal campaign committee funds (~$472) into his state re-election committee upon terminating the federal committee."
   }
 }

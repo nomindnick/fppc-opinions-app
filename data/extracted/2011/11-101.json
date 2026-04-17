@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2011&tagCount=1&page=4"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:33:46.096019Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-20T19:51:08.298669Z",
     "page_count": 1,
-    "word_count": 172,
-    "char_count": 1152,
-    "quality_score": 0.6675,
+    "word_count": 171,
+    "char_count": 1146,
+    "quality_score": 0.8688663606479968,
     "olmocr_cost": null,
-    "native_word_count": 172
+    "native_word_count": 172,
+    "haiku_cost": 0.0026160000000000003
   },
   "content": {
-    "full_text": "FAIR p OLITICAL p RACTICES COMMISSION \n428 J Street • Suite 620 • Sacramento, CA 95814-2329 \n(916) 322-5660 • Fax (916) 322-0886 \nNancy Teicheira \nEd Fichtner \nManteca Unified School District \n27607 South Airport \nManteca, CA 95337 \nRe: \nYour Request for Advice \nOur File No. W-11-101 \nDear Ms. Teicheira and Mr. Fichtner: \nMay 26, 2011 \nThis letter confirms the receipt of your May 23, 2011, request for advice regarding \nMs. King and Mr. Messer of the Manteca Unified School District. While the Commission's \nLegal Division provides advice to public officials with respect to their duties under the Political \nReform Act, under the provisions of California Code of Regulations 18329 we cannot advise \nthird parties about a public official's duties, unless that third party is the authorized \nrepresentative of the official whose duties are in question. (Section 83114(a); Regulation \n18329(b)(8)(B) and (c)(l), copy enclosed.) Therefore, we are withdrawing your request. \nShould you have any additional questions regarding this matter, please contact the \nCommission at (916) 322-5660. \nJWW:jgl \nEnclosures \nSincerely, \n/ \nA sistant General Counsel \n",
+    "full_text": "FAIR POLITICAL PRACTICES COMMISSION\n428 J Street • Suite 620 • Sacramento, CA 95814-2329\n(916) 322-5660 • Fax (916) 322-0886\n\nMay 26, 2011\n\nNancy Teicheira\nEd Fichtner\nManteca Unified School District\n27607 South Airport\nManteca, CA 95337\n\nRe: Your Request for Advice\nOur File No. W-11-101\n\nDear Ms. Teicheira and Mr. Fichtner:\n\nThis letter confirms the receipt of your May 23, 2011, request for advice regarding\nMs. King and Mr. Messer of the Manteca Unified School District. While the Commission's\nLegal Division provides advice to public officials with respect to their duties under the Political\nReform Act, under the provisions of California Code of Regulations 18329 we cannot advise\nthird parties about a public official's duties, unless that third party is the authorized\nrepresentative of the official whose duties are in question. (Section 83114(a); Regulation\n18329(b)(8)(B) and (c)(1), copy enclosed.) Therefore, we are withdrawing your request.\n\nShould you have any additional questions regarding this matter, please contact the\nCommission at (916) 322-5660.\n\nSincerely,\n\nJohn W. Wallace\nAssistant General Counsel\n\nJWW:jgl\n\nEnclosures",
     "full_text_markdown": null
   },
   "parsed": {
@@ -69,7 +70,7 @@
   "embedding": {
     "qa_text": "QUESTION: Can the FPPC provide advice to third parties regarding a public official's duties under the Political Reform Act?\n\nCONCLUSION: We are withdrawing your request. The Commission's Legal Division provides advice to public officials with respect to their duties under the Political Reform Act, but under California Code of Regulations 18329 cannot advise third parties about a public official's duties, unless that third party is the authorized representative of the official whose duties are in question.",
     "qa_source": "mixed",
-    "first_500_words": "FAIR p OLITICAL p RACTICES COMMISSION 428 J Street • Suite 620 • Sacramento, CA 95814-2329 (916) 322-5660 • Fax (916) 322-0886 Nancy Teicheira Ed Fichtner Manteca Unified School District 27607 South Airport Manteca, CA 95337 Re: Your Request for Advice Our File No. W-11-101 Dear Ms. Teicheira and Mr. Fichtner: May 26, 2011 This letter confirms the receipt of your May 23, 2011, request for advice regarding Ms. King and Mr. Messer of the Manteca Unified School District. While the Commission's Legal Division provides advice to public officials with respect to their duties under the Political Reform Act, under the provisions of California Code of Regulations 18329 we cannot advise third parties about a public official's duties, unless that third party is the authorized representative of the official whose duties are in question. (Section 83114(a); Regulation 18329(b)(8)(B) and (c)(l), copy enclosed.) Therefore, we are withdrawing your request. Should you have any additional questions regarding this matter, please contact the Commission at (916) 322-5660. JWW:jgl Enclosures Sincerely, / A sistant General Counsel",
+    "first_500_words": "FAIR POLITICAL PRACTICES COMMISSION 428 J Street • Suite 620 • Sacramento, CA 95814-2329 (916) 322-5660 • Fax (916) 322-0886 May 26, 2011 Nancy Teicheira Ed Fichtner Manteca Unified School District 27607 South Airport Manteca, CA 95337 Re: Your Request for Advice Our File No. W-11-101 Dear Ms. Teicheira and Mr. Fichtner: This letter confirms the receipt of your May 23, 2011, request for advice regarding Ms. King and Mr. Messer of the Manteca Unified School District. While the Commission's Legal Division provides advice to public officials with respect to their duties under the Political Reform Act, under the provisions of California Code of Regulations 18329 we cannot advise third parties about a public official's duties, unless that third party is the authorized representative of the official whose duties are in question. (Section 83114(a); Regulation 18329(b)(8)(B) and (c)(1), copy enclosed.) Therefore, we are withdrawing your request. Should you have any additional questions regarding this matter, please contact the Commission at (916) 322-5660. Sincerely, John W. Wallace Assistant General Counsel JWW:jgl Enclosures",
     "summary": "The FPPC received a May 23, 2011 request for advice regarding Ms. King and Mr. Messer of the Manteca Unified School District, but is withdrawing the request because it cannot advise third parties about public officials' duties under the Political Reform Act unless they are authorized representatives of those officials."
   }
 }

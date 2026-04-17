@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1985&tagCount=1&page=17"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:36:41.740182Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-19T19:49:14.903275Z",
     "page_count": 1,
-    "word_count": 110,
-    "char_count": 696,
-    "quality_score": 0.5475,
+    "word_count": 109,
+    "char_count": 813,
+    "quality_score": 0.8487741888435061,
     "olmocr_cost": null,
-    "native_word_count": 110
+    "native_word_count": 110,
+    "haiku_cost": 0.0021999999999999997
   },
   "content": {
-    "full_text": "CaliforrJ~ \nFair Political \nPractices Commission \nLeanne Chipchase \nP.o. Box 11485 \nsanta Rosa, CA \n95402 \nDear Ms. Chipchase: \noctober 18, 1985 \nThis letter will confirm our telephone conversation of \nOctober 17, 1985. \nRetired judges on assignment in courts of \nrecord are required to file statements of Economic Interests \nonly if they serve or expect to serve more than 30 days in any \n12 month period. \n(See newly adopted FPPC Regulation 18724 \nenclosed. ) \nIf you have any further questions, please feel free to \ncall me at (916) 322-5662. \nAH:bb \nEnclosures \nSincerely, \nAlice Hughes \nDocuments Examiner \n428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804~0807 • (916) 322~5660 \n",
+    "full_text": "California\nFair Political\nPractices Commission\n\nOctober 18, 1985\n\n\nLeanne Chipchase\nP.O. Box 11485\nSanta Rosa, CA 95402\n\nDear Ms. Chipchase:\n\n     This letter will confirm our telephone conversation of\nOctober 17, 1985. Retired judges on assignment in courts of\nrecord are required to file Statements of Economic Interests\nonly if they serve or expect to serve more than 30 days in any\n12 month period. (See newly adopted FPPC Regulation 18724\nenclosed.)\n\n     If you have any further questions, please feel free to\ncall me at (916) 322-5662.\n\n                                        Sincerely,\n\n\n                                        Alice Hughes\n                                        Documents Examiner\n\nAH:bb\nEnclosures\n\n\n\n\n428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804-0807 • (916) 322-5660",
     "full_text_markdown": null
   },
   "parsed": {
@@ -67,7 +68,7 @@
   "embedding": {
     "qa_text": "QUESTION: Whether retired judges serving on assignment in courts of record are required to file statements of Economic Interests, and if so, under what conditions.\n\nCONCLUSION: Retired judges on assignment in courts of record are required to file statements of Economic Interests only if they serve or expect to serve more than 30 days in any 12 month period.",
     "qa_source": "mixed",
-    "first_500_words": "CaliforrJ~ Fair Political Practices Commission Leanne Chipchase P.o. Box 11485 santa Rosa, CA 95402 Dear Ms. Chipchase: october 18, 1985 This letter will confirm our telephone conversation of October 17, 1985. Retired judges on assignment in courts of record are required to file statements of Economic Interests only if they serve or expect to serve more than 30 days in any 12 month period. (See newly adopted FPPC Regulation 18724 enclosed. ) If you have any further questions, please feel free to call me at (916) 322-5662. AH:bb Enclosures Sincerely, Alice Hughes Documents Examiner 428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804~0807 • (916) 322~5660",
+    "first_500_words": "California Fair Political Practices Commission October 18, 1985 Leanne Chipchase P.O. Box 11485 Santa Rosa, CA 95402 Dear Ms. Chipchase: This letter will confirm our telephone conversation of October 17, 1985. Retired judges on assignment in courts of record are required to file Statements of Economic Interests only if they serve or expect to serve more than 30 days in any 12 month period. (See newly adopted FPPC Regulation 18724 enclosed.) If you have any further questions, please feel free to call me at (916) 322-5662. Sincerely, Alice Hughes Documents Examiner AH:bb Enclosures 428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804-0807 • (916) 322-5660",
     "summary": "FPPC advises Leanne Chipchase that retired judges on assignment in courts of record are required to file Economic Interests statements only if serving more than 30 days in any 12-month period, per newly adopted Regulation 18724."
   }
 }

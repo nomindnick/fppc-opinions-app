@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=29"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:37:11.135265Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-20T17:39:19.534681Z",
     "page_count": 1,
-    "word_count": 87,
-    "char_count": 565,
-    "quality_score": 0.5975,
+    "word_count": 89,
+    "char_count": 578,
+    "quality_score": 0.852023464315017,
     "olmocr_cost": null,
-    "native_word_count": 87
+    "native_word_count": 87,
+    "haiku_cost": 0.00188
   },
   "content": {
-    "full_text": "State of California \nMemor ndum \nTo \nOPINION REQUEST MEETING PARTICIPANTS \nDate \nAugust 25, 1978 \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nJay \nSubject: \nMark Lubow, treasurer for Californians for Brown (213)746-6870, \nhas asked the following question: \nIf a state official, who is an Article 3 filer, travels \nwith the Governor on campaign related activities and the \nofficial's travel expenses of $250 or more are paid by \nthe campaign committee, does the official have a reporting \nobligation under Chapter 77 \nI said that Lee would call him back on Tuesday. \n",
+    "full_text": "State of California\n\nMemorandum\n\nTo : OPINION REQUEST MEETING PARTICIPANTS          Date : August 25, 1978\n\nFrom : FAIR POLITICAL PRACTICES COMMISSION\n       Jay\n\nSubject:\n\n\n\n\nMark Lubow, treasurer for Californians for Brown (213)746-6870,\nhas asked the following question:\n\nIf a state official, who is an Article 3 filer, travels\nwith the Governor on campaign related activities and the\nofficial's travel expenses of $250 or more are paid by\nthe campaign committee, does the official have a reporting\nobligation under Chapter 7?\n\nI said that Lee would call him back on Tuesday.",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "QUESTION: If a state official, who is an Article 3 filer, travels with the Governor on campaign related activities and the official's travel expenses of $250 or more are paid by the campaign committee, does the official have a reporting obligation under Chapter 7?",
     "qa_source": "mixed",
-    "first_500_words": "State of California Memor ndum To OPINION REQUEST MEETING PARTICIPANTS Date August 25, 1978 From FAIR POLITICAL PRACTICES COMMISSION Jay Subject: Mark Lubow, treasurer for Californians for Brown (213)746-6870, has asked the following question: If a state official, who is an Article 3 filer, travels with the Governor on campaign related activities and the official's travel expenses of $250 or more are paid by the campaign committee, does the official have a reporting obligation under Chapter 77 I said that Lee would call him back on Tuesday.",
+    "first_500_words": "State of California Memorandum To : OPINION REQUEST MEETING PARTICIPANTS Date : August 25, 1978 From : FAIR POLITICAL PRACTICES COMMISSION Jay Subject: Mark Lubow, treasurer for Californians for Brown (213)746-6870, has asked the following question: If a state official, who is an Article 3 filer, travels with the Governor on campaign related activities and the official's travel expenses of $250 or more are paid by the campaign committee, does the official have a reporting obligation under Chapter 7? I said that Lee would call him back on Tuesday.",
     "summary": "FPPC memorandum documenting an opinion request from Mark Lubow regarding whether a state official (Article 3 filer) must report campaign-paid travel expenses of $250 or more under Chapter 7. The document indicates a response was pending."
   }
 }

@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1993&tagCount=1&page=17"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:35:07.486993Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-24T20:01:10.243434Z",
     "page_count": 1,
-    "word_count": 172,
-    "char_count": 1040,
-    "quality_score": 0.7175,
+    "word_count": 171,
+    "char_count": 1051,
+    "quality_score": 0.9131782258064517,
     "olmocr_cost": null,
-    "native_word_count": 172
+    "native_word_count": 172,
+    "haiku_cost": 0.002388
   },
   "content": {
-    "full_text": "California\nFair Political\nPractices Commission\nAugust 12,\n1993\nGlenn A. Miller\np. o.\nBox 1676\nFair Oaks,\nCA\n95628\nRe:\nYour Request for Informal Assistance\nOur File No.\n1—93—302\nDear Mr. Miller:\nThis is in response to your letter,\ndated July 31,\n1993,\nrequesting advice on the legality of holding elective office as\nthe Director of the Fair Oaks Water District while also holding an\nelective office as the Director of the San Juan Suburban Water\nDistrict.\nThe Political Reform Act does not address this problem;\nhowever, the Attorney General has addressed this issue.\nYou may\nwish to directly contact the Attorney General’s Office for\nspecific advice regarding your situation.\nAs an alternative,\nenclosed is a list of Attorney General\nopinions on this subject.\nThese opinions should be available at\nyour county law library.\nI hope that this information is helpful to you.\n•\nVery truly yours,\nLynda Doherty\nStaff Services Analyst\nLegal Division\nid\nEnclosure\n428 J Street, Suite 800 •\nP.O. Box 807 •\nSacramento, CA\n95804-0807 •\n(916) 322-5680\n",
+    "full_text": "California\nFair Political\nPractices Commission\n\nAugust 12, 1993\n\nGlenn A. Miller\nP. O. Box 1676\nFair Oaks, CA 95628\n\nRe: Your Request for Informal Assistance\nOur File No. I-93-302\n\nDear Mr. Miller:\n\nThis is in response to your letter, dated July 31, 1993, requesting advice on the legality of holding elective office as the Director of the Fair Oaks Water District while also holding an elective office as the Director of the San Juan Suburban Water District.\n\nThe Political Reform Act does not address this problem; however, the Attorney General has addressed this issue. You may wish to directly contact the Attorney General's Office for specific advice regarding your situation.\n\nAs an alternative, enclosed is a list of Attorney General opinions on this subject. These opinions should be available at your county law library.\n\nI hope that this information is helpful to you.\n\nVery truly yours,\n\nLynda Doherty\nStaff Services Analyst\nLegal Division\n\n:ld\n\nEnclosure\n\n428 J Street, Suite 800 • P.O. Box 807 • Sacramento, CA 95804-0807 • (916) 322-5660",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "QUESTION: the legality of holding elective office as the Director of the Fair Oaks Water District while also holding an elective office as the Director of the San Juan Suburban Water District\n\nCONCLUSION: The Political Reform Act does not address this problem; however, the Attorney General has addressed this issue. You may wish to directly contact the Attorney General's Office for specific advice regarding your situation.",
     "qa_source": "mixed",
-    "first_500_words": "California Fair Political Practices Commission August 12, 1993 Glenn A. Miller p. o. Box 1676 Fair Oaks, CA 95628 Re: Your Request for Informal Assistance Our File No. 1—93—302 Dear Mr. Miller: This is in response to your letter, dated July 31, 1993, requesting advice on the legality of holding elective office as the Director of the Fair Oaks Water District while also holding an elective office as the Director of the San Juan Suburban Water District. The Political Reform Act does not address this problem; however, the Attorney General has addressed this issue. You may wish to directly contact the Attorney General’s Office for specific advice regarding your situation. As an alternative, enclosed is a list of Attorney General opinions on this subject. These opinions should be available at your county law library. I hope that this information is helpful to you. • Very truly yours, Lynda Doherty Staff Services Analyst Legal Division id Enclosure 428 J Street, Suite 800 • P.O. Box 807 • Sacramento, CA 95804-0807 • (916) 322-5680",
+    "first_500_words": "California Fair Political Practices Commission August 12, 1993 Glenn A. Miller P. O. Box 1676 Fair Oaks, CA 95628 Re: Your Request for Informal Assistance Our File No. I-93-302 Dear Mr. Miller: This is in response to your letter, dated July 31, 1993, requesting advice on the legality of holding elective office as the Director of the Fair Oaks Water District while also holding an elective office as the Director of the San Juan Suburban Water District. The Political Reform Act does not address this problem; however, the Attorney General has addressed this issue. You may wish to directly contact the Attorney General's Office for specific advice regarding your situation. As an alternative, enclosed is a list of Attorney General opinions on this subject. These opinions should be available at your county law library. I hope that this information is helpful to you. Very truly yours, Lynda Doherty Staff Services Analyst Legal Division :ld Enclosure 428 J Street, Suite 800 • P.O. Box 807 • Sacramento, CA 95804-0807 • (916) 322-5660",
     "summary": "Glenn A. Miller requested FPPC advice on whether he could hold elective office simultaneously as Director of two different water districts. The FPPC determined the matter falls outside the Political Reform Act and referred him to the Attorney General's Office."
   }
 }

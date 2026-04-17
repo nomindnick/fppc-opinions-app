@@ -17,15 +17,16 @@
     "method": "haiku_vision",
     "extracted_at": "2026-02-26T16:39:40.854034Z",
     "page_count": 2,
-    "word_count": 132,
-    "char_count": 805,
-    "quality_score": 0.8381366427432217,
+    "word_count": 96,
+    "char_count": 597,
+    "quality_score": 0.8134691456750633,
     "olmocr_cost": 0.004902,
     "native_word_count": 100,
-    "haiku_cost": 0.0036064000000000005
+    "haiku_cost": 0.0036064000000000005,
+    "commentary_stripped_at": "2026-04-17T13:37:55.400029Z"
   },
   "content": {
-    "full_text": "SUPERVISOR MAGGIE\nERICKSON\nShe makes a difference\n\nOctober 9, 1990\n\nCalifornia Fair Political Practices Commission\n428 \"J\" Street, Suite 800\nP.O. Box 807\nSacramento, CA 95804-0807\n\nRE: Wedding Gifts\n\nI am a Ventura County Supervisor and planning a wedding in the near\nfuture. How do I handle wedding gifts? Must they be reported? If\nso, on what form and is there a minimum amount? I would appreciate\ninformation on this subject.\n\nSincerely,\n\nMaggie Erickson\n\nMAGGIE H. ERICKSON\nSupervisor, Third District\n\nMAGGIE ERICKSON FOR SUPERVISOR - 1992 - ID #890626 - 1740 Loma Drive, Camarillo, CA 93010\n\nI can see this is a blank or nearly blank page with a cream/beige colored background. There appear to be some faint horizontal lines dividing the page into sections, but no visible text content to transcribe.",
+    "full_text": "SUPERVISOR MAGGIE\nERICKSON\nShe makes a difference\n\nOctober 9, 1990\n\nCalifornia Fair Political Practices Commission\n428 \"J\" Street, Suite 800\nP.O. Box 807\nSacramento, CA 95804-0807\n\nRE: Wedding Gifts\n\nI am a Ventura County Supervisor and planning a wedding in the near\nfuture. How do I handle wedding gifts? Must they be reported? If\nso, on what form and is there a minimum amount? I would appreciate\ninformation on this subject.\n\nSincerely,\n\nMaggie Erickson\n\nMAGGIE H. ERICKSON\nSupervisor, Third District\n\nMAGGIE ERICKSON FOR SUPERVISOR - 1992 - ID #890626 - 1740 Loma Drive, Camarillo, CA 93010\n\n",
     "full_text_markdown": null
   },
   "parsed": {
@@ -64,9 +65,9 @@
     "classification_method": "heuristic:citation_based"
   },
   "embedding": {
-    "qa_text": "October 9, 1990 California Fair Political Practices Commission 428 \"J\" Street, Suite 800 P.O. Box 807 Sacramento, CA 95804-0807 RE: Wedding Gifts I am a Ventura County Supervisor and planning a wedding in the near future. How do I handle wedding gifts? Must they be reported? If so, on what form and is there a minimum amount? I would appreciate information on this subject. Sincerely, Maggie Erickson MAGGIE H. ERICKSON Supervisor, Third District This image appears to be a blank page, likely from a book or document. There is no visible text, images, or markings on this page aside from some minor creases and a slight discoloration at the top edge. If you have another page or section of the document, please provide it for further analysis.",
+    "qa_text": "SUPERVISOR MAGGIE ERICKSON She makes a difference October 9, 1990 California Fair Political Practices Commission 428 \"J\" Street, Suite 800 P.O. Box 807 Sacramento, CA 95804-0807 RE: Wedding Gifts I am a Ventura County Supervisor and planning a wedding in the near future. How do I handle wedding gifts? Must they be reported? If so, on what form and is there a minimum amount? I would appreciate information on this subject. Sincerely, Maggie Erickson MAGGIE H. ERICKSON Supervisor, Third District MAGGIE ERICKSON FOR SUPERVISOR - 1992 - ID #890626 - 1740 Loma Drive, Camarillo, CA 93010",
     "qa_source": "extracted",
-    "first_500_words": "October 9, 1990 California Fair Political Practices Commission 428 \"J\" Street, Suite 800 P.O. Box 807 Sacramento, CA 95804-0807 RE: Wedding Gifts I am a Ventura County Supervisor and planning a wedding in the near future. How do I handle wedding gifts? Must they be reported? If so, on what form and is there a minimum amount? I would appreciate information on this subject. Sincerely, Maggie Erickson MAGGIE H. ERICKSON Supervisor, Third District This image appears to be a blank page, likely from a book or document. There is no visible text, images, or markings on this page aside from some minor creases and a slight discoloration at the top edge. If you have another page or section of the document, please provide it for further analysis.",
+    "first_500_words": "SUPERVISOR MAGGIE ERICKSON She makes a difference October 9, 1990 California Fair Political Practices Commission 428 \"J\" Street, Suite 800 P.O. Box 807 Sacramento, CA 95804-0807 RE: Wedding Gifts I am a Ventura County Supervisor and planning a wedding in the near future. How do I handle wedding gifts? Must they be reported? If so, on what form and is there a minimum amount? I would appreciate information on this subject. Sincerely, Maggie Erickson MAGGIE H. ERICKSON Supervisor, Third District MAGGIE ERICKSON FOR SUPERVISOR - 1992 - ID #890626 - 1740 Loma Drive, Camarillo, CA 93010",
     "summary": null
   }
 }

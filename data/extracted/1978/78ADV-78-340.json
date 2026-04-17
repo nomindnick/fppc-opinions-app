@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=32"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:37:11.489501Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-20T17:06:56.824876Z",
     "page_count": 1,
-    "word_count": 136,
-    "char_count": 808,
-    "quality_score": 0.5975,
+    "word_count": 138,
+    "char_count": 909,
+    "quality_score": 0.900245918367347,
     "olmocr_cost": null,
-    "native_word_count": 136
+    "native_word_count": 136,
+    "haiku_cost": 0.002136
   },
   "content": {
-    "full_text": "State \nCalifornia \n7'1 \n/:3 \nM \norandu \nTo \nGina and Ali \nDote \n3-14-78 \nfrom \nFAIR POLITICAL PRACTICES COMMISSION \nHickey Bennett \nSubject: \nNevi procedure regarding appeals of fines for late-filed \nstatements \nconomic interest. \nAt i \nmeeting on March 7, 1978, the Commission de-\nhenceforth to handle fine appeals in the following \nmanner: \n1. \nThe appellant's request for \nal will be \nprovided to \ncommiss \nrs and a date specified by \nwhich each must contact the Executive Director if he or \nshe \n1ieves \nappe \nd be placed on the agenda \nof a regu \nr .Commission meeting. \n2. \nappeal will be placed on \nagenda if \ntwo or more \nS5 \nrs so reque t by the \ncified \ndate. \nIf one or fewer commissioners so request, the \nappellant \n11 be informed that the Commission has denied \nthe appeal. \nMB: jo \ncc Ted Pr \n",
+    "full_text": "State of California\n\nMemorandum\n\nTo : Gina and Alice                                    Date : 3-14-78\n\n\nFrom : FAIR POLITICAL PRACTICES COMMISSION\n       Mickey Bennett\n\nSubject: New procedure regarding appeals of fines for late-filed\n         statements of economic interest.\n\n         At its meeting on March 7, 1978, the Commission de-\ncided henceforth to handle fine appeals in the following\nmanner:\n\n         1. The appellant's request for appeal will be\nprovided to the commissioners and a date specified by\nwhich each must contact the Executive Director if he or\nshe believes the appeal should be placed on the agenda\nof a regular Commission meeting.\n\n         2. An appeal will be placed on the agenda if\ntwo or more commissioners so request by the specified\ndate. If one or fewer commissioners so request, the\nappellant will be informed that the Commission has denied\nthe appeal.\n\nMB;jo\n\ncc Ted Prim",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "QUESTION: This is an internal memorandum regarding procedural changes for handling appeals of fines for late-filed statements of economic interest, not a response to a legal question.",
     "qa_source": "synthetic",
-    "first_500_words": "State California 7'1 /:3 M orandu To Gina and Ali Dote 3-14-78 from FAIR POLITICAL PRACTICES COMMISSION Hickey Bennett Subject: Nevi procedure regarding appeals of fines for late-filed statements conomic interest. At i meeting on March 7, 1978, the Commission de- henceforth to handle fine appeals in the following manner: 1. The appellant's request for al will be provided to commiss rs and a date specified by which each must contact the Executive Director if he or she 1ieves appe d be placed on the agenda of a regu r .Commission meeting. 2. appeal will be placed on agenda if two or more S5 rs so reque t by the cified date. If one or fewer commissioners so request, the appellant 11 be informed that the Commission has denied the appeal. MB: jo cc Ted Pr",
+    "first_500_words": "State of California Memorandum To : Gina and Alice Date : 3-14-78 From : FAIR POLITICAL PRACTICES COMMISSION Mickey Bennett Subject: New procedure regarding appeals of fines for late-filed statements of economic interest. At its meeting on March 7, 1978, the Commission de- cided henceforth to handle fine appeals in the following manner: 1. The appellant's request for appeal will be provided to the commissioners and a date specified by which each must contact the Executive Director if he or she believes the appeal should be placed on the agenda of a regular Commission meeting. 2. An appeal will be placed on the agenda if two or more commissioners so request by the specified date. If one or fewer commissioners so request, the appellant will be informed that the Commission has denied the appeal. MB;jo cc Ted Prim",
     "summary": "Internal FPPC memorandum dated March 14, 1978 from Hickey Bennett to Gina and Ali describing a new procedure for handling appeals of fines for late-filed economic interest statements, effective after a March 7, 1978 Commission meeting."
   }
 }

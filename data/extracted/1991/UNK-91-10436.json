@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1991&tagCount=1&page=62"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:35:28.530552Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-20T15:49:08.259181Z",
     "page_count": 1,
-    "word_count": 191,
-    "char_count": 1170,
-    "quality_score": 0.7175,
+    "word_count": 198,
+    "char_count": 1283,
+    "quality_score": 0.9574372970887483,
     "olmocr_cost": null,
-    "native_word_count": 191
+    "native_word_count": 191,
+    "haiku_cost": 0.0027712
   },
   "content": {
-    "full_text": "JAMES 5. OKAZAKI\nBRIAN K. OKAZAKI\nOxezarr;Q, CooNrz\naaToRN EYg ar LAw\n,^* jG& l. n,ur* *%i t^',lf,RNr^ ez6z5\n(7l41 e3Fs222\nWe would appreciate your attention to this matter.\nVery truly yours,\nOKAZAKT & COONTZ\nFebruary 3, 19 91\nScott Hallabrin, Esq\nFair Political Practices Commission\nP. O. Box 807\nSacramento, CA 95804\nRe: Reguest for Written Opinion\nDear Mr. Hallabrin:\nAs general counsel for the Capistrano Bay District, \na\nCalifornia Community Services District, \nwe are currently faced\nwith a potential conflict of interest issue. Accordingly, we\nr:espectfully request a written opinion relative to the following\nfacts:\nThere are eighteen (18) parcels of land 1ocated within\nthe boundaries of the Capistrano Bay District; \nal1 are twelve\n(L2l feet in width, and are situated between residentiaL lots.\nThe Capistrano Bay District \nhas record title \nto the eighteen\nparcefs, but a number of adjoining owners have claimed and\noccupied a number of these lots as their own. One such owner is\na member of the Board of Directors of the District.\nQUESTION: May that member participate in \nany\ndiscussion of the Board of Directors reliting tt ttre subject\nparcels ?\nBKO : yo\n",
+    "full_text": "OKAZAKI & COONTZ\nATTORNEYS AT LAW\n\nJAMES S. OKAZAKI\nBRIAN K. OKAZAKI\n\n#2222, CAMINO CAPISTRANO, SUITE A\nSAN JUAN CAPISTRANO, CALIFORNIA 92675\n\nFAX\n(714) 240-3761\n\nTELEPHONE (714) 831-5222\n\n\nFebruary 3, 1991\n\n\nScott Hallabrin, Esq.\nFair Political Practices Commission\nP. O. Box 807\nSacramento, CA 95804\n\nRe: Request for Written Opinion\n\nDear Mr. Hallabrin:\n\nAs general counsel for the Capistrano Bay District, a\nCalifornia Community Services District, we are currently faced\nwith a potential conflict of interest issue. Accordingly, we\nrespectfully request a written opinion relative to the following\nfacts:\n\nThere are eighteen (18) parcels of land located within\nthe boundaries of the Capistrano Bay District; all are twelve\n(12) feet in width, and are situated between residential lots.\nThe Capistrano Bay District has record title to the eighteen\nparcels, but a number of adjoining owners have claimed and\noccupied a number of these lots as their own. One such owner is\na member of the Board of Directors of the District.\n\nQUESTION: May that member participate in any\ndiscussion of the Board of Directors relating to the subject\nparcels?\n\nWe would appreciate your attention to this matter.\n\nVery truly yours,\n\nOKAZAKI & COONTZ\n\n\nBy_________________________\nBrian K. Okazaki\n\nBKO:yo",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "QUESTION: May that member participate in \nany",
     "qa_source": "extracted",
-    "first_500_words": "JAMES 5. OKAZAKI BRIAN K. OKAZAKI Oxezarr;Q, CooNrz aaToRN EYg ar LAw ,^* jG& l. n,ur* *%i t^',lf,RNr^ ez6z5 (7l41 e3Fs222 We would appreciate your attention to this matter. Very truly yours, OKAZAKT & COONTZ February 3, 19 91 Scott Hallabrin, Esq Fair Political Practices Commission P. O. Box 807 Sacramento, CA 95804 Re: Reguest for Written Opinion Dear Mr. Hallabrin: As general counsel for the Capistrano Bay District, a California Community Services District, we are currently faced with a potential conflict of interest issue. Accordingly, we r:espectfully request a written opinion relative to the following facts: There are eighteen (18) parcels of land 1ocated within the boundaries of the Capistrano Bay District; al1 are twelve (L2l feet in width, and are situated between residentiaL lots. The Capistrano Bay District has record title to the eighteen parcefs, but a number of adjoining owners have claimed and occupied a number of these lots as their own. One such owner is a member of the Board of Directors of the District. QUESTION: May that member participate in any discussion of the Board of Directors reliting tt ttre subject parcels ? BKO : yo",
+    "first_500_words": "OKAZAKI & COONTZ ATTORNEYS AT LAW JAMES S. OKAZAKI BRIAN K. OKAZAKI #2222, CAMINO CAPISTRANO, SUITE A SAN JUAN CAPISTRANO, CALIFORNIA 92675 FAX (714) 240-3761 TELEPHONE (714) 831-5222 February 3, 1991 Scott Hallabrin, Esq. Fair Political Practices Commission P. O. Box 807 Sacramento, CA 95804 Re: Request for Written Opinion Dear Mr. Hallabrin: As general counsel for the Capistrano Bay District, a California Community Services District, we are currently faced with a potential conflict of interest issue. Accordingly, we respectfully request a written opinion relative to the following facts: There are eighteen (18) parcels of land located within the boundaries of the Capistrano Bay District; all are twelve (12) feet in width, and are situated between residential lots. The Capistrano Bay District has record title to the eighteen parcels, but a number of adjoining owners have claimed and occupied a number of these lots as their own. One such owner is a member of the Board of Directors of the District. QUESTION: May that member participate in any discussion of the Board of Directors relating to the subject parcels? We would appreciate your attention to this matter. Very truly yours, OKAZAKI & COONTZ By_________________________ Brian K. Okazaki BKO:yo",
     "summary": null
   }
 }

@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=16"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:37:07.201593Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-20T15:16:41.650607Z",
     "page_count": 1,
-    "word_count": 118,
-    "char_count": 705,
-    "quality_score": 0.5125,
+    "word_count": 125,
+    "char_count": 744,
+    "quality_score": 0.8884734848484849,
     "olmocr_cost": null,
-    "native_word_count": 118
+    "native_word_count": 118,
+    "haiku_cost": 0.00204
   },
   "content": {
-    "full_text": "California \nGovernment Code Section 84214 \nDate \nMarch 28, 1979 \nBarbara Campbell \nfrom \nF AIR POLITICAL PRACTICES COMMISSiON \nConversation with Ken Ito, Los Angeles City Clerk's Office \nKen Ito of the Los Angeles City Clerk's Office \ncalled today to ask if it was acceptable to send mail-\ngrams as notifications for late contributions. \nI said \nthe staff had been advising mailgrams were allowed and \nthat advice had been endorsed by the Commission. \nHe said that they have received a number of mail-\ngrams more than 48 hours after they were sent. \nI said \nthat the mailgrams were acceptable and that he should \nuse the date indicated on the mailgram as the date of \nreceipt in the City Clerk's Office. \n",
+    "full_text": "State of California\n\nMemorandum\n\nTo : Government Code Section 84214                Date : March 28, 1979\n\nFrom : Barbara Campbell\nFAIR POLITICAL PRACTICES COMMISSION\n\nSubject: Conversation with Ken Ito, Los Angeles City Clerk's Office\n\nKen Ito of the Los Angeles City Clerk's Office\ncalled today to ask if it was acceptable to send mail-\ngrams as notifications for late contributions. I said\nthe staff had been advising mailgrams were allowed and\nthat advice had been endorsed by the Commission.\n\nHe said that they have received a number of mail-\ngrams more than 48 hours after they were sent. I said\nthat the mailgrams were acceptable and that he should\nuse the date indicated on the mailgram as the date of\nreceipt in the City Clerk's Office.",
     "full_text_markdown": null
   },
   "parsed": {
@@ -67,7 +68,7 @@
   "embedding": {
     "qa_text": "QUESTION: Are mailgrams acceptable as notifications for late contributions, and how should the date of receipt be determined when mailgrams arrive more than 48 hours after they were sent?\n\nCONCLUSION: Mailgrams are acceptable for late contribution notifications, and the date indicated on the mailgram itself should be used as the date of receipt in the City Clerk's Office, regardless of when the mailgram physically arrives.",
     "qa_source": "synthetic",
-    "first_500_words": "California Government Code Section 84214 Date March 28, 1979 Barbara Campbell from F AIR POLITICAL PRACTICES COMMISSiON Conversation with Ken Ito, Los Angeles City Clerk's Office Ken Ito of the Los Angeles City Clerk's Office called today to ask if it was acceptable to send mail- grams as notifications for late contributions. I said the staff had been advising mailgrams were allowed and that advice had been endorsed by the Commission. He said that they have received a number of mail- grams more than 48 hours after they were sent. I said that the mailgrams were acceptable and that he should use the date indicated on the mailgram as the date of receipt in the City Clerk's Office.",
+    "first_500_words": "State of California Memorandum To : Government Code Section 84214 Date : March 28, 1979 From : Barbara Campbell FAIR POLITICAL PRACTICES COMMISSION Subject: Conversation with Ken Ito, Los Angeles City Clerk's Office Ken Ito of the Los Angeles City Clerk's Office called today to ask if it was acceptable to send mail- grams as notifications for late contributions. I said the staff had been advising mailgrams were allowed and that advice had been endorsed by the Commission. He said that they have received a number of mail- grams more than 48 hours after they were sent. I said that the mailgrams were acceptable and that he should use the date indicated on the mailgram as the date of receipt in the City Clerk's Office.",
     "summary": "FPPC staff advises that mailgrams are acceptable for notifying late contributions, and that the date on the mailgram should be used as the receipt date, even if physical delivery occurs more than 48 hours after sending."
   }
 }

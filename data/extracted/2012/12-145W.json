@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2012&tagCount=1"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:33:40.290504Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-23T18:58:03.022659Z",
     "page_count": 1,
-    "word_count": 177,
-    "char_count": 1090,
-    "quality_score": 0.7175,
+    "word_count": 175,
+    "char_count": 1062,
+    "quality_score": 0.9024187873405883,
     "olmocr_cost": null,
-    "native_word_count": 177
+    "native_word_count": 177,
+    "haiku_cost": 0.00246
   },
   "content": {
-    "full_text": "FAIR POLITICAL PRACTICES COMMISSION \n428 J Street • Suite 620 • Sacramento, CA 95814-2329 \nRyan Hodge \nAssistant City Attorney \nCity of Santa Ana \n20 Civic Center Plaza M-29 \nSanta Ana, California 92702 \n(916) 322-5660 • Fait (916) 322-0886 \nDecember 11, 2012 \nRe: \nYour Request for Advice dated September 25, 2012 \nOur File No. W-12-145 \nDear Mr. Hodge: \nThe purpose of this correspondence is to confirm that since we have not received \nword from you since our last correspondence, we have withdrawn your request for \nadvice. \nln our correspondence dated October 23, 2012 (copy enclosed), we advised that \nunless we received word from you by November 2, 2012 we would be withdrawing your \nrequest for advice. On November 2, you requested and we agreed to an extension of the \ndeadline of two weeks. Having not received the requested information, we have \nwithdrawn you request for advice. \nHowever, if at a later date you determine that you do desire advice, you may \nsimply request it anew at that time. \nVJ:jgl \nEnclosure \nSincerely, \n--y\u0003 9-\u0004 \nValentina Joyce \nCounsel, Legal Division \n",
+    "full_text": "FAIR POLITICAL PRACTICES COMMISSION\n428 J Street • Suite 620 • Sacramento, CA 95814-2329\n(916) 322-5660 • Fax (916) 322-0886\n\nDecember 11, 2012\n\nRyan Hodge\nAssistant City Attorney\nCity of Santa Ana\n20 Civic Center Plaza M-29\nSanta Ana, California 92702\n\nRe: Your Request for Advice dated September 25, 2012\nOur File No. W-12-145\n\nDear Mr. Hodge:\n\nThe purpose of this correspondence is to confirm that since we have not received word from you since our last correspondence, we have withdrawn your request for advice.\n\nIn our correspondence dated October 23, 2012 (copy enclosed), we advised that unless we received word from you by November 2, 2012 we would be withdrawing your request for advice. On November 2, you requested and we agreed to an extension of the deadline of two weeks. Having not received the requested information, we have withdrawn your request for advice.\n\nHowever, if at a later date you determine that you do desire advice, you may simply request it anew at that time.\n\nSincerely,\n\nValentina Joyce\nCounsel, Legal Division\n\nVJ:jgl\n\nEnclosure",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "QUESTION: No substantive legal question; this is a procedural withdrawal notice regarding a previously submitted advice request.\n\nCONCLUSION: The FPPC has withdrawn the requestor's advice request dated September 25, 2012, due to failure to provide requested information by the extended November 16, 2012 deadline, but notes that a new request may be submitted at any time.",
     "qa_source": "synthetic",
-    "first_500_words": "FAIR POLITICAL PRACTICES COMMISSION 428 J Street • Suite 620 • Sacramento, CA 95814-2329 Ryan Hodge Assistant City Attorney City of Santa Ana 20 Civic Center Plaza M-29 Santa Ana, California 92702 (916) 322-5660 • Fait (916) 322-0886 December 11, 2012 Re: Your Request for Advice dated September 25, 2012 Our File No. W-12-145 Dear Mr. Hodge: The purpose of this correspondence is to confirm that since we have not received word from you since our last correspondence, we have withdrawn your request for advice. ln our correspondence dated October 23, 2012 (copy enclosed), we advised that unless we received word from you by November 2, 2012 we would be withdrawing your request for advice. On November 2, you requested and we agreed to an extension of the deadline of two weeks. Having not received the requested information, we have withdrawn you request for advice. However, if at a later date you determine that you do desire advice, you may simply request it anew at that time. VJ:jgl Enclosure Sincerely, --y\u0003 9-\u0004 Valentina Joyce Counsel, Legal Division",
+    "first_500_words": "FAIR POLITICAL PRACTICES COMMISSION 428 J Street • Suite 620 • Sacramento, CA 95814-2329 (916) 322-5660 • Fax (916) 322-0886 December 11, 2012 Ryan Hodge Assistant City Attorney City of Santa Ana 20 Civic Center Plaza M-29 Santa Ana, California 92702 Re: Your Request for Advice dated September 25, 2012 Our File No. W-12-145 Dear Mr. Hodge: The purpose of this correspondence is to confirm that since we have not received word from you since our last correspondence, we have withdrawn your request for advice. In our correspondence dated October 23, 2012 (copy enclosed), we advised that unless we received word from you by November 2, 2012 we would be withdrawing your request for advice. On November 2, you requested and we agreed to an extension of the deadline of two weeks. Having not received the requested information, we have withdrawn your request for advice. However, if at a later date you determine that you do desire advice, you may simply request it anew at that time. Sincerely, Valentina Joyce Counsel, Legal Division VJ:jgl Enclosure",
     "summary": "The FPPC notifies Assistant City Attorney Ryan Hodge that his September 25, 2012 request for advice (File No. W-12-145) has been withdrawn due to non-receipt of requested information after an extended deadline of November 16, 2012."
   }
 }

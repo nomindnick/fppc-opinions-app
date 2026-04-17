@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2002&tagCount=1&page=34"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:34:28.882321Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-19T21:40:22.366790Z",
     "page_count": 1,
-    "word_count": 144,
-    "char_count": 973,
-    "quality_score": 0.5475,
+    "word_count": 147,
+    "char_count": 997,
+    "quality_score": 0.9206396059475331,
     "olmocr_cost": null,
-    "native_word_count": 144
+    "native_word_count": 144,
+    "haiku_cost": 0.0024720000000000002
   },
   "content": {
-    "full_text": "Fern Polrrrcnl PRACTrces C oMMrssroN\nP.O. Box 807 o 428 J Street . Sacramento, CA 95812-0807\n(916) 322-5660 o Fax (916) 322-0886\nSeptember 16,2002\nDebra A. Benci-Woodward\nPost Office Box 635\nOjai, CA 93024\nRe\nYour Request for Advice\nOur File No. W-02-243\nDear Ms. Benci-Woodward:\nThis letter confirms the receipt of your August 28,2002 request for advice regarding an\nunnamed council member. Under the provisions of Califomia Code of Regulations\n18329(b)(8)(B), unless you are al authorized representative of the council member for whom\nyou seek assistance, the Fair Political Practices Commission cannot address your question or\nprovide analysis. I enclose regulations 18704.2, 18705.2 and our pamphlet, \"Can I Vote?\nConflict of Interest Overview\" for your examination.\nShould you have any additional questions regarding this matter,please contact the\nCommission at (916) 322-5660.\nSincerely,\nLuisa Menchaca\nCounsel\nJohn W. Wallace\nAssistant General Counsel\nEnclosures\np4\n",
+    "full_text": "FAIR POLITICAL PRACTICES COMMISSION\nP.O. Box 807 • 428 J Street • Sacramento, CA 95812-0807\n(916) 322-5660 • Fax (916) 322-0886\n\n\nSeptember 16, 2002\n\n\nDebra A. Benci-Woodward\nPost Office Box 635\nOjai, CA 93024\n\nRe: Your Request for Advice\nOur File No. W-02-243\n\nDear Ms. Benci-Woodward:\n\nThis letter confirms the receipt of your August 28, 2002 request for advice regarding an unnamed council member. Under the provisions of California Code of Regulations 18329(b)(8)(B), unless you are an authorized representative of the council member for whom you seek assistance, the Fair Political Practices Commission cannot address your question or provide analysis. I enclose regulations 18704.2, 18705.2 and our pamphlet, \"Can I Vote? Conflict of Interest Overview\" for your examination.\n\nShould you have any additional questions regarding this matter, please contact the Commission at (916) 322-5660.\n\nSincerely,\n\nLuisa Menchaca\nGeneral Counsel\n\nBy: John W. Wallace\nAssistant General Counsel\n\nEnclosures",
     "full_text_markdown": null
   },
   "parsed": {
@@ -68,7 +69,7 @@
   "embedding": {
     "qa_text": "QUESTION: Whether the FPPC can provide advice regarding an unnamed council member's potential conflict of interest or ethics issue.\n\nCONCLUSION: Under California Code of Regulations 18329(b)(8)(B), the FPPC cannot address the question or provide analysis unless the requestor is an authorized representative of the council member.",
     "qa_source": "mixed",
-    "first_500_words": "Fern Polrrrcnl PRACTrces C oMMrssroN P.O. Box 807 o 428 J Street . Sacramento, CA 95812-0807 (916) 322-5660 o Fax (916) 322-0886 September 16,2002 Debra A. Benci-Woodward Post Office Box 635 Ojai, CA 93024 Re Your Request for Advice Our File No. W-02-243 Dear Ms. Benci-Woodward: This letter confirms the receipt of your August 28,2002 request for advice regarding an unnamed council member. Under the provisions of Califomia Code of Regulations 18329(b)(8)(B), unless you are al authorized representative of the council member for whom you seek assistance, the Fair Political Practices Commission cannot address your question or provide analysis. I enclose regulations 18704.2, 18705.2 and our pamphlet, \"Can I Vote? Conflict of Interest Overview\" for your examination. Should you have any additional questions regarding this matter,please contact the Commission at (916) 322-5660. Sincerely, Luisa Menchaca Counsel John W. Wallace Assistant General Counsel Enclosures p4",
+    "first_500_words": "FAIR POLITICAL PRACTICES COMMISSION P.O. Box 807 • 428 J Street • Sacramento, CA 95812-0807 (916) 322-5660 • Fax (916) 322-0886 September 16, 2002 Debra A. Benci-Woodward Post Office Box 635 Ojai, CA 93024 Re: Your Request for Advice Our File No. W-02-243 Dear Ms. Benci-Woodward: This letter confirms the receipt of your August 28, 2002 request for advice regarding an unnamed council member. Under the provisions of California Code of Regulations 18329(b)(8)(B), unless you are an authorized representative of the council member for whom you seek assistance, the Fair Political Practices Commission cannot address your question or provide analysis. I enclose regulations 18704.2, 18705.2 and our pamphlet, \"Can I Vote? Conflict of Interest Overview\" for your examination. Should you have any additional questions regarding this matter, please contact the Commission at (916) 322-5660. Sincerely, Luisa Menchaca General Counsel By: John W. Wallace Assistant General Counsel Enclosures",
     "summary": "The FPPC declines to provide advice on a conflict of interest matter involving an unnamed council member because the requestor is not an authorized representative of that official."
   }
 }

@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=13"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:37:06.903428Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-22T22:51:17.962360Z",
     "page_count": 1,
-    "word_count": 118,
-    "char_count": 747,
-    "quality_score": 0.5975,
+    "word_count": 116,
+    "char_count": 768,
+    "quality_score": 0.8829617481956696,
     "olmocr_cost": null,
-    "native_word_count": 118
+    "native_word_count": 118,
+    "haiku_cost": 0.002068
   },
   "content": {
-    "full_text": "State of California \nMemorandum \nTo \nFile 86107 and 86109 \nFrom \nFAIR POLITICAL PRACTICES COMMISSIoN \nRich Eichman \n. / \nJ \n\\t \nSubject: \nLobbying Disclosure \nDate \n:April 3, 1979 \nIt is the staff's opinion that both a lobbyist and a lobbyist's \nemployer have a reporting obligation when the lobbyist participates \nwith the employer in the arranging of a gift of less than $10.00 to \na state official even though all costs are paid by the employer. \nThe lobbyist!s employer must report the entire transaction as an \n\"activity expense.\" \nThe lobbyist must submit an attachment to the lobbyist report which \ndiscloses the same information reported on the employer report. \nThe arrangement is not reported as an \"activity expense\" by the \nlobbyist. \n",
+    "full_text": "State of California\n\nMemorandum\n\nTo : File 86107 and 86109                                    Date :April 3, 1979\n\n\nFrom : FAIR POLITICAL PRACTICES COMMISSION\n       Rich Eichman\n\nSubject: Lobbying Disclosure\n\n\nIt is the staff's opinion that both a lobbyist and a lobbyist's\nemployer have a reporting obligation when the lobbyist participates\nwith the employer in the arranging of a gift of less than $10.00 to\na state official even though all costs are paid by the employer.\n\nThe lobbyist's employer must report the entire transaction as an\n\"activity expense.\"\n\nThe lobbyist must submit an attachment to the lobbyist report which\ndiscloses the same information reported on the employer report.\nThe arrangement is not reported as an \"activity expense\" by the\nlobbyist.",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "QUESTION: What are the lobbying disclosure and reporting obligations when a lobbyist and their employer jointly arrange a gift of less than $10 to a state official?\n\nCONCLUSION: It is the staff's opinion that both a lobbyist and a lobbyist's employer have a reporting obligation when the lobbyist participates with the employer in the arranging of a gift of less than $10.00 to a state official even though all costs are paid by the employer. The lobbyist's employer must report the entire transaction as an \"activity expense.\" The lobbyist must submit an attachment to the lobbyist report which discloses the same information reported on the employer report. The arrangement is not reported as an \"activity expense\" by the lobbyist.",
     "qa_source": "mixed",
-    "first_500_words": "State of California Memorandum To File 86107 and 86109 From FAIR POLITICAL PRACTICES COMMISSIoN Rich Eichman . / J \\t Subject: Lobbying Disclosure Date :April 3, 1979 It is the staff's opinion that both a lobbyist and a lobbyist's employer have a reporting obligation when the lobbyist participates with the employer in the arranging of a gift of less than $10.00 to a state official even though all costs are paid by the employer. The lobbyist!s employer must report the entire transaction as an \"activity expense.\" The lobbyist must submit an attachment to the lobbyist report which discloses the same information reported on the employer report. The arrangement is not reported as an \"activity expense\" by the lobbyist.",
+    "first_500_words": "State of California Memorandum To : File 86107 and 86109 Date :April 3, 1979 From : FAIR POLITICAL PRACTICES COMMISSION Rich Eichman Subject: Lobbying Disclosure It is the staff's opinion that both a lobbyist and a lobbyist's employer have a reporting obligation when the lobbyist participates with the employer in the arranging of a gift of less than $10.00 to a state official even though all costs are paid by the employer. The lobbyist's employer must report the entire transaction as an \"activity expense.\" The lobbyist must submit an attachment to the lobbyist report which discloses the same information reported on the employer report. The arrangement is not reported as an \"activity expense\" by the lobbyist.",
     "summary": "FPPC staff memorandum addressing lobbying disclosure obligations when a lobbyist and employer jointly arrange a gift under $10 to a state official. Staff concludes both parties have reporting obligations with specific requirements for each."
   }
 }

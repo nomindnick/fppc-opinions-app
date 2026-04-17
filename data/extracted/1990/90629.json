@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1990&tagCount=1&page=22"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:35:32.858693Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-20T15:52:05.480408Z",
     "page_count": 1,
-    "word_count": 141,
-    "char_count": 902,
-    "quality_score": 0.515,
+    "word_count": 146,
+    "char_count": 932,
+    "quality_score": 0.905894266055046,
     "olmocr_cost": null,
-    "native_word_count": 141
+    "native_word_count": 141,
+    "haiku_cost": 0.002264
   },
   "content": {
-    "full_text": "GRAND JURY\nCDUNTY GOWRNMENT CENTER\nSrN Lurs Oarspo, CauFoRNre 93.108\nSeptember 24,7990\nFair Political Practices Commission\nP.O. Box 807\nSacramento, CA 95804-0807\nReference: Form 730, Statement of Economic Interests For Designated Employees\nGentlemen:\nWe are working on revisions for our Grand Jury handbook and want it as accurate\nas possible.\nAre there any circumstances under which a Grand Juror is not required to file a\nConflict of Interest form 730? If so, what are these circumstances?\nShould Grand Jurors be treated as trial jurors?\nYour Form 730 instructions include a definition of a \"designated employee\". Do\nGrand Jurors fall within this definition? The case could be made that Grand Jurors only\ninvestigate and recommend and do not make decisions.\nPlease respond with supporting citations and authorities. Thank you for your\nattention to this matter.\n.:\n$]\na*on\nWilliam F. Newberry\nForeman\n",
+    "full_text": "Oct 1 9 07 4M 90\n\nGRAND JURY\nCOUNTY GOVERNMENT CENTER\nSAN LUIS OBISPO, CALIFORNIA 93408\n\nSeptember 24, 1990\n\nFair Political Practices Commission\nP.O. Box 807\nSacramento, CA 95804-0807\n\nReference: Form 730, Statement of Economic Interests For Designated Employees\n\nGentlemen:\n\nWe are working on revisions for our Grand Jury handbook and want it as accurate as possible.\n\nAre there any circumstances under which a Grand Juror is not required to file a Conflict of Interest form 730? If so, what are these circumstances?\n\nShould Grand Jurors be treated as trial jurors?\n\nYour Form 730 instructions include a definition of a \"designated employee\". Do Grand Jurors fall within this definition? The case could be made that Grand Jurors only investigate and recommend and do not make decisions.\n\nPlease respond with supporting citations and authorities. Thank you for your attention to this matter.\n\nSincerely,\n\nWilliam F. Newberry\nForeman",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "QUESTION: Are there any circumstances under which a Grand Juror is not required to file a Conflict of Interest form 730? If so, what are these circumstances? Should Grand Jurors be treated as trial jurors? Your Form 730 instructions include a definition of a \"designated employee\". Do Grand Jurors fall within this definition? The case could be made that Grand Jurors only investigate and recommend and do not make decisions.",
     "qa_source": "mixed",
-    "first_500_words": "GRAND JURY CDUNTY GOWRNMENT CENTER SrN Lurs Oarspo, CauFoRNre 93.108 September 24,7990 Fair Political Practices Commission P.O. Box 807 Sacramento, CA 95804-0807 Reference: Form 730, Statement of Economic Interests For Designated Employees Gentlemen: We are working on revisions for our Grand Jury handbook and want it as accurate as possible. Are there any circumstances under which a Grand Juror is not required to file a Conflict of Interest form 730? If so, what are these circumstances? Should Grand Jurors be treated as trial jurors? Your Form 730 instructions include a definition of a \"designated employee\". Do Grand Jurors fall within this definition? The case could be made that Grand Jurors only investigate and recommend and do not make decisions. Please respond with supporting citations and authorities. Thank you for your attention to this matter. .: $] a*on William F. Newberry Foreman",
+    "first_500_words": "Oct 1 9 07 4M 90 GRAND JURY COUNTY GOVERNMENT CENTER SAN LUIS OBISPO, CALIFORNIA 93408 September 24, 1990 Fair Political Practices Commission P.O. Box 807 Sacramento, CA 95804-0807 Reference: Form 730, Statement of Economic Interests For Designated Employees Gentlemen: We are working on revisions for our Grand Jury handbook and want it as accurate as possible. Are there any circumstances under which a Grand Juror is not required to file a Conflict of Interest form 730? If so, what are these circumstances? Should Grand Jurors be treated as trial jurors? Your Form 730 instructions include a definition of a \"designated employee\". Do Grand Jurors fall within this definition? The case could be made that Grand Jurors only investigate and recommend and do not make decisions. Please respond with supporting citations and authorities. Thank you for your attention to this matter. Sincerely, William F. Newberry Foreman",
     "summary": "An incoming request from the San Luis Obispo County Grand Jury foreman asking the FPPC for clarification regarding Form 730 filing requirements for grand jurors and their classification as designated employees."
   }
 }

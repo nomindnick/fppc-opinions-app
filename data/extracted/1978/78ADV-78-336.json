@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=33"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:37:11.552705Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-20T15:28:35.457965Z",
     "page_count": 1,
-    "word_count": 113,
-    "char_count": 779,
-    "quality_score": 0.5975,
+    "word_count": 117,
+    "char_count": 857,
+    "quality_score": 0.8919250000000001,
     "olmocr_cost": null,
-    "native_word_count": 113
+    "native_word_count": 113,
+    "haiku_cost": 0.002052
   },
   "content": {
-    "full_text": "l.7\"t7/ \nCA\"-'(/<P..J VF '-' ((\"Tr/cp \n, ..... \nvOC/r-C-e.:;:1 ilrVYY7 \nState of California \nwif;f,//J Ih ./C/n.rdrc~i'~ \nMemor ndum \nTo \n: File \nDate \nMarch 6, 1978 \nFrom \nFAIR POLITICAL PRACTICES COMMISSiON \nTed Prim \nSubject: \nCoastal Commission Code \nThe Conflicts of Interest Committee recommended that gifts \nfrom sources outside the jurisdiction of the Coastal Commis-\nsion need not be disclosed. \nThe justification for this \ndecision was that disclosure under the Code already was very \nbroad. \nThe Committee thought that this type of jurisdictional \nlimitation would be appropriate for Codes in which broad dis-\nclosure already has been imposed upon the highest officials and \nthose lower officials who have much contact with persons outside \nthe jurisdiction. \nTP:mfa \n",
+    "full_text": "[handwritten at top of page]\nCITY / UNINCORPORATED LIMITED TO SOURCES ITEMS\nwithin the jurisdiction.\n\nState of California\n\nMemorandum\n\nTo : File                                                           Date : March 6, 1978\n\n[handwritten]\nA1-78-360\n\nFrom : FAIR POLITICAL PRACTICES COMMISSION\n       Ted Prim\n\nSubject: Coastal Commission Code\n\n\nThe Conflicts of Interest Committee recommended that gifts\nfrom sources outside the jurisdiction of the Coastal Commission need not be disclosed. The justification for this\ndecision was that disclosure under this Code already was very\nbroad. The Committee thought that this type of jurisdictional\nlimitation would be appropriate for Codes in which broad disclosure already has been imposed upon the highest officials and\nthose lower officials who have much contact with persons outside\nthe jurisdiction.\n\n\nTP:mfa",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "QUESTION: Whether gifts from sources outside the jurisdiction of the Coastal Commission need to be disclosed under the Coastal Commission Code.\n\nCONCLUSION: The Conflicts of Interest Committee recommended that gifts from sources outside the Coastal Commission's jurisdiction need not be disclosed, based on the rationale that disclosure requirements under the Code are already broad and jurisdictional limitations would be appropriate for codes with extensive disclosure already imposed on high-level officials.",
     "qa_source": "synthetic",
-    "first_500_words": "l.7\"t7/ CA\"-'(/<P..J VF '-' ((\"Tr/cp , ..... vOC/r-C-e.:;:1 ilrVYY7 State of California wif;f,//J Ih ./C/n.rdrc~i'~ Memor ndum To : File Date March 6, 1978 From FAIR POLITICAL PRACTICES COMMISSiON Ted Prim Subject: Coastal Commission Code The Conflicts of Interest Committee recommended that gifts from sources outside the jurisdiction of the Coastal Commis- sion need not be disclosed. The justification for this decision was that disclosure under the Code already was very broad. The Committee thought that this type of jurisdictional limitation would be appropriate for Codes in which broad dis- closure already has been imposed upon the highest officials and those lower officials who have much contact with persons outside the jurisdiction. TP:mfa",
+    "first_500_words": "[handwritten at top of page] CITY / UNINCORPORATED LIMITED TO SOURCES ITEMS within the jurisdiction. State of California Memorandum To : File Date : March 6, 1978 [handwritten] A1-78-360 From : FAIR POLITICAL PRACTICES COMMISSION Ted Prim Subject: Coastal Commission Code The Conflicts of Interest Committee recommended that gifts from sources outside the jurisdiction of the Coastal Commission need not be disclosed. The justification for this decision was that disclosure under this Code already was very broad. The Committee thought that this type of jurisdictional limitation would be appropriate for Codes in which broad disclosure already has been imposed upon the highest officials and those lower officials who have much contact with persons outside the jurisdiction. TP:mfa",
     "summary": "This is an internal FPPC memorandum documenting a Conflicts of Interest Committee decision regarding whether gifts from outside the Coastal Commission's jurisdiction require disclosure under the Coastal Commission Code."
   }
 }

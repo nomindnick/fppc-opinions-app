@@ -14,17 +14,19 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1990&tagCount=1&page=27"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:35:33.278939Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-19T19:22:07.341773Z",
     "page_count": 2,
-    "word_count": 232,
-    "char_count": 1295,
-    "quality_score": 0.5975,
+    "word_count": 252,
+    "char_count": 1458,
+    "quality_score": 0.8865832788671024,
     "olmocr_cost": null,
-    "native_word_count": 232
+    "native_word_count": 232,
+    "haiku_cost": 0.004620000000000001,
+    "commentary_stripped_at": "2026-04-17T13:54:47.124668Z"
   },
   "content": {
-    "full_text": "Christine S. Knight\nCity of Novato \n.: :. i- :,\nMay 2I, 1990\nKathryn Donovan\nLegal ceneral Council\nEair Potitical Practices commission\n428 J. Street\nSuite 800\nsacramento, caI 95814\nDear I'liss Donovan:\nOn March 14, 1990 I spoke to one of your consultants with\nFPPC about a reimbursement I would like to claim from my 1987\ncampaign account.\nThe consultant sent me a copy of the regulations, Title 2,\nDivisiion 6 of the Ca1if. Code of Regulation and advised me\nto rrrite directly to you for an opinion concerning my request-\nDuring 1989, I accumulated auto mileage serving as mayor and\ncouncilmember for Novato, with a total of 4,400 miles on my\npersonal car.\nI would Iike to claim this mileage and receive monetary\nreimbursenent from my campaign account.\nIn reference to 18526.1 +3, it is obvious I've gone over the\n45 days time limit since my mileage total of 4,400 plus miles\nwas accumulated during a one year tax Period.\nI have kept a daily 1og of this mileage for the record. I\ndid not turn in my totals every 45 days in 1989 because I\nwas under the impression I could deduct the mileage from my\nincome tax. Since than my accountant informs me otherwise'\nThank you for your consideration.\nCounc i lmember\nlhr 3{ 2 at l'}l$\n310 Country Club Drive ' Novatq California 94949 ' \n(415) 382-1751\n\n\n",
+    "full_text": "Christine S. Knight\n\nCity of Novato\n\nMay 21, 1990\n\nKathryn Donovan\nLegal General Council\nFair Political Practices Commission\n428 J. Street\nSuite 800\nSacramento, Cal 95814\n\nDear Miss Donovan:\n\nOn March 14, 1990 I spoke to one of your consultants with\nFPPC about a reimbursement I would like to claim from my 1987\ncampaign account.\n\nThe consultant sent me a copy of the regulations, Title 2,\nDivision 6 of the Calif. Code of Regulation and advised me\nto write directly to you for an opinion concerning my request.\n\nDuring 1989, I accumulated auto mileage serving as mayor and\ncouncilmember for Novato, with a total of 4,400 miles on my\npersonal car.\n\nI would like to claim this mileage and receive monetary\nreimbursement from my campaign account.\n\nIn reference to 18526.1 #3, it is obvious I've gone over the\n45 days time limit since my mileage total of 4,400 plus miles\nwas accumulated during a one year tax period.\n\nI have kept a daily log of this mileage for the record. I\ndid not turn in my totals every 45 days in 1989 because I\nwas under the impression I could deduct the mileage from my\nincome tax. Since than my accountant informs me otherwise.\n\nThank you for your consideration.\n\nSincerely,\n\nChristine S. Knight\nCouncilmember\n\n\n310 Country Club Drive • Novato, California 94949 • (415) 382-1751\n\n\nIf there is text present in this document, it is too faint or unclear for me to transcribe accurately according to your requirement to copy text verbatim.",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +67,7 @@
   "embedding": {
     "qa_text": "QUESTION: I would like to claim this mileage and receive monetary reimbursement from my campaign account. In reference to 18526.1 +3, it is obvious I've gone over the 45 days time limit since my mileage total of 4,400 plus miles was accumulated during a one year tax Period.",
     "qa_source": "mixed",
-    "first_500_words": "Christine S. Knight City of Novato .: :. i- :, May 2I, 1990 Kathryn Donovan Legal ceneral Council Eair Potitical Practices commission 428 J. Street Suite 800 sacramento, caI 95814 Dear I'liss Donovan: On March 14, 1990 I spoke to one of your consultants with FPPC about a reimbursement I would like to claim from my 1987 campaign account. The consultant sent me a copy of the regulations, Title 2, Divisiion 6 of the Ca1if. Code of Regulation and advised me to rrrite directly to you for an opinion concerning my request- During 1989, I accumulated auto mileage serving as mayor and councilmember for Novato, with a total of 4,400 miles on my personal car. I would Iike to claim this mileage and receive monetary reimbursenent from my campaign account. In reference to 18526.1 +3, it is obvious I've gone over the 45 days time limit since my mileage total of 4,400 plus miles was accumulated during a one year tax Period. I have kept a daily 1og of this mileage for the record. I did not turn in my totals every 45 days in 1989 because I was under the impression I could deduct the mileage from my income tax. Since than my accountant informs me otherwise' Thank you for your consideration. Counc i lmember lhr 3{ 2 at l'}l$ 310 Country Club Drive ' Novatq California 94949 ' (415) 382-1751",
+    "first_500_words": "Christine S. Knight City of Novato May 21, 1990 Kathryn Donovan Legal General Council Fair Political Practices Commission 428 J. Street Suite 800 Sacramento, Cal 95814 Dear Miss Donovan: On March 14, 1990 I spoke to one of your consultants with FPPC about a reimbursement I would like to claim from my 1987 campaign account. The consultant sent me a copy of the regulations, Title 2, Division 6 of the Calif. Code of Regulation and advised me to write directly to you for an opinion concerning my request. During 1989, I accumulated auto mileage serving as mayor and councilmember for Novato, with a total of 4,400 miles on my personal car. I would like to claim this mileage and receive monetary reimbursement from my campaign account. In reference to 18526.1 #3, it is obvious I've gone over the 45 days time limit since my mileage total of 4,400 plus miles was accumulated during a one year tax period. I have kept a daily log of this mileage for the record. I did not turn in my totals every 45 days in 1989 because I was under the impression I could deduct the mileage from my income tax. Since than my accountant informs me otherwise. Thank you for your consideration. Sincerely, Christine S. Knight Councilmember 310 Country Club Drive • Novato, California 94949 • (415) 382-1751 If there is text present in this document, it is too faint or unclear for me to transcribe accurately according to your requirement to copy text verbatim.",
     "summary": "This is an incoming request from Christine S. Knight, a Novato City Councilmember, requesting FPPC guidance on whether she can claim reimbursement for 4,400 miles of campaign-related mileage accumulated in 1989 from her campaign account, despite exceeding the 45-day reporting requirement."
   }
 }

@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=5"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:37:08.729408Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-22T00:56:07.739398Z",
     "page_count": 1,
-    "word_count": 146,
-    "char_count": 877,
-    "quality_score": 0.5975,
+    "word_count": 148,
+    "char_count": 901,
+    "quality_score": 0.8722778036061055,
     "olmocr_cost": null,
-    "native_word_count": 146
+    "native_word_count": 146,
+    "haiku_cost": 0.002252
   },
   "content": {
-    "full_text": ", \nState of California \nMemorandum \nTo \nOpinion Request Meeting Participants \n-\nNot an item for discussion at ORM -\nIi \nj \nDate \nJuly 28, 1978 \nFrom \nFAIR POLITICAL PRACTICES COMMISSION I /'v1~1'-\nGina S-K \nC . \nSubject: \nFiling a Statement in Lieu of a Campaign Statement \nSection 84212 allows candidates to file a declaration in \nlieu of filing a campaign statement when they do not \nreceive $200 and to the \nst of their knowledge not more \nthan $200 is received or expended on behalf of or in \nsupport of the candidacy. \nQuery: \n1. \nIf independent expenditures (Section 820l3{b)) over \n$200 are made and the candidate knows about them may \nhe/she still file an in lieu of declaration? \n2. \nIf the candidate has knowledge of an independent \ncorr~ittee (Section 82031) receiving or expending \nmoney on the candidate' \nbehalf may he/she still \nfile an in lieu of declaration? \n",
+    "full_text": "State of California\n\nMemorandum\n\nTo : Opinion Request Meeting Participants\n- Not an item for discussion at ORM -\n\n[illegible handwritten text]\n\nFrom : FAIR POLITICAL PRACTICES COMMISSION\nGina S-K\n\nSubject: Filing a Statement in Lieu of a Campaign Statement\n\n\nSection 84212 allows candidates to file a declaration in\nlieu of filing a campaign statement when they do not\nreceive $200 and to the best of their knowledge not more\nthan $200 is received or expended on behalf of or in\nsupport of the candidacy.\n\nQuery:\n\n1. If independent expenditures (Section 82013(b)) over\n$200 are made and the candidate knows about them may\nhe/she still file an in lieu of declaration?\n\n2. If the candidate has knowledge of an independent\ncommittee (Section 82031) receiving or expending\nmoney on the candidate's behalf may he/she still\nfile an in lieu of declaration?\n\nDate : July 28, 1978\n\n[Document number: 1M-98-342]",
     "full_text_markdown": null
   },
   "parsed": {
@@ -68,7 +69,7 @@
   "embedding": {
     "qa_text": "QUESTION: 1. If independent expenditures (Section 82013(b)) over $200 are made and the candidate knows about them may he/she still file an in lieu of declaration? 2. If the candidate has knowledge of an independent committee (Section 82031) receiving or expending money on the candidate' behalf may he/she still file an in lieu of declaration?",
     "qa_source": "mixed",
-    "first_500_words": ", State of California Memorandum To Opinion Request Meeting Participants - Not an item for discussion at ORM - Ii j Date July 28, 1978 From FAIR POLITICAL PRACTICES COMMISSION I /'v1~1'- Gina S-K C . Subject: Filing a Statement in Lieu of a Campaign Statement Section 84212 allows candidates to file a declaration in lieu of filing a campaign statement when they do not receive $200 and to the st of their knowledge not more than $200 is received or expended on behalf of or in support of the candidacy. Query: 1. If independent expenditures (Section 820l3{b)) over $200 are made and the candidate knows about them may he/she still file an in lieu of declaration? 2. If the candidate has knowledge of an independent corr~ittee (Section 82031) receiving or expending money on the candidate' behalf may he/she still file an in lieu of declaration?",
+    "first_500_words": "State of California Memorandum To : Opinion Request Meeting Participants - Not an item for discussion at ORM - [illegible handwritten text] From : FAIR POLITICAL PRACTICES COMMISSION Gina S-K Subject: Filing a Statement in Lieu of a Campaign Statement Section 84212 allows candidates to file a declaration in lieu of filing a campaign statement when they do not receive $200 and to the best of their knowledge not more than $200 is received or expended on behalf of or in support of the candidacy. Query: 1. If independent expenditures (Section 82013(b)) over $200 are made and the candidate knows about them may he/she still file an in lieu of declaration? 2. If the candidate has knowledge of an independent committee (Section 82031) receiving or expending money on the candidate's behalf may he/she still file an in lieu of declaration? Date : July 28, 1978 [Document number: 1M-98-342]",
     "summary": "This FPPC memorandum addresses whether candidates can file a declaration in lieu of a campaign statement under Section 84212 when independent expenditures or independent committee activities exceeding $200 threshold occur on their behalf. The document presents the statutory framework and two specific queries regarding the interaction between independent spending limitations and the in-lieu filing option."
   }
 }

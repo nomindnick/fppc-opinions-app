@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1994&tagCount=1&page=17"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:35:02.713044Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-20T21:20:59.453000Z",
     "page_count": 1,
-    "word_count": 120,
-    "char_count": 803,
-    "quality_score": 0.5475,
+    "word_count": 121,
+    "char_count": 1179,
+    "quality_score": 0.8502837297605503,
     "olmocr_cost": null,
-    "native_word_count": 120
+    "native_word_count": 120,
+    "haiku_cost": 0.00238
   },
   "content": {
-    "full_text": "California\nFair Political\nPractices Commission\nAugust 1,\n1994\nLeslie Badua\nCapital Representation Group\n1127 11th St.,\nSuite 1003\nSacramento,\nCA\n95814\nRe:\nYour Request For Confirmation\nOf Telephone Advice\nOur File No.\n1-94-241\nDear Ms.\nBadua:\nThis is to confirm telephone advice provided to you regarding\nthe lobbying disclosure provisions of the Political Reform Act.\n(Government Code Sections 81000-91015.)\nA lobbyist employer who employs more than one firm must file\nonly one quarterly Lobbyist Employer Report\n(Form 635)\ndisclosing\npayments made to both lobbying firms.\nIf you have any questions, please contact me at\n(916)322-\n5662.\nSincerely,\nColleen McGee\nPolitical Reform Consultant\nTechnical Assistance Division\n428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804-0807 • (916)322-5660\n",
+    "full_text": "California\nFair Political\nPractices Commission\n\nAugust 1, 1994\n\n\nLeslie Badua\nCapital Representation Group\n1127 11th St., Suite 1003\nSacramento, CA  95814\n\n                                        Re: Your Request For Confirmation\n                                            Of Telephone Advice\n                                            Our File No. I-94-241\n\nDear Ms. Badua:\n\n     This is to confirm telephone advice provided to your regarding\nthe lobbying disclosure provisions of the Political Reform Act.\n(Government Code Sections 81000-91015.)\n\n     A lobbyist employer who employs more than one firm must file\nonly one quarterly Lobbyist Employer Report (Form 635) disclosing\npayments made to both lobbying firms.\n\n     If you have any questions, please contact me at (916)322-\n5662.\n\n                                        Sincerely,\n\n                                        [signature]\n                                        Colleen McGee\n                                        Political Reform Consultant\n                                        Technical Assistance Division\n\n\n\n\n428 J Street, Suite 800  •  P.O. Box 807  •  Sacramento CA 95804-0807  •  (916)322-5660",
     "full_text_markdown": null
   },
   "parsed": {
@@ -67,7 +68,7 @@
   "embedding": {
     "qa_text": "QUESTION: When a lobbyist employer engages more than one lobbying firm, how many Lobbyist Employer Reports (Form 635) must be filed for quarterly disclosures of payments to those firms?\n\nCONCLUSION: A lobbyist employer who employs more than one firm must file only one quarterly Lobbyist Employer Report (Form 635) disclosing payments made to both lobbying firms.",
     "qa_source": "mixed",
-    "first_500_words": "California Fair Political Practices Commission August 1, 1994 Leslie Badua Capital Representation Group 1127 11th St., Suite 1003 Sacramento, CA 95814 Re: Your Request For Confirmation Of Telephone Advice Our File No. 1-94-241 Dear Ms. Badua: This is to confirm telephone advice provided to you regarding the lobbying disclosure provisions of the Political Reform Act. (Government Code Sections 81000-91015.) A lobbyist employer who employs more than one firm must file only one quarterly Lobbyist Employer Report (Form 635) disclosing payments made to both lobbying firms. If you have any questions, please contact me at (916)322- 5662. Sincerely, Colleen McGee Political Reform Consultant Technical Assistance Division 428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804-0807 • (916)322-5660",
+    "first_500_words": "California Fair Political Practices Commission August 1, 1994 Leslie Badua Capital Representation Group 1127 11th St., Suite 1003 Sacramento, CA 95814 Re: Your Request For Confirmation Of Telephone Advice Our File No. I-94-241 Dear Ms. Badua: This is to confirm telephone advice provided to your regarding the lobbying disclosure provisions of the Political Reform Act. (Government Code Sections 81000-91015.) A lobbyist employer who employs more than one firm must file only one quarterly Lobbyist Employer Report (Form 635) disclosing payments made to both lobbying firms. If you have any questions, please contact me at (916)322- 5662. Sincerely, [signature] Colleen McGee Political Reform Consultant Technical Assistance Division 428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804-0807 • (916)322-5660",
     "summary": "FPPC confirms telephone advice to Leslie Badua regarding lobbying disclosure requirements under the Political Reform Act, specifically clarifying that a lobbyist employer with multiple firms files only one quarterly Form 635 report disclosing all payments."
   }
 }

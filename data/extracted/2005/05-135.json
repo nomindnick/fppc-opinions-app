@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2005&tagCount=1&page=24"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:34:14.624219Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-22T00:13:11.071148Z",
     "page_count": 1,
-    "word_count": 163,
-    "char_count": 1102,
-    "quality_score": 0.7175,
+    "word_count": 167,
+    "char_count": 1124,
+    "quality_score": 0.8912868130686884,
     "olmocr_cost": null,
-    "native_word_count": 163
+    "native_word_count": 163,
+    "haiku_cost": 0.002568
   },
   "content": {
-    "full_text": "Re\nFarn PolrrrcAI- PRACTICEs CouvtISSIoN\n428 J Street r Suite 620 o Sacramento, CA 95814-2329\n(916) 322-5660 r Fax (916) 322-0886\nJuly 1,2005\nPatrick Faverty, Dr.\nSuperintendent\nRio School District\n3300 Cortez Street\nOxnard, CA 93036-1309\nYour Request for Advice\nOur File No. W-05-135\nDear Dr. Faverty:\nThis letter confirms the receipt of your June 28, 2005,request for advice regarding the\nCity of Oxnard, Water Department, Superintendent. Under the provisions of Califomia Code of\nRegulations section 18329(bX8)(B), unless the Superintendent has authorized you as his or her\nrepresentative, the Fair Political Practices Commission cannot address your questions or provide\nanalysis. I have enclosed a copy of regulation 18329 for your review.\nIf you believe a violation of the Political Reform Act has occurred, you may file the\nenclosed complaint form with our Enforcement Division.\nShould you have any additional questions regarding this matter, please contact the\nCommission at (916) 322-5660.\nSincerely,\nLuisa Menchaca\nGeneral Counsel\nW. Wallace\nEnclosure\nWJL:rd\nAssistant Counsel, Legal Division\n",
+    "full_text": "FAIR POLITICAL PRACTICES COMMISSION\n428 J Street • Suite 620 • Sacramento, CA 95814-2329\n(916) 322-5660 • Fax (916) 322-0886\n\nJuly 1, 2005\n\nPatrick Faverty, Dr.\nSuperintendent\nRio School District\n3300 Cortez Street\nOxnard, CA 93036-1309\n\nRe: Your Request for Advice\nOur File No. W-05-135\n\nDear Dr. Faverty:\n\nThis letter confirms the receipt of your June 28, 2005, request for advice regarding the\nCity of Oxnard, Water Department, Superintendent. Under the provisions of California Code of\nRegulations section 18329(b)(8)(B), unless the Superintendent has authorized you as his or her\nrepresentative, the Fair Political Practices Commission cannot address your questions or provide\nanalysis. I have enclosed a copy of regulation 18329 for your review.\n\nIf you believe a violation of the Political Reform Act has occurred, you may file the\nenclosed complaint form with our Enforcement Division.\n\nShould you have any additional questions regarding this matter, please contact the\nCommission at (916) 322-5660.\n\nSincerely,\n\nLuisa Menchaca\nGeneral Counsel\n\nBy: John W. Wallace\nAssistant Counsel, Legal Division\n\nEnclosure\nWJL:rd",
     "full_text_markdown": null
   },
   "parsed": {
@@ -67,7 +68,7 @@
   "embedding": {
     "qa_text": "QUESTION: Dr. Faverty requested advice regarding the City of Oxnard Water Department Superintendent under California Code of Regulations section 18329(b)(8)(B).\n\nCONCLUSION: Unless the Superintendent has authorized you as his or her representative, the Fair Political Practices Commission cannot address your questions or provide analysis.",
     "qa_source": "mixed",
-    "first_500_words": "Re Farn PolrrrcAI- PRACTICEs CouvtISSIoN 428 J Street r Suite 620 o Sacramento, CA 95814-2329 (916) 322-5660 r Fax (916) 322-0886 July 1,2005 Patrick Faverty, Dr. Superintendent Rio School District 3300 Cortez Street Oxnard, CA 93036-1309 Your Request for Advice Our File No. W-05-135 Dear Dr. Faverty: This letter confirms the receipt of your June 28, 2005,request for advice regarding the City of Oxnard, Water Department, Superintendent. Under the provisions of Califomia Code of Regulations section 18329(bX8)(B), unless the Superintendent has authorized you as his or her representative, the Fair Political Practices Commission cannot address your questions or provide analysis. I have enclosed a copy of regulation 18329 for your review. If you believe a violation of the Political Reform Act has occurred, you may file the enclosed complaint form with our Enforcement Division. Should you have any additional questions regarding this matter, please contact the Commission at (916) 322-5660. Sincerely, Luisa Menchaca General Counsel W. Wallace Enclosure WJL:rd Assistant Counsel, Legal Division",
+    "first_500_words": "FAIR POLITICAL PRACTICES COMMISSION 428 J Street • Suite 620 • Sacramento, CA 95814-2329 (916) 322-5660 • Fax (916) 322-0886 July 1, 2005 Patrick Faverty, Dr. Superintendent Rio School District 3300 Cortez Street Oxnard, CA 93036-1309 Re: Your Request for Advice Our File No. W-05-135 Dear Dr. Faverty: This letter confirms the receipt of your June 28, 2005, request for advice regarding the City of Oxnard, Water Department, Superintendent. Under the provisions of California Code of Regulations section 18329(b)(8)(B), unless the Superintendent has authorized you as his or her representative, the Fair Political Practices Commission cannot address your questions or provide analysis. I have enclosed a copy of regulation 18329 for your review. If you believe a violation of the Political Reform Act has occurred, you may file the enclosed complaint form with our Enforcement Division. Should you have any additional questions regarding this matter, please contact the Commission at (916) 322-5660. Sincerely, Luisa Menchaca General Counsel By: John W. Wallace Assistant Counsel, Legal Division Enclosure WJL:rd",
     "summary": "The FPPC declines Dr. Faverty's June 28, 2005 request for advice regarding the City of Oxnard Water Department Superintendent, stating that without authorization from the Superintendent, the Commission cannot provide analysis."
   }
 }

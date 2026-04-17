@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1992&tagCount=1&page=99"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:35:20.585685Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-19T20:08:26.670858Z",
     "page_count": 1,
     "word_count": 201,
-    "char_count": 1169,
-    "quality_score": 0.635,
+    "char_count": 1174,
+    "quality_score": 0.927331315801697,
     "olmocr_cost": null,
-    "native_word_count": 201
+    "native_word_count": 201,
+    "haiku_cost": 0.0025792000000000002
   },
   "content": {
-    "full_text": "FPPC\nAUC 2 0 1992\n30268 Mersey Court\nTemecula, CA 9259L\nAugust !8t 7992\nDeanne Stone, Legal Department,\nState of California, FPPC,\nPO Box 807,\nSacramento, CA 9 5812\nDear Ms. Stone:\nI am writing to ask for a written ruling on a possible conflict\nof interest that we discussed last week.\nThe original development project for the new City of Iemecula was\nowned by Kaiser Development. They iu tern sold the Land to\nBedford Properties, who have a joint arrangement with KemPer Real\nEstate Maaagement Company. Recently Kemper ReaI Estate Management\nCompany took exclusive controL of the remaining unsold and\nundeveJ.opecl land, as well as some retail centers.\nI am running for the city council of the City of Temecula and own\nKemper Financial mutual funds. Additionally I control such funds\nin an irrevocable trust \nfund for my mother, Martha Adams a\nresident of West PaIm Beach, Florida.\nI wish to determine whether there would be a conflict, \nshould I\nbe eJ,ected, and had to vote on land use by Xemper ReaI Estate\nManagemeDt Company .\nThank you for your heIp. Should you need to ask me any further\nquestions please call me at 774-599-4206.\nr\nven trr|.ry touys,\n!',1!\":('-\n",
+    "full_text": "FPPC\nAUG 2 0 1992\nr\n\n30268 Mersey Court\nTemecula, CA 92591\nAugust 18, 1992\n\nDeanne Stone, Legal Department,\nState of California, FPPC,\nPO Box 807,\nSacramento, CA 95812\n\nDear Ms. Stone:\n\nI am writing to ask for a written ruling on a possible conflict\nof interest that we discussed last week.\n\nThe original development project for the new City of Temecula was\nowned by Kaiser Development. They in tern sold the land to\nBedford Properties, who have a joint arrangement with Kemper Real\nEstate Management Company. Recently Kemper Real Estate Management\nCompany took exclusive control of the remaining unsold and\nundeveloped land, as well as some retail centers.\n\nI am running for the City Council of the City of Temecula and own\nKemper Financial mutual funds. Additionally I control such funds\nin an irrevocable trust fund for my mother, Martha Adams a\nresident of West Palm Beach, Florida.\n\nI wish to determine whether there would be a conflict, should I\nbe elected, and had to vote on land use by Kemper Real Estate\nManagement Company.\n\nThank you for your help. Should you need to ask me any further\nquestions please call me at 714-699-4206.\n\nVery truly yours,\n\nR. Jane Vernon",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "QUESTION: s please call me at 774-599-4206.\nr\nven trr|.ry touys,\n!',1!\":('-",
     "qa_source": "extracted",
-    "first_500_words": "FPPC AUC 2 0 1992 30268 Mersey Court Temecula, CA 9259L August !8t 7992 Deanne Stone, Legal Department, State of California, FPPC, PO Box 807, Sacramento, CA 9 5812 Dear Ms. Stone: I am writing to ask for a written ruling on a possible conflict of interest that we discussed last week. The original development project for the new City of Iemecula was owned by Kaiser Development. They iu tern sold the Land to Bedford Properties, who have a joint arrangement with KemPer Real Estate Maaagement Company. Recently Kemper ReaI Estate Management Company took exclusive controL of the remaining unsold and undeveJ.opecl land, as well as some retail centers. I am running for the city council of the City of Temecula and own Kemper Financial mutual funds. Additionally I control such funds in an irrevocable trust fund for my mother, Martha Adams a resident of West PaIm Beach, Florida. I wish to determine whether there would be a conflict, should I be eJ,ected, and had to vote on land use by Xemper ReaI Estate ManagemeDt Company . Thank you for your heIp. Should you need to ask me any further questions please call me at 774-599-4206. r ven trr|.ry touys, !',1!\":('-",
+    "first_500_words": "FPPC AUG 2 0 1992 r 30268 Mersey Court Temecula, CA 92591 August 18, 1992 Deanne Stone, Legal Department, State of California, FPPC, PO Box 807, Sacramento, CA 95812 Dear Ms. Stone: I am writing to ask for a written ruling on a possible conflict of interest that we discussed last week. The original development project for the new City of Temecula was owned by Kaiser Development. They in tern sold the land to Bedford Properties, who have a joint arrangement with Kemper Real Estate Management Company. Recently Kemper Real Estate Management Company took exclusive control of the remaining unsold and undeveloped land, as well as some retail centers. I am running for the City Council of the City of Temecula and own Kemper Financial mutual funds. Additionally I control such funds in an irrevocable trust fund for my mother, Martha Adams a resident of West Palm Beach, Florida. I wish to determine whether there would be a conflict, should I be elected, and had to vote on land use by Kemper Real Estate Management Company. Thank you for your help. Should you need to ask me any further questions please call me at 714-699-4206. Very truly yours, R. Jane Vernon",
     "summary": null
   }
 }

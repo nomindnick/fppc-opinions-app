@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=42"
   },
   "extraction": {
-    "method": "native+olmocr",
-    "extracted_at": "2026-02-08T17:18:03.991151Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-04-04T21:23:26.442109Z",
     "page_count": 1,
-    "word_count": 48,
-    "char_count": 323,
-    "quality_score": 0.425,
+    "word_count": 49,
+    "char_count": 456,
+    "quality_score": 0.7451892704569238,
     "olmocr_cost": 0.00241918,
-    "native_word_count": 48
+    "native_word_count": 48,
+    "haiku_cost": 0.001736
   },
   "content": {
-    "full_text": "State of California \nMemorandum \nTo \n: File \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nTed Prim \nDate \n-7?-3cr? \nSubject: Legal description of home location. \nFeb. 7, 1977 \nI advised Judge Bonnie Lee Martin that a legal description \nof her home location satisfied the reporting requirements \nof Section 87206(c). \nTP: jo \n",
+    "full_text": "State of California\n\nMemorandum\n\nTo      :   File                                    Date   :  Feb. 7, 1977\n\n\n                                                    M1-77-356\n\nFrom  :  FAIR POLITICAL PRACTICES COMMISSION\n         Ted Prim\n\nSubject:  Legal description of home location.\n\n         I advised Judge Bonnie Lee Martin that a legal description\n         of her home location satisfied the reporting requirements\n         of Section 87206(c).\n\n\nTP:jo",
     "full_text_markdown": null
   },
   "parsed": {
@@ -67,7 +68,7 @@
   "embedding": {
     "qa_text": "QUESTION: Whether a legal description of a home location satisfies the reporting requirements under Section 87206(c).\n\nCONCLUSION: A legal description of a home location satisfies the reporting requirements of Section 87206(c).",
     "qa_source": "synthetic",
-    "first_500_words": "State of California Memorandum To : File From FAIR POLITICAL PRACTICES COMMISSION Ted Prim Date -7?-3cr? Subject: Legal description of home location. Feb. 7, 1977 I advised Judge Bonnie Lee Martin that a legal description of her home location satisfied the reporting requirements of Section 87206(c). TP: jo",
+    "first_500_words": "State of California Memorandum To : File Date : Feb. 7, 1977 M1-77-356 From : FAIR POLITICAL PRACTICES COMMISSION Ted Prim Subject: Legal description of home location. I advised Judge Bonnie Lee Martin that a legal description of her home location satisfied the reporting requirements of Section 87206(c). TP:jo",
     "summary": "FPPC memorandum from Ted Prim documenting advice given to Judge Bonnie Lee Martin that a legal description of her home location meets Section 87206(c) reporting requirements."
   }
 }

@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=28"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:37:11.014074Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-22T02:22:57.743766Z",
     "page_count": 1,
-    "word_count": 194,
-    "char_count": 1279,
-    "quality_score": 0.635,
+    "word_count": 197,
+    "char_count": 1302,
+    "quality_score": 0.8777975249605002,
     "olmocr_cost": null,
-    "native_word_count": 194
+    "native_word_count": 194,
+    "haiku_cost": 0.0024479999999999997
   },
   "content": {
-    "full_text": "State of California \nMemorandum \nTo \nFrom \nFile -\n82015 \nFAIR POLITICAL PRACTI<;E~ COMMISSION \nBarbara Campbell/~ \nSubject: Advice on newspaper advertising discount \nDate \nAug. 3, 1978 \nKirk Pessner of Dobbs and Nielsen called today with the \nfollowing situation. \nA newspaper has regular rates for commercial \nand political advertisers. \nThose rates are lower than the rates \navailable to the general public. \nThe political rates are given \nto all political advertisers. \nThe commercial and political rates \nare scheduled for an increase, effective October 1. \nKirk asked \nif the newspaper retains the lower political advertising rate \nuntil after the election, will the newspaper be making in-kind \ncontributions (in the form of a discount) to its political \nadvertisers? \nI advised Kirk that the above-described situation is not a \ncontribution. \nI based my advice on that portion of Government Code Section \n82015 which defines the \"granting of discounts ... by ... news-\npapers not extended on an equal basis to all candidates for the \nsame office\" as a contribution. \nIn the situation Pessner described, the lower political ad-\nvertising rate is available to all political advertisers and is \ntherefore not a contribution under the Political Reform Act. \nBC:plh \ncc: \nTed \n",
+    "full_text": "State of California\n\nMemorandum\n\nTo : File - 82015                                    Date : Aug. 3, 1978\n\n\n\n\nFrom : FAIR POLITICAL PRACTICES COMMISSION\n        Barbara Campbell\n\nSubject: Advice on newspaper advertising discount\n\n\nKirk Pessner of Dobbs and Nielsen called today with the\nfollowing situation. A newspaper has regular rates for commercial\nand political advertisers. Those rates are lower than the rates\navailable to the general public. The political rates are given\nto all political advertisers. The commercial and political rates\nare scheduled for an increase, effective October 1. Kirk asked\nif the newspaper retains the lower political advertising rate\nuntil after the election, will the newspaper be making in-kind\ncontributions (in the form of a discount) to its political\nadvertisers?\n\nI advised Kirk that the above-described situation is not a\ncontribution.\n\nI based my advice on that portion of Government Code Section\n82015 which defines the \"granting of discounts ... by ... news-\npapers not extended on an equal basis to all candidates for the\nsame office\" as a contribution.\n\nIn the situation Pessner described, the lower political ad-\nvertising rate is available to all political advertisers and is\ntherefore not a contribution under the Political Reform Act.\n\nBC:plh\ncc: Ted",
     "full_text_markdown": null
   },
   "parsed": {
@@ -67,7 +68,7 @@
   "embedding": {
     "qa_text": "QUESTION: If the newspaper retains the lower political advertising rate until after the election, will the newspaper be making in-kind contributions (in the form of a discount) to its political advertisers?\n\nCONCLUSION: The above-described situation is not a contribution. The lower political advertising rate is available to all political advertisers and is therefore not a contribution under the Political Reform Act.",
     "qa_source": "mixed",
-    "first_500_words": "State of California Memorandum To From File - 82015 FAIR POLITICAL PRACTI<;E~ COMMISSION Barbara Campbell/~ Subject: Advice on newspaper advertising discount Date Aug. 3, 1978 Kirk Pessner of Dobbs and Nielsen called today with the following situation. A newspaper has regular rates for commercial and political advertisers. Those rates are lower than the rates available to the general public. The political rates are given to all political advertisers. The commercial and political rates are scheduled for an increase, effective October 1. Kirk asked if the newspaper retains the lower political advertising rate until after the election, will the newspaper be making in-kind contributions (in the form of a discount) to its political advertisers? I advised Kirk that the above-described situation is not a contribution. I based my advice on that portion of Government Code Section 82015 which defines the \"granting of discounts ... by ... news- papers not extended on an equal basis to all candidates for the same office\" as a contribution. In the situation Pessner described, the lower political ad- vertising rate is available to all political advertisers and is therefore not a contribution under the Political Reform Act. BC:plh cc: Ted",
+    "first_500_words": "State of California Memorandum To : File - 82015 Date : Aug. 3, 1978 From : FAIR POLITICAL PRACTICES COMMISSION Barbara Campbell Subject: Advice on newspaper advertising discount Kirk Pessner of Dobbs and Nielsen called today with the following situation. A newspaper has regular rates for commercial and political advertisers. Those rates are lower than the rates available to the general public. The political rates are given to all political advertisers. The commercial and political rates are scheduled for an increase, effective October 1. Kirk asked if the newspaper retains the lower political advertising rate until after the election, will the newspaper be making in-kind contributions (in the form of a discount) to its political advertisers? I advised Kirk that the above-described situation is not a contribution. I based my advice on that portion of Government Code Section 82015 which defines the \"granting of discounts ... by ... news- papers not extended on an equal basis to all candidates for the same office\" as a contribution. In the situation Pessner described, the lower political ad- vertising rate is available to all political advertisers and is therefore not a contribution under the Political Reform Act. BC:plh cc: Ted",
     "summary": "FPPC staff advises that a newspaper's maintenance of lower political advertising rates available equally to all political advertisers does not constitute an in-kind contribution under Government Code Section 82015."
   }
 }

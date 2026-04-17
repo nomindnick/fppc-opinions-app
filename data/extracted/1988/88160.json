@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1988&tagCount=1&page=7"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:36:05.869635Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-23T18:04:49.014059Z",
     "page_count": 1,
-    "word_count": 189,
-    "char_count": 1264,
-    "quality_score": 0.7150000000000001,
+    "word_count": 186,
+    "char_count": 1369,
+    "quality_score": 0.8930759747010955,
     "olmocr_cost": null,
-    "native_word_count": 189
+    "native_word_count": 189,
+    "haiku_cost": 0.002748
   },
   "content": {
-    "full_text": "• \nTO: \nFROM: \nMEMORANDUM \nAdvice File, sections \n82013, 82015, 82025, 18216 \nCarla Wardlow ~ \nDATE: \nApril 27, 1988 \nTechnical Assistance & Analysis Division \nSUBJECT: Loan Forgiveness and Major Donor Qualification \nFile No. M-88-160 \nQUESTION \nIs a loan forgiveness counted for purposes of determining if a \nperson qualifies as a major donor committee under section 82013(c) \nof the Act? \nANSWER \nA loan forgiveness is a contribution and must be cumulated \nwith other contributions to determine if an individual or entity \nhas qualified as a major donor committee • \nANALYSIS \nsections 82015 and 82025 include the term \"forgiveness of a \nloan\" when defining the terms \"contribution\" and \"expenditure,\" \nrespectively. \nIn addition, Regulation 18216 defines the term \n\"enforceable promise to make a payment\" as used in sections 82015 \nand 82025 to include loan forgiveness. \n(2 California Code of \nRegulations Section 18216(b) (1).) \nTherefore, a loan forgiveness \nmust be cumulated with other contributions made during a calendar \nyear for purposes of determining if an individual or entity has \nqualified as a major donor. \nThis memorandum supersedes the Pessner advice letter, No. \nA-79-024, the Meier advice letter, No. A-84-028, and File Memo No. \nM-81-158. \n",
+    "full_text": "MEMORANDUM\n\n\nTO:     Advice File, Sections           DATE:  April 27, 1988\n        82013, 82015, 82025, 18216\n\nFROM:   Carla Wardlow CW\n        Technical Assistance & Analysis Division\n\nSUBJECT: Loan Forgiveness and Major Donor Qualification\n         File No. M-88-160\n\n\n                         QUESTION\n\n    Is a loan forgiveness counted for purposes of determining if a\nperson qualifies as a major donor committee under Section 82013(c)\nof the Act?\n\n                         ANSWER\n\n    A loan forgiveness is a contribution and must be cumulated\nwith other contributions to determine if an individual or entity\nhas qualified as a major donor committee.\n\n                         ANALYSIS\n\n    Sections 82015 and 82025 include the term \"forgiveness of a\nloan\" when defining the terms \"contribution\" and \"expenditure,\"\nrespectively. In addition, Regulation 18216 defines the term\n\"enforceable promise to make a payment\" as used in Sections 82015\nand 82025 to include loan forgiveness. (2 California Code of\nRegulations Section 18216(b)(1).) Therefore, a loan forgiveness\nmust be cumulated with other contributions made during a calendar\nyear for purposes of determining if an individual or entity has\nqualified as a major donor.\n\n    This memorandum supersedes the Pessner advice letter, No.\nA-79-024, the Meier advice letter, No. A-84-028, and File Memo No.\nM-81-158.",
     "full_text_markdown": null
   },
   "parsed": {
@@ -75,7 +76,7 @@
   "embedding": {
     "qa_text": "QUESTION: Is a loan forgiveness counted for purposes of determining if a \nperson qualifies as a major donor committee under section 82013(c) \nof the Act? \nANSWER \nA loan forgiveness is a contribution and must be cumulated \nwith other contributions to determine if an individual or entity \nhas qualified as a major donor committee •",
     "qa_source": "extracted",
-    "first_500_words": "• TO: FROM: MEMORANDUM Advice File, sections 82013, 82015, 82025, 18216 Carla Wardlow ~ DATE: April 27, 1988 Technical Assistance & Analysis Division SUBJECT: Loan Forgiveness and Major Donor Qualification File No. M-88-160 QUESTION Is a loan forgiveness counted for purposes of determining if a person qualifies as a major donor committee under section 82013(c) of the Act? ANSWER A loan forgiveness is a contribution and must be cumulated with other contributions to determine if an individual or entity has qualified as a major donor committee • ANALYSIS sections 82015 and 82025 include the term \"forgiveness of a loan\" when defining the terms \"contribution\" and \"expenditure,\" respectively. In addition, Regulation 18216 defines the term \"enforceable promise to make a payment\" as used in sections 82015 and 82025 to include loan forgiveness. (2 California Code of Regulations Section 18216(b) (1).) Therefore, a loan forgiveness must be cumulated with other contributions made during a calendar year for purposes of determining if an individual or entity has qualified as a major donor. This memorandum supersedes the Pessner advice letter, No. A-79-024, the Meier advice letter, No. A-84-028, and File Memo No. M-81-158.",
+    "first_500_words": "MEMORANDUM TO: Advice File, Sections DATE: April 27, 1988 82013, 82015, 82025, 18216 FROM: Carla Wardlow CW Technical Assistance & Analysis Division SUBJECT: Loan Forgiveness and Major Donor Qualification File No. M-88-160 QUESTION Is a loan forgiveness counted for purposes of determining if a person qualifies as a major donor committee under Section 82013(c) of the Act? ANSWER A loan forgiveness is a contribution and must be cumulated with other contributions to determine if an individual or entity has qualified as a major donor committee. ANALYSIS Sections 82015 and 82025 include the term \"forgiveness of a loan\" when defining the terms \"contribution\" and \"expenditure,\" respectively. In addition, Regulation 18216 defines the term \"enforceable promise to make a payment\" as used in Sections 82015 and 82025 to include loan forgiveness. (2 California Code of Regulations Section 18216(b)(1).) Therefore, a loan forgiveness must be cumulated with other contributions made during a calendar year for purposes of determining if an individual or entity has qualified as a major donor. This memorandum supersedes the Pessner advice letter, No. A-79-024, the Meier advice letter, No. A-84-028, and File Memo No. M-81-158.",
     "summary": null
   }
 }

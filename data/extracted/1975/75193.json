@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1975&tagCount=1"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:37:22.600877Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-24T15:54:20.929061Z",
     "page_count": 1,
-    "word_count": 163,
-    "char_count": 1081,
-    "quality_score": 0.7175,
+    "word_count": 161,
+    "char_count": 1326,
+    "quality_score": 0.9113292677752683,
     "olmocr_cost": null,
-    "native_word_count": 163
+    "native_word_count": 163,
+    "haiku_cost": 0.002392
   },
   "content": {
-    "full_text": "/,6.TE OF CALIFORNIA \nEDMUND G. BROWN JR., Gowmo \nFAIR POLITICAL PRACTICES COMMISSION \n5 \"L\" Street \nramento 95814 \nFebruary 10, 1975 \nMr. Kenneth S. Washington \nKenneth Washington for Senate \n2352 West Washington Boulevard \nLos Angeles, California \n90018 \nDear Mr. Washington: \nThank you for your letter to the Fair Political \nPractices Commission dated January 23, 1975. \n7520 \nAlthough your letter invokes Government Code Section \n83115, that section provides that complaints must be \"sworn.\" \nFurthermore, the events you describe apparently took place \nalmost two months before the effective date of the Political \nReform Act of 1975. \nNo events occurring before the effective \ndate could constitute a violation of the Act. \nAs to whether the events you describe constitute a \nviolation of the spirit of Proposition 9, this is a matter \nfor public debate not within the jurisdiction of the Commis­\nsion. \nAs Mr. Greene rs opponent, you are certainly entitled \nto make such allegations before the people during the campaign. \nDHL:nh \nSincerely, \nDaniel H. Lowenstein \nChairman \n",
+    "full_text": "STATE OF CALIFORNIA                                EDMUND G. BROWN JR., Governor\n\nFAIR POLITICAL PRACTICES COMMISSION\n555 \"L\" Street\nSacramento 95814                                                          7520\n\n                                    February 10, 1975\n\n\nMr. Kenneth S. Washington\nKenneth Washington for Senate\n2352 West Washington Boulevard\nLos Angeles, California  90018\n\nDear Mr. Washington:\n\n     Thank you for your letter to the Fair Political\nPractices Commission dated January 23, 1975.\n\n     Although your letter invokes Government Code Section\n83115, that section provides that complaints must be \"sworn.\"\nFurthermore, the events you describe apparently took place\nalmost two months before the effective date of the Political\nReform Act of 1975.  No events occurring before the effective\ndate could constitute a violation of the Act.\n\n     As to whether the events you describe constitute a\nviolation of the spirit of Proposition 9, this is a matter\nfor public debate not within the jurisdiction of the Commission. As Mr. Greene's opponent, you are certainly entitled\nto make such allegations before the people during the campaign.\n\n                                        Sincerely,\n\n\n                                        Daniel H. Lowenstein\n                                        Chairman\n\nDHL:mh",
     "full_text_markdown": null
   },
   "parsed": {
@@ -69,7 +70,7 @@
   "embedding": {
     "qa_text": "QUESTION: Whether events occurring before the effective date of the Political Reform Act of 1975 could constitute violations under Government Code Section 83115, and whether such events violate the spirit of Proposition 9.\n\nCONCLUSION: No events occurring before the effective date could constitute a violation of the Act. As to whether the events you describe constitute a violation of the spirit of Proposition 9, this is a matter for public debate not within the jurisdiction of the Commission.",
     "qa_source": "mixed",
-    "first_500_words": "/,6.TE OF CALIFORNIA EDMUND G. BROWN JR., Gowmo FAIR POLITICAL PRACTICES COMMISSION 5 \"L\" Street ramento 95814 February 10, 1975 Mr. Kenneth S. Washington Kenneth Washington for Senate 2352 West Washington Boulevard Los Angeles, California 90018 Dear Mr. Washington: Thank you for your letter to the Fair Political Practices Commission dated January 23, 1975. 7520 Although your letter invokes Government Code Section 83115, that section provides that complaints must be \"sworn.\" Furthermore, the events you describe apparently took place almost two months before the effective date of the Political Reform Act of 1975. No events occurring before the effective date could constitute a violation of the Act. As to whether the events you describe constitute a violation of the spirit of Proposition 9, this is a matter for public debate not within the jurisdiction of the Commis­ sion. As Mr. Greene rs opponent, you are certainly entitled to make such allegations before the people during the campaign. DHL:nh Sincerely, Daniel H. Lowenstein Chairman",
+    "first_500_words": "STATE OF CALIFORNIA EDMUND G. BROWN JR., Governor FAIR POLITICAL PRACTICES COMMISSION 555 \"L\" Street Sacramento 95814 7520 February 10, 1975 Mr. Kenneth S. Washington Kenneth Washington for Senate 2352 West Washington Boulevard Los Angeles, California 90018 Dear Mr. Washington: Thank you for your letter to the Fair Political Practices Commission dated January 23, 1975. Although your letter invokes Government Code Section 83115, that section provides that complaints must be \"sworn.\" Furthermore, the events you describe apparently took place almost two months before the effective date of the Political Reform Act of 1975. No events occurring before the effective date could constitute a violation of the Act. As to whether the events you describe constitute a violation of the spirit of Proposition 9, this is a matter for public debate not within the jurisdiction of the Commission. As Mr. Greene's opponent, you are certainly entitled to make such allegations before the people during the campaign. Sincerely, Daniel H. Lowenstein Chairman DHL:mh",
     "summary": "The FPPC responds to Kenneth Washington's inquiry regarding potential violations by his opponent, explaining that events predating the Political Reform Act's effective date cannot constitute violations and that questions about adherence to Proposition 9's spirit are matters of public debate outside the Commission's jurisdiction."
   }
 }

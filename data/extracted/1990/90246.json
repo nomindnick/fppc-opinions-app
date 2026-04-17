@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1990&tagCount=1&page=41"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:35:34.663736Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-19T20:57:26.271017Z",
     "page_count": 1,
-    "word_count": 185,
-    "char_count": 1053,
-    "quality_score": 0.635,
+    "word_count": 186,
+    "char_count": 1082,
+    "quality_score": 0.881827573901315,
     "olmocr_cost": null,
-    "native_word_count": 185
+    "native_word_count": 185,
+    "haiku_cost": 0.0024592
   },
   "content": {
-    "full_text": "L.G. Stathant\nMarch 25, L99O\nFPPC\nP.O. Box 807\nSacramento, CA 95804\nAttention: Margaret Ellison, Legal Counsel\nDear Ms. Elison\nI wish a legal opinion on the following facts:\nA non-profit corporation is to be forrred. It will be a 5013c for\neducational purposes. It will not be controlled by a candidate or office\nholder. It will not be run on a day to day basis by a candidate or office\nholder. It's name will not incorporate the name of a candidate or office\nholder. It will not lobby. It will not make contributions to candidates or\ncommittees for initiative purposes. Their will be 3 directors; two public\nmembers and the spouse of a candidate/office holder who will also be an\nemployee of the corporation.\nThe questions are this?\n1. \nCan an office holder solict money on behalf of the corporation?\n2. \nCan an office holder donate his services as an announcer on\nbehalf of the corporation?\nI would appreciate a reply within 10 days if you possibly could.\nThank you in advance for your assistance.\nL.G. Statham\n1008 10th st. #514\nSacramento, CA 95814\n",
+    "full_text": "L.G. Statham\n\nMarch 25, 1990\n\nFPPC\nP.O. Box 807\nSacramento, CA 95804\n\nAttention: Margaret Ellison, Legal Counsel\n\nDear Ms. Elison\n\nI wish a legal opinion on the following facts:\n\nA non-profit corporation is to be formed. It will be a 501(3c for educational purposes. It will not be controlled by a candidate or office holder. It will not be run on a day to day basis by a candidate or office holder. It's name will not incorporate the name of a candidate or office holder. It will not lobby. It will not make contributions to candidates or committees for initiative purposes. Their will be 3 directors; two public members and the sponse of a candidate/office holder who will also be an employee of the corporation.\n\nThe questions are this?\n\n1.     Can an office holder solicit money on behalf of the corporation?\n\n2.     Can an office holder donate his services as an announcer on behalf of the corporation?\n\nI would appreciate a reply within 10 days if you possibly could.\n\nThank you in advance for your assistance.\n\nSincerely,\n\nL.G. Statham\n1008 10th St. #514\nSacramento, CA 95814",
     "full_text_markdown": null
   },
   "parsed": {
@@ -69,7 +70,7 @@
   "embedding": {
     "qa_text": "QUESTION: A non-profit corporation is to be formed. It will be a 501(c)(3) for educational purposes. It will not be controlled by a candidate or office holder. It will not be run on a day to day basis by a candidate or office holder. It's name will not incorporate the name of a candidate or office holder. It will not lobby. It will not make contributions to candidates or committees for initiative purposes. Their will be 3 directors; two public members and the spouse of a candidate/office holder who will also be an employee of the corporation. The questions are this: 1. Can an office holder solicit money on behalf of the corporation? 2. Can an office holder donate his services as an announcer on behalf of the corporation?",
     "qa_source": "mixed",
-    "first_500_words": "L.G. Stathant March 25, L99O FPPC P.O. Box 807 Sacramento, CA 95804 Attention: Margaret Ellison, Legal Counsel Dear Ms. Elison I wish a legal opinion on the following facts: A non-profit corporation is to be forrred. It will be a 5013c for educational purposes. It will not be controlled by a candidate or office holder. It will not be run on a day to day basis by a candidate or office holder. It's name will not incorporate the name of a candidate or office holder. It will not lobby. It will not make contributions to candidates or committees for initiative purposes. Their will be 3 directors; two public members and the spouse of a candidate/office holder who will also be an employee of the corporation. The questions are this? 1. Can an office holder solict money on behalf of the corporation? 2. Can an office holder donate his services as an announcer on behalf of the corporation? I would appreciate a reply within 10 days if you possibly could. Thank you in advance for your assistance. L.G. Statham 1008 10th st. #514 Sacramento, CA 95814",
+    "first_500_words": "L.G. Statham March 25, 1990 FPPC P.O. Box 807 Sacramento, CA 95804 Attention: Margaret Ellison, Legal Counsel Dear Ms. Elison I wish a legal opinion on the following facts: A non-profit corporation is to be formed. It will be a 501(3c for educational purposes. It will not be controlled by a candidate or office holder. It will not be run on a day to day basis by a candidate or office holder. It's name will not incorporate the name of a candidate or office holder. It will not lobby. It will not make contributions to candidates or committees for initiative purposes. Their will be 3 directors; two public members and the sponse of a candidate/office holder who will also be an employee of the corporation. The questions are this? 1. Can an office holder solicit money on behalf of the corporation? 2. Can an office holder donate his services as an announcer on behalf of the corporation? I would appreciate a reply within 10 days if you possibly could. Thank you in advance for your assistance. Sincerely, L.G. Statham 1008 10th St. #514 Sacramento, CA 95814",
     "summary": "Incoming request letter from L.G. Statham to FPPC seeking legal opinions regarding two questions about whether office holders can solicit money for or donate services to a proposed 501(c)(3) nonprofit educational corporation."
   }
 }

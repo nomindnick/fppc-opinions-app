@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1985&tagCount=1&page=10"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:36:39.813875Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-24T19:04:41.668595Z",
     "page_count": 1,
-    "word_count": 145,
-    "char_count": 883,
-    "quality_score": 0.5975,
+    "word_count": 151,
+    "char_count": 1123,
+    "quality_score": 0.910132142857143,
     "olmocr_cost": null,
-    "native_word_count": 145
+    "native_word_count": 145,
+    "haiku_cost": 0.0021999999999999997
   },
   "content": {
-    "full_text": "State of California \nMemorandum \nTo \nBarbara Milman \nPate \n: \nJ u n e 1 2, 1 985 \nFair Political Practices Commission \nSubject: \nFrom \nGovernor' 5 Office \nThis will confirm your advice of June 11, 1985 regarding the \nnecessity of reporting air travel provided to the Governor in \nconnection with his speech at the Robert Louis Stevenson School. \nYou \nadvised that where a third party provides air travel to a public \nofficial in connection with a speech before an academic, charitable, \nor educational institution, the public official is not required to \nreport the value of the air service provided. \nTherefore, the Governor is not obliged to report the value of \nair travel provided by a corporate donor to enable the Governor to \ntravel to the above school to deliver a commencement address. \nThank you for your assistance in this matter. \nVance W. Raye \nLegal Affairs Secretary \n",
+    "full_text": "State of California\n\nM e m o r a n d u m\n\nTo : Barbara Milman\n     Fair Political Practices Commission\n\n                                                Date : June 12, 1985\n                                                Subject:\n\n\nFrom : Governor's Office\n\n\n     This will confirm your advice of June 11, 1985 regarding the\nnecessity of reporting air travel provided to the Governor in\nconnection with his speech at the Robert Louis Stevenson School. You\nadvised that where a third party provides air travel to a public\nofficial in connection with a speech before an academic, charitable,\nor educational institution, the public official is not required to\nreport the value of the air service provided.\n\n     Therefore, the Governor is not obliged to report the value of\nair travel provided by a corporate donor to enable the Governor to\ntravel to the above school to deliver a commencement address.\n\n     Thank you for your assistance in this matter.\n\n\n                                        [signature]\n                                        Vance W. Raye\n                                        Legal Affairs Secretary",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "QUESTION: Whether the Governor must report the value of air travel provided by a corporate donor for travel to deliver a commencement address at an educational institution.\n\nCONCLUSION: The Governor is not required to report the value of air travel provided by a third party for speeches at academic, charitable, or educational institutions.",
     "qa_source": "synthetic",
-    "first_500_words": "State of California Memorandum To Barbara Milman Pate : J u n e 1 2, 1 985 Fair Political Practices Commission Subject: From Governor' 5 Office This will confirm your advice of June 11, 1985 regarding the necessity of reporting air travel provided to the Governor in connection with his speech at the Robert Louis Stevenson School. You advised that where a third party provides air travel to a public official in connection with a speech before an academic, charitable, or educational institution, the public official is not required to report the value of the air service provided. Therefore, the Governor is not obliged to report the value of air travel provided by a corporate donor to enable the Governor to travel to the above school to deliver a commencement address. Thank you for your assistance in this matter. Vance W. Raye Legal Affairs Secretary",
+    "first_500_words": "State of California M e m o r a n d u m To : Barbara Milman Fair Political Practices Commission Date : June 12, 1985 Subject: From : Governor's Office This will confirm your advice of June 11, 1985 regarding the necessity of reporting air travel provided to the Governor in connection with his speech at the Robert Louis Stevenson School. You advised that where a third party provides air travel to a public official in connection with a speech before an academic, charitable, or educational institution, the public official is not required to report the value of the air service provided. Therefore, the Governor is not obliged to report the value of air travel provided by a corporate donor to enable the Governor to travel to the above school to deliver a commencement address. Thank you for your assistance in this matter. [signature] Vance W. Raye Legal Affairs Secretary",
     "summary": "This is a memorandum from the Governor's Office confirming FPPC advice that the Governor need not report the value of corporate-provided air travel for a commencement speech at an educational institution."
   }
 }

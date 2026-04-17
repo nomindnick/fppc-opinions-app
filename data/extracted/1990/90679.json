@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1990&tagCount=1&page=7"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:35:31.692135Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-20T19:47:50.660374Z",
     "page_count": 1,
-    "word_count": 199,
-    "char_count": 1171,
-    "quality_score": 0.7175,
+    "word_count": 208,
+    "char_count": 1412,
+    "quality_score": 0.9621528844495163,
     "olmocr_cost": null,
-    "native_word_count": 199
+    "native_word_count": 199,
+    "haiku_cost": 0.0026792000000000005
   },
   "content": {
-    "full_text": "TORRA\nCITY\n'\\\nEt)\nOFFICE OF\nT1IE CITY ATTORNEY\nKENNE'TH L, NELSON\nOctober 26, L99O\nJohn Rothman\nFair Political Practices commission\n428 ttJtt street \nsuite #600\nsacramento, california 95a14\nDear John:\nThis letter is confirming our telephone conversation on\nthe question whether a city Council nember uay use carnpaign\nfunds to purchase a ticket to another candidate's campaign\ndinner.\nwhen the assurnptions was nade that the candidate is\nrunning for other than a legislative office there lras neither\na restriction on the purchase nor on the amount of the\npurchase. This renains true so long as the purchase is not\nfor personal use. A council menber may use carnpaign funds to\npurchase such a ticket so long as a political purpose of the\ncouncil member is served.\nIn the event it is a legislative candidate the sane\nanalysis would apply so long as the cost of the ticket is\nless than one thousand dollars ($1,000.00).\nPlease advise me if this infornation is incorrect. If\nwe do not hear fron you lre will provide this information to\nour city Council .\nThank you again for your assistance.\nnv-4 : 89\nDeputy city Attorney\n3031 Torrance Boul*\"rd ' Torru\"\nElizabeth(6. Clark\n",
+    "full_text": "CITY OF\nTORRANCE 04 PM '90\n\nOFFICE OF\nTHE CITY ATTORNEY\nKENNETH L. NELSON\n\nOctober 26, 1990\n\nJohn Rothman\nFair Political Practices Commission\n428 \"J\" Street    Suite #600\nSacramento, California  95814\n\nDear John:\n\n     This letter is confirming our telephone conversation on\nthe question whether a City Council member may use campaign\nfunds to purchase a ticket to another candidate's campaign\ndinner.\n\n     When the assumptions was made that the candidate is\nrunning for other than a legislative office there was neither\na restriction on the purchase nor on the amount of the\npurchase.  This remains true so long as the purchase is not\nfor personal use.  A council member may use campaign funds to\npurchase such a ticket so long as a political purpose of the\ncouncil member is served.\n\n     In the event it is a legislative candidate the same\nanalysis would apply so long as the cost of the ticket is\nless than one thousand dollars ($1,000.00).\n\n     Please advise me if this information is incorrect.  If\nwe do not hear from you we will provide this information to\nour City Council.\n\n     Thank you again for your assistance.\n\n\n                                   _______________________\n                                   Elizabeth C. Clark\n                                   Deputy City Attorney\n\nmv-4:89\n\n\n3031 Torrance Boulevard • Torrance, California 90503 • Telephone 213/618-5810 • Facsimile 213/618-5813",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "QUESTION: Whether a city council member may use campaign funds to purchase a ticket to another candidate's campaign dinner, and if so, what restrictions apply based on the candidate's office.\n\nCONCLUSION: A council member may use campaign funds to purchase a ticket to another candidate's campaign dinner if a political purpose is served and it is not for personal use. For non-legislative candidates, there is no limit on the purchase amount. For legislative candidates, the ticket cost must be less than $1,000.",
     "qa_source": "synthetic",
-    "first_500_words": "TORRA CITY '\\ Et) OFFICE OF T1IE CITY ATTORNEY KENNE'TH L, NELSON October 26, L99O John Rothman Fair Political Practices commission 428 ttJtt street suite #600 sacramento, california 95a14 Dear John: This letter is confirming our telephone conversation on the question whether a city Council nember uay use carnpaign funds to purchase a ticket to another candidate's campaign dinner. when the assurnptions was nade that the candidate is running for other than a legislative office there lras neither a restriction on the purchase nor on the amount of the purchase. This renains true so long as the purchase is not for personal use. A council menber may use carnpaign funds to purchase such a ticket so long as a political purpose of the council member is served. In the event it is a legislative candidate the sane analysis would apply so long as the cost of the ticket is less than one thousand dollars ($1,000.00). Please advise me if this infornation is incorrect. If we do not hear fron you lre will provide this information to our city Council . Thank you again for your assistance. nv-4 : 89 Deputy city Attorney 3031 Torrance Boul*\"rd ' Torru\" Elizabeth(6. Clark",
+    "first_500_words": "CITY OF TORRANCE 04 PM '90 OFFICE OF THE CITY ATTORNEY KENNETH L. NELSON October 26, 1990 John Rothman Fair Political Practices Commission 428 \"J\" Street Suite #600 Sacramento, California 95814 Dear John: This letter is confirming our telephone conversation on the question whether a City Council member may use campaign funds to purchase a ticket to another candidate's campaign dinner. When the assumptions was made that the candidate is running for other than a legislative office there was neither a restriction on the purchase nor on the amount of the purchase. This remains true so long as the purchase is not for personal use. A council member may use campaign funds to purchase such a ticket so long as a political purpose of the council member is served. In the event it is a legislative candidate the same analysis would apply so long as the cost of the ticket is less than one thousand dollars ($1,000.00). Please advise me if this information is incorrect. If we do not hear from you we will provide this information to our City Council. Thank you again for your assistance. _______________________ Elizabeth C. Clark Deputy City Attorney mv-4:89 3031 Torrance Boulevard • Torrance, California 90503 • Telephone 213/618-5810 • Facsimile 213/618-5813",
     "summary": "City Attorney of Torrance confirms with FPPC that a city council member may use campaign funds to purchase tickets to another candidate's campaign dinner, subject to restrictions based on the candidate's office and the absence of personal use."
   }
 }

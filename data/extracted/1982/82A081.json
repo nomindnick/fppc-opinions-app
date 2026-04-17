@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1982&tagCount=1&page=13"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:36:56.828736Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-23T17:48:05.880200Z",
     "page_count": 1,
     "word_count": 154,
-    "char_count": 1002,
-    "quality_score": 0.7175,
+    "char_count": 1046,
+    "quality_score": 0.8937662128194387,
     "olmocr_cost": null,
-    "native_word_count": 154
+    "native_word_count": 154,
+    "haiku_cost": 0.00232
   },
   "content": {
-    "full_text": "State of California \nMemorandum \nTo \nFile \nDate \nMarch 30, 1982 \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nRobert M. Stern \nSubject: \nInterpretation of Section 82030(b) (2) \nThe League of California Cities has asked whether \nor not the following expenditures must be reported as \nincome by their officials who sit on the Board: \nThirty-two elected city officials serve as Board \nMembers for the League. \nThey meet three to four times \na year and the League pays their expenses: \ntravel, hotel \naccommodations, etc .. \nReimbursement of these expenditures \ntotals more than $250. \nI have advised the League that these reimbursements \nare not reportable under the theory that it is \"reimbursement \nfor expenses,or per diem received from a local government \nagency.\" \nSection 82030(b) (2). \nWe are using this section \nbecause the League is an organization which is funded \nby its members, \nthe cities. \nThus, the funds it \nreimburses the elected city officials are funds from many \nlocal cities. \nRMS:cs \n",
+    "full_text": "State of California\n\nMemorandum\n\nTo : File                                    Date : March 30, 1982\n\n\nFrom : FAIR POLITICAL PRACTICES COMMISSION\n        Robert M. Stern\n\nSubject: Interpretation of Section 82030(b)(2)\n\n\n        The League of California Cities has asked whether\nor not the following expenditures must be reported as\nincome by their officials who sit on the Board:\n\n        Thirty-two elected city officials serve as Board\nMembers for the League. They meet three to four times\na year and the League pays their expenses: travel, hotel\naccommodations, etc.. Reimbursement of these expenditures\ntotals more than $250.\n\n        I have advised the League that these reimbursements\nare not reportable under the theory that it is \"reimbursement\nfor expenses,or per diem received from a local government\nagency.\" Section 82030(b)(2). We are using this section\nbecause the League is an organization which is funded\nby its members, the cities. Thus, the funds it\nreimburses the elected city officials are funds from many\nlocal cities.\n\nRMS:cs",
     "full_text_markdown": null
   },
   "parsed": {
@@ -67,7 +68,7 @@
   "embedding": {
     "qa_text": "QUESTION: Whether expense reimbursements (travel, hotel accommodations, etc.) paid by the League of California Cities to its 32 elected city official Board Members totaling more than $250 must be reported as income.\n\nCONCLUSION: The reimbursements are not reportable under Section 82030(b)(2) because they constitute non-reportable reimbursement for expenses received from a local government-funded organization, as the League is funded by its member cities.",
     "qa_source": "synthetic",
-    "first_500_words": "State of California Memorandum To File Date March 30, 1982 From FAIR POLITICAL PRACTICES COMMISSION Robert M. Stern Subject: Interpretation of Section 82030(b) (2) The League of California Cities has asked whether or not the following expenditures must be reported as income by their officials who sit on the Board: Thirty-two elected city officials serve as Board Members for the League. They meet three to four times a year and the League pays their expenses: travel, hotel accommodations, etc .. Reimbursement of these expenditures totals more than $250. I have advised the League that these reimbursements are not reportable under the theory that it is \"reimbursement for expenses,or per diem received from a local government agency.\" Section 82030(b) (2). We are using this section because the League is an organization which is funded by its members, the cities. Thus, the funds it reimburses the elected city officials are funds from many local cities. RMS:cs",
+    "first_500_words": "State of California Memorandum To : File Date : March 30, 1982 From : FAIR POLITICAL PRACTICES COMMISSION Robert M. Stern Subject: Interpretation of Section 82030(b)(2) The League of California Cities has asked whether or not the following expenditures must be reported as income by their officials who sit on the Board: Thirty-two elected city officials serve as Board Members for the League. They meet three to four times a year and the League pays their expenses: travel, hotel accommodations, etc.. Reimbursement of these expenditures totals more than $250. I have advised the League that these reimbursements are not reportable under the theory that it is \"reimbursement for expenses,or per diem received from a local government agency.\" Section 82030(b)(2). We are using this section because the League is an organization which is funded by its members, the cities. Thus, the funds it reimburses the elected city officials are funds from many local cities. RMS:cs",
     "summary": "FPPC memorandum advising the League of California Cities that expense reimbursements to elected city officials serving as Board Members do not need to be reported as income under Section 82030(b)(2)."
   }
 }

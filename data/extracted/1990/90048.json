@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1990&tagCount=1&page=65"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:35:37.478749Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-19T21:24:47.127520Z",
     "page_count": 1,
-    "word_count": 201,
-    "char_count": 1187,
-    "quality_score": 0.6325000000000001,
+    "word_count": 183,
+    "char_count": 1126,
+    "quality_score": 0.9107416584009098,
     "olmocr_cost": null,
-    "native_word_count": 201
+    "native_word_count": 201,
+    "haiku_cost": 0.0025112
   },
   "content": {
-    "full_text": "CITY OF CARSON\nJns Iti\nr E1 t', i1\nfi-i\"\";\ng cr &it '30\nJanuary 11, 1990\nKathryn Donovan\nLegal Division Fair Political Practice Commission\n428 J Street, #800\nSacramento, CA 95814\nDear Ms. Donovan:\nI am writing you'in regards to the city of Carson's concern over how,\nor if, Proposition 78 would affect a cable presentation involving elected\nofficials.\nOur city plans to do a state-of-the-c'ity type of program involving our\ncity's elected officials addressing local concerns for the benefit of\ncommun'ity residents. However, four of the elected official s are up\nfor reelection in April. The city runs a similar program wjth city\nstaff explaining what their departments do and how they affect citizens.\nI would appreciate any advice or information that you could provide\nthe city for this type of situation. Please feel free to contact me\nat 213-830-7600, ext. 315 if you need any further information, or have\nany questions.\nThank you for your attention to this manner and I look forward to hearing\nfrom you.\nRegards,\nE )4.+!-;\nb,r-/ I f,'/-\n( Eva Gatlfns ll\nPubl ic InformatiotV Manager\nEG: EM: sb\n701 EAST CARSON STREET, P.O. BOX 6234, CARSON, CALIFORNIA 90749 . \nPHONE (213) 830.7600\n",
+    "full_text": "FPPC\nJAN 15 8 CO AH '90\n\nJanuary 11, 1990\n\n\nKathryn Donovan\nLegal Division Fair Political Practice Commission\n428 J Street, #800\nSacramento, CA 95814\n\nDear Ms. Donovan:\n\nI am writing you in regards to the city of Carson's concern over how, or if, Proposition 78 would affect a cable presentation involving elected officials.\n\nOur city plans to do a state-of-the-city type program involving our city's elected officials addressing local concerns for the benefit of community residents. However, four of the elected officials are up for reelection in April. The city runs a similar program with city staff explaining what their departments do and how they affect citizens.\n\nI would appreciate any advice or information that you could provide the city for this type of situation. Please feel free to contact me at 213-830-7600, ext. 315 if you need any further information, or have any questions.\n\nThank you for your attention to this manner and I look forward to hearing from you.\n\nRegards,\n\nEva Gatling\nPublic Information Manager\n\nEG:EM:sb\n\n701 EAST CARSON STREET, P.O. BOX 6234, CARSON, CALIFORNIA 90749 • PHONE (213) 830-7600",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "QUESTION: How, or if, would Proposition 78 affect a cable presentation involving elected officials who are up for reelection in April, where the city plans to do a state-of-the-city type program with elected officials addressing local concerns?",
     "qa_source": "mixed",
-    "first_500_words": "CITY OF CARSON Jns Iti r E1 t', i1 fi-i\"\"; g cr &it '30 January 11, 1990 Kathryn Donovan Legal Division Fair Political Practice Commission 428 J Street, #800 Sacramento, CA 95814 Dear Ms. Donovan: I am writing you'in regards to the city of Carson's concern over how, or if, Proposition 78 would affect a cable presentation involving elected officials. Our city plans to do a state-of-the-c'ity type of program involving our city's elected officials addressing local concerns for the benefit of commun'ity residents. However, four of the elected official s are up for reelection in April. The city runs a similar program wjth city staff explaining what their departments do and how they affect citizens. I would appreciate any advice or information that you could provide the city for this type of situation. Please feel free to contact me at 213-830-7600, ext. 315 if you need any further information, or have any questions. Thank you for your attention to this manner and I look forward to hearing from you. Regards, E )4.+!-; b,r-/ I f,'/- ( Eva Gatlfns ll Publ ic InformatiotV Manager EG: EM: sb 701 EAST CARSON STREET, P.O. BOX 6234, CARSON, CALIFORNIA 90749 . PHONE (213) 830.7600",
+    "first_500_words": "FPPC JAN 15 8 CO AH '90 January 11, 1990 Kathryn Donovan Legal Division Fair Political Practice Commission 428 J Street, #800 Sacramento, CA 95814 Dear Ms. Donovan: I am writing you in regards to the city of Carson's concern over how, or if, Proposition 78 would affect a cable presentation involving elected officials. Our city plans to do a state-of-the-city type program involving our city's elected officials addressing local concerns for the benefit of community residents. However, four of the elected officials are up for reelection in April. The city runs a similar program with city staff explaining what their departments do and how they affect citizens. I would appreciate any advice or information that you could provide the city for this type of situation. Please feel free to contact me at 213-830-7600, ext. 315 if you need any further information, or have any questions. Thank you for your attention to this manner and I look forward to hearing from you. Regards, Eva Gatling Public Information Manager EG:EM:sb 701 EAST CARSON STREET, P.O. BOX 6234, CARSON, CALIFORNIA 90749 • PHONE (213) 830-7600",
     "summary": "City of Carson inquires whether Proposition 78 would impact a planned cable television program featuring elected officials addressing community concerns, noting that four of the participating officials are candidates for reelection in April."
   }
 }

@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1985&tagCount=1"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:36:36.437131Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-24T15:30:01.579019Z",
     "page_count": 1,
     "word_count": 180,
-    "char_count": 1093,
-    "quality_score": 0.7175,
+    "char_count": 1069,
+    "quality_score": 0.9108912657782111,
     "olmocr_cost": null,
-    "native_word_count": 180
+    "native_word_count": 180,
+    "haiku_cost": 0.002452
   },
   "content": {
-    "full_text": "California \nFair Political \nPractices Commission \nSupreme Court of California \nLaurence P. Gill \nClerk of the Supreme Court \n4250 State Building \nSan Francisco, CA 94102 \nDear Larry: \nOctober 29, 1985 \nThis letter will confirm our telephone conversation of \ntoday about the requirement for Justice Kaus to file a \nLeaving Office Statement of Economic Interests. \nYou \nindicated that Justice Kaus resigned as a full time member \nof the Court approximately a week ago and immediately began \nto serve as a pro tern judge, which he \\vill continue to do \nuntil sometime in December. \nI advised you that since there \nwas no break in service, Justice Kaus is not required to file \na Leaving Office Statement now, but will be required to file \nwithin 30 days of the date that he leaves the position of \npro tern judge (Gov. Code Section 87205 and FPPC Regulation \n18724). \nIf you have any additional questions, please feel free \nto call me at (916) 322-5662. \nEnclosure \nSincerely, \nAlice Hughes \nDocuments Examiner \n428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804~0807 • (916) 322~5660 \n",
+    "full_text": "California\nFair Political\nPractices Commission\n\nOctober 29, 1985\n\n\nSupreme Court of California\nLaurence P. Gill\nClerk of the Supreme Court\n4250 State Building\nSan Francisco, CA 94102\n\nDear Larry:\n\nThis letter will confirm our telephone conversation of\ntoday about the requirement for Justice Kaus to file a\nLeaving Office Statement of Economic Interests. You\nindicated that Justice Kaus resigned as a full time member\nof the Court approximately a week ago and immediately began\nto serve as a pro tem judge, which he will continue to do\nuntil sometime in December. I advised you that since there\nwas no break in service, Justice Kaus is not required to file\na Leaving Office Statement now, but will be required to file\nwithin 30 days of the date that he leaves the position of\npro tem judge (Gov. Code Section 87205 and FPPC Regulation\n18724).\n\nIf you have any additional questions, please feel free\nto call me at (916) 322-5662.\n\nSincerely,\n\nAlice Hughes\nDocuments Examiner\n\nEnclosure\n\n\n428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804-0807 • (916) 322-5660",
     "full_text_markdown": null
   },
   "parsed": {
@@ -69,7 +70,7 @@
   "embedding": {
     "qa_text": "QUESTION: Whether Justice Kaus must file a Leaving Office Statement of Economic Interests upon resigning from his position as a full-time Supreme Court member to become a pro tem judge.\n\nCONCLUSION: Since there was no break in service, Justice Kaus is not required to file a Leaving Office Statement now, but will be required to file within 30 days of the date that he leaves the position of pro tern judge (Gov. Code Section 87205 and FPPC Regulation 18724).",
     "qa_source": "mixed",
-    "first_500_words": "California Fair Political Practices Commission Supreme Court of California Laurence P. Gill Clerk of the Supreme Court 4250 State Building San Francisco, CA 94102 Dear Larry: October 29, 1985 This letter will confirm our telephone conversation of today about the requirement for Justice Kaus to file a Leaving Office Statement of Economic Interests. You indicated that Justice Kaus resigned as a full time member of the Court approximately a week ago and immediately began to serve as a pro tern judge, which he \\vill continue to do until sometime in December. I advised you that since there was no break in service, Justice Kaus is not required to file a Leaving Office Statement now, but will be required to file within 30 days of the date that he leaves the position of pro tern judge (Gov. Code Section 87205 and FPPC Regulation 18724). If you have any additional questions, please feel free to call me at (916) 322-5662. Enclosure Sincerely, Alice Hughes Documents Examiner 428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804~0807 • (916) 322~5660",
+    "first_500_words": "California Fair Political Practices Commission October 29, 1985 Supreme Court of California Laurence P. Gill Clerk of the Supreme Court 4250 State Building San Francisco, CA 94102 Dear Larry: This letter will confirm our telephone conversation of today about the requirement for Justice Kaus to file a Leaving Office Statement of Economic Interests. You indicated that Justice Kaus resigned as a full time member of the Court approximately a week ago and immediately began to serve as a pro tem judge, which he will continue to do until sometime in December. I advised you that since there was no break in service, Justice Kaus is not required to file a Leaving Office Statement now, but will be required to file within 30 days of the date that he leaves the position of pro tem judge (Gov. Code Section 87205 and FPPC Regulation 18724). If you have any additional questions, please feel free to call me at (916) 322-5662. Sincerely, Alice Hughes Documents Examiner Enclosure 428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804-0807 • (916) 322-5660",
     "summary": "FPPC advises the Supreme Court Clerk that Justice Kaus need not file a Leaving Office Statement upon transitioning from full-time to pro tem judge service, but must file one within 30 days of completely leaving judicial office."
   }
 }

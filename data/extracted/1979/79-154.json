@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=19"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:37:08.033665Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-19T22:55:12.902695Z",
     "page_count": 1,
-    "word_count": 115,
-    "char_count": 680,
-    "quality_score": 0.5975,
+    "word_count": 124,
+    "char_count": 823,
+    "quality_score": 0.834050946089308,
     "olmocr_cost": null,
-    "native_word_count": 115
+    "native_word_count": 115,
+    "haiku_cost": 0.002224
   },
   "content": {
-    "full_text": "File -\n87207(b) \nfrom \nFAIR POLITICAL PRACTICES COMMISSION \nLee Rosenthal \nDate \nApril 17, 1979 \nAt the opinion request meeting of April 16, 1979, we \ndecided that under Section 87207(b) (3) the gross receipts \nof a bank do not include repayments of loans. \nHence, \nif an official owned 20% of the stock in a bank, he would \ndisclose a debtor of the bank only if that debtor paid \n$50,000 in interest during the year (20% of $50,000 = \n$10,000 -\nthe disclosure threshold). \nIf the debtor, in \naddition to paying interest on the loan, had also repaid \nthe loan, the repayment is not included in determining \nwhether the $10,000 gross receipts threshold has been \nreached. \nLR:plh \n",
+    "full_text": "State of California\n\nMemorandum\n\nTo : File - 87207(b)                                Date : April 17, 1979\n\n\n                                                    /71-79-154\n\nFrom : FAIR POLITICAL PRACTICES COMMISSION\n       Lee Rosenthal\n\nSubject:\n\n       At the opinion request meeting of April 16, 1979, we\ndecided that under Section 87207(b)(3) the gross receipts\nof a bank do not include repayments of loans. Hence,\nif an official owned 20% of the stock in a bank, he would\ndisclose a debtor of the bank only if that debtor paid\n$50,000 in interest during the year (20% of $50,000 =\n$10,000 - the disclosure threshold). If the debtor, in\naddition to paying interest on the loan, had also repaid\nthe loan, the repayment is not included in determining\nwhether the $10,000 gross receipts threshold has been\nreached.\n\nLR:plh",
     "full_text_markdown": null
   },
   "parsed": {
@@ -67,7 +68,7 @@
   "embedding": {
     "qa_text": "QUESTION: Whether loan repayments should be included in calculating a bank's gross receipts for purposes of determining disclosure thresholds under Section 87207(b)(3) when a public official owns stock in the bank.\n\nCONCLUSION: Under Section 87207(b)(3) the gross receipts of a bank do not include repayments of loans. Hence, if an official owned 20% of the stock in a bank, he would disclose a debtor of the bank only if that debtor paid $50,000 in interest during the year (20% of $50,000 = $10,000 - the disclosure threshold). If the debtor, in addition to paying interest on the loan, had also repaid the loan, the repayment is not included in determining whether the $10,000 gross receipts threshold has been reached.",
     "qa_source": "mixed",
-    "first_500_words": "File - 87207(b) from FAIR POLITICAL PRACTICES COMMISSION Lee Rosenthal Date April 17, 1979 At the opinion request meeting of April 16, 1979, we decided that under Section 87207(b) (3) the gross receipts of a bank do not include repayments of loans. Hence, if an official owned 20% of the stock in a bank, he would disclose a debtor of the bank only if that debtor paid $50,000 in interest during the year (20% of $50,000 = $10,000 - the disclosure threshold). If the debtor, in addition to paying interest on the loan, had also repaid the loan, the repayment is not included in determining whether the $10,000 gross receipts threshold has been reached. LR:plh",
+    "first_500_words": "State of California Memorandum To : File - 87207(b) Date : April 17, 1979 /71-79-154 From : FAIR POLITICAL PRACTICES COMMISSION Lee Rosenthal Subject: At the opinion request meeting of April 16, 1979, we decided that under Section 87207(b)(3) the gross receipts of a bank do not include repayments of loans. Hence, if an official owned 20% of the stock in a bank, he would disclose a debtor of the bank only if that debtor paid $50,000 in interest during the year (20% of $50,000 = $10,000 - the disclosure threshold). If the debtor, in addition to paying interest on the loan, had also repaid the loan, the repayment is not included in determining whether the $10,000 gross receipts threshold has been reached. LR:plh",
     "summary": "FPPC advises that loan repayments should not be included in calculating gross receipts for a bank's disclosure threshold purposes under Section 87207(b)(3). The analysis demonstrates application of this rule to a hypothetical scenario where a public official owns 20% of a bank."
   }
 }

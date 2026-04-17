@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=11"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:37:06.516406Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-19T21:56:04.545586Z",
     "page_count": 1,
-    "word_count": 102,
-    "char_count": 651,
-    "quality_score": 0.515,
+    "word_count": 105,
+    "char_count": 730,
+    "quality_score": 0.8262048673899941,
     "olmocr_cost": null,
-    "native_word_count": 102
+    "native_word_count": 102,
+    "haiku_cost": 0.001972
   },
   "content": {
-    "full_text": "State of California \nMemorandum \nTo \nFrom \nFile \nFAIR POLITICAL PRACTICES COMMISSION \nBarbara Campbell \nDate \nJan 3, 1979 \nSubject: \nLobbyist Employer Authorization \nIn response to a question from Lance Olson, I advised \nthat it was acceptable for a lobbyist employer to execute \none form authorizing several lobbyists and to file that \nform and copies with the Secretary of State's office as \nlong as there were a sufficient number of copies to meet \nthe filing needs of the Secretary of State's office. \nAlthough authorizations have been filed in this manner \nlast year, the Secretary of State's office questioned \nsuch a filing this year. \nBC:plh \n",
+    "full_text": "State of California\n\nMemorandum\n\nTo     :   File                                                Date    :   Jan 3, 1979\n\n\n\n\nFrom   :   FAIR POLITICAL PRACTICES COMMISSION\n           Barbara Campbell\n\nSubject:   Lobbyist Employer Authorization\n\n     In response to a question from Lance Olson, I advised\nthat it was acceptable for a lobbyist employer to execute\none form authorizing several lobbyists and to file that\nform and copies with the Secretary of State's office as\nlong as there were a sufficient number of copies to meet\nthe filing needs of the Secretary of State's office.\n\n     Although authorizations have been filed in this manner\nlast year, the Secretary of State's office questioned\nsuch a filing this year.\n\nBC:plh",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "QUESTION: Whether a lobbyist employer may execute a single authorization form covering multiple lobbyists and file copies with the Secretary of State's office.\n\nCONCLUSION: It is acceptable for a lobbyist employer to execute one authorization form for multiple lobbyists and file that form with sufficient copies to the Secretary of State's office, though such filings have been questioned by the Secretary of State despite prior acceptance.",
     "qa_source": "synthetic",
-    "first_500_words": "State of California Memorandum To From File FAIR POLITICAL PRACTICES COMMISSION Barbara Campbell Date Jan 3, 1979 Subject: Lobbyist Employer Authorization In response to a question from Lance Olson, I advised that it was acceptable for a lobbyist employer to execute one form authorizing several lobbyists and to file that form and copies with the Secretary of State's office as long as there were a sufficient number of copies to meet the filing needs of the Secretary of State's office. Although authorizations have been filed in this manner last year, the Secretary of State's office questioned such a filing this year. BC:plh",
+    "first_500_words": "State of California Memorandum To : File Date : Jan 3, 1979 From : FAIR POLITICAL PRACTICES COMMISSION Barbara Campbell Subject: Lobbyist Employer Authorization In response to a question from Lance Olson, I advised that it was acceptable for a lobbyist employer to execute one form authorizing several lobbyists and to file that form and copies with the Secretary of State's office as long as there were a sufficient number of copies to meet the filing needs of the Secretary of State's office. Although authorizations have been filed in this manner last year, the Secretary of State's office questioned such a filing this year. BC:plh",
     "summary": "FPPC memorandum from Barbara Campbell advising that a lobbyist employer may execute a single authorization form covering multiple lobbyists and file it with the Secretary of State, though this practice has raised questions despite being done previously."
   }
 }

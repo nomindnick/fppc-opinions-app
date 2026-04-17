@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=18"
   },
   "extraction": {
-    "method": "native+olmocr",
-    "extracted_at": "2026-02-08T17:13:37.312511Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-04-04T21:23:18.248020Z",
     "page_count": 1,
-    "word_count": 33,
-    "char_count": 219,
-    "quality_score": 0.33999999999999997,
+    "word_count": 35,
+    "char_count": 258,
+    "quality_score": 0.4882271634615384,
     "olmocr_cost": 0.0023899399999999997,
-    "native_word_count": 33
+    "native_word_count": 33,
+    "haiku_cost": 0.001544
   },
   "content": {
-    "full_text": "35-day statement \nled in connection with \nlification of initiative \nA statement filed in connection with Section 84202 is not a post-\nelection statement and therefore does not terminate one's obli-\ngation to cumulate. \n",
+    "full_text": "84202\n\n35-day statement filed in connection with                    M-79-196\n\nqualification of initiative\n\nA statement filed in connection with Section 84202 is not a post-\n\nelection statement and therefore does not terminate one's obli-\n\ngation to cumulate.",
     "full_text_markdown": null
   },
   "parsed": {
@@ -67,7 +68,7 @@
   "embedding": {
     "qa_text": "QUESTION: Whether a statement filed under Section 84202 in connection with initiative qualification constitutes a post-election statement that would terminate cumulation obligations.\n\nCONCLUSION: A statement filed in connection with Section 84202 is not a post-election statement and therefore does not terminate one's obligation to cumulate.",
     "qa_source": "mixed",
-    "first_500_words": "35-day statement led in connection with lification of initiative A statement filed in connection with Section 84202 is not a post- election statement and therefore does not terminate one's obli- gation to cumulate.",
+    "first_500_words": "84202 35-day statement filed in connection with M-79-196 qualification of initiative A statement filed in connection with Section 84202 is not a post- election statement and therefore does not terminate one's obli- gation to cumulate.",
     "summary": "FPPC advice letter 79-196 addresses whether statements filed under Section 84202 in connection with initiative qualification terminate cumulation obligations, concluding they do not constitute post-election statements."
   }
 }

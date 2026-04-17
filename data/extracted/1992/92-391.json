@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1992&tagCount=1&page=26"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:35:13.893691Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-21T23:11:14.956209Z",
     "page_count": 1,
-    "word_count": 154,
-    "char_count": 950,
-    "quality_score": 0.7175,
+    "word_count": 150,
+    "char_count": 924,
+    "quality_score": 0.8315620078740157,
     "olmocr_cost": null,
-    "native_word_count": 154
+    "native_word_count": 154,
+    "haiku_cost": 0.0024159999999999997
   },
   "content": {
-    "full_text": "California\nFair Political\nPractices Commission\nJuly 8,\n1992\nJeanne E. Parrish\nCouncilwoman, District #2\nCity of Rancho Mirage\n69—825 Highway 111\nRancho Mirage,\nCA 92270-2898\nRe:\nYour Request for Advice\nOur File No.\nG-92—391\nDear Councilwoman Parrish:\nThis is in reply to your letter to our Chairman,\nBen\nDavidian,\ndated July 1,\n1992.\nYou letter seeks legal advice\nconcerning the open meeting laws.\nThis agency has no jurisdiction over the open meeting laws in\nCalifornia and, therefore,\nwe cannot provide answers to your\nspecific questions.\nWe understand that the State Attorney General’s Office\nprovides advice on the open meeting laws.\nShould you require\nimmediate assistance you may want to telephone Deputy Attorney\nGeneral Ted Prim at\n(916)\n324—5481.\nI\nam sorry we could not be of help to you on this matter.\nSincerely,\n,,\nZ\nSCOTT HALLABRIN\nActing General Counsel\n428) Street, Suite 800 •\nP.O. Box 807 • Sacramento CA 95804-0807 • (916)322-5660\n",
+    "full_text": "July 8, 1992\n\n\nJeanne E. Parrish\nCouncilwoman, District #2\nCity of Rancho Mirage\n69-825 Highway 111\nRancho Mirage, CA 92270-2898\n\nRe: Your Request for Advice\nOur File No. G-92-391\n\nDear Councilwoman Parrish:\n\nThis is in reply to your letter to our Chairman, Ben\nDavidian, dated July 1, 1992. You letter seeks legal advice\nconcerning the open meeting laws.\n\nThis agency has no jurisdiction over the open meeting laws in\nCalifornia and, therefore, we cannot provide answers to your\nspecific questions.\n\nWe understand that the State Attorney General's Office\nprovides advice on the open meeting laws. Should you require\nimmediate assistance you may want to telephone Deputy Attorney\nGeneral Ted Prim at (916) 324-5481.\n\nI am sorry we could not be of help to you on this matter.\n\nSincerely,\n\n[signature]\n\nSCOTT HALLABRIN\nActing General Counsel\n\n\n428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804-0807 • (916) 322-5660",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "QUESTION: Councilwoman Parrish sought legal advice from the FPPC concerning California open meeting laws and their application to her circumstances.\n\nCONCLUSION: The FPPC declined to provide advice because it lacks jurisdiction over open meeting laws in California. The FPPC referred Councilwoman Parrish to the State Attorney General's Office, specifically suggesting she contact Deputy Attorney General Ted Prim for assistance.",
     "qa_source": "synthetic",
-    "first_500_words": "California Fair Political Practices Commission July 8, 1992 Jeanne E. Parrish Councilwoman, District #2 City of Rancho Mirage 69—825 Highway 111 Rancho Mirage, CA 92270-2898 Re: Your Request for Advice Our File No. G-92—391 Dear Councilwoman Parrish: This is in reply to your letter to our Chairman, Ben Davidian, dated July 1, 1992. You letter seeks legal advice concerning the open meeting laws. This agency has no jurisdiction over the open meeting laws in California and, therefore, we cannot provide answers to your specific questions. We understand that the State Attorney General’s Office provides advice on the open meeting laws. Should you require immediate assistance you may want to telephone Deputy Attorney General Ted Prim at (916) 324—5481. I am sorry we could not be of help to you on this matter. Sincerely, ,, Z SCOTT HALLABRIN Acting General Counsel 428) Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804-0807 • (916)322-5660",
+    "first_500_words": "July 8, 1992 Jeanne E. Parrish Councilwoman, District #2 City of Rancho Mirage 69-825 Highway 111 Rancho Mirage, CA 92270-2898 Re: Your Request for Advice Our File No. G-92-391 Dear Councilwoman Parrish: This is in reply to your letter to our Chairman, Ben Davidian, dated July 1, 1992. You letter seeks legal advice concerning the open meeting laws. This agency has no jurisdiction over the open meeting laws in California and, therefore, we cannot provide answers to your specific questions. We understand that the State Attorney General's Office provides advice on the open meeting laws. Should you require immediate assistance you may want to telephone Deputy Attorney General Ted Prim at (916) 324-5481. I am sorry we could not be of help to you on this matter. Sincerely, [signature] SCOTT HALLABRIN Acting General Counsel 428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804-0807 • (916) 322-5660",
     "summary": "The FPPC declined a request for legal advice on California open meeting laws from Councilwoman Jeanne E. Parrish of Rancho Mirage, stating it has no jurisdiction over such matters and referring her to the State Attorney General's Office."
   }
 }

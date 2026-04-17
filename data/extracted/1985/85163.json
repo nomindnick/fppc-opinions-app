@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1985&tagCount=1&page=18"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:36:42.086736Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-23T00:00:02.893298Z",
     "page_count": 2,
-    "word_count": 204,
-    "char_count": 1295,
-    "quality_score": 0.6799999999999999,
+    "word_count": 203,
+    "char_count": 1449,
+    "quality_score": 0.912323905025692,
     "olmocr_cost": null,
-    "native_word_count": 204
+    "native_word_count": 204,
+    "haiku_cost": 0.00408
   },
   "content": {
-    "full_text": "State of California \nMemorandum \nTo \nBarbara A. Milman \nDate \nJuly 23, 1985 \nNo. M-85-l63 \nFrom \nFAIR POLITICAL PRACTICES CO~~,}~N') \nDiane Maura Fishburn L~I \n,~ \nSubject: \nPersonal Loans to Legislators Made oy Major Donor/Lobbyist \nEmployer \nFACTS: \nThe majority shareholder of a close corporation has been a \nmajor donor for two years. \nRecently he/the corporation became a \nlObbyist employer. \nHe has made personal loans to legislators \n(interest only, callable at will) to be used for business and \nreal estate investments. \nThe money does not go to the \nlegislators' campaign committees. \nAs far as he knows, these \nloans have been disclosed on the legi \ntors' SEls. \nQUESTION \nHow should these loans be reported? \nADVICE: \nThe loans should be reported on the lobbyist employer report \nas activity expenses if made during the period covered by the \nstatement. \nThe outstanding loans do not have to be reported on a \ncontinuing basis. \nCOMMENT: \nWe should cons \nregulations. \nthis situation when we amend our lobbying \n\n\nor James H. Nills \n-\n13th Street \nfilar, C A \n9 2 0 14 \nSenator Wadie P. Deddeh \nState Capitol \nSacramento, CA 95814 \n,~. \nDan Stanford, Chairman \nFPPC \nPost Office Box 807 \nSacramento, CA \n95804 \nDan Stanford, Chairrr \nFPPC \nPost Office Box 807 \nSacramento, CA \n958c \n",
+    "full_text": "State of California\n\nMemorandum\n\n\nTo     :    Barbara A. Milman                              Date    :    July 23, 1985\n                                                           No. M-85-163\n\n\nFrom   :    FAIR POLITICAL PRACTICES COMMISSION\n            Diane Maura Fishburn [illegible]\n\nSubject:   Personal Loans to Legislators Made by Major Donor/Lobbyist\n           Employer\n\n\nFACTS:\n\n     The majority shareholder of a close corporation has been a\nmajor donor for two years.  Recently he/the corporation became a\nlobbyist employer.  He has made personal loans to legislators\n(interest only, callable at will) to be used for business and\nreal estate investments.  The money does not go to the\nlegislators' campaign committees.  As far as he knows, these\nloans have been disclosed on the legislators' SEIs.\n\nQUESTION\n\n     How should these loans be reported?\n\nADVICE:\n\n     The loans should be reported on the lobbyist employer report\nas activity expenses if made during the period covered by the\nstatement.  The outstanding loans do not have to be reported on a\ncontinuing basis.\n\nCOMMENT:\n\n     We should consider this situation when we amend our lobying\nregulations.\n\nSenator James H. Mills\n119 - 13th Street\nDel Mar, CA  92014\n\n\n\n\nDan Stanford, Chairman\nFPPC\nPost Office Box 807\nSacramento, CA  95804\n\n\n\n\n[SEAL]\n\nSenator Wadie P. Deddeh\nState Capitol\nSacramento, CA  95814\n\nDan Stanford, Chairman\nFPPC\nPost Office Box 807\nSacramento, CA  95804",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "QUESTION: How should these loans be reported? \nADVICE: \nThe loans should be reported on the lobbyist employer report \nas activity expenses if made during the period covered by the \nstatement. \nThe outstanding loans do not have to be reported on a \ncontinuing basis. \nCOMMENT: \nWe should cons \nregulations. \nthis situation when we amend our lobbying \n\n\nor James H. Nills \n-\n13th Street \nfilar, C A \n9 2 0 14 \nSenator Wadie P. Deddeh \nState Capitol \nSacramento, CA 95814 \n,~. \nDan Stanford, Chairman \nFPPC \nPost Office Box 807 \nSacramento, CA \n95804 \nDan Stanford, Chairrr \nFPPC \nPost Office Box 807 \nSacramento, CA \n958c",
     "qa_source": "extracted",
-    "first_500_words": "State of California Memorandum To Barbara A. Milman Date July 23, 1985 No. M-85-l63 From FAIR POLITICAL PRACTICES CO~~,}~N') Diane Maura Fishburn L~I ,~ Subject: Personal Loans to Legislators Made oy Major Donor/Lobbyist Employer FACTS: The majority shareholder of a close corporation has been a major donor for two years. Recently he/the corporation became a lObbyist employer. He has made personal loans to legislators (interest only, callable at will) to be used for business and real estate investments. The money does not go to the legislators' campaign committees. As far as he knows, these loans have been disclosed on the legi tors' SEls. QUESTION How should these loans be reported? ADVICE: The loans should be reported on the lobbyist employer report as activity expenses if made during the period covered by the statement. The outstanding loans do not have to be reported on a continuing basis. COMMENT: We should cons regulations. this situation when we amend our lobbying or James H. Nills - 13th Street filar, C A 9 2 0 14 Senator Wadie P. Deddeh State Capitol Sacramento, CA 95814 ,~. Dan Stanford, Chairman FPPC Post Office Box 807 Sacramento, CA 95804 Dan Stanford, Chairrr FPPC Post Office Box 807 Sacramento, CA 958c",
+    "first_500_words": "State of California Memorandum To : Barbara A. Milman Date : July 23, 1985 No. M-85-163 From : FAIR POLITICAL PRACTICES COMMISSION Diane Maura Fishburn [illegible] Subject: Personal Loans to Legislators Made by Major Donor/Lobbyist Employer FACTS: The majority shareholder of a close corporation has been a major donor for two years. Recently he/the corporation became a lobbyist employer. He has made personal loans to legislators (interest only, callable at will) to be used for business and real estate investments. The money does not go to the legislators' campaign committees. As far as he knows, these loans have been disclosed on the legislators' SEIs. QUESTION How should these loans be reported? ADVICE: The loans should be reported on the lobbyist employer report as activity expenses if made during the period covered by the statement. The outstanding loans do not have to be reported on a continuing basis. COMMENT: We should consider this situation when we amend our lobying regulations. Senator James H. Mills 119 - 13th Street Del Mar, CA 92014 Dan Stanford, Chairman FPPC Post Office Box 807 Sacramento, CA 95804 [SEAL] Senator Wadie P. Deddeh State Capitol Sacramento, CA 95814 Dan Stanford, Chairman FPPC Post Office Box 807 Sacramento, CA 95804",
     "summary": null
   }
 }

@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1984&tagCount=1&page=5"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:36:45.190060Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-22T01:00:11.773814Z",
     "page_count": 1,
-    "word_count": 207,
-    "char_count": 1281,
-    "quality_score": 0.635,
+    "word_count": 217,
+    "char_count": 1459,
+    "quality_score": 0.8657879258114246,
     "olmocr_cost": null,
-    "native_word_count": 207
+    "native_word_count": 207,
+    "haiku_cost": 0.002672
   },
   "content": {
-    "full_text": "State of California \nMemorandum \nTo \n: Advice File: \nSection 84211 \nDate \nDe c . 27, 1984 \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nCarla Wardlow \nSubject: Reporting a Loan Secured by a Certificate of Deposit \nRecently, the following campaign reporting situation came up: \nA controlled committee purchased a $42,000 certi-\nficate of deposit and, correctly, did not report \nthe purchase as an expenditure on its campaign \nstatement for that period. \nTherefore, the $42,000 \nhas continued to be reflected in the committee's \ncash on hand. \nIn November, the controlling candidate was up for \nelection and, rather than pay a penalty for with-\ndrawing money from the certificate of deposit, the \ncommittee took out a $40,000 loan against the \ncertificate at 12 percent interest. \nThe committee wanted to know how to report receipt \nand repayment of the loan on its campaign disclosure \nstatements. \nThe concern was that reporting the loan \non Schedule B would result in the appearance that \nthe committee had $82,000 in cash on hand ($42,000 \non deposit and a $40,000 new loan). \nI discussed the question with Barbara. \nIt was decided that \na loan secured by a certificate of deposit should be reported \non Schedule B in the same manner as any other loan received \nby the committee. \n",
+    "full_text": "State of California\n\nM e m o r a n d u m\n\nTo : Advice File: Section 84211                          Date : Dec. 27, 1984\n                                                              M-84-329\n\n\n\n\nFrom : FAIR POLITICAL PRACTICES COMMISSION\n        Carla Wardlow\n\nSubject: Reporting a Loan Secured by a Certificate of Deposit\n\n\nRecently, the following campaign reporting situation came up:\n\n     A controlled committee purchased a $42,000 certi-\n     ficate of deposit and, correctly, did not report\n     the purchase as an expenditure on its campaign\n     statement for that period. Therefore, the $42,000\n     has continued to be reflected in the committee's\n     cash on hand.\n\n     In November, the controlling candidate was up for\n     election and, rather than pay a penalty for with-\n     drawing money from the certificate of deposit, the\n     committee took out a $40,000 loan against the\n     certificate at 12 percent interest.\n\n     The committee wanted to know how to report receipt\n     and repayment of the loan on its campaign disclosure\n     statements. The concern was that reporting the loan\n     on Schedule B would result in the appearance that\n     the committee had $82,000 in cash on hand ($42,000\n     on deposit and a $40,000 new loan).\n\nI discussed the question with Barbara. It was decided that\na loan secured by a certificate of deposit should be reported\non Schedule B in the same manner as any other loan received\nby the committee.",
     "full_text_markdown": null
   },
   "parsed": {
@@ -67,7 +68,7 @@
   "embedding": {
     "qa_text": "QUESTION: The committee wanted to know how to report receipt and repayment of the loan on its campaign disclosure statements. The concern was that reporting the loan on Schedule B would result in the appearance that the committee had $82,000 in cash on hand ($42,000 on deposit and a $40,000 new loan).\n\nCONCLUSION: It was decided that a loan secured by a certificate of deposit should be reported on Schedule B in the same manner as any other loan received by the committee.",
     "qa_source": "mixed",
-    "first_500_words": "State of California Memorandum To : Advice File: Section 84211 Date De c . 27, 1984 From FAIR POLITICAL PRACTICES COMMISSION Carla Wardlow Subject: Reporting a Loan Secured by a Certificate of Deposit Recently, the following campaign reporting situation came up: A controlled committee purchased a $42,000 certi- ficate of deposit and, correctly, did not report the purchase as an expenditure on its campaign statement for that period. Therefore, the $42,000 has continued to be reflected in the committee's cash on hand. In November, the controlling candidate was up for election and, rather than pay a penalty for with- drawing money from the certificate of deposit, the committee took out a $40,000 loan against the certificate at 12 percent interest. The committee wanted to know how to report receipt and repayment of the loan on its campaign disclosure statements. The concern was that reporting the loan on Schedule B would result in the appearance that the committee had $82,000 in cash on hand ($42,000 on deposit and a $40,000 new loan). I discussed the question with Barbara. It was decided that a loan secured by a certificate of deposit should be reported on Schedule B in the same manner as any other loan received by the committee.",
+    "first_500_words": "State of California M e m o r a n d u m To : Advice File: Section 84211 Date : Dec. 27, 1984 M-84-329 From : FAIR POLITICAL PRACTICES COMMISSION Carla Wardlow Subject: Reporting a Loan Secured by a Certificate of Deposit Recently, the following campaign reporting situation came up: A controlled committee purchased a $42,000 certi- ficate of deposit and, correctly, did not report the purchase as an expenditure on its campaign statement for that period. Therefore, the $42,000 has continued to be reflected in the committee's cash on hand. In November, the controlling candidate was up for election and, rather than pay a penalty for with- drawing money from the certificate of deposit, the committee took out a $40,000 loan against the certificate at 12 percent interest. The committee wanted to know how to report receipt and repayment of the loan on its campaign disclosure statements. The concern was that reporting the loan on Schedule B would result in the appearance that the committee had $82,000 in cash on hand ($42,000 on deposit and a $40,000 new loan). I discussed the question with Barbara. It was decided that a loan secured by a certificate of deposit should be reported on Schedule B in the same manner as any other loan received by the committee.",
     "summary": "FPPC memorandum addressing how a controlled committee should report a $40,000 loan secured by a $42,000 certificate of deposit on campaign disclosure statements. The FPPC concluded that such loans should be reported on Schedule B like any other loan."
   }
 }

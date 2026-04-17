@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1983&tagCount=1&page=21"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:36:53.460309Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-22T03:52:34.377030Z",
     "page_count": 1,
-    "word_count": 128,
-    "char_count": 839,
-    "quality_score": 0.5975,
+    "word_count": 127,
+    "char_count": 814,
+    "quality_score": 0.8784829083796031,
     "olmocr_cost": null,
-    "native_word_count": 128
+    "native_word_count": 128,
+    "haiku_cost": 0.002208
   },
   "content": {
-    "full_text": "State of Califomia \nMemorandum \nTO: \nFROM: \nRE: \nDATE: \nNO. : \nFile \nJanuary 13, 1983 \nM-83-00S \nFair Political Practices Commission \nJanis Shank McLean \n84308 - 18438.1 \nI received a telephone call from Natalie West, Berkeley City \nAttorney. \nQuestion: \nWhen a city council serves as the Housing \nAuthority or Redevelopment Agency (separate legal entities) are \nthey exempt from Section 84308? \nAnswer: \nYes. \n2 Cal. Adm. Code Section 18438.1 exempts a \ncity council when it acts in its entirety, as another governing \nbody, or when a subgroup serves as another governing body. \nThis is true regardless of \nlegislative or quasi-judicial. \nas the redevelopment agency or \nretains its exemption, so long \nadded. \nJSM:plh \nwhether its function is \nThus, when the city council \nthe planning commission it \nas no additional members are \nsits \n",
+    "full_text": "State of California\n\nMemorandum\n\n\nDATE: January 13, 1983\nNO.: M-83-005\n\nTO: File\n\nFROM: Fair Political Practices Commission\nJanis Shank McLean\n\nRE: 84308 - 18438.1\n\nI received a telephone call from Natalie West, Berkeley City\nAttorney.\n\nQuestion: When a city council serves as the Housing\nAuthority or Redevelopment Agency (separate legal entities) are\nthey exempt from Section 84308?\n\nAnswer: Yes. 2 Cal. Adm. Code Section 18438.1 exempts a\ncity council when it acts in its entirety, as another governing\nbody, or when a subgroup serves as another governing body.\n\nThis is true regardless of wnetaer its function is\nlegislative or quasi-judicial. Thus, when the city council sits\nas the redevelopment agency or the planning commission it\nretains its exemption, so long as no additional members are\nadded.\n\nJSM:plh",
     "full_text_markdown": null
   },
   "parsed": {
@@ -67,7 +68,7 @@
   "embedding": {
     "qa_text": "QUESTION: When a city council serves as the Housing \nAuthority or Redevelopment Agency (separate legal entities) are \nthey exempt from Section 84308? \nAnswer: \nYes. \n2 Cal. Adm. Code Section 18438.1 exempts a \ncity council when it acts in its entirety, as another governing \nbody, or when a subgroup serves as another governing body. \nThis is true regardless of \nlegislative or quasi-judicial. \nas the redevelopment agency or \nretains its exemption, so long \nadded. \nJSM:plh \nwhether its function is \nThus, when the city council \nthe planning commission it \nas no additional members are \nsits\n\nCONCLUSION: Yes. 2 Cal. Adm. Code Section 18438.1 exempts a city council when it acts in its entirety, as another governing body, or when a subgroup serves as another governing body. This is true regardless of whether its function is legislative or quasi-judicial. Thus, when the city council sits as the redevelopment agency or the planning commission it retains its exemption, so long as no additional members are added.",
     "qa_source": "mixed",
-    "first_500_words": "State of Califomia Memorandum TO: FROM: RE: DATE: NO. : File January 13, 1983 M-83-00S Fair Political Practices Commission Janis Shank McLean 84308 - 18438.1 I received a telephone call from Natalie West, Berkeley City Attorney. Question: When a city council serves as the Housing Authority or Redevelopment Agency (separate legal entities) are they exempt from Section 84308? Answer: Yes. 2 Cal. Adm. Code Section 18438.1 exempts a city council when it acts in its entirety, as another governing body, or when a subgroup serves as another governing body. This is true regardless of legislative or quasi-judicial. as the redevelopment agency or retains its exemption, so long added. JSM:plh whether its function is Thus, when the city council the planning commission it as no additional members are sits",
+    "first_500_words": "State of California Memorandum DATE: January 13, 1983 NO.: M-83-005 TO: File FROM: Fair Political Practices Commission Janis Shank McLean RE: 84308 - 18438.1 I received a telephone call from Natalie West, Berkeley City Attorney. Question: When a city council serves as the Housing Authority or Redevelopment Agency (separate legal entities) are they exempt from Section 84308? Answer: Yes. 2 Cal. Adm. Code Section 18438.1 exempts a city council when it acts in its entirety, as another governing body, or when a subgroup serves as another governing body. This is true regardless of wnetaer its function is legislative or quasi-judicial. Thus, when the city council sits as the redevelopment agency or the planning commission it retains its exemption, so long as no additional members are added. JSM:plh",
     "summary": "FPPC advice letter responding to Berkeley City Attorney's inquiry about whether city council members are exempt from conflict of interest requirements when the council serves as a separate governing body such as a Housing Authority or Redevelopment Agency."
   }
 }

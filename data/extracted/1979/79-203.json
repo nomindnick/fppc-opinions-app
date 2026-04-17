@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=11"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:37:06.496919Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-19T19:19:20.333340Z",
     "page_count": 1,
-    "word_count": 84,
-    "char_count": 497,
-    "quality_score": 0.515,
+    "word_count": 88,
+    "char_count": 520,
+    "quality_score": 0.853087208060133,
     "olmocr_cost": null,
-    "native_word_count": 84
+    "native_word_count": 84,
+    "haiku_cost": 0.0018479999999999998
   },
   "content": {
-    "full_text": "When does a copy of a mass mailing have to be \nsent to the Commission? \nWhenever it expressly advocates a result in an \nelection with respect to a clearly ide \nfied candidate or \nmeasure. \nSee Opinion requested by Juvinall, 2 FPPC aps. \n110. \nUnlike the first sentence, the second sentence is \napplicable regardless of whether the person has reporting \nobligations. \nThis policy was agreed upon at the opinion \nrequest meeting of May 14, \n976, and set forth by Natalie \nto a fellow in Minnesota. \n",
+    "full_text": ")\n\nU-4305\nm-79-203\n\nWhen does a copy of a mass mailing have to be\n\nsent to the Commission?\n\nWhenever it expressly advocates a result in an\n\nelection with respect to a clearly identified candidate or\n\nmeasure.\n\nSee Opinion requested by Juvinall, 2 FPPC Ops.\n\n110. Unlike the first sentence, the second sentence is\n\napplicable regardless of whether the person has reporting\n\nobligations. This policy was agreed upon at the opinion\n\nrequest meeting of May 14, 1976, and set forth by Natalie\n\nto a fellow in Minnesota.\n\n)\n\n)",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "QUESTION: When must a copy of a mass mailing be submitted to the Fair Political Practices Commission?\n\nCONCLUSION: Whenever it expressly advocates a result in an election with respect to a clearly identified candidate or measure.",
     "qa_source": "mixed",
-    "first_500_words": "When does a copy of a mass mailing have to be sent to the Commission? Whenever it expressly advocates a result in an election with respect to a clearly ide fied candidate or measure. See Opinion requested by Juvinall, 2 FPPC aps. 110. Unlike the first sentence, the second sentence is applicable regardless of whether the person has reporting obligations. This policy was agreed upon at the opinion request meeting of May 14, 976, and set forth by Natalie to a fellow in Minnesota.",
+    "first_500_words": ") U-4305 m-79-203 When does a copy of a mass mailing have to be sent to the Commission? Whenever it expressly advocates a result in an election with respect to a clearly identified candidate or measure. See Opinion requested by Juvinall, 2 FPPC Ops. 110. Unlike the first sentence, the second sentence is applicable regardless of whether the person has reporting obligations. This policy was agreed upon at the opinion request meeting of May 14, 1976, and set forth by Natalie to a fellow in Minnesota. ) )",
     "summary": "FPPC advice letter addressing the requirement for submitting mass mailing copies to the Commission, specifying that submission is required when mailings expressly advocate regarding identified candidates or measures."
   }
 }

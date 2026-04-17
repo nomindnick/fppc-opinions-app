@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=27"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:37:14.664123Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-19T21:17:05.609241Z",
     "page_count": 2,
-    "word_count": 110,
-    "char_count": 634,
-    "quality_score": 0.5075,
+    "word_count": 203,
+    "char_count": 1175,
+    "quality_score": 0.8618746802979913,
     "olmocr_cost": null,
-    "native_word_count": 110
+    "native_word_count": 110,
+    "haiku_cost": 0.004104
   },
   "content": {
-    "full_text": "25 \n77 \nDear \nbee: \nJiRnne P. \na \n90670 \nan \nare correct \n/ \n\n\n~'\" \nCITY \nCITY HALL, \nALL AMERICA CITY \nFE SPRINGS \nIII' \nROAO 90670 -\nP. O. BOX 2120 \n-\n(213) 868-0511 \nJanuary 18, 1977 \nFair Political Practices Commission \nPost Office Box 807 \nSacramento, Ca. 95804 \nGentlemen: \nIt is my understanding that for Councilmen the proper \ndistribution of Form 470 and Form 430 is for the \nCouncilmen to file an original and one copy with the \nCity Clerk and that no copies are to be forwarded \neither to you or to the County Clerk. \nPlease let me know if my understanding is incorrect. \nRLW:dm \nVery truly yours, \nWilliams \nCity Manager \n",
+    "full_text": "January 25, 1977\n\nMr. Robert L. Williams\nCity Manager\nCity of Santa Fe Springs\nP. O. Box 2120\nSanta Fe Springs, California 90670\n\nDear Mr. Williams:\n\nThank you for your letter of January 18, 1977 inquiring about\nthe filing requirements of FPPC Forms 430 and 470 by a city\ncouncilman. Your city councilmen must file an original and\none copy with the city clerk. You are correct in that copies\nneed not be filed with the FPPC or the county clerk.\n\nVery truly yours,\n\n\nREGINA SICILIANO-KUTCHINS\nTechnical Assistance Program Coordinator\n\nRSK:mak\n\nbcc: Janne P.\n\nCITY OF SANTA FE SPRINGS\n\nNATION-WIDE\n★ ★ ★ ★ ★\nALL AMERICA CITY\nAWARD WINNER\n\nCITY HALL, 11710 TELEGRAPH ROAD 90670 - P.O. BOX 2120 - (213) 868-0511\n\nJanuary 18, 1977\n\nFair Political Practices Commission\nPost Office Box 807\nSacramento, Ca. 95804\n\nGentlemen:\n\nIt is my understanding that for Councilmen the proper\ndistribution of Form 470 and Form 430 is for the\nCouncilmen to file an original and one copy with the\nCity Clerk and that no copies are to be forwarded\neither to you or to the County Clerk.\n\nPlease let me know if my understanding is incorrect.\n\nVery truly yours,\n\nRobert L. Williams\nCity Manager\n\nRLW:dm",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "QUESTION: It is my understanding that for Councilmen the proper distribution of Form 470 and Form 430 is for the Councilmen to file an original and one copy with the City Clerk and that no copies are to be forwarded either to you or to the County Clerk. Please let me know if my understanding is incorrect.",
     "qa_source": "mixed",
-    "first_500_words": "25 77 Dear bee: JiRnne P. a 90670 an are correct / ~'\" CITY CITY HALL, ALL AMERICA CITY FE SPRINGS III' ROAO 90670 - P. O. BOX 2120 - (213) 868-0511 January 18, 1977 Fair Political Practices Commission Post Office Box 807 Sacramento, Ca. 95804 Gentlemen: It is my understanding that for Councilmen the proper distribution of Form 470 and Form 430 is for the Councilmen to file an original and one copy with the City Clerk and that no copies are to be forwarded either to you or to the County Clerk. Please let me know if my understanding is incorrect. RLW:dm Very truly yours, Williams City Manager",
+    "first_500_words": "January 25, 1977 Mr. Robert L. Williams City Manager City of Santa Fe Springs P. O. Box 2120 Santa Fe Springs, California 90670 Dear Mr. Williams: Thank you for your letter of January 18, 1977 inquiring about the filing requirements of FPPC Forms 430 and 470 by a city councilman. Your city councilmen must file an original and one copy with the city clerk. You are correct in that copies need not be filed with the FPPC or the county clerk. Very truly yours, REGINA SICILIANO-KUTCHINS Technical Assistance Program Coordinator RSK:mak bcc: Janne P. CITY OF SANTA FE SPRINGS NATION-WIDE ★ ★ ★ ★ ★ ALL AMERICA CITY AWARD WINNER CITY HALL, 11710 TELEGRAPH ROAD 90670 - P.O. BOX 2120 - (213) 868-0511 January 18, 1977 Fair Political Practices Commission Post Office Box 807 Sacramento, Ca. 95804 Gentlemen: It is my understanding that for Councilmen the proper distribution of Form 470 and Form 430 is for the Councilmen to file an original and one copy with the City Clerk and that no copies are to be forwarded either to you or to the County Clerk. Please let me know if my understanding is incorrect. Very truly yours, Robert L. Williams City Manager RLW:dm",
     "summary": "An incoming letter from a City Manager requesting clarification on the proper filing and distribution procedures for Forms 470 and 430 for city councilmen under FPPC regulations."
   }
 }

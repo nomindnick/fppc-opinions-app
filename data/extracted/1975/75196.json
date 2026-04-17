@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1975&tagCount=1&page=5"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:37:23.303591Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-23T23:35:27.708171Z",
     "page_count": 1,
-    "word_count": 163,
-    "char_count": 1006,
-    "quality_score": 0.7175,
+    "word_count": 162,
+    "char_count": 978,
+    "quality_score": 0.9114890039757271,
     "olmocr_cost": null,
-    "native_word_count": 163
+    "native_word_count": 163,
+    "haiku_cost": 0.002308
   },
   "content": {
-    "full_text": "Robert:. A.D. Schwarts \nNorthern Chair \nJuly 7, 1975 \ncalifornia Democratic Party \n45 Second Street, Suite 401 \nSan Francisco, Calif. 94105 \nDear Mr. Schwartz: \nRe: \nRequest for Opinion \nNo. 75-142 \n'f'hank you for your letter of June 24, 1975, \nrequesting an opinion with respect to contributions \nfrom labor unions., \nYour request for a formal opinion is denied \nbecause your question raises no· substantial, novel \nquestion of interpretation of the Political Reform \nAct. \nThe Act does not prohibit contributions to be \nmade by labor unions so long as the contribution is \nnot made or arranged for by a lobbyist and so long \nas the lobbyist does not aet as the agent or inter­\nmediary in the making of the contribution. \nAlthough for the reason stated no formal opinion \nwill be issued, r hope the foregoing is sufficiently \nhelpful. \nIf you have any further questions , I urge \nyou to contact a member of the Commission staff. \nDBL:jp \nSincerely, \nDaniel H. Lowenstein, \nChairman, for the \nCommission \n",
+    "full_text": "July 7, 1975\n\n\nRobert A.D. Schwartz\nNorthern Chair\nCalifornia Democratic Party\n45 Second Street, Suite 401\nSan Francisco, Calif. 94105\n\nRe: Request for Opinion\nNo. 75-142\n\nDear Mr. Schwartz:\n\nThank you for your letter of June 24, 1975,\nrequesting an opinion with respect to contributions\nfrom labor unions.\n\nYour request for a formal opinion is denied\nbecause your question raises no substantial, novel\nquestion of interpretation of the Political Reform\nAct. The Act does not prohibit contributions to be\nmade by labor unions so long as the contribution is\nnot made or arranged for by a lobbyist and so long\nas the lobbyist does not act as the agent or inter-\nmediary in the making of the contribution.\n\nAlthough for the reason stated no formal opinion\nwill be issued, I hope the foregoing is sufficiently\nhelpful. If you have any further questions, I urge\nyou to contact a member of the Commission staff.\n\nSincerely,\n\n\nDaniel H. Lowenstein,\nChairman, for the\nCommission\n\nDHL:jp",
     "full_text_markdown": null
   },
   "parsed": {
@@ -69,7 +70,7 @@
   "embedding": {
     "qa_text": "QUESTION: of interpretation of the Political Reform \nAct. \nThe Act does not prohibit contributions to be \nmade by labor unions so long as the contribution is \nnot made or arranged for by a lobbyist and so long \nas the lobbyist does not aet as the agent or inter­\nmediary in the making of the contribution. \nAlthough for the reason stated no formal opinion \nwill be issued, r hope the foregoing is sufficiently \nhelpful.\n\nCONCLUSION: The Act does not prohibit contributions to be made by labor unions so long as the contribution is not made or arranged for by a lobbyist and so long as the lobbyist does not act as the agent or intermediary in the making of the contribution.",
     "qa_source": "mixed",
-    "first_500_words": "Robert:. A.D. Schwarts Northern Chair July 7, 1975 california Democratic Party 45 Second Street, Suite 401 San Francisco, Calif. 94105 Dear Mr. Schwartz: Re: Request for Opinion No. 75-142 'f'hank you for your letter of June 24, 1975, requesting an opinion with respect to contributions from labor unions., Your request for a formal opinion is denied because your question raises no· substantial, novel question of interpretation of the Political Reform Act. The Act does not prohibit contributions to be made by labor unions so long as the contribution is not made or arranged for by a lobbyist and so long as the lobbyist does not aet as the agent or inter­ mediary in the making of the contribution. Although for the reason stated no formal opinion will be issued, r hope the foregoing is sufficiently helpful. If you have any further questions , I urge you to contact a member of the Commission staff. DBL:jp Sincerely, Daniel H. Lowenstein, Chairman, for the Commission",
+    "first_500_words": "July 7, 1975 Robert A.D. Schwartz Northern Chair California Democratic Party 45 Second Street, Suite 401 San Francisco, Calif. 94105 Re: Request for Opinion No. 75-142 Dear Mr. Schwartz: Thank you for your letter of June 24, 1975, requesting an opinion with respect to contributions from labor unions. Your request for a formal opinion is denied because your question raises no substantial, novel question of interpretation of the Political Reform Act. The Act does not prohibit contributions to be made by labor unions so long as the contribution is not made or arranged for by a lobbyist and so long as the lobbyist does not act as the agent or inter- mediary in the making of the contribution. Although for the reason stated no formal opinion will be issued, I hope the foregoing is sufficiently helpful. If you have any further questions, I urge you to contact a member of the Commission staff. Sincerely, Daniel H. Lowenstein, Chairman, for the Commission DHL:jp",
     "summary": "The FPPC denied a request for a formal opinion from the California Democratic Party regarding labor union contributions, finding the question raises no substantial novel interpretation issue. However, the FPPC provided guidance that labor unions may contribute as long as lobbyists do not make, arrange, or intermediary the contributions."
   }
 }

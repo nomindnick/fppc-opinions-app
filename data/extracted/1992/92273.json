@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1992&tagCount=1&page=72"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:35:18.237413Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-19T21:37:29.097444Z",
     "page_count": 1,
-    "word_count": 239,
-    "char_count": 1327,
-    "quality_score": 0.6325000000000001,
+    "word_count": 224,
+    "char_count": 1313,
+    "quality_score": 0.9301890724946695,
     "olmocr_cost": null,
-    "native_word_count": 239
+    "native_word_count": 239,
+    "haiku_cost": 0.0028392
   },
   "content": {
-    "full_text": "llry , ,. .. ., '32 TERRELL G, WHITTTER\n1377 YUKON\nSUNNYVALE, CA,\nTERRACE\n94087-4413\n29 April \n1992\nFair Political Practices Commi ss ion\n428 J Street, Suite 800\nP. O. Box 807\nSacramento, CA 95804\nAttn:\nSirs:\nLegal Division\nI wish a written legal deternination on a question of conflict of\ninterest. \nI have asked our city attorney and was advised it\nwould be in ny best interests to have you make the determination'\nI worked for Lockheed Missiles & Space Company, Inc. in\nSunnyvale, Calif. for alrnost 25 years and retired from this\nconpany at this location on March 15, 1991.\nI receive a monthly retirement check from the LOCXHEED\nCORPORATION, Retirenent Plan Office, 4500 Park Granada Blvd',\nCalabasas , CA 91399-0221 .\nAs far as I know, there is nothing I can do or say as a Planning\nConnissioner for the City of Sunnyvale that can or wil} have an\neffect on ny retirement payments.\nQuestion: Is there a conflict of interest in sitting on the\nPlanning Commission for the City of Sunnyvale when the Lockheed\nMissiles & Space Co., Inc. brings a rnatter before the commission?\nDuring the tine I was working for the company I regularly stepped\ndown on matters pertaining to LMSC because they were ny employer'\nI do not know if f should step down now that I no longer work for\nthis conpany .\nS incerely ,\n4o! 7rY-Llo/ 7\nry\"-d4w\"\n",
+    "full_text": "TERRELL G. WHITTIER\n1377 YUKON TERRACE\nSUNNYVALE, CA. 94087-4413\n\n29 April 1992\n\n\nFair Political Practices Commission\n428 J Street, Suite 800\nP.O. Box 807\nSacramento, CA  95804\n\nAttn:  Legal Division\n\nSirs:\n\nI wish a written legal determination on a question of conflict of\ninterest.  I have asked our city attorney and was advised it\nwould be in my best interests to have you make the determination.\n\nI worked for Lockheed Missiles & Space Company, Inc. in\nSunnyvale, Calif. for almost 25 years and retired from this\ncompany at this location on March 15, 1991.\n\nI receive a monthly retirement check from the LOCKHEED\nCORPORATION, Retirement Plan Office, 4500 Park Granada Blvd.,\nCalabasas, CA 91399-0221.\n\nAs far as I know, there is nothing I can do or say as a Planning\nCommissioner for the City of Sunnyvale that can or will have an\neffect on my retirement payments.\n\nQuestion:  Is there a conflict of interest in sitting on the\nPlanning Commission for the City of Sunnyvale when the Lockheed\nMissiles & Space Co., Inc. brings a matter before the commission?\n\nDuring the time I was working for the company I regularly stepped\ndown on matters pertaining to LMSC because they were my employer.\nI do not know if I should step down now that I no longer work for\nthis company.\n\nSincerely,\n\n[signature]\n\n408 738-4019",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "QUESTION: Is there a conflict of interest in sitting on the\nPlanning Commission for the City of Sunnyvale when the Lockheed\nMissiles & Space Co., Inc. brings a rnatter before the commission?\nDuring the tine I was working for the company I regularly stepped\ndown on matters pertaining to LMSC because they were ny employer'\nI do not know if f should step down now that I no longer work for\nthis conpany .\nS incerely ,\n4o! 7rY-Llo/ 7\nry\"-d4w\"",
     "qa_source": "extracted",
-    "first_500_words": "llry , ,. .. ., '32 TERRELL G, WHITTTER 1377 YUKON SUNNYVALE, CA, TERRACE 94087-4413 29 April 1992 Fair Political Practices Commi ss ion 428 J Street, Suite 800 P. O. Box 807 Sacramento, CA 95804 Attn: Sirs: Legal Division I wish a written legal deternination on a question of conflict of interest. I have asked our city attorney and was advised it would be in ny best interests to have you make the determination' I worked for Lockheed Missiles & Space Company, Inc. in Sunnyvale, Calif. for alrnost 25 years and retired from this conpany at this location on March 15, 1991. I receive a monthly retirement check from the LOCXHEED CORPORATION, Retirenent Plan Office, 4500 Park Granada Blvd', Calabasas , CA 91399-0221 . As far as I know, there is nothing I can do or say as a Planning Connissioner for the City of Sunnyvale that can or wil} have an effect on ny retirement payments. Question: Is there a conflict of interest in sitting on the Planning Commission for the City of Sunnyvale when the Lockheed Missiles & Space Co., Inc. brings a rnatter before the commission? During the tine I was working for the company I regularly stepped down on matters pertaining to LMSC because they were ny employer' I do not know if f should step down now that I no longer work for this conpany . S incerely , 4o! 7rY-Llo/ 7 ry\"-d4w\"",
+    "first_500_words": "TERRELL G. WHITTIER 1377 YUKON TERRACE SUNNYVALE, CA. 94087-4413 29 April 1992 Fair Political Practices Commission 428 J Street, Suite 800 P.O. Box 807 Sacramento, CA 95804 Attn: Legal Division Sirs: I wish a written legal determination on a question of conflict of interest. I have asked our city attorney and was advised it would be in my best interests to have you make the determination. I worked for Lockheed Missiles & Space Company, Inc. in Sunnyvale, Calif. for almost 25 years and retired from this company at this location on March 15, 1991. I receive a monthly retirement check from the LOCKHEED CORPORATION, Retirement Plan Office, 4500 Park Granada Blvd., Calabasas, CA 91399-0221. As far as I know, there is nothing I can do or say as a Planning Commissioner for the City of Sunnyvale that can or will have an effect on my retirement payments. Question: Is there a conflict of interest in sitting on the Planning Commission for the City of Sunnyvale when the Lockheed Missiles & Space Co., Inc. brings a matter before the commission? During the time I was working for the company I regularly stepped down on matters pertaining to LMSC because they were my employer. I do not know if I should step down now that I no longer work for this company. Sincerely, [signature] 408 738-4019",
     "summary": null
   }
 }

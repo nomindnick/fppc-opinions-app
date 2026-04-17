@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1990&tagCount=1&page=104"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:35:41.746178Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-19T19:12:07.661537Z",
     "page_count": 1,
     "word_count": 182,
-    "char_count": 1155,
-    "quality_score": 0.7175,
+    "char_count": 1179,
+    "quality_score": 0.9069421969303331,
     "olmocr_cost": null,
-    "native_word_count": 182
+    "native_word_count": 182,
+    "haiku_cost": 0.0026592000000000005
   },
   "content": {
-    "full_text": "I,Iarc E. Scott, C.p.A\nTreasurer, fhe courmiitee to Retain\nJudge Harry Papadakis\nP-O. Box 1045\nCoalinga, CA 93210\nRe: Your Request for Advice\nOur File No. A-9O-O2Z\nDear Mr. scott:\nYou have requested confirmation of my tetephone advice\nprovided t9 you on behalf of Judge Harry iapadakis concerning the\ncarnpaign disclosure provisions of the political \nReform Act\n(Government Code Sections 81OOO-91015) .\nYour letter, dated January 2, 1990, correctly summarizes my\nadvice that campaign funds raised prior to 1989 and deposited ii a\ncampaign bank account established for a previous elect-ion, may be\ndesignated for a future election as 1ong as no contributions or\nexpenditures are made from the bank acc6unt in connection with the\nprevious election.\nEnclosed are Forms 501 and 502. please complete these forms\nto disclose the required infornation.\nPLease do not hesitate to contact ne at (915) 322-5662 if you\nhave additional questions.\nCalifornia\nFair POlitical\nPractices Commission\nFebruary 7, ].99O\nS incere Iy ,\nKathryn\nGeneral E. Donovan\nPoIitical Reform灸\nConsu■tant\n428 J Street, Suite 8ot-t o P.O. Box 8O7 o Sacramento CA 958rr{-O8OZ . (916) )22-5660\n",
+    "full_text": "California\nFair Political\nPractices Commission\n\nFebruary 7, 1990\n\n\nMarc E. Scott, C.P.A.\nTreasurer, The Committee to Retain\nJudge Harry Papadakis\nP.O. Box 1045\nCoalinga, CA 93210\n\nRe: Your Request for Advice\nOur File No. A-90-027\n\nDear Mr. Scott:\n\nYou have requested confirmation of my telephone advice\nprovided to you on behalf of Judge Harry Papadakis concerning the\ncampaign disclosure provisions of the Political Reform Act\n(Government Code Sections 81000-91015).\n\nYour letter, dated January 2, 1990, correctly summarizes my\nadvice that campaign funds raised prior to 1989 and deposited in a\ncampaign bank account established for a previous election, may be\ndesignated for a future election as long as no contributions or\nexpenditures are made from the bank account in connection with the\nprevious election.\n\nEnclosed are Forms 501 and 502. Please complete these forms\nto disclose the required information.\n\nPlease do not hesitate to contact me at (916) 322-5662 if you\nhave additional questions.\n\nSincerely,\n\nKathryn E. Donovan\nGeneral Counsel\n\nBy: Lynda Cassady\nPolitical Reform Consultant\n\n428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804-0807 • (916) 322-5660",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "QUESTION: May campaign funds raised prior to 1989 and deposited in a campaign bank account established for a previous election be designated for a future election?\n\nCONCLUSION: Your letter, dated January 2, 1990, correctly summarizes my advice that campaign funds raised prior to 1989 and deposited in a campaign bank account established for a previous election, may be designated for a future election as long as no contributions or expenditures are made from the bank account in connection with the previous election.",
     "qa_source": "mixed",
-    "first_500_words": "I,Iarc E. Scott, C.p.A Treasurer, fhe courmiitee to Retain Judge Harry Papadakis P-O. Box 1045 Coalinga, CA 93210 Re: Your Request for Advice Our File No. A-9O-O2Z Dear Mr. scott: You have requested confirmation of my tetephone advice provided t9 you on behalf of Judge Harry iapadakis concerning the carnpaign disclosure provisions of the political Reform Act (Government Code Sections 81OOO-91015) . Your letter, dated January 2, 1990, correctly summarizes my advice that campaign funds raised prior to 1989 and deposited ii a campaign bank account established for a previous elect-ion, may be designated for a future election as 1ong as no contributions or expenditures are made from the bank acc6unt in connection with the previous election. Enclosed are Forms 501 and 502. please complete these forms to disclose the required infornation. PLease do not hesitate to contact ne at (915) 322-5662 if you have additional questions. California Fair POlitical Practices Commission February 7, ].99O S incere Iy , Kathryn General E. Donovan PoIitical Reform灸 Consu■tant 428 J Street, Suite 8ot-t o P.O. Box 8O7 o Sacramento CA 958rr{-O8OZ . (916) )22-5660",
+    "first_500_words": "California Fair Political Practices Commission February 7, 1990 Marc E. Scott, C.P.A. Treasurer, The Committee to Retain Judge Harry Papadakis P.O. Box 1045 Coalinga, CA 93210 Re: Your Request for Advice Our File No. A-90-027 Dear Mr. Scott: You have requested confirmation of my telephone advice provided to you on behalf of Judge Harry Papadakis concerning the campaign disclosure provisions of the Political Reform Act (Government Code Sections 81000-91015). Your letter, dated January 2, 1990, correctly summarizes my advice that campaign funds raised prior to 1989 and deposited in a campaign bank account established for a previous election, may be designated for a future election as long as no contributions or expenditures are made from the bank account in connection with the previous election. Enclosed are Forms 501 and 502. Please complete these forms to disclose the required information. Please do not hesitate to contact me at (916) 322-5662 if you have additional questions. Sincerely, Kathryn E. Donovan General Counsel By: Lynda Cassady Political Reform Consultant 428 J Street, Suite 800 • P.O. Box 807 • Sacramento CA 95804-0807 • (916) 322-5660",
     "summary": "The FPPC confirms advice regarding the reuse of prior campaign funds for a future election under the Political Reform Act. The letter confirms that funds raised before 1989 may be redesignated for a future election if no activity occurs in the account for the previous election."
   }
 }

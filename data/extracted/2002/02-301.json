@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2002&tagCount=1&page=28"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:34:28.429058Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-20T21:08:46.696604Z",
     "page_count": 1,
-    "word_count": 172,
-    "char_count": 1058,
-    "quality_score": 0.7175,
+    "word_count": 176,
+    "char_count": 1075,
+    "quality_score": 0.9471778345250256,
     "olmocr_cost": null,
-    "native_word_count": 172
+    "native_word_count": 172,
+    "haiku_cost": 0.002496
   },
   "content": {
-    "full_text": "Re\nFarn PoLrrrcAL PnacrrcEs CouvrrssroN\n428 J Street. Suite 620. Sacramento, CA 95814-2329\n(916) 322-5660. Fax (916) 322-0886\nDecember 12,2002\nPeter A. Bagatelos\nBagatelos Law Firm\n380 West Portal Avenue, Suite F\nSan Francisco, CA 94127\nYour Request for Advice\nOur FiIe No. W-02-301\nDear Mr. Bagatelos:\nThis letter is to inform you that we have withdrawn your request for advice\nconceming provisions of the Political Reform Act governing slate mailers. Because your\nquestion does not refer to an identifiable client faced by a specific problem, we cannot\nprovide you with the advice you requested. (Regulation 18329(bXD)(8).)\nIf you have a client whose actual circumstances pose one of the questions you\nasked us to consider, we will be happy to respond once we are given the necessary facts\nBear in mind that due to staff shortages and the state hiring fueeze, the time period for a\nresponse may vary, but we will respond as soon as possible.\nSincerely,\nLuisa Menchaca\nGeneral Counsel\nBy: Lawrence T. Woodlock\nSenior Counsel, Legal Division\nEnclosure\nLTwjg\n",
+    "full_text": "FAIR POLITICAL PRACTICES COMMISSION\n428 J Street • Suite 620 • Sacramento, CA 95814-2329\n(916) 322-5660 • Fax (916) 322-0886\n\nDecember 12, 2002\n\nPeter A. Bagatelos\nBagatelos Law Firm\n380 West Portal Avenue, Suite F\nSan Francisco, CA 94127\n\nRe: Your Request for Advice\nOur File No. W-02-301\n\nDear Mr. Bagatelos:\n\nThis letter is to inform you that we have withdrawn your request for advice concerning provisions of the Political Reform Act governing state mailers. Because your question does not refer to an identifiable client faced by a specific problem, we cannot provide you with the advice you requested. (Regulation 18329(b)(D)(8).)\n\nIf you have a client whose actual circumstances pose one of the questions you asked us to consider, we will be happy to respond once we are given the necessary facts. Bear in mind that due to staff shortages and the state hiring freeze, the time period for a response may vary, but we will respond as soon as possible.\n\nSincerely,\n\nLuisa Menchaca\nGeneral Counsel\n\nBy: Lawrence T. Woodlock\nSenior Counsel, Legal Division\n\nEnclosure\nLTW:jg",
     "full_text_markdown": null
   },
   "parsed": {
@@ -67,7 +68,7 @@
   "embedding": {
     "qa_text": "QUESTION: does not refer to an identifiable client faced by a specific problem, we cannot\nprovide you with the advice you requested. (Regulation 18329(bXD)(8).)\nIf you have a client whose actual circumstances pose one of the questions you\nasked us to consider, we will be happy to respond once we are given the necessary facts\nBear in mind that due to staff shortages and the state hiring fueeze, the time period for a\nresponse may vary, but we will respond as soon as possible.",
     "qa_source": "extracted",
-    "first_500_words": "Re Farn PoLrrrcAL PnacrrcEs CouvrrssroN 428 J Street. Suite 620. Sacramento, CA 95814-2329 (916) 322-5660. Fax (916) 322-0886 December 12,2002 Peter A. Bagatelos Bagatelos Law Firm 380 West Portal Avenue, Suite F San Francisco, CA 94127 Your Request for Advice Our FiIe No. W-02-301 Dear Mr. Bagatelos: This letter is to inform you that we have withdrawn your request for advice conceming provisions of the Political Reform Act governing slate mailers. Because your question does not refer to an identifiable client faced by a specific problem, we cannot provide you with the advice you requested. (Regulation 18329(bXD)(8).) If you have a client whose actual circumstances pose one of the questions you asked us to consider, we will be happy to respond once we are given the necessary facts Bear in mind that due to staff shortages and the state hiring fueeze, the time period for a response may vary, but we will respond as soon as possible. Sincerely, Luisa Menchaca General Counsel By: Lawrence T. Woodlock Senior Counsel, Legal Division Enclosure LTwjg",
+    "first_500_words": "FAIR POLITICAL PRACTICES COMMISSION 428 J Street • Suite 620 • Sacramento, CA 95814-2329 (916) 322-5660 • Fax (916) 322-0886 December 12, 2002 Peter A. Bagatelos Bagatelos Law Firm 380 West Portal Avenue, Suite F San Francisco, CA 94127 Re: Your Request for Advice Our File No. W-02-301 Dear Mr. Bagatelos: This letter is to inform you that we have withdrawn your request for advice concerning provisions of the Political Reform Act governing state mailers. Because your question does not refer to an identifiable client faced by a specific problem, we cannot provide you with the advice you requested. (Regulation 18329(b)(D)(8).) If you have a client whose actual circumstances pose one of the questions you asked us to consider, we will be happy to respond once we are given the necessary facts. Bear in mind that due to staff shortages and the state hiring freeze, the time period for a response may vary, but we will respond as soon as possible. Sincerely, Luisa Menchaca General Counsel By: Lawrence T. Woodlock Senior Counsel, Legal Division Enclosure LTW:jg",
     "summary": null
   }
 }

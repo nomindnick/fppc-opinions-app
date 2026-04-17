@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=5"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:37:08.773128Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-20T15:25:31.857798Z",
     "page_count": 1,
     "word_count": 93,
-    "char_count": 605,
-    "quality_score": 0.5975,
+    "char_count": 709,
+    "quality_score": 0.865622898338221,
     "olmocr_cost": null,
-    "native_word_count": 93
+    "native_word_count": 93,
+    "haiku_cost": 0.001992
   },
   "content": {
-    "full_text": "State of California \nMemorandum \nTo \nFrom \nSubject: \nFile \nFAIR POLITICAL PRACTICES COMMISSION \nLee Rosenthal \nSection 86110 \nDate \nJuly 11, 1978 \n-:2Sc:) \n1J7~ '7?-l1sJ,; \nThe Legislature, in its attempt to agree on a \npost Proposition 13 budget, continued in session until \nJuly 5. \nSection 86110 requires Section 86107 and Section \n86109 reports to be filed during the month following \nany month \"during any part of which\" the Legislature is \nin session. \nTherefore, although the Legislature only \nmet for 5 days in July, lobbyists, etc. are required to \nfile reports in August covering July. \nLR:plh \n",
+    "full_text": "State of California\n\nMemorandum\n\nTo      :   File                                                                                              Date    :   July 11, 1978\n\n\nFrom    :   FAIR POLITICAL PRACTICES COMMISSION\n            Lee Rosenthal\n\nSubject:    Section 86110\n\n            The Legislature, in its attempt to agree on a\npost Proposition 13 budget, continued in session until\nJuly 5.  Section 86110 requires Section 86107 and Section\n86109 reports to be filed during the month following\nany month \"during any part of which\" the Legislature is\nin session.  Therefore, although the Legislature only\nmet for 5 days in July, lobbyists, etc. are required to\nfile reports in August covering July.\n\n\nLR:plh",
     "full_text_markdown": null
   },
   "parsed": {
@@ -69,7 +70,7 @@
   "embedding": {
     "qa_text": "QUESTION: When must lobbyists file reports under Sections 86107 and 86109 if the Legislature is in session for only part of a month?\n\nCONCLUSION: Lobbyists must file reports in the month following any month during which the Legislature is in session, even if only for part of that month. Since the Legislature met for 5 days in July 1978, reports covering July must be filed in August.",
     "qa_source": "synthetic",
-    "first_500_words": "State of California Memorandum To From Subject: File FAIR POLITICAL PRACTICES COMMISSION Lee Rosenthal Section 86110 Date July 11, 1978 -:2Sc:) 1J7~ '7?-l1sJ,; The Legislature, in its attempt to agree on a post Proposition 13 budget, continued in session until July 5. Section 86110 requires Section 86107 and Section 86109 reports to be filed during the month following any month \"during any part of which\" the Legislature is in session. Therefore, although the Legislature only met for 5 days in July, lobbyists, etc. are required to file reports in August covering July. LR:plh",
+    "first_500_words": "State of California Memorandum To : File Date : July 11, 1978 From : FAIR POLITICAL PRACTICES COMMISSION Lee Rosenthal Subject: Section 86110 The Legislature, in its attempt to agree on a post Proposition 13 budget, continued in session until July 5. Section 86110 requires Section 86107 and Section 86109 reports to be filed during the month following any month \"during any part of which\" the Legislature is in session. Therefore, although the Legislature only met for 5 days in July, lobbyists, etc. are required to file reports in August covering July. LR:plh",
     "summary": "FPPC memorandum clarifying that Section 86110 requires lobbyist reports to be filed in the month following any month in which the Legislature is in session, regardless of whether the session spans only part of that month."
   }
 }

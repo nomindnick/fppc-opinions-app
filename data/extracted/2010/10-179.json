@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2010&tagCount=1&page=8"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:33:53.020117Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-21T22:36:24.360503Z",
     "page_count": 1,
-    "word_count": 236,
-    "char_count": 1353,
-    "quality_score": 0.7175,
+    "word_count": 233,
+    "char_count": 1367,
+    "quality_score": 0.9012618391879252,
     "olmocr_cost": null,
-    "native_word_count": 236
+    "native_word_count": 236,
+    "haiku_cost": 0.002876
   },
   "content": {
-    "full_text": "Re:\nFnrn PolrrrcAI- PRACrrcEs C ouvrrssroN\n428 J Street o Suite 620 e Sacramento, CA 95814-2329\n(916) 322-5660 o Fax (916) 322-0886\nDecember 8, 2010\nElizabeth Sholes\nsholes @ calchurches.org\nYour Request for Advice\nOur File No. W-10-179\nDear Ms. Sholes\nOn October 20,2010 we received via email, from the address listed above, your request\nfor advice on provisions of the Political Reform Act. Our clerical staff tried twice to contact you\nat that email address, since you did not provide a street address or a telephone number. On\nNovember 15,20lO I sent another inquiry to that email address, requesting a response. On\nNovember 17, having received no response, I sent a follow-up message stating that if we were\nunable to establish communication with you within the next ten (10) days, we would close the\nfile without further action. We now advise you that we have closed this file, and in so doing\nhave withdrawn your request for written advice.\nIf you wish to explore your questions further, I urge you to send us a letter with your\nstreet address, or discuss your needs with one of our staff on our advice line, which you can\nreach at 1 - 866 - ASK- FPPC. You can speak to our staff from 9:00 - 11:30 and 1:30 - 3:30,\nMonday through Thursday.\nSincerely\nScott Hallabrin\nGeneral Counsel\nr\nf.\nLawrence T. Woodlock\nSenior Commission Counsel\nLTW:jgI\ni4F\n",
+    "full_text": "FAIR POLITICAL PRACTICES COMMISSION\n428 J Street • Suite 620 • Sacramento, CA 95814-2329\n(916) 322-5660 • Fax (916) 322-0886\n\nDecember 8, 2010\n\n\nElizabeth Sholes\nsholes@calchurches.org\n\n\nRe: Your Request for Advice\nOur File No. W-10-179\n\nDear Ms. Sholes:\n\nOn October 20, 2010 we received via email, from the address listed above, your request\nfor advice on provisions of the Political Reform Act. Our clerical staff tried twice to contact you\nat that email address, since you did not provide a street address or a telephone number. On\nNovember 15, 2010 I sent another inquiry to that email address, requesting a response. On\nNovember 17, having received no response, I sent a follow-up message stating that if we were\nunable to establish communication with you within the next ten (10) days, we would close the\nfile without further action. We now advise you that we have closed this file, and in so doing\nhave withdrawn your request for written advice.\n\nIf you wish to explore your questions further, I urge you to send us a letter with your\nstreet address, or discuss your needs with one of our staff on our advice line, which you can\nreach at 1 – 866 – ASK- FPPC. You can speak to our staff from 9:00 – 11:30 and 1:30 – 3:30,\nMonday through Thursday.\n\nSincerely,\n\nScott Hallabrin\nGeneral Counsel\n\n[illegible]\n\nLawrence T. Woodlock\nSenior Commission Counsel\n\nLTW:jgl",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "QUESTION: The requestor submitted a question regarding the Political Reform Act, but no specific question text is provided in this document.\n\nCONCLUSION: The FPPC has closed the file and withdrawn the request for written advice due to inability to establish communication with the requestor after multiple attempts.",
     "qa_source": "synthetic",
-    "first_500_words": "Re: Fnrn PolrrrcAI- PRACrrcEs C ouvrrssroN 428 J Street o Suite 620 e Sacramento, CA 95814-2329 (916) 322-5660 o Fax (916) 322-0886 December 8, 2010 Elizabeth Sholes sholes @ calchurches.org Your Request for Advice Our File No. W-10-179 Dear Ms. Sholes On October 20,2010 we received via email, from the address listed above, your request for advice on provisions of the Political Reform Act. Our clerical staff tried twice to contact you at that email address, since you did not provide a street address or a telephone number. On November 15,20lO I sent another inquiry to that email address, requesting a response. On November 17, having received no response, I sent a follow-up message stating that if we were unable to establish communication with you within the next ten (10) days, we would close the file without further action. We now advise you that we have closed this file, and in so doing have withdrawn your request for written advice. If you wish to explore your questions further, I urge you to send us a letter with your street address, or discuss your needs with one of our staff on our advice line, which you can reach at 1 - 866 - ASK- FPPC. You can speak to our staff from 9:00 - 11:30 and 1:30 - 3:30, Monday through Thursday. Sincerely Scott Hallabrin General Counsel r f. Lawrence T. Woodlock Senior Commission Counsel LTW:jgI i4F",
+    "first_500_words": "FAIR POLITICAL PRACTICES COMMISSION 428 J Street • Suite 620 • Sacramento, CA 95814-2329 (916) 322-5660 • Fax (916) 322-0886 December 8, 2010 Elizabeth Sholes sholes@calchurches.org Re: Your Request for Advice Our File No. W-10-179 Dear Ms. Sholes: On October 20, 2010 we received via email, from the address listed above, your request for advice on provisions of the Political Reform Act. Our clerical staff tried twice to contact you at that email address, since you did not provide a street address or a telephone number. On November 15, 2010 I sent another inquiry to that email address, requesting a response. On November 17, having received no response, I sent a follow-up message stating that if we were unable to establish communication with you within the next ten (10) days, we would close the file without further action. We now advise you that we have closed this file, and in so doing have withdrawn your request for written advice. If you wish to explore your questions further, I urge you to send us a letter with your street address, or discuss your needs with one of our staff on our advice line, which you can reach at 1 – 866 – ASK- FPPC. You can speak to our staff from 9:00 – 11:30 and 1:30 – 3:30, Monday through Thursday. Sincerely, Scott Hallabrin General Counsel [illegible] Lawrence T. Woodlock Senior Commission Counsel LTW:jgl",
     "summary": "This is a withdrawal letter from the FPPC informing Elizabeth Sholes that her request for advice (File No. W-10-179) has been closed and withdrawn due to lack of response after two unsuccessful contact attempts and a follow-up warning notice."
   }
 }

@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1985&tagCount=1&page=7"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:36:38.750544Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-23T22:24:14.041303Z",
     "page_count": 1,
-    "word_count": 142,
-    "char_count": 924,
-    "quality_score": 0.5975,
+    "word_count": 148,
+    "char_count": 1006,
+    "quality_score": 0.8950802423112768,
     "olmocr_cost": null,
-    "native_word_count": 142
+    "native_word_count": 142,
+    "haiku_cost": 0.002228
   },
   "content": {
-    "full_text": "TO: \nFROM: \nDATE: \nSUBJECT: \nBarbara Milman \nChief Counsel \nFair Political Practices Commission \nVance Raye \nGovernor's Office \nMay 1, 1985 \nPolitical Reform Act Reporting Obligations \nThis will confirm our telephone conversation of May 1, 1985 \nregarding the Governor's reporting obligation with respect to \ndonated aircraft services which were utilized for a personal trip. \nAlthough we did not discuss the nature of the trip, you may be \ninterested in knowing that the trip was taken to attend a \nrelative's funeral. \nYou advised that the usual rules pertaining to reimbursement \nfor air transportation apply to personal as well as State business \nor campaign trips: \nIf the Governor reimburses the provider of the \ntransportation at the scheduled commercial air rate, there is no \nobligation to report the value of the trip on the Governor's \nStatement of Economic Interests. \nThank you for your advice on this matter. \n",
+    "full_text": "T-85-105\n\nMAY 0 5 28AM 05\n\nTO:         Barbara Milman\n            Chief Counsel\n            Fair Political Practices Commission\n\nFROM:       Vance Raye\n            Governor's Office\n\nDATE:       May 1, 1985\n\nSUBJECT:    Political Reform Act Reporting Obligations\n\n     This will confirm our telephone conversation of May 1, 1985\nregarding the Governor's reporting obligation with respect to\ndonated aircraft services which were utilized for a personal trip.\nAlthough we did not discuss the nature of the trip, you may be\ninterested in knowing that the trip was taken to attend a\nrelative's funeral.\n\n     You advised that the usual rules pertaining to reimbursement\nfor air transportation apply to personal as well as State business\nor campaign trips.  If the Governor reimburses the provider of the\ntransportation at the scheduled commercial air rate, there is no\nobligation to report the value of the trip on the Governor's\nStatement of Economic Interests.\n\n     Thank you for your advice on this matter.",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "TO: FROM: DATE: SUBJECT: Barbara Milman Chief Counsel Fair Political Practices Commission Vance Raye Governor's Office May 1, 1985 Political Reform Act Reporting Obligations This will confirm our telephone conversation of May 1, 1985 regarding the Governor's reporting obligation with respect to donated aircraft services which were utilized for a personal trip. Although we did not discuss the nature of the trip, you may be interested in knowing that the trip was taken to attend a relative's funeral. You advised that the usual rules pertaining to reimbursement for air transportation apply to personal as well as State business or campaign trips: If the Governor reimburses the provider of the transportation at the scheduled commercial air rate, there is no obligation to report the value of the trip on the Governor's Statement of Economic Interests. Thank you for your advice on this matter.",
     "qa_source": "synthetic",
-    "first_500_words": "TO: FROM: DATE: SUBJECT: Barbara Milman Chief Counsel Fair Political Practices Commission Vance Raye Governor's Office May 1, 1985 Political Reform Act Reporting Obligations This will confirm our telephone conversation of May 1, 1985 regarding the Governor's reporting obligation with respect to donated aircraft services which were utilized for a personal trip. Although we did not discuss the nature of the trip, you may be interested in knowing that the trip was taken to attend a relative's funeral. You advised that the usual rules pertaining to reimbursement for air transportation apply to personal as well as State business or campaign trips: If the Governor reimburses the provider of the transportation at the scheduled commercial air rate, there is no obligation to report the value of the trip on the Governor's Statement of Economic Interests. Thank you for your advice on this matter.",
+    "first_500_words": "T-85-105 MAY 0 5 28AM 05 TO: Barbara Milman Chief Counsel Fair Political Practices Commission FROM: Vance Raye Governor's Office DATE: May 1, 1985 SUBJECT: Political Reform Act Reporting Obligations This will confirm our telephone conversation of May 1, 1985 regarding the Governor's reporting obligation with respect to donated aircraft services which were utilized for a personal trip. Although we did not discuss the nature of the trip, you may be interested in knowing that the trip was taken to attend a relative's funeral. You advised that the usual rules pertaining to reimbursement for air transportation apply to personal as well as State business or campaign trips. If the Governor reimburses the provider of the transportation at the scheduled commercial air rate, there is no obligation to report the value of the trip on the Governor's Statement of Economic Interests. Thank you for your advice on this matter.",
     "summary": "Thank you letter from Vance Raye (Governor's Office) to Barbara Milman (FPPC Chief Counsel) confirming a telephone conversation regarding the Governor's reporting obligations for donated aircraft services used for a personal trip to attend a relative's funeral."
   }
 }

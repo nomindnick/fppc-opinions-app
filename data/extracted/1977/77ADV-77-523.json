@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=49"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:37:16.613626Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-22T00:58:09.100881Z",
     "page_count": 1,
-    "word_count": 78,
-    "char_count": 469,
-    "quality_score": 0.5075,
+    "word_count": 132,
+    "char_count": 1304,
+    "quality_score": 0.8810176166990779,
     "olmocr_cost": null,
-    "native_word_count": 78
+    "native_word_count": 78,
+    "haiku_cost": 0.002464
   },
   "content": {
-    "full_text": "February 25, 1977 \nBob Stern \nFair Political Practices Commission \nPost Office Box 807 \nSacramento, California 95804 \nDear Bob: \nI would like a written opinion to the following \nquestion. \nDoes the fact that a bank issues a credit \ncard to a campaign constitute a loan to \nthe campaign, especially if the balance \nowed on the charge card were not paid \noff within 30 days. \nI would appreciate your answer to this question \nas soon as possible. \nSincerely, \nBOB WILSON \n",
+    "full_text": "Credit Cards                                    84210(g)+14)\n\nCAMPA/GN HEADQUARTERS\n1229 N HOLLYWOOD\nN VIAS CALIFORNIA 92201\n\nEL CAJON\nPOST OFFICE BOX 1171\nEL CAJON, CALIFORNIA 92022\n441-2411\n\n\n                                        BOB WILSON\n                            ASSEMBLYMAN, FORTIETH DISTRICT\n                                    CHAIRMAN\n                    ASSEMBLY GOVERNMENTAL ORGANIZATION COMMITTEE\n\n\n                                February 25, 1977\n\n                                                        A-77-523\n\n\nBob Stern\nFair Political Practices Commission\nPost Office Box 807\nSacramento, California 95804\n\nDear Bob:\n\n     I would like a written opinion to the following\nquestion.\n\n          Does the fact that a bank issues a credit\n          card to a campaign constitute a loan to\n          the campaign, especially if the balance\n          owed on the charge card were not paid\n          off within 30 days.\n\n     I would appreciate your answer to this question\nas soon as possible.\n\n     Sincerely,\n                                    Line of credit is reportable item to the\n                                    campaign. Items charged are accrued expenses.\n     BOB WILSON\n\n\n                                                        123\n     NOT PRINTED OR DISTRIBUTED PURSUANT",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "QUESTION: . \nDoes the fact that a bank issues a credit \ncard to a campaign constitute a loan to \nthe campaign, especially if the balance \nowed on the charge card were not paid \noff within 30 days. \nI would appreciate your answer to this question \nas soon as possible.",
     "qa_source": "mixed",
-    "first_500_words": "February 25, 1977 Bob Stern Fair Political Practices Commission Post Office Box 807 Sacramento, California 95804 Dear Bob: I would like a written opinion to the following question. Does the fact that a bank issues a credit card to a campaign constitute a loan to the campaign, especially if the balance owed on the charge card were not paid off within 30 days. I would appreciate your answer to this question as soon as possible. Sincerely, BOB WILSON",
+    "first_500_words": "Credit Cards 84210(g)+14) CAMPA/GN HEADQUARTERS 1229 N HOLLYWOOD N VIAS CALIFORNIA 92201 EL CAJON POST OFFICE BOX 1171 EL CAJON, CALIFORNIA 92022 441-2411 BOB WILSON ASSEMBLYMAN, FORTIETH DISTRICT CHAIRMAN ASSEMBLY GOVERNMENTAL ORGANIZATION COMMITTEE February 25, 1977 A-77-523 Bob Stern Fair Political Practices Commission Post Office Box 807 Sacramento, California 95804 Dear Bob: I would like a written opinion to the following question. Does the fact that a bank issues a credit card to a campaign constitute a loan to the campaign, especially if the balance owed on the charge card were not paid off within 30 days. I would appreciate your answer to this question as soon as possible. Sincerely, Line of credit is reportable item to the campaign. Items charged are accrued expenses. BOB WILSON 123 NOT PRINTED OR DISTRIBUTED PURSUANT",
     "summary": "Bob Wilson requests a written FPPC opinion on whether a bank credit card issued to a campaign constitutes a loan, particularly when balances are not paid off within 30 days."
   }
 }

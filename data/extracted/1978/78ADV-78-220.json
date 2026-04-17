@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=9"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:37:09.098140Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-24T15:21:02.620705Z",
     "page_count": 1,
-    "word_count": 156,
-    "char_count": 952,
-    "quality_score": 0.7150000000000001,
+    "word_count": 155,
+    "char_count": 936,
+    "quality_score": 0.9027291521544432,
     "olmocr_cost": null,
-    "native_word_count": 156
+    "native_word_count": 156,
+    "haiku_cost": 0.002252
   },
   "content": {
-    "full_text": "Mr. Herbert M. Schulze \n875 Millbrae Avenue \nFebruary 2, 1978 \nSanta Rosa, California 95401 \nDear Mr. Schulze: \nIn your letter of January 27, 1978, you ask whether it is necessary \nfor the Sonoma County Democratic Central Committee - which I under-\nstand to be a committee that has received contributions in the past \n- to file a form 410 each year. \nThe form 410, Statement of Organization, is filed only upon the \norganization of a recipient committee. It is not to be filed \nannually. \nWhenever any of the information contained in the 410 has \nchanged, an amendment must be filed within 10 days of the change. \nIn answer to your second question, if you have neither received \ncontributions nor made expenditures during 1977, it is not necessary \nto file campaign statements for 1977. \nYou may, however, file form \n421, the voluntary committee report of no activity. \nSincerely yours, \nJohn D. Giansello \nTechnical Assistance and \nAnalysis Division \n",
+    "full_text": "February 2, 1978\n\n\nMr. Herbert M. Schulze\n875 Millbrae Avenue\nSanta Rosa, California 95401\n\nDear Mr. Schulze:\n\nIn your letter of January 27, 1978, you ask whether it is necessary\nfor the Sonoma County Democratic Central Committee - which I understand to be a committee that has received contributions in the past\n- to file a form 410 each year.\n\nThe form 410, Statement of Organization, is filed only upon the\norganization of a recipient committee. It is not to be filed\nannually. Whenever any of the information contained in the 410 has\nchanged, an amendment must be filed within 10 days of the change.\n\nIn answer to your second question, if you have neither received\ncontributions nor made expenditures during 1977, it is not necessary\nto file campaign statements for 1977. You may, however, file form\n421, the voluntary committee report of no activity.\n\nSincerely yours,\n\n\nJohn D. Giansello\nTechnical Assistance and\nAnalysis Division",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "QUESTION: Whether it is necessary for the Sonoma County Democratic Central Committee - which has received contributions in the past - to file a form 410 each year, and whether campaign statements must be filed if no contributions were received nor expenditures made during 1977.\n\nCONCLUSION: The form 410, Statement of Organization, is filed only upon the organization of a recipient committee. It is not to be filed annually. Whenever any of the information contained in the 410 has changed, an amendment must be filed within 10 days of the change. If you have neither received contributions nor made expenditures during 1977, it is not necessary to file campaign statements for 1977. You may, however, file form 421, the voluntary committee report of no activity.",
     "qa_source": "mixed",
-    "first_500_words": "Mr. Herbert M. Schulze 875 Millbrae Avenue February 2, 1978 Santa Rosa, California 95401 Dear Mr. Schulze: In your letter of January 27, 1978, you ask whether it is necessary for the Sonoma County Democratic Central Committee - which I under- stand to be a committee that has received contributions in the past - to file a form 410 each year. The form 410, Statement of Organization, is filed only upon the organization of a recipient committee. It is not to be filed annually. Whenever any of the information contained in the 410 has changed, an amendment must be filed within 10 days of the change. In answer to your second question, if you have neither received contributions nor made expenditures during 1977, it is not necessary to file campaign statements for 1977. You may, however, file form 421, the voluntary committee report of no activity. Sincerely yours, John D. Giansello Technical Assistance and Analysis Division",
+    "first_500_words": "February 2, 1978 Mr. Herbert M. Schulze 875 Millbrae Avenue Santa Rosa, California 95401 Dear Mr. Schulze: In your letter of January 27, 1978, you ask whether it is necessary for the Sonoma County Democratic Central Committee - which I understand to be a committee that has received contributions in the past - to file a form 410 each year. The form 410, Statement of Organization, is filed only upon the organization of a recipient committee. It is not to be filed annually. Whenever any of the information contained in the 410 has changed, an amendment must be filed within 10 days of the change. In answer to your second question, if you have neither received contributions nor made expenditures during 1977, it is not necessary to file campaign statements for 1977. You may, however, file form 421, the voluntary committee report of no activity. Sincerely yours, John D. Giansello Technical Assistance and Analysis Division",
     "summary": "FPPC responds to inquiries from the Sonoma County Democratic Central Committee regarding Form 410 filing requirements and campaign statement obligations when there is no activity."
   }
 }

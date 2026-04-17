@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1978&tagCount=1&page=34"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:37:11.664165Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-20T21:01:31.166204Z",
     "page_count": 1,
-    "word_count": 74,
-    "char_count": 442,
-    "quality_score": 0.5075,
+    "word_count": 77,
+    "char_count": 546,
+    "quality_score": 0.858589512374418,
     "olmocr_cost": null,
-    "native_word_count": 74
+    "native_word_count": 74,
+    "haiku_cost": 0.001792
   },
   "content": {
-    "full_text": "Stale of California \nMemorandum \nTo \nFile \nDafe \nMay 6, 1978 \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nGina S-K \nSubject: \nAgenda item at opinion request meeting of March 31, 1978 \nA media business which produces campaign material for sale \nto the public for the sole purpose of making money without \nan intent to influence the action of voters is not a \ncommittee and has no reporting obligation as a result of \nthe sale of the material. \n",
+    "full_text": "State of California\n\nMemorandum\n\nTo     :     File                                                                  Date     :     May 6, 1978\n\n\nFrom     :     FAIR POLITICAL PRACTICES COMMISSION\n               Gina S-K\n\nSubject:     Agenda item at opinion request meeting of March 31, 1978\n\n\nA media business which produces campaign material for sale\nto the public for the sole purpose of making money without\nan intent to influence the action of voters is not a\ncommittee and has no reporting obligation as a result of\nthe sale of the material.",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "QUESTION: Whether a media business that produces and sells campaign materials solely for profit, without intent to influence voters, qualifies as a committee with reporting obligations under California political practices law.\n\nCONCLUSION: A media business which produces campaign material for sale to the public for the sole purpose of making money without an intent to influence the action of voters is not a committee and has no reporting obligation as a result of the sale of the material.",
     "qa_source": "mixed",
-    "first_500_words": "Stale of California Memorandum To File Dafe May 6, 1978 From FAIR POLITICAL PRACTICES COMMISSION Gina S-K Subject: Agenda item at opinion request meeting of March 31, 1978 A media business which produces campaign material for sale to the public for the sole purpose of making money without an intent to influence the action of voters is not a committee and has no reporting obligation as a result of the sale of the material.",
+    "first_500_words": "State of California Memorandum To : File Date : May 6, 1978 From : FAIR POLITICAL PRACTICES COMMISSION Gina S-K Subject: Agenda item at opinion request meeting of March 31, 1978 A media business which produces campaign material for sale to the public for the sole purpose of making money without an intent to influence the action of voters is not a committee and has no reporting obligation as a result of the sale of the material.",
     "summary": "FPPC memorandum responding to a March 31, 1978 opinion request meeting agenda item regarding whether a media business selling campaign materials for profit constitutes a reportable committee under political practices law."
   }
 }

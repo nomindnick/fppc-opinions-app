@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1984&tagCount=1&page=11"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:36:46.852807Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-22T03:30:31.604122Z",
     "page_count": 1,
-    "word_count": 188,
-    "char_count": 1181,
-    "quality_score": 0.635,
+    "word_count": 197,
+    "char_count": 1324,
+    "quality_score": 0.8778770348425943,
     "olmocr_cost": null,
-    "native_word_count": 188
+    "native_word_count": 188,
+    "haiku_cost": 0.002524
   },
   "content": {
-    "full_text": "State of California \nMemorandum \nTo \n: Advice File: \nSection 84102 \n84211 \n84214 \nDate \nDe c. 2 7, 19 84 \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nCarla Wardlow \nSubject: Applicability of Elections Code Section l2404--Disposi tion \nof Surplus Campaign Funds \nElections Code Section 12404 states, in part: \nUpon leaving any elective office, or at the end of \nthe post election reporting period following the \ndefeat of a candidate for elective office, whichever \noccurs last, surplus campaign funds under the con-\ntrol of a former candidate or officeholder or his or \nher controlled committee shall only be used or held \nfor the following purposes: \nRecently, I spoke with Gene Hill of the Attorney General's \noffice and asked him if his office interprets Section 12404 \nas applying to all surplus campaign funds. \nHe indicated \nthat because it refers specifically to funds held by office-\nholders who are leaving office and defeated candidates, the \nrestrictions set forth in Section 12404 apply only to those \nindividuals. \nHe has no problem with suggesting to persons \nnot covered by the provisions that they may want to use \n12404 as a guide when disposing of surplus funds. \n",
+    "full_text": "State of California\n\nM e m o r a n d u m\n\nTo     : Advice File: Section 84102                Date  : Dec. 27, 1984\n                     84211                 /M-84-930\n                     84214\n\n\nFrom  : FAIR POLITICAL PRACTICES COMMISSION\n        Carla Wardlow\n\nSubject: Applicability of Elections Code Section 12404--Disposition\n        of Surplus Campaign Funds\n\n\nElections Code Section 12404 states, in part:\n\n       Upon leaving any elective office, or at the end of\n       the post election reporting period following the\n       defeat of a candidate for elective office, whether\n       occurs last, surplus campaign funds under the con-\n       trol of a former candidate or officeholder or his or\n       her controlled committee shall only be used or held\n       for the following purposes: ....\n\nRecently, I spoke with Gene Hill of the Attorney General's\noffice and asked him if his office interprets Section 12404\nas applying to all surplus campaign funds. He indicated\nthat because it refers specifically to funds held by office-\nholders who are leaving office and defeated candidates, the\nrestrictions set forth in Section 12404 apply only to those\nindividuals. He has no problem with suggesting to persons\nnot covered by the provisions that they may want to use\n12404 as a guide when disposing of surplus funds.",
     "full_text_markdown": null
   },
   "parsed": {
@@ -67,7 +68,7 @@
   "embedding": {
     "qa_text": "QUESTION: Does Elections Code Section 12404 regarding disposition of surplus campaign funds apply to all candidates and officeholders, or only to those leaving office or defeated candidates?\n\nCONCLUSION: Section 12404 applies only to officeholders who are leaving office and defeated candidates. For persons not covered by the statute, Section 12404 may be suggested as a guideline for disposing of surplus funds, but is not mandatory.",
     "qa_source": "synthetic",
-    "first_500_words": "State of California Memorandum To : Advice File: Section 84102 84211 84214 Date De c. 2 7, 19 84 From FAIR POLITICAL PRACTICES COMMISSION Carla Wardlow Subject: Applicability of Elections Code Section l2404--Disposi tion of Surplus Campaign Funds Elections Code Section 12404 states, in part: Upon leaving any elective office, or at the end of the post election reporting period following the defeat of a candidate for elective office, whichever occurs last, surplus campaign funds under the con- trol of a former candidate or officeholder or his or her controlled committee shall only be used or held for the following purposes: Recently, I spoke with Gene Hill of the Attorney General's office and asked him if his office interprets Section 12404 as applying to all surplus campaign funds. He indicated that because it refers specifically to funds held by office- holders who are leaving office and defeated candidates, the restrictions set forth in Section 12404 apply only to those individuals. He has no problem with suggesting to persons not covered by the provisions that they may want to use 12404 as a guide when disposing of surplus funds.",
+    "first_500_words": "State of California M e m o r a n d u m To : Advice File: Section 84102 Date : Dec. 27, 1984 84211 /M-84-930 84214 From : FAIR POLITICAL PRACTICES COMMISSION Carla Wardlow Subject: Applicability of Elections Code Section 12404--Disposition of Surplus Campaign Funds Elections Code Section 12404 states, in part: Upon leaving any elective office, or at the end of the post election reporting period following the defeat of a candidate for elective office, whether occurs last, surplus campaign funds under the con- trol of a former candidate or officeholder or his or her controlled committee shall only be used or held for the following purposes: .... Recently, I spoke with Gene Hill of the Attorney General's office and asked him if his office interprets Section 12404 as applying to all surplus campaign funds. He indicated that because it refers specifically to funds held by office- holders who are leaving office and defeated candidates, the restrictions set forth in Section 12404 apply only to those individuals. He has no problem with suggesting to persons not covered by the provisions that they may want to use 12404 as a guide when disposing of surplus funds.",
     "summary": "FPPC memorandum documenting consultation with the Attorney General's office regarding the scope of Elections Code Section 12404's restrictions on surplus campaign fund disposition, concluding the statute applies only to specific categories of individuals."
   }
 }

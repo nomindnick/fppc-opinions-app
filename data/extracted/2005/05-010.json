@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2005&tagCount=1&page=5"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:34:15.015971Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-23T12:45:12.363636Z",
     "page_count": 1,
-    "word_count": 199,
-    "char_count": 1302,
-    "quality_score": 0.7175,
+    "word_count": 205,
+    "char_count": 1330,
+    "quality_score": 0.96684711778592,
     "olmocr_cost": null,
-    "native_word_count": 199
+    "native_word_count": 199,
+    "haiku_cost": 0.002708
   },
   "content": {
-    "full_text": "Farn Pouucal PnacrICES Corr,rl,rrssroN\n428 J Street . Suite 620 o Sacramento, CA 95814-2329\n(916) 322-s660 o Fax (916) 322-0886\nFebruary 2,2005\nMaria E. Nunez\nPost Office Box 733\nPlymouth, CA95669\nRe:\nYour Request for Advice\nOur File No. W-05-010\nDear Ms. Nunez:\nThis letter confirms the receipt of your January 13,2OO5,request for advice regarding a\ncity council member's conflict of interest on an upcoming Indian casino issue. Under the\nprovisions of California Code of Regulations section 18329(bX8)(B), unless you are an\nauthorized representative of the person for whom you seek assistance, the Fair Political Practices\nCommission cannot address your questions or provide analysis.\nFormal written advice may be requested when the name, title or position, and mailing\naddress of the person whose duties are in question are provided. (Regulation 18329(bX2)(A).)\nI have enclosed a copy of regulation 18329 for your review.\nIf you believe a violation of the Political Reform Act has occurred, you may file a\ncomplaint with our Enforcement Division (please see \"Filing a Complaint,\" enclosed.)\nShould you have any additional questions with regard to this matter, please contact the\nCommission at (916) 322-5660.\nSincerely,\nLuisa Menchaca\nGeneral Counsel\nWallace\nGeneral Counsel\nohn W.\nEnclosures\nLM:jg\n",
+    "full_text": "FAIR POLITICAL PRACTICES COMMISSION\n428 J Street • Suite 620 • Sacramento, CA 95814-2329\n(916) 322-5660 • Fax (916) 322-0886\n\nFebruary 2, 2005\n\nMaria E. Nunez\nPost Office Box 733\nPlymouth, CA 95669\n\nRe: Your Request for Advice\nOur File No. W-05-010\n\nDear Ms. Nunez:\n\nThis letter confirms the receipt of your January 13, 2005, request for advice regarding a city council member's conflict of interest on an upcoming Indian casino issue. Under the provisions of California Code of Regulations section 18329(b)(8)(B), unless you are an authorized representative of the person for whom you seek assistance, the Fair Political Practices Commission cannot address your questions or provide analysis.\n\nFormal written advice may be requested when the name, title or position, and mailing address of the person whose duties are in question are provided. (Regulation 18329(b)(2)(A).) I have enclosed a copy of regulation 18329 for your review.\n\nIf you believe a violation of the Political Reform Act has occurred, you may file a complaint with our Enforcement Division (please see \"Filing a Complaint,\" enclosed.)\n\nShould you have any additional questions with regard to this matter, please contact the Commission at (916) 322-5660.\n\nSincerely,\nLuisa Menchaca\nGeneral Counsel\n\nBy: John W. Wallace\nAssistant General Counsel\n\nEnclosures\nLM:jg",
     "full_text_markdown": null
   },
   "parsed": {
@@ -67,7 +68,7 @@
   "embedding": {
     "qa_text": "QUESTION: Can the FPPC provide advice regarding a city council member's potential conflict of interest on an upcoming Indian casino issue?\n\nCONCLUSION: The FPPC cannot provide advice because the requestor is not an authorized representative of the person whose duties are in question; formal written advice requires the name, title, position, and mailing address of the person whose duties are being questioned.",
     "qa_source": "synthetic",
-    "first_500_words": "Farn Pouucal PnacrICES Corr,rl,rrssroN 428 J Street . Suite 620 o Sacramento, CA 95814-2329 (916) 322-s660 o Fax (916) 322-0886 February 2,2005 Maria E. Nunez Post Office Box 733 Plymouth, CA95669 Re: Your Request for Advice Our File No. W-05-010 Dear Ms. Nunez: This letter confirms the receipt of your January 13,2OO5,request for advice regarding a city council member's conflict of interest on an upcoming Indian casino issue. Under the provisions of California Code of Regulations section 18329(bX8)(B), unless you are an authorized representative of the person for whom you seek assistance, the Fair Political Practices Commission cannot address your questions or provide analysis. Formal written advice may be requested when the name, title or position, and mailing address of the person whose duties are in question are provided. (Regulation 18329(bX2)(A).) I have enclosed a copy of regulation 18329 for your review. If you believe a violation of the Political Reform Act has occurred, you may file a complaint with our Enforcement Division (please see \"Filing a Complaint,\" enclosed.) Should you have any additional questions with regard to this matter, please contact the Commission at (916) 322-5660. Sincerely, Luisa Menchaca General Counsel Wallace General Counsel ohn W. Enclosures LM:jg",
+    "first_500_words": "FAIR POLITICAL PRACTICES COMMISSION 428 J Street • Suite 620 • Sacramento, CA 95814-2329 (916) 322-5660 • Fax (916) 322-0886 February 2, 2005 Maria E. Nunez Post Office Box 733 Plymouth, CA 95669 Re: Your Request for Advice Our File No. W-05-010 Dear Ms. Nunez: This letter confirms the receipt of your January 13, 2005, request for advice regarding a city council member's conflict of interest on an upcoming Indian casino issue. Under the provisions of California Code of Regulations section 18329(b)(8)(B), unless you are an authorized representative of the person for whom you seek assistance, the Fair Political Practices Commission cannot address your questions or provide analysis. Formal written advice may be requested when the name, title or position, and mailing address of the person whose duties are in question are provided. (Regulation 18329(b)(2)(A).) I have enclosed a copy of regulation 18329 for your review. If you believe a violation of the Political Reform Act has occurred, you may file a complaint with our Enforcement Division (please see \"Filing a Complaint,\" enclosed.) Should you have any additional questions with regard to this matter, please contact the Commission at (916) 322-5660. Sincerely, Luisa Menchaca General Counsel By: John W. Wallace Assistant General Counsel Enclosures LM:jg",
     "summary": "The FPPC declines to provide advice on a city council member's potential conflict of interest regarding an Indian casino issue because the requestor (Maria E. Nunez) is not an authorized representative of the public official in question and did not provide the required identifying information."
   }
 }

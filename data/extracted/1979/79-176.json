@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=6"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:37:05.904757Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-19T18:07:14.866026Z",
     "page_count": 1,
-    "word_count": 72,
-    "char_count": 383,
-    "quality_score": 0.33999999999999997,
+    "word_count": 65,
+    "char_count": 389,
+    "quality_score": 0.6699157803905306,
     "olmocr_cost": null,
-    "native_word_count": 72
+    "native_word_count": 72,
+    "haiku_cost": 0.001716
   },
   "content": {
-    "full_text": "tiLU.5U\"\"' \n87207 (b) (2) \nThe term \"pro rata s \nof any income of any \nbusiness entity\" as us \nin the last sentence of Section \n82030( \nre \nr \nto \no r \nshare of \nnet income \nof any business entity. \nThe term \nfees\" as used in Section \n87207 (b) (2) I \nhowever I refers to \nss \ns. \nThis interpretation was agreed upon by the staff \nduring discussions re \nng to Frank ZO in's letter. \n",
+    "full_text": "82030+\n87207(b)(2)\n\nThe term \"pro rata share of any income of any\n\nbusiness entity\" as used in the last sentence of Section\n\n82030(a) refers to the pro rata share of any net income\n\nof any business entity. The term \"fees\" as used in Section\n\n87207(b)(2), however, refers to gross fees.\n\nThis interpretation was agreed upon by the staff\n\nduring discussions relating to Frank Zolin's letter.",
     "full_text_markdown": null
   },
   "parsed": {
@@ -68,7 +69,7 @@
   "embedding": {
     "qa_text": "QUESTION: The document addresses the interpretation of 'pro rata share' of net income and 'fees' under California Political Reform Act Sections 82030 and 87207(b)(2).\n\nCONCLUSION: The term \"pro rata share\" as used in the last sentence of Section 82030 refers to the proportionate share of net income of any business entity. The term \"fees\" as used in Section 87207(b)(2) refers to gross receipts.",
     "qa_source": "mixed",
-    "first_500_words": "tiLU.5U\"\"' 87207 (b) (2) The term \"pro rata s of any income of any business entity\" as us in the last sentence of Section 82030( re r to o r share of net income of any business entity. The term fees\" as used in Section 87207 (b) (2) I however I refers to ss s. This interpretation was agreed upon by the staff during discussions re ng to Frank ZO in's letter.",
+    "first_500_words": "82030+ 87207(b)(2) The term \"pro rata share of any income of any business entity\" as used in the last sentence of Section 82030(a) refers to the pro rata share of any net income of any business entity. The term \"fees\" as used in Section 87207(b)(2), however, refers to gross fees. This interpretation was agreed upon by the staff during discussions relating to Frank Zolin's letter.",
     "summary": "FPPC advice letter 79-176 provides regulatory interpretation of key terms in the Political Reform Act, specifically defining 'pro rata share' and 'fees' as used in Sections 82030 and 87207(b)(2). The interpretation was agreed upon by FPPC staff during discussions regarding Frank Zorn's letter."
   }
 }

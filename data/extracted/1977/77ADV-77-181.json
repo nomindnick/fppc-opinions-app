@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=13"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:37:12.834829Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-19T21:05:34.302959Z",
     "page_count": 2,
-    "word_count": 116,
-    "char_count": 716,
-    "quality_score": 0.5075,
+    "word_count": 258,
+    "char_count": 1628,
+    "quality_score": 0.8892654764014254,
     "olmocr_cost": null,
-    "native_word_count": 116
+    "native_word_count": 116,
+    "haiku_cost": 0.004312
   },
   "content": {
-    "full_text": "Mr. L. B f \nPost \n9176 \nDear \np \nI \nI \n31, 1977 \nrece \nthe \nconnection \nto \nHmvever. even \nare still rece \nof additional ass \n\n\nLAWRENCE \nCitv Clerk \nFair Political Practices Commission \nP. O. Box 807 \nSacramento, California \n95804 \nCITJbf POMONA \nBox 660, Pomona, CA 91769 \n(714) 600-2341 \nMay 25, 1977 \nAttention: \nTechnical Assistance and Analysis Division \nGentlemen: \nDoes a candidate who is defeated for election in March, and after \nfiling his final campaign statement has an unpaid liability, have \nto file an additional statement when the liability is paid; or \ndoes his obligation to file terminate at the end of this calendar \nyear as set forth in your bulletin dated April 15, 1977. \nCity Clerk \nLBT:fp \n",
+    "full_text": "84294 atag\n84214\n\nMay 31, 1977\n\n77-03-181\n\nMr. L. B. Thomas\nCity Clerk\nPost Office Box 660\nPomona, California 91769\n\nDear Mr. Thomas:\n\nThank you for your letter of May 25, 1977 concerning the filing\nobligations of a defeated candidate for office who is receiving\nor expending funds in connection with the candidacy after the\npost-election campaign statement has been filed in connection\nwith the election for which he was a candidate.\n\nThe candidate maintains an obligation to file campaign statements\non an off-year basis as long as there is an activity to report\nin connection with a previous candidacy.\n\nThe \"termination\" procedure outlined in our bulletin refers to\nrecipient committees only and not candidates. However, even\nrecipient committees may not terminate if they are still receiving\nor expending funds.\n\nPlease let me know if I may be of additional assistance.\n\nVery truly yours,\n\n\nRegina Siciliano-Kutchins\nTechnical Assistance Program Coordinator\n\nRSK:bw\n\n24\n\nLAWRENCE B. THOMAS\n\nCity Clerk\n\nTHE CITY OF POMONA\n\nBox 660, Pomona, CA 91769 (714) 620-2341\n\nOffice of the City Clerk\n\nMay 25, 1977\n\n\nFair Political Practices Commission\nP. O. Box 807\nSacramento, California  95804\n\nAttention:  Technical Assistance and Analysis Division\n\nGentlemen:\n\nDoes a candidate who is defeated for election in March, and after\nfiling his final campaign statement has an unpaid liability, have\nto file an additional statement when the liability is paid; or\ndoes his obligation to file terminate at the end of this calendar\nyear as set forth in your bulletin dated April 15, 1977.\n\nSincerely yours,\n\nL. B. THOMAS\nCity Clerk\n\nLBT:fp",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "QUESTION: Does a candidate who is defeated for election in March, and after filing his final campaign statement has an unpaid liability, have to file an additional statement when the liability is paid; or does his obligation to file terminate at the end of this calendar year as set forth in your bulletin dated April 15, 1977.",
     "qa_source": "mixed",
-    "first_500_words": "Mr. L. B f Post 9176 Dear p I I 31, 1977 rece the connection to Hmvever. even are still rece of additional ass LAWRENCE Citv Clerk Fair Political Practices Commission P. O. Box 807 Sacramento, California 95804 CITJbf POMONA Box 660, Pomona, CA 91769 (714) 600-2341 May 25, 1977 Attention: Technical Assistance and Analysis Division Gentlemen: Does a candidate who is defeated for election in March, and after filing his final campaign statement has an unpaid liability, have to file an additional statement when the liability is paid; or does his obligation to file terminate at the end of this calendar year as set forth in your bulletin dated April 15, 1977. City Clerk LBT:fp",
+    "first_500_words": "84294 atag 84214 May 31, 1977 77-03-181 Mr. L. B. Thomas City Clerk Post Office Box 660 Pomona, California 91769 Dear Mr. Thomas: Thank you for your letter of May 25, 1977 concerning the filing obligations of a defeated candidate for office who is receiving or expending funds in connection with the candidacy after the post-election campaign statement has been filed in connection with the election for which he was a candidate. The candidate maintains an obligation to file campaign statements on an off-year basis as long as there is an activity to report in connection with a previous candidacy. The \"termination\" procedure outlined in our bulletin refers to recipient committees only and not candidates. However, even recipient committees may not terminate if they are still receiving or expending funds. Please let me know if I may be of additional assistance. Very truly yours, Regina Siciliano-Kutchins Technical Assistance Program Coordinator RSK:bw 24 LAWRENCE B. THOMAS City Clerk THE CITY OF POMONA Box 660, Pomona, CA 91769 (714) 620-2341 Office of the City Clerk May 25, 1977 Fair Political Practices Commission P. O. Box 807 Sacramento, California 95804 Attention: Technical Assistance and Analysis Division Gentlemen: Does a candidate who is defeated for election in March, and after filing his final campaign statement has an unpaid liability, have to file an additional statement when the liability is paid; or does his obligation to file terminate at the end of this calendar year as set forth in your bulletin dated April 15, 1977. Sincerely yours, L. B. THOMAS City Clerk LBT:fp",
     "summary": "This is a letter from the City Clerk of Pomona, California, dated May 25, 1977, requesting clarification from the FPPC regarding campaign statement filing obligations for a defeated candidate with outstanding liabilities."
   }
 }

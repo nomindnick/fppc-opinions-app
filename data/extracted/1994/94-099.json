@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1994&tagCount=1&page=2"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:35:00.896645Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-24T21:03:28.849587Z",
     "page_count": 1,
-    "word_count": 229,
-    "char_count": 1402,
-    "quality_score": 0.7175,
+    "word_count": 230,
+    "char_count": 1458,
+    "quality_score": 0.9067419803548236,
     "olmocr_cost": null,
-    "native_word_count": 229
+    "native_word_count": 229,
+    "haiku_cost": 0.00296
   },
   "content": {
-    "full_text": "California\nFair Political\nPractices Commission\nApril 4,\n1994\nNoel T.\nCharonnat\nPresident\nDonner Summit Public Utilities District Board\nP.O.\nBox 610\nSoda Springs,\nCA 95728\nRe:\nYour Request For Advice\nOur File No.\n1-94-099\nDear Mr.\nCharonnat:\nWe write in response to your request for general advice\nregarding possible conflict of interest issues under the Political\nReform Act\n(the “Act”).\nSince your request is one for general\ninformation,\nwe treat it as\na request for informal assistance.\n1\nYou write that one of your newly elected board members and\nthe general manager of the district are cohabitants.\nAs the\ngeneral manager serves at the discretion of the board,\nyou ask\nwhat conflict of interest provisions apply to the board member in\nher official capacity.\nWe enclose a copy of the Roff Advice Letter,\nNo.\nA-89—106\nwhich we hope will be of instructional benefit to you.\nThe advice\ncontained in that letter is current.\nIf you have any specific\nquestions or need additional information please call the\nundersigned at\n(916)\n322—5901.\nSincerely,\nSteven G.\nChurchwell\nGeneral Couns\n/1\nBy:\nCounsel,\nLegal Division\nEnclosure\n1\nInformal assistance does not provide hë requestor with the\nimmunity provided by an opinion or formal written advice.\n(Government Code Section 83114;\n2 Cal.\nCode of Regs.\nSection 18329(c) (3).)\n428 J Street, Suite 800 •\nP.O. Box 807 I\nSacramento, CA\n95804-0807 I\n(916) 322-5660\n",
+    "full_text": "California\nFair Political\nPractices Commission\n\nApril 4, 1994\n\nNoel T. Charonnat\nPresident\nDonner Summit Public Utilities District Board\nP.O. Box 610\nSoda Springs, CA 95728\n\nRe: Your Request For Advice\nOur File No. I-94-099\n\nDear Mr. Charonnat:\n\nWe write in response to your request for general advice\nregarding possible conflict of interest issues under the Political\nReform Act (the \"Act\"). Since your request is one for general\ninformation, we treat it as a request for informal assistance.¹\n\nYou write that one of your newly elected board members and\nthe general manager of the district are cohabitants. As the\ngeneral manager serves at the discretion of the board, you ask\nwhat conflict of interest provisions apply to the board member in\nher official capacity.\n\nWe enclose a copy of the Roff Advice Letter, No. A-89-106\nwhich we hope will be of instructional benefit to you. The advice\ncontained in that letter is current. If you have any specific\nquestions or need additional information please call the\nundersigned at (916) 322-5901.\n\nSincerely,\n\nSteven G. Churchwell\nGeneral Counsel\n\nBy: Daniel E. Muellem\nCounsel, Legal Division\n\nEnclosure\n\n___________________________\n¹ Informal assistance does not provide the requestor with the\nimmunity provided by an opinion or formal written advice.\n(Government Code Section 83114; 2 Cal. Code of Regs.\nSection 18329(c)(3).)\n\n428 J Street, Suite 800 ● P.O. Box 807 ● Sacramento, CA 95804-0807 ● (916) 322-5660",
     "full_text_markdown": null
   },
   "parsed": {
@@ -67,7 +68,7 @@
   "embedding": {
     "qa_text": "QUESTION: s or need additional information please call the\nundersigned at\n(916)\n322—5901.",
     "qa_source": "extracted",
-    "first_500_words": "California Fair Political Practices Commission April 4, 1994 Noel T. Charonnat President Donner Summit Public Utilities District Board P.O. Box 610 Soda Springs, CA 95728 Re: Your Request For Advice Our File No. 1-94-099 Dear Mr. Charonnat: We write in response to your request for general advice regarding possible conflict of interest issues under the Political Reform Act (the “Act”). Since your request is one for general information, we treat it as a request for informal assistance. 1 You write that one of your newly elected board members and the general manager of the district are cohabitants. As the general manager serves at the discretion of the board, you ask what conflict of interest provisions apply to the board member in her official capacity. We enclose a copy of the Roff Advice Letter, No. A-89—106 which we hope will be of instructional benefit to you. The advice contained in that letter is current. If you have any specific questions or need additional information please call the undersigned at (916) 322—5901. Sincerely, Steven G. Churchwell General Couns /1 By: Counsel, Legal Division Enclosure 1 Informal assistance does not provide hë requestor with the immunity provided by an opinion or formal written advice. (Government Code Section 83114; 2 Cal. Code of Regs. Section 18329(c) (3).) 428 J Street, Suite 800 • P.O. Box 807 I Sacramento, CA 95804-0807 I (916) 322-5660",
+    "first_500_words": "California Fair Political Practices Commission April 4, 1994 Noel T. Charonnat President Donner Summit Public Utilities District Board P.O. Box 610 Soda Springs, CA 95728 Re: Your Request For Advice Our File No. I-94-099 Dear Mr. Charonnat: We write in response to your request for general advice regarding possible conflict of interest issues under the Political Reform Act (the \"Act\"). Since your request is one for general information, we treat it as a request for informal assistance.¹ You write that one of your newly elected board members and the general manager of the district are cohabitants. As the general manager serves at the discretion of the board, you ask what conflict of interest provisions apply to the board member in her official capacity. We enclose a copy of the Roff Advice Letter, No. A-89-106 which we hope will be of instructional benefit to you. The advice contained in that letter is current. If you have any specific questions or need additional information please call the undersigned at (916) 322-5901. Sincerely, Steven G. Churchwell General Counsel By: Daniel E. Muellem Counsel, Legal Division Enclosure ___________________________ ¹ Informal assistance does not provide the requestor with the immunity provided by an opinion or formal written advice. (Government Code Section 83114; 2 Cal. Code of Regs. Section 18329(c)(3).) 428 J Street, Suite 800 ● P.O. Box 807 ● Sacramento, CA 95804-0807 ● (916) 322-5660",
     "summary": null
   }
 }

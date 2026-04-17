@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1984&tagCount=1&page=25"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:36:48.977740Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-27T23:24:22.302907Z",
     "page_count": 1,
-    "word_count": 194,
-    "char_count": 1245,
-    "quality_score": 0.7175,
+    "word_count": 201,
+    "char_count": 1395,
+    "quality_score": 0.9280436256218906,
     "olmocr_cost": null,
-    "native_word_count": 194
+    "native_word_count": 194,
+    "haiku_cost": 0.002588
   },
   "content": {
-    "full_text": "Sta~ of California \nMemorandum \nTo \nBarbara Millman \nFair political Practices \nCommission \nB 9 57 AH '8~ Date \nMarch 5, 1984 \nSubject: \nFrom \nGovernor's Office \nThis memorandum confirms my separate conversations with \nyou and Bob Leidigh of your office regarding the reporting \nof limousine services \nprovided to the Governor during state \nbusiness trips. \nIt is my understanding that such services, \nunless reimbursed by the State, are reportable as gifts if \nthe value exceeds $50 per year from a single donor. \nIn \ndetermining value, the Governor at his option may utilize the \nlocal commercial taxicab rate or the charter limousine rate \ndivided by the number of passengers. \nReimbursement of the \nservice provider at either of the foregoing rates within 30 \ndays of the travel or within the ordinary billing cycle of \nthe service provider will be deemed to be full consideration \nfor the services provided and will relieve the Governor of the \nreporting obligation. \nI trust that this memorandum accurately su~~arizes our \nconversations. \nPlease contact me if it is inaccurate in \nany respect. \nThank you for your prompt and courteous responses to \nmy primary questions on the political Reform Act. \nVance W. Raye \nLegal Affairs Secretary \n",
+    "full_text": "State of California\n\nMemorandum\n\nTo     : Barbara Millman\n        Fair Political Practices\n        Commission\n\nFrom   : Governor's Office\n\nFPPC\n\nMAR 0 9 57 AM '84    Date  :  March 5, 1984\n\nSubject:\n\n     This memorandum confirms my separate conversations with\nyou and Bob Leidigh of your office regarding the reporting\nof limousine services provided to the Governor during state\nbusiness trips. It is my understanding that such services,\nunless reimbursed by the state, are reportable as gifts if\nthe value exceeds $50 per year from a single donor. In\ndetermining value, the Governor at his option may utilize the\nlocal commercial taxicab rate or the charter limousine rate\ndivided by the number of passengers. Reimbursement of the\nservice provider at either of the foregoing rates within 30\ndays of the travel or within the ordinary billing cycle of\nthe service provider will be deemed to be full consideration\nfor the services provided and will relieve the Governor of the\nreporting obligation.\n\n     I trust that this memorandum accurately summarizes our\nconversations. Please contact me if it is inaccurate in\nany respect.\n\n     Thank you for your prompt and courteous responses to\nmy primary questions on the Political Reform Act.\n\n\n                                    Vance Raye\n                                    Vance W. Raye\n                                    Legal Affairs Secretary",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "QUESTION: How should limousine services provided to the Governor during state business trips be reported under the Political Reform Act, and what determines whether such services constitute reportable gifts?",
     "qa_source": "synthetic",
-    "first_500_words": "Sta~ of California Memorandum To Barbara Millman Fair political Practices Commission B 9 57 AH '8~ Date March 5, 1984 Subject: From Governor's Office This memorandum confirms my separate conversations with you and Bob Leidigh of your office regarding the reporting of limousine services provided to the Governor during state business trips. It is my understanding that such services, unless reimbursed by the State, are reportable as gifts if the value exceeds $50 per year from a single donor. In determining value, the Governor at his option may utilize the local commercial taxicab rate or the charter limousine rate divided by the number of passengers. Reimbursement of the service provider at either of the foregoing rates within 30 days of the travel or within the ordinary billing cycle of the service provider will be deemed to be full consideration for the services provided and will relieve the Governor of the reporting obligation. I trust that this memorandum accurately su~~arizes our conversations. Please contact me if it is inaccurate in any respect. Thank you for your prompt and courteous responses to my primary questions on the political Reform Act. Vance W. Raye Legal Affairs Secretary",
+    "first_500_words": "State of California Memorandum To : Barbara Millman Fair Political Practices Commission From : Governor's Office FPPC MAR 0 9 57 AM '84 Date : March 5, 1984 Subject: This memorandum confirms my separate conversations with you and Bob Leidigh of your office regarding the reporting of limousine services provided to the Governor during state business trips. It is my understanding that such services, unless reimbursed by the state, are reportable as gifts if the value exceeds $50 per year from a single donor. In determining value, the Governor at his option may utilize the local commercial taxicab rate or the charter limousine rate divided by the number of passengers. Reimbursement of the service provider at either of the foregoing rates within 30 days of the travel or within the ordinary billing cycle of the service provider will be deemed to be full consideration for the services provided and will relieve the Governor of the reporting obligation. I trust that this memorandum accurately summarizes our conversations. Please contact me if it is inaccurate in any respect. Thank you for your prompt and courteous responses to my primary questions on the Political Reform Act. Vance Raye Vance W. Raye Legal Affairs Secretary",
     "summary": "This is a memorandum from the Governor's Office to FPPC staff confirming prior conversations regarding the reporting requirements for limousine services provided to the Governor during state business trips, including valuation methods and reimbursement procedures that would eliminate reporting obligations."
   }
 }

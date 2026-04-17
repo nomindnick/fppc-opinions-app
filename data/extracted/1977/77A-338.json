@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=9"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:37:12.435503Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-22T02:03:01.081487Z",
     "page_count": 1,
-    "word_count": 173,
-    "char_count": 1127,
-    "quality_score": 0.635,
+    "word_count": 177,
+    "char_count": 1154,
+    "quality_score": 0.8758694444444445,
     "olmocr_cost": null,
-    "native_word_count": 173
+    "native_word_count": 173,
+    "haiku_cost": 0.0023759999999999996
   },
   "content": {
-    "full_text": "State of California \nMemorandum \nTo \nOpinion Request Meeting Participants \nDate \n6-9-77 \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nTed Prim \nSubject: \nItem for consideration. \nAn independent polling of the staff indicates that we are \nsplit on the question of whether a lobbyist must report \nbills and expenses incidental to \"volunteer\" lobbying. \nIf we cannot reach a solution at this opinion request \nmeeting, perhaps we should consider taking this issue \nto the Commission. \nThe three views are: \nTP: jo \nA. \nOnce a lobbyist becomes a lobbyist all lobbying \nactivities must be reported; \nB. \nA lobbyist must only report those activities \nperformed as a result of his employment or con-\ntractual relationship as a lobbyist; \nC. \nA lobbyist must report all lobbying activities \nexcept for those for which he is not compensated \nand which are totally unrelated to the interests \nof his employer. \nThus,L~elobbyist for Standard \nOil need not report his activities in connection \nwith lobbying against smoking in public places \nbut would have to report his activities in con-\nnection with lobbying on mass transit legislation. \n",
+    "full_text": "State of California\n\nMemorandum\n\nTo : Opinion Request Meeting Participants          Date : 6-9-77\n\n\nFrom : FAIR POLITICAL PRACTICES COMMISSION\n       Ted Prim\n\nSubject: Item for consideration.\n\n       An independent polling of the staff indicates that we are\nsplit on the question of whether a lobbyist must report\nbills and expenses incidental to \"volunteer\" lobbying.\nIf we cannot reach a solution at this opinion request\nmeeting, perhaps we should consider taking this issue\nto the Commission. The three views are:\n\n       A. Once a lobbyist becomes a lobbyist all lobbying\nactivities must be reported;\n\n       B. A lobbyist must only report those activities\nperformed as a result of his employment or con-\ntractual relationship as a lobbyist;\n\n       C. A lobbyist must report all lobbying activities\nexcept for those for which he is not compensated\nand which are totally unrelated to the interests\nof his employer. Thus, the lobbyist for Standard\nOil need not report his activities in connection\nwith lobbying against smoking in public places\nbut would have to report his activities in con-\nnection with lobbying on mass transit legislation.\n\n\nTP:jo",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "QUESTION: Whether lobbyists must report bills and expenses related to volunteer lobbying activities, and under what circumstances lobbying reporting obligations apply.",
     "qa_source": "synthetic",
-    "first_500_words": "State of California Memorandum To Opinion Request Meeting Participants Date 6-9-77 From FAIR POLITICAL PRACTICES COMMISSION Ted Prim Subject: Item for consideration. An independent polling of the staff indicates that we are split on the question of whether a lobbyist must report bills and expenses incidental to \"volunteer\" lobbying. If we cannot reach a solution at this opinion request meeting, perhaps we should consider taking this issue to the Commission. The three views are: TP: jo A. Once a lobbyist becomes a lobbyist all lobbying activities must be reported; B. A lobbyist must only report those activities performed as a result of his employment or con- tractual relationship as a lobbyist; C. A lobbyist must report all lobbying activities except for those for which he is not compensated and which are totally unrelated to the interests of his employer. Thus,L~elobbyist for Standard Oil need not report his activities in connection with lobbying against smoking in public places but would have to report his activities in con- nection with lobbying on mass transit legislation.",
+    "first_500_words": "State of California Memorandum To : Opinion Request Meeting Participants Date : 6-9-77 From : FAIR POLITICAL PRACTICES COMMISSION Ted Prim Subject: Item for consideration. An independent polling of the staff indicates that we are split on the question of whether a lobbyist must report bills and expenses incidental to \"volunteer\" lobbying. If we cannot reach a solution at this opinion request meeting, perhaps we should consider taking this issue to the Commission. The three views are: A. Once a lobbyist becomes a lobbyist all lobbying activities must be reported; B. A lobbyist must only report those activities performed as a result of his employment or con- tractual relationship as a lobbyist; C. A lobbyist must report all lobbying activities except for those for which he is not compensated and which are totally unrelated to the interests of his employer. Thus, the lobbyist for Standard Oil need not report his activities in connection with lobbying against smoking in public places but would have to report his activities in con- nection with lobbying on mass transit legislation. TP:jo",
     "summary": "Internal FPPC memorandum from Ted Prim to opinion request meeting participants dated June 9, 1977, presenting three conflicting staff views on whether and when lobbyists must report volunteer lobbying activities and related expenses."
   }
 }

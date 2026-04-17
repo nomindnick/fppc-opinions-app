@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=13"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:37:06.852694Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-23T15:40:11.811536Z",
     "page_count": 1,
-    "word_count": 139,
-    "char_count": 900,
-    "quality_score": 0.5975,
+    "word_count": 143,
+    "char_count": 1006,
+    "quality_score": 0.8885122204897906,
     "olmocr_cost": null,
-    "native_word_count": 139
+    "native_word_count": 139,
+    "haiku_cost": 0.002284
   },
   "content": {
-    "full_text": "~~ate 0* California \nMemorandum \nTo \n2 Cal. Adm. Code Section 18428 \nDate \nMay 1, 1979 \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nBarbara carnpbel~ \nSubject: \"Directed or Controlled\" \nIn discussing the proposed regulation 2 Cal. Adm. \nCode Section 18428 with Chip Nielsen, I advised him on \nApril 26, 1979, that in the situation where a parent \ncorporation's only involvement with the contributions \nmade by its wholly owned subsidiary is a review for the \nlegality of the contribution, the parent corporation will \nnot be exercising direction or cont=ol. \nIn that situation \nthe parent and wholly owned subsidiary will not be a \ncombination of persons. \nHowever, I further advised Chip that if the parent \ncorporation had any additional involvement, it would be \nexercising direction or control and be requi=ed to file \na combined campaign statement under 2 Cal. Adm. Code \nSection 18428. \nBC:plh \n",
+    "full_text": "State of California\n\nMemorandum\n\n\nTo  :  2 Cal. Adm. Code Section 13423                Date  :  May 1, 1979\n\n\n\n\n                                                      /77-779-/979\n\nFrom  :  FAIR POLITICAL PRACTICES COMMISSION\n         Barbara Campbell\n\nSubject: \"Directed or Controlled\"\n\n\n         In discussing the proposed regulation 2 Cal. Adm.\nCode Section 18423 with Chip Nielsen, I advised him on\nApril 26, 1979, that in the situation where a parent\ncorporation's only involvement with the contributions\nmade by its wholly owned subsidiary is a review for the\nlegality of the contribution, the parent corporation will\nnot be exercising direction or control. In that situation\nthe parent and wholly owned subsidiary will not be a\ncombination of persons.\n\n         However, I further advised Chip that if the parent\ncorporation had any additional involvement, it would be\nexercising direction or control and be required to file\na combined campaign statement under 2 Cal. Adm. Code\nSection 18428.\n\nBC:plh",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "QUESTION: Whether a parent corporation that reviews the legality of contributions made by its wholly owned subsidiary exercises direction or control over those contributions, and whether they must be treated as a combination of persons for campaign finance reporting purposes.\n\nCONCLUSION: A parent corporation that only reviews contributions from its wholly owned subsidiary for legality does not exercise direction or control, and they are not a combination of persons. However, any additional involvement by the parent would constitute direction or control requiring combined campaign statement filing.",
     "qa_source": "synthetic",
-    "first_500_words": "~~ate 0* California Memorandum To 2 Cal. Adm. Code Section 18428 Date May 1, 1979 From FAIR POLITICAL PRACTICES COMMISSION Barbara carnpbel~ Subject: \"Directed or Controlled\" In discussing the proposed regulation 2 Cal. Adm. Code Section 18428 with Chip Nielsen, I advised him on April 26, 1979, that in the situation where a parent corporation's only involvement with the contributions made by its wholly owned subsidiary is a review for the legality of the contribution, the parent corporation will not be exercising direction or cont=ol. In that situation the parent and wholly owned subsidiary will not be a combination of persons. However, I further advised Chip that if the parent corporation had any additional involvement, it would be exercising direction or control and be requi=ed to file a combined campaign statement under 2 Cal. Adm. Code Section 18428. BC:plh",
+    "first_500_words": "State of California Memorandum To : 2 Cal. Adm. Code Section 13423 Date : May 1, 1979 /77-779-/979 From : FAIR POLITICAL PRACTICES COMMISSION Barbara Campbell Subject: \"Directed or Controlled\" In discussing the proposed regulation 2 Cal. Adm. Code Section 18423 with Chip Nielsen, I advised him on April 26, 1979, that in the situation where a parent corporation's only involvement with the contributions made by its wholly owned subsidiary is a review for the legality of the contribution, the parent corporation will not be exercising direction or control. In that situation the parent and wholly owned subsidiary will not be a combination of persons. However, I further advised Chip that if the parent corporation had any additional involvement, it would be exercising direction or control and be required to file a combined campaign statement under 2 Cal. Adm. Code Section 18428. BC:plh",
     "summary": "FPPC memorandum summarizing advice given to Chip Nielsen regarding whether a parent corporation's review of its wholly owned subsidiary's political contributions constitutes direction or control under proposed regulation 2 Cal. Adm. Code Section 18428."
   }
 }

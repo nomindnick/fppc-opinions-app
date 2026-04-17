@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1992&tagCount=1&page=75"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:35:18.485036Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-19T19:30:34.164997Z",
     "page_count": 1,
-    "word_count": 212,
-    "char_count": 1264,
-    "quality_score": 0.6325000000000001,
+    "word_count": 216,
+    "char_count": 1317,
+    "quality_score": 0.8200986904161611,
     "olmocr_cost": null,
-    "native_word_count": 212
+    "native_word_count": 212,
+    "haiku_cost": 0.0028992
   },
   "content": {
-    "full_text": "GABBAY ARCHITECTS\nA PROFESSIONAL CORPORATlON\nYASSI E. GABBAY, D.P.L,G.-A.I .,\nHAMID E. GABBAY. A,I,A,\nJune 15, 1992\nMr. Scott Hallabrin\nFair Political Practice Council\n428 \"J\" Streel, Suite #5C0\nSacramento, Ca. 95814\nRe: Airplane ticket paid by a client.\nDear Mr. Hallabrin,\nI am a Commissioner of the Planning Commission for the City of Beverly Hills. I\nam also a registered architect and a partner in the firm of Gabbay Architects.\nOur firm, beside California, has jobs in places such as Nevada, West Virginia\nand New York. Very otten I have to visit the job sites and usually the airplane\nticket is bought and paid for by the client.\nBased on Form 721 , on which Commissioners have to report all gifts and air\ntickets, I asked the F.P.P.C. and in particular Ms. Suzanne Barbarol iI these\ntickels are considered gifts or should be considered income?\nMs. Barbarol, alter consulting with legal divisions, informed that these tickets\nare considered income and NOT GIFTS. However, it was suggested that I get a\nwritten opinion. I am, therefore, cordially writing to you so that you may confirm\nthe answer given to me.\nWilh my best regards,\n)?\nTEL. 6e*rwq€{9pqF . FAX 6Qrea*gt!(xxk\n(:ro;s53-ss66 (310)zot_oszo\n444 SOUTH CANON DRIVE SUITE 2OO. BEVERLY HILLS CA, 9O2]2\n",
+    "full_text": "GABBAY ARCHITECTS\nA PROFESSIONAL CORPORATION\n\n\nYASSI E. GABBAY, D.P.L.G.-A.I.A.\nHAMID E. GABBAY, A.I.A.\n\nJune 15, 1992\n\n\nMr. Scott Hallabrin\nFair Political Practice Council\n428 \"J\" Street, Suite #500\nSacramento, Ca. 95814\n\nRe: Airplane ticket paid by a client.\n\nDear Mr. Hallabrin,\n\nI am a Commissioner of the Planning Commission for the City of Beverly Hills. I am also a registered architect and a partner in the firm of Gabbay Architects. Our firm, beside California, has jobs in places such as Nevada, West Virginia and New York. Very often I have to visit the job sites and usually the airplane ticket is bought and paid for by the client.\n\nBased on Form 721, on which Commissioners have to report all gifts and air tickets, I asked the F.P.P.C. and in particular Ms. Suzanne Barbarol if these tickets are considered gifts or should be considered income?\n\nMs. Barbarol, after consulting with legal divisions, informed that these tickets are considered income and NOT GIFTS. However, it was suggested that I get a written opinion. I am, therefore, cordially writing to you so that you may confirm the answer given to me.\n\nWith my best regards,\n\n[signature]\nHamid E. Gabbay A.I.A\n\n\nHEG:pt\n\n\n448 SOUTH CANON DRIVE SUITE 200 • BEVERLY HILLS CA. 90212 TEL. [illegible] • FAX [illegible]\n(310)553-8866    (310)201-0920",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "QUESTION: Are airplane tickets paid for by clients for job site visits considered gifts or income that must be reported on Form 721 by a Planning Commission member?",
     "qa_source": "synthetic",
-    "first_500_words": "GABBAY ARCHITECTS A PROFESSIONAL CORPORATlON YASSI E. GABBAY, D.P.L,G.-A.I ., HAMID E. GABBAY. A,I,A, June 15, 1992 Mr. Scott Hallabrin Fair Political Practice Council 428 \"J\" Streel, Suite #5C0 Sacramento, Ca. 95814 Re: Airplane ticket paid by a client. Dear Mr. Hallabrin, I am a Commissioner of the Planning Commission for the City of Beverly Hills. I am also a registered architect and a partner in the firm of Gabbay Architects. Our firm, beside California, has jobs in places such as Nevada, West Virginia and New York. Very otten I have to visit the job sites and usually the airplane ticket is bought and paid for by the client. Based on Form 721 , on which Commissioners have to report all gifts and air tickets, I asked the F.P.P.C. and in particular Ms. Suzanne Barbarol iI these tickels are considered gifts or should be considered income? Ms. Barbarol, alter consulting with legal divisions, informed that these tickets are considered income and NOT GIFTS. However, it was suggested that I get a written opinion. I am, therefore, cordially writing to you so that you may confirm the answer given to me. Wilh my best regards, )? TEL. 6e*rwq€{9pqF . FAX 6Qrea*gt!(xxk (:ro;s53-ss66 (310)zot_oszo 444 SOUTH CANON DRIVE SUITE 2OO. BEVERLY HILLS CA, 9O2]2",
+    "first_500_words": "GABBAY ARCHITECTS A PROFESSIONAL CORPORATION YASSI E. GABBAY, D.P.L.G.-A.I.A. HAMID E. GABBAY, A.I.A. June 15, 1992 Mr. Scott Hallabrin Fair Political Practice Council 428 \"J\" Street, Suite #500 Sacramento, Ca. 95814 Re: Airplane ticket paid by a client. Dear Mr. Hallabrin, I am a Commissioner of the Planning Commission for the City of Beverly Hills. I am also a registered architect and a partner in the firm of Gabbay Architects. Our firm, beside California, has jobs in places such as Nevada, West Virginia and New York. Very often I have to visit the job sites and usually the airplane ticket is bought and paid for by the client. Based on Form 721, on which Commissioners have to report all gifts and air tickets, I asked the F.P.P.C. and in particular Ms. Suzanne Barbarol if these tickets are considered gifts or should be considered income? Ms. Barbarol, after consulting with legal divisions, informed that these tickets are considered income and NOT GIFTS. However, it was suggested that I get a written opinion. I am, therefore, cordially writing to you so that you may confirm the answer given to me. With my best regards, [signature] Hamid E. Gabbay A.I.A HEG:pt 448 SOUTH CANON DRIVE SUITE 200 • BEVERLY HILLS CA. 90212 TEL. [illegible] • FAX [illegible] (310)553-8866 (310)201-0920",
     "summary": "Yassi E. Gabbay, a Beverly Hills Planning Commission member and registered architect, seeks written confirmation from the FPPC regarding whether airplane tickets paid by clients for job site visits should be reported as income or gifts on Form 721."
   }
 }

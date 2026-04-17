@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1983&tagCount=1&page=11"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:36:52.165738Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-19T18:20:27.789684Z",
     "page_count": 1,
     "word_count": 142,
-    "char_count": 919,
-    "quality_score": 0.515,
+    "char_count": 1116,
+    "quality_score": 0.8106461832602053,
     "olmocr_cost": null,
-    "native_word_count": 142
+    "native_word_count": 142,
+    "haiku_cost": 0.002404
   },
   "content": {
-    "full_text": "State of California \nMemorandum \nTo \nFile \nDate \nSept. 29, 1983 \nNo. 1.\\-1-83-221 \nFrom \n: \nFAIR POLITICAL PRACTICES COMMISSION \nJanis Shank McLean ~ \nSubject: \nAwards of Contracts Under Gov. Code Section 84308 \nThe Light Rail Commission will award a construction contract \nfor $25 million. \nOne of the bidders gave a $500 contribution to \na member. \nHow does 2 Cal. Adm. Code Section 18438.2's statement \nthat awards of contracts aren't \"applications for licenses, \npermits, or other entitlements for use\" apply? \nIf the award of the contract is: \n1. \nUnder competitive bidding, or \n2. \nTotaly discretionary, then the action is \nquasi-legislative and comes within the meaning of 2 Cal. \nAdm. Code Section 18438(b) • \nIf the person involved has a legal right regarding the \ncontract (for example, if he or she was denied a contract under \ncompetitive bidding) the decision concerning this is \nquasi-judicial. \nJSM:plh \n",
+    "full_text": "State of California\n\nMemorandum\n\nTo     :    File                                          Date  :  Sept. 29, 1983\n                                                                    No. M-83-221\n\n\nFrom  :  FAIR POLITICAL PRACTICES COMMISSION\n             Janis Shank McLean\n\nSubject:  Awards of Contracts Under Gov. Code Section 84308\n\n\n          The Light Rail Commission will award a construction contract\nfor $25 million.  One of the bidders gave a $500 contribution to\na member.  How does 2 Cal. Adm. Code Section 18438.2's statement\nthat awards of contracts aren't \"applications for licenses,\npermits, or other entitlements for use\" apply?\n\n          If the award of the contract is:\n\n               1.   Under competitive bidding, or\n\n               2.   Totally discretionary, then the action is\n          quasi-legislative and comes within the meaning of 2 Cal.\n          Adm. Code Section 18438(b).\n\n          If the person involved has a legal right regarding the\ncontract (for example, if he or she was denied a contract under\ncompetitive bidding) the decision concerning this is\nquasi-judicial.\n\nJSM:plh",
     "full_text_markdown": null
   },
   "parsed": {
@@ -69,7 +70,7 @@
   "embedding": {
     "qa_text": "QUESTION: One of the bidders gave a $500 contribution to a member. How does 2 Cal. Adm. Code Section 18438.2's statement that awards of contracts aren't \"applications for licenses, permits, or other entitlements for use\" apply?\n\nCONCLUSION: If the award of the contract is: 1. Under competitive bidding, or 2. Totally discretionary, then the action is quasi-legislative and comes within the meaning of 2 Cal. Adm. Code Section 18438(b). If the person involved has a legal right regarding the contract (for example, if he or she was denied a contract under competitive bidding) the decision concerning this is quasi-judicial.",
     "qa_source": "mixed",
-    "first_500_words": "State of California Memorandum To File Date Sept. 29, 1983 No. 1.\\-1-83-221 From : FAIR POLITICAL PRACTICES COMMISSION Janis Shank McLean ~ Subject: Awards of Contracts Under Gov. Code Section 84308 The Light Rail Commission will award a construction contract for $25 million. One of the bidders gave a $500 contribution to a member. How does 2 Cal. Adm. Code Section 18438.2's statement that awards of contracts aren't \"applications for licenses, permits, or other entitlements for use\" apply? If the award of the contract is: 1. Under competitive bidding, or 2. Totaly discretionary, then the action is quasi-legislative and comes within the meaning of 2 Cal. Adm. Code Section 18438(b) • If the person involved has a legal right regarding the contract (for example, if he or she was denied a contract under competitive bidding) the decision concerning this is quasi-judicial. JSM:plh",
+    "first_500_words": "State of California Memorandum To : File Date : Sept. 29, 1983 No. M-83-221 From : FAIR POLITICAL PRACTICES COMMISSION Janis Shank McLean Subject: Awards of Contracts Under Gov. Code Section 84308 The Light Rail Commission will award a construction contract for $25 million. One of the bidders gave a $500 contribution to a member. How does 2 Cal. Adm. Code Section 18438.2's statement that awards of contracts aren't \"applications for licenses, permits, or other entitlements for use\" apply? If the award of the contract is: 1. Under competitive bidding, or 2. Totally discretionary, then the action is quasi-legislative and comes within the meaning of 2 Cal. Adm. Code Section 18438(b). If the person involved has a legal right regarding the contract (for example, if he or she was denied a contract under competitive bidding) the decision concerning this is quasi-judicial. JSM:plh",
     "summary": "The FPPC advises on the application of Government Code Section 84308 regarding contract awards by the Light Rail Commission, clarifying that such awards constitute quasi-legislative actions under competitive bidding or discretionary circumstances, but become quasi-judicial if a party has a legal right regarding the contract."
   }
 }

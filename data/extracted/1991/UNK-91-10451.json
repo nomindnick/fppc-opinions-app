@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1991&tagCount=1&page=63"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:35:28.695883Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-19T19:01:10.759010Z",
     "page_count": 1,
-    "word_count": 193,
-    "char_count": 1219,
-    "quality_score": 0.635,
+    "word_count": 187,
+    "char_count": 1311,
+    "quality_score": 0.9309666666666667,
     "olmocr_cost": null,
-    "native_word_count": 193
+    "native_word_count": 193,
+    "haiku_cost": 0.0025232
   },
   "content": {
-    "full_text": "STATE OF CALIFORNIA\nKATHTEEN BROWN, Ireoture.\nOFFICE OF THE TREASURER\nSACRAMENTO\nlhn i,.\n,,1\nt,,1fi 'gl\nMarch 26, 19 91\nBlanca Breeze\nFair Political Practice Comrnissi.on,\n428 J Street\nSacramento, CA \n9 5814\nDear Blanca:\nthis is to request your advice about a question concerning\nmass rnaiLings by elected officials. \nI would appreciate your\nresponse in writing.\nAt specific issue here is a program established by the State\nTreasurer called the college Savings Bond Program. Under\nthis program, we are trying to get citizens to buy certain\nbonds which can be redeemed in the future to be used for\ncollege expenses.\nTo operate the progran, we must advertise it in order to\n\"so11cit\" inquires about the progran from potential\ninvestors. The advertisenents will only occur in general\ncircutation newspapers such as the Los Angeles Times. our\nassumption is that only subscribers wouLd receive the\nnewsplper, however, sorne copies may be given to schools\nand/or cther groups despite our intent.\nMy specific question is rrpursuant to the mass mailingf\nplovisions of the Political Reform Act, what, if any,\niestrictions would be placed on the content of these\nadvertisements?rr\nSincerely,\nbt&,\nHAL GEIOGUE\nAssistant Treasurer\n",
+    "full_text": "STATE OF CALIFORNIA                                    KATHLEEN BROWN, Treasurer\n\nOFFICE OF THE TREASURER\nSACRAMENTO\n\n\n\n\n                                        March 26, 1991\n\n\n\n\nBlanca Breeze\nFair Political Practice Commission\n428 J Street\nSacramento, CA    95814\n\nDear Blanca:\n\n     This is to request your advice about a question concerning\nmass mailings by elected officials.  I would appreciate your\nresponse in writing.\n\n     At specific issue here is a program established by the State\nTreasurer called the College Savings Bond Program.  Under\nthis program, we are trying to get citizens to buy certain\nbonds which can be redeemed in the future to be used for\ncollege expenses.\n\n     To operate the program, we must advertise it in order to\n\"solicit\" inquiries about the program from potential\ninvestors.  The advertisements will only occur in general\ncirculation newspapers such as the Los Angeles Times.  Our\nassumption is that only subscribers would receive the\nnewspaper, however, some copies may be given to schools\nand/or other groups despite our intent.\n\n     My specific question is \"pursuant to the mass mailing\nprovisions of the Political Reform Act, what, if any,\nrestrictions would be placed on the content of these\nadvertisements?\"\n\nSincerely,\n\n\nHal Geiogue\n\nHAL GEIOQUE\nAssistant Treasurer",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "QUESTION: Pursuant to the mass mailing provisions of the Political Reform Act, what, if any, restrictions would be placed on the content of these advertisements?",
     "qa_source": "mixed",
-    "first_500_words": "STATE OF CALIFORNIA KATHTEEN BROWN, Ireoture. OFFICE OF THE TREASURER SACRAMENTO lhn i,. ,,1 t,,1fi 'gl March 26, 19 91 Blanca Breeze Fair Political Practice Comrnissi.on, 428 J Street Sacramento, CA 9 5814 Dear Blanca: this is to request your advice about a question concerning mass rnaiLings by elected officials. I would appreciate your response in writing. At specific issue here is a program established by the State Treasurer called the college Savings Bond Program. Under this program, we are trying to get citizens to buy certain bonds which can be redeemed in the future to be used for college expenses. To operate the progran, we must advertise it in order to \"so11cit\" inquires about the progran from potential investors. The advertisenents will only occur in general circutation newspapers such as the Los Angeles Times. our assumption is that only subscribers wouLd receive the newsplper, however, sorne copies may be given to schools and/or cther groups despite our intent. My specific question is rrpursuant to the mass mailingf plovisions of the Political Reform Act, what, if any, iestrictions would be placed on the content of these advertisements?rr Sincerely, bt&, HAL GEIOGUE Assistant Treasurer",
+    "first_500_words": "STATE OF CALIFORNIA KATHLEEN BROWN, Treasurer OFFICE OF THE TREASURER SACRAMENTO March 26, 1991 Blanca Breeze Fair Political Practice Commission 428 J Street Sacramento, CA 95814 Dear Blanca: This is to request your advice about a question concerning mass mailings by elected officials. I would appreciate your response in writing. At specific issue here is a program established by the State Treasurer called the College Savings Bond Program. Under this program, we are trying to get citizens to buy certain bonds which can be redeemed in the future to be used for college expenses. To operate the program, we must advertise it in order to \"solicit\" inquiries about the program from potential investors. The advertisements will only occur in general circulation newspapers such as the Los Angeles Times. Our assumption is that only subscribers would receive the newspaper, however, some copies may be given to schools and/or other groups despite our intent. My specific question is \"pursuant to the mass mailing provisions of the Political Reform Act, what, if any, restrictions would be placed on the content of these advertisements?\" Sincerely, Hal Geiogue HAL GEIOQUE Assistant Treasurer",
     "summary": "Assistant Treasurer Hal Geiogue requests FPPC advice regarding mass mailing restrictions under the Political Reform Act as applied to advertisements for the State Treasurer's College Savings Bond Program to be published in general circulation newspapers."
   }
 }

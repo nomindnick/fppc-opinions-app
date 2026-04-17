@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1982&tagCount=1&page=4"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:36:55.471647Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-19T20:24:58.526486Z",
     "page_count": 2,
-    "word_count": 138,
-    "char_count": 901,
-    "quality_score": 0.5075,
+    "word_count": 204,
+    "char_count": 1416,
+    "quality_score": 0.8735202934382795,
     "olmocr_cost": null,
-    "native_word_count": 138
+    "native_word_count": 138,
+    "haiku_cost": 0.004024
   },
   "content": {
-    "full_text": "\n\n({bambers of tbe ~uperior ((ourt \n&f)asta (lCount!' \nJOSEPH H. REDMON, JUDGE \n1ltbbtng, I!alifornta \nFebruary 9, 1982 \nFair Political Practices Commission \nP. O. Box 807 \nSacramento, CA \n95804 \nAttention: \nMs. Alice Hughes \nLegal Documents Examiner \nDear Ms. Hughes: \nThank you for talking to me today. \nThe three investments that I currently have under \nthe State of California Deferred Compensation Plan are \nGreat Western Savings, T. Rowe Price Growth Fund, and \nthe Rowe Price Net Income Fund. \nIf you wish additional information concerning the \nState of California Deferred Compensation Plan, I would \nsuggest you contact the Department of General Services, \n926 J Street, Sacramento, CA \n95814. \nIt would be appreciated if you could advise as to \nwhether these investments are of a nature that must be \nreported in my Statement of Economi- Interests, Form \n721. \nJHR:kc \nJ \nJ \nSuperior Court \n",
+    "full_text": "Memo: Re Question from Judge Redmon\nShasta County Superior Court\n#246-5609\n2/24/82\n\nNone of the investments are reportable\nbecause:\n\n1. Great Western Savings is a time deposit\n   in a financial institution\n\n2. D Rowe Price Growth Fund is a\n   mutual fund with investment in stocks\n\n3. Rowe Price Hi Income Fund is a mutual\n   fund with investments in bonds.\n\nChambers of the Superior Court\nShasta County\n\nJOSEPH H. REDMON, JUDGE\n\nRedding, California\n\nFebruary 9, 1982\n\n\nFair Political Practices Commission\nP. O. Box 807\nSacramento, CA  95804\n\nAttention:  Ms. Alice Hughes\n            Legal Documents Examiner\n\nDear Ms. Hughes:\n\n     Thank you for talking to me today.\n\n     The three investments that I currentiy have under\nthe State of California Deferred Compensation Plan are\nGreat Western Savings, T. Rowe Price Growth Fund, and\nthe Rowe Price Net Income Fund.\n\n     If you wish additional information concerning the\nState of California Deferred Compensation Plan, I would\nsuggest you contact the Department of General Services,\n926 J Street, Sacramento, CA  95814.\n\n     It would be appreciated if you could advise as to\nwhether these investments are of a nature that must be\nreported in my Statement of Economic Interests, Form\n721.\n\n                                   Very truly yours,\n\n\n                                   JOSEPH H. REDMON\n                                   Judge of the Superior Court\nJHR:kc",
     "full_text_markdown": null
   },
   "parsed": {
@@ -67,7 +68,7 @@
   "embedding": {
     "qa_text": "QUESTION: It would be appreciated if you could advise as to whether these investments are of a nature that must be reported in my Statement of Economic Interests, Form 721.",
     "qa_source": "mixed",
-    "first_500_words": "({bambers of tbe ~uperior ((ourt &f)asta (lCount!' JOSEPH H. REDMON, JUDGE 1ltbbtng, I!alifornta February 9, 1982 Fair Political Practices Commission P. O. Box 807 Sacramento, CA 95804 Attention: Ms. Alice Hughes Legal Documents Examiner Dear Ms. Hughes: Thank you for talking to me today. The three investments that I currently have under the State of California Deferred Compensation Plan are Great Western Savings, T. Rowe Price Growth Fund, and the Rowe Price Net Income Fund. If you wish additional information concerning the State of California Deferred Compensation Plan, I would suggest you contact the Department of General Services, 926 J Street, Sacramento, CA 95814. It would be appreciated if you could advise as to whether these investments are of a nature that must be reported in my Statement of Economi- Interests, Form 721. JHR:kc J J Superior Court",
+    "first_500_words": "Memo: Re Question from Judge Redmon Shasta County Superior Court #246-5609 2/24/82 None of the investments are reportable because: 1. Great Western Savings is a time deposit in a financial institution 2. D Rowe Price Growth Fund is a mutual fund with investment in stocks 3. Rowe Price Hi Income Fund is a mutual fund with investments in bonds. Chambers of the Superior Court Shasta County JOSEPH H. REDMON, JUDGE Redding, California February 9, 1982 Fair Political Practices Commission P. O. Box 807 Sacramento, CA 95804 Attention: Ms. Alice Hughes Legal Documents Examiner Dear Ms. Hughes: Thank you for talking to me today. The three investments that I currentiy have under the State of California Deferred Compensation Plan are Great Western Savings, T. Rowe Price Growth Fund, and the Rowe Price Net Income Fund. If you wish additional information concerning the State of California Deferred Compensation Plan, I would suggest you contact the Department of General Services, 926 J Street, Sacramento, CA 95814. It would be appreciated if you could advise as to whether these investments are of a nature that must be reported in my Statement of Economic Interests, Form 721. Very truly yours, JOSEPH H. REDMON Judge of the Superior Court JHR:kc",
     "summary": "Judge Joseph H. Redmon writes to the FPPC requesting advice on whether three investments held under the State of California Deferred Compensation Plan require reporting on Form 721 (Statement of Economic Interests)."
   }
 }

@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=3"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:37:05.375761Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-25T17:41:26.202407Z",
     "page_count": 1,
-    "word_count": 191,
-    "char_count": 1151,
-    "quality_score": 0.7175,
+    "word_count": 192,
+    "char_count": 1165,
+    "quality_score": 0.917019696969697,
     "olmocr_cost": null,
-    "native_word_count": 191
+    "native_word_count": 191,
+    "haiku_cost": 0.0025
   },
   "content": {
-    "full_text": "State of California \nMemorandum \nTo \n: Opinion Request Meeting Participants \nDate \nJune 29, 1979 \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nLee C. Rosenthal \nSubject: Lobbyist Employers \nSeven title insurance companies wish to lobby a bill. \nThey hire a law firm which, in turn, hires a lobbying firm \nto represent the interests of the title companies. \nThe \nactual lobbyist, of course, is an employee of the lobbying \nfirm. \nUnder 2 Cal. Adm. Code Section 18619, I believe that \nboth the law firm and the lobbying firm are retained entities \nand that the title insurance firms are employers of a lobby-\nist. \nIf this is not the case, then so long as the title \ninsurance firms paid less than $250 a month there would be \nnothing to associate the title firms with the lobbying \neffort and the law would be effectively evaded. \nLCR:plh \n7/2/79 \nStaff Advice: \nThe law firm and the seven title insurance companies are \nemployers of a lobbyist under 2 Cal. Admin. Code Section \nl86l9(b). \nThis decision is based upon the staffs o?inion \nthat the title insurance companies intended to employ a \nlobbyist and retained the law firm only for that purpose. \n",
+    "full_text": "State of California\n\nMemorandum\n\nTo : Opinion Request Meeting Participants                Date : June 29, 1979\n\n\nFrom : FAIR POLITICAL PRACTICES COMMISSION\n       Lee C. Rosenthal\n\nSubject: Lobbyist Employers\n\n     Seven title insurance companies wish to lobby a bill.\nThey hire a law firm which, in turn, hires a lobbying firm\nto represent the interests of the title companies. The\nactual lobbyist, of course, is an employee of the lobbying\nfirm.\n\n     Under 2 Cal. Adm. Code Section 18619, I believe that\nboth the law firm and the lobbying firm are retained entities\nand that the title insurance firms are employers of the lobbyist. If this is not the case, then so long as the title\ninsurance firms paid less than $250 a month there would be\nnothing to associate the title firms with the lobbying\neffort and the law would be effectively evaded.\n\nLCR:plh\n\n\n7/2/79\n\nStaff Advice:\n\nThe law firm and the seven title insurance companies are\nemployers of a lobbyist under 2 Cal. Adm. Code Section\n18619(b). This decision is based upon the staff's opinion\nthat the title insurance companies intended to employ a\nlobbyist and retained the law firm only for that purpose.",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "QUESTION: Whether the law firm and lobbying firm retained by seven title insurance companies to lobby a bill constitute retained entities, and whether the title insurance firms are employers of a lobbyist under 2 Cal. Adm. Code Section 18619.\n\nCONCLUSION: The law firm and the seven title insurance companies are employers of a lobbyist under 2 Cal. Admin. Code Section 18619(b). This decision is based upon the staff's opinion that the title insurance companies intended to employ a lobbyist and retained the law firm only for that purpose.",
     "qa_source": "mixed",
-    "first_500_words": "State of California Memorandum To : Opinion Request Meeting Participants Date June 29, 1979 From FAIR POLITICAL PRACTICES COMMISSION Lee C. Rosenthal Subject: Lobbyist Employers Seven title insurance companies wish to lobby a bill. They hire a law firm which, in turn, hires a lobbying firm to represent the interests of the title companies. The actual lobbyist, of course, is an employee of the lobbying firm. Under 2 Cal. Adm. Code Section 18619, I believe that both the law firm and the lobbying firm are retained entities and that the title insurance firms are employers of a lobby- ist. If this is not the case, then so long as the title insurance firms paid less than $250 a month there would be nothing to associate the title firms with the lobbying effort and the law would be effectively evaded. LCR:plh 7/2/79 Staff Advice: The law firm and the seven title insurance companies are employers of a lobbyist under 2 Cal. Admin. Code Section l86l9(b). This decision is based upon the staffs o?inion that the title insurance companies intended to employ a lobbyist and retained the law firm only for that purpose.",
+    "first_500_words": "State of California Memorandum To : Opinion Request Meeting Participants Date : June 29, 1979 From : FAIR POLITICAL PRACTICES COMMISSION Lee C. Rosenthal Subject: Lobbyist Employers Seven title insurance companies wish to lobby a bill. They hire a law firm which, in turn, hires a lobbying firm to represent the interests of the title companies. The actual lobbyist, of course, is an employee of the lobbying firm. Under 2 Cal. Adm. Code Section 18619, I believe that both the law firm and the lobbying firm are retained entities and that the title insurance firms are employers of the lobbyist. If this is not the case, then so long as the title insurance firms paid less than $250 a month there would be nothing to associate the title firms with the lobbying effort and the law would be effectively evaded. LCR:plh 7/2/79 Staff Advice: The law firm and the seven title insurance companies are employers of a lobbyist under 2 Cal. Adm. Code Section 18619(b). This decision is based upon the staff's opinion that the title insurance companies intended to employ a lobbyist and retained the law firm only for that purpose.",
     "summary": "The FPPC advised that seven title insurance companies that hired a law firm to hire a lobbying firm are employers of a lobbyist under California Administrative Code Section 18619(b), based on the companies' intent to employ a lobbyist through the law firm arrangement."
   }
 }

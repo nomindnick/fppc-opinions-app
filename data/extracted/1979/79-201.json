@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=9"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:37:06.144842Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-19T18:07:17.663455Z",
     "page_count": 1,
-    "word_count": 55,
-    "char_count": 354,
-    "quality_score": 0.33999999999999997,
+    "word_count": 54,
+    "char_count": 347,
+    "quality_score": 0.7344512067201092,
     "olmocr_cost": null,
-    "native_word_count": 55
+    "native_word_count": 55,
+    "haiku_cost": 0.0016279999999999999
   },
   "content": {
-    "full_text": "/ \nConsolidated Candidate/Committee Report \nIf two candidates control one committee, they may \nfile in the following manner: \n1) \neach candidate may file a Form 430 and \nthe committee may file one 420, or \n2) \neach candidate may file a 490 consolidated \ncandidate/committee report. \nTwo candidates and a controlled committee may \nnot file a single 490. \n",
+    "full_text": "Consolidated Candidate/Committee Report\n\nIf two candidates control one committee, they may\n\nfile in the following manner:\n\n1) each candidate may file a Form 430 and\n\nthe committee may file one 420, or\n\n2) each candidate may file a 490 consolidated\n\ncandidate/committee report.\n\nTwo candidates and a controlled committee may\n\nnot file a single 490.",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "QUESTION: May two candidates who control a single committee file consolidated campaign finance reports, and if so, what are the permissible filing options?\n\nCONCLUSION: If two candidates control one committee, they may file in the following manner: 1) each candidate may file a Form 430 and the committee may file one 420, or 2) each candidate may file a 490 consolidated candidate/committee report. Two candidates and a controlled committee may not file a single 490.",
     "qa_source": "mixed",
-    "first_500_words": "/ Consolidated Candidate/Committee Report If two candidates control one committee, they may file in the following manner: 1) each candidate may file a Form 430 and the committee may file one 420, or 2) each candidate may file a 490 consolidated candidate/committee report. Two candidates and a controlled committee may not file a single 490.",
+    "first_500_words": "Consolidated Candidate/Committee Report If two candidates control one committee, they may file in the following manner: 1) each candidate may file a Form 430 and the committee may file one 420, or 2) each candidate may file a 490 consolidated candidate/committee report. Two candidates and a controlled committee may not file a single 490.",
     "summary": "FPPC advice on filing options for two candidates controlling a single campaign committee. The letter specifies permissible consolidated reporting formats under California campaign finance law."
   }
 }

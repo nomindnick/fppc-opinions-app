@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=37"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:37:15.661543Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-20T17:06:28.656954Z",
     "page_count": 1,
-    "word_count": 134,
-    "char_count": 793,
-    "quality_score": 0.515,
+    "word_count": 137,
+    "char_count": 999,
+    "quality_score": 0.8467753649635037,
     "olmocr_cost": null,
-    "native_word_count": 134
+    "native_word_count": 134,
+    "haiku_cost": 0.002212
   },
   "content": {
-    "full_text": "> 5tCl-! of California \nMemorandum \nTo \nMemo to File \nDate \n3-1-77 \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nDawn \nSubject: \nKen Cory's statement of Economic Interests \nMyrna, of Ken Cory's office called today and had the following \nquestion: \nIf Mr. Cory has an equity interest in a partnership \nand he alsa loaned the entity additional financing, \nwhich is quaranteed, does he have to report the \nequity interest and the loan to the entity? \n, \nAfter consulting Del and Mike, we determined that the \nloan to the entity would not have to be reported as an \ninvestment and would only be reported when Mr. Cory was \nrepaid at which time it would be reported as income. \nI returned the call to Myrna and she transfered the call \nto Peter Pelkover, who I advised of the reporting requirement. \n",
+    "full_text": "State of California\n\nMemorandum\n\nTo : Memo to File                                    Date : 3-1-77\n\n\n                                                     77-L 3-164\n\nFrom : FAIR POLITICAL PRACTICES COMMISSION\n        Dawn\n\nSubject: Ken Cory's Statement of Economic Interests\n\n        Myrna, of Ken Cory's office called today and had the following\n        question:\n\n            If Mr. Cory has an equity interest in a partnership\n            and he also loaned the entity additional financing,\n            which is guaranteed, does he have to report the\n            equity interest and the loan to the entity?\n\n        After consulting Del and Mike, we determined that the\n        loan to the entity would not have to be reported as an\n        investment and would only be reported when Mr. Cory was\n        repaid at which time it would be reported as income.\n\n        I returned the call to Myrna and she transferred the call\n        to Peter Pelkover, who I advised of the reporting requirement.",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "QUESTION: If Mr. Cory has an equity interest in a partnership \nand he alsa loaned the entity additional financing, \nwhich is quaranteed, does he have to report the \nequity interest and the loan to the entity? \n, \nAfter consulting Del and Mike, we determined that the \nloan to the entity would not have to be reported as an \ninvestment and would only be reported when Mr. Cory was \nrepaid at which time it would be reported as income. \nI returned the call to Myrna and she transfered the call \nto Peter Pelkover, who I advised of the reporting requirement.\n\nCONCLUSION: The loan to the entity would not have to be reported as an investment and would only be reported when Mr. Cory was repaid at which time it would be reported as income.",
     "qa_source": "mixed",
-    "first_500_words": "> 5tCl-! of California Memorandum To Memo to File Date 3-1-77 From FAIR POLITICAL PRACTICES COMMISSION Dawn Subject: Ken Cory's statement of Economic Interests Myrna, of Ken Cory's office called today and had the following question: If Mr. Cory has an equity interest in a partnership and he alsa loaned the entity additional financing, which is quaranteed, does he have to report the equity interest and the loan to the entity? , After consulting Del and Mike, we determined that the loan to the entity would not have to be reported as an investment and would only be reported when Mr. Cory was repaid at which time it would be reported as income. I returned the call to Myrna and she transfered the call to Peter Pelkover, who I advised of the reporting requirement.",
+    "first_500_words": "State of California Memorandum To : Memo to File Date : 3-1-77 77-L 3-164 From : FAIR POLITICAL PRACTICES COMMISSION Dawn Subject: Ken Cory's Statement of Economic Interests Myrna, of Ken Cory's office called today and had the following question: If Mr. Cory has an equity interest in a partnership and he also loaned the entity additional financing, which is guaranteed, does he have to report the equity interest and the loan to the entity? After consulting Del and Mike, we determined that the loan to the entity would not have to be reported as an investment and would only be reported when Mr. Cory was repaid at which time it would be reported as income. I returned the call to Myrna and she transferred the call to Peter Pelkover, who I advised of the reporting requirement.",
     "summary": "FPPC memorandum addressing whether Ken Cory must report both an equity interest in a partnership and a loan made to that partnership entity on his statement of economic interests."
   }
 }

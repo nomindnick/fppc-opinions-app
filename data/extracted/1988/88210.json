@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1988&tagCount=1&page=12"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:36:07.738830Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-20T17:31:41.895585Z",
     "page_count": 1,
-    "word_count": 197,
-    "char_count": 1270,
-    "quality_score": 0.7150000000000001,
+    "word_count": 220,
+    "char_count": 1253,
+    "quality_score": 0.8916248955722639,
     "olmocr_cost": null,
-    "native_word_count": 197
+    "native_word_count": 197,
+    "haiku_cost": 0.002784
   },
   "content": {
-    "full_text": "TO: \nFROM: Kvasager, MA \n) JOHN L. \n) BOB L. \nAL \n=fX) JEANNE \nJOHN K. \nKATHY \nMARY ANN \nDATE: \n5/27/88 \nLYNN \nJOHN \nM~; \nCARLA \nJAY \nROGER \nHELEN \n( ) OTHER: \npoe] TELEPHONE ADVI CE \nSEE BELOW \n[ ]CORRESPONDENCE ADVICE \nSEE ATTACHED DRAFT \n(IF YOU HAVE ANY COMMENTS J NOTIFY ADVISOR WITHIN 1 DAY) \nFILE LOCATION: \n82016 I 8.2047.5 \nINCLUDE IN ADVICE PACKAGE: \nYES [ ] \nNO [ ] \nCALLER \nJennie Foat· \nREPRESENTING __ \n~C~AL~.~TA~S~K~ ________________ _ \nPHONE NUMBER: \n415/752-9404 \nQUESTION: \nIs.~mmittee \"primarily formed\" if it supports a bond measure \nin the Nov. 8 election (all funds received are intended to \nANSWER: \n~ \nCOP\\\",,'ffee \nsupport this measure) and/makes an occasional contribution to \na couple of.other measure committees formed for similar interests? \nThe measure is the result of a bill Senator Roberti sponsored. \nThE \nSenator is very interested in the measure and will be endorsing it. \nThe Senator wil·l also attend fundraisers su ortin the measure \nan \n~s name w~ \nappear on t e measure comm~ttee's letterhead. \nThe measure c'ommittee is considered a primarily formed committee. \nBased on the facts presented, the measure committee is not \ncontrolled by Senator Roberti. \nI sugges~she write the Commission \noutlining the Senator's involvemen~. \n",
+    "full_text": "T-8S 2/10\nTO: ( ) JOHN L. ( ) BOB L. ( ) AL XX) JEANNE FROM: Kvasager, MA\n( ) JOHN K. ( ) KATHY ( ) MARY ANN\nDATE: 5/27/88\n( ) LYNN ( ) JOHN M. ( ) CARLA\n( ) JAY ( ) ROGER ( ) HELEN\n( ) OTHER: _______________\n\nXX) TELEPHONE ADVICE - SEE BELOW\n[ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT\n(IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY)\n\nFILE LOCATION: 82016, 82047.5\n\nINCLUDE IN ADVICE PACKAGE: YES [ ] NO [ ]\n\nCALLER Jennie Foat\n\nREPRESENTING CAL TASK\n\nPHONE NUMBER: 415/752-9404\n\nQUESTION: Is a committee \"primarily formed\" if it supports a bond measure\nin the Nov. 8 election (all funds received are intended to\nsupport this measure) and/makes an occasional contribution to\na couple of other measure committees formed for similar interests?\nThe measure is the result of a bill Senator Roberti sponsored. The\nSenator is very interested in the measure and will be endorsing it.\nANSWER: The Senator will also attend fundraisers supporting the measure\nand his name will appear on the measure committee's letterhead.\n\nThe measure committee is considered a primarily formed committee.\nBased on the facts presented, the measure committee is not\ncontrolled by Senator Roberti. I suggest she write the Commission\noutlining the Senator's involvement.",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "QUESTION: Is.~mmittee \"primarily formed\" if it supports a bond measure \nin the Nov. 8 election (all funds received are intended to \nANSWER: \n~ \nCOP\\\",,'ffee \nsupport this measure) and/makes an occasional contribution to \na couple of.other measure committees formed for similar interests? \nThe measure is the result of a bill Senator Roberti sponsored. \nThE \nSenator is very interested in the measure and will be endorsing it. \nThe Senator wil·l also attend fundraisers su ortin the measure \nan \n~s name w~ \nappear on t e measure comm~ttee's letterhead. \nThe measure c'ommittee is considered a primarily formed committee. \nBased on the facts presented, the measure committee is not \ncontrolled by Senator Roberti. \nI sugges~she write the Commission \noutlining the Senator's involvemen~.",
     "qa_source": "extracted",
-    "first_500_words": "TO: FROM: Kvasager, MA ) JOHN L. ) BOB L. AL =fX) JEANNE JOHN K. KATHY MARY ANN DATE: 5/27/88 LYNN JOHN M~; CARLA JAY ROGER HELEN ( ) OTHER: poe] TELEPHONE ADVI CE SEE BELOW [ ]CORRESPONDENCE ADVICE SEE ATTACHED DRAFT (IF YOU HAVE ANY COMMENTS J NOTIFY ADVISOR WITHIN 1 DAY) FILE LOCATION: 82016 I 8.2047.5 INCLUDE IN ADVICE PACKAGE: YES [ ] NO [ ] CALLER Jennie Foat· REPRESENTING __ ~C~AL~.~TA~S~K~ ________________ _ PHONE NUMBER: 415/752-9404 QUESTION: Is.~mmittee \"primarily formed\" if it supports a bond measure in the Nov. 8 election (all funds received are intended to ANSWER: ~ COP\\\",,'ffee support this measure) and/makes an occasional contribution to a couple of.other measure committees formed for similar interests? The measure is the result of a bill Senator Roberti sponsored. ThE Senator is very interested in the measure and will be endorsing it. The Senator wil·l also attend fundraisers su ortin the measure an ~s name w~ appear on t e measure comm~ttee's letterhead. The measure c'ommittee is considered a primarily formed committee. Based on the facts presented, the measure committee is not controlled by Senator Roberti. I sugges~she write the Commission outlining the Senator's involvemen~.",
+    "first_500_words": "T-8S 2/10 TO: ( ) JOHN L. ( ) BOB L. ( ) AL XX) JEANNE FROM: Kvasager, MA ( ) JOHN K. ( ) KATHY ( ) MARY ANN DATE: 5/27/88 ( ) LYNN ( ) JOHN M. ( ) CARLA ( ) JAY ( ) ROGER ( ) HELEN ( ) OTHER: _______________ XX) TELEPHONE ADVICE - SEE BELOW [ ] CORRESPONDENCE ADVICE - SEE ATTACHED DRAFT (IF YOU HAVE ANY COMMENTS, NOTIFY ADVISOR WITHIN 1 DAY) FILE LOCATION: 82016, 82047.5 INCLUDE IN ADVICE PACKAGE: YES [ ] NO [ ] CALLER Jennie Foat REPRESENTING CAL TASK PHONE NUMBER: 415/752-9404 QUESTION: Is a committee \"primarily formed\" if it supports a bond measure in the Nov. 8 election (all funds received are intended to support this measure) and/makes an occasional contribution to a couple of other measure committees formed for similar interests? The measure is the result of a bill Senator Roberti sponsored. The Senator is very interested in the measure and will be endorsing it. ANSWER: The Senator will also attend fundraisers supporting the measure and his name will appear on the measure committee's letterhead. The measure committee is considered a primarily formed committee. Based on the facts presented, the measure committee is not controlled by Senator Roberti. I suggest she write the Commission outlining the Senator's involvement.",
     "summary": null
   }
 }

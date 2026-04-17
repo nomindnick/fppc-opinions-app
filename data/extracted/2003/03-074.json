@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2003&tagCount=1&page=13"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:34:21.533726Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-22T00:17:37.167874Z",
     "page_count": 1,
-    "word_count": 139,
-    "char_count": 980,
-    "quality_score": 0.63,
+    "word_count": 149,
+    "char_count": 1006,
+    "quality_score": 0.9258768489659125,
     "olmocr_cost": null,
-    "native_word_count": 139
+    "native_word_count": 139,
+    "haiku_cost": 0.002392
   },
   "content": {
-    "full_text": "Farn PollrrcAt- PnecrrcEs CorvrMrssroN\n428 J Street. Suite 620. Sacramento, CA 95814-2329\n(916) 322-5660. Fax (916) 322-0886\nApril 15,2003\nC. Ray Drew\nDrew Development,LLC\n7290Navajo Road, Suite 207\nSan Diego, CA92ll9\nRe:\nYour Request for Advice\nOur File No. W-03-074\nDear Mr. Drew:\nThis letter confirms the receipt of your April 14, 2003,request for advice regarding an\nunnamed political candidate. Under the provisions of California Code of Regulations\n18329(bX8)(B), unless you are an authoizedrepresentative of the candidate for whom you seek\nassistance, the Fair Political Practices Commission cannot address your question or provide\nanalysis. Please review enclosed regulation 15329(b)(2)(A) where I have highlighted th;\nrequirements for submitting a request for advice.\nShould you have any additional questions regarding this matter, please contact the\nCommission at (916) 322-5660.\nSincerely,\nLuisa Menchaca\nCounsel\nJohn W. Wallace\nAssistant General Counsel\nEnclosure\n!-=\n",
+    "full_text": "FAIR POLITICAL PRACTICES COMMISSION\n428 J Street • Suite 620 • Sacramento, CA 95814-2329\n(916) 322-5660 • Fax (916) 322-0886\n\nApril 15, 2003\n\n\nC. Ray Drew\nDrew Development, LLC\n7290 Navajo Road, Suite 207\nSan Diego, CA 92119\n\nRe: Your Request for Advice\nOur File No. W-03-074\n\nDear Mr. Drew:\n\nThis letter confirms the receipt of your April 14, 2003, request for advice regarding an unnamed political candidate. Under the provisions of California Code of Regulations 18329(b)(3)(B), unless you are an authorized representative of the candidate for whom you seek assistance, the Fair Political Practices Commission cannot address your question or provide analysis. Please review enclosed regulation 18329(b)(2)(A) where I have highlighted the requirements for submitting a request for advice.\n\nShould you have any additional questions regarding this matter, please contact the Commission at (916) 322-5660.\n\nSincerely,\n\nLuisa Menchaca\nGeneral Counsel\n\nBy: John W. Wallace\nAssistant General Counsel\n\nEnclosure",
     "full_text_markdown": null
   },
   "parsed": {
@@ -67,7 +68,7 @@
   "embedding": {
     "qa_text": "QUESTION: The requestor sought advice regarding an unnamed political candidate, but the FPPC determined it could not address the question due to jurisdictional limitations.\n\nCONCLUSION: The FPPC declined to provide advice because the requestor was not an authorized representative of the candidate in question, as required under California Code of Regulations 18329(b)(8)(B).",
     "qa_source": "synthetic",
-    "first_500_words": "Farn PollrrcAt- PnecrrcEs CorvrMrssroN 428 J Street. Suite 620. Sacramento, CA 95814-2329 (916) 322-5660. Fax (916) 322-0886 April 15,2003 C. Ray Drew Drew Development,LLC 7290Navajo Road, Suite 207 San Diego, CA92ll9 Re: Your Request for Advice Our File No. W-03-074 Dear Mr. Drew: This letter confirms the receipt of your April 14, 2003,request for advice regarding an unnamed political candidate. Under the provisions of California Code of Regulations 18329(bX8)(B), unless you are an authoizedrepresentative of the candidate for whom you seek assistance, the Fair Political Practices Commission cannot address your question or provide analysis. Please review enclosed regulation 15329(b)(2)(A) where I have highlighted th; requirements for submitting a request for advice. Should you have any additional questions regarding this matter, please contact the Commission at (916) 322-5660. Sincerely, Luisa Menchaca Counsel John W. Wallace Assistant General Counsel Enclosure !-=",
+    "first_500_words": "FAIR POLITICAL PRACTICES COMMISSION 428 J Street • Suite 620 • Sacramento, CA 95814-2329 (916) 322-5660 • Fax (916) 322-0886 April 15, 2003 C. Ray Drew Drew Development, LLC 7290 Navajo Road, Suite 207 San Diego, CA 92119 Re: Your Request for Advice Our File No. W-03-074 Dear Mr. Drew: This letter confirms the receipt of your April 14, 2003, request for advice regarding an unnamed political candidate. Under the provisions of California Code of Regulations 18329(b)(3)(B), unless you are an authorized representative of the candidate for whom you seek assistance, the Fair Political Practices Commission cannot address your question or provide analysis. Please review enclosed regulation 18329(b)(2)(A) where I have highlighted the requirements for submitting a request for advice. Should you have any additional questions regarding this matter, please contact the Commission at (916) 322-5660. Sincerely, Luisa Menchaca General Counsel By: John W. Wallace Assistant General Counsel Enclosure",
     "summary": "The FPPC declined to provide advice to C. Ray Drew regarding an unnamed political candidate, citing lack of authorization under applicable regulations. The requestor was advised to review the requirements for submitting requests for advice."
   }
 }

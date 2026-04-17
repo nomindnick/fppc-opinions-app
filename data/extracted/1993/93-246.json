@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1993&tagCount=1&page=9"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:35:06.379544Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-26T14:18:21.809372Z",
     "page_count": 1,
-    "word_count": 158,
-    "char_count": 947,
-    "quality_score": 0.8,
+    "word_count": 156,
+    "char_count": 957,
+    "quality_score": 0.9414301634475705,
     "olmocr_cost": null,
-    "native_word_count": 158
+    "native_word_count": 158,
+    "haiku_cost": 0.0023840000000000003
   },
   "content": {
-    "full_text": "California\nFair Political\nPractices Commission\nJune 15,\n1993\nTorn Heaton\n725 Edgewood Road\nSan Mateo,\nCA\n94402\nRe:\nYour Request for Advice\nOur File No.\nG—93--246\nDear Mr.\nHeaton:\n-\nThis.is in reply to Senator Quentin Kopp’s request that we\nassist in addressing your question as to whether there are any\nlaws prohibiting a former director of a state agency from\nendorsing products utilized by that agency.\nWe have researched this issue and find no law or agency\nregulation that prohibits former state agency employees\n(including\ndirectors and management level employees)\nfrom engaging in this\nactivity after they have left office.\nIf there are additional facts which you think may alter our\nconclusion, please contact us at the above address and we will\nassist you as best we can..\nSincer ly,\nScott Halla nfl\n‘Assistant General Counsel\ncc:\nSenator Quentin L.\nKopp\n428 J Street, Suite 800 •\nP.O. Box 807 •\nSacramento, CA\n95804-0807\n•\n(916) 322-5660\n",
+    "full_text": "California\nFair Political\nPractices Commission\n\n\nJune 15, 1993\n\n\nTom Heaton\n725 Edgewood Road\nSan Mateo, CA 94402\n\nRe: Your Request for Advice\nOur File No. G-93-246\n\n\nDear Mr. Heaton:\n\nThis is in reply to Senator Quentin Kopp's request that we\nassist in addressing your question as to whether there are any\nlaws prohibiting a former director of a state agency from\nendorsing products utilized by that agency.\n\nWe have researched this issue and find no law or agency\nregulation that prohibits former state agency employees (including\ndirectors and management level employees) from engaging in this\nactivity after they have left office.\n\nIf there are additional facts which you think may alter our\nconclusion, please contact us at the above address and we will\nassist you as best we can.\n\nSincerely,\n\nScott Hallabrin\nAssistant General Counsel\n\ncc: Senator Quentin L. Kopp\n\n\n\n\n428 J Street, Suite 800 • P.O. Box 807 • Sacramento, CA 95804-0807 • (916) 322-5660",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "CONCLUSION: , please contact us at the above address and we will\nassist you as best we can..\nSincer ly,\nScott Halla nfl\n‘Assistant General Counsel\ncc:\nSenator Quentin L.\nKopp\n\n•\n(916) 322-5660",
     "qa_source": "extracted",
-    "first_500_words": "California Fair Political Practices Commission June 15, 1993 Torn Heaton 725 Edgewood Road San Mateo, CA 94402 Re: Your Request for Advice Our File No. G—93--246 Dear Mr. Heaton: - This.is in reply to Senator Quentin Kopp’s request that we assist in addressing your question as to whether there are any laws prohibiting a former director of a state agency from endorsing products utilized by that agency. We have researched this issue and find no law or agency regulation that prohibits former state agency employees (including directors and management level employees) from engaging in this activity after they have left office. If there are additional facts which you think may alter our conclusion, please contact us at the above address and we will assist you as best we can.. Sincer ly, Scott Halla nfl ‘Assistant General Counsel cc: Senator Quentin L. Kopp 428 J Street, Suite 800 • P.O. Box 807 • Sacramento, CA 95804-0807 • (916) 322-5660",
+    "first_500_words": "California Fair Political Practices Commission June 15, 1993 Tom Heaton 725 Edgewood Road San Mateo, CA 94402 Re: Your Request for Advice Our File No. G-93-246 Dear Mr. Heaton: This is in reply to Senator Quentin Kopp's request that we assist in addressing your question as to whether there are any laws prohibiting a former director of a state agency from endorsing products utilized by that agency. We have researched this issue and find no law or agency regulation that prohibits former state agency employees (including directors and management level employees) from engaging in this activity after they have left office. If there are additional facts which you think may alter our conclusion, please contact us at the above address and we will assist you as best we can. Sincerely, Scott Hallabrin Assistant General Counsel cc: Senator Quentin L. Kopp 428 J Street, Suite 800 • P.O. Box 807 • Sacramento, CA 95804-0807 • (916) 322-5660",
     "summary": null
   }
 }

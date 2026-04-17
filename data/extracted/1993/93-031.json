@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1993&tagCount=1&page=13"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:35:06.843081Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-20T22:12:45.346843Z",
     "page_count": 1,
-    "word_count": 169,
-    "char_count": 1069,
-    "quality_score": 0.7175,
+    "word_count": 168,
+    "char_count": 1388,
+    "quality_score": 0.8375811541565779,
     "olmocr_cost": null,
-    "native_word_count": 169
+    "native_word_count": 169,
+    "haiku_cost": 0.0027400000000000002
   },
   "content": {
-    "full_text": "California\nFair Political\nPractices Commission\nJanuary 25,\n1993\nJames M.\nRoth,\nEsq.\nJensen\n& Roth\nAttorneys at Law\nThe Escondido Financial Center\n451 South Escondido Boulevard\nEscondido,\nCalifornia\n92025\nDear Mr.\nRoth:\nRe:\nYour Request for Advice\nOur File No.\nG-93-31\nI\nam writing to confirm our telephone conversation on\nJanuary 25,\n1993,\nwherein we discussed your request for a\nCommission opinion under Government Code Section 83114(a)\nof the\nPolitical Reform Act\n(the “Act”)\n1\n.\nI informed you that pursuant\nto Regulation 18320(f) (7)\n(copy enclosed),\nyour request falls\noutside the scope of the Act.\nSincerely,\nJeff Marschner,\nGeneral\nCo nsel\nBy:\nounsel,\nLegal Division\nJM:JS:dl\nenc.\n1\nGovernment Code Sections 81000-91015.\nAll statutory references\nare to the Government Code unless otherwise indicated.\nCommission\nregulations appear at\n2 California Code of Regulations Section\n18000, et .\nAll references to regulations are to Title 2,\nDivision\n6 of the California Code of Regulations.\n428 J Street, Suite 800\nI\nP.O. Box 807\nI\nSacramento, CA\n95812 I\n(916) 322-5660\n",
+    "full_text": "California\nFair Political\nPractices Commission\n\nJanuary 25, 1993\n\n\nJames M. Roth, Esq.\nJensen & Roth\nAttorneys at Law\nThe Escondido Financial Center\n451 South Escondido Boulevard\nEscondido, California  92025\n\nDear Mr. Roth:\n\n                    Re:  Your Request for Advice\n                         Our File No. G-93-31\n\n     I am writing to confirm our telephone conversation on\nJanuary 25, 1993, wherein we discussed your request for a\nCommission opinion under Government Code Section 83114(a) of the\nPolitical Reform Act (the \"Act\").¹  I informed you that pursuant\nto Regulation 18320(f)(7) (copy enclosed), your request falls\noutside the scope of the Act.\n\n                                        Sincerely,\n\n                                        Jeff Marschner,\n                                        General Counsel\n\n                                   By:  Jill Stecher,\n                                        Counsel, Legal Division\n\nJM:JS:dl\n\nenc.\n\n\n\n\n___________________________\n¹  Government Code Sections 81000-91015.  All statutory references\nare to the Government Code unless otherwise indicated.  Commission\nregulations appear at 2 California Code of Regulations Section\n18000, et seq.  All references to regulations are to Title 2,\nDivision 6 of the California Code of Regulations.\n\n\n428 J Street, Suite 800  •  P.O. Box 807  •  Sacramento, CA  95812  •  (916) 322-5660",
     "full_text_markdown": null
   },
   "parsed": {
@@ -70,7 +71,7 @@
   "embedding": {
     "qa_text": "QUESTION: Whether a matter falls within the scope of the Political Reform Act and qualifies for a Commission opinion under Government Code Section 83114(a).\n\nCONCLUSION: The FPPC determined that the requested matter falls outside the scope of the Political Reform Act pursuant to Regulation 18320(f)(7), and therefore does not qualify for a Commission opinion.",
     "qa_source": "synthetic",
-    "first_500_words": "California Fair Political Practices Commission January 25, 1993 James M. Roth, Esq. Jensen & Roth Attorneys at Law The Escondido Financial Center 451 South Escondido Boulevard Escondido, California 92025 Dear Mr. Roth: Re: Your Request for Advice Our File No. G-93-31 I am writing to confirm our telephone conversation on January 25, 1993, wherein we discussed your request for a Commission opinion under Government Code Section 83114(a) of the Political Reform Act (the “Act”) 1 . I informed you that pursuant to Regulation 18320(f) (7) (copy enclosed), your request falls outside the scope of the Act. Sincerely, Jeff Marschner, General Co nsel By: ounsel, Legal Division JM:JS:dl enc. 1 Government Code Sections 81000-91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations Section 18000, et . All references to regulations are to Title 2, Division 6 of the California Code of Regulations. 428 J Street, Suite 800 I P.O. Box 807 I Sacramento, CA 95812 I (916) 322-5660",
+    "first_500_words": "California Fair Political Practices Commission January 25, 1993 James M. Roth, Esq. Jensen & Roth Attorneys at Law The Escondido Financial Center 451 South Escondido Boulevard Escondido, California 92025 Dear Mr. Roth: Re: Your Request for Advice Our File No. G-93-31 I am writing to confirm our telephone conversation on January 25, 1993, wherein we discussed your request for a Commission opinion under Government Code Section 83114(a) of the Political Reform Act (the \"Act\").¹ I informed you that pursuant to Regulation 18320(f)(7) (copy enclosed), your request falls outside the scope of the Act. Sincerely, Jeff Marschner, General Counsel By: Jill Stecher, Counsel, Legal Division JM:JS:dl enc. ___________________________ ¹ Government Code Sections 81000-91015. All statutory references are to the Government Code unless otherwise indicated. Commission regulations appear at 2 California Code of Regulations Section 18000, et seq. All references to regulations are to Title 2, Division 6 of the California Code of Regulations. 428 J Street, Suite 800 • P.O. Box 807 • Sacramento, CA 95812 • (916) 322-5660",
     "summary": "The FPPC advises that a request for a Commission opinion falls outside the scope of the Political Reform Act. The determination was made following a telephone conversation on January 25, 1993."
   }
 }

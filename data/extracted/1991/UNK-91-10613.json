@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1991&tagCount=1&page=82"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:35:30.133545Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-19T19:31:26.804240Z",
     "page_count": 1,
-    "word_count": 172,
-    "char_count": 949,
-    "quality_score": 0.55,
+    "word_count": 169,
+    "char_count": 954,
+    "quality_score": 0.8641777974554042,
     "olmocr_cost": null,
-    "native_word_count": 172
+    "native_word_count": 172,
+    "haiku_cost": 0.0023712000000000004
   },
   "content": {
-    "full_text": "UCI . \n,i\noct. 29, 1991\nMs Alice Hughes\nCalif . Fair Po.litical\nPractices commission\nP.o. Box 807\nsacramento, ca. 958\nDear Ms Hughes:\nAs a rank amateur in this field of Politics, \nand having goofed\nonce, Mr Baugher told me to contact you for advice an assistance.\nwould you please answer for me these three questionsl\n(1)Is this correct for candidates to use the same mailing permit?\nLast year there were several mailings using Mr Brents permit, but\nhe was not a candidate. r am not a candidate against either of\nthese two individuals, however r am running. It seems to me this\npractice has the potential of obscuring the true amount sPent by\ncandidates.\n(2) Not many here were aware of Eorm 502, I \nwonder if all \nof\nthese candidates sent in this form?\n(3) Last if we spend less than 5200.00 is it \nrequired to \nbe\nreported? If \nso what form is \nneeded, and what time frame after\nthe election? Thanking you in advance.\nSincerely,\nCharles E. Al soP\n",
+    "full_text": "Oct 20 [illegible]\n\n\nOct. 29, 1991\n\nMs Alice Hughes\nCalif. Fair Political\nPractices Commission\nP.O. Box 807\nSacramento, Ca. 958\n\nDear Ms Hughes:\n\nAs a rank amateur in this field of Politics, and having goofed\nonce, Mr Baugher told me to contact you for advice assistance.\nWould you please answer for me these three questions?\n\n(1)Is this correct for candidates to use the same mailing permit?\nlast year there were several mailings using Mr Brents permit, but\nhe was not a candidate. I am not a candidate against either of\nthese two individuals, however I am running. It seems to me this\npractice has the potential of obscuring the true amount spent by\ncandidates.\n\n(2) Not many here were aware of Form 502, I wonder if all of\nthese candidates sent in this form?\n\n(3) Last if we spend less than $200.00 is it required to be\nreported? If so what form is needed, and what time frame after\nthe election? Thanking you in advance.\n\nSincerely,\n\nCharles E. Alsop",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "QUESTION: (1)Is this correct for candidates to use the same mailing permit? Last year there were several mailings using Mr Brents permit, but he was not a candidate. r am not a candidate against either of these two individuals, however r am running. It seems to me this practice has the potential of obscuring the true amount sPent by candidates.\n\n(2) Not many here were aware of Eorm 502, I wonder if all of these candidates sent in this form?\n\n(3) Last if we spend less than 5200.00 is it required to be reported? If so what form is needed, and what time frame after the election?",
     "qa_source": "mixed",
-    "first_500_words": "UCI . ,i oct. 29, 1991 Ms Alice Hughes Calif . Fair Po.litical Practices commission P.o. Box 807 sacramento, ca. 958 Dear Ms Hughes: As a rank amateur in this field of Politics, and having goofed once, Mr Baugher told me to contact you for advice an assistance. would you please answer for me these three questionsl (1)Is this correct for candidates to use the same mailing permit? Last year there were several mailings using Mr Brents permit, but he was not a candidate. r am not a candidate against either of these two individuals, however r am running. It seems to me this practice has the potential of obscuring the true amount sPent by candidates. (2) Not many here were aware of Eorm 502, I wonder if all of these candidates sent in this form? (3) Last if we spend less than 5200.00 is it required to be reported? If so what form is needed, and what time frame after the election? Thanking you in advance. Sincerely, Charles E. Al soP",
+    "first_500_words": "Oct 20 [illegible] Oct. 29, 1991 Ms Alice Hughes Calif. Fair Political Practices Commission P.O. Box 807 Sacramento, Ca. 958 Dear Ms Hughes: As a rank amateur in this field of Politics, and having goofed once, Mr Baugher told me to contact you for advice assistance. Would you please answer for me these three questions? (1)Is this correct for candidates to use the same mailing permit? last year there were several mailings using Mr Brents permit, but he was not a candidate. I am not a candidate against either of these two individuals, however I am running. It seems to me this practice has the potential of obscuring the true amount spent by candidates. (2) Not many here were aware of Form 502, I wonder if all of these candidates sent in this form? (3) Last if we spend less than $200.00 is it required to be reported? If so what form is needed, and what time frame after the election? Thanking you in advance. Sincerely, Charles E. Alsop",
     "summary": "An incoming request letter from Charles E. Alsop asking the FPPC for advice on three campaign finance compliance questions regarding shared mailing permits, Form 502 filing requirements, and reporting thresholds for candidate spending."
   }
 }

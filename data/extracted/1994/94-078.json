@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1994&tagCount=1&page=3"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:35:01.073348Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-25T16:45:36.250858Z",
     "page_count": 1,
-    "word_count": 199,
+    "word_count": 196,
     "char_count": 1258,
-    "quality_score": 0.7175,
+    "quality_score": 0.9247157477820026,
     "olmocr_cost": null,
-    "native_word_count": 199
+    "native_word_count": 199,
+    "haiku_cost": 0.0026439999999999996
   },
   "content": {
-    "full_text": "California\nFair Political\nPractices Commission\nApril 7,\n1994\nGail Martini\nTn-County Apartment Assn.\n792 Meridian Way, Suite A\nSan Jose,\nCA\n95126\nRe:\nYour Request for Confirmation\nof Telephone Advice\nOur File No.\nA—94-78\nDear Ms. Martini:\nThis is to confirm telephone assistance provided to you\nregarding the campaign disclosure provisions of the Political\nReform Act.\n(Government Code Sections 81000-91015.)\nYour letter accurately suramarizes my advice that if the\nAssociation intends to hold a joint fundraiser for both Tri—PAC\nand Tn—Issues PAC, the Association should advise contributors of\nthe amount designated for each committee.\nIf the Association\nraises funds for one of the committees and later transfers funds\nto the other, it is not necessary to notify past contributors of\nthe transfer as long as it was not the intent of the Association\nat the time of raising the funds that some portion would be\nearmarked for the other committee.\nIf you have any further questions regarding this matter,\nplease contact me at\n(916)\n322—5662.\nSincerely,\nV\nSteven G.\nChurchwell\nGeneral Counsel\nQ92Q4J\nBy:\nColleen McGee\nPolitical Reform Consultant\nTechnical Assistance Division\n4\n428 J Street, Suite 800 •\nP.O. Box 807 •\nSacramento, CA\n95804-0807\n•\n(916) 322-5660\n",
+    "full_text": "California\nFair Political\nPractices Commission\n\nApril 7, 1994\n\nGail Martini\nTri-County Apartment Assn.\n792 Meridian Way, Suite A\nSan Jose, CA 95126\n\nRe: Your Request for Confirmation\nof Telephone Advice\nOur File No. A-94-78\n\nDear Ms. Martini:\n\nThis is to confirm telephone assistance provided to you\nregarding the campaign disclosure provisions of the Political\nReform Act. (Government Code Sections 81000-91015.)\n\nYour letter accurately summarizes my advice that if the\nAssociation intends to hold a joint fundraiser for both Tri-PAC\nand Tri-Issues PAC, the Association should advise contributors of\nthe amount designated for each committee. If the Association\nraises funds for one of the committees and later transfers funds\nto the other, it is not necessary to notify past contributors of\nthe transfer as long as it was not the intent of the Association\nat the time of raising the funds that some portion would be\nearmarked for the other committee.\n\nIf you have any further questions regarding this matter,\nplease contact me at (916) 322-5662.\n\nSincerely,\n\nSteven G. Churchwell\nGeneral Counsel\n\nBy: Colleen McGee\nPolitical Reform Consultant\nTechnical Assistance Division\n\n428 J Street, Suite 800 • P.O. Box 807 • Sacramento, CA 95804-0807 • (916) 322-5660",
     "full_text_markdown": null
   },
   "parsed": {
@@ -67,7 +68,7 @@
   "embedding": {
     "qa_text": "QUESTION: When holding a joint fundraiser for multiple PACs, must an organization notify contributors about fund designations and transfers between committees?\n\nCONCLUSION: If holding a joint fundraiser for multiple PACs, contributors must be advised of amounts designated for each committee. However, if funds raised for one committee are later transferred to another without prior intent to earmark for the other committee, past contributors need not be notified of the transfer.",
     "qa_source": "synthetic",
-    "first_500_words": "California Fair Political Practices Commission April 7, 1994 Gail Martini Tn-County Apartment Assn. 792 Meridian Way, Suite A San Jose, CA 95126 Re: Your Request for Confirmation of Telephone Advice Our File No. A—94-78 Dear Ms. Martini: This is to confirm telephone assistance provided to you regarding the campaign disclosure provisions of the Political Reform Act. (Government Code Sections 81000-91015.) Your letter accurately suramarizes my advice that if the Association intends to hold a joint fundraiser for both Tri—PAC and Tn—Issues PAC, the Association should advise contributors of the amount designated for each committee. If the Association raises funds for one of the committees and later transfers funds to the other, it is not necessary to notify past contributors of the transfer as long as it was not the intent of the Association at the time of raising the funds that some portion would be earmarked for the other committee. If you have any further questions regarding this matter, please contact me at (916) 322—5662. Sincerely, V Steven G. Churchwell General Counsel Q92Q4J By: Colleen McGee Political Reform Consultant Technical Assistance Division 4 428 J Street, Suite 800 • P.O. Box 807 • Sacramento, CA 95804-0807 • (916) 322-5660",
+    "first_500_words": "California Fair Political Practices Commission April 7, 1994 Gail Martini Tri-County Apartment Assn. 792 Meridian Way, Suite A San Jose, CA 95126 Re: Your Request for Confirmation of Telephone Advice Our File No. A-94-78 Dear Ms. Martini: This is to confirm telephone assistance provided to you regarding the campaign disclosure provisions of the Political Reform Act. (Government Code Sections 81000-91015.) Your letter accurately summarizes my advice that if the Association intends to hold a joint fundraiser for both Tri-PAC and Tri-Issues PAC, the Association should advise contributors of the amount designated for each committee. If the Association raises funds for one of the committees and later transfers funds to the other, it is not necessary to notify past contributors of the transfer as long as it was not the intent of the Association at the time of raising the funds that some portion would be earmarked for the other committee. If you have any further questions regarding this matter, please contact me at (916) 322-5662. Sincerely, Steven G. Churchwell General Counsel By: Colleen McGee Political Reform Consultant Technical Assistance Division 428 J Street, Suite 800 • P.O. Box 807 • Sacramento, CA 95804-0807 • (916) 322-5660",
     "summary": "FPPC confirms telephone advice to Tri-County Apartment Association regarding campaign disclosure requirements for joint fundraisers involving multiple PACs, specifically addressing contributor notification requirements for fund designations and inter-committee transfers."
   }
 }

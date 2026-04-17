@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1979&tagCount=1&page=4"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:37:05.458838Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-22T02:03:06.556171Z",
     "page_count": 1,
-    "word_count": 192,
-    "char_count": 1086,
-    "quality_score": 0.635,
+    "word_count": 194,
+    "char_count": 1113,
+    "quality_score": 0.8799333333333335,
     "olmocr_cost": null,
-    "native_word_count": 192
+    "native_word_count": 192,
+    "haiku_cost": 0.0023239999999999997
   },
   "content": {
-    "full_text": "State \nCalifornia \nM morandu \nTo \n: Advice File \nDate \nNov. 14, 1979 \nfrom \nfAIR POLITICAL PRACTICES COMMISSION \nSarah Cameron S<:-\nEffect of Supreme Court's decision in IGA \nI got a call today from Thad Howard in Speaker ~cCarthy's \nLos Angeles Office. \nHe said McCarthy was getting ready to send out \na solicitation letter signed by several labor leaders, including \nJohn Henning, who is a registered lobbyist. \nHe asked if there \nwas any problem with this in light of IGA. \nI told him that our \napplication for a stay of the Court's decision was still pending \nso that the decision is in effect and consequently the affected \nprovisions of the Act are not. \nTherefore, it is not illegal to \ndo this. \nHe asked what would happen if the stay is later granted -\nwould there be any retroactive effect to the stay_ \nI said no, \nthat actions taken during the period that the decision was in \neffect would still be legal, but that of course they would have to \nstop using the letter or taking any other action in violation of \nthe sections which would be put back into effect by the stay_ \n",
+    "full_text": "State of California\n\nMemorandum\n\nTo : Advice File                                Date : Nov. 14, 1979\n\n\nFrom : FAIR POLITICAL PRACTICES COMMISSION\n        Sarah Cameron\n\nSubject: Effect of Supreme Court's decision in IGA\n\nI got a call today from Thad Howard in Speaker McCarthy's\nLos Angeles Office. He said McCarthy was getting ready to send out\na solicitation letter signed by several labor leaders, including\nJohn Henning, who is a registered lobbyist. He asked if there\nwas any problem with this in light of IGA. I told him that our\napplication for a stay of the Court's decision was still pending\nso that the decision is in effect and consequently the affected\nprovisions of the Act are not. Therefore, it is not illegal to\ndo this. He asked what would happen if the stay is later granted -\nwould there be any retroactive effect to the stay. I said no,\nthat actions taken during the period that the decision was in\neffect would still be legal, but that of course they would have to\nstop using the letter or taking any other action in violation of\nthe sections which would be put back into effect by the stay.",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "QUESTION: Whether a solicitation letter signed by a registered lobbyist (John Henning) in connection with Speaker McCarthy's fundraising is permissible under the Political Reform Act in light of the Supreme Court's IGA decision.\n\nCONCLUSION: The FPPC advised that because the Court's IGA decision is currently in effect and the FPPC's application for a stay is still pending, the affected provisions of the Act are not in effect, making such solicitation legal at present. However, if the stay is later granted, actions taken during the period when the decision was in effect would remain legal, but future violations of reinstated provisions would need to cease.",
     "qa_source": "synthetic",
-    "first_500_words": "State California M morandu To : Advice File Date Nov. 14, 1979 from fAIR POLITICAL PRACTICES COMMISSION Sarah Cameron S<:- Effect of Supreme Court's decision in IGA I got a call today from Thad Howard in Speaker ~cCarthy's Los Angeles Office. He said McCarthy was getting ready to send out a solicitation letter signed by several labor leaders, including John Henning, who is a registered lobbyist. He asked if there was any problem with this in light of IGA. I told him that our application for a stay of the Court's decision was still pending so that the decision is in effect and consequently the affected provisions of the Act are not. Therefore, it is not illegal to do this. He asked what would happen if the stay is later granted - would there be any retroactive effect to the stay_ I said no, that actions taken during the period that the decision was in effect would still be legal, but that of course they would have to stop using the letter or taking any other action in violation of the sections which would be put back into effect by the stay_",
+    "first_500_words": "State of California Memorandum To : Advice File Date : Nov. 14, 1979 From : FAIR POLITICAL PRACTICES COMMISSION Sarah Cameron Subject: Effect of Supreme Court's decision in IGA I got a call today from Thad Howard in Speaker McCarthy's Los Angeles Office. He said McCarthy was getting ready to send out a solicitation letter signed by several labor leaders, including John Henning, who is a registered lobbyist. He asked if there was any problem with this in light of IGA. I told him that our application for a stay of the Court's decision was still pending so that the decision is in effect and consequently the affected provisions of the Act are not. Therefore, it is not illegal to do this. He asked what would happen if the stay is later granted - would there be any retroactive effect to the stay. I said no, that actions taken during the period that the decision was in effect would still be legal, but that of course they would have to stop using the letter or taking any other action in violation of the sections which would be put back into effect by the stay.",
     "summary": "Internal FPPC memorandum documenting a telephone advice call regarding whether a labor leader and registered lobbyist can sign a solicitation letter for Speaker McCarthy in light of the Supreme Court's IGA decision affecting the Political Reform Act."
   }
 }

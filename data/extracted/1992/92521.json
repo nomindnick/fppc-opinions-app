@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1992&tagCount=1&page=100"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:35:20.635369Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-19T19:21:07.367818Z",
     "page_count": 1,
-    "word_count": 122,
-    "char_count": 738,
-    "quality_score": 0.5975,
+    "word_count": 108,
+    "char_count": 707,
+    "quality_score": 0.8707348583877995,
     "olmocr_cost": null,
-    "native_word_count": 122
+    "native_word_count": 122,
+    "haiku_cost": 0.0020792000000000002
   },
   "content": {
-    "full_text": "I\noctober 1, 1992\nBlanca Breeze\nCouncil Legal Division \nFPPC\noci 0 rr i992\nRe: Becky Rishe Candidate Rohnert Park Clty Council\nCalifornia Community Development & Housing Act'/\nRedevelopment Agencies/Conflict of I nteres t\nDear Ms. Breeze:\nThis comes to request a written documentation per our\nconversation Thursday, October 7,7992, regarding any\nconflict of interest with a community development loan I\nreceived in late 1990 and rny attaining council status in\nt992 .\nI thank you very much for your time and energies in\nhelping me clear this grey area'\nEnclosed please find a stamped self addressed envelope\nand again thank you for being there and returning my call so\nprompt lY .\n\\ \nYor.,t\" s incererY '\n@.q{&L\nBecky Rishe\nBR,/enclosure\n",
+    "full_text": "October 1, 1992\n\nBianca Breeze\nCouncil Legal Division FPPC\n\nRe: Becky Rishe Candidate Rohnert Park City Council\nCalifornia Community Development & Housing Act/\nRedevelopment Agencies/Conflict of Interest\n\nDear Ms. Breeze:\n\nThis comes to request a written documentation per our\nconversation Thursday, October 1,1992, regarding any\nconflict of interest with a community development loan I\nreceived in late 1990 and my attaining council status in\n1992.\n\nI thank you very much for your time and energies in\nhelping me clear this grey area.\n\nEnclosed please find a stamped self addressed envelope\nand again thank you for being there and returning my call so\npromptly.\n\nYours sincerely,\n\nBecky Rishe\n\nBR/enclosure",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "QUESTION: Regarding any conflict of interest with a community development loan I received in late 1990 and my attaining council status in 1992.",
     "qa_source": "mixed",
-    "first_500_words": "I october 1, 1992 Blanca Breeze Council Legal Division FPPC oci 0 rr i992 Re: Becky Rishe Candidate Rohnert Park Clty Council California Community Development & Housing Act'/ Redevelopment Agencies/Conflict of I nteres t Dear Ms. Breeze: This comes to request a written documentation per our conversation Thursday, October 7,7992, regarding any conflict of interest with a community development loan I received in late 1990 and rny attaining council status in t992 . I thank you very much for your time and energies in helping me clear this grey area' Enclosed please find a stamped self addressed envelope and again thank you for being there and returning my call so prompt lY . \\ Yor.,t\" s incererY ' @.q{&L Becky Rishe BR,/enclosure",
+    "first_500_words": "October 1, 1992 Bianca Breeze Council Legal Division FPPC Re: Becky Rishe Candidate Rohnert Park City Council California Community Development & Housing Act/ Redevelopment Agencies/Conflict of Interest Dear Ms. Breeze: This comes to request a written documentation per our conversation Thursday, October 1,1992, regarding any conflict of interest with a community development loan I received in late 1990 and my attaining council status in 1992. I thank you very much for your time and energies in helping me clear this grey area. Enclosed please find a stamped self addressed envelope and again thank you for being there and returning my call so promptly. Yours sincerely, Becky Rishe BR/enclosure",
     "summary": "Becky Rishe, a candidate for Rohnert Park City Council, requests written documentation from FPPC regarding potential conflicts of interest between a community development loan she received in late 1990 and her 1992 council candidacy."
   }
 }

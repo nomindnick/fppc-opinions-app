@@ -14,17 +14,19 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1992&tagCount=1&page=65"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:35:17.717319Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-19T20:20:39.042811Z",
     "page_count": 2,
-    "word_count": 199,
-    "char_count": 1189,
-    "quality_score": 0.5975,
+    "word_count": 197,
+    "char_count": 1207,
+    "quality_score": 0.8757192340767451,
     "olmocr_cost": null,
-    "native_word_count": 199
+    "native_word_count": 199,
+    "haiku_cost": 0.0041184,
+    "commentary_stripped_at": "2026-04-17T13:37:55.611606Z"
   },
   "content": {
-    "full_text": "@\\e $unicipa[ 6nwt\niaoirx couNTY JuDrcral. Draiilcl\ntr! touiH xtl.iotloilvE\nvrtYl. ga eao.t-aatt \n' ' ; t \n;, .. \ni\nApril 13, 1992\nFair Political Practices Commission\nP.O. Box 807\nSacramento, CA 958(X-0807\nDear Sir or Madame:\nSharon l-ear, the Assistant Court Administrator for the North County Municipal Court\nspoke with Wayne Imberie of your office on April 9, 1992. In that conversation, she made\ninquiry as to whether or not a person need report gifts in the form of entertainment or otherwise\narising from a dating relationship.\nMr. Imberie stated that so long as the gifts emanated from a 'bonafide' dating\nrelationship, said gifts would be exempt from the reporting requirements.\nApparently, there is a letter from 1989 addressing this issue and, if I specifically\nrequested same, it would be forwarded to me. I am making a formal request for that letter so\nthat I will be protected in the future if there are any questions pertaining to reporting of gifts\nunder this situation.\nIf you have any questions please contact me or Ms. Lear at the above address or\ntelephone number.\nVery truly yours,\nMARGUERITE L, WAGNER\nJUD('I\n**z,xa),\nlgner,Iudge f\nCourt\nMLWrjc\ncc: Ms. Sharon I-ear\n\n\n",
+    "full_text": "The Municipal Court\n\nNORTH COUNTY JUDICIAL DISTRICT\n328 SOUTH MELROSE DRIVE\nVISTA, CA 92083-6893\n\nMARGUERITE L. WAGNER\nJUDGE\n\nApril 13, 1992\n\n\nFair Political Practices Commission\nP.O. Box 807\nSacramento, CA 95804-0807\n\nDear Sir or Madame:\n\nSharon Lear, the Assistant Court Administrator for the North County Municipal Court spoke with Wayne Imberie of your office on April 9, 1992. In that conversation, she made inquiry as to whether or not a person need report gifts in the form of entertainment or otherwise arising from a dating relationship.\n\nMr. Imberie stated that so long as the gifts emanated from a \"bonafide\" dating relationship, said gifts would be exempt from the reporting requirements.\n\nApparently, there is a letter from 1989 addressing this issue and, if I specifically requested same, it would be forwarded to me. I am making a formal request for that letter so that I will be protected in the future if there are any questions pertaining to reporting of gifts under this situation.\n\nIf you have any questions please contact me or Ms. Lear at the above address or telephone number.\n\nVery truly yours,\n\nMarguerite L. Wagner, Judge\nNorth County Municipal Court\n\nML/rjc\n\ncc: Ms. Sharon Lear\n\n",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +67,7 @@
   "embedding": {
     "qa_text": "QUESTION: The inquiry concerns whether gifts from a bonafide dating relationship must be reported under FPPC gift disclosure requirements.",
     "qa_source": "synthetic",
-    "first_500_words": "@\\e $unicipa[ 6nwt iaoirx couNTY JuDrcral. Draiilcl tr! touiH xtl.iotloilvE vrtYl. ga eao.t-aatt ' ' ; t ;, .. i April 13, 1992 Fair Political Practices Commission P.O. Box 807 Sacramento, CA 958(X-0807 Dear Sir or Madame: Sharon l-ear, the Assistant Court Administrator for the North County Municipal Court spoke with Wayne Imberie of your office on April 9, 1992. In that conversation, she made inquiry as to whether or not a person need report gifts in the form of entertainment or otherwise arising from a dating relationship. Mr. Imberie stated that so long as the gifts emanated from a 'bonafide' dating relationship, said gifts would be exempt from the reporting requirements. Apparently, there is a letter from 1989 addressing this issue and, if I specifically requested same, it would be forwarded to me. I am making a formal request for that letter so that I will be protected in the future if there are any questions pertaining to reporting of gifts under this situation. If you have any questions please contact me or Ms. Lear at the above address or telephone number. Very truly yours, MARGUERITE L, WAGNER JUD('I **z,xa), lgner,Iudge f Court MLWrjc cc: Ms. Sharon I-ear",
+    "first_500_words": "The Municipal Court NORTH COUNTY JUDICIAL DISTRICT 328 SOUTH MELROSE DRIVE VISTA, CA 92083-6893 MARGUERITE L. WAGNER JUDGE April 13, 1992 Fair Political Practices Commission P.O. Box 807 Sacramento, CA 95804-0807 Dear Sir or Madame: Sharon Lear, the Assistant Court Administrator for the North County Municipal Court spoke with Wayne Imberie of your office on April 9, 1992. In that conversation, she made inquiry as to whether or not a person need report gifts in the form of entertainment or otherwise arising from a dating relationship. Mr. Imberie stated that so long as the gifts emanated from a \"bonafide\" dating relationship, said gifts would be exempt from the reporting requirements. Apparently, there is a letter from 1989 addressing this issue and, if I specifically requested same, it would be forwarded to me. I am making a formal request for that letter so that I will be protected in the future if there are any questions pertaining to reporting of gifts under this situation. If you have any questions please contact me or Ms. Lear at the above address or telephone number. Very truly yours, Marguerite L. Wagner, Judge North County Municipal Court ML/rjc cc: Ms. Sharon Lear",
     "summary": "This is an incoming request letter from a North County Municipal Court Judge requesting a copy of a 1989 FPPC advice letter regarding the exemption from gift reporting requirements for gifts arising from bonafide dating relationships, following a phone conversation between court staff and FPPC staff."
   }
 }

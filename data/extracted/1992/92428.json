@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1992&tagCount=1&page=87"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:35:19.311542Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-19T22:11:01.821119Z",
     "page_count": 1,
-    "word_count": 125,
-    "char_count": 759,
-    "quality_score": 0.515,
+    "word_count": 120,
+    "char_count": 744,
+    "quality_score": 0.8810351731601732,
     "olmocr_cost": null,
-    "native_word_count": 125
+    "native_word_count": 125,
+    "haiku_cost": 0.0020632000000000003
   },
   "content": {
-    "full_text": "lr\nJrrJy 24, 1992\nFair Political Practices Commission\nPost Office Box 807\nSacramento, CA 95804\nDear Commissioners:\nI was elected Mayor of the City of Roseville in November of 1989.\nWithin a few months, my election committee was closed and all\nbusiness correspondence completed.\nIn 1992, I received a Ietter from the Sacramento Bee Neighbors\nstating I had a $204.46 credit. My former treasurer and I closed our\nBee account 3 years earlier and was surprised to receive this notice.\nI called the paper and was informed the credit could be taken in\ncheck form.\nWhat is the proper procedure for me to follow regarding reporting the\nrecent information on the advertising credit,\nSincerely,\nPr\"U.-Q*^r\"- t\nPauline Roccucci, Councilmember\nCity of Roseville\nPR/mb\n?\n:\n",
+    "full_text": "July 24, 1992\n\n\nFair Political Practices Commission\nPost Office Box 807\nSacramento, CA 95804\n\nDear Commissioners:\n\nI was elected Mayor of the City of Roseville in November of 1989. Within a few months, my election committee was closed and all business correspondence completed.\n\nIn 1992, I received a letter from the Sacramento Bee Neighbors stating I had a $204.46 credit. My former treasurer and I closed our Bee account 3 years earlier and was surprised to receive this notice. I called the paper and was informed the credit could be taken in check form.\n\nWhat is the proper procedure for me to follow regarding reporting the recent information on the advertising credit.\n\nSincerely,\n\nPauline Roccucci, Councilmember\nCity of Roseville\n\nPR/mb",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "QUESTION: What is the proper procedure for me to follow regarding reporting the recent information on the advertising credit?",
     "qa_source": "mixed",
-    "first_500_words": "lr JrrJy 24, 1992 Fair Political Practices Commission Post Office Box 807 Sacramento, CA 95804 Dear Commissioners: I was elected Mayor of the City of Roseville in November of 1989. Within a few months, my election committee was closed and all business correspondence completed. In 1992, I received a Ietter from the Sacramento Bee Neighbors stating I had a $204.46 credit. My former treasurer and I closed our Bee account 3 years earlier and was surprised to receive this notice. I called the paper and was informed the credit could be taken in check form. What is the proper procedure for me to follow regarding reporting the recent information on the advertising credit, Sincerely, Pr\"U.-Q*^r\"- t Pauline Roccucci, Councilmember City of Roseville PR/mb ? :",
+    "first_500_words": "July 24, 1992 Fair Political Practices Commission Post Office Box 807 Sacramento, CA 95804 Dear Commissioners: I was elected Mayor of the City of Roseville in November of 1989. Within a few months, my election committee was closed and all business correspondence completed. In 1992, I received a letter from the Sacramento Bee Neighbors stating I had a $204.46 credit. My former treasurer and I closed our Bee account 3 years earlier and was surprised to receive this notice. I called the paper and was informed the credit could be taken in check form. What is the proper procedure for me to follow regarding reporting the recent information on the advertising credit. Sincerely, Pauline Roccucci, Councilmember City of Roseville PR/mb",
     "summary": "Incoming letter from Pauline Roccucci, Councilmember of Roseville, requesting FPPC guidance on proper reporting procedures for an unexpected $204.46 advertising credit from the Sacramento Bee, nearly three years after her election committee was closed."
   }
 }

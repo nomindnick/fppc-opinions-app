@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2014&tagCount=1&page=18"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:33:34.440890Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-23T23:12:28.634171Z",
     "page_count": 1,
-    "word_count": 209,
-    "char_count": 1365,
-    "quality_score": 0.7175,
+    "word_count": 210,
+    "char_count": 1410,
+    "quality_score": 0.8938342991968518,
     "olmocr_cost": null,
-    "native_word_count": 209
+    "native_word_count": 209,
+    "haiku_cost": 0.002816
   },
   "content": {
-    "full_text": "FAIR POLITICAL PRACTICES COMMISSION \n428 J Street • Suite 620 • Sacramento, CA 95814-2329 \nAjay Shah \nAssociate \nOlivarez Madruga, P.C. \n1100 S Flower Street, Suite 2200 \nLos Angeles, CA 90015 \nRe: \nYour Request for Advice \nOur File No. W-14-077 \nDear Mr. Shah: \n(916) 322-5660 • Fax (916) 3224)886 \nApril 30, 2014 \nThis correspondence is written confirmation that the Fair Political Practices Commission \nhas withdrawn your April 24, 2014, request for formal advice under the provisions of the \nPolitical Reform Act.1 As you approved by telephone on April 29, 2014, we have provided \nemail assistance in lieu of formal advice. Consequently, no formal response will be prepared, \nand your request for formal advice is withdrawn. \nIf you have other questions on this matter, please contact me at (916) 322-5660. \nBGL:jgl \nSincerely, \nZackery P. Morazzini \nGeneral Counsel \nBy: \nBrian G. Lau \nCounsel, Legal Division \n1 The Political Reform Act is contained in Government Code Sections 81000 through 91014. All statutory \nreferences arc to the Government Code, unless otherwise indicated. The regulations of the Fair Political Practices \nCommission are contained in Sections 18110 through 18997 of Title 2 of the California Code of Regulations. All \nregulatory references arc to Title 2, Division 6 of the California Code of Regulations, unless otherwise indicated. \n",
+    "full_text": "FAIR POLITICAL PRACTICES COMMISSION\n428 J Street • Suite 620 • Sacramento, CA 95814-2329\n(916) 322-5660 • Fax (916) 322-0886\n\nApril 30, 2014\n\n\nAjay Shah\nAssociate\nOlivarez Madruga, P.C.\n1100 S Flower Street, Suite 2200\nLos Angeles, CA 90015\n\nRe:     Your Request for Advice\n        Our File No. W-14-077\n\nDear Mr. Shah:\n\n     This correspondence is written confirmation that the Fair Political Practices Commission has withdrawn your April 24, 2014, request for formal advice under the provisions of the Political Reform Act.¹ As you approved by telephone on April 29, 2014, we have provided email assistance in lieu of formal advice. Consequently, no formal response will be prepared, and your request for formal advice is withdrawn.\n\nIf you have other questions on this matter, please contact me at (916) 322-5660.\n\nSincerely,\n\nZackery P. Morazzini\nGeneral Counsel\n\nBy:     Brian G. Lau\n        Counsel, Legal Division\n\nBGL:jgl\n\n_________________________________\n\n¹ The Political Reform Act is contained in Government Code Sections 81000 through 91014. All statutory references are to the Government Code, unless otherwise indicated. The regulations of the Fair Political Practices Commission are contained in Sections 18110 through 18997 of Title 2 of the California Code of Regulations. All regulatory references are to Title 2, Division 6 of the California Code of Regulations, unless otherwise indicated.",
     "full_text_markdown": null
   },
   "parsed": {
@@ -67,7 +68,7 @@
   "embedding": {
     "qa_text": "QUESTION: The requester submitted a formal advice request on April 24, 2014, regarding an unspecified matter under the Political Reform Act.\n\nCONCLUSION: The FPPC withdrew the formal advice request at the requester's approval, as email assistance was provided instead of formal advice.",
     "qa_source": "synthetic",
-    "first_500_words": "FAIR POLITICAL PRACTICES COMMISSION 428 J Street • Suite 620 • Sacramento, CA 95814-2329 Ajay Shah Associate Olivarez Madruga, P.C. 1100 S Flower Street, Suite 2200 Los Angeles, CA 90015 Re: Your Request for Advice Our File No. W-14-077 Dear Mr. Shah: (916) 322-5660 • Fax (916) 3224)886 April 30, 2014 This correspondence is written confirmation that the Fair Political Practices Commission has withdrawn your April 24, 2014, request for formal advice under the provisions of the Political Reform Act.1 As you approved by telephone on April 29, 2014, we have provided email assistance in lieu of formal advice. Consequently, no formal response will be prepared, and your request for formal advice is withdrawn. If you have other questions on this matter, please contact me at (916) 322-5660. BGL:jgl Sincerely, Zackery P. Morazzini General Counsel By: Brian G. Lau Counsel, Legal Division 1 The Political Reform Act is contained in Government Code Sections 81000 through 91014. All statutory references arc to the Government Code, unless otherwise indicated. The regulations of the Fair Political Practices Commission are contained in Sections 18110 through 18997 of Title 2 of the California Code of Regulations. All regulatory references arc to Title 2, Division 6 of the California Code of Regulations, unless otherwise indicated.",
+    "first_500_words": "FAIR POLITICAL PRACTICES COMMISSION 428 J Street • Suite 620 • Sacramento, CA 95814-2329 (916) 322-5660 • Fax (916) 322-0886 April 30, 2014 Ajay Shah Associate Olivarez Madruga, P.C. 1100 S Flower Street, Suite 2200 Los Angeles, CA 90015 Re: Your Request for Advice Our File No. W-14-077 Dear Mr. Shah: This correspondence is written confirmation that the Fair Political Practices Commission has withdrawn your April 24, 2014, request for formal advice under the provisions of the Political Reform Act.¹ As you approved by telephone on April 29, 2014, we have provided email assistance in lieu of formal advice. Consequently, no formal response will be prepared, and your request for formal advice is withdrawn. If you have other questions on this matter, please contact me at (916) 322-5660. Sincerely, Zackery P. Morazzini General Counsel By: Brian G. Lau Counsel, Legal Division BGL:jgl _________________________________ ¹ The Political Reform Act is contained in Government Code Sections 81000 through 91014. All statutory references are to the Government Code, unless otherwise indicated. The regulations of the Fair Political Practices Commission are contained in Sections 18110 through 18997 of Title 2 of the California Code of Regulations. All regulatory references are to Title 2, Division 6 of the California Code of Regulations, unless otherwise indicated.",
     "summary": "The FPPC confirms withdrawal of Ajay Shah's April 24, 2014 formal advice request, as email assistance was provided in lieu of formal written advice."
   }
 }

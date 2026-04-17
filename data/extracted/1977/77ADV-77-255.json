@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/1977&tagCount=1&page=34"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-06T18:37:15.465422Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-19T23:06:00.688858Z",
     "page_count": 1,
-    "word_count": 118,
-    "char_count": 759,
-    "quality_score": 0.515,
+    "word_count": 122,
+    "char_count": 813,
+    "quality_score": 0.8358833333333333,
     "olmocr_cost": null,
-    "native_word_count": 118
+    "native_word_count": 118,
+    "haiku_cost": 0.0020759999999999997
   },
   "content": {
-    "full_text": "State of Ca!cifornia \nMemorandum \nTo \nAdvice Files \nDate \n1-3-77 \nFrom \nFAIR POLITICAL PRACTICES COMMISSION \nDawn \nSubject: \nOn 1-3-77, Lori from Roberti's Office called and asked if \nmagazines Roberti received are reportable gifts pursuant \nto the Political Reform Act. \nAfter checking with Gina \nand Ken F., I called Lori and informed her that the interim \nadvice is that if the magazine is of a trade or professional \nnature and therefore provides informational material it is \nnot reportable. \nHowever, if the magazine is pleasure oriented \nsuch as Playboy, then it is considered a gift and is reportable. \nShe indicated that the Senator received Christian Science \nMonitor and she felt that it is a professional magazine which \nwould not be reportable. \n",
+    "full_text": "State of California\n\nMemorandum\n\nTo : Advice Files                                  Date : 1-3-77\n\nFrom : FAIR POLITICAL PRACTICES COMMISSION          77-01-235\n        Dawn\n\nSubject:\n\n        On 1-3-77, Lori from Roberti's Office called and asked if\nmagazines Roberti received are reportable gifts pursuant\nto the Political Reform Act. After checking with Gina\nand Ken F., I called Lori and informed her that the interim\nadvice is that if the magazine is of a trade or professional\nnature and therefore provides informational material it is\nnot reportable. However, if the magazine is pleasure oriented\nsuch as Playboy, then it is considered a gift and is reportable.\nShe indicated that the Senator received Christian Science\nMonitor and she felt that it is a professional magazine which\nwould not be reportable.",
     "full_text_markdown": null
   },
   "parsed": {
@@ -65,7 +66,7 @@
   "embedding": {
     "qa_text": "QUESTION: Are magazines received by a public official reportable gifts under the Political Reform Act, and does the nature of the magazine (trade/professional versus pleasure-oriented) affect reportability?\n\nCONCLUSION: Trade or professional magazines providing informational material are not reportable gifts, while pleasure-oriented magazines such as Playboy are considered reportable gifts. The Christian Science Monitor, being a professional magazine, would not be reportable.",
     "qa_source": "synthetic",
-    "first_500_words": "State of Ca!cifornia Memorandum To Advice Files Date 1-3-77 From FAIR POLITICAL PRACTICES COMMISSION Dawn Subject: On 1-3-77, Lori from Roberti's Office called and asked if magazines Roberti received are reportable gifts pursuant to the Political Reform Act. After checking with Gina and Ken F., I called Lori and informed her that the interim advice is that if the magazine is of a trade or professional nature and therefore provides informational material it is not reportable. However, if the magazine is pleasure oriented such as Playboy, then it is considered a gift and is reportable. She indicated that the Senator received Christian Science Monitor and she felt that it is a professional magazine which would not be reportable.",
+    "first_500_words": "State of California Memorandum To : Advice Files Date : 1-3-77 From : FAIR POLITICAL PRACTICES COMMISSION 77-01-235 Dawn Subject: On 1-3-77, Lori from Roberti's Office called and asked if magazines Roberti received are reportable gifts pursuant to the Political Reform Act. After checking with Gina and Ken F., I called Lori and informed her that the interim advice is that if the magazine is of a trade or professional nature and therefore provides informational material it is not reportable. However, if the magazine is pleasure oriented such as Playboy, then it is considered a gift and is reportable. She indicated that the Senator received Christian Science Monitor and she felt that it is a professional magazine which would not be reportable.",
     "summary": "FPPC memorandum documenting interim advice provided to Senator Roberti's office regarding whether magazines received by the Senator constitute reportable gifts under the Political Reform Act."
   }
 }

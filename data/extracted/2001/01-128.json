@@ -14,17 +14,18 @@
     "source_page_url": "https://fppc.ca.gov/advice/advice-opinion-search.html?SearchTerm=&tag1=/etc/tags/fppc/year/2001&tagCount=1&page=15"
   },
   "extraction": {
-    "method": "native",
-    "extracted_at": "2026-02-07T16:16:42.823527Z",
+    "method": "haiku_vision",
+    "extracted_at": "2026-03-19T21:49:20.092090Z",
     "page_count": 1,
-    "word_count": 162,
-    "char_count": 1004,
-    "quality_score": 0.6675,
+    "word_count": 166,
+    "char_count": 1061,
+    "quality_score": 0.873596454992904,
     "olmocr_cost": null,
-    "native_word_count": 162
+    "native_word_count": 162,
+    "haiku_cost": 0.002564
   },
   "content": {
-    "full_text": "Re:\nF,q,In Porrrrc.tr, Pnacrlcgs ConrvrrssloN\nP.O. Box 807 . 428 J Street . Sacramento, CA 95812-0807\n(916) 322-5660 . Fax (916) 322-0886\nJune 5, 2001\nLenna J. Tanner, City Clerk\nCity of Chino\n13220 Central Avenue\nChino, CA91709\nYour Request for Advice\nOur File No. G-0f-128\nDear Ms. Tanner\nAlso enclosed is a pamphlet entitled, \"canr vote? A conflict of Interest\noverview\" which may provide you general assistance in this area of the law.\nShould you have any additional questions, please contact me at (916) 322-5660\nVery truly yours,\nMenchaca\noan Giannetta\nSecretary, Legal Division\ntie\nEnclosures\n1 Government Code sections 81000 - 91014. Commission regulations appear at Title 2, sections\n18109-18997, of the Califomia Code of Regulations.\nThis letter is in response to your request for advice regarding the provisions of the\nPolitical Reform Act (the \"Act\").' The Fair Political Practices Commission does not\nrender advice on past conduct. I enclose a copy of Regulati on 18329 for your review.\nffi\n",
+    "full_text": "FAIR POLITICAL PRACTICES COMMISSION\nP.O. Box 807 • 428 J Street • Sacramento, CA 95812-0807\n(916) 322-5660 • Fax (916) 322-0886\n\n\nJune 5, 2001\n\n\nLenna J. Tanner, City Clerk\nCity of Chino\n13220 Central Avenue\nChino, CA 91709\n\nRe: Your Request for Advice\nOur File No. G-01-128\n\nDear Ms. Tanner:\n\nThis letter is in response to your request for advice regarding the provisions of the Political Reform Act (the \"Act\").¹ The Fair Political Practices Commission does not render advice on past conduct. I enclose a copy of Regulation 18329 for your review.\n\nAlso enclosed is a pamphlet entitled, \"Can I Vote? A Conflict of Interest Overview\" which may provide you general assistance in this area of the law.\n\nShould you have any additional questions please contact me at (916) 322-5660.\n\nVery truly yours,\n\nLuisa Menchaca\nGeneral Counsel\n\nJoan Giannetta\nSecretary, Legal Division\n\n/jg\nEnclosures\n\n___________________________\n¹ Government Code sections 81000 – 91014. Commission regulations appear at Title 2, sections 18109-18997, of the California Code of Regulations.",
     "full_text_markdown": null
   },
   "parsed": {
@@ -69,7 +70,7 @@
   "embedding": {
     "qa_text": "QUESTION: The document appears to address a request for advice regarding the Political Reform Act and potential conflict of interest provisions, though the specific question is not clearly articulated in the provided text.\n\nCONCLUSION: The FPPC indicates it does not render advice on past conduct and directs the requestor to Regulation 18329 for guidance on the relevant legal framework.",
     "qa_source": "synthetic",
-    "first_500_words": "Re: F,q,In Porrrrc.tr, Pnacrlcgs ConrvrrssloN P.O. Box 807 . 428 J Street . Sacramento, CA 95812-0807 (916) 322-5660 . Fax (916) 322-0886 June 5, 2001 Lenna J. Tanner, City Clerk City of Chino 13220 Central Avenue Chino, CA91709 Your Request for Advice Our File No. G-0f-128 Dear Ms. Tanner Also enclosed is a pamphlet entitled, \"canr vote? A conflict of Interest overview\" which may provide you general assistance in this area of the law. Should you have any additional questions, please contact me at (916) 322-5660 Very truly yours, Menchaca oan Giannetta Secretary, Legal Division tie Enclosures 1 Government Code sections 81000 - 91014. Commission regulations appear at Title 2, sections 18109-18997, of the Califomia Code of Regulations. This letter is in response to your request for advice regarding the provisions of the Political Reform Act (the \"Act\").' The Fair Political Practices Commission does not render advice on past conduct. I enclose a copy of Regulati on 18329 for your review. ffi",
+    "first_500_words": "FAIR POLITICAL PRACTICES COMMISSION P.O. Box 807 • 428 J Street • Sacramento, CA 95812-0807 (916) 322-5660 • Fax (916) 322-0886 June 5, 2001 Lenna J. Tanner, City Clerk City of Chino 13220 Central Avenue Chino, CA 91709 Re: Your Request for Advice Our File No. G-01-128 Dear Ms. Tanner: This letter is in response to your request for advice regarding the provisions of the Political Reform Act (the \"Act\").¹ The Fair Political Practices Commission does not render advice on past conduct. I enclose a copy of Regulation 18329 for your review. Also enclosed is a pamphlet entitled, \"Can I Vote? A Conflict of Interest Overview\" which may provide you general assistance in this area of the law. Should you have any additional questions please contact me at (916) 322-5660. Very truly yours, Luisa Menchaca General Counsel Joan Giannetta Secretary, Legal Division /jg Enclosures ___________________________ ¹ Government Code sections 81000 – 91014. Commission regulations appear at Title 2, sections 18109-18997, of the California Code of Regulations.",
     "summary": "This is an FPPC advice letter responding to City Clerk Lenna J. Tanner's request regarding the Political Reform Act and conflict of interest matters. The FPPC clarifies its limitations regarding past conduct and provides regulatory references and educational materials."
   }
 }
